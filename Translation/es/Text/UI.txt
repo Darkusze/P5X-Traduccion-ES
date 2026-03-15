@@ -118,6 +118,15 @@ r:"{{A}} (\d+) m"="{{A}} $1 m"
 
 r:"Date received: ([0-9]+)-([0-9]+)-([0-9]+)"="Fecha de recepción: $3-$2-$1"
 
+r:"^\s+(\d+)\s+h\s+(\d+)\s+m\s+left"=" $1 h $2 m restantes"
+
+r:"Expires:\s+(\d+)\s+d\s+(\d+)\s+h"="Expira: $1 d $2 h"
+
+r:"^\s+(\d+)\s+d\s+(\d+)\s+h\s+has\s+been\s+unlocked\."=" $1 d $2 h se ha desbloqueado."
+
+r:"\s+(\d+) h (\d+) m has been unlocked\."="$1 h $2 m se ha desbloqueado."
+
+r:"\s+(\d+) m has been unlocked\."="$1 m se ha desbloqueado."
 ++-------------VA Character----------------++
 
 r:"^VA:\\s+(.+)$"="VA: $1"
@@ -537,7 +546,7 @@ r:"^Open\\s+(\\d+)\\s+treasure\\s+chests\\s+in\\s+the\\s+Museum\\s+Arc\\s+\\((\\
 r:"^Open\\s+(\\d+)\\s+treasure\\s+chests\\s+in\\s+the\\s+Bank\\s+Arc\\s+\\((\\d+)\\/(\\d+)\\)$"="Abre $1 cofres del tesoro en el Arco del Banco ($2/$3)"
 r:"^Get\\s+(\\d+)%\\s+progress\\s+in\\s+all\\s+Bank\\s+Arc\\s+stages\\s+\\((\\d+)\\/(\\d+)\\)$"="Consigue el $1% de progreso en todas las fases de Bank Arc ($2/$3)"
 r:"^Raise\\s+any\\s+Phantom\\s+Thief\\s+to\\s+level\\s+(\\d+)\\.\\s*<size\=30>\\((\\d+)\\/(\\d+)\\)</size>$"="Sube a cualquier Ladron Fantasma al nivel $1. <size\=30>($2/$3)</size>"
-r:"^Obtain\\s+the\\s+Phantom\\s+Idol\\s+(.+?)\\.\\s*<size\=30>\\((\\d+)\\/(\\d+)\\)</size>$"="Obtén al Idol Fantasma $1. <size\=30>($2/$3)</size>"
+r:"^Obtain\\s+the\\s+Phantom\\s+Idol\\s+(.+?)\\.\\s*<size\=30>\\((\\d+)\\/(\\d+)\\)</size>$"="Obtén al Ídolo Fantasma $1. <size\=30>($2/$3)</size>"
 r:"^Trigger\\s+less\\s+than\\s+(\\d+)\\s+switches\\s+\\((\\d+)\\/(\\d+)\\)$"="Activar menos de $1 interruptores ($2/$3)"
 r:"^(\\d+)\\s+left$"="Queda $1"
 r:"^Trading\\s+Card\\s+#(\\d+)$"="Carta coleccionable nº $1"
@@ -637,7 +646,7 @@ r:"A Persona named (.+?)\. It can be summoned during battle\."="Una Persona llam
 r:"Do you want to automatically trade for the remaining seals\?\nThis will cost Repression Medal III x(\d+)Repression Medal II x(\d+)Repression Medal IV x(\d+)\."="¿Quieres intercambiar automáticamente por los sellos restantes?\nEsto costará Medalla de Represión III x$1 Medalla de Represión II x$2 Medalla de Represión IV x$3."
 r:"(.+?) Synergy Set"="Conjunto de Sinergia de $1"
 r:"Go to Area (\d+)"="Ir al Área $1"
-r:"Area (\d+) Safe Room"="Área $1 Sala Segura"
+r:"Area (\d+) Safe Room"="Área $1 habitación segura"
 r:"Chemdah Ticket x(\d+) submitted\."="Chemdah Ticket x$1 enviado."
 r:"Can be obtained at Ticket {{A}}. (\d+)"="Se puede obtener en Ticket {{A}}. $1"
 r:"Obtain at Ticket Level (\d+)"="Consigue en el Nivel de Boleto $1"
@@ -662,10 +671,16 @@ r:"I feel a deep sense of trust\nbetween me and ([^ ]+)\."="Siento un profundo s
 r:"I'm about to enter a serious relationship with ([^ ]+) ([^ ]+)\."="Estoy a punto de entablar una relación seria con $1 $2."
 r:"I'm now in a relationship\nwith ([^ ]+)\.\.\."="Estoy ahora en una relación\ncon $1..."
 r:"Complete a task \(1/1\)"="Completa una tarea (1/1)"
+r:"{{A}} any <color\=(.+?)>previous Stellae</color> to unlock"="Complete cualquier <color\=$1>Estrella Previa</color>\npara desbloquear"
+r:"You will now earn more social stats the next two times you increase them through City Life at night\.<color\=(.+?)>\(Attempts Left: (\d+)\)</color>"="Ahora ganarás más estadísticas sociales las dos próximas veces que las aumentes a través de Vida Urbana por la noche. <color\=$1>(Intentos restantes: $2)</color>"
+r:"Raise\s+(.+?)\s+to\s+level\s+(\d+)\s+\((\d+)/(\d+)\)"="Sube a $1 al nivel $2 ($3/$4)"
+r:"(\d+)/(\d+) collected"=" $1/$2 recolectados"
+r:"Guaranteed to get the secret item within <color\=#FEFE60>\s*(\d+) draws</color>!"="Garantizado obtener el objeto secreto en <color\=#FEFE60> $1 invocaciones</color>!"
 ++------------Tycoon----------------++
 r:"Become Tycoon using Lufel (\d+) time\. \((\d+)/(\d+)\)"="Conviértete en Magnate usando a Lufel $1 vez. ($2/$3)"
 r:"Play a (.+?) card (\d+) times\. \((\d+)/(\d+)\)"="Juega una carta $1 $2 veces. ($3/$4)"
-
+r:"Play against ([^ ]+) and become Tycoon\. \((\d+)/(\d+)\)"="Juega contra $1 y conviértete en Magnate. ($2/$3)"
+r:"Play a pair (\d+) times\. \((\d+)/(\d+)\)"="Juega un par $1 veces. ($2/$3)"
 
 ++-------------UI Habitación Terciopelo-----------------++
 r:"^Fuse\s+(\d+)\s+Rank\s+(.+?)\s+Persona\s+of\s+(\d+).?\s*rarity\s*$"="Fusiona $1 Persona de rango $2 con rareza de $3★."
@@ -865,14 +880,16 @@ r:"^Highest\\s+Combo:\\s+(\\d+)$"="Combo más alto: $1"
 r:"^Targets\\s+Destroyed:\\s+(\\d+)$"="Objetivos destruidos: $1"
 r:"^Take\\s+down\\s+(\\d+)\\s+targets\\s*$"="Derriba $1 objetivos "
 r:"^Score\\s+(\\d+)\\s+pts\\s+or\\s+more\\s*$"="$1 puntos o más "
-r:"^Get\\s+a\\s+(\\d+)-shot\\s+combo\\s*$"="Consigue un combo de $1 disparos "
+r:"^Get\\s+a\\s+(\\d+)-shot\\s+combo\\s*$"="Combo de $1 disparos "
 r:"^Stage\\s+(\\d+)$"="Etapa $1"
 r:"^Earn\\s+a\\s+Bronze\\s+rating\\s+for\\s+stage\\s+Stage\\s+(\\d+)$"="Consigue una calificación de Bronce en la etapa Etapa $1"
 r:"^Unlimited\\s+ammo\\s+for\\s+(\\d+)\\s+s\\.\\s+Charge\\s+(\\d+)\\s+s\\.$"="Munición ilimitada $1 s. Carga $2 s."
 r:"^Unbreakable\\s+combo\\s+for\\s+(\\d+)\\s+s\\.\\s+Charge\\s+(\\d+)\\s+s\\.$"="Combo irrompible durante $1 s. Carga $2 s."
 r:"^(\\d+)x\\s+score\\s+for\\s+(\\d+)\\s+s\\.\\s+Charge\\s+(\\d+)\\s+s\\.$"="Puntuación $1x durante $2 s. Carga $3 s."
 r:"^Unlocks\\s+after\\s+clearing\\s+Stage\\s+(\\d+)$"="Se desbloquea al superar la fase $1"
-r:"^(Light|Medium)\\s+damage\\s+to\\s+all\\s+targets\\.\\s+Charge\\s+(\\d+)\\s+s\\.$"="Daño $1 a todos los objetivos. Carga $2 s."
+r:"Light damage to all targets\. Charge (\d+) s\."="Daño ligero a todos los objetivos. Carga $1 s."
+r:"Medium damage to all targets\. Charge (\d+) s\."="Daño medio a todos los objetivos. Carga $1 s."
+r:"(\d+) Cat Burglars will appear\. Charge (\d+) s\."="$1 Ladrones Gato aparecerán. Carga $2 s."
 r:"^Complete\\s+all\\s+Stage\\s+(\\d+)\\s+goals\\s+\\((\\d+)/(\\d+)\\)$"="Completar todos los objetivos de la Fase $1 ($2/$3)"
 r:"^Complete\\s+(\\d+)\\s+Stage\\s+(\\d+)\\s+goals\\s+\\((\\d+)/(\\d+)\\)$"="Completar $1 objetivos de la Fase $2 ($3/$4)"
 r:"^Complete\\s+a\\s+Stage\\s+(\\d+)\\s+goal\\s*$"="Completar un objetivo de la Fase $1"
@@ -978,12 +995,12 @@ r:"^{{A}} Stage (\d+) of Robo Challenge: Brawl Bots \((\d+)/(\d+)\)$"="{{A}} Eta
 r:"Plum Blossom Bookmark: (.+?)"="Marca de Flores de Ciruelo: $1"
 r:"Defeat the ruler of the Palace \((.+?)\)"="Derrota al gobernante del Palacio ($1)"
 r:"Free your teacher \((.+?)\)"="Libera a tu profesora ($1)"
-r:"Send the calling card \((.+?)\)"="Envía la tarjeta de presentación ($1)"
+r:"Send the calling card \((.+?)\)"="Envía el aviso ($1)"
 r:"Witness the change of heart \((.+?)\)"="Presencia el cambio de corazón ($1)"
 r:"Celebrate Ms. Katayama's return \((.+?)\)"="Celebra el regreso de la Srta. Katayama ($1)"
 r:"See the conclusion \((.+?)\)"="Ver el desenlace ($1)"
 r:"Reach ticket level (.+?) in Path of Chemdah \((.+?)\)"="Alcanza el nivel de boleto $1 en el Sendero de Chemdah ($2)"
-r:"Find (.+?) safe rooms in Path of Chemdah Area (.+?) \((.+?)\)"="Encuentra $1 salas seguras en el Sendero de Chemdah Área $2 ($3)"
+r:"Find (.+?) safe rooms in Path of Chemdah Area (.+?) \((.+?)\)"="Encuentra $1 habitaciones seguras en el Sendero de Chemdah Área $2 ($3)"
 r:"Open (.+?) treasure chests in Path of Chemdah Area (.+?) \((.+?)\)"="Abre $1 cofres del tesoro en el Sendero de Chemdah Área $2 ($3)"
 r:"Defeat a Treasure Demon in Path of Chemdah Area (.+?) \((.+?)\)"="Derrota a un Demonio del tesoro en el Sendero de Chemdah Área $1 ($2)"
 r:"Defeat a Depraved Shadow in Path of Chemdah Area (.+?) \((.+?)\)"="Derrota a una Sombra Depravada en el Sendero de Chemdah Área $1 ($2)"
@@ -1002,7 +1019,7 @@ r:"Gain (\d+) or more Choco(.+?)"="Consigue $1 o más Chocofuerza"
 r:"Reach (\d+) Valentine's Points with ([^ ]+)"="Alcanza $1 Puntos de San Valentín con $2"
 r:"Complete all Boss Battle Stage (\d+) goals"="Completa todos los objetivos de la Etapa $1 de batalla contra jefes"
 r:"Awarded for clearing Boss Battle: Stage (\d+) in Take Your Love\."="Otorgado por completar el combate contra el jefe: Etapa $1 en Toma tu Amor."
-
+r:"Complete (\d+) goals in Shooting Challenge \((\d+)/(\d+)\)"="Completa $1 metas en el Desafío de Tiro ($2/$3)"
 r:"Defense\s+Up\s+\(Requires\s+(\d+)\s+Choco{{A}}\):\s+Increase\s+Defense\s+by\s+([\d.]+)%.\s+Attack\s+Up\s+\(Requires\s+(\d+)\s+Choco{{A}}\):\s+Increase\s+Attack\s+by\s+([\d.]+)%.\s+HP\s+Up\s+\(Requires\s+(\d+)\s+Choco{{A}}\):\s+Increase\s+HP\s+by\s+([\d.]+)%.\s+Damage\s+Dealt\s+Up\s+\(Requires\s+(\d+)\s+Choco{{A}}\):\s+Increase\s+final\s+damage\s+by\s+([\d.]+)%\."="Defensa aumentada (Requiere $1 de Chocofuerza): Aumenta la Defensa un $2%.\nAtaque aumentado (Requiere $3 de Chocofuerza): Aumenta el Ataque un $4%.\nPS aumentados (Requiere $5 de Chocofuerza): Aumenta los PS un $6%.\nDaño infligido aumentado (Requiere $7 de Chocofuerza): Aumenta el daño final un $8%."
 
 r:"<color\=#FFFF00>Defense\s+Up\s+\(Requires\s+(\d+)\s+Choco{{A}}\):\s+Increase\s+Defense\s+by\s+([\d.]+)%.</color>\s+Attack\s+Up\s+\(Requires\s+(\d+)\s+Choco{{A}}\):\s+Increase\s+Attack\s+by\s+([\d.]+)%.\s+HP\s+Up\s+\(Requires\s+(\d+)\s+Choco{{A}}\):\s+Increase\s+HP\s+by\s+([\d.]+)%.\s+Damage\s+Dealt\s+Up\s+\(Requires\s+(\d+)\s+Choco{{A}}\):\s+Increase\s+final\s+damage\s+by\s+([\d.]+)%\."="<color\=#FFFF00>Defensa aumentada (Requiere $1 de Chocofuerza): Aumenta la Defensa un $2%.</color>\nAtaque aumentado (Requiere $3 de Chocofuerza): Aumenta el Ataque un $4%.\nPS aumentados (Requiere $5 de Chocofuerza): Aumenta los PS un $6%.\nDaño infligido aumentado (Requiere $7 de Chocofuerza): Aumenta el daño final un $8%."
@@ -1017,6 +1034,49 @@ r:"Reach (\d+) Valentine's Points for (\d+) characters \((\d+)/(\d+)\)"="Alcanza
 r:"Receive a confession from a character in Valentine Side Story \((\d+)/(\d+)\)"="Recibe una confesión de un personaje en la Historia de San Valentín ($1/$2)"
 r:"{{A}} Stage (\d+) in Valentine Boss Battle \((\d+)/(\d+)\)"="Completa la fase $1 en Batalla contra el Jefe de San Valentín ($2/$3)"
 r:"Reach (\d+) Valentine's Points for (\d+) characters and watch Date (\d+)"="Alcanza $1 Puntos de San Valentín con $2 personaje y observa la Cita $3"
+
+r:"Return the treasures to the tabby (\d+)/(\d+)"="Regresa los tesoros al gato atigrado $1/$2"
+
+r:"Get\s+(\d+)\s+Lunar\s+New\s+Year\s+exclusive\s+capsules\s+\((\d+)\/(\d+)\)"="Consigue $1 cápsulas exclusivas del Año Nuevo Lunar ($2/$3)"
+
+r:"Light\s+(\d+)\s+lanterns\s+in\s+Happy-Go-Lucky\s+Lions\s+\((\d+)\/(\d+)\)"="Enciende $1 faroles en Leones Felices ($2/$3)"
+
+r:"Complete\s+(\d+)\s+Challenge\s+Goals\s+\((\d+)\/(\d+)\)"="Completa $1 Metas de Desafío ($2/$3)"
+
+r:"Obtain\s+Bronze\s+in\s+Stage\s+(\d+)"="Obtén Bronce en el Escenario $1"
+
+r:"Obtain Silver in Stage (\d+)"="Obtén Plata en el Escenario $1"
+
+r:"Obtain Gold in Stage (\d+)"="Obtén Oro en el Escenario $1"
+
+r:"Obtain Platinum in Stage (\d+)"="Obtén Platino en el Escenario $1"
+
+r:"Defeat\s+(\d+)\s+targets\s"="Derrota $1 objetivos "
+
+1 damage to all targets every second for 3 s. Charge 30 s.=1 de daño a todos los objetivos cada segundo durante 3 s. Recarga 30 s.
+
+1 damage to all targets every second for 4 s. Charge 25 s.=1 de daño a todos los objetivos cada segundo durante 4 s. Recarga 25 s.
+
+1 Cat Burglar will appear. Charge 30 s.=Aparecerá 1 Ladrón Gato. Recarga: 30 s.
+
+2 Cat Burglars will appear. Charge 25 s.=Aparecerán 2 Ladrones Gato. Recarga 25 s.
+
+r:"<pos\=45>The final damage increase from True Dragon's Might is increased by (\d+)%\. Nian Shou's final Attack is increased by (\d+)%\."="<pos\=45>El aumento de daño final de Poder del Dragón Verdadero se incrementa un $1%. El Ataque final de Nian Shou aumenta un $2%."
+
+r:"<pos\=45>The healing from Nirvana is raised to (\d+)% of max HP, and {{A}}'s max HP is increased by (\d+)%\."="<pos\=45>La curación de Nirvana aumenta al $1% de los PS máx., y los PS máx. del Fénix aumentan un $2%."
+
+r:"<pos\=45>The healing from {{A}} Tears is increased by (\d+)%, and {{A}}'s final Attack is increased by (\d+)%\."="<pos\=45>La curación de Lágrimas de Fénix aumenta un $1%, y el Ataque final del Fénix aumenta un $2%."
+
+r:"<pos\=45>Every (\d+) stacks of {{A}}'s Influence are converted to (\d+) True Dragon's Might stack, and {{A}}'s max HP is increased by (\d+)%\."="<pos\=45>Cada $1 acumulaciones de Influencia de Kohryu se convierten en $2 acumulación de Poder del Dragón Verdadero, y los PS máx. de Kohryu aumentan un $3%."
+
+<pos\=45>Every 3 stacks of Phoenix's Hymn are converted to 1 Poder of Nirvana stack, and Phoenix's max HP is increased by 100%.=<pos\=45>Cada 3 acumulaciones de Himno del Fénix se convierten en 1 acumulación de Poder del Nirvana, y los PS máx. del Fénix aumentan un 100%.
+
+<pos\=45>Every 4 stacks of Phoenix's Hymn are converted to 1 Poder of Nirvana stack, and Phoenix's max HP is increased by 50%.=<pos\=45>Cada 3 acumulaciones de Himno del Fénix se convierten en 1 acumulación de Poder del Nirvana, y los PS máx. del Fénix aumentan un 50%.
+
+<pos\=45>Every 5 stacks of Phoenix's Hymn are converted to 1 Poder of Nirvana stack, and Phoenix's max HP is increased by 20%.=<pos\=45>Cada 3 acumulaciones de Himno del Fénix se convierten en 1 acumulación de Poder del Nirvana, y los PS máx. del Fénix aumentan un 20%.
+
+r:"<pos\=45>Collapse's damage dealt is increased by (\d+)%, and {{A}}'s final Attack is increased by (\d+)%\."="<pos\=45>El daño infligido de Colapso aumenta un $1%, y el Ataque final de Kohryu aumenta un $2%."
+
 
 ++-------------San valentín-----------------++
 r:"Do you want to spend Valentine's Day with <color\=#FF91B9>([^ ]+)</color>\?\nYou will receive special chocolate from the first person you chose, which you can display at home\.\n<color\=#FF91B9>\(You will not be able to receive special chocolate from other people\.\)</color>"="¿Quieres pasar el Día de San Valentín con <color\=#FF91B9>$1</color>?\nRecibirás chocolate especial de la primera persona que elegiste, que podrás exhibir en casa.\n<color\=#FF91B9>(No podrás recibir chocolate especial de otras personas.)</color>"
@@ -1079,6 +1139,8 @@ r:"(?s)1\.\s+(.*?)\s+possesses\s+powerful\s+<color\=#FF423F>support\s+capabiliti
 
 1. Seaside Tomoko has excellent <color\=#FF423F>healing and attack</color> capabilities.\nAfter inflicting a certain number of <color\=#FF423F>Sparks</color> on foes, she activates <color\=#FF423F>Summer Reminiscence</color>, dealing damage to enemies while also healing allies.\nTeam up with allies who use <color\=#FF423F>multi-target</color> or <color\=#FF423F>multi-hit</color> attacks to build up <color\=#FF423F>Sparks</color> quickly.\n2. She can increase her allies' <color\=#FF423F>Attack</color> and <color\=#FF423F>survivability</color>.\nShe can also reduce the damage dealt by enemies and increase their damage taken, giving her <color\=#FF423F>excellent support capability</color>.=1. Tomoko Costera tiene excelentes <color\=#FF423F>curación y ataque</color> capacidades. Después de infligir un cierto número de <color\=#FF423F>Chispas</color> sobre los enemigos, activa <color\=#FF423F>Recuerdos del verano</color> Inflige daño a los enemigos y cura a los aliados. Forma equipo con aliados que usen <color\=#FF423F>multiobjetivo</color> o <color\=#FF423F>multigolpes</color> ataques para acumular <color\=#FF423F>Chispas</color> rápidamente.\n2. Puede aumentar las estadísticas de sus aliados <color\=#FF423F>Ataque</color> y un <color\=#FF423F>la supervivencia</color>. También puede reducir el daño infligido por los enemigos y aumentar el daño recibido, lo que le confiere <color\=#FF423F>excelente capacidad de apoyo</color>.
 
+With powerful <color\=#FF423F>offensive capabilities</color>, Firecracker Yaoling can deal heavy Fire damage with her evolved melee attack <color\=#FF423F>Yanhua Slash</color>. This can also activate a <color\=#FF423F>Technical</color>, and on Burning foes, it increases the damage increase effect of Fireburn.\n2. She can inflict <color\=#FF423F>Burn</color> and <color\=#FF423F>Year-End Flames</color>, effectively dealing <color\=#FF423F>continuous damage</color> to all foes.=Con poderosas <color\=#FF423F>capacidades ofensivas</color>, Firecracker Yaoling puede infligir un gran daño de Fuego con su ataque cuerpo a cuerpo evolucionado <color\=#FF423F>Tajo Yanhua</color>. Esto también puede activar un Ataque <color\=#FF423F>Técnico</color> y, en enemigos quemados, aumenta el efecto de incremento de daño de Incendio.\n2. Puede infligir <color\=#FF423F>Quemadura</color> y <color\=#FF423F>Llamas de Fin de Año</color>, infligiendo eficazmente daño continuo a todos los enemigos.
+
 ++-------------Tutoriales Eventos-----------------++
 r:"(?s)<color\=#FFD145>Collecting Keywords</color>\n• In the mission Answer Sheet, join (.+?) to solve puzzles.*?• Drag the keywords to the correct place and complete the puzzle\."="<color\=#FFD145>Recopilación de palabras clave</color>\n• En la misión Hoja de respuestas, únete a $1 para resolver acertijos en una búsqueda del tesoro que pondrá a prueba tu ingenio. Durante el evento, puedes consultar tu hoja de respuestas para ver las palabras clave que has recopilado.\n• Puedes reunir las palabras clave en cualquier orden, pero solo puedes aceptar una misión de palabra clave a la vez.\n• Habrá más historia disponible cuando hayas reunido 3, 6 y 9 palabras clave. No podrás recolectar la siguiente palabra clave hasta que hayas completado la nueva historia.\n• Recibirás inmediatamente las recompensas por recopilar palabras clave tras completar cada misión. No es necesario volver a la hoja de respuestas para reclamarlas.\n\n<color\=#FFD145>Completar el acertijo</color>\n• Tras recopilar todas las palabras clave, deberás ponerlas en el orden correcto para formar una oración.\n• Arrastra las palabras clave al lugar correcto y completa el acertijo."
 
@@ -1102,7 +1164,7 @@ r:"1\. Every turn, (.+?) will attack Phantom Thieves who have a <color\=(.+?)>(.
 
 r:"Shadows have different weaknesses and resistances than normal\.\n1\. At the start of battle, (\d+) Shadows will appear\.\nWhen (\d+) Shadows have been defeated, the Shadows will leave and (.+?) will appear\.\n2\. When a Shadow is defeated, (.+?) will receive a buff, and (\d+) more of the same Shadow will reappear\.\n3\. If (.+?) is defeated, (.+?) receives the following effect: When using a skill, Attack is greatly increased\.\nLasts for (\d+) turns\. Stacks up to (\d+) times\.\n4\. If (.+?) is defeated, (.+?) receives the following effect: After attacking, all Phantom Thieves' damage taken is increased\.\nLasts for (\d+) turns\. Stacks up to (\d+) times\.\n5\. If (.+?) is defeated, (.+?) receives the following effect: When using a skill, it performs a follow-up attack on all Phantom Thieves\.\nStacks up to (\d+) times\."="Las Sombras tienen debilidades y resistencias diferentes a las normales.\n1. Al comienzo de la batalla, aparecerán $1 Sombras.\nCuando $2 Sombras hayan sido derrotadas, las Sombras se retirarán y aparecerá $3.\n2. Cuando una Sombra es derrotada, $4 recibirá una mejora y reaparecerá $5 más de la misma Sombra.\n3. Si $6 es derrotado, $7 recibe el siguiente efecto: Al usar una habilidad, el Ataque aumenta considerablemente.\nDura $8 turnos. Se acumula hasta $9 veces.\n4. Si $10 es derrotado, $11 recibe el siguiente efecto: Después de atacar, aumenta el daño recibido de todos los Phantom Thieves.\nDura $12 turnos. Se acumula hasta $13 veces.\n5. Si $14 es derrotado, $15 recibe el siguiente efecto: Al usar una habilidad, realiza un ataque de seguimiento contra todos los Phantom Thieves.\nSe acumula hasta $16 veces."
 
-r:"1\. (.+?) has extremely high HP\. When it receives (.+?) or (.+?) damage, it will summon (\d+) (.+?)\. It can perform summoning up to (\d+) times, and on the (\d+)th time, it will summon (\d+) (.+?)\.\n2\. When a (.+?) is defeated, (.+?)'s final damage taken will increase by (\d+)%\.\n3\. When a (.+?) is defeated, all Phantom Thieves will gain (.+?)\.\n(.+?): Final damage increases by (\d+)%\."="1. $1 tiene PS extremadamente altos. Cuando recibe daño de $2 o $3, invocará $4 $5. Puede realizar invocaciones hasta $6 veces, y en la $7.ª vez, invocará $8 $9.\n2. Cuando un $10 es derrotado, el daño final recibido por $11 aumentará en un $12%.\n3. Cuando un $13 es derrotado, todos los Ladrones Fantasmas obtendrán $14.\n$15: El daño final aumenta en un $16%."
+r:"1\. (.+?) has extremely high HP\. When it receives (.+?) or (.+?) damage, it will summon (\d+) (.+?)\. It can perform summoning up to (\d+) times, and on the (\d+)th time, it will summon (\d+) (.+?)\.\n2\. When a (.+?) is defeated, (.+?)'s final damage taken will increase by (\d+)%\.\n3\. When a (.+?) is defeated, all Phantom Thieves will gain (.+?)\.\n(.+?): Final damage increases by (\d+)%\."="1. $1 tiene PS extremadamente altos. Cuando recibe daño de $2 o $3, invocará $4 $5. Puede realizar invocaciones hasta $6 veces, y en la $7.ª vez, invocará $8 $9.\n2. Cuando un $10 es derrotado, el daño final recibido por $11 aumentará en un $12%.\n3. Cuando un $13 es derrotado, todos los Ladrones Fantasma obtendrán $14.\n$15: El daño final aumenta en un $16%."
 
 r:"1\. (.+?) has extremely high HP\. When it receives damage from each attribute for the first time, it will summon (\d+) (.+?)\. It can perform summoning up to (\d+) times, and on the (\d+)th time, it will summon (\d+) (.+?)\.\n2\. When a (.+?) is defeated, (.+?)'s final damage taken will increase by (\d+)%\.\n3\. When a (.+?) is defeated, all Phantom Thieves will gain (.+?)\.\n(.+?): Final damage increases by (\d+)%\."="1. $1 tiene PS extremadamente altos. Cuando recibe daño de cada atributo por primera vez, invocará $2 $3. Puede realizar invocaciones hasta $4 veces, y en la $5.ª vez, invocará $6 $7.\n2. Cuando un $8 es derrotado, el daño final recibido por $9 aumentará en un $10%.\n3. Cuando un $11 es derrotado, todos los Ladrones Fantasma obtendrán $12.\n$13: El daño final aumenta en un $14%."
 
@@ -1114,7 +1176,7 @@ r:"1\. During battle, (.+?) cannot be selected\. At the start of (.+?)'s turn, i
 
 Shadows have different weaknesses and resistances than normal.\n1. King Frost uses <color\=#FF423F>Ice Age</color> when defeated, dealing heavy damage and summoning 2 Black Frosts. Black Frosts on the field will be replaced with Jack Frost.\n2. Jack Frost and Black Frost's attacks inflict <color\=#FF423F>Chill</color>.\n3. Black Frost will immediately use Ice Age when defeated: Damage increases based on Chill stacks inflicted. Phantom Thieves with 2 or more stacks will also be inflicted with <color\=#FF423F>Weakness</color> for 1 turn.=Las Sombras tienen debilidades y resistencias distintas a las normales.\n1. King Frost usa <color\=#FF423F>Edad de Hielo</color> al ser derrotado, inflige daño pesado y convoca 2 Black Frosts. Los Black Frosts en el campo serán reemplazados por Jack Frost.\n2. Los ataques de Jack Frost y Black Frost inflijan <color\=#FF423F>Tranquilo</color>.\n3. Black Frost usará inmediatamente Era de Hielo al ser derrotado: el daño aumenta según las Acumulaciones de Frío infligidas. A los Ladrones Fantasma con 2 o más acumulaciones también se les aplicará <color\=#FF423F>Debilidad</color> durante 1 turno.
 
-r:"Shadows have different weaknesses and resistances than normal\.\n1\. Phantom Thieves will be inflicted with (\d+) <color\=#(.+?)>Chill</color> stacks when they do not deal damage during a turn\. Dealing damage removes (\d+) Chill stack\.\n2\. On even-numbered turns, (.+?) will summon a (.+?) if there are less than (\d+) (.+?)s present\. \5's attacks inflict Chill\.\n3\. Damage from \4's skills increases based on Chill stacks inflicted\. Phantom Thieves with (\d+) or more stacks will also be inflicted with <color\=#(.+?)>Weakness</color> for (\d+) turn\."="Las Sombras tienen debilidades y resistencias diferentes a las normales.\n1. Los Ladrones Fantasmas sufrirán $1 acumulaciones de <color\=#FF423F>Escalofríos</color> cuando no inflijan daño durante un turno. Infligir daño elimina $3 acumulación de Escalofríos.\n2. En los turnos pares, $4 invocará a un $5 si hay menos de $6 $7 presentes. Los ataques de $5 infligen Escalofríos.\n3. El daño de las habilidades de $4 aumenta según las acumulaciones de Escalofríos infligidas. Los Ladrones Fantasmas con $8 o más acumulaciones también sufrirán <color\=#$9>Debilidades</color> durante $10 turno."
+r:"Shadows have different weaknesses and resistances than normal\.\n1\. Phantom Thieves will be inflicted with (\d+) <color\=#(.+?)>Chill</color> stacks when they do not deal damage during a turn\. Dealing damage removes (\d+) Chill stack\.\n2\. On even-numbered turns, (.+?) will summon a (.+?) if there are less than (\d+) (.+?)s present\. \5's attacks inflict Chill\.\n3\. Damage from \4's skills increases based on Chill stacks inflicted\. Phantom Thieves with (\d+) or more stacks will also be inflicted with <color\=#(.+?)>Weakness</color> for (\d+) turn\."="Las Sombras tienen debilidades y resistencias diferentes a las normales.\n1. Los Ladrones Fantasma sufrirán $1 acumulaciones de <color\=#FF423F>Escalofríos</color> cuando no inflijan daño durante un turno. Infligir daño elimina $3 acumulación de Escalofríos.\n2. En los turnos pares, $4 invocará a un $5 si hay menos de $6 $7 presentes. Los ataques de $5 infligen Escalofríos.\n3. El daño de las habilidades de $4 aumenta según las acumulaciones de Escalofríos infligidas. Los Ladrones Fantasma con $8 o más acumulaciones también sufrirán <color\=#$9>Debilidades</color> durante $10 turno."
 
 
 ++-------------Planes de lufel-----------------++
@@ -1619,3 +1681,16 @@ r:"Decrease final damage taken by (\d+)%\."="Reduce el daño final recibido en u
 r:"Increase All-Out Attack power by (\d+)%\."="Aumenta el poder de All-Out Attack en un $1%."
 
 r:"Current Choco{{A}}: (\d+)"="Chocofuerza actual: $1"
+
+r:"Increase Fire dmg taken by ([\d.]+)%."="Aumenta el daño de Fire recibido en un $1%."
+
+r:"Increase dmg taken by ([\d.]+)% for next turn\."="Aumenta el daño recibido en $1% durante el próximo turno."
+
+r:"Increase\s+Atk\s+([\d\.]+)%\.\s+Increase\s+single-target\s+Ice\s+dmg\s+(\d+)%\."="Aumenta ATQ $1%. Aumenta daño de Hielo a un solo objetivo $2%."
+
+r:"Increase continuous damage taken by ([\d\.]+)%\."="Aumenta el daño continuo recibido en un $1%."
+
+Yanhua Slash: Increase Atk.=Tajo Yanhua: Aumenta ATQ.
+
+r:"Yanhua Slash: Increase dmg by ([\d.]+)%\."="Tajo Yanhua: Aumenta el daño en $1%."
+

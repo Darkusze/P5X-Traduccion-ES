@@ -98,6 +98,8 @@ r:"Increase critical damage by <color\=#2899FF>([\d.]+)%</color>\.\nAfter using 
 
 r:"Increase Attack by <color\=#2899FF>([\d.]+)%</color>\.\nWhen user restores SP with a skill, increase own critical damage by <color\=#2899FF>([\d.]+)%</color> for (\d+) turns\. Stacks up to (\d+) times\."="Aumenta el Ataque en <color\=#2899FF>$1%</color>.\nCuando el usuario restaura SP con una habilidad, aumenta su propio daño crítico en <color\=#2899FF>$2%</color> durante $3 turnos. Se acumula hasta $4 veces."
 
+r:"Increase Attack by <color\=#2899FF>([\d.]+)%</color>\.\nWhen Tempest Riko restores SP with a skill, increase her critical damage by <color\=#2899FF>([\d.]+)%</color> for (\d+) turns\. Stacks up to (\d+) times\."="Aumenta el Ataque en <color\=#2899FF>$1%</color>.\nCuando Tempest Riko restaura SP con una habilidad, aumenta su daño crítico en <color\=#2899FF>$2%</color> durante $3 turnos. Se acumula hasta $4 veces."
+
 r:"After using a skill, restore SP by <color\=#2899FF>(\d+)</color>\."="Después de usar una habilidad, restaura <color\=#2899FF>$1</color> SP."
 
 +--Tropical Motoha--+
@@ -288,4 +290,10 @@ r:"Increase Defense by <color\=#2899FF>([\d.]+)%</color>\. Each time a counterat
 
 r:"Decrease damage taken from <link\=(.+?)><u>Frozen</u></link> foes by <color\=#2899FF>([\d.]+)%</color>\."="Reduce el daño recibido de enemigos <link\=$1><u>Congelados</u></link> en un <color\=#2899FF>$2%</color>."
 
++--Firecracker Yaoling--+
 
+r:"Increase Attack by <color\=#2899FF>([\d.]+)%</color>\.\nWhen using <link\=(.+?)><u>Yanhua Slash</u></link>, increase Attack by <color\=#2899FF>([\d.]+)%</color>\."="Aumenta el Ataque en <color\=#2899FF>$1%</color>.\nAl usar <link\=$2><u>Tajo Yanhua</u></link>, aumenta el Ataque en <color\=#2899FF>$3%</color>."
+
+r:"When dealing continuous damage, increase damage by <color\=#2899FF>([\d.]+)%</color>\."="Al infligir daño continuo, aumenta el daño en <color\=#2899FF>$1%</color>."
+
+r:"Increase Attack by <color\=#2899FF>([\d.]+)%</color>\.\nWhen <link\=(.+?)><u>Flaming Sword Dance</u></link> is active, increase critical rate by <color\=#2899FF>([\d.]+)%</color>\.\nWhen a <link\=(.+?)><u>Fire Technical</u></link> is activated, increase that damage by <color\=#2899FF>([\d.]+)%</color>\."="Aumenta el Ataque en <color\=#2899FF>$1%</color>.\nCuando <link\=$2><u>Danza de la Espada Flamígera</u></link> está activa, aumenta la probabilidad de crítico en <color\=#2899FF>$3%</color>.\nCuando se activa una <link\=$4><u>Técnica de Fuego</u></link>, aumenta ese daño en <color\=#2899FF>$5%</color>."
