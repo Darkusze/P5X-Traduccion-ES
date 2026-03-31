@@ -426,6 +426,15 @@ r:"Gain Flaming Sword Dance \((\d+) turn\): Increase dmg ([\d.]+)%, evolve melee
 
 r:"Fire dmg to all foes \(([\d.]+)% Atk\)\.\nIncrease Firecracker {{A}}'s Atk ([\d.]+)%, and Yanhua Slash dmg ([\d.]+)% \((\d+) turns\)\."="Daño de Fuego a todos los enemigos ($1% ATQ).\nAumenta el ATQ de Firecracker Yaoling $2% y el daño del Tajo Yanhua $3% ($4 turnos)."
 
+++-------------Violet (Kasumi)-----------------++
+r:"Bless damage to (\d+) foe equal to ([\d.]+)% of Atk, and gain Lead Step\.\nIf this skill is activated by an ally with Dance Partner, deal Bless dmg to (\d+) foe equal to ([\d.]+)%, and gain (\d+) Lead Step\.\nLead Step stacks up to (\d+) times\."="Daño de Bendición a $1 enemigo igual al $2% del ATQ. y obtiene Paso de Iniciación.\nSi esta habilidad es activada por un aliado con Compañero de Baile, inflige daño de Bendición a $3 enemigo igual al $4% y obtiene $5 Paso de Iniciación.\nPaso de Iniciación se acumula hasta $6 veces."
+
+r:"Grant Dance Partner to (\d+) ally for (\d+) turn\. Only (\d+) ally may have Dance Partner at one time\.\nIncrease Atk of Kasumi and the selected ally by ([\d.]+)% for (\d+) turns\. Also, Kasumi gains Follow Step\. This effect does not stack\.\nWhen an ally with Dance Partner uses a skill, immediately activate Cinderella Glow (\d+) time on (\d+) random foe \(if the skill is activated on a foe, activate Cinderella Glow (\d+) time on that foe\)\."="Otorga Compañero de Baile a $1 aliado durante $2 turno. Solo $3 aliado puede tener Compañero de Baile a la vez.\nAumenta el ATQ. de Kasumi y del aliado seleccionado un $4% durante $5 turnos. Además, Kasumi obtiene Seguimiento de Paso. Este efecto no se acumula.\nCuando un aliado con Compañero de Baile usa una habilidad, activa inmediatamente Brillo de Cenicienta $6 vez sobre $7 enemigo al azar (si la habilidad se activa sobre un enemigo, activa Brillo de Cenicienta $8 vez sobre ese enemigo)."
+
+r:"Bless dmg to (\d+) foe equal to ([\d.]+)% of Atk\.\nWhen using this skill in Masquerade mode, increase skill dmg by (\d+)%, and crit dmg by ([\d.]+)%\."="Daño de Bendición a $1 enemigo igual al $2% del ATQ.\nAl usar esta habilidad en modo Mascarada, aumenta el daño de la habilidad un $3% y el daño crítico un $4%."
+
+r:"Bless dmg to (\d+) foe \(([\d.]+)% Atk\)\. Also, with Step, gain additional effects accordingly\.\nLead Step: Increase Highlight dmg (\d+)% per stack\.\nFollow Step: Increase Highlight crit rate (\d+)%, and crit dmg (\d+)%\."="Daño de Bendición a $1 enemigo ($2% del ATQ). Además, con Paso, obtiene efectos adicionales según corresponda.\nPaso de Iniciación: Aumenta el daño de Highlight un $3% por acumulación.\nSeguir el Paso: Aumenta la probaiblidad crítica de Highlight un $4% y el daño crítico un $5%."
+
 ++-------------Persona for Protagonist-----------------++
 
 r:"^Grant shield to party \\((\\d+\\.?\\d*)% Atk \\+ (\\d+), (\\d+) turns\\)\\. When shielded allies take dmg, (\\d+\\.?\\d*)% chance to inflict Windswept on attacker\\.$"="Otorga escudo al grupo ($1 % del ATK + $2, durante $3 turnos).\nCuando los aliados protegidos reciben daño, hay un $4 % de probabilidad de infligir Viento Cortante al atacante."

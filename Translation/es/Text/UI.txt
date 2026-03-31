@@ -127,6 +127,11 @@ r:"^\s+(\d+)\s+d\s+(\d+)\s+h\s+has\s+been\s+unlocked\."=" $1 d $2 h se ha desblo
 r:"\s+(\d+) h (\d+) m has been unlocked\."="$1 h $2 m se ha desbloqueado."
 
 r:"\s+(\d+) m has been unlocked\."="$1 m se ha desbloqueado."
+
+r:"Resets in  (\d+) h"="Reinicia antes  $1 h"
+
+r:"Expires:\s+(\d+) h (\d+) m"="Expira:  $1 h $2 m"
+
 ++-------------VA Character----------------++
 
 r:"^VA:\\s+(.+)$"="VA: $1"
@@ -187,6 +192,7 @@ r:"^(Qualia|Cualia)\\s+\\{\\{A\\}\\}\\.\\s+(\\d+)\\s+Thieves\\s+Den\\s+EXP\\s+Cr
 r:"^(Qualia|Cualia)\\s+\\{\\{A\\}\\}\\.\\s+(\\d+)\\s+Increases\\s+all\\s+allies'\\s+HP\\s+by\\s+(\\d+\\.?\\d*)\\s+\\(takes\\s+effect\\s+in\\s+battle\\)\\.$"="$1 {{A}}. $2 Aumenta los PS de todos los aliados en $3 (En combate)."
 r:"^(Qualia|Cualia)\\s+\\{\\{A\\}\\}\\.\\s+(\\d+)\\s+Increases\\s+Ice\\s+and\\s+Nuclear\\s+damage\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(takes\\s+effect\\s+in\\s+battle\\)\\.$"="$1 {{A}}. $2 Aumenta el daño de Hielo y Nuclear un $3% (En combate)."
 r:"^{{A}}(\d+) Increases all allies' Speed by (\d+\.?\d*) \(takes effect in battle\)\.$"="{{A}}$1 Aumenta la Velocidad de todos los aliados en $2 (Efectivo en combate)."
+r:"{{A}}(\d+) Increase all allies' ailment accuracy by ([\d.]+)% \(takes effect in battle\)\."="{{A}}$1 Aumenta la precisión de dolencias de todos los aliados en $2% (toma efecto en batalla)."
 
 ++-------------Detalles de nivel de Qualia-----------------++
 r:"^Increases\\s+Physical\\s+and\\s+Gun\\s+damage\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(takes\\s+effect\\s+in\\s+battle\\)\\.$"="Aumenta el daño físico y de arma en un $1% (En combate)."
@@ -325,6 +331,13 @@ Kotome cut-in that displays during an All-Out Attack.\n<color\=#FFD145>Increase 
 
 r:"^All-Out\s+Attack\s+Finisher\s+\((.+)\)<alpha\=#00>____<alpha\=#FF>All-Out\s+Attack\s+Finisher\s+\((.+)\)<alpha\=#00>____<alpha\=#FF>$"="All-Out Attack Finisher ($1)<alpha\=#00>____<alpha\=#FF>All-Out Attack Finisher ($2)<alpha\=#00>____<alpha\=#FF>"
 
+<color\=#FFFF00>Increases Kasumi's Attack by 1% (takes effect in battle).</color>=<color\=#FFFF00>Aumenta el Ataque de Kasumi en 1% (toma efecto en batalla).</color>
+P5R Special Event Pt. 2=Evento Especial P5R Pt. 2
+
+P5R Special Event Pt. 2<alpha\=#00>____<alpha\=#FF>P5R Special Event Pt. 2<alpha\=#00>____<alpha\=#FF>=Evento Especial P5R Pt. 2<alpha\=#00>____<alpha\=#FF>Evento Especial P5R Pt. 2<alpha\=#00>____<alpha\=#FF>
+
+The illustration used for Crossroads of Fate: Laboratory Arc Part 1.\n<color\=#FFD145>Increases Kasumi's Attack by 1% (takes effect in battle).</color>=La ilustración usada para Encrucijada del destino: Arco del Laboratorio Parte 1.\n<color\=#FFD145>Aumenta el Ataque de Kasumi en 1% (toma efecto en batalla).</color>
+
 r:"^Image\s+of\s+(.+)\s+that\s+displays\s+after\s+an\s+All-Out\s+Attack\s+finisher\.\\n<color\=#FFD145>Increases\s+(.+)'s\s+Attack\s+by\s+(\d+)\s+\(takes\s+effect\s+in\s+battle\)\.</color>$"="Imagen de $1 que aparece tras un All-Out Attack Finisher.\n<color\=#FFD145>Aumenta el Ataque de $2 en $3 (Tiene efecto en combate).</color>"
 
 r:"• {{A}} ([0-9]+) purple or red Stellae in Trial of the Astrolabe\(([0-9]+)/([0-9]+)\)"="• {{A}} $1 estrellas púrpura o roja en Prueba del Astrolabio ($2/$3)"
@@ -442,13 +455,14 @@ r:"Complete a task\. \((\d+)/(\d+)\)"="Completar una tarea. ($1/$2)"
 
 ++-------------Interfaz-----------------++
 Select content to input.=Elige qué introducir.
-r:"^ID:(\d+)$"="ID:$1"
+r:"^ID:(\d+)$"="ID:"
 r:"^Out\s+of\s+Stock\s+(\d+)$"="Sin stock: $1"
 r:"^Info\s+(\d+)\s*$"="Info. $1"
 r:"^\(Paid:\s+(\d+)\)$"="(Pagado: $1)"
 r:"^Unlocks at Lv\\. (\\d+)$"="Se desbloquea en Nv. $1"
 r:"^Lv\\.(\\d+)$"="Nv.$1"
 r:"^EXP:\s+(\d+)\s*$"="EXP: $1"
+r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.2.0\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
 r:"^Fusion\s+will\s+produce\s+(\d+)\s+<color\=#FF423F>(.+?)'s\s+Seal</color>\.\s*$"="La fusión producirá $1 <color\=#FF423F>Sello de $2</color>."
 r:"^Phantom Thief level cap increased to \\n<color\=#FFF000>Lv\\. (\\d+)</color>\\.$"="El límite de nivel de Ladrones Fantasma ha aumentado a \n<color\=#FFF000>Lv. $1</color>."
 r:"^Lv\\. (\\d+) Set$"="Set de Nv. $1"
@@ -589,7 +603,6 @@ r:"^<color\=#FFC000>Rank\s+(\d+)</color>:\s+You\s+can\s+fuse\s+(.+)\.$"="<color\
 r:"^<color\=#FFC000>Rank\s+(\d+)</color>:\s+You\s+may\s+receive\s+an\s+extra\s+seal\s+when\s+fusing\s+a\s+(\d+)★\s+or\s+(\d+)★\s+Persona\s+of\s+Rank\s+(\d+)\s+or\s+lower\.$"="<color\=#FFC000>Rango $1</color>: Puedes recibir un sello adicional al fusionar una Persona de $2★ o $3★ de Rango $4 o inferior."
 r:"^<color\=#FFC000>(.+)</color>'s\s+Synergy\s+<color\=#FFC000>Rank\s+(\d+)</color>:\s+You\s+can\s+fuse\s+(.+)$"="<color\=#FFC000>$1</color>: Sinergia <color\=#FFC000>Rango $2</color>: Puedes fusionar a $3"
 r:"S-{{A}}\.(\d+)"="S-Nv.$1"
-r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
 r:"^Whenever\s+an\s+ally\s+deals\s+damage,\s+that\s+ally's\s+damage\s+is\s+increased\s+by\s+(\d+)%\.\s+Lasts\s+for\s+(\d+)\s+turns\.\s+Stacks\s+up\s+to\s+(\d+)\s+times\.$"="Cada vez que un aliado inflige daño, el daño de ese aliado aumenta un $1%. Dura $2 turnos. Se acumula hasta $3 veces."
 r:"^Get\s+(.+)\s+to\s+Rank\s+(\d+)$"="Lleva a $1 al Rango $2"
 r:"^(\d+)/(\d+)\s+Thoughts\s+Linked$"="$1/$2 Pensamientos vinculados"
@@ -676,6 +689,9 @@ r:"You will now earn more social stats the next two times you increase them thro
 r:"Raise\s+(.+?)\s+to\s+level\s+(\d+)\s+\((\d+)/(\d+)\)"="Sube a $1 al nivel $2 ($3/$4)"
 r:"(\d+)/(\d+) collected"=" $1/$2 recolectados"
 r:"Guaranteed to get the secret item within <color\=#FEFE60>\s*(\d+) draws</color>!"="Garantizado obtener el objeto secreto en <color\=#FEFE60> $1 invocaciones</color>!"
+r:"Pass (\d+) or more Purple Stellae \((\d+)/(\d+)\)"="Pasa $1 o más estrellas púrpuras ($2/$3)"
+r:"Pass a Red Stella \((\d+)/(\d+)\)"="Pasa una estrella roja ($1/$2)"
+r:"Do you want to remove (.+) and invite (.+)\?"="¿Quieres eliminar a $1 e invitar a $2?"
 ++------------Tycoon----------------++
 r:"Become Tycoon using Lufel (\d+) time\. \((\d+)/(\d+)\)"="Conviértete en Magnate usando a Lufel $1 vez. ($2/$3)"
 r:"Play a (.+?) card (\d+) times\. \((\d+)/(\d+)\)"="Juega una carta $1 $2 veces. ($3/$4)"
@@ -1077,7 +1093,28 @@ r:"<pos\=45>Every (\d+) stacks of {{A}}'s Influence are converted to (\d+) True 
 
 r:"<pos\=45>Collapse's damage dealt is increased by (\d+)%, and {{A}}'s final Attack is increased by (\d+)%\."="<pos\=45>El daño infligido de Colapso aumenta un $1%, y el Ataque final de Kohryu aumenta un $2%."
 
+<pos\=45>The critical rate increase from Thunderous Might is increased by 25%. Nian Shou's final Attack is increased by 40%.=<pos\=45>El aumento de probabilidad de crítico de Poderío Atronador se incrementa un 25%. El Ataque final de Nian Shou aumenta un 40%.
 
+<pos\=45>The critical rate increase from Thunderous Might is increased by 15%. Nian Shou's final Attack is increased by 25%.=<pos\=45>El aumento de probabilidad de crítico de Poderío Atronador se incrementa un 15%. El Ataque final de Nian Shou aumenta un 25%.
+
+<pos\=45>The critical rate increase from Thunderous Might is increased by 10%. Nian Shou's final Attack is increased by 10%.=<pos\=45>El aumento de probabilidad de crítico de Poderío Atronador se incrementa un 10%. El Ataque final de Nian Shou aumenta un 10%.
+
+<pos\=45>The critical damage taken decrease from Thunder's Protection is increased to 60%. Nian Shou's max HP is increased by 100%.=<pos\=45>El daño crítico recibido reducido por la Protección del Trueno aumenta al 60%. El PS máximo de Nian Shou aumenta en un 100%.
+
+<pos\=45>The critical damage taken decrease from Thunder's Protection is increased to 40%. Nian Shou's max HP is increased by 50%.=<pos\=45>El daño crítico recibido se reduce un 40 % gracias a Protección del Trueno. Los PS máximos de Nian Shou aumentan un 50 %.
+
+<pos\=45>The critical damage taken decrease from Thunder's Protection is increased to 25%. Nian Shou's max HP is increased by 20%.=<pos\=45>El daño crítico recibido reducido por la Protección del Trueno aumenta al 25%. El PS máximo de Nian Shou aumenta en un 20%.
+
+r:"{{A}} the first boss challenge \((\d+)/(\d+)\)"="Completa el primer desafío de jefe ($1/$2)"
+r:"{{A}} the second boss challenge \((\d+)/(\d+)\)"="Completa el segundo desafío de jefe ($1/$2)"
+r:"{{A}} the third boss challenge \((\d+)/(\d+)\)"="Completa el tercer desafío de jefe ($1/$2)"
+r:"{{A}} the fourth boss challenge \((\d+)/(\d+)\)"="Completa el cuarto desafío de jefe ($1/$2)"
+r:"{{A}} Dancer of Dreams on difficulty (\d+) \((\d+)/(\d+)\)"="Completa Bailarín de los Sueños en dificultad $1 ($2/$3)"
+r:"Get (\d+)% progress in all Laboratory Arc Part (\d+) stages \((\d+)/(\d+)\)"="Consigue el $1% de progreso en todas las etapas Arco Lab. $2 ($3/$4)"
+r:"Collect (\d+) collectable items in the Laboratory Arc Part (\d+) \((\d+)/(\d+)\)"="Recolecta $1 objetos colecc. en la Parte $2 del Arco Lab. ($3/$4)"
+r:"Open (\d+) treasure chests in the Laboratory Arc Part (\d+) \((\d+)/(\d+)\)"="Abre $1 cofres del tesoro en la Parte $2 del Arco Lab. ($3/$4)"
+r:"Roll an 8-Sided Die (\d+) times \((\d+)/(\d+)\)"="Lanza dado 8 caras $1 veces ($2/$3)"
+r:"Roll a Loaded Die (\d+) times \((\d+)/(\d+)\)"="Lanza dado cargado $1 veces ($2/$3)"
 ++-------------San valentín-----------------++
 r:"Do you want to spend Valentine's Day with <color\=#FF91B9>([^ ]+)</color>\?\nYou will receive special chocolate from the first person you chose, which you can display at home\.\n<color\=#FF91B9>\(You will not be able to receive special chocolate from other people\.\)</color>"="¿Quieres pasar el Día de San Valentín con <color\=#FF91B9>$1</color>?\nRecibirás chocolate especial de la primera persona que elegiste, que podrás exhibir en casa.\n<color\=#FF91B9>(No podrás recibir chocolate especial de otras personas.)</color>"
 
@@ -1141,10 +1178,17 @@ r:"(?s)1\.\s+(.*?)\s+possesses\s+powerful\s+<color\=#FF423F>support\s+capabiliti
 
 With powerful <color\=#FF423F>offensive capabilities</color>, Firecracker Yaoling can deal heavy Fire damage with her evolved melee attack <color\=#FF423F>Yanhua Slash</color>. This can also activate a <color\=#FF423F>Technical</color>, and on Burning foes, it increases the damage increase effect of Fireburn.\n2. She can inflict <color\=#FF423F>Burn</color> and <color\=#FF423F>Year-End Flames</color>, effectively dealing <color\=#FF423F>continuous damage</color> to all foes.=Con poderosas <color\=#FF423F>capacidades ofensivas</color>, Firecracker Yaoling puede infligir un gran daño de Fuego con su ataque cuerpo a cuerpo evolucionado <color\=#FF423F>Tajo Yanhua</color>. Esto también puede activar un Ataque <color\=#FF423F>Técnico</color> y, en enemigos quemados, aumenta el efecto de incremento de daño de Incendio.\n2. Puede infligir <color\=#FF423F>Quemadura</color> y <color\=#FF423F>Llamas de Fin de Año</color>, infligiendo eficazmente daño continuo a todos los enemigos.
 
+1. Kasumi specializes in <color\=#FF423F>single-target attacks</color>. When activating her Highlight, she <color\=#FF423F>does not spend the Highlight gauge</color>. Her Highlight can also activate <color\=#FF423F>critical hits</color> to deal greater damage.\n2. During battle, when Kasumi gains 2 <color\=#FF423F>Step</color> stacks, press her Phantom Thief icon to activate <color\=#FF423F>Spellbound Cinders</color> to enter <color\=#FF423F>Masquerade</color> mode. This grants buffs and allows her to activate her Highlight.=1. Kasumi se especializa en <color\=#FF423F>ataques a un solo objetivo</color>. Al activar su Highlight, ella <color\=#FF423F>no consume la barra de Highlight</color> Su Highlight también puede infligir <color\=#FF423F>golpes críticos</color> para causar un mayor daño.\n2. Durante el combate, cuando Kasumi obtiene 2 acumulaciones de <color\=#FF423F>Paso</color>, presiona su ícono de Ladrón Fantasma para activar <color\=#FF423F>Cenicienta Encantada</color> y entrar en el modo <color\=#FF423F>Mascarada</color>. Esto otorga mejoras y le permite activar su Highlight.
+
+1. Kasumi specializes in <color\=#FF423F>single-target attacks</color>. When activating her Highlight, she <color\=#FF423F>does not spend the Highlight gauge</color>. Her Highlight can also activate <color\=#FF423F>critical hits</color> to deal greater damage.\n2. During battle, when Kasumi gains 2 <color\=#FF423F>Step</color> stacks, press her Phantom Thief icon to activate <color\=#FF423F>Spellbound Cinders</color> to enter <color\=#FF423F>Masquerade</color> mode. This grants buffs and allows her to activate her Highlight.\n3. Also, she can choose 1 ally to be her <color\=#FF423F>Dance Partner</color>, strengthening her and her Dance Partner's abilities. When an ally chosen as Kasumi's Dance Partner uses a skill, she can gain Step stacks more efficiently.=1. Kasumi se especializa en <color\=#FF423F>ataques a un solo objetivo</color>. Al activar su Highlight, ella <color\=#FF423F>no consume la barra de Highlight</color> Su Highlight también puede infligir <color\=#FF423F>golpes críticos</color> para causar un mayor daño.\n2. Durante el combate, cuando Kasumi obtiene 2 acumulaciones de <color\=#FF423F>Paso</color>, presiona su ícono de Ladrón Fantasma para activar <color\=#FF423F>Cenicienta Encantada</color> y entrar en el modo <color\=#FF423F>Mascarada</color> modo. Esto otorga buffs y le permite activar su Highlight. 3. Además, puede elegir a 1 aliado para que sea su <color\=#FF423F>Compañero de baile</color>, fortaleciendo sus habilidades y las de su Compañero de Baile. Cuando un aliado elegido como Compañero de Baile de Kasumi usa una habilidad, ella puede ganar acumulaciones de Paso más eficientemente.
+
 ++-------------Tutoriales Eventos-----------------++
 r:"(?s)<color\=#FFD145>Collecting Keywords</color>\n• In the mission Answer Sheet, join (.+?) to solve puzzles.*?• Drag the keywords to the correct place and complete the puzzle\."="<color\=#FFD145>Recopilación de palabras clave</color>\n• En la misión Hoja de respuestas, únete a $1 para resolver acertijos en una búsqueda del tesoro que pondrá a prueba tu ingenio. Durante el evento, puedes consultar tu hoja de respuestas para ver las palabras clave que has recopilado.\n• Puedes reunir las palabras clave en cualquier orden, pero solo puedes aceptar una misión de palabra clave a la vez.\n• Habrá más historia disponible cuando hayas reunido 3, 6 y 9 palabras clave. No podrás recolectar la siguiente palabra clave hasta que hayas completado la nueva historia.\n• Recibirás inmediatamente las recompensas por recopilar palabras clave tras completar cada misión. No es necesario volver a la hoja de respuestas para reclamarlas.\n\n<color\=#FFD145>Completar el acertijo</color>\n• Tras recopilar todas las palabras clave, deberás ponerlas en el orden correcto para formar una oración.\n• Arrastra las palabras clave al lugar correcto y completa el acertijo."
 
 r:"(?s)<color\=#FFD145>Puzzle Bots</color>.*?<color\=#FFD145>Brawl Bots</color>.*?<color\=#FFD145>Comments</color>.*?<color\=#FFD145>Event Rewards</color>.*?<color\=#FFD145>Robo Shop</color>.*?"="<color\=#FFD145>Robots de puzzle</color>\nGana el desafío moviendo al Rey Bot a la salida dentro del límite de movimientos.\n\n<color\=#FFD145>Bots de Combate</color>\nHay tres niveles de dificultad para el desafío: Fácil, Normal y Difícil.\nCompletar una etapa de dificultad superior completará automáticamente todas las dificultades inferiores de esa etapa.\nPuedes obtener robots y Chips de Combate de las recompensas por clasificación de estrellas de Robots de puzzle.\n\n<color\=#FFD145>Comentarios</color>\nDurante el programa, llegarán comentarios de la audiencia.\nCompletar Robots de puzzle y Bots de Combate desbloqueará los comentarios.\n\n<color\=#FFD145>Recompensas del evento</color>\nPuedes ganar recompensas completando y superando los objetivos del desafío.\nCompletar las dificultades Fácil, Normal y Difícil en Bots de Combate también te otorgará recompensas.\nTambién puedes obtener recompensas al ver los últimos comentarios.\n\n<color\=#FFD145>Tienda Robo</color>\nLos Puntos del programa de TV ganados en el evento se pueden canjear por objetos en la Tienda Robótico."
+
+<color\=#FFD145>About the Event</color>\nCrossroads of Fate: Laboratory Arc Part 1 is the second new Persona 5 Royal special event.\n\n<color\=#FFD145>Palace Exploration</color>\nYou can unlock a new stage when you clear the previous stage.\nEarn rewards for first-time completion of stages.=<color\=#FFD145>Acerca del evento</color>\nEncrucijada del Destino: Laboratorio Arco Parte 1 es el segundo evento especial nuevo de Persona 5 Royal.\n\n<color\=#FFD145>Exploración de Palacio</color>\nPuedes desbloquear una nueva etapa al completar la anterior. Obtén recompensas por completar etapas por primera vez.
+
 
 ++-------------Combates enemigos-----------------++
 
@@ -1694,3 +1738,20 @@ Yanhua Slash: Increase Atk.=Tajo Yanhua: Aumenta ATQ.
 
 r:"Yanhua Slash: Increase dmg by ([\d.]+)%\."="Tajo Yanhua: Aumenta el daño en $1%."
 
+r:"Increase Ice damage by ([\d.,]+)%\."="Aumenta el daño de Hielo en un $1%."
+
+r:"Increase critical damage by ([\d.,]+)%\."="Aumenta el daño crítico un $1%."
+
+r:"Increase Curse damage by ([\d.,]+)%\."="Aumenta el daño de Maldición en un $1%."
+
+r:"Increase Bless damage by ([\d.,]+)%\."="Aumenta el daño de Bendición en un $1%."
+
+r:"Increase critical damage by ([\d.,]+)%\. When attacking a foe with a debuff, increase Attack by ([\d.,]+)%\. If damage is dealt, increase party's Attack by ([\d.,]+)% for (\d+) turn\."="Aumenta el daño crítico un $1%. Al atacar a un enemigo con un debilitador, aumenta el Ataque un $2%. Si se inflige daño, aumenta el Ataque del grupo un $3% durante $4 turno."
+
+r:"Can activate Highlight (\d+) time\. For each (\w+) stack, increase Atk by (\d+)% and critical rate by (\d+)%\."="Puede activar Highlight $1 vez. Por cada acumulación de $2, aumenta el Atq. un $3% y la probabilidad crítica un $4%."
+
+r:"A Step that can stack up to a maximum of (\d+)\. With (\d+) or more Step stacks, Kasumi can use Spellbound Cinders to enter Masquerade mode\."="Un Paso que puede acumularse hasta un máximo de $1. Con $2 o más acumulaciones de Paso, Kasumi puede usar Cenicienta Encantada para entrar en modo Mascarada."
+
+r:"A Step that does not stack\. With (\d+) or more Step stacks, Kasumi can use Spellbound Cinders to enter Masquerade mode\."="Un Paso que no se acumula. Con $1 o más Acumulaciones de Paso, Kasumi puede usar Cenicienta Encantada para entrar en modo Mascarada."
+
+r:"When an ally with this condition uses a skill, Kasumi activates Cinderella Glow (\d+) time\."="Cuando un aliado con esta condición usa una habilidad, Kasumi activa Brillo de Cenicienta $1 vez."
