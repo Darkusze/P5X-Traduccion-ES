@@ -455,7 +455,7 @@ r:"Complete a task\. \((\d+)/(\d+)\)"="Completar una tarea. ($1/$2)"
 
 ++-------------Interfaz-----------------++
 Select content to input.=Elige qué introducir.
-r:"^ID:(\d+)$"="ID:"
+r:"^ID:(\d+)$"="ID:$1"
 r:"^Out\s+of\s+Stock\s+(\d+)$"="Sin stock: $1"
 r:"^Info\s+(\d+)\s*$"="Info. $1"
 r:"^\(Paid:\s+(\d+)\)$"="(Pagado: $1)"
