@@ -132,6 +132,10 @@ r:"Resets in  (\d+) h"="Reinicia antes  $1 h"
 
 r:"Expires:\s+(\d+) h (\d+) m"="Expira:  $1 h $2 m"
 
+r:"{{A}}\s+(\d+)\s+h"="Reinicia antes de $1 h"
+
+r:"Unlocks in\s+(\d+)\s+m"="Se desbloquea en $1 m"
+
 ++-------------VA Character----------------++
 
 r:"^VA:\\s+(.+)$"="VA: $1"
@@ -140,7 +144,7 @@ r:"^VA:\\s+(.+)$"="VA: $1"
 r:"{{A}}(\d+) Restores (.+?) stamina after the first login of each day\."="{{A}}$1 Restablece $2 de resistencia después del primer inicio de sesión de cada día."
 r:"{{A}}(\d+) Increases Fire and Psychokinesis damage by (.+?)% \(takes effect in battle\)\."="{{A}}$1 Aumenta el daño de Fuego y Psicoquinesis en un $2% (toma efecto en batalla)."
 r:"{{A}}(\d+) Increases ally damage dealt in the Realm of Repression by (.+?)% \(takes effect in battle\)\."="{{A}}$1 Aumenta el daño infligido por aliados en el Reino de Represión en un $2% (toma efecto en batalla)."
-r:"\{\{A\}\}(\d+) Increases all allies' HP by (\d+) \(takes effect in battle\)\."="{{A}}$1 Aumenta el PS de todos los aliados en $2 (toma efecto en batalla)."
+r:"{{A}}(\d+) Increases all allies' HP by (\d+) \(takes effect in battle\)\."="{{A}}$1 Aumenta el PS de todos los aliados en $2 (toma efecto en batalla)."
 r:"^\{\{([A-Za-z]+)\}\}(\d+) Thieves Den EXP Credit increased by (\d+)$"={{$1}}$2 Crédito de EXP del Guarida de los Ladrones aumentado en $3
 r:"^\\{\\{A\\}\\}(\\d+)\\s+Increases\\s+Wind\\s+and\\s+Curse\\s+damage\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(effective\\s+in\\s+battle\\)\\.$"="{{A}}$1 aumenta el daño de viento y maldición en un $2% (En combate)."
 r:"^\\{\\{A\\}\\}?(\\d+)\\s+Increases\\s+the\\s+protagonist's\\s+damage\\s+dealt\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(effective\\s+in\\s+battle\\)\\.$"="{{A}}$1 aumenta el daño infligido por el protagonista en un $2% (En combate)."
@@ -283,7 +287,7 @@ r:"^Cut-In:\\s+(.+)$"="Aparición especial: $1"
 r:"^(.+)\s+cut-in\s+that\s+displays\s+during\s+an\s+All-Out\s+Attack\.\n<color\=#FFD145>Increases\s+\1's\s+Defense\s+by\s+([\d\.]+)\s+\(takes\s+effect\s+in\s+battle\)\.</color>$"="Animación de $1 que se despliega durante un All-Out Attack.\n<color\=#FFD145>Aumenta la Defensa de $1 en $2 (tiene efecto en batalla).</color>"
 r:"^All-Out\s+Attack\s+\((.+)\)$"="All-Out Attack ($1)"
 r:"^·\s+Increases\s+part-time\s+earnings\s+by\s+5%\.\\n·\s+Increases\s+part-time\s+earnings\s+by\s+3%\.\\n·\s+Increases\s+part-time\s+earnings\s+by\s+2%\.\\n$"="- Aumenta un 5% los ingresos a tiempo parcial.\n- Aumenta los ingresos a tiempo parcial en un 3%.\n- Aumenta los ingresos a tiempo parcial en un 2%.\n"
-r:"^Den\s+\{\{A\}\}\.\s+(\d+)$"="Guarida {{A}}. $1"
+r:"^Den\s+{{A}}\.\s+(\d+)$"="Guarida {{A}}. $1"
 r:"^•\s+Collect\s+(\d+)\s+series\s+of\s+capsules\.\s+\((\d+)\/(\d+)\)$"="- Recoge $1 series de cápsulas. ($2/$3)"
 r:"^•\s+Reach\s+a\s+score\s+of\s+([\d,]+)\s+in\s+Gates\s+of\s+the\s+Nightmare\s+Catcher\.\s+\((\d+)\/(\d+)\)$"="- Alcanza una puntuación de $1 en Portal del Cazapesadillas. ($2/$3)"
 r:"^•\s+Become\s+close\s+friends\s+with\s+(\d+)\s+accomplices\.\s+\((\d+)\/(\d+)\)$"="- Hazte amigo íntimo de $1 cómplices. ($2/$3)"
@@ -462,7 +466,7 @@ r:"^\(Paid:\s+(\d+)\)$"="(Pagado: $1)"
 r:"^Unlocks at Lv\\. (\\d+)$"="Se desbloquea en Nv. $1"
 r:"^Lv\\.(\\d+)$"="Nv.$1"
 r:"^EXP:\s+(\d+)\s*$"="EXP: $1"
-r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.2.0\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
+r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.2.1\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
 r:"^Fusion\s+will\s+produce\s+(\d+)\s+<color\=#FF423F>(.+?)'s\s+Seal</color>\.\s*$"="La fusión producirá $1 <color\=#FF423F>Sello de $2</color>."
 r:"^Phantom Thief level cap increased to \\n<color\=#FFF000>Lv\\. (\\d+)</color>\\.$"="El límite de nivel de Ladrones Fantasma ha aumentado a \n<color\=#FFF000>Lv. $1</color>."
 r:"^Lv\\. (\\d+) Set$"="Set de Nv. $1"
@@ -586,7 +590,7 @@ r:"^Current\s+(\d+)%$"="Actual $1%"
 r:"^Raise\\s+any\\s+Phantom\\s+Thief's\\s+skill\\s+to\\s+\\{\\{A\\}\\}.\\s+(\d+)\\. $"="Aumenta la habilidad de cualquier Ladrón Fantasma a {{A}}. $1. "
 r:"^Can\s+enhance\s+at\s+Thief\s+Lv\.\s+(\d+)$"="Mejorable a partir del nivel $1 de Ladrón"
 r:"^Raise\s+Justine\s+&\s+Caroline\s+to\s+level\s+(\d+)\s+\((\d+)\/(\d+)\)$"="Lleva a Justine y Caroline al nivel $1 ($2/$3)"
-r:"^Can\s+enhance\s+more\s+at\s+Thief\s+\{\{A\}\}\.\s+(\d+)$"="Puede mejorarse más al {{A}}. $1 de ladrón."
+r:"^Can\s+enhance\s+more\s+at\s+Thief\s+{{A}}\.\s+(\d+)$"="Puede mejorarse más al {{A}}. $1 de ladrón."
 r:"^<color\=#FFFFFF>\(Currently\s+(\d+\.?\d*)%\)</color>$"="<color\=#FFFFFF>(Actualmente $1%)</color>"
 r:"^(\d+)★\s+C(\d+)$"="$1★ C$2"
 r:"^Can\s+be\s+exchanged\s+for\s+(\d+)\s+points\s+at\s+the\s+Catch\s+'n'\s+Trade\.$"="Puede canjearse por $1 puntos en Captura e Intercambio."
@@ -692,6 +696,10 @@ r:"Guaranteed to get the secret item within <color\=#FEFE60>\s*(\d+) draws</colo
 r:"Pass (\d+) or more Purple Stellae \((\d+)/(\d+)\)"="Pasa $1 o más estrellas púrpuras ($2/$3)"
 r:"Pass a Red Stella \((\d+)/(\d+)\)"="Pasa una estrella roja ($1/$2)"
 r:"Do you want to remove (.+) and invite (.+)\?"="¿Quieres eliminar a $1 e invitar a $2?"
+r:"Log in for (\d+) days during the current Phantom Pass season \((\d+)\/(\d+)\)"="Inicia sesión durante $1 días en la temporada actual del Pase Fantasma ($2/$3)"
+r:"{{A}} (.+?) (\d+) in Turbo's Special Missions \((\d+)\/(\d+)\)"="Supera $1 $2 en Misiones Especiales de Turbo ($3/$4)"
+r:"Log in for (\d+) day[s]? during the current Phantom Pass season \((\d+)\/(\d+)\)"="Inicia sesión durante $1 día(s) en la temporada actual del Pase Fantasma ($2/$3)"
+r:"Preset (\d+)"="Perfil $1"
 ++------------Tycoon----------------++
 r:"Become Tycoon using Lufel (\d+) time\. \((\d+)/(\d+)\)"="Conviértete en Magnate usando a Lufel $1 vez. ($2/$3)"
 r:"Play a (.+?) card (\d+) times\. \((\d+)/(\d+)\)"="Juega una carta $1 $2 veces. ($3/$4)"
@@ -795,11 +803,11 @@ r:"^Use a Highlight (\d+) times\. <size\=30>\((\d+)\/(\d+)\)</size>$"=Use un Hig
 r:"^Perform a (\d+) More attack (\d+) times\. <size\=30>\((\d+)\/(\d+)\)</size>$"=Realice un ataque $1 más $2 veces. <size\=30>($3/$4)</size>
 r:"^Defeat (\d+) enemies with Psychokinesis damage\. <size\=30>\((\d+)\/(\d+)\)</size>$"=Derrota a $1 enemigos con daño en la psicoquinesis. <size\=30>($2/$3)</size>
 r:"^Defeat (\d+) enemies with Nuclear damage\. <size\=30>\((\d+)\/(\d+)\)</size>$"=Derrota a $1 enemigos con daño nuclear. <size\=30>($2/$3)</size>
-r:"^Raise\s+Proficiency\s+to\s+\{\{A\}\}\.\s+(\d+)\.\s?$"="Sube la Destreza a {{A}}. $1."
-r:"^Raise\s+Kindness\s+to\s+\{\{A\}\}\.\s+(\d+)\.\s?$"="Sube la Amabilidad a {{A}}. $1."
-r:"^Raise\s+Guts\s+to\s+\{\{A\}\}\.\s+(\d+)\.\s?$"="Sube el Coraje a {{A}}. $1."
-r:"^Raise\s+Knowledge\s+to\s+\{\{A\}\}\.\s+(\d+)\.\s?$"="Sube el Conocimiento a {{A}}. $1."
-r:"^Raise\s+Charm\s+to\s+\{\{A\}\}\.\s+(\d+)\.\s?$"="Sube el Encanto a {{A}}. $1."
+r:"^Raise\s+Proficiency\s+to\s+{{A}}\.\s+(\d+)\.\s?$"="Sube la Destreza a {{A}}. $1."
+r:"^Raise\s+Kindness\s+to\s+{{A}}\.\s+(\d+)\.\s?$"="Sube la Amabilidad a {{A}}. $1."
+r:"^Raise\s+Guts\s+to\s+{{A}}\.\s+(\d+)\.\s?$"="Sube el Coraje a {{A}}. $1."
+r:"^Raise\s+Knowledge\s+to\s+{{A}}\.\s+(\d+)\.\s?$"="Sube el Conocimiento a {{A}}. $1."
+r:"^Raise\s+Charm\s+to\s+{{A}}\.\s+(\d+)\.\s?$"="Sube el Encanto a {{A}}. $1."
 r:"^Complete\s+(\d+)\s+unique\s+City\s+Life\s+activities\.\s?$"="Completa $1 actividades únicas de Vida Urbana."
 r:"^Complete\s+a\s+City\s+Life\s+activity\s+with\s+a\s+multiplier\s+applied\s+(\d+)\s+times\.\s?$"="Completa una actividad de Vida Urbana con un multiplicador aplicado $1 veces."
 r:"^Invite (.+?) out (\d+) times\.\s*$"="Invita a $1 $2 veces."
@@ -889,7 +897,7 @@ r:"Invite (.+?) out (\d+) times\. <size\=30>\((\d+)/(\d+)\)</size>"="Invita a $1
 r:"Invite out (.+?) (\d+) times\. <size\=30>\((\d+)/(\d+)\)</size>"="Invita a $1 a salir $2 veces. <size\=30>($3/$4)</size>"
 
 ++-------------Eventos-----------------++
-r:"^Raise\s+Justine\s+&\s+Caroline\s+to\s+\{\{A\}\}\.\s+(\d+)\.$"="Sube a Justine y Caroline a {{A}}. $1."
+r:"^Raise\s+Justine\s+&\s+Caroline\s+to\s+{{A}}\.\s+(\d+)\.$"="Sube a Justine y Caroline a {{A}}. $1."
 r:"^Take\\s+down\\s+(\\d+)\\s+targets\\s+\\((\\d+)/(\\d+)\\)$"="Derriba $1 objetivos ($2/$3)"
 r:"^Take\\s+down\\s+(\\d+)\\s+targets$"="Derriba $1 objetivos"
 r:"^Highest\\s+Combo:\\s+(\\d+)$"="Combo más alto: $1"
@@ -928,7 +936,7 @@ r:"^Get\\s+sales\\s+to\\s+Rank\\s+(\\d+)\\s+in\\s+Endless\\s+Mode\\s*$"="Lleva l
 r:"^Get\\s+100%\\s+progress\\s+in\\s+all\\s+Pyramid\\s+Arc\\s+stages\\s+\\((\\d+)/(\\d+)\\)$"="Consigue el 100% de progreso en todas las fases del Arco de la Pirámide ($1/$2)"
 r:"^Open\\s+(\\d+)\\s+treasure\\s+chests\\s+in\\s+the\\s+Pyramid\\s+Arc\\s+\\((\\d+)/(\\d+)\\)$"="Abre $1 cofres del tesoro en el Arco de la Pirámide ($2/$3)"
 r:"^Collect\\s+(\\d+)\\s+Commemorative\\s+Coins\\s+in\\s+the\\s+Pyramid\\s+Arc\\s+\\((\\d+)/(\\d+)\\)$"="Consigue $1 monedas conmemorativas en el Arco de la Pirámide ($2/$3)"
-r:"^\\{\\{B\\}\\}\\s+Boss\\s+Battle\\s+\\{\\{A\\}\}\\.\\s+(\\d+)\\s+\\((\\d+)/(\\d+)\\)$"="\{\{B\}\} Batalla de Jefes \{\{A\}\}. $1 ($2/$3)"
+r:"^\\{\\{B\\}\\}\\s+Boss\\s+Battle\\s+\\{\\{A\\}\}\\.\\s+(\\d+)\\s+\\((\\d+)/(\\d+)\\)$"="\{\{B\}\} Batalla de Jefes {{A}}. $1 ($2/$3)"
 r:"^Moving\\s+to\\s+next\\s+game\\s+in\\s+(\\d+)\\s+seconds$"="Pasar a la siguiente partida en $1 segundos"
 r:"^Become\\s+Tycoon\\s+using\\s+\\{\\{A\\}\}\\s+(\\w+)\\s+(\\d+)\\s+time(?:s)?\\.\\s+\\((\\d+)/(\\d+)\\)$"="Conviértete en Tycoon usando {{A}} $1 $2 vez\\/veces. ($3/$4)"
 r:"^Play\\s+an\\s+8\\s+Stop\\s+(\\d+)\\s+times\\.\\s+\\((\\d+)/(\\d+)\\)$"="Toca un 8 Stop $1 veces. ($2/$3)"
@@ -1105,6 +1113,131 @@ r:"<pos\=45>Collapse's damage dealt is increased by (\d+)%, and {{A}}'s final At
 
 <pos\=45>The critical damage taken decrease from Thunder's Protection is increased to 25%. Nian Shou's max HP is increased by 20%.=<pos\=45>El daño crítico recibido reducido por la Protección del Trueno aumenta al 25%. El PS máximo de Nian Shou aumenta en un 20%.
 
+r:"<pos\=45>Allies' Psychokinesis, Nuclear, Bless, and Curse damage is decreased by (\d+)%\."="<pos\=45>El daño de Psicoquinesis, Nuclear, Bendición y Maldición de los aliados disminuye un $1%."
+
+r:"<pos\=45>Saboteur Thieves and Personas cannot be assigned\."="<pos\=45>No se pueden asignar Ladrones ni Personas de tipo Saboteador."
+
+r:"<pos\=45>{{A}}'s Defense is decreased by (\d+)%\."="<pos\=45>La Defensa del equipo disminuye un $1%."
+
+r:"<pos\=45>All foes' max HP is increased by (\d+)%\."="<pos\=45>Los PS máx. de todos los enemigos aumentan un $1%."
+
+r:"<pos\=45>The shield from {{A}}'s Blade of Sanctuary is increased by (\d+)%, and {{A}}'s max HP is increased by (\d+)%\."="<pos\=45>El escudo de Filo del Santuario de {{A}} aumenta un $1% y los PS máx. de {{A}} aumentan un $2%."
+
+r:"<pos\=45>Bishamonten's Parasol of Chaos will target the (\d+) Shadows with the lowest HP\. Bishamonten's max HP increases by (\d+)%\."="<pos\=45>Parasol del Caos de Bishamonten marcará como objetivo a las $1 Sombras con los PS más bajos. Los PS máx. de Bishamonten aumentan un $2%."
+
+r:"<pos\=45>Allies' Fire, Ice, Electric, and Wind damage is decreased by (\d+)%\."="<pos\=45>El daño de Fuego, Hielo, Electricidad y Viento de los aliados disminuye un $1%."
+
+r:"<pos\=45>Strategist Thieves and Personas cannot be assigned\."="<pos\=45>No se pueden asignar Ladrones ni Personas de tipo Estratega."
+
+r:"<pos\=45>{{A}}'s Attack is decreased by (\d+)%\."="<pos\=45>El Ataque del equipo disminuye un $1%."
+
+r:"<pos\=45>All foes' Attack is increased by (\d+)%\."="<pos\=45>El Ataque de todos los enemigos aumenta un $1%."
+
+r:"<pos\=45>Targets marked by {{A}}'s Eye of Heaven take (\d+)% increased damage\. {{A}}'s Attack is increased by (\d+)%\."="<pos\=45>Los objetivos marcados por el Ojo del Cielo de {{A}} reciben un $1% más de daño. El Ataque de {{A}} aumenta un $2%."
+
+r:"<pos\=45>Bishamonten's Parasol of Chaos will target (\d+) allies with the lowest HP\. Bishamonten's max HP is increased by (\d+)%\."="<pos\=45>El Parasol del Caos de Bishamonten marcará como objetivo a los $1 aliados con menos PS. Los PS máx. de Bishamonten aumentan un $2%."
+
+r:"<pos\=45>{{A}}'s Growth of All Things also decreases damage taken by (\d+)%\. {{A}}'s max HP is increased by (\d+)%\."="<pos\=45>Crecimiento de Todas las Cosas de {{A}} también reduce el daño recibido un $1%. Los PS máx. de {{A}} aumentan un $2%."
+
+r:"<pos\=45>The Highlight gauge fills (\d+)% slower\."="<pos\=45>El medidor de Highlight se llena un $1% más lento."
+
+r:"<pos\=45>{{A}}'s max HP is decreased by (\d+)%\."="<pos\=45>Los PS máx. del equipo disminuyen un $1%."
++++++++
+r:"<pos\=45>Bishamonten's Parasol of Chaos changes allies' affinities to Null\. Bishamonten's Attack is increased by (\d+)%\."="<pos\=45>El Parasol del Caos de Bishamonten cambia las afinidades de los aliados a Nulo. El Ataque de Bishamonten aumenta un $1%."
+
+r:"<pos\=45>Horn of Pestilence's max HP down effects are increased by (\d+)%\. {{A}}'s Attack is increased by (\d+)%\."="<pos\=45>Los efectos de reducción de PS máx. de Cuerno de la Pestilencia aumentan un $1%. El Ataque de {{A}} aumenta un $2%."
+
+r:"<pos\=45>The target of Horn of Pestilence changes to (\d+) random foes\. {{A}}'s max HP is increased by (\d+)%\."="<pos\=45>El objetivo de Cuerno de la Pestilencia cambia a $1 enemigos aleatorios. Los PS máx. de {{A}} aumentan un $2%."
+
+r:"<pos\=45>The target of Horn of Pestilence changes to all foes\. {{A}}'s max HP is increased by (\d+)%\."="<pos\=45>El objetivo de Cuerno de la Pestilencia cambia a todos los enemigos. Los PS máx. de {{A}} aumentan un $1%."
+
+r:"<pos\=45>The target of Horn of Famine changes to (\d+) random foes\. {{A}}'s max HP is increased by (\d+)%\."="<pos\=45>El objetivo de Cuerno del Hambre cambia a $1 enemigos aleatorios. Los PS máx. de {{A}} aumentan un $2%."
+
+r:"<pos\=45>The target of Horn of Famine changes to all foes\. {{A}}'s max HP is increased by (\d+)%\."="<pos\=45>El objetivo de Cuerno del Hambre cambia a todos los enemigos. Los PS máx. de {{A}} aumentan un $1%."
+
+r:"<pos\=45>Horn of Famine increases foes' SP costs by (\d+)% more\. {{A}}'s Attack is increased by (\d+)%\."="<pos\=45>Cuerno del Hambre aumenta el coste de SP de los enemigos un $1% más. El Ataque de {{A}} aumenta un $2%."
+
+r:"<pos\=45>While Horn of War is active, counterattack damage is increased by (\d+)%\. {{A}}'s Attack is increased by (\d+)%\."="<pos\=45>Mientras Cuerno de Guerra está activo, el daño de contraataque aumenta un $1%. El Ataque de {{A}} aumenta un $2%."
+
+r:"<pos\=45>Horn of Death decreases skill healing by (\d+)% more\. {{A}}'s Attack is increased by (\d+)%\."="<pos\=45>Cuerno de la Muerte reduce la curación de habilidades un $1% más. El Ataque de {{A}} aumenta un $2%."
+
+r:"<pos\=45>Horn of Death's damage up effect is increased by (\d+)%\. {{A}}'s max HP is increased by (\d+)%\."="<pos\=45>El efecto de aumento de daño de Cuerno de la Muerte aumenta un $1%. Los PS máx. de Pale Rider aumentan un $2%."
+
+r:"<pos\=45>Targets with a shield from {{A}}'s Blade of Sanctuary gain (\d+)% increased Attack\. {{A}}'s Attack is increased by (\d+)%\."="<pos\=45>Los objetivos con escudo de Filo del Santuario de {{A}} obtienen un $1% más de Ataque. El Ataque de {{A}} aumenta un $2%."
+
+r:"<pos\=45>The damage increase from {{A}}'s Growth of All Things is increased by (\d+)%\. {{A}}'s Attack is increased by (\d+)%\."="<pos\=45>El aumento de daño de Crecimiento de todas las cosas de {{A}} aumenta un $1%. El Ataque de {{A}} aumenta un $2%."
+
+r:"<pos\=45>{{A}}'s Growth of All Things also decreases damage taken by ([\d.]+)%\. {{A}}'s max HP is increased by (\d+)%\."="<pos\=45>Crecimiento de todas las cosas de {{A}} también reduce el daño recibido un $1%. Los PS máx. de {{A}} aumentan un $2%."
+
+r:"<pos\=45>The number of targets marked by {{A}}'s Eye of Heaven is increased to (\d+)\. {{A}}'s max HP is increased by (\d+)%\."="<pos\=45>El número de objetivos marcados por Ojo del Cielo de {{A}} aumenta a $1. Los PS máx. de {{A}} aumentan un $2%."
+
+r:"<pos\=45>Targets marked by {{A}}'s Eye of Heaven take (\d+)% increased damage\. {{A}}'s Attack is increased by (\d+)%\."="<pos\=45>Los objetivos marcados por el Ojo del Cielo de {{A}} reciben un $1% más de daño. El Ataque de {{A}} aumenta un $2%."
+
+r:"<pos\=45>Bishamonten's Parasol of Chaos changes allies' affinities to Null. Bishamonten's Attack is increased by (\d+)%\."="<pos\=45>El Parasol del Caos de Bishamonten cambia las afinidades de los aliados a Nulo. El Ataque de Bishamonten aumenta un $1%."
+
+r:"<pos\=45>Bishamonten's Parasol of Chaos changes allies' affinities to Drain. Bishamonten's Attack is increased by (\d+)%\."="<pos\=45>El Parasol del Caos de Bishamonten cambia las afinidades de los aliados a Drenar. El Ataque de Bishamonten aumenta un $1%."
+
+r:"<pos\=45>Diarama's healing is increased by (\d+)%\. Isis's Attack is increased by (\d+)%\."="<pos\=45>La curación de Diarama aumenta un $1%. El Ataque de Isis aumenta un $2%."
+
+r:"<pos\=45>Every (\d+) Amulet of Rebirth stacks are converted into 1 {{A}} of Rebirth stack\. Isis's max HP is increased by (\d+)%\."="<pos\=45>Cada $1 acumulaciones de Amuleto del Renacimiento se convierten en 1 acumulación de {{A}} del Renacimiento. Los PS máx. de Isis aumentan un $2%."
+
+r:"<pos\=45>Every (\d+) Sun God's Blessing stacks are converted into 1 Sun God's {{A}} stack\. {{B}}'s max HP is increased by (\d+)%\."="<pos\=45>Cada $1 acumulaciones de Bendición del Dios Sol se convierten en 1 acumulación de {{A}} del Dios Sol. Los PS máx. de {{B}} aumentan un $2%."
+
+r:"<pos\=45>The final damage increase from Sun God's {{A}} is increased by (\d+)%\. {{B}}'s Attack is increased by (\d+)%\."="<pos\=45>El aumento de daño final de {{A}} del Dios Sol aumenta un $1%. El Ataque de {{B}} aumenta un $2%."
+
+r:"<pos\=45>Wisdom Theurgy changes all affinities of the Shadow with the lowest HP to Null. Thoth's Attack is increased by (\d+)%\."="<pos\=45>Teurgia de la Sabiduría cambia todas las afinidades de la Sombra con menos PS a Nulo. El Ataque de Thoth aumenta un $1%."
+
+r:"<pos\=45>Wisdom Theurgy changes all affinities of the Shadow with the lowest HP to Drain. Thoth's Attack is increased by (\d+)%\."="<pos\=45>Teurgia de la Sabiduría cambia todas las afinidades de la Sombra con menos PS a Drenar. El Ataque de Thoth aumenta un $1%."
+
+r:"<pos\=45>The shield granted by Shield Theurgy is increased by (\d+)%, the target's Defense is increased by (\d+)%, and Thoth's max HP is increased by (\d+)%\."="<pos\=45>El escudo otorgado por Teurgia de Escudos aumenta un $1%, la defensa del objetivo aumenta un $2% y los PS máx. de Thoth aumentan un $3%."
+
+r:"<pos\=45>Allies will be insta-killed when they gain (\d+) Curse of Annihilation stacks\. {{A}}'s Attack is increased by (\d+)%\."="<pos\=45>Los aliados morirán instantáneamente al obtener $1 acumulaciones de Maldición de Aniquilación. El Ataque de {{A}} aumenta un $2%."
+
+r:"<pos\=45>The Curse damage inflicted when {{A}} is defeated is increased by (\d+)%, and {{A}}'s max HP is increased by (\d+)%\."="<pos\=45>El daño de Maldición infligido al derrotar a {{A}} aumenta un $1% y los PS máx. de {{A}} aumentan un $2%."
+
+r:"<pos\=45>{{A}}'s shield effect is decreased by (\d+)%\."="<pos\=45>El efecto de escudo del equipo disminuye un $1%."
+
+r:"<pos\=45>{{A}}'s healing effect is decreased by (\d+)%\."="<pos\=45>El efecto de curación del equipo disminuye un $1%."
+
+r:"<pos\=45>{{A}}'s max HP is decreased by (\d+)%\."="<pos\=45>Los PS máx. del equipo disminuyen un $1%."
+
+r:"<pos\=45>Elucidator's cooldown time is increased by (\d+) actions\."="<pos\=45>El tiempo de reutilización de Elucidator aumenta en $1 acciones."
+
+r:"<pos\=45>Finish battle in (\d+) actions with no allies defeated\."="<pos\=45>Termina la batalla en $1 acciones sin que ningún aliado sea derrotado."
+
+r:"<pos\=45>Defeated if allies are KO'd or exceed (\d+) turns\."="<pos\=45>Derrota si los aliados caen KO o superan los $1 turnos."
+
+r:"<pos\=45>Bishamonten's Parasol of Chaos changes foes' affinities to Drain\. Bishamonten's Attack is increased by (\d+)%\."="<pos\=45>El Parasol del Caos de Bishamonten cambia las afinidades de los enemigos a Drenar. El Ataque de Bishamonten aumenta un $1%."
+
+r:"<pos\=45>The number of targets marked by {{A}}'s Eye of Heaven changes to (\d+)\. {{A}}'s max HP is increased by (\d+)%\."="<pos\=45>El número de objetivos marcados por el Ojo del Cielo de {{A}} cambia a $1. Los PS máx. de {{A}} aumentan en un $2%."
+
+r:"<pos\=45>Horn of Pestilence now targets all Phantom Thieves, and {{A}}'s max HP increases by (\d+)%\."="<pos\=45>Cuerno de la Pestilencia ahora afecta a todos los Ladrones Fantasma, y los PS máximos de {{A}} aumentan un $1%."
+
+r:"<pos\=45>Horn of Famine now targets all Phantom Thieves, and {{A}}'s max HP increases by (\d+)%\."="<pos\=45>Cuerno del Hambre ahora afecta a todos los Ladrones Fantasma, y los PS máximos de {{A}} aumentan un $1%."
+
+r:"<pos\=45>The target of Horn of Pestilence changes to all foes\. {{A}}'s max HP is increased by (\d+)%\."="<pos\=45>El objetivo de Cuerno de la Pestilencia cambia a todos los enemigos. Los PS máximos de {{A}} aumentan un $1%."
+
+r:"<pos\=45>The target of Horn of Pestilence changes to (\d+) random foes\. {{A}}'s max HP is increased by (\d+)%\."="<pos\=45>El objetivo de Cuerno de Pestilencia cambia a $1 enemigos aleatorios. Los PS máximos de {{A}} aumentan un $2%."
+
+r:"<pos\=45>Horn of Death decreases skill healing by (\d+)% more\. {{A}}'s Attack is increased by (\d+)%\."="<pos\=45>Cuerno de la Muerte disminuye la curación de habilidades un $1% más. El Ataque de {{A}} aumenta un $2%."
+
+r:"<pos\=45>The target of Horn of Famine changes to (\d+) random foes\. {{A}}'s max HP is increased by (\d+)%\."="<pos\=45>El objetivo de Cuerno del Hambre cambia a $1 enemigos aleatorios. Los PS máximos de {{A}} aumentan un $2%."
+
+r:"<pos\=45>The target of Horn of Famine changes to (\d+) random foes\. {{A}}'s max HP is increased by (\d+)%\."="<pos\=45>El objetivo de Cuerno del Hambre cambia a $1 enemigos aleatorios. Los PS máximos de {{A}} aumentan un $2%."
+
+r:"<pos\=45>Horn of Pestilence's max HP down effects are increased by (\d+)%\. {{A}}'s Attack is increased by (\d+)%\."="<pos\=45>Los efectos de reducción de PS máximos del Cuerno de la Pestilencia aumentan un $1%. El ataque de {{A}} aumenta un $2%."
+
+r:"Decrease max HP by (\d+)%\."="Reduce los PS máximos un $1%."
+
+r:"<pos\=45>Horn of Famine increases foes' SP costs by (\d+)% more\. {{A}}'s Attack is increased by (\d+)%\."="<pos\=45>Cuerno del Hambre aumenta el coste de PS de los enemigos un $1% más. El Ataque de {{A}} aumenta un $2%."
+
+r:"<pos\=45>Horn of Death's damage up effect is increased by (\d+)%\. {{A}}'s max HP is increased by (\d+)%\."="<pos\=45>El efecto de aumento de daño del Cuerno de la Muerte ha aumentado un $1%. Los PS máximos de {{A}} aumentan un $2%."
+
+r:"<pos\=45>While Horn of War is active, all allies will counter when taking an attack\. {{A}}'s counterattack damage is increased by (\d+)% and its Attack is increased by (\d+)%\."="<pos\=45>Mientras Cuerno de Guerra está activo, todos los aliados contraatacarán al recibir un ataque. El daño de contraataque de {{A}} aumenta un $1% y su Ataque aumenta un $2%."
+
+r:"<pos\=45>Horn of War's duration is increased by (\d+) turns?\. {{A}}'s max HP is increased by (\d+)%\."="<pos\=45>La duración de Cuerno de Guerra aumenta en $1 turno. Los PS máx. de {{A}} aumentan un $2%."
+
+
 r:"{{A}} the first boss challenge \((\d+)/(\d+)\)"="Completa el primer desafío de jefe ($1/$2)"
 r:"{{A}} the second boss challenge \((\d+)/(\d+)\)"="Completa el segundo desafío de jefe ($1/$2)"
 r:"{{A}} the third boss challenge \((\d+)/(\d+)\)"="Completa el tercer desafío de jefe ($1/$2)"
@@ -1126,6 +1259,7 @@ r:"Current {{A}} Difficulty: (\d+)"="Dificultad actual de superación: $1"
 
 r:"A gift from a date with ([^ ]+)\. Can be used to obtain certain items\."="Un regalo de una cita con $1. Se puede usar para obtener ciertos objetos."
 
+r:"During the event, Trials from the Sea of Souls's season updates have been changed to once a week\. The weekly schedule is as follows:\n\nSeason (\d+):[\s\S]*?Season (\d+):[\s\S]*?Season (\d+):[\s\S]*?Season (\d+):[\s\S]*?(\d+) AM \(UTC\)"="Durante el evento, las actualizaciones de temporada de Pruebas del Mar de las Almas han cambiado a una vez por semana. El cronograma semanal es el siguiente:\n\nTemporada $1:\n2 Abr, 2026 2:30 AM - 9 Abr, 2026 1:29 AM (UTC)\nTemporada $2:\n9 Abr, 2026 2:30 AM - 16 Abr, 2026 1:29 AM (UTC)\nTemporada $3:\n16 Abr, 2026 2:30 AM - 23 Abr, 2026 1:29 AM (UTC)\nTemporada $4:\n23 Abr, 2026 2:30 AM - 30 Abr, 2026 1:29 AM (UTC)"
 ++-------------Tutoriales UI-----------------++
 r:"(?s)<color\=#FFD145>The Velvet Trials</color>.*?Defeat Unique Shadows.*?Points from both battles will be tallied after the second battle is completed\."="<color\=#FFD145>Las Pruebas de Terciopelo</color>\nDerrota a Sombras únicas con habilidades especiales para perfeccionar tu destreza en combate y aspirar a mejores calificaciones.\n\n<color\=#FFD145>Reglas Básicas</color>\nLas Pruebas de Terciopelo son desafíos de alta dificultad. Hay múltiples etapas, cada una dividida en varias áreas.\nCompletar la Etapa 5 de la prueba desbloqueará todas las etapas.\nPuedes cambiar libremente tu formación antes de que comience la batalla. Si el combate te resulta demasiado difícil, puedes reiniciarlo en cualquier momento.\nCada batalla tiene tres rangos. Al final del combate, tu rango se determinará en función de los puntos obtenidos.\n\n<color\=#FFD145>Ganar Puntos</color>\nEl daño infligido durante la batalla se calcula como puntos.\n\n<color\=#FFD145>Condiciones Especiales de Puntos</color>\nAl cumplir condiciones especiales, puedes ganar puntos adicionales.\nPuedes desafiar las etapas varias veces para intentar conseguir la puntuación más alta.\n\n<color\=#FFD145>Desafío de Grupo Doble</color>\nAlgunas Pruebas de Terciopelo requerirán que comandes un Grupo Doble para enfrentar el desafío.\nNo se pueden usar los mismos Ladrones Fantasma y Personas en ambos grupos.\nLos puntos de ambas batallas se sumarán una vez completada la segunda batalla."
 
@@ -1165,7 +1299,7 @@ r:"(?s)<color\=#FFD145>Side Story</color>\nHelp your companions regain their des
 
 r:"(?s)<color\=#FFD145>Event\s+Story</color>\s+A\s+fun\s+story\s+available\s+during\s+the\s+Valentine's\s+period\.\s+Spend\s+the\s+time\s+with\s+everyone\s+and\s+have\s+a\s+wonderful\s+Valentine's\.\s+While\s+the\s+event\s+is\s+ongoing,\s+event\s+stories\s+will\s+become\s+unlocked\s+after\s+certain\s+dates\s+or\s+conditions\s+have\s+been\s+met\.\s+You\s+can\s+gain\s+mission\s+rewards\s+from\s+clearing\s+missions\."="<color\=#FFD145>Historia del evento</color>\nUna historia divertida disponible durante el periodo de San Valentín. Pasa el tiempo con todos y ten un San Valentín maravilloso. Mientras el evento esté en curso, las historias del evento se desbloquearán después de que se cumplan ciertas fechas o condiciones. Puedes ganar recompensas de misión al completar misiones."
 
-++-------------Pruebas Pjs-----------------++\
+++-------------Pruebas Pjs-----------------++
 r:"(?s)1\.\s+(.*?)\s+possesses\s+powerful\s+<color\=#FF423F>support\s+capabilities</color>.*?deal\s+even\s+greater\s+damage\."="1. $1 posee poderosas <color\=#FF423F>capacidades de apoyo</color>. Al aprovechar sus diferentes habilidades en batalla, puede infligir <color\=#FF423F>multitud de efectos negativos</color> a los enemigos y <color\=#FF423F>reducir su curación recibida</color>.\n2. Cuando Gran Bienvenida está activo, puede <color\=#FF423F>reducir la Defensa de todos los enemigos</color> e <color\=#FF423F>aumentar el daño de Fuego/Hielo/Eléctrico/Viento recibido</color>, al tiempo que fortalece los ataques de esos elementos de los aliados.\n3. Cuando Seguimiento Feroz está activo, puede reducir la Defensa de un enemigo y aumentar su daño de Resonancia recibido. Cuando se combina con aliados que pueden usar <color\=#FF423F>Resonancia</color>, pueden infligir un daño aún mayor."
 
 1. Tempest Riko possesses SP <color\=#FF423F>support abilities</color> that greatly increase the party's SP limit. During battle, she can also <color\=#FF423F>recover her own SP</color> in various ways.\n2. When using Blossoming Season, all of her SP is consumed to grant allies buffs to their <color\=#FF423F>Attack</color> and <color\=#FF423F>critical damage</color>. The more SP consumed, the stronger the buffs become.=1. Tempest Riko posee SP <color\=#FF423F>habilidades de apoyo</color> que aumentan enormemente el límite de SP del equipo. Durante el combate, también puede <color\=#FF423F>recuperar su propio SP</color> de diversas formas.\n2. Al usar Temporada de Florecimiento, todo su SP se consume para otorgar a los aliados buffs a sus <color\=#FF423F>Ataque</color> y un <color\=#FF423F>daño crítico</color>. Cuanto más SP se consume, más fuertes se vuelven los buffs.
@@ -1180,7 +1314,13 @@ With powerful <color\=#FF423F>offensive capabilities</color>, Firecracker Yaolin
 
 1. Kasumi specializes in <color\=#FF423F>single-target attacks</color>. When activating her Highlight, she <color\=#FF423F>does not spend the Highlight gauge</color>. Her Highlight can also activate <color\=#FF423F>critical hits</color> to deal greater damage.\n2. During battle, when Kasumi gains 2 <color\=#FF423F>Step</color> stacks, press her Phantom Thief icon to activate <color\=#FF423F>Spellbound Cinders</color> to enter <color\=#FF423F>Masquerade</color> mode. This grants buffs and allows her to activate her Highlight.=1. Kasumi se especializa en <color\=#FF423F>ataques a un solo objetivo</color>. Al activar su Highlight, ella <color\=#FF423F>no consume la barra de Highlight</color> Su Highlight también puede infligir <color\=#FF423F>golpes críticos</color> para causar un mayor daño.\n2. Durante el combate, cuando Kasumi obtiene 2 acumulaciones de <color\=#FF423F>Paso</color>, presiona su ícono de Ladrón Fantasma para activar <color\=#FF423F>Cenicienta Encantada</color> y entrar en el modo <color\=#FF423F>Mascarada</color>. Esto otorga mejoras y le permite activar su Highlight.
 
+1. Futaba specializes in <color\=#FF423F>multi-target debuff skills</color>. She can inflict <color\=#FF423F>Virus</color> on all foes to manipulate their affinities. 2. She can inflict debuffs that decrease foes' Defense and increase their damage taken. She can also inflict additional debuffs when dealing weakness damage to foes. 3. During battle, Futaba gains <color\=#FF423F>Analysis Progress</color> and can activate <color\=#FF423F>Data Storm</color>, increasing damage for all her allies and granting them a <color\=#FF423F>shield</color>.=1. Futaba se especializa en <color\=#FF423F>habilidades de debuff multiobjetivo</color>. Puede infligir <color\=#FF423F>Virus</color> a todos los enemigos para manipular sus afinidades.\n2. Puede aplicar debuffs que reducen la Defensa de los enemigos y aumentan el daño que reciben.\nTambién puede infligir debuffs adicionales al causar daño de debilidad a los enemigos.\n3. Durante la batalla, Futaba obtiene <color\=#FF423F>Progreso de análisis</color> y puede activar <color\=#FF423F>Tormenta de datos</color>, lo que aumenta el daño de todos sus aliados y les otorga un <color\=#FF423F>escudo</color>.
+
+1. Haru specializes in <color\=#FF423F>multi-target attacks</color>.\nBy using certain skills, she gains <color\=#FF423F>Thoughtful Round</color>, allowing her to deal powerful Psychokinesis damage with long-range attacks.\n2. Each skill Haru activates will give different types of Thoughtful Round effects.\nEach one will <color\=#FF423F>enhance her long-range attacks</color> in different ways.\n3. By increasing Haru's ailment accuracy, she can not only gain increased Attack and critical damage, but also improve the accuracy of her <color\=#FF423F>Target Audience</color> effect.=1. Haru se especializa en <color\=#FF423F>ataques multiobjetivo</color>\nAl usar ciertas habilidades, ella gana <color\=#FF423F>Proyectil Reflexivo</color>, permitiéndole infligir daño de Psicoquinesis potente con ataques a larga distancia.\n2. Cada habilidad que active Haru otorgará distintos tipos de efectos de Proyectil Reflexivo. Cada uno <color\=#FF423F>potenciará sus ataques a larga distancia</color> de diferentes formas.\n3. Al aumentar la precisión de dolencias de Haru, no solo obtiene mayor Ataque y daño crítico, sino que también mejora la precisión de su efecto <color\=#FF423F>Público Objetivo</color>.
+
 1. Kasumi specializes in <color\=#FF423F>single-target attacks</color>. When activating her Highlight, she <color\=#FF423F>does not spend the Highlight gauge</color>. Her Highlight can also activate <color\=#FF423F>critical hits</color> to deal greater damage.\n2. During battle, when Kasumi gains 2 <color\=#FF423F>Step</color> stacks, press her Phantom Thief icon to activate <color\=#FF423F>Spellbound Cinders</color> to enter <color\=#FF423F>Masquerade</color> mode. This grants buffs and allows her to activate her Highlight.\n3. Also, she can choose 1 ally to be her <color\=#FF423F>Dance Partner</color>, strengthening her and her Dance Partner's abilities. When an ally chosen as Kasumi's Dance Partner uses a skill, she can gain Step stacks more efficiently.=1. Kasumi se especializa en <color\=#FF423F>ataques a un solo objetivo</color>. Al activar su Highlight, ella <color\=#FF423F>no consume la barra de Highlight</color> Su Highlight también puede infligir <color\=#FF423F>golpes críticos</color> para causar un mayor daño.\n2. Durante el combate, cuando Kasumi obtiene 2 acumulaciones de <color\=#FF423F>Paso</color>, presiona su ícono de Ladrón Fantasma para activar <color\=#FF423F>Cenicienta Encantada</color> y entrar en el modo <color\=#FF423F>Mascarada</color> modo. Esto otorga buffs y le permite activar su Highlight. 3. Además, puede elegir a 1 aliado para que sea su <color\=#FF423F>Compañero de baile</color>, fortaleciendo sus habilidades y las de su Compañero de Baile. Cuando un aliado elegido como Compañero de Baile de Kasumi usa una habilidad, ella puede ganar acumulaciones de Paso más eficientemente.
+
+1. Mayumi possesses powerful <color\=#FF423F>support capabilities</color>, granting the party increased pierce rate, Attack and damage dealt.\n2. Based on the total Velocity she accumulates during battle, she can activate Torque Boost, increasing the party's pierce rate.\n3. Each time her Velocity reaches a certain amount, Mayumi can gain an <color\=#FF423F>extra action</color>. Each of her skills have additional effects when used during her extra action.=1. Mayumi posee poderosas <color\=#FF423F>capacidades de apoyo</color>, otorgando al equipo una mayor tasa de perforación, Ataque y daño infligido.\n2. Basado en la Velocidad total que acumula durante la batalla, puede activar Impulso de Torque, aumentando la tasa de perforación del equipo.\n3. Cada vez que su Velocidad alcanza cierta cantidad, Mayumi puede obtener una <color\=#FF423F>acción adicional</color>. Cada una de sus habilidades tiene efectos adicionales cuando se usa durante su acción adicional.
 
 ++-------------Tutoriales Eventos-----------------++
 r:"(?s)<color\=#FFD145>Collecting Keywords</color>\n• In the mission Answer Sheet, join (.+?) to solve puzzles.*?• Drag the keywords to the correct place and complete the puzzle\."="<color\=#FFD145>Recopilación de palabras clave</color>\n• En la misión Hoja de respuestas, únete a $1 para resolver acertijos en una búsqueda del tesoro que pondrá a prueba tu ingenio. Durante el evento, puedes consultar tu hoja de respuestas para ver las palabras clave que has recopilado.\n• Puedes reunir las palabras clave en cualquier orden, pero solo puedes aceptar una misión de palabra clave a la vez.\n• Habrá más historia disponible cuando hayas reunido 3, 6 y 9 palabras clave. No podrás recolectar la siguiente palabra clave hasta que hayas completado la nueva historia.\n• Recibirás inmediatamente las recompensas por recopilar palabras clave tras completar cada misión. No es necesario volver a la hoja de respuestas para reclamarlas.\n\n<color\=#FFD145>Completar el acertijo</color>\n• Tras recopilar todas las palabras clave, deberás ponerlas en el orden correcto para formar una oración.\n• Arrastra las palabras clave al lugar correcto y completa el acertijo."
@@ -1259,10 +1399,10 @@ r:"^Diff\\.\\s+Bonus:\\s+<color\=[^>]+>(\\d+\\.?\\d*)</color>$"="Diferencia Bono
 r:"^Raise\\s+(\\d+)\\s+Personas\\s+to\\s+level\\s+(\\d+)\\.\\s*<size\=30>\\((\\d+)\\/(\\d+)\\)</size>$"="Sube $1 Personas al nivel $2. <size\=30>($3/$4)</size>"
 r:"^Progress:\\s+(\\d+)\\/(\\d+)$"="Progreso: $1/$2"
 r:"^Forged:\\s+(\\d+)\\/(\\d+)$"="Forjado: $1/$2"
-r:"^Raise\s+any\s+Phantom\s+Thief\s+to\s+\{\{A\}\}\.\s+(\d+)\.\s?$"="Sube cualquier Ladrón Fantasma a {{A}}. $1."
+r:"^Raise\s+any\s+Phantom\s+Thief\s+to\s+{{A}}\.\s+(\d+)\.\s?$"="Sube cualquier Ladrón Fantasma a {{A}}. $1."
 r:"^Raise\s+Knowledge\s+to\s+Lv\.\s+(\d+)\.\s+<size\=30>\((\d+)/(\d+)\)</size>$"="Sube el Conocimiento a Nv. $1. <size\=30>($2/$3)</size>"
-r:"^Raise\s+(\d+)\s+Personas\s+to\s+\{\{A\}\}\.\s+(\d+)\.\s?$"="Sube $1 Personas a {{A}}. $2."
-r:"^•\s+Raise\s+\{\{A\}\}\s+to\s+level\s+(\d+)\.$"="• Sube a {{A}} al nivel $1."
+r:"^Raise\s+(\d+)\s+Personas\s+to\s+{{A}}\.\s+(\d+)\.\s?$"="Sube $1 Personas a {{A}}. $2."
+r:"^•\s+Raise\s+{{A}}\s+to\s+level\s+(\d+)\.$"="• Sube a {{A}} al nivel $1."
 r:"^Raise\s+Charm\s+to\s+Lv\.\s+(\d+)\.\s+<size\=30>\((\d+)/(\d+)\)</size>$"="Sube el Encanto a Nv. $1. <size\=30>($2/$3)</size>"
 r:"^Raise\s+(\d+)\s+skill\s+for\s+(\d+)\s+Thief\s+to\s+{{(.*?)}}\.\s+(\d+)\s+\(excluding\s+increases\s+from\s+Awareness\s+Levels\)\s*$"="Aumenta $1 habilidad para $2 Ladrón a {{$3}}. $4 (excluyendo aumentos de los Niveles de Conciencia)"
 r:"^Raise\s+(\d+)\s+skills\s+for\s+(\d+)\s+Thief\s+to\s+{{(.*?)}}\.\s+(\d+)\s+\(excluding\s+increases\s+from\s+Awareness\s+Levels\)\s*$"="Aumenta $1 habilidad para $2 Ladrón a {{$3}}. $4 (excluyendo aumentos de los Niveles de Conciencia)"
@@ -1308,7 +1448,7 @@ r:"^Increase Def by (\d+)%\.$"=Aumenta la DEF en un $1%.
 
 r:"^Increase dmg by (\d+\.\d+)%\.$"=Aumenta el daño en un $1%.
 
-r:"^Increase pierce rate by (\d+\.\d+)%\.$"=Aumenta la tasa de penetración en un $1%.
+r:"^Increase pierce rate by (\d+\.\d+)%\.$"=Aumenta la tasa de perforación en un $1%.
 
 r:"^Increase counter chance by (\d+)%\. Greatly increase dmg\.$"=Aumenta la probabilidad de contraataque en un $1%.\nIncrementa enormemente el daño.
 
@@ -1755,3 +1895,13 @@ r:"A Step that can stack up to a maximum of (\d+)\. With (\d+) or more Step stac
 r:"A Step that does not stack\. With (\d+) or more Step stacks, Kasumi can use Spellbound Cinders to enter Masquerade mode\."="Un Paso que no se acumula. Con $1 o más Acumulaciones de Paso, Kasumi puede usar Cenicienta Encantada para entrar en modo Mascarada."
 
 r:"When an ally with this condition uses a skill, Kasumi activates Cinderella Glow (\d+) time\."="Cuando un aliado con esta condición usa una habilidad, Kasumi activa Brillo de Cenicienta $1 vez."
+
+r:"Each time an ally activates a Technical, all allies gain (\d+) Primal Instinct stack\.\nEach time an ally activates a Highlight, that ally gains (\d+) Primal Instinct stacks\.\nPrimal Instinct: Increase final damage by (\d+)% for each stack\. Lasts for (\d+) turns\. Stacks up to (\d+) times\."="Cada vez que un aliado activa un Técnico, todos los aliados ganan $1 acumulación de Instinto Primal.\nCada vez que un aliado activa un Highlight, ese aliado gana $2 acumulaciones de Instinto Primal.\nInstinto Primal: aumenta el daño final en $3% por cada acumulación. Dura $4 turnos. Se acumula hasta $5 veces."
+
+r:"Total Velocity: (\d+)"="Velocidad total: $1"
+
+r:"Current Velocity: (\d+)"="Velocidad actual: $1"
+
+r:"Increase damage to knocked down foes by (\d+)%\."="Aumenta el daño a enemigos derribados en un $1%."
+
+r:"When on an extra action, increase damage by (\d+)%\."="Al realizar una acción extra, aumenta el daño en un $1%."
