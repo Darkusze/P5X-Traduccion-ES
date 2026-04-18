@@ -3,7 +3,7 @@ r:"(?s)At the end of Ren's action, gain (\d+) <link\=(.+?)><u>Will of Rebellion<
 
 Increase skill damage to the main target by 30%, and increase skill damage to other targets by 10%.=Aumenta el daño de habilidad al objetivo principal en un 30% y el daño de habilidad a otros objetivos en un 10%.
 
-On an extra action, decrease SP cost of skills by 80%. When Ren's SP is above 60%, increase Attack by 50%.=En una acción extra, reduce el coste de SP de las habilidades en un 80%. Cuando los SP de Ren superan el 60%, aumenta el Ataque un 50%.
+On an extra action, decrease SP cost of skills by 80%. When Ren's SP is above 60%, increase Attack by 50%.=En una acción extra, reduce el coste de PE de las habilidades en un 80%. Cuando los SP de Ren superan el 60%, aumenta el Ataque un 50%.
 
 Increase the skill levels of {{A}}'s Chains and Thief Tactics by 3.=Aumenta en 3 los niveles de habilidad de Cadenas y Tácticas de ladrón de {{A}}.
 

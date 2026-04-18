@@ -357,7 +357,7 @@ Crimson Rose=Rosa Carmesí
 Fire dmg to 1 foe and chance to inflict Burn. With La Vie en Rose, deal bonus dmg to foes below 50% HP.=Daño de fuego a 1 enemigo y probabilidad de infligir Quemadura.\nCon La Vie en Rose, inflige daño adicional a enemigos con menos del 50% de PS.
 Fire dmg to all foes and chance to inflict Burn. With La Vie en Rose, increase skill dmg.=Daño de fuego a todos los enemigos y probabilidad de infligir Quemadura.\nCon La Vie en Rose, aumenta el daño de la habilidad.
 Nighty night!=¡Buenas noches!
-All-out attack! Let's do this!=¡All-out attack!\n¡Vamos allá!
+All-out attack! Let's do this!=¡Ataque Combinado!\n¡Vamos allá!
 You have reached today's limit for Wandering Shadow rewards.=Has alcanzado el límite diario de recompensas de Sombra Errante.
 It's quiet today...=Hoy está tranquilo...
 Someone's there...\nam I seeing things?=Hay alguien ahí...\n¿Estoy alucinando?
@@ -506,7 +506,7 @@ Unlock=Desbloquear
 Hidden Ability=Habilidad oculta
 Hidden Ability Materials=Materiales de habilidad oculta
 Reach Hidden Ability level 3 to further level up Phantom Thief.=Alcanza el nivel 3 de habilidad oculta para mejorar aún más al ladrón fantasma
-SP=SP
+SP=PE
 Level Up=Subir de nivel
 Level Up Materials=Materiales de subida de nivel
 Rising Tension=Tensión creciente
@@ -608,31 +608,19 @@ Bradley Paisley=Bradley Paisley
 It's Always My Turn=Siempre es mi turno
 Martial Arts: Silver=Artes marciales: plata
 My Turn Again=Mi turno de nuevo
-Change the second Palace ruler's heart. <size\=30>(0/1)</size>=Cambia el corazón del segundo gobernante del palacio. <size\=30>(0/1)</size>
 Katana Tongue Cut Down=Lengua cortada por katana
-Open the large door and explore the second Palace. <size\=30>(0/1)</size>=Abre la puerta grande y explora el segundo palacio. <size\=30>(0/1)</size>
 Smug Little Rats=Ratas presumidas
-Witness the second Phantom Thief's awakening. <size\=30>(0/1)</size>=Presencia el segundo despertar del ladrón fantasma. <size\=30>(0/1)</size>
 Unyielding Belief=Creencia firme
-Infiltrate the second Palace. <size\=30>(0/1)</size>=Infiltra el segundo palacio. <size\=30>(0/1)</size>
 Katana-Tongued Food Critic=Crítico culinario de lengua afilada
-Get ramen from Victory Kitchen. <size\=30>(0/1)</size>=Consigue ramen en Victory Kitchen. <size\=30>(0/1)</size>
 Disastrous Dinner=Cena desastrosa
-Change the first Palace ruler's heart. <size\=30>(0/1)</size>=Cambia el corazón del primer gobernante del palacio. <size\=30>(0/1)</size>
 First Target Down=Primer objetivo eliminado
-View all of the first Palace ruler's memories. <size\=30>(0/1)</size>=Ve todos los recuerdos del primer gobernante del palacio. <size\=30>(0/1)</size>
 The Fallen Prodigy=El prodigio caído
-Start 100 battles with an ambush. <size\=30>(29/100)</size>=Inicia 100 batallas con una emboscada. <size\=30>(29/100)</size>
 Unstoppable Flash=Destello imparable
-End 100 battles with an All-Out Attack. <size\=30>(13/100)</size>=Termina 100 batallas con un All-out attack. <size\=30>(13/100)</size>
 Exemplary Teamwork=Trabajo en equipo ejemplar
 No Capo=Sin Capo
 Not cleared=No completado
-Ask for backup support from Support Phantom Thieves 250 times. <size\=30>(248/250)</size>=Solicita apoyo de los Ladrones Fantasma de soporte 250 veces. <size\=30>(248/250)</size>
 Devastating Strike=Golpe devastador
-Deal over 50,000 damage during battle. <size\=30>(18273/50000)</size>=Inflige más de 50.000 de daño durante la batalla. <size\=30>(18273/50000)</size>
 Ultimate Strike=Golpe definitivo
-Deal over 100,000 damage during battle. <size\=30>(18273/100000)</size>=Inflige más de 100.000 de daño durante la batalla. <size\=30>(18273/100000)</size>
 Woof! Woof! Hooray! Welcome to Shibuya!\nHave a paw-some time!=¡Guau! ¡Guau! ¡Hurra!\n¡Bienvenido a Shibuya!\n¡Que tengas un día perrísimo!
 Item/Talk Actions=Acciones de objeto/conversación
 Settings=Ajustes
@@ -783,7 +771,7 @@ Robroy=Robroy
 Outdated Slang=Jerga anticuada
 Status Ailment Accuracy Increase=Aumento de precisión de dolencias de estado
 Atk Increase Cap=Límite de aumento de ATQ
-SP Recovery=Recuperación SP
+SP Recovery=Recuperación PE
 Dmg Increase=Aumento de daño
 Increase=Aumentar
 Club Okyann=Club Okyann
@@ -1057,7 +1045,7 @@ Legend Cube=Cubo legendario
 Corroding Lava=Lava corroída
 High Score=Récord
 Also known as Dhritarashtra, he is the protector of the East, and is one of the four Heavenly Kings of Buddhist origin. He helps maintain the security of the nation.=También conocido como Dhritarashtra, es el protector del Este y uno de los Cuatro Reyes Celestiales del budismo.\nAyuda a mantener la seguridad de la nación.
-Deal weakness/All-Out Attacks=Realiza ataques de debilidad o totales
+Deal weakness/All-Out Attacks=Infringir debilidad/Ataques Combinados
 Lufel=Lufel
 Now then...=Ahora bien...
 The cycle of life and death is neverending.=El ciclo de la vida y la muerte es interminable.
@@ -1119,7 +1107,7 @@ Cheer Song=Canción de ánimo
 Neutron Star of Desire=Estrella de neutrones del deseo
 An Ill Wind=Un viento funesto
 Thunderous Blessing=Bendición atronadora
-Non-{{A}} allies deal weakness/All-Out Attacks=Los aliados que no son de {{A}} sean debilidad/All-Out Attacks
+Non-{{A}} allies deal weakness/All-Out Attacks=Aliados que no sean {{A}} infligen debilidad/Ataques Combinados
 Nuclear Winter=Invierno nuclear
 Total {{A}} Earned=Total de {{A}} obtenido
 View Stats=Ver estadísticas
@@ -1162,9 +1150,9 @@ If you <color\=#FF423F>plant a seed</color>, after a certain amount of time, you
 Weaknesses and 1 More=Debilidades y 1 Más
 Search Objects=Buscar objetos
 Collectibles=Coleccionables
-All-Out Attacks=All-Out Attacks
+All-Out Attacks=Ataques Combinados
 Down Points=Puntos de caída
-When you <color\=#FF423F>Guard</color>, you not only decrease damage taken, but also recover Down Points and SP.=Cuando usas <color\=#FF423F>Guardia</color>, no solo reduces el daño recibido, también recuperas puntos de caída y SP.
+When you <color\=#FF423F>Guard</color>, you not only decrease damage taken, but also recover Down Points and SP.=Cuando usas <color\=#FF423F>Guardia</color>, no solo reduces el daño recibido, también recuperas puntos de caída y PE.
 Press and hold the character or the character's icon to view their detailed analysis.=Mantén presionado el personaje o su ícono para ver su análisis detallado.
 Looks like a new\nmovie is coming out.=Parece que se estrena una nueva película.
 The airsoft shop guy\ndoesn't look like\na civilian...=El tipo de la tienda de airsoft no parece un civil...
@@ -1179,8 +1167,8 @@ Crossroads of Fate=Encrucijada del destino
 Fare Machines=Máquinas de tarifas
 Highlights can be used when the <color\=#FF423F>Highlight Gauge</color> is full. The Highlight Gauge fills with each action you take, but you can fill it even more when you attack a foe with its weakness.=Los movimientos Highlights pueden usarse cuando el <color\=#FF423F>medidor de Highlight</color> está lleno.\nEste se llena con cada acción, y aún más si atacas una debilidad enemiga.
 After a character uses a Highlight, you must wait <color\=#FF423F>4 turns</color> before the same character can use their Highlight again.=Después de usar un Highlight, el personaje debe esperar <color\=#FF423F>4 turnos</color> antes de poder usarlo nuevamente.
-All-Out Attacks deal heavy damage to all foes. However, you cannot use them if only one ally is able to act.=Los All-Out Attacks infligen gran daño a todos los enemigos.\nNo pueden usarse si solo un aliado puede actuar.
-When playing battles at double or triple speed, light stimulus and flashing may be intensified during All-Out Attack cut-ins.\n<color\=#FF423F>This may cause temporary muscle spasms or loss of consciousness when looking at the screen.\nIf you are sensitive to flashing lights, please refrain from using double or triple speed.</color>\n<color\=#FFFC40>If you experience any negative symptoms, stop playing the game at once and consult a doctor.</color>=Al jugar batallas a velocidad doble o triple, los destellos pueden intensificarse durante los ataques totales.\n<color\=#FF423F>Esto puede causar espasmos musculares o pérdida de conciencia.\nSi eres sensible a las luces intermitentes, evita usar velocidad doble o triple.</color>\n<color\=#FFFC40>Si experimentas síntomas negativos, deja de jugar y consulta a un médico.</color>
+All-Out Attacks deal heavy damage to all foes. However, you cannot use them if only one ally is able to act.=Los Ataques Combinados infligen gran daño a todos los enemigos.\nNo pueden usarse si solo un aliado puede actuar.
+When playing battles at double or triple speed, light stimulus and flashing may be intensified during All-Out Attack cut-ins.\n<color\=#FF423F>This may cause temporary muscle spasms or loss of consciousness when looking at the screen.\nIf you are sensitive to flashing lights, please refrain from using double or triple speed.</color>\n<color\=#FFFC40>If you experience any negative symptoms, stop playing the game at once and consult a doctor.</color>=Al jugar batallas a velocidad doble o triple, los destellos pueden intensificarse durante los Ataques Combinados.\n<color\=#FF423F>Esto puede causar espasmos musculares o pérdida de conciencia.\nSi eres sensible a las luces intermitentes, evita usar velocidad doble o triple.</color>\n<color\=#FFFC40>Si experimentas síntomas negativos, deja de jugar y consulta a un médico.</color>
 Photosensitivity Warning=Advertencia de fotosensibilidad
 You will be able to take another action after knocking an enemy down. This is called a <color\=#FF423F>1 More</color>.\n1 More attacks have a time limit, and will <color\=#FF423F>automatically activate after that time has passed</color>.=Podrás realizar otra acción tras derribar a un enemigo.\nEsto se llama <color\=#FF423F>1 Más</color>.\nLos ataques 1 Más tienen límite de tiempo y <color\=#FF423F>se activan automáticamente al agotarse</color>.
 If you then knock down another enemy, you will gain another 1 More. This can continue as long as you continue to knock down enemies.=Si derribas a otro enemigo, obtendrás otro 1 Más.\nEsto puede continuar mientras sigas derribando enemigos.
@@ -1246,7 +1234,7 @@ Sledgehammer=Martillo pesado
 Woohoo! And we're back!=¡Woohoo! Y estamos de vuelta!
 Increase party's Atk and ailment accuracy (1 turn). Gain 1 Beat.=Aumenta el ATQ y la precisión de dolencias del grupo (1 turno). Gana 1 Beat.
 Increase party's dmg. Increase dmg to foes with elemental ailments.\nGain 2 Beat.=Aumenta el daño del grupo.\nAumenta el daño contra enemigos con dolencias elementales.\nGana 2 Beat.
-Restore party's SP. Gain 3 Beat.=Restaura el SP del grupo. Gana 3 Beat.
+Restore party's SP. Gain 3 Beat.=Restaura el PE del grupo. Gana 3 Beat.
 {{A}}'s damage increased!\nBonus damage to foes with elemental ailments!=¡El daño de {{A}} ha aumentado!\nDaño adicional contra enemigos con dolencias elementales.
 Alert Capsule=Cápsula de alerta
 Skill Incense S=Incienso de habilidad S
@@ -1749,7 +1737,7 @@ During the event, gain more Konpaku Gems from certain quests in Realm of Repress
 DAY  SIX=DÍA SEIS
 DAY  SEVEN=DÍA SIETE
 Remaining Today: =Restante hoy:
-All foes take 100% increased damage from All-Out Attacks.=Todos los enemigos reciben un 100% más de daño por All-Out Attacks.
+All foes take 100% increased damage from All-Out Attacks.=Todos los enemigos reciben un 100% más de daño por Ataques Combinados.
 Obtain Thief Compendium Volumes and Tomes.=Obtén volúmenes y tomos del Compendio de Ladrones.
 Initial {{A}}={{A}} inicial
 Little Mermaid's Song=La canción de la Sirenita
@@ -2010,7 +1998,7 @@ Excellent!\nLet's keep it going!=¡Excelente!\n¡Sigamos así!
 That's my big bro!=¡Ese es mi hermano mayor!
 We've gotta work together,\neveryone!=¡Tenemos que trabajar juntos, todos!
 Shield=Escudo
-Grant a shield to party (2 turns), and restore SP.\nWhen ally's shield is broken, decrease cooldown by 1 action.=Otorga un escudo al equipo (2 turnos) y restaura SP.\nCuando se rompe el escudo de un aliado, reduce el tiempo de reutilización en 1 acción.
+Grant a shield to party (2 turns), and restore SP.\nWhen ally's shield is broken, decrease cooldown by 1 action.=Otorga un escudo al equipo (2 turnos) y restaura PE.\nCuando se rompe el escudo de un aliado, reduce el tiempo de reutilización en 1 acción.
 Tide of Dreams=Marea de sueños
 Grant shield to 1 ally (2 turns). Decrease weakness dmg taken. Gain 2 Down Points and 2 Seashell.=Otorga escudo a 1 aliado (2 turnos).\nReduce el daño por debilidad recibido.\nObtiene 2 Down Points y 2 conchas marinas.
 Grant shield to party (3 turns). With 4+ Seashell, increase dmg.\nDmg increase lasts 3 turns or until Shield is destroyed, then lose 2 Seashell.=Otorga escudo al equipo (3 turnos).\nCon 4+ conchas marinas, aumenta el daño.\nEl aumento dura 3 turnos o hasta que se destruya el escudo, luego pierde 2 conchas.
@@ -2514,7 +2502,7 @@ I said goodbye to Minami and the kids and left the shop.=Me despedí de Minami y
 Unlock a {{A}}logue Event=Desbloquear un evento de {{A}}LOGO
 Effects=Efectos
 No effects yet.=Aún no hay efectos.
-· Increases ally HP by 20 (effective in battle).\n· Increases ally HP by 10 (effective in battle).\n· Increases party's SP recovery by 5% (effective in battle).\n· Increases party's damage by 0.5% (effective in battle).\n· Increases ally Defense by 5 (effective in battle).\n· Grants 1 Thief Compendium Scrap when you play Realm of Repression: Pursuit of Honor.\n· Increases Whiff of Iris drop rate by 10% when you play Realm of Repression: Alluring Aroma.\n· Increases ally Attack by 5 (effective in battle).\n· Increases protagonist's HP by 40 (effective in battle).\n· Increases protagonist's HP by 40 (effective in battle).\n· Increases {{A}} damage by 1% (effective in battle).\n· Increases party's critical rate by 0.5% (effective in battle).=· Aumenta el PS del aliado en 20 (efectivo en combate).\n· Aumenta el PS del aliado en 10 (efectivo en combate).\n· Aumenta la recuperación de SP del equipo en un 5% (efectivo en combate).\n· Aumenta el daño del equipo en un 0.5% (efectivo en combate).\n· Aumenta la defensa del aliado en 5 (efectivo en combate).\n· Otorga 1 Fragmento del Compendio de Ladrones al jugar Reino de la Represión: Búsqueda del Honor.\n· Aumenta la tasa de caída de Fragancia de Iris en un 10% al jugar Reino de la Represión: Aroma Atractivo.\n· Aumenta el ataque del aliado en 5 (efectivo en combate).\n· Aumenta el HP del protagonista en 40 (efectivo en combate).\n· Aumenta el HP del protagonista en 40 (efectivo en combate).\n· Aumenta el daño de {{A}} en un 1% (efectivo en combate).\n· Aumenta la probabilidad crítica del equipo en un 0.5% (efectivo en combate).
+· Increases ally HP by 20 (effective in battle).\n· Increases ally HP by 10 (effective in battle).\n· Increases party's SP recovery by 5% (effective in battle).\n· Increases party's damage by 0.5% (effective in battle).\n· Increases ally Defense by 5 (effective in battle).\n· Grants 1 Thief Compendium Scrap when you play Realm of Repression: Pursuit of Honor.\n· Increases Whiff of Iris drop rate by 10% when you play Realm of Repression: Alluring Aroma.\n· Increases ally Attack by 5 (effective in battle).\n· Increases protagonist's HP by 40 (effective in battle).\n· Increases protagonist's HP by 40 (effective in battle).\n· Increases {{A}} damage by 1% (effective in battle).\n· Increases party's critical rate by 0.5% (effective in battle).=· Aumenta el PS del aliado en 20 (efectivo en combate).\n· Aumenta el PS del aliado en 10 (efectivo en combate).\n· Aumenta la recuperación de PE del equipo en un 5% (efectivo en combate).\n· Aumenta el daño del equipo en un 0.5% (efectivo en combate).\n· Aumenta la defensa del aliado en 5 (efectivo en combate).\n· Otorga 1 Fragmento del Compendio de Ladrones al jugar Reino de la Represión: Búsqueda del Honor.\n· Aumenta la tasa de caída de Fragancia de Iris en un 10% al jugar Reino de la Represión: Aroma Atractivo.\n· Aumenta el ataque del aliado en 5 (efectivo en combate).\n· Aumenta el HP del protagonista en 40 (efectivo en combate).\n· Aumenta el HP del protagonista en 40 (efectivo en combate).\n· Aumenta el daño de {{A}} en un 1% (efectivo en combate).\n· Aumenta la probabilidad crítica del equipo en un 0.5% (efectivo en combate).
 Can be used in Phantom Idol and Newcomer Contracts to forge contracts with new Phantom Idols. Obtainable from shops and exchange shops.=Se puede usar en Contratos de Ídolo Fantasma y de Nuevos Talentos para forjar contratos con nuevos Ídolos Fantasma.\nObtenible en tiendas y tiendas de intercambio.
 Purchase Complete=Compra completada
 Exchange Star Crystals=Intercambiar Cristales Estelares
@@ -3286,7 +3274,7 @@ Spend 2 Greenleaf. {{B}} Atk and ailment accuracy of 1 ally (2 {{A}}).=Gasta 2 G
 Royal Aid=Ayuda real
 Taunted and damage taken decreased!=Provocado y daño recibido reducido.
 {{B}} {{A}} Atk and ailment accuracy (1 turn). Gain 1 Beat.={{B}} {{A}} de ATQ y precisión de dolencias (1 turno).\nObtén 1 Beat.
-Restore {{A}} SP. Gain 3 Beat.=Restaura {{A}} SP.\nObtén 3 Beat.
+Restore {{A}} SP. Gain 3 Beat.=Restaura {{A}} PE.\nObtén 3 Beat.
 {{B}} {{A}} dmg. {{B}} dmg to foes with elemental ailments.\nGain 2 Beat.={{B}} {{A}} de daño.\n{{B}} de daño a enemigos con dolencias elementales.\nObtén 2 Beat.
 They're lookin' sick, and not in a good way!=Se ven enfermos... ¡y no en el buen sentido!
 Amazing as always, {{A}}!=¡Asombroso como siempre, {{A}}!
@@ -3505,13 +3493,8 @@ Wonder's <color\=#EF0000>Persona</color>, Schema, Weapons are not strong enough.
 {{A}}'s {0} are not strong enough.=Los {0} de {{A}} no son lo suficientemente fuertes.
 Rec. Attributes: =Atributos recomendados:
 Rec. Level: =Nivel recomendado:
-Ice Attribute Harmony Effects=Efectos de armonía del atributo Hielo
-Fire Attribute Harmony Effects=Efectos de armonía del atributo Fuego
-Gun Attribute Harmony Effects=Efectos de armonía del atributo Arma
-Physical Attribute Harmony Effects=Efectos de armonía del atributo Físico
-Concerto: {{A}}s Nuclear/Curse/Psychokinesis/Fire damage by 5%.=Concierto: Daño nuclear/maldición/psicokinesis/fuego de {{A}} aumentado en un 5%.
 Flames of Desire activates when the Phantom Thieves in\nyour party and {{A}}'s {{B}} share the same Attribute.=Llamas de deseo se activa cuando los Ladrones Fantasma en tu grupo y el {{B}} de {{A}} comparten el mismo atributo.
-Flames of Desire=Llamas de deseo
+Flames of Desire=Llamas del Deseo
 You can deploy up to 3 {{A}}s.=Puedes desplegar hasta 3 {{A}}.
 Playable once the content has been unlocked.=Jugable una vez que el contenido haya sido desbloqueado.
 Switch Box=Caja de cambio
@@ -3949,7 +3932,7 @@ Divebomb=Bombardeo en picado
 {{A}} HP by 8.3%.=PS de {{A}} aumentada en un 8.3%.
 HP Boost II=Aumento de PS II
 {{A}}lity Master II=Maestro de Agilidad II
-Restores 5.0% of max HP and 6 SP when ambushing.=Restaura un 5.0% del PS máximo y 6 SP al emboscar.
+Restores 5.0% of max HP and 6 SP when ambushing.=Restaura un 5.0% del PS máximo y 6 PE al emboscar.
 Heat Up II=Calentamiento II
 Increase 1 ally's Defense by <color\=#fffc40>17.5%</color>. For every 500 of the user's Defense, increase the target's Defense by <color\=#fffc40>2.9%</color> more, up to <color\=#fffc40>11.7%</color>. Lasts for 3 turns.=Aumenta la defensa de 1 aliado en <color\=#fffc40>17.5%</color>. Por cada 500 de defensa del usuario, aumenta la defensa adicional del objetivo en <color\=#fffc40>2.9%</color>, hasta un máximo de <color\=#fffc40>11.7%</color>. Dura 3 turnos.
 Iron Fortress=Fortaleza de hierro
@@ -3960,7 +3943,7 @@ Boon I=Bendición I
 {{A}} the success rate of insta-kill skills by 2.9%.=Probabilidad de éxito de habilidades de eliminación instantánea de {{A}} aumentada en un 2.9%.
 Deal Bless damage to all foes equal to <color\=#fffc40>42.8%</color> of Attack. Gain 1 to 2 <link\="s|111"><u>Blessing</u></link> stacks.=Inflige daño de bendición a todos los enemigos igual al <color\=#fffc40>42.8%</color> del ATQ.\nObtén de 1 a 2 acumulaciones de <link\="s|111"><u>Bendición</u></link>.
 Divine Guidance I=Guía divina I
-{{A}} SP recovery rate by 4.4%.=Tasa de recuperación de SP de {{A}} en un 4.4%
+{{A}} SP recovery rate by 4.4%.=Tasa de recuperación de PE de {{A}} en un 4.4%
 Nurture II=Nutrir II
 {{A}} Pinpoint II Wind Boost II Wind Reduction II={{A}} Identificación II / Aumento de viento II / Reducción de viento II
 Whirlwind of Fealty I=Torbellino de lealtad I
@@ -3995,7 +3978,7 @@ One day, they'll tell tales of Captain Curly-Hair Anne,\nthe greatest pirate to 
 I'll confront their greed with knowledge!\nWhen I make a decision, I always see it through!=¡Enfrentaré su codicia con conocimiento!\nCuando tomo una decisión, ¡siempre la cumplo!
 Hoom, so that girl used her quick wits and\npersuasiveness to get her way...=Hoom, así que esa chica usó su ingenio y poder de persuasión para salirse con la suya...
 Her skills of negotiation are truly something\nto aspire to.=Sus habilidades de negociación son verdaderamente dignas de admirar.
-Through watching Anne's\nexploits, I learned how to put\nmy <sprite\=7><color\=#e6b625>Knowledge</color> to good use.=Al ver las hazañas de Anne, aprendí a usar bien mi <sprite\=7><color\=#e6b625>Conocimiento</color>.
+Through watching Anne's\nexploits, I learned how to put\nmy <sprite\=7><color\=#e6b625>Knowledge</color> to good use.=Al ver las hazañas de Anne,\naprendí a usar bien\nmi <sprite\=7><color\=#e6b625>Conocimiento</color>.
 Hoom, it's over...=Hoom, se ha terminado...
 Well, let's be on our way.=Bueno, sigamos nuestro camino.
 {{A}}24 d 14 h 26 min={{A}}24 d 14 h 26 min
@@ -4348,7 +4331,7 @@ Fuse in the {{A}}=Fusiona en el {{A}}
 Lion Dance of Oblivion=Danza del león del olvido
 Flowers of Naihe=Flores de Naihe
 W<color\=#000000>i</color>nd Damage Up=A<color\=#000000>u</color>mento de daño de viento
-Restore {{A}} SP by 17.\nGain 3 Beat.=Restaura {{A}} SP en 17.\nObtén 3 Ritmos.
+Restore {{A}} SP by 17.\nGain 3 Beat.=Restaura {{A}} PE en 17.\nObtén 3 Ritmos.
 Gained {{A}} Soup!=¡Has obtenido sopa {{A}}!
 For every stack, increase dmg by 25%. Stacks up to 2 times.=Por cada acumulación, aumenta el daño en un 25%.\nSe acumula hasta 2 veces.
 Damage Up=Aumento de daño
@@ -4358,7 +4341,6 @@ M<color\=#000000>e</color>ng Po Soup=M<color\=#000000>e</color>ng Po Sopa
 F<color\=#000000>o</color>rget=O<color\=#000000>l</color>vido
 Lair of Arcane Flame=Guarida de la llama arcana
 A demon who tempts sleeping men and attacks infants. She is the daughter of the demoness, Lilith. Like her mother, she drains men of their essence.=Un demonio que tienta a los hombres dormidos y ataca bebés.\nEs hija de la demonesa Lilith.\nAl igual que su madre, drena la esencia de los hombres.
-Duet (Wind): Increases the Phantom Thieves' Wind skill damage\nby 10%.=Dúo (Viento): aumenta el daño de habilidades de viento de los Ladrones Fantasma en un 10%.
 Flames of Desire activates when the Phantom Thieves in\nyour party and {{A}}'s Persona share the same Attribute.=Llamas del Deseo se activa cuando los Ladrones Fantasma de tu grupo y la Persona de {{A}} comparten el mismo atributo.
 Leo Kamiyama=Leo Kamiyama
 You can deploy up to 3 Personas.=Puedes desplegar hasta 3 Personas.
@@ -4713,7 +4695,7 @@ Increases ally HP by 20 (effective in battle).=Aumenta el PS de los aliados en 2
 Increases {{A}} damage by 0.5% (effective in battle).=Aumenta el daño de {{A}} en un 0,5% (efectivo en combate).
 Cannot yet obtain this type of tool.=Aún no puedes obtener este tipo de herramienta.
 Bar=Bar
-Increases {{A}} SP recovery by 5% (effective in battle).=Aumenta la recuperación de SP de {{A}} en un 5% (efectivo en combate).
+Increases {{A}} SP recovery by 5% (effective in battle).=Aumenta la recuperación de PE de {{A}} en un 5% (efectivo en combate).
 Triple Seven=Triple Siete
 Ore No Beko=Ore no Beko
 Increases {{A}} Physical and Gun damage by 0.3% (effective in battle).=Aumenta el daño Físico y de Armas de {{A}} en un 0,3% (efectivo en combate).
@@ -4811,6 +4793,8 @@ I'm suddenly feeling sleepy...=De repente me siento somnoliento...
 *chuckle*=*risita*
 So, we meet again.=Así que nos volvemos a encontrar.
 The place you find yourself now...=El lugar en el que te encuentras ahora...
+...is known as the Velvet Room.=...es conocida como la Habitación Terciopelo.
+Story Animation: Velvet Room=Animación de historia: Habitación Terciopelo
 Ah, that's right. Where are my manners?\nYou may call me... <color\=#FF423F>Igor</color>.=Ah, cierto.\n¿Dónde están mis modales?\nPuedes llamarme... <color\=#FF423F>Igor</color>.
 And this here is... <color\=#FF423F>Merope</color>. She serves\nas my assistant.=Y ella es... <color\=#FF423F>Merope</color>.\nEs mi asistente.
 I am {{A}}. Pleased to make your acquaintance.=Soy {{A}}.\nEncantado de conocerte.
@@ -5241,12 +5225,12 @@ It is what you just witnessed. That power.=Es lo que acabas de presenciar.\nEse 
 Some enemies have <color\=#FF423F>weaknesses</color> you can exploit to knock them down.=Algunos enemigos tienen <color\=#FF423F>debilidades</color> que puedes explotar para derribarlos.
 Skills have various <color\=#FF423F>elemental attributes</color>, and enemies can be <color\=#FF423F>weak</color> to certain attributes. By attacking an enemy's weakness, you can deal more damage and knock them down.=Las habilidades tienen varias <color\=#FF423F>atributos elementales</color> y los enemigos pueden ser <color\=#FF423F>débil</color> a ciertos atributos.\nAl atacar la debilidad de un enemigo, puedes causar más daño y derribarlos.
 Defeat the <color\=#FF423F>enemy</color>.=Derrotar al <color\=#FF423F>enemigo</color>.
-When all foes are knocked down, you can unleash an <color\=#FF423F>All-Out Attack</color> to deal heavy damage to all targets.=Cuando todos los enemigos estén derribados,\npuedes desatar un <color\=#FF423F>All-Out Attack</color> para infligir\ngran daño a todos los objetivos.
+When all foes are knocked down, you can unleash an <color\=#FF423F>All-Out Attack</color> to deal heavy damage to all targets.=Cuando todos los enemigos estén derribados,\npuedes desatar un <color\=#FF423F>Ataque Combinado</color> para infligir\ngran daño a todos los objetivos.
 My thoughts exactly. I'm glad you understand.=Justo lo que pensaba.\nMe alegra que lo entiendas.
 *screech* I was getting to that! Don't interrupt.=*¡Chillido!* ¡Ya iba a decirlo!\n¡No interrumpas!
 Like Lufel said, I'm pretty exhausted...=Como dijo Lufel, estoy bastante agotado...
 ALL=TODO
-If you knock down all the enemies, your team can unleash an <color\=#FF423F>All-Out Attack</color>.=Si derribas a todos los enemigos, tu equipo puede desatar un <color\=#FF423F>All-Out Attack</color>.
+If you knock down all the enemies, your team can unleash an <color\=#FF423F>All-Out Attack</color>.=Si derribas a todos los enemigos, tu equipo puede desatar un <color\=#FF423F>Ataque Combinado</color>.
 Should we grab a\ndrink somewhere?=¿Deberíamos tomar una bebida en algún lugar?
 Contracts can now be unlocked. Do you want to do so now? Unlocking before Contracts may affect how you experience the story.\n*This won't affect the story content.=Los contratos ahora se pueden desbloquear.\n¿Quieres hacerlo ahora?\nDesbloquear antes de los contratos puede afectar la forma en que experimenta la historia.\n*Esto no afectará el contenido de la historia.
 We reached our sales\nquota for the month!\nLet's celebrate!=¡Llegamos a nuestra cuota de ventas para el mes!\n¡Celebremos!
@@ -6854,7 +6838,7 @@ Fate's Beginning=El Comienzo del Destino
 The World's Anomaly=La Anomalía del Mundo
 Another Self=Otro Yo
 Agent=Agente
-Story Animation: It's Showtime=Animación de la historia: Es Showtime
+Story Animation: It's Showtime=Animación de la historia: Es la hora del espectáculo
 Story Animation: Showdown=Animación de la historia: Confrontación
 Story Animation: Opening=Animación de la historia: Apertura
 Story Animation: Morning at Shibuya Station=Animación de la historia: Mañana en la estación de Shibuya
@@ -6886,7 +6870,7 @@ Kind Female Student=Estudiante Amable
 Though scientifically, the principle applies\nto various kinds of produce.=Aunque científicamente, el principio se aplica a varios tipos de productos agrícolas.
 Unfortunately, the correct answer is apple.=Desafortunadamente, la respuesta correcta es manzana.
 Story Animation: Subway Slammer=Animación de la historia: El Embestidor de las Vías
-Story Animation:  It's Showtime=Animación de la historia: Es Showtime
+Story Animation:  It's Showtime=Animación de la historia: Es la Hora del Espectáculo
 Story Animation:  Awakening of Desire=Animación de la historia: Despertar del Deseo
 Story Animation:  Into the Metaverse=Animación de la historia: Al Metaverso
 Story Animation:  Persona Awakens=Animación de la historia: Persona Despierta
@@ -7338,7 +7322,7 @@ Cross-Country Trip=Viaje por todo el país
 Do you want to leave Mementos and return to the city?=¿Quieres salir de Mementos y volver a la ciudad?
 {{A}}.22={{A}}.22
 Restores 20% HP to 1 ally.=Restaura el 20 % de los PS a 1 aliado.
-Restores 10% SP to 1 ally.=Restaura el 10 % de los SP a 1 aliado.
+Restores 10% SP to 1 ally.=Restaura el 10 % de los PE a 1 aliado.
 Hope it's something good!=¡Espero que sea algo bueno!
 Area 1 North Side=Área 1 lado norte
 Can be obtained at Ticket Level 1=Se puede obtener en el nivel de boleto 1
@@ -7718,7 +7702,7 @@ There might be a Shadow\nsomewhere 'round here. Don't get sloppy.=Puede haber un
 You look suspicious!\nWho are you!?=¡Te ves sospechoso!\n¿¡Quién eres!?
 Wh-Who goes there!?=¿Q-Quién anda ahí?
 Get 60% progress in Stage 1-7=Obtén un progreso del 60% en la etapa 1-7
-{{A}} the last battle in Stage 1-13 with an All-Out Attack={{A}} la última batalla en la etapa 1-13 con un All-Out Attack 
+{{A}} the last battle in Stage 1-13 with an All-Out Attack={{A}} la última batalla en la etapa 1-13 con un Ataque Combinado
 Defeat 2 foes in Stage 1-7's last battle in 1 action with Gun attacks=Derrota a 2 enemigos en la última batalla de la etapa 1-7 en 1 acción usando ataques con armas de fuego
 {{A}} the last battle in Stage 1-4 within 10 turns={{A}} la última batalla en la etapa 1-4 dentro de 10 turnos
 Defeat 6 strong enemies(1/6)=Derrota a 6 enemigos fuertes (1/6)
@@ -8023,7 +8007,6 @@ Pan-Fried Gyoza=Gyoza frito en sartén
 Spring Rolls=Rollos primavera
 Spend time at Leblanc=Pasar tiempo en Leblanc
 I could go to Leblanc...=Podría ir a Leblanc...
-Complete daily Pass goals to get rewards. Goals left: 　=Completa los objetivos diarios del Pase para obtener\nrecompensas.                        Objetivos restantes: 　
 M<color\=#ff0000ff>o</color>rgana=M<color\=#ff0000ff>o</color>rgana
 I do sometimes think I'd like to try\nRen's coffee, but...=A veces pienso que me gustaría probar el café de Ren, pero...
 Oh, Nagisa! Could you blow on it\na bit for me? This tongue of mine\nis pretty sensitive.=¡Oh, Nagisa!\n¿Podrías soplarle un poco por mí?\nEsta lengua mía es bastante sensible.
@@ -8723,7 +8706,7 @@ Lovers' Duet=Dueto de Amantes
 Nurture I=Nutrir I
 Decrease 1 foe's Defense by <color\=#fffc40>33.0%</color> for 3 turns.=Reduce la DEF de 1 enemigo en <color\=#fffc40>33.0%</color> durante 3 turnos.
 Increase party's ailment accuracy and ailment resistance by <color\=#fffc40>5.5%</color>, and Speed by 3 for 3 turns. For every 25% of the user's ailment accuracy, increase party's ailment accuracy by <color\=#fffc40>0.9%</color> more, up to <color\=#fffc40>3.7%</color>.=Aumenta la precisión y resistencia a dolencias del grupo en <color\=#fffc40>5.5%</color> y la velocidad en 3 durante 3 turnos.\nPor cada 25% de precisión a dolencias del usuario, aumenta la precisión del grupo en <color\=#fffc40>0.9%</color> adicional, hasta un máximo de <color\=#fffc40>3.7%</color>.
-Increase SP recovery rate by 4.4%.=Aumenta la tasa de recuperación de SP en un 4.4%.
+Increase SP recovery rate by 4.4%.=Aumenta la tasa de recuperación de PE en un 4.4%.
 Psio {{A}}.3=Psio {{A}}.3
 Psy Boost II= Aumento Psíquico II
 Fire Reduction II=Reducción de Fuego II
@@ -9893,7 +9876,7 @@ Cut the Threads of Fate I=Cortar los hilos del destino I
 Deal Electric damage to 1 foe equal to <color\=#fffc40>85.5%</color> of Attack. <color\=#fffc40>47.5%</color> chance to inflict <link\="s|104"><u>Shock</u></link> for 2 turns.=Inflige daño eléctrico a 1 enemigo igual al <color\=#fffc40>85.5%</color> del ATQ. <color\=#fffc40>47.5%</color> de probabilidad de aplicar <link\="s|104"><u>Choque</u></link> durante 2 turnos.
 Increase Electric damage by 6.7%.=Aumenta el daño eléctrico en un 6,7%.
 Spell Master II=Maestro de hechizos II
-Decrease SP cost of skills by 3.6%.=Disminuye el costo de SP de las habilidades en un 3,6%.
+Decrease SP cost of skills by 3.6%.=Disminuye el costo de PE de las habilidades en un 3,6%.
 Increase <link\="s|108"><u>Forget</u></link> resistance by 12.5%.=Aumenta la resistencia a <link\="s|108"><u>Olvido</u></link> en un 12,5%.
 Decrease critical taken rate by 5%.=Disminuye la probabilidad de recibir golpes críticos en un 5%.
 At the start of battle, increase Attack by 12.1% for 2 turns.=Al comienzo de la batalla, aumenta el ATQ en un 12,1% durante 2 turnos.
@@ -9906,7 +9889,6 @@ Guardian=Guardián
 Medic=Médico
 Sweeper=Barrendero
 Assassin=Asesino
-Duet (Curse): Increases the Phantom Thieves' Curse skill damage\nby 10%.=Dueto (Maldición): aumenta el daño de las habilidades de maldición de los Ladrones Fantasma en un 10%.
 Maldon Lalo=Maldon Lalo
 Freeno Wyrmbane=Freeno Wyrmbane
 marcos landau=Marcos Landau
@@ -10348,7 +10330,7 @@ C<color\=#000000>u</color>rse Damage Up=A<color\=#000000>u</color>mento de daño
 {{A}}'s damage increased!=¡El daño de {{A}} ha aumentado!
 Elec Damage Up=Aumento de daño eléctrico
 Curse Damage Up=Aumento de daño de maldición
-You don't have enough Current SP.=No tienes suficiente SP actual.
+You don't have enough Current SP.=No tienes suficiente PE actual.
 Hey, pull it together!\nAre you okay?=¡Oye, recupérate!\n¿Estás bien?
 Close Hint=Cerrar sugerencia
 W<color\=#000000>e</color>aken=D<color\=#000000>e</color>bilitar
@@ -11081,7 +11063,7 @@ Are you drunk?=¿Estás borracha?
 Well, who's to say.=Bueno, quién sabe.
 Despite her outward demeanor, she was rather\nkind. Is this the path she spoke of?=A pesar de su actitud exterior, fue bastante amable.\n¿Será este el camino del que hablaba?
 I must agree, this doesn't seem like the safest part of town. Let us make haste.=Debo admitir que esta no parece la zona más segura de la ciudad.\nApresurémonos.
-A Heartfelt Message: Part 1=Un mensaje sincero: Parte 1
+A Heartfelt Message: Part 1=Un Mensaje Sincero: Parte 1
 Talk to the inebriated lady=Habla con la dama ebria
 Head to the station=Dirígete a la estación
 There's a ton of drunk people out in Shinjuku... I need to hurry to the station and take the train home.=Hay muchísima gente borracha en Shinjuku...\nNecesito apurarme a la estación y tomar el tren a casa.
@@ -11839,10 +11821,10 @@ Do you want to trade 4★ Weapon Case x1 for Sunstaff x1?=¿Quieres intercambiar
 The treasure of {{A}} Palace.=El tesoro del palacio {{A}}.
 Bizarre Crown=Corona extraña
 Key Item=Elemento clave
-Can be used in the Metaverse.\nFor 3 battles, restore party's SP by 2% at the start of each turn. (When used.)=Se puede usar en el Metaverso.\nDurante 3 batallas, restaura el SP del grupo en un 2% al comienzo de cada turno.\n(Cuando se usa).
+Can be used in the Metaverse.\nFor 3 battles, restore party's SP by 2% at the start of each turn. (When used.)=Se puede usar en el Metaverso.\nDurante 3 batallas, restaura el PE del grupo en un 2% al comienzo de cada turno.\n(Cuando se usa).
 Can be used in the Metaverse.\nRestore 23% of max HP to party. (When used.)=Se puede usar en el Metaverso.\nRestaura el 23% del HP máximo del grupo.\n(Cuando se usa).
 Veteran Technique=Técnica veterana
-Can be used in the Metaverse.\nFor 2 battles, restore party's SP by 2% at the start of each turn. (When used.)=Se puede usar en el Metaverso.\nDurante 2 batallas, restaura el SP del grupo en un 2% al comienzo de cada turno.\n(Cuando se usa).
+Can be used in the Metaverse.\nFor 2 battles, restore party's SP by 2% at the start of each turn. (When used.)=Se puede usar en el Metaverso.\nDurante 2 batallas, restaura el PE del grupo en un 2% al comienzo de cada turno.\n(Cuando se usa).
 Strawberry Flan=Flan de fresa  
 Crêpe=Crêpe  
 Fruit Juice=Zumo de frutas  
@@ -11850,7 +11832,7 @@ Turning on VSync will disable the frame rate limit. Do you want to continue?=Act
 If you turn off VSync, the frame rate will be automatically set to 60. Are you sure?=Si desactivas VSync, la velocidad de fotogramas se establecerá automáticamente en 60.\n¿Estás seguro?
 Food=Alimento
 A dish made with flour, eggs, and pork.\nRestore 16% of max HP to party. (When used.)=Un plato hecho con harina, huevos y cerdo.\nRestaura el 16% del HP máximo del grupo.\n(Cuando se usa).
-Can be used in the Metaverse.\nFor 5 battles, restore party's SP by 2% at the start of each turn. (When used.)=Se puede usar en el Metaverso.\nDurante 5 batallas, restaura el SP del grupo en un 2% al comienzo de cada turno.\n(Cuando se usa).
+Can be used in the Metaverse.\nFor 5 battles, restore party's SP by 2% at the start of each turn. (When used.)=Se puede usar en el Metaverso.\nDurante 5 batallas, restaura el PE del grupo en un 2% al comienzo de cada turno.\n(Cuando se usa).
 Vending Machine (Yongen-Jaya)=Máquina expendedora (Yongen-Jaya)
 Apple Juice=Zumo de manzana
 Vending Machine ({{A}})=Máquina expendedora ({{A}})
@@ -12124,7 +12106,7 @@ Let us begin by investigating the building\njust ahead of here.=Comencemos inves
 There is no telling what sort of enemy could\nappear. Stay alert, {{A}}.=No se sabe qué tipo de enemigo podría aparecer. Mantente alerta, {{A}}.
 Looks like we can get in\nthrough here...=Parece que podemos entrar por aquí...
 It doesn't seem to be locked... Shall we\ngo inside?=No parece estar cerrada... ¿Entramos?
-SP Exhibition Room=Sala de exposiciones SP
+SP Exhibition Room=Sala de exhibición de SP
 Wh-What's going on!?=¿Qu-Qué está pasando?
 So the unlocked door was a trap! How could\nI have fallen for something so obvious...!?=¡Así que la puerta abierta era una trampa! ¿¡Cómo pude caer en algo tan obvio...!?
 We must run before we're surrounded!=¡Debemos huir antes de que nos rodeen!
@@ -13861,7 +13843,6 @@ Qualia {{A}}.=Qualia {{A}}.
 Thick as Thieves=Espeso como un ladrón
 Persona5: The Phantom X\nThieves' Alliance\n<color\=#FFD145>Increases party's Attack by 10 (effective in battle).</color>=Persona5: La Alianza de Ladrones Phantom X\n<color\=#FFD145>Aumenta el Ataque del grupo en 10 (efectivo en batalla).</color>
 <color\=#FFFF00>Increases Ren's Defense by 10 (effective in battle).</color>=<color\=#FFFF00>Aumenta la Defensa de Ren en 10 (efectivo en batalla).</color>
-Ren cut-in that displays\nduring an All-Out Attack.\n<color\=#FFD145>Increases Ren's Defense by 10 (effective in battle).</color>=Ren recortado que se muestra durante un All-Out Attack .\n<color\=#FFD145>Aumenta la Defensa de Ren en 10 (efectivo en batalla).</color>
 Velvet Reception Room=Sala de Recepción Terciopelo
 Velvet Reception Room<alpha\=#00>____<alpha\=#FF>Velvet Reception Room<alpha\=#00>____<alpha\=#FF>=Sala de Recepción Terciopelo<alpha\=#00>____<alpha\=#FF>Sala de Recepción Terciopelo<alpha\=#00>____<alpha\=#FF>
 Pevel.21=Pevel.21
@@ -14663,7 +14644,7 @@ F<color\=#000000>a</color>lse Death=F<color\=#000000>a</color>lse Muerte
 Receive 60 Railway Coins.=Recibe 60 Monedas Ferroviarias.
 Extra Wallet=Billetera extra
 A spare wallet with some loose change inside.=Una cartera de repuesto con algo de suelto dentro.
-<nobr>After an ally is hit by <link\="s|170"><u>Scarlet Tide</u></link>, recover (<color\=#50b50d>10</color>/15/20) SP.</nobr>=<nobr>Después de que un aliado sea golpeado por <link\="s|170"><u>Marea Escarlata</u></link> recuperar (<color\=#50b50d>10</color>/15/20) SP.</nobr>
+<nobr>After an ally is hit by <link\="s|170"><u>Scarlet Tide</u></link>, recover (<color\=#50b50d>10</color>/15/20) SP.</nobr>=<nobr>Después de que un aliado sea golpeado por <link\="s|170"><u>Marea Escarlata</u></link> recupera (<color\=#50b50d>10</color>/15/20) PE.</nobr>
 <nobr>Increase party's max HP by <color\=#50b50d>10.2%</color>→<color\=#c900e4>13.6%</color>.</nobr>=<nobr>Aumenta los PS máximos del grupo en <color\=#50b50d>10.2%</color>→<color\=#c900e4>13.6%</color>.</nobr>
 <nobr>When using a single-target attack skill, decrease target's damage by <color\=#50b50d>18.0%</color>→<color\=#c900e4>24.0%</color> for 1 turn.</nobr>=<nobr>Al utilizar una habilidad de ataque de un solo objetivo, el daño del objetivo disminuye en <color\=#50b50d>18.0%</color>→<color\=#c900e4>24.0%</color> durante 1 turno.</nobr>
 Lucid IV=Lúcido IV
@@ -14723,12 +14704,12 @@ Echoes of Purity II=Ecos de pureza II
 Concentrate Nurture III Divine Grace III Nuke Boost III=Concentrate Nurture III Divine Grace III Nuke Boost III
 Fae Revelry I=Fae Revelry I
 Increase next magic damage by <color\=#fffc40>39.1%</color>. Lasts for 1 turn.=Aumenta el siguiente daño mágico en <color\=#fffc40>39.1%</color>. Dura 1 turno.
-Increase SP recovery rate by 5.7%.=Aumento de la tasa de recuperación de SP en un 5,7%.
+Increase SP recovery rate by 5.7%.=Aumento de la tasa de recuperación de PE en un 5,7%.
 Increase Nuclear damage by 8.7%.=Aumenta el daño Nuclear en un 8,7%.
 Nocturnal Flash {{A}}.3=Destello nocturno {{A}}.3
 Concentrate {{A}}.3=Concentrado {{A}}.3
 Heat Up III=Calentamiento III
-Restores 6.0% of max HP and 8 SP when ambushing.=Restaura un 6,0% de los PS máximos y 8 PS al emboscar.
+Restores 6.0% of max HP and 8 SP when ambushing.=Restaura un 6,0% de los PS máximos y 8 PE al emboscar.
 You can select one of the 5★ Phantom Thieves below.=Puedes seleccionar uno de los 5★ Phantom Thieves a continuación.
 Do you want to use the following to perform Blissful Mix 1 times?=¿Quieres utilizar lo siguiente para realizar Blissful Mix 1 veces?
 Resist Elec=Resistencia Electrica
@@ -14881,7 +14862,7 @@ Deal over 50,000 damage during battle. =Inflige más de 50.000 de daño durante 
 Deal over 10,000 damage during battle. =Inflige más de 10.000 de daño durante la batalla. 
 Decisive Strike=Golpe decisivo
 Unified Attack=Ataque Unificado
-End a battle with an All-Out Attack. =Termina una batalla con un All-Out Attack . 
+End a battle with an All-Out Attack. =Termina una batalla con un Ataque Combinado. 
 Overcoming the Self=Superar el yo
 Merciful Healer=Sanador misericordioso
 Pursuer of Arts=Perseguidor de las artes
@@ -15361,7 +15342,7 @@ The effect time of this fertilizer is longer than the remaining growth time. Do 
 [Napa Cabbage]\nUsed as an ingredient when cooking in your home kitchen.=[Napa Cabbage] Se utiliza como ingrediente al cocinar en la cocina de casa.
 [Carrot]\nUsed as an ingredient when cooking in your home kitchen.=[Zanahoria] Se utiliza como ingrediente al cocinar en la cocina de casa.
 <nobr>After a foe is hit by <link\="s|170"><u>Scarlet Tide</u></link>, decrease Defense by 18.0% for 1 turn.</nobr>=<nobr>Después de que un enemigo sea golpeado por <link\="s|170"><u>Marea Escarlata</u></link> disminuye la Defensa un 18,0% durante 1 turno.</nobr>
-<nobr>After an ally is hit by <link\="s|170"><u>Scarlet Tide</u></link>, recover 10 SP.</nobr>=<nobr>Después de que un aliado sea golpeado por <link\="s|170"><u>Marea Escarlata</u></link>Recupera 10 SP.</nobr>
+<nobr>After an ally is hit by <link\="s|170"><u>Scarlet Tide</u></link>, recover 10 SP.</nobr>=<nobr>Después de que un aliado sea golpeado por <link\="s|170"><u>Marea Escarlata</u></link>Recupera 10 PE.</nobr>
 <nobr>When an ally is hit by <link\="s|170"><u>Scarlet Tide</u></link>, increase Defense by 24.0% for 1 turn.</nobr>=<nobr>Cuando un aliado es golpeado por <link\="s|170"><u>Marea Escarlata</u></link> Aumenta la Defensa un 24,0% durante 1 turno.</nobr>
 <nobr>Decrease allies' damage taken from <link\="s|170"><u>Scarlet Tide</u></link> by 64.0%.</nobr>=<nobr>Disminuye el daño que reciben los aliados de <link\="s|170"><u>Marea Escarlata</u></link> en un 64,0%.</nobr>
 <nobr>Increase foes' damage taken from <link\="s|170"><u>Scarlet Tide</u></link> by 48.0%.</nobr>=<nobr>Aumenta el daño que reciben los enemigos de <link\="s|170"><u>Marea Escarlata</u></link> en un 48,0%.</nobr>
@@ -15400,7 +15381,7 @@ Revelatory Record=Registro revelador
 Mournful Record=Disco Lúgubre
 Hero's Sword=Espada del héroe
 Increase {{A}} Point gain rate by 5%.=Aumenta la tasa de ganancia de puntos {{A}} en un 5%.
-Ally SP cost +5%=Coste SP aliado +5
+Ally SP cost +5%=Coste PE aliado +5
 <color\=#FF423F>Gates of the Nightmare Catcher</color> is a challenge that Companio members can undertake together.\nEvery Wednesday at 8 PM UTC, new bosses will appear for the Phantom Thieves to face.\nDuring the challenge, your Phantom Thieves, Personas, and equipment will be <color\=#FF423F>locked</color>.\nIf you want to make any changes to your party, you will need to <color\=#FF423F>reset the challenge</color>.=<color\=#FF423F>El Portal del Cazapesadillas</color> son un desafío que los miembros de Companio pueden enfrentar juntos.\nCada miércoles a las 8 PM UTC, aparecerán nuevos jefes para que los Ladrones Fantasma los enfrenten.\nDurante el desafío, tus Ladrones Fantasma, Personas y equipo quedarán <color\=#FF423F>bloqueados</color>.\nSi deseas realizar cambios en tu grupo, deberás <color\=#FF423F>reiniciar el desafío</color>.
 In the <color\=#FF423F>Realm of Repression</color>, you can earn Personas and materials necessary for training.=En la <color\=#FF423F>Reino de la represión</color> puedes ganar Personas y materiales necesarios para la formación.
 Mementos is composed of many <color\=#FF423F>areas</color>.\nYou can fast travel to any areas that you have reached by selecting it on the map.=Mementos se compone de muchos <color\=#FF423F>zonas</color>. Puedes viajar rápidamente a cualquier zona a la que hayas llegado seleccionándola en el mapa.
@@ -15653,7 +15634,7 @@ Highlight Enhanced: Increase maximum Frenzied Voltage stacks to 4. Inflict up to
 Fist of the Phantom Star=El puño de la estrella fantasma
 Increase the skill levels of President's Prowess and Thief Tactics by 3.=Aumenta en 3 los niveles de habilidad de Proeza del presidente y Tácticas de ladrón.
 Feel My Wrath=Siente mi ira
-When <link\="s|178"><u>Crash Out</u></link> is active, Makoto can gain an extra action. (These extra actions do not affect the duration of effects with turn limits.)\nAlso decrease the SP cost of Thermonuclear Fury by 33%.=Cuando <link\="s|178"><u>Crash Out</u></link> está activo, Makoto puede ganar una acción extra. (Estas acciones extra no afectan a la duración de los efectos con límite de turnos.) También disminuye el coste de PS de Furia termonuclear un 33%.
+When <link\="s|178"><u>Crash Out</u></link> is active, Makoto can gain an extra action. (These extra actions do not affect the duration of effects with turn limits.)\nAlso decrease the SP cost of Thermonuclear Fury by 33%.=Cuando <link\="s|178"><u>Crash Out</u></link> está activo, Makoto puede ganar una acción extra. (Estas acciones extra no afectan a la duración de los efectos con límite de turnos.) También disminuye el coste de PE de Furia termonuclear un 33%.
 Fist of Justice!=¡Puño de Justicia!
 This skill is already at max level.=Esta habilidad ya está al máximo nivel.
 When attacking a foe with a skill, gain 1 <link\="s|177"><u>Tenacity</u></link> stack. If <link\="s|178"><u>Crash Out</u></link> is not active, at the end of the turn, gain more Tenacity stacks based on the number of elemental ailments inflicted on foes (including foes defeated during the turn). If Makoto has 5 Tenacity stacks at the start of her turn, she can activate Crash Out, increasing Attack by 40% and Defense by 20%, and changing Nuclear Fury to Thermonuclear Fury for 2 turns. When Crash Out ends, lose all Tenacity stacks.=Al atacar a un enemigo con una habilidad, gana 1 acumulación de <link\="s|177"><u>Tenacidad</u></link>. Si <link\="s|178"><u>Crash Out</u></link> no está activo, al final del turno gana más acumulaciones de Tenacidad según la cantidad de estados elementales infligidos a los enemigos (incluidos los derrotados durante el turno).\nSi Makoto tiene 5 acumulaciones de Tenacidad al inicio de su turno, puede activar Crash Out, lo que aumenta el Ataque en un 40% y la Defensa en un 20%, y transforma Furia Nuclear en Furia Termonuclear durante 2 turnos. Cuando Crash Out termina, se pierden todas las acumulaciones de Tenacidad.
@@ -15962,7 +15943,7 @@ Skill healing decreased!=¡Habilidad de curación disminuida!
 P<color\=#000000>o</color>wer of Death=P<color\=#000000>o</color>der de la Muerte
 W<color\=#000000>i</color>thering=M<color\=#000000>a</color>rchitamiento
 Horn of Death=Cuerno de la Muerte
-SP costs increased!=Aumento de los costes de SP
+SP costs increased!=¡Aumentó el coste de PE!
 F<color\=#000000>a</color>mine=F<color\=#000000>a</color>mina
 Horn of Death's damage up effect is increased by 15%. {{A}}'s max HP is increased by 20%.=El efecto de aumento de daño del Cuerno de la Muerte ha aumentado un 15%. Los PS máximos de {{A}} aumentan un 20%.
 Horn of Pestilence's max HP down effects are increased by 15%. {{A}}'s Attack is increased by 10%.=Los efectos de reducción de PS máximos del Cuerno de la Pestilencia aumentan un 15%. El ataque de {{A}} aumenta un 10%.
@@ -16278,7 +16259,6 @@ The damage increase from {{A}}'s Growth of All Things is increased by 55%. {{A}}
 {{A}}'s Growth of All Things also decreases damage taken by 12.5%. {{A}}'s max HP is increased by 20%.=Crecimiento de todas las cosas de {{A}} también reduce el daño recibido un 12,5%. Los PS máximos de {{A}} aumentan un 20%.
 Targets marked by {{A}}'s Eye of Heaven take 25% increased damage. {{A}}'s Attack is increased by 25%.=Los objetivos marcados por el Ojo del Cielo de {{A}} reciben un 25% más de daño. El Ataque de {{A}} aumenta un 25%.
 The number of targets marked by {{A}}'s Eye of Heaven is increased to 2. {{A}}'s max HP is increased by 80%.=El número de objetivos marcados por Ojo del cielo de {{A}} aumenta a 2. Los PS máximos de {{A}} aumentan un 80%.
-Concerto: Increases Gun/Fire/Ice/Nuclear damage by 5%.=Concierto: aumenta el daño de Pistola/Fuego/Hielo/Nuclear un 5%.
 Horn of Death decreases skill healing by 30% more. {{A}}'s Attack is increased by 10%.=Cuerno de la Muerte disminuye la curación de habilidades un 30% más. El Ataque de {{A}} aumenta un 10%.
 29.3% chance to inflict Forget on all foes (2 turns).=29,3% de probabilidad de infligir Olvido a todos los enemigos (2 turnos).
 C<color\=#000000>r</color>itical Up=A<color\=#000000>u</color>mento de Crítico
@@ -16291,7 +16271,7 @@ Fire dmg to all foes (51.3% Atk). 28.5% chance to inflict {{A}}.=Daño de fuego 
 Can overclock a level 30–50 weapon.=Puede overclockear un arma de nivel 30-50.
 Today's Boosted Bonus: =La bonificación impulsada de hoy: 
 They're in a bad spot!\nHelp them!=¡Están en una mala situación! Ayúdales.
-Decrease SP cost of skills by 4.8%.=Disminuye el coste de habilidades en un 4,8%.
+Decrease SP cost of skills by 4.8%.=Reduce el coste de PE de las habilidades en un 4.8%.
 Increase ailment accuracy 20%. After using skills on foes, increase Curse dmg taken 5.3% per stack of Curse (1 turn, max 4 stacks).=Aumenta la precisión de las dolencias un 20%. Tras usar habilidades en enemigos, aumenta el daño recibido por Maldición un 5,3% por acumulación de Maldición (1 turno, máximo 4 acumulaciones).
 Increase damage by 20%.=Aumenta el daño en un 20%.
 {{A}} of Ruin={{A}} de la Ruina
@@ -16391,7 +16371,6 @@ A rival role like a Black Ranger's real\nrad too!=¡Un papel rival como el de un
 Create a Companio with your fellow members.=Crea un Companio con tus compañeros.
 MC Yellow=MC Amarillo
 Un goonersito más=Un goonersito más
-Ensemble (Nuclear): Increases the Phantom Thieves' Nuclear skill damage\nby 12%.=Conjunto (Nuclear): Aumenta el daño de la habilidad Nuclear de los ladrones fantasma un 12%.
 Challenge Difficulty: NiGHTMaRe=Desafío Dificultad: NiGHTMaRe
 Filene=Filene
 SAO Company=SAO Company
@@ -16557,7 +16536,7 @@ This is the VIP area!=¡Esta es la zona VIP!
 You can't escape!=¡No puedes escapar!
 Lobby: South=Vestíbulo: Sur
 We've arrived. Let's go.=Hemos llegado. Vámonos.
-Keep an eye on that HP and SP!=No pierdas de vista el HP y el SP.
+Keep an eye on that HP and SP!=¡No pierdas de vista los PS y PE!
 Thief {{A}}. 33+=Ladrón {{A}}. 33+
 Royal Favor=Favor Real
 R<color\=#000000>o</color>yal Favor=F<color\=#000000>a</color>vor Real
@@ -16859,7 +16838,7 @@ I'll let you try what I've\ncome up with next time\nyou're here!=Te dejaré prob
 Ayaka Sakai 's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking it early may impact your experience of the story.)=La misión Sinergia de Ayaka Sakai está bloqueada. ¿Quieres desbloquearla ahora? (Desbloquearla antes puede afectar a tu experiencia en la historia).
  Kaede Hondo= Kaede Hondo
 Challenge new difficulty levels at the batting cages.=Desafía nuevos niveles de dificultad en las jaulas de bateo.
-All allies' HP will be fully restored when a battle ends with an All-Out Attack (only effective in a Palace or Mementos against Wandering Shadows).=Todos los PS de los aliados se restaurarán por completo cuando una batalla termine con un All-Out Attack (solo efectivo en un Palacio o Mementos contra Sombras Errantes).
+All allies' HP will be fully restored when a battle ends with an All-Out Attack (only effective in a Palace or Mementos against Wandering Shadows).=Todos los PS de los aliados se restaurarán por completo cuando una batalla termine con un Ataque Combinado (solo efectivo en un Palacio o Mementos contra Sombras Errantes).
 Teamwork!=¡Trabajo en equipo!
 You can use more flower pots and planters.=Puedes utilizar más macetas y jardineras.
  Chika Anzai= Chika Anzai
@@ -18436,9 +18415,9 @@ Restores 35% HP to 1 ally.=Restaura un 35% de PS a 1 aliado.
 Restores 50% HP to 1 ally.=Restaura un 50% de PS a 1 aliado.
 Cures elemental ailments for 1 ally.=Cura las dolencias elementales de 1 aliado.
 Stamina Kit M=Estamina Kit M
-Restores 20% SP to 1 ally.=Restaura un 20% de SP a 1 aliado.
+Restores 20% SP to 1 ally.=Restaura un 20% de PE a 1 aliado.
 Takemedic-All=Takemedic-Todos
-Restores 30% SP to 1 ally.=Restaura un 30% de SP a 1 aliado.
+Restores 30% SP to 1 ally.=Restaura un 30% de PE a 1 aliado.
 Takemedic-All V=Takemedic-Todos V
 Restores 15% HP to party.=Restaura un 15% de PS al grupo.
 Restores 30% HP to party.=Restaura un 30% de PS al grupo.
@@ -19048,7 +19027,6 @@ You can work at various part-time jobs.=Puedes trabajar en varios empleos a tiem
 Pre-registration reward.=Recompensa por la preinscripción.
 Edge of Encounter=Al filo del encuentro
 How to Obtain=Cómo obtener
-Attain 1★ Class 5 when the Trials from the Sea of Souls ends.=Alcanza 1★ Clase 5 cuando terminen las Pruebas del Mar de las Almas.
 Raise {{B}} to {{A}}. 20.=Sube de {{B}} a {{A}}. 20.
 Purchase the Butler Ren Set at the shop.=Compra el Set Ren de Mayordomo en la tienda.
 Butler Ren Avatar=Mayordomo Ren Avatar
@@ -19451,9 +19429,9 @@ Palace Gate=Puerta del Palacio
 We're at our destination.=Estamos en nuestro destino.
 Seize the Day {{A}}.5=Aprovecha el día {{A}}.5
 {{B}} {{A}}.5={{B}} {{A}}.5
-Restore 2.5% of max HP and SP after winning a battle.=Restaura un 2,5% de los PS y PS máximos tras ganar una batalla.
+Restore 2.5% of max HP and SP after winning a battle.=Restaura un 2.5% de los PS y PE máximos tras ganar una batalla.
 Increase Almighty damage by 8.7%.=Aumenta el daño de Todopoderoso un 8,7%.
-Increase SP recovery rate by 3.1%.=Aumento de la tasa de recuperación de SP en un 3,1%.
+Increase SP recovery rate by 3.1%.=Aumento de la tasa de recuperación de PE en un 3,1%.
 Nocturnal Flash {{A}}.5=Destello nocturno {{A}}.5
 Obtaining a Persona also unlocks it for purchase.=La obtención de una Persona también la desbloquea para su compra.
 Jánošík cannot learn <color\=#FF423F>Physical</color> skills.=Jánošík no puede aprender <color\=#FF423F>Físico</color> habilidades.
@@ -20566,7 +20544,7 @@ Kindling Whip=Látigo Kindling
 Obtain the Phantom Idol Ayaka Sakai. =Consigue el ídolo fantasma Ayaka Sakai. 
 Can overclock a level 60–70 weapon.=Puede overclockear un arma de nivel 60-70.
 Calliope=Calíope
-Backing Track=Pista de acompañamiento
+Backing Track=Pista de Acompañamiento
 Chiyome=Chiyome
 Springtime Tempest=Tempestad primaveral
 [Tone]=[Tono]
@@ -20931,8 +20909,8 @@ Curse affinity changed!=¡Afinidad de maldición cambiada!
 Curse affinity changed to Null...=Afinidad de maldición cambiada a Nula...
 Nuclear affinity changed!=¡Afinidad nuclear cambiada!
 Sorry... I think I'd like to rest a little...=Lo siento... Creo que me gustaría descansar un poco...
-Can be used in the Metaverse.\nFor 5 battles, restores party's SP by 2% at the start of each turn. (When used.)=Puede usarse en el Metaverso. Durante 5 batallas, restaura los PS del grupo en un 2% al inicio de cada turno. (Cuando se usa.)
-Can be used in the Metaverse.\nFor 3 battles, restores party's SP by 2% at the start of each turn. (When used.)=Puede usarse en el Metaverso. Durante 3 batallas, restaura los SP del grupo en un 2% al inicio de cada turno. (Cuando se usa.)
+Can be used in the Metaverse.\nFor 5 battles, restores party's SP by 2% at the start of each turn. (When used.)=Puede usarse en el Metaverso. Durante 5 batallas, restaura los PE del equipo en un 2% al inicio de cada turno. (Cuando se usa.)
+Can be used in the Metaverse.\nFor 3 battles, restores party's SP by 2% at the start of each turn. (When used.)=Puede usarse en el Metaverso. Durante 3 batallas, restaura los PE del equipo en un 2% al inicio de cada turno. (Cuando se usa.)
 You can now quick travel to the\n<color\=#FF423F>Second Bailey: Granary</color>.=Ahora puedes usar el viaje rápido al\n<color\=#FF423F>Segundo Bailey: Granero</color>.
 Another camera... But it looks like we can't\nget to it, huh?=Otra cámara... Pero parece que no podemos llegar a ella, ¿eh?
 We'll have to do something about the fence...\nSay, this row of torches here is pretty\nsuspicious, don't you think?=Tendremos que hacer algo con la valla... Oye, esta hilera de antorchas de aquí es bastante sospechosa, ¿no crees?
@@ -21376,20 +21354,20 @@ You can now quick travel to the\n<color\=#FF423F>Upper Castle Keep: East Side</c
 You can now quick travel to the\n<color\=#FF423F>Upper Castle Keep: Northeast Side</color>.=Ahora puedes usar el viaje rápido al\n<color\=#FF423F>Torre del Castillo Superior: Lado Noreste</color>.
 Thief {{A}}. 58+=Ladrón {{A}}. 58+
 P<color\=#000000>r</color>ogress=P<color\=#000000>r</color>ogreso
-Metamorphosis Dogu became a SP Dogu!=¡Metamorphosis Dogu se convirtió en SP Dogu!
-S<color\=#000000>P</color> Dogu=S<color\=#000000>P</color> Dogu
+Metamorphosis Dogu became a SP Dogu!=¡Metamorphosis Dogu se convirtió en PE Dogu!
+S<color\=#000000>P</color> Dogu=P<color\=#000000>E</color> Dogu
 Metamorphosis Dogu=Metamorfosis Dogu
 Activate Abyssal Gaze after 10 stacks.=Activa Mirada abisal después de 10 acumulaciones.
 Progress=Progreso
-Foes lose SP each turn.=Los enemigos pierden SP cada turno.
-SP Dogu=SP Dogu
+Foes lose SP each turn.=Los enemigos pierden PE cada turno.
+SP Dogu=PE Dogu
 Northeast Side=Lado noreste
 When equipped by an Elucidator Phantom Thief: After using a skill to inflict a debuff on a foe, decrease target's Defense by <color\=#2899ff>10%</color> for 2 turns.=Cuando lo equipa un Ladrón Fantasma Elucidator: Después de usar una habilidad para infligir una desventaja a un enemigo, reduce la Defensa del objetivo en <color\=#2899ff>10%</color> durante 2 turnos.
-Resolve & Labor=Resolución y Labor
+Resolve & Labor=Resolución y Trabajo
 4 Set Effect：When equipped by an Elucidator Phantom Thief: During battle, increase party's max HP, Attack, and Defense by <color\=#2899ff>8%</color>.=4 piezas：Cuando lo equipa un Ladrón Fantasma Elucidator: Durante la batalla, aumenta los PS, Ataque y Defensa máximos del grupo en <color\=#2899ff>8%</color>.
-[Labor]=[Labor]
+[Labor]=[Trabajo]
 Words of Harmony=Palabras de armonía
-Labor: Sun=Labor: Sol
+Labor: Sun=Trabajo: Sol
 East Side=Lado Este
 Amnesia=Amnesia
 You can now quick travel to the\n<color\=#FF423F>Upper Castle Keep: Southwest Corridor</color>.=Ahora puedes usar el viaje rápido al\n<color\=#FF423F>Torre del Castillo Superior: Corredor Suroeste</color>.
@@ -21404,7 +21382,7 @@ Northwest Side=Lado Noroeste
 You can now quick travel to the\n<color\=#FF423F>Upper Castle Keep: Long Corridor</color>.=Ahora puedes usar el viaje rápido al\n<color\=#FF423F>Torre del Castillo Superior: Corredor Largo</color>.
 You can now quick travel to the\n<color\=#FF423F>Upper Castle Keep: West Side</color>.=Ahora puedes usar el viaje rápido al\n<color\=#FF423F>Torre del Castillo Superior: Lado Oeste</color>.
 W<color\=#000000>e</color>akness Protection=D<color\=#000000>e</color>bilidad Protección
-S<color\=#000000>P</color> Cost=C<color\=#000000>o</color>ste de SP
+S<color\=#000000>P</color> Cost=C<color\=#000000>o</color>ste de PE
 P<color\=#000000>r</color>ogress Up=A<color\=#000000>u</color>mento de Progreso
 Psychokinesis and Nuclear affinities become Repel!=Las afinidades Psicoquinesis y Nuclear se convierten en ¡Repeler!
 D<color\=#000000>o</color>gu's Protection=D<color\=#000000>o</color>gu de Protección
@@ -21413,8 +21391,8 @@ Change Psychokinesis and Nuclear affinities to Repel.=Cambia las afinidades Psic
 Dogu's Protection=Protección de Dogu
 Weakness Dogu=Debilidad Dogu
 Protects {{A}}'s weakness. When defeated, {{A}} will weaken.=Protege la debilidad de {{A}}. Cuando es derrotado, {{A}} se debilita.
-Decrease foes' SP each turn. Upon defeat, restore foes' SP.=Disminuye los PS de los enemigos cada turno. Una vez derrotado, restaura los PS del enemigo.
-SP Cost=Coste SP
+Decrease foes' SP each turn. Upon defeat, restore foes' SP.=Disminuye los PE de los enemigos cada turno. Una vez derrotado, restaura los PE del enemigo.
+SP Cost=Coste PE
 Restores Arahabkaki's HP each turn. Upon defeat, restore foes' HP.=Restaura los PS de Arahabkaki en cada turno. Tras la derrota, restaura los PS de los enemigos.
 HP Dogu=Dogu PS
 Progress Dogu=Progreso Dogu
@@ -21929,7 +21907,7 @@ Words of Harmony VI=Palabras de Armonía VI
 2 Set Effect：Increase Psychokinesis damage by <color\=#2899ff>10%</color>.=2 Piezas：Aumenta el daño de Psicoquinesis en <color\=#2899ff>10%</color>.
 4 Set Effect：When dealing Psychokinesis damage, increase Attack by 15%. If more than 3 foes are on the field, increase Attack by <color\=#2899ff>15%</color> more.=4 Piezas：Al infligir daño de Psicoquinesis, aumenta el Ataque un 15%. Si hay más de 3 enemigos en el campo, aumenta el Ataque un <color\=#2899ff>15%</color> mas.
 Pleasure=Placer
-Labor=Labor
+Labor=Trabajo
 Realm of Repression: Words of Instincts=El reino de la represión: Palabras de instintos
 Words of Instincts VI=Palabras del instinto VI
 Words of Instincts V=Palabras del instinto V
@@ -22198,7 +22176,7 @@ Kumi Katayama, is it?=Kumi Katayama, ¿verdad?
 What is that?=¿Qué es eso?
 Oh, my apologies. These are smart glasses.\nBasically a smartphone for your eyes.=Oh, mis disculpas. Son gafas inteligentes. Básicamente un smartphone para tus ojos.
 I was just using them to check the roster\nI was given.=Sólo los usaba para comprobar la lista que me habían dado.
-I... see...=Yo... veo...
+I... see...=Ya... veo...
 You can't go to parent's homes, Ms. Katayama.\nIt's against regulations.=No puede ir a casa de los padres, Sra. Katayama. Va contra las normas.
 Especially impromptu visits. Putting pressure\non families can create more resistance toward\nattending school.=Especialmente las visitas improvisadas. Presionar a las familias puede crear más resistencia a asistir a la escuela.
 If needed, the school counselor and other\nqualified professionals should deal with the\nsituation.=Si es necesario, el orientador escolar y otros profesionales cualificados deben ocuparse de la situación.
@@ -22715,7 +22693,7 @@ One of the four major archangels. She is also the only female angel at this rank
 Uriel=Uriel
 One of the fourmajor archangels. His name means "Flame of God," and he knows all the celestial phenomena. He is the first angel Satan met on earth.=Uno de los cuatro arcángeles mayores. Su nombre significa "Llama de Dios" y conoce todos los fenómenos celestes. Es el primer ángel que Satanás conoció en la Tierra.
 This skill cannot specify a target.=Esta habilidad no puede especificar un objetivo.
-Labor: Star=Labor: Estrella
+Labor: Star=Trabajo: Estrella
 Do you want to trade to receive the 5★ Phantom Thief {{A}}?=¿Quieres cambiar para recibir el Ladrón Fantasma {{A}} de 5★?
 I eat disobedient little children like you!=¡Me como a los niños desobedientes como vosotros!
 A divine wolf god in Japanese folklore, also written as "Oguchi-no-Magami." It is often drawn on prayer boards to prevent fires and thefts, but it is also feared as a human-eater.=Dios lobo divino del folclore japonés, también escrito como "Oguchi-no-Magami". Se suele dibujar en tablas de oración para evitar incendios y robos, pero también se le teme como devorador de humanos.
@@ -22787,7 +22765,6 @@ Heal 1 ally for <color\=#fffc40>36.0%</color> Attack + <color\=#fffc40>1089</col
 Defeat Kushinada (Random)=Derrota a Kushinada (Aleatorio)
 A seal engraved with the legend of Kushinada. It can be used to strengthen and fuse Personas.=Un sello grabado con la leyenda de Kushinada. Se puede usar para fortalecer y fusionar Personas.
 B-Big bro!? You're hurt!\nPlease be careful!=¿¡Oniisama!? ¡Estás herido! ¡Por favor, ten cuidado!
-Concerto: Increases Fire/Curse/Electric/Nuclear damage by 5%.=Concierto: aumenta el daño de Fuego/Maldición/Eléctrico/Nuclear un 5%.
 Increase crit rate 4.2%. After knocking down a foe, increase Ice dmg 26% (2 turns).=Aumenta la probabilidad crítico un 4,2%. Tras derribar a un enemigo, aumenta el daño de Hielo un 26% (2 turnos).
 {{B}}on {{A}}.6={{B}}on {{A}}.6
 Inflicted with fear!=¡Infligido por el miedo!
@@ -22878,7 +22855,7 @@ Oh, and Nagisa, don't hold back on your\norder just cause I am.=Ah, y Nagisa, no
 Even if you get the deluxe monja with every\nsingle topping...=Incluso si consigues la monja de lujo con todos los ingredientes...
 I promise I won't stare at you resentfully\nwhile you eat!=¡Te prometo que no te miraré con resentimiento mientras comes!
 ...I'll do my best to not even look your way!=...¡haré todo lo posible para ni siquiera mirarte!
-I think I've gotten the hang of observing others.=Creo que le he cogido el tranquillo a observar a los demás.
+I think I've gotten the hang of observing others.=Creo que ya le he pillado el truco a eso de observar a los demás.
 I managed to be more welcoming\nthan I typically am...=Me las arreglé para ser más\n acogedor de lo que suelo ser...
 Facing you like this, letting everything else\nfade away... It is quite envigorating.=Enfrentarte así, dejando que todo lo demás se desvanezca... Es muy estimulante.
 {{A}} and I rode the Ferris\nwheel. I had to stop her from\nshaking the gondola.={{A}} y yo montamos en la noria.\n Tuve que impedir que\n sacudiera la góndola.
@@ -23593,9 +23570,9 @@ When an ally activates a Highlight, all allies gain 1 Mark of Augmentation.\nMar
 Pleasure: Sky=Placer: Cielo
 Pleasure: Sun=Placer: Sol
 Pleasure: Moon=Placer: Luna
-Labor: Moon=Labor: Luna
+Labor: Moon=Trabajo: Luna
 Pleasure: Star=Placer: Estrella
-Labor: Sky=Labor: Cielo
+Labor: Sky=Trabajo: Cielo
 Virtue: Sun=Virtud: Sol
 Oppression: Sky=Opresión: Cielo
 {{A}}114 Increases damage in Trials from the Sea of Souls by 0.2% (effective in battle).={{A}}114 Aumenta el daño en Pruebas del Mar de las Almas un 0,2% (efectivo en batalla).
@@ -23609,7 +23586,7 @@ Demon {{A}}=Poder Demoniaco
 A Phantom Thief or Persona below is on another team and can't be added.=Un Phantom Thief o Persona de abajo está en otro equipo y no puede ser añadido.
 Assignment Tips=Consejos para la asignación
 S<color\=#000000>p</color>ringtime Tempest=T<color\=#000000>e</color>mpestad Primaveral
-Increase 1 More and All-Out Attack dmg by 60%.=Aumenta un 60% los daños de 1 más y All-Out Attack.
+Increase 1 More and All-Out Attack dmg by 60%.=Aumenta un 60% los daños de 1 Más y Ataque Combinado.
 Sraosha=Sraosha
 Highlight, ready to activate!=Highlight, ¡listo para activar!
 I<color\=#000000>n</color>sight=I<color\=#000000>n</color>tuición
@@ -27660,7 +27637,6 @@ Shadows have different weaknesses and resistances than normal.\nStarting on turn
 Valid until: 2025/10/08, 21:59=Válido hasta: 2025/10/08, 21:59
 Obtainable from the Summer! Swimsuits! Sea Time! event. Can be exchanged for event rewards in the Beach House.=¡Obtenibles a partir del Verano! ¡Trajes de baño! ¡Tiempo de mar! Se puede canjear por recompensas del evento en la Casa de la Playa.
 Not enough challenge attempts remaining.=No quedan suficientes intentos de desafío.
-Duet (Bless): Increases the Phantom Thieves' Bless skill damage\nby 10%.=Dúo (Bendición): Aumenta el daño de la habilidad Bendición de los ladrones fantasma un 10%.
 {{A}} {{B}} 1 in Strange Changes on the Beach: Fun in the Sun (1/1)={{A}} {{B}} 1 en Extraños cambios en la playa: Diversión al sol (1/1)
 {{A}} the previous={{A}} el anterior
 A Leader's Fatigue=La fatiga del líder
@@ -27718,13 +27694,10 @@ Sure, let's go.=Claro, vamos.
 All right, then here I go! Try to keep up, Nagisa!=¡Muy bien, allá voy! ¡Trata de mantener el ritmo, Nagisa!
 I jogged along the beach\nwith {{A}}. It was a\ngood workout...=Corrí por la playa con {{A}}.\n Fue un buen entrenamiento...
 Summer Safety=Seguridad en verano
-Ole brasil Ole samba=Ole brasil Ole samba
-Want an imaginari friend too :3 , i'...=Quiero un amigo imaginari también :3 , i'...
-QUIERO MAS FEMBOYS=QUIERO MAS FEMBOYS
 A special crystal used to forge Glimmer.=Un cristal especial utilizado para forjar Luz Tenue.
 Do you want to use Glimmer Shard and forge?=¿Quieres usar Fragmentos de Luz Tenue para forjar?
 {{A}} the limited-time stage in Strange Changes on the Beach 7 times (1/7)={{A}} el escenario de tiempo limitado en Extraños cambios en la playa 7 veces (1/7)
-Restore party's HP equal to <color\=#fffc40>18.0%</color> of Attack + <color\=#fffc40>544</color>. If an ally's HP is below 50%, increase healing effect by 25%. Restore party's SP by 4.=Restaura los PS del grupo igual a <color\=#fffc40>18.0%</color> del ATQ + <color\=#fffc40>544</color>. Si los PS de un aliado están por debajo del 50%, aumenta el efecto curativo un 25%. Restaura los PS del grupo en 4.
+Restore party's HP equal to <color\=#fffc40>18.0%</color> of Attack + <color\=#fffc40>544</color>. If an ally's HP is below 50%, increase healing effect by 25%. Restore party's SP by 4.=Restaura los PS del grupo igual a <color\=#fffc40>18.0%</color> del ATQ + <color\=#fffc40>544</color>. Si los PS de un aliado están por debajo del 50%, aumenta el efecto curativo un 25%. Restaura los PE del grupo en 4.
 This is bad... Someone cover them!=Esto es malo... ¡Que alguien los cubra!
 An ally's down! Quick, help them back up!=¡Un aliado ha caído! ¡Rápido, ayúdenlo a levantarse!
 Rewards are distributed after season results are tallied. Obtain them by playing at least once.=Las recompensas se distribuyen una vez contabilizados los resultados de la temporada. Consíguelas jugando al menos una vez.
@@ -27962,7 +27935,7 @@ Waves of Fun=Olas de diversión
 Cu Chulainn's {{A}}={{A}} de Cu Chulainn
 Unlocked by completing mission=Desbloqueado al completar la misión
 Clearing <color\=#FF423F>Shaved Ice Fever!</color> will unlock Shaved Ice Shuffle. Do you want to track this now?=Complete el <color\=#FF423F>Fiebre del hielo raspado</color> desbloqueará Shaved Ice Shuffle. Quieres seguirlo ahora?
-New All-Out Attack=Nuevo All-Out Attack
+New All-Out Attack=Nuevo Ataque Combinado
 {{A}}-only Outfit: =Conjunto sólo para {{A}}: 
 Sale Ends: Nov 05, 2025 21:59:59=Fin de la venta: Nov 05, 2025 21:59:59
 New Highlight=Nuevo Destacado
@@ -28026,15 +27999,15 @@ Strife Revelation - Orange=Revelación del Conflicto - Naranja
 Courage Revelation - Orange=Revelación del Valor - Naranja
 Love Revelation - Orange=Revelación del Amor - Naranja
 Renewal Revelation - Orange=Revelación de Renovación - Naranja
-Truth Revelation - Orange=Revelación de la verdad - Naranja
-Victory Revelation - Orange=Victoria Revelación - Naranja
+Truth Revelation - Orange=Revelación de la Verdad - Naranja
+Victory Revelation - Orange=Revelación Victoria - Naranja
 {{A}} Revelation - Orange=Revelación del Poder - Naranja
 Opulence Revelation - Orange=Revelación de la Opulencia - Naranja
-Hindrance Revelation - Orange=Revelación de obstáculos - Naranja
+Hindrance Revelation - Orange=Revelación de Obstáculos - Naranja
 Oppression Revelation - Orange=Revelación de la Opresión - Naranja
-Labor Revelation - Orange=Revelación del Labor - Naranja
+Labor Revelation - Orange=Revelación del Trabajo - Naranja
 Virtue Revelation - Orange=Revelación de la Virtud - Naranja
-Pleasure Revelation - Orange=Revelación del placer - Naranja
+Pleasure Revelation - Orange=Revelación del Placer - Naranja
 Reconciliation Revelation - Orange=Revelación de la Reconciliación - Naranja
 Triumph Revelation - Orange=Revelación del Triunfo - Naranja
 Defeat Revelation - Orange=Revelación de la Derrota - Naranja
@@ -28324,7 +28297,7 @@ Targeted by Royal Punishment. When all foes take skill dmg 20 times, remove lock
 {{A}}...! We're in a tough spot.=¡{{A}}...! Estamos en una situación difícil.
 Targeted by Royal Punishment. When all foes take skill dmg 25 times, remove lock on.=Dirigido por Royal Punishment. Cuando todos los enemigos reciban 25 veces daño de habilidad, elimina el bloqueo.
 A<color\=#000000>t</color>tack Master IV=A<color\=#000000>t</color>aque Maestro IV
-{{A}} summons continuous waves of {{B}}s. When an {{B}} is defeated, SP is restored.\nWhen you deal damage to {{B}}s summoned by {{A}}, your score increases.={{A}} invoca oleadas continuas de {{B}}. Cuando derrotas a un {{B}}, recuperas PS. Cuando infliges daño a los {{B}} invocados por {{A}}, tu puntuación aumenta.
+{{A}} summons continuous waves of {{B}}s. When an {{B}} is defeated, SP is restored.\nWhen you deal damage to {{B}}s summoned by {{A}}, your score increases.={{A}} invoca oleadas continuas de {{B}}. Cuando derrotas a un {{B}}, recuperas PE. Cuando infliges daño a los {{B}} invocados por {{A}}, tu puntuación aumenta.
 Deal higher damage to enemies within 6 turns=Inflige más daño a los enemigos en 6 turnos
 Increase speed by 3.=Aumenta la velocidad en 3.
 Tohru Adachi=Tohru Adachi
@@ -28951,7 +28924,7 @@ Increase damage by 10.8%.=Aumenta el daño un 10,8%.
 Refresh all available tasks?\n<color\=#FF423F>(Limited tasks and in-progress tasks won't be updated.)</color>\nCost: [Task Refresh Ticket]*4=¿Refrescar todas las tareas disponibles?\n<color\=#FF423F>(Las tareas limitadas y las tareas en curso no se actualizarán).</color>\nCoste: [Ticket de actualización de tarea]*4
 Now it's really heating up!=¡Ahora sí que se está calentando!
 {{A}}142 Increases Physical and Gun damage by 0.2% (takes effect in battle).={{A}}142 Aumenta el daño físico y de arma un 0,2% (tiene efecto en batalla).
-Increases ally SP recovery by 5% (takes effect in battle).=Aumenta la recuperación de PS de los aliados en un 5% (tiene efecto en batalla).
+Increases ally SP recovery by 5% (takes effect in battle).=Aumenta la recuperación de PE de los aliados en un 5% (tiene efecto en batalla).
 A model of the maid café in Akihabara.=Maqueta de la maid café de Akihabara.
 Illustration that was shown in\na stream at TOKYO GAME SHOW 2015.\n<color\=#FFD145>Increases Persona 5 Phantom Thieves' HP by 40 (takes effect in battle).</color>=Ilustración que se mostró en un stream en TOKYO GAME SHOW 2015.\n<color\=#FFD145>Aumenta los PS de los ladrones fantasma de Persona 5 en 40 (surte efecto en combate).</color>
 Let's make this the best summer ever!=Hagamos que éste sea el mejor verano de todos.
@@ -29968,7 +29941,7 @@ You can now quick travel to the\n<color\=#FF423F>Mid Water Treatment Plant: Sout
 D<color\=#000000>a</color>mage Down=R<color\=#000000>e</color>ducción de Daño
 Mother's Love=Amor de madre
 Defeat a savage Shadow in the third Palace Mid-Level (1/1)=Derrota a una sombra salvaje en el tercer palacio de nivel medio (1/1)
-Renewed All-Out Attack=Renovación del All-Out Attack
+Renewed All-Out Attack=Renovación del Ataque Combinado
 Phase 2 of Chapter 3: Unconditional Love is out!\nContinue through the main story and earn rewards!=Ya está aquí la fase 2 del capítulo 3: Amor incondicional. ¡Continúa la historia principal y consigue recompensas!
 Plum Blossom Arm Band: 0=Pulsera Flor de Ciruelo: 0
 Bloodletter=Bloodletter
@@ -31033,7 +31006,6 @@ Raise Ayaka Sakai to {{A}}. 40.=Sube a Ayaka Sakai a {{A}}. 40.
 Raise Ayaka Sakai to {{A}}. 20.=Sube a Ayaka Sakai a la categoría de {{A}}. 20.
 City Life reward.=Recompensa City Life.
 Potential for Hope=Potencial de esperanza
-Attain 5★ Class 3 when the Trials from the Sea of Souls ends.=Alcanza 5★ Clase 3 cuando terminen las Pruebas del Mar de las Almas.
 Default profile card design.=Diseño predeterminado de la tarjeta de perfil.
 Kokatsu Academy=Academia Kokatsu
 {{A}} stage 4 of Relativity's Labyrinth in Crossroads of Fate: Museum Arc.={{A}} fase 4 del Laberinto de la Relatividad en Encrucijada del Destino: Arco del Museo.
@@ -31094,7 +31066,7 @@ It's the perfect place to go\nto busk it out, y'know?=Es el lugar perfecto para 
 If you see me there again,\nfeel free to say hi!=Si vuelve a verme por allí, no dude en saludarme.
 It seems that Seaside Tomoko, Chizuko has something they want to talk about.=Parece que Seaside Tomoko, Chizuko tiene algo de lo que quieren hablar.
 Crossroads of Fate: Pyramid Arc=Encrucijada del destino: Arco de la Pirámide
-Illustration used for Crossroads of Fate: Pyramid Arc\n<color\=#FFD145>Increases Futaba's HP by 40 (takes effect in battle).</color>=Ilustración utilizada para Crossroads of Fate: Pyramid Arc\n<color\=#FFD145>Aumenta los PS de Futaba en 40 (surte efecto en combate).</color>
+Illustration used for Crossroads of Fate: Pyramid Arc\n<color\=#FFD145>Increases Futaba's HP by 40 (takes effect in battle).</color>=Ilustración utilizada para la Encrucijada del Destino: arco de la Pirámide\n<color\=#FFD145>Aumenta los PS de Futaba en 40 (surte efecto en batalla).</color>
 Den Level 34=Guarida Nivel 34
 When Mother Was There=Cuando mamá estaba allí
 Treading on Scorched Sand<alpha\=#00>____<alpha\=#FF>Treading on Scorched Sand<alpha\=#00>____<alpha\=#FF>=Pisando arena quemada<alpha\=#00>____<alpha\=#FF>Pisando arena quemada<alpha\=#00>____<alpha\=#FF>
@@ -33473,9 +33445,9 @@ Ah... Arghh... I... have to keep it together...=Ah... Arghh... Yo... tengo que m
 That red light... This is bad! Her wrath has\nreached its peak! Everyone, get ready!=Esa luz roja... ¡Esto es malo! ¡Su ira ha alcanzado su punto máximo! ¡Todos, prepárense!
 Wild Roar=Rugido salvaje
 Restores 1 ally's HP by 20%.=Restaura los PS de 1 aliado un 20%.
-Restores 1 ally's SP by 10%.=Restaura los SP de 1 aliado un 10%.
-Restores 1 ally's SP by 30%.=Restaura los SP de 1 aliado un 30%.
-Restores 1 ally's SP by 20%.=Restaura los SP de 1 aliado un 20%.
+Restores 1 ally's SP by 10%.=Restaura los PE de 1 aliado un 10%.
+Restores 1 ally's SP by 30%.=Restaura los PE de 1 aliado un 30%.
+Restores 1 ally's SP by 20%.=Restaura los PE de 1 aliado un 20%.
 Restores all allies' HP by 30%.=Restaura los PS de todos los aliados un 30%.
 Break Shadow Katayama's shield=Rompe el escudo de Shadow Katayama
 Ire Barrier=Barrera Ire
@@ -33739,7 +33711,7 @@ Deal Nuclear damage to 1 foe equal to <color\=#FFFC40>198.5%</color> of Attack, 
 Do you want to customize a Revelation Card with the mark <color\=#f1b500>Star</color>, set <color\=#f1b500>Prosperity</color>, and main attribute <color\=#f1b500>Attack</color>?=¿Desea personalizar una Tarjeta Revelación con la marca <color\=#f1b500>Estrella</color>set <color\=#f1b500>Prosperidad</color> y atributo principal <color\=#f1b500>Ataque</color>?
 Horn of Death decreases skill healing by 80% more. {{A}}'s Attack is increased by 40%.=Cuerno de la Muerte disminuye la curación de habilidades un 80% más. El Ataque de {{A}} aumenta un 40%.
 The target of Horn of Famine changes to all foes. {{A}}'s max HP is increased by 80%.=El objetivo de Cuerno del Hambre cambia a todos los enemigos. Los PS máximos de {{A}} aumentan un 80%.
-Horn of Famine increases foes' SP costs by 50% more. {{A}}'s Attack is increased by 40%.=Cuerno del Hambre aumenta el coste de PS de los enemigos un 50% más. El Ataque de {{A}} aumenta un 40%.
+Horn of Famine increases foes' SP costs by 50% more. {{A}}'s Attack is increased by 40%.=Cuerno del Hambre aumenta el coste de PE de los enemigos un 50% más. El Ataque de {{A}} aumenta un 40%.
 Increase dmg by 20%. If dealing weakness dmg, double this dmg increase.=Aumenta los daños en un 20%. Si infliges daño de debilidad, duplica este aumento de daño.
 Data Storm=Tormenta de datos
 Nice! Keep it up!=¡Bien! ¡Sigue así!
@@ -33855,7 +33827,7 @@ Sweatshop -another version-=Sweatshop -otra versión-
 Alleycat=Alleycat
 Tension=Tensión
 Persona 5\nPlays during scenes where the main characters are planning their strategy.=Persona 5 Se juega durante las escenas en las que los protagonistas planean su estrategia.
-Illustration used for Crossroads of Fate: Spaceport Arc.\n<color\=#FFD145>Increases Haru's HP by 40 (takes effect in battle).</color>=Ilustración utilizada para Crossroads of Fate: Spaceport Arc.\n<color\=#FFD145>Aumenta los PS de Haru en 40 (surte efecto en combate).</color>
+Illustration used for Crossroads of Fate: Spaceport Arc.\n<color\=#FFD145>Increases Haru's HP by 40 (takes effect in battle).</color>=Ilustración utilizada para la Encrucijada del Destino: arco del Puerto Espacial.\n<color\=#FFD145>Aumenta los PS de Haru en 40 (surte efecto en batalla).</color>
 Become close friends with Ashiya.=Hazte amigo íntimo de Ashiya.
 You can use Ashiya in Tycoon.=Puedes usar Ashiya en Tycoon.
  Takafumi Maeuchi= Takafumi Maeuchi
@@ -36039,7 +36011,6 @@ When equipped by Justine & Caroline: Increase <link\="s|271"><u>Desire Level</u>
 Nativity & {{A}}=Natividad y Poder
 Default Frame=Marco predeterminado
 Get from New Year's Gifts.=Obtener de Regalos de Año Nuevo.
-Attain 7★ Class 1 when the Trials from the Sea of Souls ends.=Alcanza 7★ Clase 1 cuando terminen las Pruebas del Mar de las Almas.
 Receive from an official event. =Recibir de un evento oficial. 
 View story content=Ver el contenido de la historia
 The Phantom Thieves have gathered for a Christmas party. {{A}} has even said he'll make something, but...=Los Ladrones Fantasma se han reunido para una fiesta de Navidad. {{A}} incluso ha dicho que hará algo, pero...
@@ -37943,7 +37914,7 @@ Reconciliation: Sun=Reconciliación: Sol
 [Triumph]=[Triunfo]
 [Worry]=[Preocupación]
 4 Set Effect：At the start of battle, fill Highlight gauge by <color\=#2899ff>25%</color>. This effect won't activate if stacked.=4 piezas：Al inicio de la batalla, aumenta el indicador de Highlight en un <color\=#2899ff>25%</color>. Este efecto no se activará si ya está acumulado.
-2 Set Effect：Increase SP recovery by <color\=#2899ff>80%</color>.=2 piezas：Aumenta la recuperación de SP en un <color\=#2899ff>80%</color>.
+2 Set Effect：Increase SP recovery by <color\=#2899ff>80%</color>.=2 piezas：Aumenta la recuperación de PE en un <color\=#2899ff>80%</color>.
 2 Set Effect：Increase critical rate by <color\=#2899ff>7.5%</color>.=2 piezas：Aumenta la probabilidad de crítico en un <color\=#2899ff>7,5%</color>.
 4 Set Effect：During battle, increase own max HP, Attack, and Defense by <color\=#2899ff>15%</color>.=4 piezas：Durante la batalla, aumenta tus propios PS máx., Ataque y Defensa en un <color\=#2899ff>15%</color>.
 2 Set Effect：Increase Speed by <color\=#2899ff>6</color>.=2 piezas：Aumenta la Velocidad en <color\=#2899ff>6</color>.
@@ -37967,7 +37938,6 @@ The Devourer=El Devorador
 Backup Generator=Generador de reserva
 {{A}} the event Crossroads of Fate: Twins Arc. ={{A}} el evento Encrucijada del Destino: Arco de las Gemelas. 
 Where Dreams Go=A dónde van los sueños
-Attain 6★ Class 4 when the Trials from the Sea of Souls ends.=Alcanza 6★ Clase 4 cuando terminen las Pruebas del Mar de las Almas.
 Reach Synergy Rank 5 with Lufel.=Alcanza el rango de sinergia 5 con Lufel.
 Butler Etiquette=Etiqueta del mayordomo
 {{A}} all missions in the Summer! Swimsuits! Sea Time! event.={{A}} ¡todas las misiones en verano! ¡Trajes de baño! ¡Tiempo de mar!
@@ -38326,7 +38296,7 @@ By <color\=#FFD145>training the Phantom Thieves</color>, you can increase\ntheir
 Is this some kind of... chant? Or maybe one\nof those rap songs? This sentence alone\nis a failure.=¿Es algún tipo de... cántico? ¿O tal vez una de esas canciones de rap? Esta frase por sí sola es un fracaso.
 About Synergy=Acerca de Sinergía
 • Speed determines the action order in battle.\n• Skill accuracy changes based on the difference from the target's speed.\n• If Speed is the same, action order will follow party's formation order.=• La Velocidad determina el orden de acción en la batalla.\n• La precisión de las habilidades cambia según la diferencia de Velocidad con el objetivo.\n• Si la Velocidad es la misma, el orden de acción seguirá el orden de formación del grupo.
-A higher SP recovery rate increases the amount of SP that is restored each turn.=Una mayor tasa de recuperación de SP aumenta la cantidad de SP que se restaura en cada turno.
+A higher SP recovery rate increases the amount of SP that is restored each turn.=Una mayor tasa de recuperación de PE aumenta la cantidad de PE que se restaura en cada turno.
 A higher pierce rate increases the percentage of Defense that is ignored when dealing damage to foes.=Una mayor tasa de perforación aumenta el porcentaje de Defensa que se ignora al infligir daño a los enemigos.
 A higher status ailment accuracy increases the chance of inflicting status ailments (and some special effects) on foes.=Una mayor precisión de las dolencias de estado aumenta la probabilidad de infligir dolencias de estado (y algunos efectos especiales) a los enemigos.
 A higher status ailment resistance decreases the chance of being inflicted with a status ailment (and some special effects).=Una mayor resistencia a estados alterados reduce la probabilidad de sufrir un estado alterado (y algunos efectos especiales).
@@ -38919,8 +38889,6 @@ Do you have a moment?\nI am in need of your power.=¿Tienes un momento? Necesito
 Fellow chosen ones must\npool our strength, of course!=Los compañeros elegidos debemos unir nuestras fuerzas, ¡por supuesto!
 Haha, I thought you'd say\nthat. Let's meet at the\nusual spot.=Jaja, imaginé que dirías eso. Reunámonos en el lugar de siempre.
 Looks like Kurotani wants\nto talk about something...\nI should go and see him.=Parece que Kurotani quiere hablar de algo... Debería ir a verle.
-Ensemble (Psychokinesis): Increases the Phantom Thieves' Psy skill damage\nby 12%.=Conjunto (Psicoquinesis): Aumenta el daño de la habilidad Pysic de los Ladrones Fantasma un 12%.
-Duet (Psychokinesis): Increases the Phantom Thieves' Psy skill damage\nby 10%.=Dúo (Psicoquinesis): Aumenta un 10% el daño de la habilidad Psíquico de los Ladrones Fantasma.
 Party's <color\=#FFFC40>Resonance</color> critical damage is increased by 25% and Attack by 25%.=El daño crítico de <color\=#FFFC40>Resonancia</color> del equipo aumenta en un 25% y el Ataque en un 25%.
 Tycoon is a 4-player card game.\nTo win the game, you must get rid of all your cards before the other players.\n\n<color\=#FFD145>Arena Mode</color>\nIn Solo Mode, you can play against a CPU with a customizable difficulty and choose to play either 1 or 3 games for each match.\n In Ranked Match, play against other players, with every match consisting of three games.=Tycoon es un juego de cartas para 4 jugadores.\nPara ganar la partida, debes deshacerte de todas tus cartas antes que los demás jugadores.\n\n<color\=#FFD145>Modo Arena</color>\nEn el Modo Solitario, puedes jugar contra la CPU con una dificultad personalizable y elegir jugar 1 o 3 partidas por cada encuentro.\nEn la Partida Clasificatoria, juegas contra otros jugadores, donde cada encuentro consta de tres partidas.
 City Life Activities=Actividades Vida Urbana
@@ -41252,7 +41220,7 @@ The jackal-headed god of the dead and embalming from Egyptian myth. He weighs th
 Titan's Protection I=Protección del Titán I
 Thunder Lord's Majesty I=Majestad del Señor del Trueno I
 Increase <link\="s|104"><u>Shock</u></link> accuracy by 20.3%.=Aumenta la resistencia a <link\="s|104"><u>Choque</u></link> precisión en un 20.3%.
-Decrease SP cost of skills by 6%.=Disminuye el costo de SP de las habilidades en un 6%.
+Decrease SP cost of skills by 6%.=Disminuye el costo de PE de las habilidades en un 6%.
 Fell Spear's Wielder I=Portador de la Lanza Funesta I
 Gae Bolg=Gae Bolg
 Fell Spear's Wielder=Portador de la Lanza Feroz
@@ -41575,7 +41543,7 @@ We should take some time to\nanalyze the situation.=Debemos tomar un tiempo para
 The main illustration created for Unconditional Love.\n<color\=#FFD145>Increase all Phantom Thieves' Attack by 10% during battle.</color>=La ilustración principal creada para Amor Incondicional.\n<color\=#FFD145>Aumenta el Ataque de todos los Ladrones Fantasma en un 10% durante la batalla.</color>
 Protagonist cut-in that displays during battle.\n<color\=#FFD145>Increases the protagonist's Defense by 10 (takes effect in battle).</color>=Protagonista en pantalla durante la batalla.\n<color\=#FFD145>Aumenta la Defensa del protagonista en 10 (tiene efecto en batalla).</color>
 <color\=#FFFF00>Increases Twins' Attack by 10 (takes effect in battle).</color>=<color\=#FFFF00>Aumenta el Ataque de los Gemelos en 10 (toma efecto en batalla).</color>
-Image of Twins that displays after an All-Out Attack finisher.\n<color\=#FFD145>Increases Twins' Attack by 10 (takes effect in battle).</color>=Imagen de Gemelos que se muestra después de un finalista de Ataque Total.\n<color\=#FFD145>Aumenta el Ataque de los Gemelos en 10 (toma efecto en batalla).</color>
+Image of Twins that displays after an All-Out Attack finisher.\n<color\=#FFD145>Increases Twins' Attack by 10 (takes effect in battle).</color>=Imagen de Gemelas que se muestra después de acabar con un remate de Ataque Combinado.\n<color\=#FFD145>Aumenta el Ataque de los Gemelas en 10 (toma efecto en batalla).</color>
 Persona 5\nFifth Palace: Spaceport=Persona 5 Palacio Quinto: Aeropuerto Espacial
 The method to obtain the tool Airsoft Shop has been unlocked.\n2 music tracks including Confession / Secret can now be unlocked.\n=El método para obtener la herramienta de la Tienda de Airsoft ha sido desbloqueado. 2 pistas musicales, incluyendo Confesión / Secreto, pueden ser desbloqueadas ahora.\n
 Majestic Palace=Palacio Majestuoso
@@ -42243,7 +42211,7 @@ Maid Sayaka=Maid Sayaka
 Maid Ruby=Maid Ruby
 Hoom, we've seen this one before. I suppose\nthat's how the cookie crumbles...=Hoom, ya hemos visto esto antes. Supongo que así son las cosas...
 Catgirl Promoter Chacha=Promotora chica gato Chacha
-Can be used in the Metaverse.\nFor 2 battles, restores party's SP by 2% at the start of each turn. (When used.)=Puede usarse en el Metaverso. Durante 2 batallas, restaura los SP del grupo en un 2% al inicio de cada turno. (Al usarlo.)
+Can be used in the Metaverse.\nFor 2 battles, restores party's SP by 2% at the start of each turn. (When used.)=Puede usarse en el Metaverso. Durante 2 batallas, restaura los PE del grupo en un 2% al inicio de cada turno. (Al usarlo.)
 Creature=Criatura
 Udagawa Soda=Udagawa Soda
 Chunky Potage=Potaje espeso
@@ -43104,7 +43072,7 @@ Friendly fairies of the forest that tend to hide from humans. They like to play 
 <color\=#FF423F>Voltage Amp-E2</color>: When a <color\=#fffc40>Combat Drone</color> attacks, the party's Attack is increased by <color\=#fffc40>20%</color> for 1 turn.=<color\=#FF423F>Amp de Voltaje-E2</color> Cuando un <color\=#fffc40>Dron de Combate</color> los ataques, el Ataque del grupo aumenta <color\=#fffc40>20%</color> durante 1 turno.
 <color\=#FF423F>Firewall Booster-X3</color>: When a <color\=#fffc40>Combat Drone</color> attacks, the party's Defense is increased by <color\=#fffc40>30%</color> for 1 turn.=<color\=#FF423F>Potenciador de Cortafuegos-X3</color> Cuando un <color\=#fffc40>Dron de Combate</color> los ataques, la Defensa del equipo aumenta en <color\=#fffc40>30%</color> durante 1 turno.
 <color\=#FF423F>Data Recovery-P1</color>: When a <color\=#fffc40>Combat Drone</color> attacks, the party's HP is restored by <color\=#fffc40>15%</color>.=<color\=#FF423F>Recuperación de Datos-P1</color> Cuando un <color\=#fffc40>Dron de Combate</color> los ataques, el PS del grupo se restaura en <color\=#fffc40>15%</color>.
-<color\=#FF423F>Memory Expansion-L9</color>: When a <color\=#fffc40>Combat Drone</color> attacks, the party's SP is restored by <color\=#fffc40>15%</color>.=<color\=#FF423F>Expansión de Memoria-L9</color> Cuando un <color\=#fffc40>Dron de Combate</color> los ataques, el SP del grupo se restaura en <color\=#fffc40>15%</color>.
+<color\=#FF423F>Memory Expansion-L9</color>: When a <color\=#fffc40>Combat Drone</color> attacks, the party's SP is restored by <color\=#fffc40>15%</color>.=<color\=#FF423F>Expansión de Memoria-L9</color> Cuando un <color\=#fffc40>Dron de Combate</color> los ataques, el PE del grupo se restaura en <color\=#fffc40>15%</color>.
 For each Bot equipped, +1 Combat Drone and +1 removable Data Abnormality.=Por cada Bot equipado, +1 Dron de Combate y +1 Anomalía de Datos removible.
 For each Bot equipped, gain 1 extra Self-Destruct Bot, and Self-Destruct Bot's Almighty damage increases by 100%.=Por cada Bot equipado, obtén 1 Bot de Autodestrucción extra y el daño Todopoderoso del Bot de Autodestrucción aumenta un 100%.
 AAA=AAA
@@ -43868,7 +43836,7 @@ All finished!=¡Todo listo!
 Highlight: Atk Increase=Highlight: Aumento de ATQ
 Highlight: Base Healing=Highlight: Curación base
 Highlight: Healing Multiplier=Highlight: Multiplicador de curación
-[Spiritual Ailment] Unable to act. Recover 5% HP and SP every turn. Removed after taking damage from an attack.=[Espiritual] No puede actuar. Recupera 5% de PS y SP cada turno. Se elimina al recibir daño de un ataque.
+[Spiritual Ailment] Unable to act. Recover 5% HP and SP every turn. Removed after taking damage from an attack.=[Dolencia Espiritual] No puede actuar. Recupera 5% de PS y PE cada turno. Se elimina al recibir daño de un ataque.
 Dizzy, Forget, Sleep, Rage, Despair, Confuse, Fear, and Brainwash are classified as spiritual ailments.=Mareo, Olvido, Sueño, Rabia, Desesperación, Confusión, Miedo y Lavado de cerebro se clasifican como dolencias espirituales.
 <color\=#72C5FF>Spiritual Ailments</color>=<color\=#72C5FF>Dolencias espirituales</color>
 [Count] Increases ally shield and various stats based on number of stacks.=[Cargas] Aumenta el escudo aliado y varias estadísticas según el número de acumulaciones.
@@ -43993,7 +43961,7 @@ Lotus=Loto
 Unravel=Desentrañar
 Season of Brightness=Temporada de Brillo
 Each time skill dmg is dealt, gain 1 Blossom.=Cada vez que se inflige daño de habilidad, ganas 1 Flor.
-During battle, when SP reaches 100%/150%/200%, increase critical damage by <color\=#2899ff>15%/30%/45%</color>.=Durante el combate, cuando el SP alcance el 100%/150%/200%, aumenta el daño crítico en <color\=#2899ff>15%/30%/45%</color>.
+During battle, when SP reaches 100%/150%/200%, increase critical damage by <color\=#2899ff>15%/30%/45%</color>.=Durante el combate, cuando el PE alcance el 100%/150%/200%, aumenta el daño crítico en <color\=#2899ff>15%/30%/45%</color>.
 [Season of Brightness]=[Temporada de Brillo]
 Now, while they're down!=¡Ahora, mientras están en el suelo!
 Increase Nuclear dmg.=Aumenta el daño Nuclear.
@@ -44046,8 +44014,8 @@ Regardless, your measured response to this\nincident shows a great deal of under
 Have a wonderful day, Master! We can't wait\nto see you again!=¡Que tengas un día maravilloso, Maestro! ¡Estamos ansiosos por volver a verte!
 There seems to be all sorts of places\nto visit in Shibuya. If you're interested,\nwhy not check them out?=Parece que hay todo tipo de lugares para visitar en Shibuya. Si te interesa, ¿por qué no los exploras?
 Gao Mon=Gao Mon
-Each time Phantom Thieves use 40 SP or deal weakness damage, all allies gain 1 Seal of Power stack. Additionally, after dealing damage with a skill or Resonance, gain 1 Seal of Power stack.\nSeal of Power: Deal 5% final damage for each stack. Lasts for 2 turns. Stacks up to 8 times.=Cada vez que los Ladrones Fantasma usen 40 SP o inflijan daño de debilidad, todos los aliados obtienen 1 acumulación de Sello de Poder. Adicionalmente, tras infligir daño con una habilidad o Resonancia, obtienen 1 acumulación de Sello de Poder.\nSello de Poder: Inflige un 5% de daño final por cada acumulación. Dura 2 turnos. Se acumula hasta 8 veces.
-Each time Phantom Thieves spend a total of 40 SP or deal weakness damage, all allies gain 1 Seal of Power stack.\nAdditionally, after dealing damage with a skill or Resonance, gain 1 Seal of Power stack.\nSeal of Power: Deal 5% final damage for each stack. Lasts for 2 turns. Stacks up to 8 times.=Cada vez que los Ladrones Fantasma consuman un total de 40 SP o inflijan daño de debilidad, todos los aliados obtienen 1 acumulación de Sello de Poder.\nAdicionalmente, tras infligir daño con una habilidad o Resonancia, obtienen 1 acumulación de Sello de Poder.\nSello de Poder: Inflige un 5% de daño final por cada acumulación. Dura 2 turnos. Se acumula hasta 8 veces.
+Each time Phantom Thieves use 40 SP or deal weakness damage, all allies gain 1 Seal of Power stack. Additionally, after dealing damage with a skill or Resonance, gain 1 Seal of Power stack.\nSeal of Power: Deal 5% final damage for each stack. Lasts for 2 turns. Stacks up to 8 times.=Cada vez que los Ladrones Fantasma usen 40 PE o inflijan daño de debilidad, todos los aliados obtienen 1 acumulación de Sello de Poder. Adicionalmente, tras infligir daño con una habilidad o Resonancia, obtienen 1 acumulación de Sello de Poder.\nSello de Poder: Inflige un 5% de daño final por cada acumulación. Dura 2 turnos. Se acumula hasta 8 veces.
+Each time Phantom Thieves spend a total of 40 SP or deal weakness damage, all allies gain 1 Seal of Power stack.\nAdditionally, after dealing damage with a skill or Resonance, gain 1 Seal of Power stack.\nSeal of Power: Deal 5% final damage for each stack. Lasts for 2 turns. Stacks up to 8 times.=Cada vez que los Ladrones Fantasma consuman un total de 40 PE o inflijan daño de debilidad, todos los aliados obtienen 1 acumulación de Sello de Poder.\nAdicionalmente, tras infligir daño con una habilidad o Resonancia, obtienen 1 acumulación de Sello de Poder.\nSello de Poder: Inflige un 5% de daño final por cada acumulación. Dura 2 turnos. Se acumula hasta 8 veces.
 Kappa Stella=Estrella Kappa
 Zeta Stella=Estrella Zeta
 Delta Stella=Estrella Delta
@@ -46246,12 +46214,12 @@ Upper East Side=Entrada Lado Este
 I'm getting pumped! Let's go!=¡Me estoy animando! ¡Vamos!
 Usage Effect: Restores 19.2% of max HP to party.=Efecto de uso: Restaura el 19.2% de los PS máximos al equipo.
 Usage Effect: Restores 9.6% of max HP to party.=Efecto de uso: Restaura el 9.6% de los PS máximos al equipo.
-Usage Effect: For 2 battles, restores party's SP by 2% at the start of each turn.=Efecto de uso: Durante 2 batallas, restaura el SP del grupo en 2% al inicio de cada turno.
+Usage Effect: For 2 battles, restores party's SP by 2% at the start of each turn.=Efecto de uso: Durante 2 batallas, restaura el PE del grupo en 2% al inicio de cada turno.
 Usage Effect: For 20 battles, increases party's HP by 8%.=Efecto de uso: Durante 20 batallas, aumenta el PS del grupo en un 8%.
-Usage Effect: For 3 battles, restores party's SP by 2% at the start of each turn.=Efecto de uso: Durante 3 batallas, restaura el SP del grupo en 2% al inicio de cada turno.
+Usage Effect: For 3 battles, restores party's SP by 2% at the start of each turn.=Efecto de uso: Durante 3 batallas, restaura el PE del grupo en 2% al inicio de cada turno.
 Usage Effect: Instantly restores 23% of max HP to party.=Efecto de uso: Restaura instantáneamente el 23% de los PS máximos al equipo.
 Usage Effect: Instantly restores 19.2% of max HP to party.=Efecto de uso: Restaura instantáneamente el 19.2% de los PS máximos al equipo.
-Usage Effect: For 5 battles, restores party's SP by 2% at the start of each turn.=Efecto de uso: Durante 5 batallas, restaura el SP del grupo en 2% al inicio de cada turno.
+Usage Effect: For 5 battles, restores party's SP by 2% at the start of each turn.=Efecto de uso: Durante 5 batallas, restaura el PE del grupo en 2% al inicio de cada turno.
 Huh... Not bad at all!=¿Eh...? ¡No está nada mal!
 Hoo... it even absorbs thermal energy from\nsteam. Quite a marvelous device...=Hoo... incluso absorbe energía térmica del vapor. Un artefacto realmente maravilloso...
 G<color\=#000000>r</color>udge=R<color\=#000000>e</color>ncor
@@ -49627,7 +49595,7 @@ Welcome to my private city bank.=Bienvenido a mi banco privado de la ciudad.
 You filthy fly on dirty money...=Mosca asquerosa sobre dinero sucio...
 Get the hell out of my face!=¡Lárgate de mi cara!
 Yo! Let's do this thing, stupid brats!=¡You! ¡Vamos a hacer esto, mocosos tontos!
-In their intense battle against Shadow Kaneshiro, the Phantom Thieves unleashed an all-out attack...!=En su intensa batalla contra la Sombra de Kaneshiro, los Ladrones Fantasma desataron un all-out attack...!
+In their intense battle against Shadow Kaneshiro, the Phantom Thieves unleashed an all-out attack...!=En su intensa batalla contra la Sombra de Kaneshiro, los Ladrones Fantasma desataron un Ataque Combinado...!
 Crap!=¡Maldición!
 Panther!=¡Panther!
 Let's do this! Carmen!=¡Vamos allá! ¡Carmen!
@@ -51304,7 +51272,7 @@ It's affecting the staff.=Está afectando al personal.
 It's affecting Chinatown.=Está afectando al Barrio Chino.
 It seems that way. I think it would be best\nfor us to investigate Mementos.\nWhat say you?=Parece que sí. Creo que lo mejor sería que investiguemos Mementos. ¿Qué opinas?
 Let's go see what's happening\nin Mementos...=Vamos a ver qué está pasando en Mementos...
-Use 1 or more All-Out Attacks during battle=Usa 1 o más Ataques Totales durante la batalla
+Use 1 or more All-Out Attacks during battle=Usa 1 o más Ataque Combinado durante la batalla
 ead to Mementos=Ve a Mementos
 Shadows have different weaknesses and resistances than normal. Lufel continues to suspect that the reason for everyone's stolen desire lies in Mementos. We need to defeat Shadows and find the true cause.=Las Sombras tienen debilidades y resistencias diferentes a las normales. Lufel sigue sospechando que la razón de los deseos robados de todo el mundo se encuentra en Mementos. Necesitamos derrotar a las Sombras y encontrar la causa real.
 Use 2 or more Highlights during battle=Usa 2 o más Highlights durante la batalla
@@ -51856,7 +51824,7 @@ Nv240 Increases all allies' Attack by 2 (takes effect in battle).=Nv240 Aumenta 
 What do you think? I look stronger, right?=¿Qué te parece? ¿Me veo más fuerte, no?
 Personally, I think I've become thirty\npercent cuter!=Personalmente, ¡creo que me volví un treinta por ciento más lindo!
 Fire, Ice, Electric, and Wind allies' final damage is increased by 60% (other than Wonder).=El daño final de los aliados de Fuego, Hielo, Eléctrico y Viento aumenta un 60% (excepto Wonder).
-Increase dmg taken from <color\=#FFFC40>1 More and All-Out Attacks</color> by 400%.=Aumenta el daño recibido de <color\=#FFFC40>1 Más y All-Out Attacks</color> en un 400%.
+Increase dmg taken from <color\=#FFFC40>1 More and All-Out Attacks</color> by 400%.=Aumenta el daño recibido de <color\=#FFFC40>1 Más y Ataques Combinados</color> en un 400%.
 Clear <color\=#ff0000>Guardian Stella、Guardian Stella</color> to unlock=Supera a <color\=#ff0000>Estrella Guardiana y\nEstrella Guardiana</color> para desbloquear.
 Nagisa-san, did you make a wish at your first\nshrine visit of the year?=Nagisa-san, ¿pediste un deseo en tu primera visita al santuario del año?
 You wanna know my wish? Ehehe... It's kind of\nembarrassing so you have to promise not to\ntell anyone.=¿Quieres saber mi deseo? Jejeje... Me da un poco de pena, así que prométeme que no se lo cuentas a nadie.
@@ -52341,7 +52309,7 @@ Completa Rewards: =Recom. por completar:
 The chance for White Rider's Sacudida cerebral to inflict Brainwash is increased to 50%, and the duration is extended by 1 turn.=La probabilidad de que el Sacudida cerebral de White Rider cause Lavado de cerebro aumenta al 50 % y la duración se extiende por 1 turno.
 Dancer of Dreams's Punishing Whip decreases the target's Defense by 50% more for 2 turns.=El Látigo Castigador de Bailarina de Sueños reduce la Defensa del objetivo un 50% adicional durante 2 turnos.
 Roll the die to proceed further into Mementos. Collect Flowers on the way that can be traded for items.=Tira el dado para avanzar más en Mementos. Recoge Flores en el camino que pueden intercambiarse por ítems.
-Jose's Dicey Adventure=La arriesgada aventura de José
+Jose's Dicey Adventure=La Darriesgada Aventura de José
 Bosses await you within Mementos.\nYou can gain Special Effects to buff yourself as you progress along the route, so choose the most fitting effects for the situation to give yourself the upper hand.=Te esperan jefes dentro de Mementos. Puedes obtener efectos especiales para mejorar a medida que avanzas por la ruta, así que elige los más adecuados para la situación y lleva la ventaja contigo.
 There are four routes available: Floors 1 to 4.\nThe difficulty increases as you travel further into the depths of Mementos, but so too does the amount of flowers you can collect.=Hay cuatro rutas disponibles: Pisos 1 al 4. La dificultad aumenta conforme te adentras en las profundidades de Mementos, pero también lo hace la cantidad de flores que puedes recolectar.
 Route=Ruta
@@ -52920,7 +52888,7 @@ Do you want to reset?\nIf you reset the route, <color\=#ff3b37>you will return t
 Party's <color\=#FFFC40>skill</color> damage is increased by 25%.=El daño de <color\=#FFFC40>habilidad</color> El daño aumenta un 25%.
 <color\=#FFFC40>Assassin</color> allies' damage is increased by 40%.=<color\=#FFFC40>Asesino</color> El daño de los aliados aumenta un 40%.
 Party's <color\=#FFFC40>Almighty</color> damage is increased by 90%.=El daño de <color\=#FFFC40>Todopoderoso</color> El daño aumenta un 90%.
-Defeat the Floor 3 boss in Jose's Dicey Adventure (1/1)=Derrota al jefe del piso 3 en la Aventura de Dados de Jose (1/1)
+Defeat the Floor 3 boss in Jose's Dicey Adventure (1/1)=Derrota al jefe del piso 3 en La Darriesgada Aventura de José (1/1)
 Termina en  12 h=Termina en  12 h
 How Polite!=¡Qué educado!
 Nv242 Increases Physical and Gun damage by 0.2% (takes effect in battle).\nNv243 Grants 100 extra Konpaku Gems when you play Pursuit of Treasure.=Nv242 Aumenta el daño Físico y de Arma de fuego en un 0,2% (toma efecto en batalla). Nv243 Otorga 100 gemas Konpaku extra al jugar Búsqueda del tesoro.
@@ -52985,9 +52953,9 @@ Do you want to use the following to perform Full Throttle 1 times?=¿Quieres usa
 An exclusive 5★ weapon for <color\=#FF423F>Mayumi Hashimoto</color> is now available! Select which weapons are in your 5★ weapon lineup. Press [Info] for more details.=Un arma 5★ exclusiva para <color\=#FF423F>Mayumi Hashimoto</color> ¡Ya está disponible! Selecciona qué armas formarán parte de tu alineación de armas 5★. Presiona [Info] para más detalles.
 Nebula Pennant=Estandarte Nebuloso
 Used to level up your Phantom Pass.=Se usa para subir de nivel tu Pase Fantasma.
-Jose's Dicey Adventure Coin Delivery=La Aventura Arriesgada de Jose: Entrega de Monedas
+Jose's Dicey Adventure Coin Delivery=La Darriesgada Aventura de José: Entrega de Monedas
 Ver 3.5 Update Celebration Gift=Regalo de Celebración por la Actualización 3.5
-The event Jose's Dicey Adventure has ended.\nYour unused coins have been delivered to you, and can be found in your bag.=El evento La Aventura Arriesgada de Jose ha terminado. Tus monedas sin usar te han sido entregadas y puedes encontrarlas en tu bolsa.
+The event Jose's Dicey Adventure has ended.\nYour unused coins have been delivered to you, and can be found in your bag.=El evento La Darriesgada Aventura de José ha terminado. Tus monedas sin usar te han sido entregadas y puedes encontrarlas en tu bolsa.
 Get <color\=#FFF000>Platinum Milicoin x20</color>=¡Obtén conjuntos de suministros de <color\=#FFF000>Milimoneda Platino x20</color>
 Get <color\=#FFF000>Platinum Ticket x20</color>=¡Obtén conjuntos de suministros de <color\=#FFF000>Ticket Platino x20</color>
 Sign <color\=#FFD145>Full Throttle</color> contracts 80 times=Señal <color\=#FFD145>A todo velocidad</color> contratos 80 veces
@@ -53221,12 +53189,10 @@ I've realized that I don't really have the\ndrive to win this thing, you know?=M
 It's more like I just want people to see\nwhat I can do. Just like back when I danced,\nI guess...=Es más que quiero que la gente vea lo que puedo hacer. Como cuando bailaba, supongo...
 I want to show them what I'm capable of now.\nI want to prove myself.=Quiero mostrarles de lo que soy capaz ahora. Quiero demostrar mi valía.
 And it'll give me new goals to aim for!\nI can't wait to see all of the competitors'\namazing tricks and try them out too!=¡Y me dará nuevas metas a las que apuntar! ¡No puedo esperar a ver todos los trucos increíbles de los competidores y probarlos también!
-I know it might be disrespectful to enter\nthis competition when I'm not trying\nto win...=Sé que podría ser irrespetuoso participar en esta competición cuando ni siquiera intento ganar...But still... I want to try. Thank you,\nNagisa-kun.=Pero aun así... quiero intentarlo. Gracias, Nagisa-kun.
 I haven't done a thing.=No he hecho nada.
 You don't need to thank me.=No necesitas darme las gracias.
 You've done so much for me. Because of my\ntalks with you, I was able to take a step\nforward.=Has hecho tanto por mí. Gracias a nuestras charlas, pude dar un paso adelante.
 You've helped me improve my cocktails,\nmy mocktails, and even my flair tricks.=Me has ayudado a mejorar mis cócteles, mis combinados sin alcohol e incluso mis trucos de exhibición.
-I know it might be disrespectful to enter\nthis competition when I'm not trying\nto win...=Sé que podría ser irrespetuoso participar en esta competición cuando ni siquiera intento ganar...So I really should thank you!=¡Así que debería darte las gracias de verdad!
 Agh, I'm out of water already...=Ay, ya me quedé sin agua...
 Wait there.=Espera ahí.
 I'll make you a mocktail.=Te prepararé un cóctel.
@@ -53371,8 +53337,489 @@ Wassup?=¿Qué tal?
 Loud 'n clear=Fuerte y claro
 I'm bored\nTrying to pass the time with a\nmobile game haha=Estoy aburrida. Intentando matar el tiempo con un juego móvil jaja
 I'll message you sometime,\nso keep an eye on your phone=Te escribiré en algún momento, así que mantente al tanto del celular.
-When an ally activates an <color\=#FFFC40>All-Out Attack</color>, increase final dmg by 100%.=Cuando un aliado activa un <color\=#FFFC40>All-Out Attack</color>, aumenta el daño final en un 100%.
+When an ally activates an <color\=#FFFC40>All-Out Attack</color>, increase final dmg by 100%.=Cuando un aliado activa un <color\=#FFFC40>Ataque Combinado</color>, aumenta el daño final en un 100%.
 When allies use <color\=#FFFC40>melee or ranged attacks</color>, final damage is increased by 100%.=Cuando los aliados usan <color\=#FFFC40>ataques cuerpo a cuerpo o a distancia</color>, el daño final aumenta un 100%.
 At the end of the boss's turn, all allies are inflicted with <color\=#FFFC40>Intimidation</color>. When Intimidation is removed, all foes are inflicted with Intimidation.\nIntimidation: Increase final damage taken by 10%. Stacks up to 6 times. Lasts for 3 turns.=Al finalizar el turno del jefe, todos los aliados sufren <color\=#FFFC40>Intimidación</color>. Cuando se elimina Intimidación, todos los enemigos reciben Intimidación. Intimidación: Aumenta el daño final recibido en un 10%. Se acumula hasta 6 veces. Dura 3 turnos.
 1 Effect: All foes' max HP is decreased by 50%. At the end of each turn, all foes' HP is restored by 10% of their max HP.\n2 Effect: All foes' final damage taken is increased based on their current missing HP. Final damage taken is increased up to a maximum of 40% when below 20% HP.=Efecto 1: El PS máx. de todos los enemigos se reduce un 50%. Al final de cada turno, todos los enemigos recuperan un 10% de sus PS máx.\nEfecto 2: El daño final recibido por todos los enemigos aumenta según los PS que les falten actualmente. El daño final recibido aumenta hasta un máximo del 40% cuando los PS están por debajo del 20%.
 Casual Enmity=Hostilidad casual
+Summer Hype Bonus Dmg Multiplier=Multiplicador de daño de Hype de Verano
+Ritual Artifacts=Artefactos rituales
+F<color\=#000000>u</color>rious Impulse=F<color\=#000000>u</color>Impulso Rioso
+Gained Furious Impulse!=¡Obtuviste Impulso Furioso!
+Cartoon Mask=Máscara de Dibujos Animados
+Sales End:  9 h 35 m=Ventas finalizan: 9 h 35 m
+Sales End:  9 h 34 m=Ventas finalizan: 9 h 34 m
+Added to favorites.=Agregado a favoritos.
+Removed from favorites.=Eliminado de favoritos.
+Unlocks at Kayo Tomiyama rank 13=Se desbloquea en el rango 13 de Kayo Tomiyama
+<color\=#FFC000>Rank 5</color>: Unlock the ability to purchase products from Zoshigaya using Shady Commodities.=Desbloquea la habilidad de comprar productos de Zoshigaya usando Negocios Turbios.
+<color\=#FFC000>Rank 7</color>: Unlock the ability to purchase products from Yongenjaya using Shady Commodities.=<color\=#FFC000>Rango 7</color>: Desbloquea la capacidad de comprar productos en Yongenjaya usando Negocios Turbios.
+Gain Synergy with <color\=#FFC000>Mio Natsukawa</color>: Unlock the use of Shady Commodities.\nUnlock the ability to purchase products from Shibuya using Shady Commodities.=Sinergia con <color\=#FFC000>Mio Natsukawa</color>: Desbloquea el uso de Negocios Turbios. Desbloquea la capacidad de comprar productos en Shibuya usando Negocios Turbios.
+<color\=#FFC000>Rank 11</color>: Unlock the ability to purchase products from Kichijoji using Shady Commodities.=<color\=#FFC000>Rango 11</color>: Desbloquea la habilidad de comprar productos de Kichijoji usando Negocios Turbios.
+<color\=#FFC000>Rank 13</color>: Unlock the ability to purchase products from Shinjuku using Shady Commodities.=<color\=#FFC000>Rango 13</color>: Desbloquea la capacidad de comprar productos en Shinjuku usando Negocios Turbios.
+<color\=#FFC000>Rank 17</color>: Unlock the ability to purchase products from Akihabara using Shady Commodities.=<color\=#FFC000>Rango 17</color>: Desbloquea la habilidad de comprar productos de Akihabara usando Negocios Turbios.
+tnxotb-[Skill_descSimple_103240]=I need the actual English text to translate. The code "tnxotb-[Skill_descSimple_103240]" appears to be a reference ID, but I don't see the actual skill description text that needs to be translated.\n\nPlease provide the English skill description text that corresponds to this ID, and I'll translate it to neutral Latin American Spanish following all the specified rules.
+Thank you. I was hoping to talk about my\nfather's former secretary...=Gracias. Quería hablar sobre la exsecretaria de mi padre...
+Event Ends in:  18 m=Evento termina en: 18 m
+Event Ends in:  17 m=El evento termina en: 17 m
+Remember when I told you I bought five of\nToshia Soomy's books?=¿Recuerdas cuando te dije que compré cinco libros de Toshia Soomy?
+Since then, other authors have re-released\ntheir books with new cover designs.=Desde entonces, otros autores han reeditado sus libros con nuevos diseños de portada.
+I'm happy, of course, but... I'm also running\nout of money.=Estoy feliz, claro, pero... también me estoy quedando sin dinero.
+Must be rough.=Debe ser duro.
+Gonna buy another five?=¿Vas a comprar otros cinco?
+At this rate, five of each is a bit too much\nfor my wallet, so I'm settling for only three\nfor now.=Con este ritmo, cinco de cada uno es demasiado para mi bolsillo, así que me conformo con solo tres por ahora.
+But that's when it dawned on me...=Pero fue entonces cuando me di cuenta...
+I used to be happy with just one copy. But\nafter buying five, three just isn't enough.=Antes era feliz con una sola copia. Pero después de comprar cinco, tres ya no son suficientes.
+If one gets too worn out, then I only have\ntwo left...=Si uno se desgasta demasiado, solo me quedaría dos...
+Not that I regret buying those five copies.=No es que me arrepienta de haber comprado esas cinco copias.
+But I fear I might have ventured too far\ninto forbidden territory.=Pero temo haber cruzado demasiado lejos los límites prohibidos.
+Ugh, I just need two more copies, that's all!=Ugh, ¡solo necesito dos copias más, eso es todo!
+I somehow managed to\ncalm Seiji down...=De alguna forma logré calmar a Seiji...
+Awarded for clearing Challenge: Stage 1 of Turbo's Special Missions in Thieves' Secrets.=Recompensa por completar el Desafío: Fase 1 de las Misiones especiales de Turbo en Secretos de los Ladrones.
+Special Event: Laboratory Arc Part 2!\nPlay through the event to earn rewards!=Evento especial: ¡Arco del Laboratorio Parte 2! ¡Juega el evento para ganar recompensas!
+Ver 3.6 Update Celebration Gift=Regalo de celebración: Actualización Ver. 3.6
+P5R Special Event Pt. 3<alpha\=#00>____<alpha\=#FF>P5R Special Event Pt. 3<alpha\=#00>____<alpha\=#FF>=P5R Evento Especial Parte 3<alpha\=#00>____<alpha\=#FF>P5R Evento Especial Parte 3<alpha\=#00>____<alpha\=#FF>
+<color\=#FFFF00>Increases Akechi's Attack by 1% (takes effect in battle).</color>=<color\=#FFFF00>Aumenta el Ataque de Akechi en 1% (toma efecto en batalla).</color>
+Persona 5 Royal Cover Art=Persona 5 Royal Arte de portada
+The illustration used for Crossroads of Fate: Laboratory Arc Part 2.\n<color\=#FFD145>Increases Akechi's Attack by 1% (takes effect in battle).</color>=La ilustración utilizada para la Encrucijada del Destino: arco del Laboratorio Parte 2.\n<color\=#FFD145>Aumenta el Ataque de Akechi en un 1% (surte efecto en batalla).</color>
+P5R Special Event Pt. 3=P5R Evento Especial Parte 3
+2 music tracks including Sunset Bridge can now be unlocked.\n=Ahora puedes desbloquear 2 pistas de música, incluido Sunset Bridge.\n
+Persona 5\nPlays when people speak about their struggles or their past. Different song from Confession / Secret.=Persona 5 suena cuando la gente habla de sus luchas o de su pasado. Canción distinta a Confesiones / Secreto.
+Gordian Kopis=Gordian Kopis
+When allies other than Wonder deal Physical or Almighty damage with skills, all allies gain Cellular Crystallization.\nCellular Crystallization: Increase final damage by 40% for 2 turns.=Cuando aliados distintos a Wonder inflijan daño Físico o Todopoderoso con habilidades, todos los aliados obtienen Cristalización Celular. Cristalización Celular: Aumenta el daño final en un 40% durante 2 turnos.
+Complete daily Pass Goals to get rewards. Goals left: 　=Completa objetivos del pase para obtener recompensas. Restan:
+I found her current workplace.=Encontré su lugar de trabajo actual.
+I was thinking of heading over there now.\nSo, if you're not against it...=Estaba pensando en ir allí ahora. Así que, si no te importa...
+Could you come with me? I don't think I have\nthe confidence to face this alone...=¿Podrías venir conmigo? No creo tener la confianza para enfrentar esto solas...
+Let's get going, then.=Entonces, vámonos.
+Of course I'll come.=Por supuesto que iré.
+Thank goodness... Thank you, Nagisa.=Menos mal... Gracias, Nagisa.
+You've been an invaluable help to me time\nand time again. Well then, shall we go?=Has sido una ayuda invaluable para mí una y otra vez. Entonces, ¿nos vamos?
+Apparently, she works at this hospital as an\noffice assistant to the director.=Aparentemente, ella trabaja en este hospital como asistente de oficina del director.
+It was surprisingly easy to ascertain with\njust a little research.=Fue sorprendentemente fácil determinarlo con solo un poco de investigación.
+This is a hospital in which Umetane also\nhas investments, after all.=Este es un hospital en el que Umetane también tiene inversiones, después de todo.
+The director of this hospital and my father\nare good friends. I've even met him myself a\nfew times.=El director de este hospital y mi padre son buenos amigos. Incluso lo he conocido yo misma unas cuantas veces.
+Was he aware of her transfer?=¿Estaba al tanto de su traslado?
+So your father knows this hospital?=¿Entonces tu padre conoce este hospital?
+Yes. In fact, it seems that my father was\nactually the one that arranged for her job\nchange.=Sí. De hecho, parece que mi padre fue en realidad quien organizó su cambio de trabajo.
+He went so far as to humble himself to the\ndirector and asked for her to be hired...=Incluso se humilló ante el director y le pidió que la contrataran...
+It's odd... First he gives her a suggestion\nto resign, and then he goes out of his way\nto find her a new job.=Es extraño... Primero le sugiere que renuncie, y luego se empeña en encontrarle un nuevo trabajo.
+I need to know just what happened between\nher and my father.=Necesito saber exactamente qué sucedió entre ella y mi padre.
+Oh, if it isn't Riko-san. What brings you\nin, here to visit someone?=Vaya, si es Riko-san. ¿Qué te trae por aquí? ¿Vienes a visitar a alguien?
+It's been a long time, Director.=Ha pasado mucho tiempo, Director.
+Hospital Director=Director del Hospital
+And... to you as well. It has been quite a\nlong time.=Y... a ti también. Ha pasado bastante tiempo.
+Riko-san...=Riko-san...
+Former Secretary=Exsecretario
+Hm...? Ah, that's right. You two were\nacquainted, yes?=¿Hm...? Ah, es cierto. ¿Ustedes dos se conocían, cierto?
+That's correct. I was very grateful to you\nfor looking after me when I was a child.=Así es. Te estuve muy agradecida por cuidar de mí cuando era una niña.
+You were suddenly forced to quit your job,\nand I've always had an interest in that matter.=De repente te obligaron a renunciar a tu trabajo, y siempre he tenido interés en ese asunto.
+I... I had no choice at the time. It was not\na situation that allowed me to remain at\nthe company.=Yo... no tuve opción en ese momento. No era una situación que me permitiera quedarme en la compañía.
+I'm aware. Although, I only became aware of\nthe reason rather recently.=Estoy al tanto. Aunque, solo me di cuenta de la razón hace poco.
+Huh? Recently?=¿Eh? ¿Recientemente?
+Yes. Until very recently, I was unaware of\nwhy you left the company so suddenly.=Sí. Hasta hace muy poco, desconocía por qué te fuiste de la empresa tan repentinamente.
+However... there are still several things I\ndo not understand.=Sin embargo... todavía hay varias cosas que no entiendo.
+Like why you weren't given a disciplinary\ndischarge.=Como por qué no te dieron un despido disciplinario.
+Or why my father referred you to this\nhospital.=O por qué mi padre te recomendó este hospital.
+I've come here today to get answers to these\nquestions.=He venido aquí hoy para obtener respuestas a estas preguntas.
+You went to all that trouble? But, why\nnow...?=¿Te tomaste todas esas molestias? Pero, ¿por qué ahora...?
+Whatever I say now will just sound like an\nexcuse, so what's the point of saying\nsomething now of all times?=Diga lo que diga ahora, solo parecerá una excusa, así que ¿qué sentido tiene decir algo precisamente en este momento?
+"Of all times"...?="¿En este momento....?"
+It might be something far in the past for\nyou... but that isn't the case for me!=Podría ser algo muy lejano en el pasado para ti... ¡pero ese no es mi caso!
+Those words you said to me have weighed on\nmy mind this whole time...=Esas palabras que me dijiste han pesado en mi mente todo este tiempo...
+I thought about them over and over, agonizing\nover them... And even though I tried\nforgetting, I just couldn't...=Los pensé una y otra vez, agonizando por ello... Y aunque intenté olvidarlos, simplemente no pude...
+Still, if I could at least know the truth,\nmaybe I could get some closure.=Aun así, si al menos pudiera saber la verdad, tal vez podría obtener algo de cierre.
+That's what I thought when I came here...\nBut despite that, you—!=Eso es lo que pensé cuando vine aquí... ¡Pero a pesar de eso, tú...!
+W-Wait... I'm sorry, Riko-san. I really\ndidn't mean it that way...=E-Espera... Lo siento, Riko-san. Realmente no quise decirlo así...
+Riko-san, if you please...=Riko-san, por favor...
+Maybe we should hear her side.=Tal vez deberíamos escuchar su versión.
+Let's take a breather.=Tomemos un respiro.
+...I apologize. I let my emotions get the\nbetter of me...=...Lo siento. Dejé que mis emociones me ganaran...
+No, it's alright. I'm the one who's in the\nwrong.=No, está bien. Soy yo quien se equivoca.
+It was just... so sudden that I didn't know\nwhat to say.=Simplemente... fue tan repentino que no supe qué decir.
+Why the sudden kindness?=<size\=26>¿A qué viene esta amabilidad repentina?</size>
+What made you want to embezzle?=¿Qué te hizo querer malversar?
+Riko can't accept that.=Riko no puede aceptar eso.
+I think you should explain the circumstances\nsurrounding the event. Riko-san won't be able\nto move on until you do.=Creo que deberías explicar las circunstancias que rodean el evento. Riko‑san no podrá seguir adelante hasta que lo hagas.
+Circumstances...?=¿Circunstancias...?
+When he says "circumstances"... I know that\nit doesn't mean that what I did is excusable.=Cuando él dice "circunstancias"... sé que eso no significa que lo que hice sea excusable.
+Even still... Let's hear it.=Aún así... Dímelo.
+Around that time, one of my relatives\nborrowed money from a loan shark.=En esa época, uno de mis familiares tomó dinero prestado de un usurero.
+Mont Returns=Mont regresa
+He has a point. I think an explanation of\nthe circumstances is in order.=Tiene razón. Creo que una explicación de las circunstancias es necesaria.
+They presented themselves as a legitimate\ncompany, so I thought it was fine... I went\nso far as to sign on as a guarantor...=Se presentaron como una empresa legítima, así que pensé que no habría problema... Llegué incluso a firmar como avalista...
+My relative disappeared, and gangs of people\nwere showing up at my house every day trying\nto collect the debt.=Mi pariente desapareció, y pandillas de gente aparecían en mi casa todos los días intentando cobrar la deuda.
+So... I didn't know where else to turn...\nand ended up stealing from the company...=Entonces... no sabía a dónde más acudir... y terminé robando a la empresa...
+I know that what I did was inexcusable. But\nin that moment, I was truly desperate...!=Sé que lo que hice no tiene perdón. Pero en aquel momento, ¡estaba realmente desesperada!
+Your father also told me her story. I felt\ntruly sorry for her.=Tu padre también me contó su historia. Realmente sentí lástima por ella.
+Since she embezzled money, she couldn't stay\nat Umetane, and your father also begged\nher to leave...=Como ella malversó dinero, no pudo quedarse en Umetane, y tu padre también le suplicó que se fuera...
+So I decided to hire her.=Así que decidí contratarla.
+I really... I have no idea how I can repay\ntheir kindness...!=De verdad... ¡No tengo ni idea de cómo puedo pagarles su amabilidad...!
+U-Um, Riko-san...!=¡A-Ah, Riko-san...!
+Did you really not know about my embezzlement\nuntil recently?=¿De verdad no sabías de mi malversación hasta hace poco?
+I was certain that your father had told you\nabout it as well...=Estaba segura de que tu padre también te lo había dicho...
+No, I had no idea this entire time...=No, no tenía idea de esto todo este tiempo...
+After that day... I thought you had just\ndisappeared.=Después de ese día... pensé que simplemente habías desaparecido.
+That means... the last words I said to you\nwere...=Eso significa... las últimas palabras que te dije fueron...
+Uh oh, we need to get going.=Oh, no, tenemos que irnos.
+What do you think, Riko-san? It seems you\ntwo still have much to discuss.=¿Qué piensas, Riko‑san? Parece que ustedes dos todavía tienen mucho que discutir.
+Wouldn't it be better to set aside some time\nand talk through things at your own pace?=¿No sería mejor reservar algo de tiempo y hablar de las cosas a tu propio ritmo?
+Yes... I'd like that very much.=Sí... Me gustaría mucho eso.
+All right, I'll make some preparations, then.=Muy bien, entonces haré algunos preparativos.
+When the time arises, I hope you'll be there\nas well.=Cuando llegue el momento, espero que también estés allí.
+I think Riko-san would be much better off\nhaving a dear friend close by.=Creo que Riko-san estaría mucho mejor teniendo a un querido amigo cerca.
+Well then, I'll be in touch with you again\nsoon. Until then, Riko-san.=Bueno, volveré a ponerme en contacto contigo pronto. Hasta entonces, Riko-san.
+Yes, thank you very much.=Sí, muchas gracias.
+Thank you for coming with me today. It looks\nyou'll be joining me again soon as well...=Gracias por venir conmigo hoy. Parece que volverás a acompañarme pronto también...
+We'll see it through to the end.=Lo veremos hasta el final.
+I'd say I'm pretty invested now.=<size\=28>Yo diría que ahora estoy bastante involucrado.</size>
+To be honest, I'm still not convinced of\nall this... For now, let's wait to hear back\nfrom the director.=Para ser honesta, todavía no me convence todo esto... Por ahora, esperemos a tener noticias del director.
+Well then, I suppose we should return home\nfor now.=Bueno, supongo que deberíamos volver a casa por ahora.
+Riko said few words as we\nwent back to Shibuya\nand parted ways...=Riko dijo pocas palabras mientras\nvolvíamos a Shibuya\ny nos separábamos...
+Digital or print books?=¿Libros digitales o impresos?
+Which do you prefer, digital\nor print books?=¿Cuál prefieres, los libros digitales o los impresos?
+Print.=Imprimido.
+Digital.=Digital.
+I see... That's good to know.\nI'm glad I asked beforehand.=Ya veo... Es bueno saberlo. Me alegra haberlo preguntado antes.
+E-books are convenient to buy\nand carry,=Los libros electrónicos son convenientes para comprar y llevar,
+but you can't borrow or lend\nthem, can you?=pero no puedes tomarlos ni prestarlos, ¿cierto?
+I just thought I should ask\nin advance.=Solo pensé que debía preguntar con antelación.
+I'm the same. We're very\nalike, you and I.=Soy igual que tú. Somos muy parecidos, tú y yo.
+Oh? Kamisiro-sama. You have brought the\nPersona I requested.=¿Oh? Kamijiro-sama. Has traído la Persona que solicité.
+I apologize for the inconvenience, but I ask\nthat you follow me.=Lamento el inconveniente, pero te pido que me sigas.
+I recognize that you are eager to fulfill our\ncontract.=Reconozco que estás ansioso por cumplir nuestro contrato.
+Today is the fan appreciation event.=Hoy es el evento de agradecimiento a los fans.
+Naruru will not be the only performer\nfeatured.=Naruru no será la única intérprete destacada.
+Please understand that you must show respect\nto the entire cast.=Por favor, entiende que debes mostrar respeto a todo el elenco.
+Your support of Naruru is already flawless.=Tu apoyo a Naruru ya es impecable.
+Therefore, I shall now demonstrate how to\ncheer on the other performers.=Por lo tanto, ahora demostraré cómo animar a los demás artistas.
+Watch me nail this.=Mira cómo lo clavo.
+Yes. That is the spirit.=Sí. Ese es el espíritu.
+I shall first teach you the basic chants\nwhich can be used for any idol.=Primero te enseñaré los cantos básicos que pueden usarse con cualquier idol.
+Menma! Hammer! Ginger!=¡Menma! ¡Hammer! ¡Ginger!
+Amber! Summer! Samba! Salad bar!=¡Amber! ¡Summer! ¡Samba! ¡Salad bar!
+Next, we shall practice how to properly wave\nglow sticks.=A continuación, practicaremos cómo agitar correctamente los bastones luminosos.
+Finally, we must dress the part.=Finalmente, debemos vestirnos para la ocasión.
+We are prepared. Be advised that I am\novercome with emotion.=Estamos preparados. Tengan en cuenta que estoy abrumada por la emoción.
+All hail Naruru.=Todos alaben a Naruru.
+This is surreal...=Esto es surrealista...
+A lot has happened.=Han pasado muchas cosas.
+She has acted as a vital turning point in\nboth of our lives.=Ella ha sido un punto de inflexión vital en nuestras dos vidas.
+Even after that corrupt producer tried to\nexploit her, Naruru never lost her light.=Incluso después de que ese productor corrupto intentó explotarla, Naruru nunca perdió su luz.
+This opportunity to meet and help her has\nbrought me indescribable joy.=Esta oportunidad de conocerla y ayudarla me ha traído una alegría indescriptible.
+I never imagined that I would develop such an\nintense desire to support Naruru.=Nunca imaginé que desarrollaría un deseo tan intenso de apoyar a Naruru.
+Now I feel I have come to understand you\nand the concept of human desire much more\nthoroughly.=Ahora siento que he llegado a comprenderte a ti y el concepto del deseo humano mucho más a fondo.
+And as your concierge, I am confident that I\ncan provide you even greater support going\nforward.=Y como tu conserje, estoy segura de que puedo brindarte un apoyo aún mayor de ahora en adelante.
+I believe this experience has been beneficial\nfor you, too.=Creo que esta experiencia también te ha sido beneficioso.
+It was not just I who learned from engaging\nin idol culture.=No solo yo aprendí al involucrarme en la cultura idol.
+Idols do not display their emotions freely.\nThey hide their true feelings behind a\nsmile... a mask.=Los ídolos no muestran sus emociones libremente. Ocultan sus verdaderos sentimientos detrás de una sonrisa... una máscara.
+Now you have honed the same ability.=Ahora has perfeccionado la misma habilidad.
+You may utilize each of your Personas to\nmatch your ever-changing environment and\ncircumstance.=Puedes usar cada una de tus Personas para adaptarte a tu entorno y circunstancias siempre cambiantes.
+And of course, I shall continue to support\nyou as a fan.=Y, por supuesto, seguiré apoyándote como fan.
+Isn't Naruru your fave?=¿No es Naruru tu favorita?
+You'll cheer me on?=¿Me animarás?
+Indeed. I have high hopes for both you\nand Naruru.=En efecto. Tengo grandes esperanzas tanto de ti como de Naruru.
+I have realized in this moment that I am as\nmuch a fan of yours as I am a fan of hers.=Me he dado cuenta en este momento de que soy tan fan tuyo como lo soy de ella.
+Now, I will support you and Naruru with all\nof my heart and soul.=Ahora, apoyaré a ti y a Naruru con todo mi corazón y mi alma.
+I feel a strong bond between\nme and Merope...=Siento un fuerte vínculo entre\nMerope y yo...
+Nevertheless...=Sin embargo...
+I would like for us to expend all efforts in\nsupporting Naruru at today's event.=Me gustaría que dedicáramos todos los esfuerzos a apoyar a Naruru en el evento de hoy.
+Let us promise to make this event shine. For\nNaruru's sake, and your own.=Prometamos hacer que este evento brille. Por el bien de Naruru y por el tuyo.
+I went to the con café\nwith Merope and had\nthe time of my life.=Fui al café temático con Merope y\nlo pasé como nunca.
+Angelic=Angelic
+Regarding the fan\nappreciation event=Sobre el evento de agradecimiento a los fans
+To our continued\npartnership=Por nuestra continua\ncolaboración
+The fan appreciation event\nwas truly splendid.=El evento de agradecimiento a los fans fue realmente espléndido.
+It felt as if both\nidols and fans shared\none heart and mind.=Se sentía como si tanto idols como fans compartieran un mismo corazón y mente.
+Of course, that may simply be\nmy own misconception.=Por supuesto, eso puede ser simplemente mi propia equivocación.
+However, if idols are meant\nto show us dreams, then I do\nbelieve I was dreaming.=Sin embargo, si los idols están destinados a mostrarnos sueños, entonces creo que estaba soñando.
+It's okay to dream.=Está bien soñar.
+It's not a dream.=No es un sueño.
+Just as people once found\ngods within nature,=Así como la gente una vez encontró dioses dentro de la naturaleza,
+we fans have found our dreams\nin idols like Naruru.=Nosotros, los fans, hemos encontrado nuestros sueños en las idols como Naruru.
+That alone is the\nunshakable truth.=Eso por sí solo es la verdad inquebrantable.
+I wish nothing but happiness\nfor both you and Naruru.=Deseo nada más que felicidad para ti y Naruru.
+It's been quite some time\nsince I became your concierge.=Ha pasado bastante tiempo desde que me convertí en tu conserje.
+You've grown far more\nthan I ever imagined.=Has crecido mucho más de lo que jamás imaginé.
+It is pointless for\na concierge to sing\nher own praises.=Es inútil que una conserje se alabe a sí misma.
+But if I was helpful\nto you in the slightest,\nthen I am satisfied.=Pero si te fui útil en lo más mínimo, entonces estoy satisfecha.
+Where'd this all come from?=¿De dónde vino todo esto?
+Of course you were.=Por supuesto que lo estabas.
+My apologies. My emotions\ngot the better of me.=Mis disculpas. Mis emociones me ganaron.
+This too is proof of your\ntremendous growth.=Esto también es prueba de tu tremendo crecimiento.
+You've changed too, Merope.=También has cambiado, Merope.
+I'm grateful to you too.=Yo también te agradezco.
+I have?=¿Ah, sí?
+Perhaps, but that is also\nentirely thanks to you.=Quizás, pero eso también es totalmente gracias a ti.
+And for that, I must say,=Y para eso, debo decir,
+I look forward to our\ncontinued partnership.=Espero con ansias nuestra continua colaboración.
+For the best experience, complete A Heartfelt Message: Part 2 before playing this story.=Para obtener la mejor experiencia, completa un Mensaje sincero: Parte 2 antes de jugar esta historia.
+Increase Social Stats more easily.=Aumenta las estadísticas sociales más fácilmente.
+You can use a 5★ Phantom Thief Chance 03 to get a 5★ Phantom Thief.=Puedes usar una Oportunidad de personaje 5★ 03 para obtener un Ladrón Fantasma de 5★.
+Crossroads of Fate: Laboratory Arc Part 2=Encrucijada del Destino: Arco del Laboratorio Parte 2
+Ashiya's Skills=Habilidades de Ashiya
+Oathbriar=Zarza del Juramento
+Increase Atk by 9%. At 8 stacks, increase critical rate of unique skills.=Aumenta ATQ en un 9%. Con 8 acumulaciones, aumenta la probabilidad crítica de habilidades únicas.
+Dice Master: Silver=Maestro de Dados: Plata
+Dice Master: Gold=Maestro de Dados: Oro
+Dice Master: Rainbow=Maestro de Dados: Arcoíris
+Dice Master: Holo=Maestro de Dados: Holo
+Apt Commander of Entities=Comandante Apto de Entidades
+Firm Commander of Entities=Comandante Firme de Entidades
+Prolific Commander of Entities=Comandante Prolífico de Entidades
+Total Commander of Entities=Comandante Total de Entidades
+Crossroads of Dreams=Encrucijada de Sueños
+Awarded for reaching 100% exploration progress in Crossroads of Fate: Laboratory Arc Part 2.=Se otorga por alcanzar el 100% de progreso de exploración en Encrucijada del destino: Laboratorio Parte 2.
+Guerrilla=Guerrilla
+Visits from Friends=Visitas de amigos
+<color\=#737373>Visitor EXP 8: Unlock new dialogue event</color>=<color\=#737373>Visitante EXP 8: Desbloquear nuevo evento de diálogo</color>
+J<color\=#ff0000ff>o</color>ker & Crow=J<color\=#ff0000ff>o</color>ker y Crow
+No, I mean... Surely it's more reasonable to\nassume she saw wrong?=No, me refiero a que... ¿No es más razonable asumir que vio mal?
+Violet is an honest person, so I think she\nsaw what she says she saw.=Violet es una persona honesta, así que creo que vio lo que dice haber visto.
+Is this about Violet?=¿Se trata de Violet?
+Oh hey, Wonder. There's something we should\nmaybe run past you.=Oh, hola, Wonder. Hay algo que tal vez deberíamos comentarte.
+Violet claims to have seen a figure with\ntwo heads.=Violet afirma haber visto una figura con dos cabezas.
+We're trying to figure out what it possibly\ncould have been.=Estamos tratando de averiguar qué pudo haber sido.
+At first I thought it was a Shadow, but they\nprobably can't enter this space...=Al principio pensé que era una Sombra, pero probablemente no pueden entrar a este espacio...
+I thought maybe she was mistaken. But if\nthat's what she says she saw...=Pensé que tal vez se había equivocado. Pero si eso es lo que dice haber visto...
+Where did she see it?=¿Dónde lo vio?
+Any other details?=¿Algún otro detalle?
+She claims to have seen it over there. And\nshe mentioned it was slender.=Afirma haberlo visto por allí. Y mencionó que era de forma esbelta.
+So, it seems it is not one of Wonder's allies\neither. Simply discussing the matter isn't\ngetting us any closer either...=Entonces, parece que tampoco es ninguno de los aliados de Wonder. Simplemente discutir el asunto tampoco nos está acercando más...
+So, what do you think? Should we investigate?=Entonces, ¿qué piensas? ¿Deberíamos investigar?
+A temporary detective team? Sounds fun.\nCare to join, too, Wonder?=¿Un equipo de detectives temporal? Suena divertido. ¿Te animas a unirte también, Wonder?
+I'm in.=Me apunto.
+Come to think of it, I\nwas walking around there with\nLufel on my shoulder earlier.=Ahora que lo pienso, estuve\ncaminando por allí con\nLufel al hombro hace un rato.
+I should go mention this\nto Violet later...=Debería ir a comentarle esto\na Violet más tarde...
+About Game Settings=Acerca de la configuración del juego
+Based on the total Velocity she accumulates during battle, she can activate Torque Boost, increasing the party's <color\=#FFFC40>pierce rate</color>.=Según la Velocidad total que acumula durante la batalla, puede activar Impulso de Torque, aumentando el del grupo <color\=#FFFC40>tasa de perforación</color>.
+Each time her Velocity reaches a certain amount, Mayumi can gain an <color\=#FFFC40>extra action</color>. Additionally, she grants the party <color\=#FFFC40>increased damage</color> during extra actions.=Cada vez que su Velocidad alcance cierta cantidad, Mayumi puede obtener un <color\=#FFFC40>acción adicional</color>. Además, ella otorga al grupo <color\=#FFFC40>mayor daño</color> durante acciones extra.
+Mayumi possesses powerful <color\=#FFFC40>support capabilities</color>, granting the party increased pierce rate, Attack and damage dealt.=Mayumi posee poderosas <color\=#FFFC40>capacidades de apoyo</color>, otorgando al grupo una mayor tasa de penetración, Ataque y daño infligido.
+Akechi has high <color\=#FFFC40>Attack power</color>. He can deal <color\=#FFFC40>Almighty damage</color>, ignoring enemy affinities and Defense.=Akechi tiene alto <color\=#FFFC40>Poder de ataque</color>. Él puede infligir <color\=#FFFC40>daño Todopoderoso</color>, ignorando afinidades enemigas y Defensa.
+By granting the <color\=#FFFC40>Mastermind</color> state to <color\=#FFFC40>Sweeper or Assassin</color> allies, Akechi can record the damage dealt by an ally with Mastermind, and deal damage based on the recorded amount. If there are no Sweeper or Assassin allies, Akechi can gain Mastermind to strengthen himself.=Al otorgar el estado <color\=#FFFC40>Mente maestra</color> a aliados <color\=#FFFC40>Barredores o Asesinos</color>, Akechi puede registrar el daño infligido por un aliado con Mente maestra y realizar daño basado en la cantidad registrada. Si no hay aliados Barredores o Asesinos, Akechi puede obtener Mente maestra para potenciarse a sí mismo.
+He can provide <color\=#FFFC40>buffs</color> and <color\=#FFFC40>healing</color> to allies, as well as inflict <color\=#FFFC40>debuffs</color> on foes, allowing utility in a variety of situations.=Él puede proporcionar <color\=#FFFC40>mejoras</color> y un <color\=#FFFC40>curación</color> a los aliados, así como infligir <color\=#FFFC40>Debuffs</color> sobre los enemigos, permitiendo utilidad en una variedad de situaciones.
+Ashiya specializes in <color\=#FFFC40>strengthening his allies' defense</color>. He can provide <color\=#FFFC40>shields</color> and <color\=#FFFC40>increased Defense</color> to allies, raising their survivability.=Ashiya se especializa en <color\=#FFFC40>fortalecer la defensa de sus aliados</color>. Puede proporcionar <color\=#FFFC40>escudos</color> e <color\=#FFFC40>incrementar la Defensa</color> de los aliados, aumentando su supervivencia.
+During battle, he can use Knight's Protection to <color\=#FFFC40>protect allies from damage</color> and gain Heroism to activate Garden of Promises.=Durante la batalla, él puede usar Protección del Caballero para <color\=#FFFC40>proteger a los aliados del daño</color> y obtén Heroísmo para activar el Jardín de Promesas.
+By activating Garden of Promises, you can <color\=#FFFC40>strengthen skills</color> and increase <color\=#FFFC40>foes' damage taken and allies' survivability</color>.=Al activar Garden of Promises, puedes <color\=#FFFC40>fortalecer habilidades</color> y aumentar <color\=#FFFC40>daño recibido por los enemigos y supervivencia de los aliados</color>.
+The illustration used for the Crossroads of Fate:\nMuseum and Bank Arcs.\n<color\=#FFD145>Increases Yusuke and Makoto's Defense by 15 (takes effect in battle).</color>=La ilustración utilizada para la Encrucijada del Destino:\narcos del Museo y el Banco.\n<color\=#FFD145>Aumenta la Defensa de Yusuke y Makoto en 15 (surte efecto en batalla).</color>
+Illustration used for the\nSummer! Swimsuits! Sea Time! event.\n<color\=#FFD145>Increase Tropical Motoha's and Seaside Tomoko's Attack by 10 (takes effect in battle).</color>=Ilustración utilizada para el evento\n¡Verano! ¡Trajes de baño! ¡Hora del mar!\n<color\=#FFD145>Aumenta el Ataque de Motoha Tropical y Tomoko Playera en 10 (surte efecto en batalla).</color>
+The protagonist of Persona5: The Phantom X.\n<color\=#FFD145>Increases the protagonist's HP by 40 (takes effect in battle).</color>=El protagonista de Persona5: El Fantasma X.\n<color\=#FFD145>Aumenta los PS del protagonista en 40 (surte efecto en combate).</color>
+The Phantom Thieves from Persona5: The Phantom X.\n<color\=#FFD145>Increases Phantom Thieves' Attack by 10 (takes effect in battle).</color>=Ladrones Fantasma de Persona5: The Phantom X.\n<color\=#FFD145>Aumenta el Ataque de los Ladrones Fantasma en 10 (tiene efecto en batalla).</color>
+Wonder and Joker's confrontation in Persona5: The Phantom X.\n<color\=#FFD145>Increases ally critical rate by 0.5% (takes effect in battle).=Confrontación de Wonder y Joker en Persona 5: The Phantom X.\n<color\=#FFD145>Aumenta la probabilidad de crítico de los aliados en un 0.5% (surte efecto en batalla).</color>
+The Velvet Room in Persona5: The Phantom X.\n<color\=#FFD145>Increases Personas' damage by 1% (takes effect in battle).</color>=La Habitación Terciopelo en Persona5: The Phantom X.\n<color\=#FFD145>Aumenta el daño de las Personas un 1% (surte efecto en combate).</color>
+The main illustration created for Unconditional Love.\n<color\=#FFD145>Increase all support Phantom Thieves' Attack by 10 during battle.</color>=La ilustración principal creada para Amor Incondicional.\n<color\=#FFD145>Aumenta el Ataque de todos los Phantom Thieves de apoyo en 10 durante la batalla.</color>
+The main illustration created for the Crossroads of Fate: Spaceport Arc.\n<color\=#FFD145>Increases Futaba's and Haru's Attack by 1% (takes effect in battle).</color>=La ilustración principal creada para la Encrucijada del Destino: arco del Puerto Espacial.\n<color\=#FFD145>Aumenta el Ataque de Futaba y Haru en un 1% (surte efecto en batalla).</color>
+Wonder and Joker crossing paths in Persona5: The Phantom X.\n<color\=#FFD145>Increases ally critical damage by 1% (takes effect in battle).=Wonder y Joker cruzando sus caminos en Persona 5: The Phantom X.\n<color\=#FFD145>Aumenta el daño crítico de los aliados en un 1% (surte efecto en batalla).</color>
+Yes. We welcome you here as our guest.=Sí. Te damos la bienvenida aquí como nuestro invitado.
+Then, that brings us to the en—oh,\nmy apologies. One last thing.=Entonces, eso nos lleva a la en— oh, disculpa. Una última cosa.
+...it seems we'll need to gather more\ninformation first.=...parece que necesitaremos reunir más información primero.
+Saleswoman Shadow=Vendedora Sombra
+Hey! Don't look at me like I'm a stranger.\nWe just witnessed each other's Personas\na moment ago!=¡Hey! No me mires como si fuera un desconocido. ¡Acabamos de ver las Personas del otro hace un momento!
+Then please take the opportunity to do so.\nSurely this is a decision you cannot ignore.=Entonces, por favor, aprovecha la oportunidad para hacerlo. Seguramente es una decisión que no puedes ignorar.
+A reasonable degree? Could you describe that\nmore precisely? I wish for a clear answer.=¿Un grado razonable? ¿Podrías describirlo con más precisión? Quiero una respuesta clara.
+Is that so? It is quite evident to me that\nyou possess such qualities.=¿Es así? Me resulta bastante evidente que posees esas cualidades.
+I do appreciate your directness, but please\nreconsider.=Agradezco tu franqueza, pero por favor, reconsidéralo.
+With this pose, a young girl changed\nher fate...=Con esta pose, una joven cambió su destino...
+...and rose to stardom as an idol.=...y alcanzó la fama como idol.
+I went with Merope to Akihabara, where she met her new favorite idol, Narumi Nashimoto.=Fui con Merope a Akihabara, donde ella conoció a su nuevo Idol favorito, Narumi Nashimoto.
+As I said the other day, all of this is to\nfurther augment your strength.=Como dije el otro día, todo esto es para aumentar aún más tu fuerza.
+Idol on the Clock=Idol en el Reloj
+Observing Idol=Idol en Observación
+Con Café Employee=Empleado de Con Café
+Ah, forgive me. Perhaps, I was a bit\novereager.=Ah, perdóname. Tal vez, fui un poco demasiado entusiasta.
+Was there a time limit?=¿Había un límite de tiempo?
+Ah, I can see how it is a breach of\netiquette to hold a long conversation\nwithout compensation.=¡Ah, ya veo cómo es una falta de etiqueta mantener una larga conversación sin compensación!
+What? Why would I desire that?=¿Qué? ¿Por qué desearía eso?
+Merope took me to the concept café that Narumi works at. As Merope made her order, I could tell she had done her research...=Merope me llevó al café conceptual donde trabaja Narumi. Mientras Merope hacía su pedido, pude notar que había investigado...
+I know you have not forgotten. We are meant\nto visit the concept café, or "con café,"\nif you will.=Sé que no lo has olvidado. Se supone que debemos visitar el café temático, o "con café", si lo prefieres.
+I knew you would understand. Con café idols\nare indisputably sophisticated.=Sabía que lo entenderías. Los idols del café temático son indiscutiblemente sofisticados.
+I ask that you have faith in my discerning\neye. It is second to none.=Te pido que confíes en mi ojo perspicaz. No tiene rival.
+Male Fan=Fan masculino
+Merope noticed some disruptive fans at Narumi's photo session and stood up to them for her favorite idol.=Merope notó a algunos fans problemáticos en la sesión de fotos de Narumi y se enfrentó a ellos por su ídolo favorito.
+Please do not feign forgetfulness. Naturally,\nI am referring to Naruru's photo session.=Por favor, no finjas olvido. Naturalmente, me refiero a la sesión de fotos de Naruru.
+Indeed. Just as idols have tacit\nrestrictions, fans must follow their own\ncode of conduct as well.=Así como los idols tienen restricciones tácitas, los fans también deben seguir su propio código de conducta.
+Female Fan=Aficionada
+Regular Fan=Fan regular
+Fans=Aficionados
+Foulmouthed Employee=Empleado malhablado
+Do not feign ignorance. I refer to Naruru's\nplace of employment.=No finjas ignorancia. Me refiero al lugar de trabajo de Naruru.
+Narumi's café is being run by a corrupt producer. We'll make him pay for exploiting these idols.=Narumi café está siendo dirigido por un productor corrupto. Le haremos pagar por explotar a estos idols.
+Lethargic Employee=Empleado letárgico
+To be honest, this is hard for me to admit.=Para ser honesta, esto me resulta difícil de admitir.
+Yeah, it is. My sister is still young, so I\nhave to do my best for her.=Sí, lo es. Mi hermana todavía es joven, así que tengo que dar lo mejor por ella.
+It doesn't feel right to beg my fans for\nsympathy.=No se siente bien suplicar a mis fans por simpatía.
+Having successfully changed the corrupt producer's heart, peace has been restored to the concept café. Narumi gave us a special ticket to her event as thanks for our support.=Al haber cambiado con éxito el corazón del productor corrupto, la paz ha sido restaurada al café conceptual. Narumi nos dio un boleto especial para su evento como agradecimiento por nuestro apoyo.
+Thank you for granting my request. You have\nmy deepest gratitude.=Gracias por conceder mi solicitud. Tienes mi más profunda gratitud.
+Oh, I guess I must have worried you too.\nSorry about that, but thank you!=¡Oh, supongo que también te preocupé! Lo siento, pero gracias.
+Ah, this must be what they call "tsundere."=Ah, esto debe ser lo que llaman "tsundere".
+Your love for Naruru is pure and true. As a\nfellow fan, I shall not be outdone.=Tu amor por Naruru es puro y verdadero. Como también fan, no seré superada.
+In order to prepare for Narumi's fan appreciation event, I practiced my cheering with Merope.=Para prepararme para el evento de agradecimiento a los fans de Narumi, practiqué mis vítores con Merope.
+It feels like only yesterday that we began\nour special contract.=Parece que fue ayer cuando iniciamos nuestro contrato especial.
+I admit I did not expect this change within\nmyself either.=Admito que tampoco esperaba este cambio dentro de mí.
+Robin Hood=Robin Hood
+Akechi=Akechi
+tnxotb-[Skill_descSimple_135140]=tnxotb-[Skill_descSimple_135140]
+Akechi's Skills=Habilidades de Akechi
+It's a rare enemy... We should\ndefinitely take it down.=Es un enemigo raro... Definitivamente deberíamos eliminarlo.
+H<color\=#000000>i</color>gh School Detective=D<color\=#000000>e</color>tective de Secundaria
+Bless<color\=#000000>i</color>ng=B<color\=#000000>e</color>ndición
+S<color\=#000000>u</color>spicion=S<color\=#000000>o</color>specha
+D<color\=#000000>e</color>duction=D<color\=#000000>e</color>ducción
+K<color\=#000000>a</color>ito Ranma=K<color\=#000000>a</color>ito Ranma
+A<color\=#000000>r</color>row of Truth=F<color\=#000000>l</color>eca de la Verdad
+S<color\=#000000>t</color>ratagem=E<color\=#000000>s</color>tratagema
+Mastermind=Mente Maestra
+Rival's Pride=Orgullo del Rival
+High School Detective=Detective de Secundaria
+Rain of Justice=Lluvia de Justicia
+Decisive Scheme=Plan Decisivo
+Rending Arrow=Flecha Desgarradora
+Flash of Intuition=Destello de Intuición
+Deduction=Deducción
+Stratagem=Estratagema
+Kaito Ranma=Kaito Ranma
+Increase party's dmg dealt.=Aumenta el daño infligido del grupo.
+Activate Rain of Justice.=Activa Lluvia de Justicia.
+Last skill dmg: Bless=Daño de la última habilidad: Bendición
+Last skill dmg: Curse=Daño de la última habilidad: Maldición
+Last skill dmg: Almighty=Daño de la última habilidad: Todopoderoso
+Deal 2 more hits with Arrow of Perjury.=Inflige 2 golpes más con Flecha de Perjurio.
+Decrease all foes' Defense. Deal 1 more hit with Arrow of Perjury, and increase dmg.=Disminuye la Defensa de todos los enemigos. Inflige 1 golpe adicional con Flecha de Perjurio y aumenta el daño.
+Akechi records a portion of ally's dmg. If Akechi is in this state, he can strengthen himself.=Akechi registra una parte del daño del aliado. Si Akechi se encuentra en este estado, puede fortalecerse a sí mismo.
+Arrow of Truth=Flecha de la Verdad
+Affects Rain of Justice dmg.=Afecta al daño de Lluvia de Justicia.
+[All in Order]=[Todo en orden]
+[Tranquility]=[Tranquilidad]
+[Severing Slash]=[Tajo de ruptura]
+[Kaito Ranma]=[Kaito Ranma]
+Lumina Saber=Sable de Luminiscencia
+Quasar Saber=Sable de Cuásar
+Victory Beam=Rayo de Victoria
+Akechi Only=Sólo para Akechi
+I'm so happy Big Bro relies\non me. Hehe!=Me hace muy feliz que mi Onii-Sama confíe en mí. ¡Jeje!
+Terms of Use=Términos de uso
+INFO=INFO
+Privacy Policy=Política de privacidad
+Copyright Information=Información de Derechos de Autor
+External Transmission Guidelines=Directrices de Transmisión Externa
+I haven't had much time to relax at home\nbecause a competition is coming up.=No he tenido mucho tiempo para relajarme en casa porque se acerca una competencia.
+A lapse in concentration is the last thing\nI want while I'm performing...=Un desliz en la concentración es lo último que quiero mientras actúo...
+I'll need to rest whenever I can.=Tendré que descansar siempre que pueda.
+Do you have a favorite author,\nNagisa?=¿Tienes un autor favorito, Nagisa?
+I have a few.=Tengo algunos.
+Oh, really? I never buy a book because of\nthe author.=¿Ah, sí? Nunca compro un libro por el autor.
+I choose what to read based on what the\nbook is about.=Elijo qué leer según de qué trata el libro.
+There are some authors I read more often,\nbut that doesn't mean I like all their books.=Hay algunos autores que leo con más frecuencia, pero eso no significa que me gusten todos sus libros.
+I do end up reading every book by certain\nauthors, though.=Termino leyendo todos los libros de ciertos autores, sin embargo.
+To me, choosing a book by its author is\nlike gambling.=Para mí, elegir un libro por su autor es como apostar.
+It means you're buying a book without caring\nwhat it's about.=Significa que estás comprando un libro sin preocuparte de qué trata.
+Maybe they're all good.=Tal vez todos sean buenos.
+It's a way to show support.=Es una forma de mostrar apoyo.
+I see. Maybe that's what it means to be\na fan.=Ya veo. Tal vez eso es lo que significa ser fan.
+I learn so much from talking to you.=Aprendo mucho al hablar contigo.
+Hello there, Wonder-senpai!=¡Hola, Wonder-senpai!
+I just got here myself. I umm...=Yo también acabo de llegar. Yo... emm...
+I'm still not very familiar with this place.\nWould you like to look around together?=Todavía no conozco mucho este lugar. ¿Te gustaría mirar alrededor juntos?
+Oh, Sensei! I'm thinking today's the day to\ntalk to Yukimi-san.=¡Oh, Sensei! Creo que hoy es el día para hablar con Yukimi‑san.
+Oh, okay... In that case, let's pick a time\nwhen we're all free.=¡Oh, está bien... En ese caso, elijamos un momento en que todos estemos libres.
+Great! Let's head over right away! Today\nwe're headin' for Yokohama.=¡Genial! ¡Vámonos de inmediato! Hoy nos dirigimos a Yokohama.
+I am quite looking forward to trying your\nChinese tea recommendations, Yaoling-san.=Estoy realmente ansiosa por probar tus recomendaciones de té chino, Yaoling-san.
+I'd hope so! I've prepared only the best for\nyou, Yukimi-san. Ah, over here!=¡Eso espero! Solo lo mejor lo he preparado para ti, Yukimi-san. ¡Ah, por aquí!
+Today's a special menu I personally asked\nthe owner to prepare.=Hoy hay un menú especial que le pedí personalmente al dueño que lo preparara.
+First we have this Chinese tea, aaand...=Primero tenemos este té chino, yyy...
+This Japanese sweet bean jelly to go with.=Esta gelatina de judías dulces japonesa para acompañar.
+The tea is a faint yellow... with a unique\naroma.=El té es de un amarillo tenue... con un aroma único.
+Please, try it with this tea too. Let me pour\nit now so the flavor doesn't get too strong.=Por favor, pruébalo también con este té. Déjame servirlo ahora para que el sabor no se vuelva demasiado fuerte.
+This deep indigo color... Or perhaps it is\nmore of a light crimson? Both are exquisite.=Este color índigo profundo... ¿O tal vez sea más un carmesí claro? Ambos son exquisitos.
+The first tea is huangcha. A yellow tea, rare\neven in China.=El primer té es huangcha. Un té amarillo, raro incluso en China.
+The second is a diluted pot of pu'er.\nA fermented tea you can find anywhere.=El segundo es una olla diluida de pu'er. Un té fermentado que puedes encontrar en cualquier lugar.
+Softening the flavor helps it pair better\nwith the sweet bean jelly.=Suavizar el sabor ayuda a que combine mejor con la gelatina de judías dulces.
+And lastly, we have lotus seed soup.\nA Chinese sweet made with powdered sugar\nand corn syrup...=Y por último, tenemos sopa de semillas de loto. Un dulce chino hecho con azúcar glas y jarabe de maíz...
+Accompanied by Japanese sencha green tea.=Acompañado de té verde sencha japonés.
+I think you might find this dessert similar\nto simmered Japanese red beans.=Creo que este postre te resultará parecido a las judías rojas japonesas cocidas a fuego lento.
+I know you don't see lotus seeds used in\nJapanese sweets very often, but they're used\nas a paste in Chinese sweets regularly.=Sé que no ves semillas de loto usadas en dulces japoneses muy a menudo, pero se usan como pasta en dulces chinos regularmente.
+They're milder than beans, so they suit\nJapanese tea quite well.=Son más suaves que los frijoles, por lo que combinan bastante bien con el té japonés.
+The rich history of Chinese tea varies\ngreatly by region.=La rica historia del té chino varía mucho según la región.
+I tapped into a few of their distinctive\nflavor profiles to produce this meal.=Me apoyé en algunos de sus perfiles de sabor distintivos para crear esta comida.
+Given the regional diversity, it's no\nsurprise that there're infinite ways of\npairing teas and sweets together.=Dada la diversidad regional, no es sorprendente que haya infinitas formas de combinar tés y dulces.
+That's what I think, at least.=Eso es lo que pienso, al menos.
+You may be right, Yaoling-san. Every pairing\nyou gave me was delicious.=Puede que tengas razón, Yaoling-san. Cada combinación que me diste estuvo deliciosa.
+Even so, please remember what I explained to\nyou before regarding the tea ceremony.=Aun así, recuerda lo que te expliqué antes sobre la ceremonia del té.
+The crux of it lies in creating a deep\nunderstanding between proprietor and\ncustomer.=La clave de todo reside en crear un vínculo profundo entre el dueño y el cliente.
+Its established form and etiquette are all\nfor the sake of that purpose.=Su etiqueta y forma establecidas existen solamente para cumplir ese propósito.
+The customer is there to comprehend the\nintentions of the proprietor.=El cliente está allí para comprender las intenciones del propietario.
+This may be difficult to understand from the\noutside, but that is how it is.=Esto puede ser difícil de entender desde afuera, pero así es.
+Neither party is meant to share ideas\ncontrary to what's been decided, no matter\nhow respectable they might be.=Ninguna de las partes debe compartir ideas contrarias a lo decidido, sin importar cuán respetables sean.
+As such, this is not comparable to the\nculture of tea ceremony.=Como tal, esto no es comparable a la cultura de la ceremonia del té.
+If you value everything by tea ceremony\nstandards, we'll never understand each\nother...=Si valoras todo según los estándares de la ceremonia del té, nunca nos entenderemos...
+Yaoling is staring at me\nwith a look of confusion\non her face...=Yaoling me está mirando con\nuna expresión de confusión en\nsu rostro...
+Say what needs to be said.=Di lo que hay que decir.
+You have to explain yourself.=Tienes que explicarte.
+Hit her with your feelings!=¡Lánzate con tus sentimientos!
+Yeah, you're right. No point in any of this\nif I back down now.=Sí, tienes razón. No tiene sentido todo esto si me rindo ahora.
+You know, Yukimi-san, there's something I've\ngotta ask after hearing you say that.=Sabes, Yukimi-san, hay algo que tengo que preguntarte después de escucharte decir eso.
+Do the beliefs you have about tea ceremony\nreflect your own personal feelings?=¿Las creencias que tienes sobre la ceremonia del té reflejan tus sentimientos personales?
+Or are they just something somebody told you\nwas proper?=¿O son solo algo que alguien te dijo que era correcto?
+People often talk about the millennia of\nhistory behind Chinese cuisine.=La gente suele hablar de los milenios de historia detrás de la cocina china.
+But you know, chilis didn't come to Sichuan\nuntil about 500 years ago.=Pero sabes, los chiles no llegaron a Sichuan hasta hace unos 500 años.
+If people back then had decided that chilis\nweren't a proper Sichuan seasoning, well...=Si la gente de entonces hubiera decidido que los chiles no eran un condimento adecuado de Sichuan, pues...
+Mapo tofu wouldn't exist anywhere in the\nworld.=El mapo tofu no existiría en ningún lugar del mundo.
+Even if you want to hold the tea ceremony in\nhigh regard, that's an unshakable reality.=Aunque quieras valorar mucho la ceremonia del té, esa es una realidad inquebrantable.
+It's hard to say if something's actually\nvaluable unless you assess it for yourself.=Es difícil decir si algo es realmente valioso a menos que lo evalúes tú mismo.
+Personally, I have no idea if other people's\n"right ideas" are right for me!=Personalmente, ¡no tengo idea de si las "ideas correctas" de los demás son correctas para mí!
+I mean, the only person who can decide what's\nright for me is me!=Quiero decir, ¡la única persona que puede decidir qué es lo correcto para mí soy yo!
+Ah, um... Sorry. I just can't stop talking,\nhuh?=Ah, esto... Lo siento. No puedo parar de hablar, ¿verdad?
+It's just, I think you're the nicest person\nin the whole wide world, Yukimi-san...=Es solo que, creo que eres la persona más amable del mundo entero, Yukimi‑san...
+And I know there's something you really want\nto do with your life. So...=Y sé que hay algo que realmente quieres hacer con tu vida. Así que...
+So I just want you to live the way you\nwant to.=Así que solo quiero que vivas como quieras.
+Yes, I see that.=Sí, ya lo veo.
+Hmhmhm! Strange. My heart feels so warm and\nfull right now.=¡Hmhmhm! Qué extraño. Mi corazón se siente tan cálido y lleno ahora mismo.
+I've gained so much from our tea party today.=He aprendido mucho de nuestra fiesta de té hoy.
+You have my thanks, Yaoling-san. When it\ncomes to tea service, your acumen is\nunquestionable.=Tienes mi agradecimiento, Yaoling-san. Cuando se trata del servicio de té, tu perspicacia es incuestionable.
+Did I get through to her...?=¿Habré logrado llegar a ella...?
+Let's have faith.=Tengamos fe.
+Can't say for sure.=No puedo decirlo con certeza.
+I know you did.=Sé que lo hiciste.
+If you think so, Sensei, then... I'm sure\nit'll be all right!=Si lo piensas así, Sensei, entonces... ¡Seguro que todo saldrá bien!
+At least I was able to get everything off\nmy chest.=Al menos pude desahogarme.
+Thank you for today, Sensei. It's hardly\nenough to express my gratitude, but here.=Gracias por lo de hoy, Sensei. Sé que esto apenas sirve para expresar mi gratitud, pero tome.
+You know, it's thanks to chilis and Sichuan\npepper that we have mapo tofu and\nmouthwatering chicken.=Sabes, es gracias a los chiles y a la pimienta de Sichuan que tenemos mapo tofu y pollo que hace la boca agua.
+Mouthwatering Chicken Recipe=Receta de Pollo Que Hace la Boca Agua
+Mapo Tofu Recipe=Receta de Mapo Tofu
+I really admire the ingenuity of the people\nwho came up with that!=¡Realmente admiro el ingenio de la gente que lo ideó!
+The tea party went well.\nWe said our goodbyes, and I\nheaded for the station...=La fiesta del té salió bien.\nNos despedimos, y me\ndirigí a la estación...
+Circuit Belle=Circuit Belle
+Walking Along=Caminando
+Verging on Viral=Al borde de volverse viral
+Unlock all of Merope's story content. =Desbloquea todo el contenido de la historia de Merope. 
+Never Give Up=Nunca te rindas
+Something I heard in my\nlecture=Algo que escuché en mi clase
+In one of my lectures, I heard\nthat the Chinese first arrived\nin Japan centuries ago.=En una de mis clases, escuché que los chinos llegaron a Japón por primera vez hace siglos.
+There was even a Chinese\nsettlement in the Hakata ward\nof Kyushu 1000 years ago!=¡Incluso había un asentamiento chino en el distrito de Hakata, en Kyushu, hace mil años!
+Pretty amazing, huh?=¿Bastante increíble, no?
+Around the same time,\nJapanese people from the\nGoto Islands in Nagasaki...=Alrededor de la misma época, personas japonesas de las Islas Goto en Nagasaki...
+would travel to and from China\non the regular.=viajaría de ida y vuelta a China regularmente.
+Not exactly next door\nneighbors, when you\nthink about it.=No son exactamente vecinos de al lado, si lo piensas.
+That's why I can't help but\nfind it so incredible.=Por eso no puedo evitar encontrarlo tan increíble.
+I'd love to go check out\nHakata and the Goto Islands\nsometime!=¡Me encantaría ir a conocer Hakata y las Islas Goto algún día!
+Both would be no mean feat.=Ninguna de las dos cosas sería una tarea fácil.
+That'd be quite the trip.=Eso sería todo un viaje.
+Oh yeah, I heard riding the\ntrain all the way to Hakata\nis brutal on the ole keister.=Ah, sí, he oído que ir en tren hasta Hakata te deja el trasero hecho polvo.
+Then it's a whole other flight\nor boat ride to the islands...=Luego es otro vuelo entero o un viaje en barco hasta las islas...
+Press back to check the route before rolling.=Presiona atrás para revisar la ruta antes de rodar.
+A Heartfelt Message: Part 2=Un Mensaje Sincero: Parte 2
+Special Effects=Efectos especiales
+Pop Music Catalog=Catálogo de Música Pop
+Soft Blanket=Manta Suave
+Mini Electric Keyboard=Mini Teclado Eléctrico
+Spice Bundle=Paquete de especias
+Assam Tea=Té de Assam
+Soda Water=Agua con gas
+Cream=Crema
+I feel like I haven't truly understood the charms\nof watching movies at the theater.=Siento que no he comprendido realmente los encantos de ver películas en el cine.
+Wrong. For starters, the gender doesn't even\nmatch. The correct answer is\nArtemisia Gentileschi.=Incorrecto. Para empezar, el género ni siquiera coincide. La respuesta correcta es Artemisia Gentileschi.
+There's always next time!=¡Siempre habrá una próxima vez!
+Contract Rewards=Recompensas del contrato
+Login Bonus=Bonificación de inicio de sesión
+Monstrous Entity=Entidad Monstruosa
+Recollections of Fate=Recuerdos del Destino
