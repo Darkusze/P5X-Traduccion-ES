@@ -1,4 +1,4 @@
-﻿++--------Ramdon--------+
+++--------Ramdon--------+
 Meta Jewels=Meta Jewels
 Party=Equipo
 Wonder=Wonder
@@ -357,45 +357,4 @@ Sunflower=Girasol
 Manage Visitors=Gestionar 
 Training Sets=Sets de entrenamiento
 
-++--------NPC--------+
-L<color\=#ff0000ff>a</color>nguid Doctor=D<color\=#ff0000ff>o</color>ctora lánguida
-S<color\=#ff0000ff>l</color>ightly Tired Student=E<color\=#ff0000ff>s</color>tudiante ligeramente cansado
-M<color\=#ff0000ff>e</color>llow Student=E<color\=#ff0000ff>s</color>tudiante tranquilo
-L<color\=#ff0000ff>o</color>udly Arguing Student=E<color\=#ff0000ff>s</color>tudiante discutiendo en voz alta
-W<color\=#ff0000ff>h</color>ispering Students=E<color\=#ff0000ff>s</color>tudiantes susurrando
-S<color\=#ff0000ff>t</color>udents by the Flowerbed=E<color\=#ff0000ff>s</color>tudiantes junto al parterre
-S<color\=#ff0000ff>t</color>udents by the Wall=E<color\=#ff0000ff>s</color>tudiantes junto a la pared
-S<color\=#ff0000ff>h</color>ichi-kun=S<color\=#ff0000ff>h</color>ichi-kun
-A<color\=#ff0000ff>n</color>derson=A<color\=#ff0000ff>n</color>derson
-F<color\=#ff0000ff>r</color>equent Lottery Customer=C<color\=#ff0000ff>l</color>iente frecuente de lotería
-N<color\=#ff0000ff>o</color>nchalant Girl=C<color\=#ff0000ff>h</color>ica despreocupada
-G<color\=#ff0000ff>i</color>rl with Ponytail=C<color\=#ff0000ff>h</color>ica con coleta
-K<color\=#ff0000ff>i</color>d Playing Alone=N<color\=#ff0000ff>i</color>ño jugando solo
-L<color\=#ff0000ff>a</color>dy Eyeing the Info Desk=S<color\=#ff0000ff>e</color>ñora mirando el mostrador de información
-D<color\=#ff0000ff>e</color>pressed Boy=C<color\=#ff0000ff>h</color>ico deprimido
-E<color\=#ff0000ff>c</color>static Girl=C<color\=#ff0000ff>h</color>ica eufórica
-G<color\=#ff0000ff>i</color>rl Looking Afar=C<color\=#ff0000ff>h</color>ica mirando a lo lejos
-
-
-++--------Nombres pjs con etiqueta--------+
-Y<color\=#ff0000ff>a</color>oling Li=Y<color\=#ff0000ff>a</color>oling Li
-P<color\=#ff0000ff>a</color>nther & Motoha Arai=P<color\=#ff0000ff>a</color>nther y Motoha Arai
-J<color\=#ff0000ff>o</color>ker & Shun Kano=J<color\=#ff0000ff>o</color>ker y Shun Kano
-M<color\=#ff0000ff>i</color>yu Sahara=M<color\=#ff0000ff>i</color>yu Sahara
-L<color\=#ff0000ff>e</color>o Kamiyama & Kiyoshi Kurotani=L<color\=#ff0000ff>e</color>o Kamiyama y Kiyoshi Kurotani
-S<color\=#ff0000ff>e</color>iji Shiratori=S<color\=#ff0000ff>e</color>iji Shiratori
-K<color\=#ff0000ff>a</color>yo Tomiyama=K<color\=#ff0000ff>a</color>yo Tomiyama
-S<color\=#ff0000ff>e</color>iji Shiratori=S<color\=#ff0000ff>e</color>iji shiratori
-K<color\=#ff0000ff>a</color>yo Tomiyama=N<color\=#ff0000ff>a</color>yo Tomiyama
-M<color\=#ff0000ff>i</color>nami Miyashita=M<color\=#ff0000ff>i</color>nami miyashita
-M<color\=#ff0000ff>o</color>toha Arai=M<color\=#ff0000ff>o</color>toha Arai
-S<color\=#ff0000ff>k</color>ull=S<color\=#ff0000ff>k</color>ull
-T<color\=#ff0000ff>o</color>moko Noge & Miyu Sahara=T<color\=#ff0000ff>o</color>moko Noge y Miyu Sahara
-L<color\=#ff0000ff>e</color>o Kamiyama=L<color\=#ff0000ff>e</color>o Kamiyama
-S<color\=#ff0000ff>e</color>iji Shiratori & Toshiya Sumi=S<color\=#ff0000ff>e</color>iji Shiratori y Toshiya Sumi
-J<color\=#ff0000ff>o</color>ker=J<color\=#ff0000ff>o</color>ker
-M<color\=#ff0000ff>e</color>rope=M<color\=#ff0000ff>e</color>rope
-L<color\=#ff0000ff>u</color>fel=L<color\=#ff0000ff>u</color>fel
-S<color\=#ff0000ff>k</color>ull & Shun Kano=S<color\=#ff0000ff>k</color>ull y Shun Kano
-P<color\=#ff0000ff>a</color>nther=P<color\=#ff0000ff>a</color>nther
-M<color\=#ff0000ff>o</color>na & Lufel=M<color\=#ff0000ff>o</color>na y Lufel
+++--------Nombre Protagonista------+

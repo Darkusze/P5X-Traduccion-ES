@@ -1,4 +1,4 @@
-﻿++-------------Tiempos de juego-----------------++
+++-------------Tiempos de juego-----------------++
 
 r:"^\\s*(\\d+) d (\\d+) h (\\d+) m$"="$1 d $2 h $3 m"
 r:"^\\s*(\\d+) d (\\d+) h$"="$1 d $2 h"
@@ -463,14 +463,14 @@ r:"Complete a task\. \((\d+)/(\d+)\)"="Completar una tarea. ($1/$2)"
 
 ++-------------Interfaz-----------------++
 Select content to input.=Elige qué introducir.
-r:"^ID:(\d+)$"="ID:$1"
+r:"^ID:(\d+)$"="ID:"
 r:"^Out\s+of\s+Stock\s+(\d+)$"="Sin stock: $1"
 r:"^Info\s+(\d+)\s*$"="Info. $1"
 r:"^\(Paid:\s+(\d+)\)$"="(Pagado: $1)"
 r:"^Unlocks at Lv\\. (\\d+)$"="Se desbloquea en Nv. $1"
 r:"^Lv\\.(\\d+)$"="Nv.$1"
 r:"^EXP:\s+(\d+)\s*$"="EXP: $1"
-r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.3.0\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
+r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.3.1\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
 r:"^Fusion\s+will\s+produce\s+(\d+)\s+<color\=#FF423F>(.+?)'s\s+Seal</color>\.\s*$"="La fusión producirá $1 <color\=#FF423F>Sello de $2</color>."
 r:"^Phantom Thief level cap increased to \\n<color\=#FFF000>Lv\\. (\\d+)</color>\\.$"="El límite de nivel de Ladrones Fantasma ha aumentado a \n<color\=#FFF000>Lv. $1</color>."
 r:"^Lv\\. (\\d+) Set$"="Set de Nv. $1"
@@ -706,8 +706,11 @@ r:"Log in for (\d+) day[s]? during the current Phantom Pass season \((\d+)\/(\d+
 r:"Preset (\d+)"="Perfil $1"
 r:"Attain (\d+)★ Class (\d+) when the Trials from the Sea of Souls ends\."="Alcanza la Clase $2 de $1★ cuando terminen las Pruebas del Mar de Almas."
 r:"Awarded for clearing Recollections of Fate on difficulty (\d+) in Crossroads of Fate: Laboratory Arc Part 2\."="Se otorga por completar Recuerdos del Destino en dificultad $1 en Encrucijada del Destino: Arco del Laboratorio Parte 2."
-r:"Defeat the Area (\d+) boss in Jose's Dicey Adventure \((\d+)/(\d+)\)"="Derrota al jefe del Área $1 en la Arriesgada Aventura de Jose ($2/$3)"
+r:"Defeat the Area (\d+) boss in Jose's Dicey Adventure \((\d+)/(\d+)\)"="Derrota al jefe del Área $1 en la Darriesgada Aventura de José ($2/$3)"
 r:"{{A}} the event Crossroads of Fate: Laboratory Arc Part (\d+) \((\d+)/(\d+)\)"="Completa el evento Encrucijada del Destino: Arco del Laboratorio Parte $1 ($2/$3)"
+r:"Until 5★: (\d+)/(\d+), (.+?) is the next guaranteed 5★!"="Hasta 5★: $1/$2, ¡$3 es el próximo 5★ garantizado!"
+r:"<color\=#FFFFFF>\(Currently <color\=#FFD145>#(\d+)</color>\)</color>"="<color\=#FFFFFF>(Actualmente <color\=#FFD145>#$1</color>)</color>"
+r:"Attempt at {{A}}\. (\d+)"="Intento en {{A}}. $1"
 
 ++----Efecto de Armonía (Composiciones de Equipos)----++
 Electric Attribute Harmony Effects=Efectos de Armonía del Atributo Eléctrico
@@ -743,11 +746,13 @@ Duet (Nuclear): Increases the Phantom Thieves' Nuclear skill damage\nby 10%.=Due
 Ensemble (Nuclear): Increases the Phantom Thieves' Nuclear skill damage\nby 12%.=Ensamble (Nuclear): Aumenta el daño de las habilidades de Nuclear de los Ladrones Fatansma en un 12%.
 Duet (Psychokinesis): Increases the Phantom Thieves' Psy skill damage\nby 10%.=Dueto (Psicoquinesis): Aumenta el daño de las habilidades de Psíquico de los Ladrones Fatansma en un 10%.
 Ensemble (Psychokinesis): Increases the Phantom Thieves' Psy skill damage\nby 12%.=Ensamble (Psicoquinesis): Aumenta el daño de las habilidades de Psíquico de los Ladrones Fatansma en un 12%.
+Concerto Effects=Efectos de Concierto
 Concerto: Increases Bless/Almighty/Electric/Wind damage by 5%.=Concierto: Aumenta el daño de Bendición, Todopoderoso, Eléctrico y Viento en un 5%.
 Concerto: Increases Nuclear/Curse/Psychokinesis/Fire damage by 5%.=Concierto: Aumenta el daño de Nuclear, Maldición, Psicoquinesis, Fuego en un 5%.
 Concerto: Increases Psychokinesis/Fire/Bless/Electric damage by 5%.=Concierto: Aumenta el daño de Psicoquinesis, Fuego, Bendición, Eléctrico en un 5%.
 Concerto: Increases Fire/Curse/Electric/Nuclear damage by 5%.=Concierto: Aumenta el daño de Fuego, Maldición, Eléctrico, Nuclear un 5%.
 Concerto: Increases Gun/Fire/Ice/Nuclear damage by 5%.=Concierto: Aumenta el daño de Arma de Fuego, Fuego, Hielo, Nuclear un 5%.
+Concerto: Enhances damage for four attributes in party.=Concierto: Mejora el daño de cuatro atributos del grupo.
 ++------------Tycoon----------------++
 r:"Become Tycoon using Lufel (\d+) time\. \((\d+)/(\d+)\)"="Conviértete en Magnate usando a Lufel $1 vez. ($2/$3)"
 r:"Play a (.+?) card (\d+) times\. \((\d+)/(\d+)\)"="Juega una carta $1 $2 veces. ($3/$4)"
@@ -1390,7 +1395,7 @@ With powerful <color\=#FF423F>offensive capabilities</color>, Firecracker Yaolin
 
 1. Ashiya specializes in <color\=#FF423F>boosting the Defense of allies</color>.\nHe can grant his allies a <color\=#FF423F>shield</color> and increase their Defense to improve their survivability.\n2. During battle, he can use <color\=#FF423F>Knight's Protection</color> to protect allies from damage and gain <color\=#FF423F>Heroism</color> to activate <color\=#FF423F>Garden of Promises</color>.\n3. Garden of Promises strengthens skills, and can increase the damage taken by foes and the survivability of allies.=1. Ashiya se especializa en <color\=#FF423F>aumentando la Defensa de los aliados</color>. Puede conceder a sus aliados un <color\=#FF423F>escudo</color> y aumentar su Defensa para mejorar su capacidad de supervivencia.\n2. En combate, él puede usar <color\=#FF423F>Protección del Caballero</color> para proteger a los aliados del daño y ganar <color\=#FF423F>Heroísmo</color> activar <color\=#FF423F>Jardín de Promesas</color>.\n3. Jardín de Promesas fortalece habilidades, y puede aumentar el daño recibido por los enemigos y la supervivencia de los aliados.
 
-1. Akechi has high <color\=#FF423F>Attack power</color>. He can deal <color\=#FF423F>Almighty damage</color>, ignoring enemy affinities and Defense.\n2. By granting the <color\=#FF423F>Mastermind</color> state to <color\=#FF423F>Sweeper or Assassin</color> allies, Akechi can record the damage dealt by an ally with Mastermind, and deal damage based on the recorded amount. If there are no Sweeper or Assassin allies, Akechi can gain Mastermind to strengthen himself.\n3. He can provide <color\=#FF423F>buffs</color> and <color\=#FF423F>healing</color> to allies, as well as inflict <color\=#FF423F>debuffs</color> on foes, allowing utility in a variety of situations.=1. Akechi tiene un alto <color\=#FF423F>poder de Ataque</color>. Puede infligir <color\=#FF423F>daño Todopoderoso</color>, ignorando las afinidades y la Defensa del enemigo.\n2. Al otorgar el estado de <color\=#FF423F>Mente maestra</color> a aliados de tipo <color\=#FF423F>Barredores o Asesino</color>, Akechi puede registrar el daño infligido por un aliado con Mente maestra y realizar daño basado en la cantidad registrada. Si no hay aliados Barredores o Asesinos, Akechi puede obtener Mente maestra para fortalecerse a sí mismo.\n3. Puede proporcionar <color\=#FF423F>mejoras</color> y <color\=#FF423F>curación</color> a los aliados, así como aplicar <color\=#FF423F>debilitaciones</color> a los enemigos, lo que le otorga utilidad en una gran variedad de situaciones.
+1. Akechi has high <color\=#FF423F>Attack power</color>. He can deal <color\=#FF423F>Almighty damage</color>, ignoring enemy affinities and Defense.\n2. By granting the <color\=#FF423F>Mastermind</color> state to <color\=#FF423F>Sweeper or Assassin</color> allies, Akechi can record the damage dealt by an ally with Mastermind, and deal damage based on the recorded amount. If there are no Sweeper or Assassin allies, Akechi can gain Mastermind to strengthen himself.\n3. He can provide <color\=#FF423F>buffs</color> and <color\=#FF423F>healing</color> to allies, as well as inflict <color\=#FF423F>debuffs</color> on foes, allowing utility in a variety of situations.=1. Akechi tiene un alto <color\=#FF423F>poder de Ataque</color>. Puede infligir <color\=#FF423F>daño Todopoderoso</color>, ignorando las afinidades y la Defensa del enemigo.\n2. Al otorgar el estado de <color\=#FF423F>Mente maestra</color> a aliados de tipo <color\=#FF423F>Barrenderoes o Asesino</color>, Akechi puede registrar el daño infligido por un aliado con Mente maestra y realizar daño basado en la cantidad registrada. Si no hay aliados Barrenderoes o Asesinos, Akechi puede obtener Mente maestra para fortalecerse a sí mismo.\n3. Puede proporcionar <color\=#FF423F>mejoras</color> y <color\=#FF423F>curación</color> a los aliados, así como aplicar <color\=#FF423F>debilitaciones</color> a los enemigos, lo que le otorga utilidad en una gran variedad de situaciones.
 
 ++-------------Tutoriales Eventos-----------------++
 r:"(?s)<color\=#FFD145>Collecting Keywords</color>\n• In the mission Answer Sheet, join (.+?) to solve puzzles.*?• Drag the keywords to the correct place and complete the puzzle\."="<color\=#FFD145>Recopilación de palabras clave</color>\n• En la misión Hoja de respuestas, únete a $1 para resolver acertijos en una búsqueda del tesoro que pondrá a prueba tu ingenio. Durante el evento, puedes consultar tu hoja de respuestas para ver las palabras clave que has recopilado.\n• Puedes reunir las palabras clave en cualquier orden, pero solo puedes aceptar una misión de palabra clave a la vez.\n• Habrá más historia disponible cuando hayas reunido 3, 6 y 9 palabras clave. No podrás recolectar la siguiente palabra clave hasta que hayas completado la nueva historia.\n• Recibirás inmediatamente las recompensas por recopilar palabras clave tras completar cada misión. No es necesario volver a la hoja de respuestas para reclamarlas.\n\n<color\=#FFD145>Completar el acertijo</color>\n• Tras recopilar todas las palabras clave, deberás ponerlas en el orden correcto para formar una oración.\n• Arrastra las palabras clave al lugar correcto y completa el acertijo."
@@ -1445,6 +1450,10 @@ Shadows have different weaknesses and resistances than normal.\n1. King Frost us
 
 r:"Shadows have different weaknesses and resistances than normal\.\n1\. Phantom Thieves will be inflicted with (\d+) <color\=#(.+?)>Chill</color> stacks when they do not deal damage during a turn\. Dealing damage removes (\d+) Chill stack\.\n2\. On even-numbered turns, (.+?) will summon a (.+?) if there are less than (\d+) (.+?)s present\. \5's attacks inflict Chill\.\n3\. Damage from \4's skills increases based on Chill stacks inflicted\. Phantom Thieves with (\d+) or more stacks will also be inflicted with <color\=#(.+?)>Weakness</color> for (\d+) turn\."="Las Sombras tienen debilidades y resistencias diferentes a las normales.\n1. Los Ladrones Fantasma sufrirán $1 acumulaciones de <color\=#FF423F>Escalofríos</color> cuando no inflijan daño durante un turno. Infligir daño elimina $3 acumulación de Escalofríos.\n2. En los turnos pares, $4 invocará a un $5 si hay menos de $6 $7 presentes. Los ataques de $5 infligen Escalofríos.\n3. El daño de las habilidades de $4 aumenta según las acumulaciones de Escalofríos infligidas. Los Ladrones Fantasma con $8 o más acumulaciones también sufrirán <color\=#$9>Debilidades</color> durante $10 turno."
 
+<color\=#FFD145>About the Event</color>\nCrossroads of Fate: Laboratory Arc Part 2 is the third new Persona 5 Royal special event.\n\n<color\=#FFD145>Palace Exploration</color>\nYou can unlock a new stage when you clear the previous stage. Earn rewards for first-time completion of stages.=<color\=#FFD145>Acerca del evento</color>\nEncrucijada del Destino: Laboratorio Arco Parte 2 es el tercer nuevo evento especial de Persona 5 Royal.\n\n<color\=#FFD145>Exploración de Palacio</color>\nPuedes desbloquear una nueva etapa cuando superes la etapa anterior. Obtén recompensas por completar una etapa por primera vez.
+
+++-------------Enemigos EndGame-----------------++
+r:"Shadows have different weaknesses and resistances than normal.\n1. At the start of battle, Vishnu summons 4 servants. Vishnu and all servants are in the <color\=(.+?)>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. When Vishnu and its servants take skill damage, they gain Guardian's Preservation based on the attribute, and that affinity is changed to Resist. This effect lasts for 2 turns."="Las Sombras tienen debilidades y resistencias diferentes a las habituales.\n1. Al comienzo de la batalla, Vishnu invoca a 4 sirvientes. Vishnu y todos los sirvientes están en estado de <color\=$1>Vínculo de alma</color>.\nVínculo de alma: Distribuye todo el daño recibido entre todas las Sombras que comparten esta condición, según el porcentaje de su HP actual.\n2. Cuando Vishnu y sus sirvientes reciben daño de habilidad, obtienen Preservación del guardián según el atributo, y esa afinidad cambia a Resistir. Este efecto dura 2 turnos."
 
 ++-------------Planes de lufel-----------------++
 r:"^Raise (\d+) Phantom Thieves to Talent \{\{([A-Za-z]+)\}\}\. (\d+)$"=Eleva a $1 Ladrones Fantasma al Talento {{$2}}. $3
@@ -1988,3 +1997,5 @@ r:"Current Velocity: (\d+)"="Velocidad actual: $1"
 r:"Increase damage to knocked down foes by (\d+)%\."="Aumenta el daño a enemigos derribados en un $1%."
 
 r:"When on an extra action, increase damage by (\d+)%\."="Al realizar una acción extra, aumenta el daño en un $1%."
+
+r:"Increase Speed by (\d+)\."="Aumenta la Velocidad en $1."

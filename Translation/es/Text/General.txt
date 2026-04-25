@@ -651,7 +651,6 @@ Draw 5=Sacar 5
 Draw 1=Sacar 1
 Please follow the instructions.=Por favor, sigue las instrucciones.
 Adjust Camera=Ajustar cámara
-2002857(textId) error=Error 2002857 (textID)
 Read "Encapsulated Mysteries" to boost the appearance rate of rare and super rare capsules. This book can be obtained from Awards.=Lee “Misterios encapsulados” para aumentar la tasa de aparición de cápsulas raras y súper raras.\nEste libro se puede obtener en Premios.
 What's wrong?\nDid you not want that one?=¿Qué pasa?\n¿No querías ese?
 Tap screen to open.=Toca la pantalla para abrir.
@@ -714,7 +713,6 @@ Adverse Resolve=Resolución adversa
 [Count] At 3 stacks, able to take an extra action. Spend 3 stacks after the extra action is taken.=[Cargas] Al tener 3 acumulaciones, se puede realizar una acción adicional.\nSe gastan 3 acumulaciones tras ejecutar la acción adicional
 Unlocks at Hidden Ability level 4=Se desbloquea en nivel 4 de habilidad oculta
 Increase damage on Extra Actions by <color\=#FFFC40>24.0%</color>.=Aumenta el daño de las acciones adicionales en <color\=#FFFC40>24.0%</color>
-Increase Attack by <color\=#FFFC40>12.0%</color> for each <link\="s|124"><u>Will of Rebellion</u></link> stack.=Aumenta el Ataque en <color\=#FFFC40>12.0%</color> por cada acumulación de <link\="s|124"><u>Voluntad de rebelión</u></link>
 Awareness Details=Detalles de conciencia
 At the end of Ren's action, gain 1 <link\="s|124"><u>Will of Rebellion</u></link> stack for each foe with less than 60% HP (up to 5 stacks).\nWhen Will of Rebellion reaches 3 stacks, gain an Extra Action.\nAn additional Extra Action cannot be gained during the Extra Action. (Extra Actions do not affect the duration of effects with turn limits).\nAt the end of an Extra Action, spend 3 Rebellion stacks.\n*Can gain 1 Will of Rebellion stack per foe per battle.=Al final de la acción de Ren, gana 1 acumulación de <link\="s|124"><u>Voluntad de Rebelión</u></link> por cada enemigo con menos del 60 % de PS (hasta 5 acumulaciones).\nCuando Voluntad de Rebelión alcanza 3 acumulaciones, obtiene una Acción Extra.\nNo se puede obtener una Acción Extra adicional durante la Acción Extra. (Las Acciones Extra no afectan la duración de los efectos con límite de turnos).\nAl final de una Acción Extra, gasta 3 acumulaciones de Rebelión.\n*Puede ganar 1 acumulación de Voluntad de Rebelión por enemigo por batalla.
 Atk Boost=Aumento de ATQ
@@ -2125,7 +2123,6 @@ I know how it feels to be going through\na lot, you know? So I had to reach out.
 We just talked a little about some of the\nstuff we've both been through, that's all.=Solo hablamos un poco sobre cosas que ambos hemos vivido, eso es todo.
 But speaking with Noge-san, I realized\nI don't have time to spend feeling down!=Pero hablando con Noge-san, ¡me di cuenta de que no tengo tiempo para estar triste!
 So she asked me what I do when I need to\nmotivate myself, and... well, I take a deep\nbreath, and shout...=Entonces me preguntó qué hago cuando necesito motivarme, y... bueno, respiro profundo y grito...
-2002667(textId) error=Error de texto 2002667 (textId)
 Weekly Limited=Límite semanal
 Exchange Shop=Tienda de intercambio
 Heck yeah, that feels great! Why don't you\njoin us?=¡Claro que sí, se siente genial!\n¿Por qué no te unes?
@@ -2365,7 +2362,6 @@ Kurinso X: kachoo...=Kurinso X: kachoo...
 Good answer! I can tell you're a true\nShibuya believer.=¡Buena respuesta!\nPuedo ver que eres un verdadero creyente de Shibuya.
 *[Text_textContent_<sprite\=2 tint\=1><sprite\=0 tint\=1><sprite\=0 tint\=1><sprite\=3 tint\=1><sprite\=0 tint\=1><sprite\=1 tint\=1><sprite\=8 tint\=1>]*=*[Text_textContent_<sprite\=2 tint\=1><sprite\=0 tint\=1><sprite\=0 tint\=1><sprite\=3 tint\=1><sprite\=0 tint\=1><sprite\=1 tint\=1><sprite\=8 tint\=1>]*
 *[Text_textContent_<sprite\=2 tint\=1><sprite\=0 tint\=1><sprite\=0 tint\=1><sprite\=2 tint\=1><sprite\=7 tint\=1><sprite\=8 tint\=1><sprite\=9 tint\=1>]*=*[Text_textContent_<sprite\=2 tint\=1><sprite\=0 tint\=1><sprite\=0 tint\=1><sprite\=2 tint\=1><sprite\=7 tint\=1><sprite\=8 tint\=1><sprite\=9 tint\=1>]*
-*[Text_textContent_2002790]*=*[Text_textContent_2002790]*
 60 characters max=Máximo 60 caracteres
 Now then, looks like it's time for...=Bueno, parece que es hora de...
 {{A}}'s surprise Shibuya Quiz!=¡El quiz sorpresa de {{A}} sobre Shibuya!
@@ -2736,7 +2732,6 @@ Departure & {{A}}=Salida y {{A}}
 Increase party's Fire damage by <color\=#2899ff>6%</color>. When a foe is Burning, increase party's Fire damage by <color\=#2899ff>6%</color> more for 2 turns.=Aumenta el daño de Fuego del grupo en <color\=#2899ff>6%</color>. Si un enemigo está en estado de Quemadura, aumenta el daño de Fuego del grupo en <color\=#2899ff>6%</color> adicional durante 2 turnos.
 Awareness & {{A}}=Conciencia y {{A}}
 Oh no! I'm going\nto be late for\nmy shift!=¡Oh, no!\n¡Voy a llegar tarde a mi turno!
-2002742(textId) error=Error de texto 2002742 (textId)
 Tomiyama wants to talk to you...=Tomiyama quiere hablar contigo...
 You'll have more space to store things,\neven get the chance to meet some\ninteresting folks.=Tendrás más espacio para guardar cosas,\nincluso la oportunidad de conocer gente interesante.
 Put up some decorations, play some music,\nand this place will start to feel quite\nluxurious...=Pon algunas decoraciones, pon algo de música,\ny este lugar empezará a sentirse bastante lujoso...
@@ -4373,7 +4368,6 @@ C<color\=#000000>r</color>itical Damage Up=A<color\=#000000>u</color>mento de da
 Wind dmg to all foes (142.2%% Atk).=Daño de viento a todos los enemigos (142.2% de ATQ)
 Masukukaja=Masukukaja
 Bonfire Festival=Festival de la hoguera
-Increase {{B}} ailment accuracy and ailment resistance 5.5% + 0.9% for every 25% of user's ailment accuracy (up to 3.7%, 3 {{A}}). Increase Speed by 3.=Aumenta la precisión y resistencia a dolencias de {{B}} en 5.5% + 0.9% por cada 25% de precisión de dolencias del usuario (máx. 3.7%, 3 {{A}}).\nAumenta la Velocidad en 3.
 Nocturnal Flash=Flash nocturno
 Phys dmg to 1 foe (70.0% Atk). 15.9% chance to inflict Forget (2 {{A}}).=Daño físico a 1 enemigo (70.0% de ATQ).\n15.9% de probabilidad de infligir Olvido (2 {{A}})
 13.9% chance to inflict Dizzy on all foes (2 {{A}}).=13.9% de probabilidad de infligir Mareo a todos los enemigos (2 {{A}})
@@ -4420,7 +4414,6 @@ S<color\=#000000>p</color>irit's Lullaby=C<color\=#000000>a</color>nción espiri
 *[Text_textContent_2002707]*=*[Text_TextContent_2002707]*
 *[Text_textContent_1034122]*=*[Text_TextContent_1034122]*
 *[Text_textContent_1034121]*=*[Text_TextContent_1034121]*
-1075072(textId) error=1075072 (error de TextId)
 Yakisoba Pan=Pan de yakisoba
 "Who my lifelong partner shall be is for me alone to decide!"="¡Quién será mi compañero de vida lo decido yo sola!"
 From a princess to a pirate... Refusing her\narranged marriage shows her dedication to\nher own desires.=De princesa a pirata... rechazar su matrimonio arreglado demuestra su entrega a sus propios deseos.
@@ -9559,7 +9552,6 @@ Strange things, you say? Hmm...=¿Cosas extrañas, dices?\nHmm...
 I'm not sensing any danger from this...\nCompanio. Am I correct in thinking you are\noffering this place to us?=No percibo ningún peligro de este... Companio.\n¿Estoy en lo cierto al pensar que nos estás ofreciendo este lugar?
 Indeed I am! Here, take this. It's all the\nfine print!=¡Así es!\nToma esto. Es toda la letra pequeña.
 She thrust the TOS along\nwith other important-looking\ndocuments into my hands.=Ella me entregó los términos de servicio junto con\notros documentos de aspecto importante.
-Simon TDigger: I ...=Simon TDigger: Yo...
 By the by, there are certain items that can\nonly be found here.=Por cierto, hay ciertos objetos que solo se pueden encontrar aquí.
 Helpin' me collect 'em would certainly be\none way of repayin' the favor...=Ayudarme a recolectarlos sin duda sería una forma de devolver el favor...
 So that's your motive for bringing us here.\nA shrewd business plan indeed.=Así que ese es tu motivo para traernos aquí.\nUn plan de negocios bastante astuto.
@@ -10680,7 +10672,6 @@ Are you ready? Once the calling card is sent, there's no turning back.=¿Estás 
 In other words, we can't return until we've made {{A}} have a change of heart.=En otras palabras, no podemos regresar hasta que {{A}} haya tenido un cambio de corazón.
 Awaken=Despertar
 If we need to do any shopping, we should get it done before we go. So, are you ready to send the calling card?=Si necesitamos hacer compras, debemos hacerlo antes de ir.\nEntonces, ¿estás listo para enviar el aviso?
-2303067(textId) error=2303067 (TextID) Error
 I need more time to prepare.=Necesito más tiempo para prepararme.
 Let's send the calling card.=Enviemos el aviso.
 Understood. We make our move tonight.=Entendido.\nNos moveremos esta noche.
@@ -12654,7 +12645,7 @@ This event has ended.=Este evento ha finalizado.
 Highest Level {{A}}ed: =Nivel más alto completado: 
 Today's Challenge Attempts Left: =Quedan los intentos de desafío de hoy: 
 Boss Traits: =Rasgos de Jefe: 
-{{A}} to unlock Stamina Mode={{A}} para desbloquear el modo Resistencia
+{{A}} to unlock Stamina Mode={{A}} para desbloquear el Modo Estamina
 Max Score: =Puntuación máxima: 
 When Irshya's guards are present, all of its affinities change from Resist to Null.=Cuando los guardias de Irshya están presentes, todas sus afinidades cambian de Resistir a Nulo.
 All foes' damage taken is decreased by 10%.=El daño recibido por todos los enemigos disminuye un 10%.
@@ -13543,7 +13534,7 @@ m1lf enjoyer=m1lf enjoyer
 GrazZ Art=Arte GrazZ
 Limited=Limitado
 Member=Miembro
-Player Pts.=Jugador Pts.
+Player Pts.=Pts. de Jugador
 You=Usted
 Dangoni Kitsune=Dangoni Kitsune
 Mizuki Fujiwara=Mizuki Fujiwara
@@ -13648,7 +13639,7 @@ The 5★ Phantom Thief Yumi Shiina is in the Most Wanted lineup! Press [Info] fo
 Moonlit Feather=Pluma de luna
 An exclusive 5★ weapon for Yumi Shiina is now available! Select which weapons are in your 5★ weapon lineup. Press [Info] for more details.=¡Ya está disponible un arma 5★ exclusiva para Yumi Shiina! Selecciona qué armas están en tu alineación de armas 5★. Pulsa [Info] para más detalles.
 Moonlit Banquet=Banquete a la Luz de la Luna
-Yumi Only=Sólo Yumi
+Yumi Only=Sólo Para Yumi
 Increase Attack by <color\=#2899FF>30.0%</color>. For each <link\="s|180"><u>Cocktail</u></link> spent, randomly grant 1 of the following effects to the party:\nIncrease Attack by <color\=#2899FF>6.0%</color> (2 turns)\nIncrease damage by <color\=#2899FF>5.0%</color> (2 turns)\nIncrease critical rate by <color\=#2899FF>4.0%</color> (2 turns)\nThese effects do not stack. If the Cocktail spent was <link\="s|182"><u>Tailor-Made</u></link>, multiply effect by 120%. If it was <link\="s|183"><u>Standard</u></link>, multiply effect by 100%. If it was <link\="s|184"><u>Basic</u></link>, multiply effect by 50%. For every 2 <link\="s|180"><u>Cocktails</u></link>gained, reduce Yumi's cooldown time by 1 turn.=Aumenta el Ataque en <color\=#2899FF>30.0%</color>. Para cada <link\="s|180"><u>Cóctel</u></link> gastado, otorga aleatoriamente 1 de los siguientes efectos al grupo: Aumenta el ataque en <color\=#2899FF>6.0%</color> (2 turnos) Aumenta el daño en <color\=#2899FF>5.0%</color> (2 turnos) Aumentar la probabilidad crítica en <color\=#2899FF>4.0%</color> (2 turnos) Estos efectos no se acumulan. Si el Cóctel gastado era <link\="s|182"><u>Hecho a medida</u></link> multiplica el efecto por 120%. Si fuera <link\="s|183"><u>Estándar</u></link> multiplica el efecto por 100%. Si fuera <link\="s|184"><u>Básico</u></link> multiplica el efecto por 50%. Por cada 2 <link\="s|180"><u>Cócteles</u></link> obtenido, reduce el tiempo de reutilización de Yumi en 1 turno.
 Devastating Impact=Impacto devastador
 Sign of Samsara=Signo del Samsara
@@ -14241,7 +14232,6 @@ Decrease 1 foe's Attack by <color\=#fffc40>19.4%</color> for 3 turns.=Disminuye 
 Increase 1 ally's ailment accuracy and ailment resistance by <color\=#fffc40>7.0%</color>, and Speed by 5. For every 25% of the user's ailment accuracy, increase the target's ailment accuracy by <color\=#fffc40>1.2%</color> more, up to <color\=#fffc40>4.8%</color>. Lasts for 3 turns.=Aumenta la precisión y la resistencia a las dolencias de 1 aliado en <color\=#fffc40>7.0%</color>y Velocidad en 5. Por cada 25% de la precisión de la dolencia del usuario, aumenta la precisión de la dolencia del objetivo en <color\=#fffc40>1.2%</color> adicional, hasta un máximo de <color\=#fffc40>4.8%</color>.\nDura 3 turnos.
 Battle Acumen III=Perspicacia en Batalla III
 {{A}}lity Master III=Maestro de Agilidad III
-Increase Speed by 12. Decrease Defense by 8%.=Aumenta la Velocidad en 12. Reduce la defensa un 8%.
 Koh-i-Noor=Koh-i-Noor
 Increase damage by 8.7%.=Aumenta el daño un 8,7%.
 R<color\=#000000>e</color>volution=R<color\=#000000>e</color>volución
@@ -15363,7 +15353,7 @@ The effect time of this fertilizer is longer than the remaining growth time. Do 
 <nobr>At the start of battle, grant a shield equal to 50.0% of Defense to all allies. Lasts for 3 turns.</nobr>=<nobr>Al inicio de la batalla, otorga un escudo igual al 50% de Defensa a todos los aliados. Dura 3 turnos.</nobr>
 <nobr>When granting a shield to a target, increase shield by 18.0% of that shield's value. Lasts for 2 turns.</nobr>=<nobr>Al otorgar un escudo a un objetivo, aumenta el escudo un 18,0% del valor de ese escudo. Dura 2 turnos.</nobr>
 <nobr>When a buff is granted to a target, increase Attack by 18.0% for 1 turn.</nobr>=<nobr>Cuando se concede un potenciador a un objetivo, aumenta el Ataque un 18,0% durante 1 turno.</nobr>
-<nobr>When an ally has a buff, increase damage by 9.00%.</nobr>=<nobr>Cuando un aliado tiene un potenciador, aumenta el daño un 9,00%.</nobr>
+<nobr>When an ally has a buff, increase damage by 9.00%.</nobr>=<nobr>Cuando un aliado tiene un potenciador, aumenta el daño un 9.00%.</nobr>
 <nobr>When an ally's activated skill doesn't deal damage, increase party's damage by 24.0% for 1 turn. Stacks up to 3 times.</nobr>=<nobr>Cuando la habilidad activada de un aliado no inflige daño, aumenta el daño del grupo un 24,0% durante 1 turno. Se acumula hasta 3 veces.</nobr>
 <nobr>After inflicting a debuff on a foe, 100.0% chance to inflict 1 <link\="s|167"><u>Agony</u></link> stack.</nobr>=<nobr>Tras infligir una debilitación a un enemigo, 100,0% de probabilidad de infligir 1 <link\="s|167"><u>Agonía</u></link>.</nobr>
 <nobr>Increase all continuous damage taken by foes by 15.0%.</nobr>=<nobr>Aumenta todo el daño continuo recibido por los enemigos un 15,0%.</nobr>
@@ -16243,7 +16233,7 @@ Repression Medal IV\nObtainable by playing events such as Trials from the Sea of
 Deadly Fury {{A}}.4=Furia mortal {{A}}.4
 <color\=#fffc40>32.6%</color> chance to inflict <link\="s|108"><u>Forget</u></link> on all foes for 2 turns.=<color\=#fffc40>32.6%</color> de probabilidad de aplicar <link\="s|108"><u>Olvido</u></link> a todos los enemigos durante 2 turnos.
 Makajamaon {{A}}.4=Makajamaon {{A}}.4
-Gun dmg to all foes (19.2% Atk, 3 hits). If foe is Marked, increase dmg 24.6% and crit dmg 29.5%.=Daño de arma a todos los enemigos (19,2% daño, 3 impactos). Si el enemigo está marcado, aumenta el daño un 24,6% y el daño crítico un 29,5%.
+Gun dmg to all foes (19.2% Atk, 3 hits). If foe is Marked, increase dmg 24.6% and crit dmg 29.5%.=Daño de arma a todos los enemigos (19.2% daño, 3 golpes). Si el enemigo está marcado, aumenta el daño un 24.6% y el daño crítico un 29.5%.
 Finish battle in 80 actions with no allies defeated.=Termina la batalla en 80 acciones sin derrotar a ningún aliado.
 Finish battle in 60 actions with no allies defeated.=Termina la batalla en 60 acciones sin derrotar a ningún aliado.
 Finish battle in 40 actions with no allies defeated.=Termina la batalla en 40 acciones sin derrotar a ningún aliado.
@@ -16376,7 +16366,7 @@ Filene=Filene
 SAO Company=SAO Company
 {{A}}.82={{A}}.82
 Surt grants 2 stacks of <color\=#72C5FF>Ragnarok</color> to all Shadows every turn.\nRagnarok: Increase damage by 5%, and lose a set amount of HP each turn. Stacks up to 10 times.=Surt concede 2 pilas de <color\=#72C5FF>Ragnarok</color> a todas las Sombras cada turno. Ragnarok: Aumenta el daño un 5% y pierde una cantidad fija de PS cada turno. Se acumula hasta 10 veces.
-Gun dmg to all foes (23.4% Atk, 3 hits). If foe is Marked, increase dmg 30.0% and crit dmg 36.0%.=Daño de arma a todos los enemigos (23,4% daño, 3 impactos). Si el enemigo está marcado, aumenta el daño un 30,0% y el daño crítico un 36,0%.
+Gun dmg to all foes (23.4% Atk, 3 hits). If foe is Marked, increase dmg 30.0% and crit dmg 36.0%.=Daño de arma a todos los enemigos (23.4% daño, 3 golpes). Si el enemigo está marcado, aumenta el daño un 30.0% y el daño crítico un 36.0%.
 1. Surt grants 2 <color\=#FF423F>Ragnarok</color> stacks to all Shadows every turn.\nRagnarok: Increase damage by 5%, and lose a set amount of HP each turn.\nStacks up to 10 times.\n2. Damage dealt to the Jack-o'-Lanterns is added to your score.=1. Subvenciones del Surt 2 <color\=#FF423F>Ragnarok</color> a todas las Sombras cada turno. Ragnarok: Aumenta el daño un 5% y pierde una cantidad fija de PS cada turno. Se acumula hasta 10 veces. 2. El daño infligido a las Jack-o'-Lantern se suma a tu puntuación.
 Increase ailment resistance 17%. After using skill on foe, increase main target's Ice dmg taken 11.3% (2 turns). If target's HP is below 50%, increase effect 40%.=Aumenta la resistencia a las dolencias un 17%. Tras usar la habilidad sobre el enemigo, aumenta el daño de Hielo recibido por el objetivo principal un 11,3% (2 turnos). Si los PS del objetivo son inferiores al 50%, el efecto aumenta un 40%.
 Swift Strike {{A}}.6=Golpe rápido {{A}}.6
@@ -17143,8 +17133,6 @@ You've got real good sense!=¡Tienes mucho sentido común!
 Haruna's genius knows no bounds. She already got accepted to a college in the US.\nHigh school textbooks are no match for her and she excels at making puzzles.\nMaybe I'll see her around...=La genialidad de Haruna no tiene límites. Ya ha sido aceptada en una universidad de Estados Unidos. Los libros de texto de la Preparatoria no son rival para ella y destaca haciendo puzzles. Quizá la vea por aquí...
 {{A}} Awakening Set=Set Despertar {{A}}
 Trade Rewards=Recompensas comerciales
-2002985(textId) error=2002985(textId) error
-2002986(textId) error=2002986(textId) error
 Set Assist Phantom Thief=Set Asistencia Ladrón Fantasma
 Private Chat=Chat privado
 Main Story Progress=Progreso de la historia principal
@@ -17365,7 +17353,7 @@ Get Next Week Supply Sets when you complete this week's Daily goals!=Consigue lo
 Obtainable from Phantom Pass level rewards. Can be exchanged for 5★ weapons in the Airsoft Shop.=Obtenible de las recompensas de nivel del Pase Fantasma. Se puede canjear por armas de 5★ en la tienda de Airsoft.
 Exchange <size\=72><sprite\=37 tint\=1></size><size\=28><color\=#FFE500>x10 </color></size><size\=28>for <color\=#FFFFFF>5★ weapons</color>!<color\=#FFE500> (Held Currently: 2)</color></size>=Intercambia <size\=72><sprite\=37 tint\=1></size><size\=28><color\=#FFE500>x10 </color></size><size\=28>por <color\=#FFFFFF>armas de 5★</color>!<color\=#FFE500> (En la actualidad: 2)</color></size>
 Moonlight Needle=Aguja de luz de luna
-Rock 'n' Roller=Rock 'n' Roller
+Rock 'n' Roller=Rocanrol
 Starrynight Soothsayer=Adivino de la noche estrellada
 Premium+ Pass Rewards=Premios del Pase Premium
 Interlaced Desires=Deseos entrelazados
@@ -18056,6 +18044,44 @@ S<color\=#ff0000ff>e</color>condhand Shop=T<color\=#ff0000ff>i</color>enda de Se
 T<color\=#ff0000ff>o</color>bacco Store=T<color\=#ff0000ff>i</color>enda de Tabaco
 C<color\=#ff0000ff>l</color>inic=C<color\=#ff0000ff>l</color>ínica
 C<color\=#ff0000ff>a</color>fé=C<color\=#ff0000ff>a</color>fé
+Y<color\=#ff0000ff>a</color>oling Li=Y<color\=#ff0000ff>a</color>oling Li
+P<color\=#ff0000ff>a</color>nther & Motoha Arai=P<color\=#ff0000ff>a</color>nther y Motoha Arai
+J<color\=#ff0000ff>o</color>ker & Shun Kano=J<color\=#ff0000ff>o</color>ker y Shun Kano
+M<color\=#ff0000ff>i</color>yu Sahara=M<color\=#ff0000ff>i</color>yu Sahara
+L<color\=#ff0000ff>e</color>o Kamiyama & Kiyoshi Kurotani=L<color\=#ff0000ff>e</color>o Kamiyama y Kiyoshi Kurotani
+S<color\=#ff0000ff>e</color>iji Shiratori=S<color\=#ff0000ff>e</color>iji Shiratori
+K<color\=#ff0000ff>a</color>yo Tomiyama=K<color\=#ff0000ff>a</color>yo Tomiyama
+S<color\=#ff0000ff>e</color>iji Shiratori=S<color\=#ff0000ff>e</color>iji shiratori
+K<color\=#ff0000ff>a</color>yo Tomiyama=N<color\=#ff0000ff>a</color>yo Tomiyama
+M<color\=#ff0000ff>i</color>nami Miyashita=M<color\=#ff0000ff>i</color>nami miyashita
+M<color\=#ff0000ff>o</color>toha Arai=M<color\=#ff0000ff>o</color>toha Arai
+S<color\=#ff0000ff>k</color>ull=S<color\=#ff0000ff>k</color>ull
+T<color\=#ff0000ff>o</color>moko Noge & Miyu Sahara=T<color\=#ff0000ff>o</color>moko Noge y Miyu Sahara
+L<color\=#ff0000ff>e</color>o Kamiyama=L<color\=#ff0000ff>e</color>o Kamiyama
+S<color\=#ff0000ff>e</color>iji Shiratori & Toshiya Sumi=S<color\=#ff0000ff>e</color>iji Shiratori y Toshiya Sumi
+J<color\=#ff0000ff>o</color>ker=J<color\=#ff0000ff>o</color>ker
+M<color\=#ff0000ff>e</color>rope=M<color\=#ff0000ff>e</color>rope
+L<color\=#ff0000ff>u</color>fel=L<color\=#ff0000ff>u</color>fel
+S<color\=#ff0000ff>k</color>ull & Shun Kano=S<color\=#ff0000ff>k</color>ull y Shun Kano
+P<color\=#ff0000ff>a</color>nther=P<color\=#ff0000ff>a</color>nther
+M<color\=#ff0000ff>o</color>na & Lufel=M<color\=#ff0000ff>o</color>na y Lufel
+L<color\=#ff0000ff>a</color>nguid Doctor=D<color\=#ff0000ff>o</color>ctora lánguida
+S<color\=#ff0000ff>l</color>ightly Tired Student=E<color\=#ff0000ff>s</color>tudiante ligeramente cansado
+M<color\=#ff0000ff>e</color>llow Student=E<color\=#ff0000ff>s</color>tudiante tranquilo
+L<color\=#ff0000ff>o</color>udly Arguing Student=E<color\=#ff0000ff>s</color>tudiante discutiendo en voz alta
+W<color\=#ff0000ff>h</color>ispering Students=E<color\=#ff0000ff>s</color>tudiantes susurrando
+S<color\=#ff0000ff>t</color>udents by the Flowerbed=E<color\=#ff0000ff>s</color>tudiantes junto al parterre
+S<color\=#ff0000ff>t</color>udents by the Wall=E<color\=#ff0000ff>s</color>tudiantes junto a la pared
+S<color\=#ff0000ff>h</color>ichi-kun=S<color\=#ff0000ff>h</color>ichi-kun
+A<color\=#ff0000ff>n</color>derson=A<color\=#ff0000ff>n</color>derson
+F<color\=#ff0000ff>r</color>equent Lottery Customer=C<color\=#ff0000ff>l</color>iente frecuente de lotería
+N<color\=#ff0000ff>o</color>nchalant Girl=C<color\=#ff0000ff>h</color>ica despreocupada
+G<color\=#ff0000ff>i</color>rl with Ponytail=C<color\=#ff0000ff>h</color>ica con coleta
+K<color\=#ff0000ff>i</color>d Playing Alone=N<color\=#ff0000ff>i</color>ño jugando solo
+L<color\=#ff0000ff>a</color>dy Eyeing the Info Desk=S<color\=#ff0000ff>e</color>ñora mirando el mostrador de información
+D<color\=#ff0000ff>e</color>pressed Boy=C<color\=#ff0000ff>h</color>ico deprimido
+E<color\=#ff0000ff>c</color>static Girl=C<color\=#ff0000ff>h</color>ica eufórica
+G<color\=#ff0000ff>i</color>rl Looking Afar=C<color\=#ff0000ff>h</color>ica mirando a lo lejos
 The sign says minors aren't\nallowed in...=El cartel dice que no se permite la entrada a menores...
 Bake-danuki=Bake-danuki
 Ah, it's the orange tabby! Are you hungry?=¡Ah, es el atigrado naranja! ¿Tienes hambre?
@@ -20676,7 +20702,7 @@ Opening Act=Acto inaugural
 [Effect] Increase Attack based on Ayaka's Attack for 3 turns.=[Efecto] Aumenta el Ataque basado en el Ataque de Ayaka durante 3 turnos.
 O<color\=#000000>n</color>i Slayer=C<color\=#000000>a</color>zador de Oni
 <color\=#72C5FF>Costar</color>=<color\=#72C5FF>Costar</color>
-At the start of battle, grant <link\="s|190"><u>Costar</u></link> to the ally with the highest Attack for 3 turns (prioritizing Assassins and Sweepers).\nIncrease that ally's critical rate by 15%.=Al comienzo de la batalla, concede <link\="s|190"><u>Costar</u></link> al aliado con el Ataque más alto durante 3 turnos (dando prioridad a Asesinos y Barredores). Aumenta la probabilidad de críticos de ese aliado un 15%.
+At the start of battle, grant <link\="s|190"><u>Costar</u></link> to the ally with the highest Attack for 3 turns (prioritizing Assassins and Sweepers).\nIncrease that ally's critical rate by 15%.=Al comienzo de la batalla, concede <link\="s|190"><u>Costar</u></link> al aliado con el Ataque más alto durante 3 turnos (dando prioridad a Asesinos y Barrenderos). Aumenta la probabilidad de críticos de ese aliado un 15%.
 Hard Rock=Rock duro
 When using Catchy Hook, increase targeted ally's damage by 30% for 1 turn.=Al usar Gancho pegadizo, aumenta el daño del aliado objetivo un 30% durante 1 turno.
 Crescendo Shout=Grito Crescendo
@@ -21686,7 +21712,7 @@ Soy's got this.=Soy se encarga de esto.
 Got it, leave it to me!=¡Lo tengo, déjamelo a mí!
 He changed back...?=¿Cambió de nuevo...?
 Yes, this means we stopped the Shadow from\nrampaging! Now we just have to steal\nthe Treasure!=¡Sí, esto significa que detuvimos la Sombra antes de que se descontrolara! ¡Ahora sólo tenemos que robar el tesoro!
-Huh.=Huh.
+Huh.=Eh.
 Uch... Ngh...=Uch... Ngh...
 Agh... I can't move anymore... You win...\nJust take it and get out of here...=Agh... No puedo moverme más... Tu ganas... Solo tómalo y vete de aquí...
 It's ours now.=Ahora es nuestro.
@@ -22778,7 +22804,6 @@ D<color\=#000000>e</color>bilitate=D<color\=#000000>e</color>bilitación
 You do not have enough Repression Medal III to purchase this product.=No tienes suficiente Medalla Represión III para comprar este producto.
 Do you want to automatically trade for the remaining seals?\nThis will cost <size\=60><sprite\=34></size>x1250<size\=60><sprite\=35></size>x5000.=¿Quieres intercambiar automáticamente por los sellos restantes?\nEsto costará <size\=60><sprite\=34></size>x1250<size\=60><sprite\=35></size>x5000.
 Deal Bless damage to 1 foe equal to <color\=#fffc40>140.0%</color> of Attack. Gain 2 <link\="s|111"><u>Blessing</u></link> stacks.=Inflige daño de bendición a 1 enemigo igual a <color\=#fffc40>140.0%</color> de Ataque. Gana 2 <link\="s|111"><u>Bendición</u></link>.
-Increase Speed by 15. Decrease Defense by 12%.=Aumenta la Velocidad en 15. Reduce la defensa un 12%.
 Increase SP recovery rate by 7.1%.=Aumento de la tasa de recuperación de PE en un 7,1%.
 Decrease critical taken rate by 8.1%.=Disminuir un 8,1% la tasa de tomas críticas.
 Do you want to automatically trade for the remaining seals?\nThis will cost <size\=60><sprite\=34></size>x1825.=¿Quieres intercambiar automáticamente por los sellos restantes?\nEsto costará <size\=60><sprite\=34></size>x1825.
@@ -22864,7 +22889,6 @@ Highlight：Deal Physical damage to 1 foe equal to <color\=#fffc40>334.8%</color
 Makajama {{A}}.6=Makajama {{A}}.6
 {{B}}dyne {{A}}.6={{B}}dyne {{A}}.6
 Makajamaon {{A}}.6=Makajamaon {{A}}.6
-Increase Speed by 9. Decrease Defense by 4%.=Aumenta la Velocidad en 9. Reduce la Defensa en un 4%.
 C<color\=#000000>e</color>lebratory Tone=T<color\=#000000>o</color>no festivo
 Fire dmg to all foes (83.7%% Atk) and increase dmg taken 18.2% (2 turns).=Daño de Fuego a todos los enemigos (83,7% ATQ) y aumenta el daño recibido un 18,2% (2 turnos).
 Increase crit dmg 15%. After attacking debuffed foes, increase Atk 35%. If dmg is dealt, increase party's Atk 11.5% (1 turn).=Aumenta el daño crítico un 15%. Después de atacar a enemigos debuffed, aumentar ATQ 35%. Si se inflige daño, aumenta la habilidad del grupo un 11,5% (1 turno).
@@ -28138,7 +28162,7 @@ What sort of music do you listen to?=¿Qué tipo de música escucha?
 M<color\=#ff0000ff>u</color>sic Store=T<color\=#ff0000ff>i</color>enda de Música
 It's packed with\nmusical instruments\nand sheet music...=Está repleto de instrumentos musicales y partituras...
 The faint sound of music is\ncoming from inside...=El débil sonido de la música viene de dentro...
-There's a residential area\npast here...=Hay una zona residencial más allá de aquí...
+There's a residential area\npast here...=Hay una zona residencial\nmás allá de aquí...
 If we're going inside, I'd like to sample the\nmeat pasta... What? They don't\nallow pets!?=Si vamos a entrar, me gustaría probar la pasta de carne... ¿¡Qué!? ¿¡No permiten mascotas!?
 With these wings, I personally have no need for a bicycle...=Con estas alas, personalmente no necesito una bicicleta...
 It seems they sell toys you rarely see elsewhere.=Parece que venden juguetes que raramente se ven en otros sitios.
@@ -28920,7 +28944,7 @@ Flowers of the Pure Land=Flores de la Tierra Pura
 Lotus Dance=Danza del loto
 Restore 1 ally's HP equal to <color\=#fffc40>32.7%</color> of Attack + <color\=#fffc40>989</color>. Gain 2 Lotus stacks for 1 turn. While user has Lotus, after each enemy and ally action, when an ally's HP is below 50%, spend 1 Lotus stack to restore HP equal to <color\=#fffc40>8.4%</color> of Attack + <color\=#fffc40>254</color>.=Restaura los PS de 1 aliado igual a <color\=#fffc40>32.7%</color> del ATQ + <color\=#fffc40>989</color>. Gana 2 acumulaciones de Loto durante 1 turno. Mientras el usuario tenga Loto, después de cada acción enemiga y aliada, cuando los PS de un aliado estén por debajo del 50%, gasta 1 acumulación de Loto para restaurar PS igual a <color\=#fffc40>8.4%</color> del ATQ + <color\=#fffc40>254</color>.
 At the start of battle, increase Defense by 29.4% for 2 turns.=Al inicio de la batalla, aumenta la Defensa un 29,4% durante 2 turnos.
-Increase damage by 10.8%.=Aumenta el daño un 10,8%.
+Increase damage by 10.8%.=Aumenta el daño un 10.8%.
 Refresh all available tasks?\n<color\=#FF423F>(Limited tasks and in-progress tasks won't be updated.)</color>\nCost: [Task Refresh Ticket]*4=¿Refrescar todas las tareas disponibles?\n<color\=#FF423F>(Las tareas limitadas y las tareas en curso no se actualizarán).</color>\nCoste: [Ticket de actualización de tarea]*4
 Now it's really heating up!=¡Ahora sí que se está calentando!
 {{A}}142 Increases Physical and Gun damage by 0.2% (takes effect in battle).={{A}}142 Aumenta el daño físico y de arma un 0,2% (tiene efecto en batalla).
@@ -29337,7 +29361,7 @@ It does have a nice look to it! I'm not\nmuch of a coffee connoisseur, but...=Ti
 Sure, I'll give it a try! Thanks for telling\nme about it!=Claro, ¡lo probaré! Gracias por contármelo.
 I wonder if this is working...\nI should go check at the café.=Me pregunto si esto funciona...\n Debería ir a comprobarlo a la cafetería.
 Return to Kageyama's café=Volver al café de Kageyama
-Y<color\=#ff0000ff>a</color>kitori Stand=P<color\=#ff0000ff>aucolor>esto de Yakitori
+Y<color\=#ff0000ff>a</color>kitori Stand=P<color\=#ff0000ff>u</color>esto de Yakitori
 *yawn* I'm still not really feeling awake...\nMaybe I should've gone with an energy drink.=*Bostezo* Todavía no me siento despierto... Tal vez debería haber ido con una bebida energética.
 The coffee certainly was good, but perhaps a\nbit... plain?=El café era ciertamente bueno, pero quizás un poco... ¿simple?
 Intellectual Man=Hombre intelectual
@@ -29995,7 +30019,7 @@ Stage {{A}}ed: =Nivel completado:
 {{A}}'s Epidemic=Epidemia de {{A}}
 Shadows have different weaknesses and resistances than normal.\nHarness {{A}}'s strengths to take down Shadows, complete challenges, and earn special rewards.=Las sombras tienen debilidades y resistencias diferentes a las normales. Aprovecha los puntos fuertes de {{A}} para acabar con las Sombras, completar desafíos y conseguir recompensas especiales.
 Baal=Baal
-Baal has different weaknesses and resistances than normal.\n1. When Baal takes skill damage or receives a debuff, it gains 1 <color\=#72C5FF>Decline</color> stack.\nDecline: Decreases Defense for 3 turns. Stacks up to 15 times.\n2. Baal will start preparing, and on the next turn, it uses <color\=#72C5FF>Divine Spear of Baal</color>, dealing heavy damage to 1 Phantom Thief. If Decline reaches 10 stacks while preparing, the preparation is canceled, and the attack changes to <color\=#72C5FF>Cleave</color>. Baal's single-target attacks will prioritize Assassin or Sweeper Phantom Thieves.=Baal tiene debilidades y resistencias diferentes a las normales.\n1. Cuando Baal recibe daño de habilidad o una debilitación, gana 1 <color\=#72C5FF>Rechazar</color> acumulación. Declive: Disminuye la Defensa durante 3 turnos. Se acumula hasta 15 veces.\n2. Baal empezará a prepararse y, en el siguiente turno, utiliza <color\=#72C5FF>Lanza divina de Baal</color> infligiendo mucho daño a 1 Ladrón Fantasma. Si Declive alcanza 10 acumulaciones mientras se prepara, la preparación se cancela y el ataque cambia a <color\=#72C5FF>Cortar</color>. Los ataques de un solo objetivo de Baal darán prioridad a los Ladrones Fantasma Asesinos o Barredores.
+Baal has different weaknesses and resistances than normal.\n1. When Baal takes skill damage or receives a debuff, it gains 1 <color\=#72C5FF>Decline</color> stack.\nDecline: Decreases Defense for 3 turns. Stacks up to 15 times.\n2. Baal will start preparing, and on the next turn, it uses <color\=#72C5FF>Divine Spear of Baal</color>, dealing heavy damage to 1 Phantom Thief. If Decline reaches 10 stacks while preparing, the preparation is canceled, and the attack changes to <color\=#72C5FF>Cleave</color>. Baal's single-target attacks will prioritize Assassin or Sweeper Phantom Thieves.=Baal tiene debilidades y resistencias diferentes a las normales.\n1. Cuando Baal recibe daño de habilidad o una debilitación, gana 1 <color\=#72C5FF>Rechazar</color> acumulación. Declive: Disminuye la Defensa durante 3 turnos. Se acumula hasta 15 veces.\n2. Baal empezará a prepararse y, en el siguiente turno, utiliza <color\=#72C5FF>Lanza divina de Baal</color> infligiendo mucho daño a 1 Ladrón Fantasma. Si Declive alcanza 10 acumulaciones mientras se prepara, la preparación se cancela y el ataque cambia a <color\=#72C5FF>Cortar</color>. Los ataques de un solo objetivo de Baal darán prioridad a los Ladrones Fantasma Asesinos o Barrenderos.
 You are currently on a mission. Please check your <color\=#ffc000>City</color> Actions Left before proceeding with the event.=<size\=24>Actualmente se encuentra en una misión. Por favor, compruebe su <color\=#ffc000>Ciudad</color> Acciones Restantes antes de proceder con el evento.</size>
 It's late already. Better hurry and get home.=Ya es tarde. Será mejor que te des prisa y vuelvas a casa.
 The Golden Ring=El anillo de oro
@@ -31802,7 +31826,6 @@ Beautiful Sins=Hermosos pecados
 Healing Warmth=Calor curativo
 Supply Time=Tiempo de suministro
 Supply Type=Tipo de suministro
-Until 5★: 32/70, Technomage Ultra FS is the next guaranteed 5★!=Hasta los 5★: 32/70, ¡Technomage Ultra FS es el próximo 5★ garantizado!
 Another monitoring room?=¿Otra sala de control?
 Looks like it... But the screen is showing\nsomething different than the last one.=Parece que sí... Pero la pantalla muestra algo diferente a la anterior.
 Hello there. A worker on the first floor told\nus about some hazardous areas that\nneeded help.=Hola. Un trabajador del primer piso nos habló de algunas zonas peligrosas que necesitaban ayuda.
@@ -33911,7 +33934,6 @@ Deal Psy damage to all foes equal to <color\=#FFFC40>59.6%</color> of Attack. De
 Psycho Blast {{A}}.6=Explosión psicótica {{A}}.6
 Psiodyne {{A}}.6=Psiodyne {{A}}.6
 Deal Physical damage to all foes equal to <color\=#fffc40>22.5%</color> of Attack (1 to 3 hits).=Inflige daño físico a todos los enemigos igual al <color\=#fffc40>22.5%</color> de Ataque (de 1 a 3 impactos).
-Increase Speed by 6.=Aumenta la Velocidad en 6.
 Decreases damage taken by 11.3% when it rains.=Reduce el daño recibido en un 11,3% cuando llueve.
 Since only one skill of the same type can be selected, {{A}}lity Master III has been changed to {{A}}lity Master I.=Dado que sólo se puede seleccionar una habilidad del mismo tipo, {{A}}lity Master III se ha cambiado por {{A}}lity Master I.
 Do you want to automatically trade for the remaining seals?\nThis will cost <size\=60><sprite\=33></size>x110<size\=60><sprite\=34></size>x160.=¿Quieres intercambiar automáticamente por los sellos restantes?\nEsto costará <size\=60><sprite\=33></size>x110<size\=60><sprite\=34></size>x160.
@@ -34264,9 +34286,9 @@ Tomiyama and I strolled\nacross a bridge. It was way\nlonger than I thought.=Tom
 Only Ex Machina Shard can be used as materials.=Sólo los fragmentos Ex Machina pueden utilizarse como materiales.
 Do you want to use Ex Machina Shard and forge?=¿Quieres usar Fragmento de Ex Machina y forjar?
 On Dec 08, 2025, you had some unclaimed rewards from Limited-Time Task. They have been delivered directly to you via this message.=El 08 de diciembre de 2025, tenías algunas recompensas no reclamadas de la Tarea de Tiempo Limitado. Se te han entregado directamente a través de este mensaje.
-Critical Increase=Aumento crítico
-{{A}} Increase={{A}} Aumento
-Pierce Rate Increase=Aumento de la tarifa Pierce
+Critical Increase=Aumento de Crítico
+{{A}} Increase=Aumento de {{A}}
+Pierce Rate Increase=Aumento de Tasa de Perforación
 Refresh all available tasks?\n<color\=#FF423F>(Limited tasks and in-progress tasks won't be updated.)</color>\nCost: [Task Refresh Ticket]*6=¿Refrescar todas las tareas disponibles?\n<color\=#FF423F>(Las tareas limitadas y las tareas en curso no se actualizarán).</color>\nCoste: [Ticket de actualización de tarea]*6
 The event Unconditional Love: Phase 2 has ended.\nYour unused coins have been delivered to you, and can be found in your bag.=El evento Amor incondicional: Fase 2 ha finalizado. Tus monedas no utilizadas te han sido entregadas y las puedes encontrar en tu bolsa.
 Can be exchanged for 100 Konpaku Gems.=Puede canjearse por 100 gemas Konpaku.
@@ -34803,7 +34825,7 @@ You're right. It's worth putting some more\nthought into this.=Tienes razón. Me
 <nobr>On the current Thief's action, increase Attack for 1 turn, based on (32.0%/<color\=#c900e4>40.0%</color>) of the Attack of the ally who last acted.</nobr>=<nobr>En la acción actual del Ladrón, aumenta el Ataque durante 1 turno, basándose en (32.0%/<color\=#c900e4>40.0%</color>) del Ataque del aliado que actuó por última vez.</nobr>
 <nobr>After Elucidator acts, restore HP by 50.0% for the ally with the lowest HP.</nobr>=<nobr>Después de que Elucidator actúe, restaura los PS en un 50% para el aliado con los PS más bajos.</nobr>
 <nobr>When only 1 foe is present, increase party's Attack by 30.0%.</nobr>=<nobr>Cuando solo hay 1 enemigo, aumenta el Ataque del grupo un 30,0%.</nobr>
-<nobr>When an ally has a buff, increase damage by 12.00%.</nobr>=<nobr>Cuando un aliado tiene un potenciador, aumenta el daño un 12,00%.</nobr>
+<nobr>When an ally has a buff, increase damage by 12.00%.</nobr>=<nobr>Cuando un aliado tiene un potenciador, aumenta el daño un 12.00%.</nobr>
 Whirling Serpent=Serpiente giratoria
 Seized Wind {{A}}, and affinities changed!=Seized Wind {{A}}, ¡y afinidades cambiadas!
 W<color\=#000000>h</color>irling Serpent=S<color\=#000000>e</color>rpiente Torbellino
@@ -35931,10 +35953,6 @@ Dominion, Power, Principality, and Archangel are in the <color\=#72C5FF>Soul Lin
 Newcomer Contracts=Contratos para recién llegados
 Justine & Caroline has joined the Phantom Thieves=Justine & Caroline se ha unido a los Phantom Thieves
 Increase ailment accuracy 7%. After using skills on foes, increase target's Fire dmg taken 7.1% (2 turns).=Aumenta la precisión de las dolencias un 7%. Tras usar habilidades sobre enemigos, aumenta el daño de Fuego recibido por el objetivo un 7,1% (2 turnos).
-2303420(textId) error=2303420(textId) error
-2303452(textId) error=2303452(textId) error
-2303092(textId) error=2303092(textId) error
-2303421(textId) error=2303421(textId) error
 When any ally receives <color\=#FFFC40>healing</color>, their final damage is increased by 8%. Lasts for 2 turns. Stacks up to 4 times.=Cuando un aliado recibe <color\=#FFFC40>curación</color> su daño final aumenta un 8%. Dura 2 turnos. Se acumula hasta 4 veces.
 {{A}}'s Bless damage is increased by 20%.=El daño de Bendición de {{A}} aumenta un 20%.
 Nativity=Natividad
@@ -35995,7 +36013,6 @@ Use 2,500 stamina (<color\=#e50a06>240</color>/2500)=Utiliza 2.500 de resistenci
 {{A}} Shiva and {{B}} on difficulty 15 (0/1)={{A}} Shiva y {{B}} en dificultad 15 (0/1)
 {{A}} Shiva and {{B}} on difficulty 10 (0/1)={{A}} Shiva y {{B}} en dificultad 10 (0/1)
 Shiva and {{A}}=Shiva y {{A}}
-2303346(textId) error=2303346(textId) error
 Harvest Mother=Cosecha Madre
 Benevolent Protection=Protección benévola
 Challenge Mode hasn't been cleared yet<sprite\=12 tint\=1>=El modo Desafío aún no ha sido eliminado<sprite\=12 tint\=1>
@@ -36033,7 +36050,6 @@ After Year-End Cleaning=Limpieza de fin de año
 Raging God=Dios furioso
 Glitter of Gold=Brillo de oro
 Deployed {{A}}: =Desplegado {{A}}: 
-2303342(textId) error=2303342(textId) error
 Lead for the Day=Guía del día
 I could go work at the drugstore in Shibuya...=Podría ir a trabajar a la farmacia en Shibuya...
 I think I've gotten the hang of working at the drugstore.=Creo que le he cogido el tranquillo a trabajar en la farmacia.
@@ -36075,7 +36091,6 @@ Decrease HP Recovery Taken by 30%.=Disminuye un 30% la recuperación de PS.
 Challenge Info=Info. del desafío
 Distortion:=Distorsión:
 {{A}} Details=Det. desafío
-Attempt at {{A}}. 15.=Intento en el {{A}}. 15.
 Ta-daaa! Behold, my grand entrance!=¡Ta-daaa! ¡He aquí mi gran entrada!
 The Execution Hour=La hora de la ejecución
 {{A}} Recollections of Fate on difficulty 10 in Crossroads of Fate: Twins Arc.={{A}} Recuerdos del destino en dificultad 10 en Encrucijada del destino: Arco de los gemelos.
@@ -36179,18 +36194,15 @@ Highlight Healing Multiplier=Highlight el multiplicador de curación
 Let's be on our way, Caroline.=Sigamos nuestro camino, Caroline.
 You don't have enough Celebratory Poppers.=No tienes suficientes Celebratory Poppers.
 Mother's Revelation=Revelación de la madre
-Attempt at {{A}}. 20.=Intento en el {{A}}. 20.
 Clear Lv. 20<color\=#ffffff>  </color>=Completa Nv. 20<color\=#ffffff>  </color>
 At start of battle, gain 1 Diagnosis.\nAt start of Minami's action, gain 1 Diagnosis if any ally is under 70% HP.=Al inicio de la batalla, obtienes 1 Diagnóstico. Al inicio de la acción de Minami, obtienes 1 Diagnóstico si algún aliado tiene menos del 70% de PS.
 Boss's HP Left=HP restante del jefe
 Seal of Destruction=Sello de destrucción
-Attempt at {{A}}. 25.=Intento en el {{A}}. 25.
 When Shiva activates Dance of Destruction, for each Wisdom stack spent, the skill damage multiplier is greatly increased. After activating Dance of Destruction, Shiva gains 1 Wisdom stack.=Cuando Shiva activa Danza de destrucción, por cada acumulación de Sabiduría gastada, el multiplicador de daño de la habilidad aumenta considerablemente. Tras activar Danza de destrucción, Shiva gana 1 acumulación de sabiduría.
 {{A}} activates Mother's Revelation every turn.={{A}} activa Revelación de la Madre cada turno.
 {{A}} applies Qi Barrier more frequently.\nShadows with Qi Barrier take decreased final damage.={{A}} aplica Barrera Qi con más frecuencia. Las sombras con Barrera Qi reciben menos daño final.
 When {{A}} activates {{B}}, the target's Attack and Defense increase more for 2 turns.=Cuando {{A}} activa {{B}}, el Ataque y la Defensa del objetivo aumentan más durante 2 turnos.
 Your Phantom Thieves' Revelations, Skills are not strong enough.=Tus Revelaciones de los Ladrones Fantasma, Habilidades no son lo suficientemente fuertes.
-Attempt at {{A}}. 30.=Intento en {{A}}. 30.
 {{A}} Shiva and {{B}} on difficulty 25 (1/1)={{A}} Shiva y {{B}} en dificultad 25 (1/1)
 {{A}} Shiva and {{B}} on difficulty 20 (1/1)={{A}} Shiva y {{B}} en dificultad 20 (1/1)
 {{A}} Shiva and {{B}} on difficulty 15 (1/1)={{A}} Shiva y {{B}} en dificultad 15 (1/1)
@@ -36303,7 +36315,7 @@ Divine Judgment {{A}}.7=Juicio divino {{A}}.7
 {{A}} Bless Reduction III Masukukaja Almighty Boost III={{A}} Bless Reduction III Masukukaja Almighty Boost III
 Do you want to use the following to perform Road to Rehabilitation 1 times?=¿Quieres utilizar lo siguiente para realizar Camino a la Rehabilitación 1 veces?
 Deal Electric damage to 1 foe equal to <color\=#FFFC40>48.8%</color> of Attack and Wind damage equal to <color\=#FFFC40>48.8%</color> of Attack (1 hit each; increase this effect by 1% for every 1 point of <link\="s|271"><u>Desire Level</u></link>). Also, decrease party's damage taken by <color\=#FFFC40>6.4%</color>, plus <color\=#FFFC40>6.4%</color> × Desire Level points / 100 more for 3 turns. Also, restore party's HP by <color\=#FFFC40>22.8%</color> of Justine & Caroline's Attack + <color\=#FFFC40>167</color>.\nGain <link\="s|273"><u>Facade</u></link> of Service & Admonition.\n<b><size\=28><color\=#850101>Combine the powers of Agathion and Sudama to deal Electric and Wind damage to an enemy.</color></size></b>=Inflige daño eléctrico a 1 enemigo igual al <color\=#FFFC40>48.8%</color> de daño de Ataque y Viento igual a <color\=#FFFC40>48.8%</color> de Ataque (1 impacto cada uno; aumenta este efecto un 1% por cada 1 punto de <link\="s|271"><u>Nivel de deseo</u></link>). Además, disminuye el daño recibido por el grupo con <color\=#FFFC40>6.4%</color>Además <color\=#FFFC40>6.4%</color> × Puntos de nivel de deseo / 100 más durante 3 turnos. Además, restaura los PS del grupo en <color\=#FFFC40>22.8%</color> de Justine & Caroline's Attack + <color\=#FFFC40>167</color>.\nGanancia <link\="s|273"><u>Fachada</u></link> de Servicio y Admonición.\n<b><size\=28><color\=#850101>Combina los poderes de Agathion y Sudama para infligir daño eléctrico y de viento a un enemigo.</color></size></b>
-Deal Psychokinesis damage to 1 foe equal to <color\=#FFFC40>48.8%</color> of Attack and Nuclear damage equal to <color\=#FFFC40>48.8%</color> of Attack (1 hit each; increase this effect by 1% for every 1 point of <link\="s|271"><u>Desire Level</u></link>). Also, increase pierce rate for Justine & Caroline and the Sweeper or Assassin ally with the highest Attack by <color\=#FFFC40>3.2%</color>, plus <color\=#FFFC40>3.2%</color> x Desire Level points / 100 more for 3 turns.\nGain <link\="s|273"><u>Facade</u></link> of Absurdity & Nonsense.\n<b><size\=28><color\=#850101>Combine the powers of Mandrake and Onmoraki to deal Psychokinesis and Nuclear damage to an enemy.</color></size></b>=Inflige daño de Psicoquinesis a 1 enemigo igual a <color\=#FFFC40>48.8%</color> de Ataque y Daño Nuclear igual a <color\=#FFFC40>48.8%</color> de Ataque (1 impacto cada uno; aumenta este efecto un 1% por cada 1 punto de <link\="s|271"><u>Nivel de deseo</u></link>). Además, aumenta el índice de perforación de Justine y Caroline y del aliado Barredor o Asesino con el Ataque más alto en <color\=#FFFC40>3.2%</color>Además <color\=#FFFC40>3.2%</color> x Puntos de nivel de deseo / 100 más durante 3 turnos. Gana <link\="s|273"><u>Fachada</u></link> de Absurdos y Disparates.\n<b><size\=28><color\=#850101>Combina los poderes de Mandrake y Onmoraki para infligir Psicoquinesis y daño Nuclear a un enemigo.</color></size></b>
+Deal Psychokinesis damage to 1 foe equal to <color\=#FFFC40>48.8%</color> of Attack and Nuclear damage equal to <color\=#FFFC40>48.8%</color> of Attack (1 hit each; increase this effect by 1% for every 1 point of <link\="s|271"><u>Desire Level</u></link>). Also, increase pierce rate for Justine & Caroline and the Sweeper or Assassin ally with the highest Attack by <color\=#FFFC40>3.2%</color>, plus <color\=#FFFC40>3.2%</color> x Desire Level points / 100 more for 3 turns.\nGain <link\="s|273"><u>Facade</u></link> of Absurdity & Nonsense.\n<b><size\=28><color\=#850101>Combine the powers of Mandrake and Onmoraki to deal Psychokinesis and Nuclear damage to an enemy.</color></size></b>=Inflige daño de Psicoquinesis a 1 enemigo igual a <color\=#FFFC40>48.8%</color> de Ataque y Daño Nuclear igual a <color\=#FFFC40>48.8%</color> de Ataque (1 impacto cada uno; aumenta este efecto un 1% por cada 1 punto de <link\="s|271"><u>Nivel de deseo</u></link>). Además, aumenta el índice de perforación de Justine y Caroline y del aliado Barrendero o Asesino con el Ataque más alto en <color\=#FFFC40>3.2%</color>Además <color\=#FFFC40>3.2%</color> x Puntos de nivel de deseo / 100 más durante 3 turnos. Gana <link\="s|273"><u>Fachada</u></link> de Absurdos y Disparates.\n<b><size\=28><color\=#850101>Combina los poderes de Mandrake y Onmoraki para infligir Psicoquinesis y daño Nuclear a un enemigo.</color></size></b>
 Deal Bless damage to 1 foe equal to <color\=#FFFC40>48.8%</color> of Attack and Curse damage equal to <color\=#FFFC40>48.8%</color> of Attack (1 hit each; increase this effect by 1% for every point of <link\="s|271"><u>Desire Level</u></link>).\nAlso, increase Justine & Caroline's Attack by <color\=#FFFC40>9.6%</color>, plus <color\=#FFFC40>9.6%</color> × Desire Level points / 100 more; damage dealt by <color\=#FFFC40>6.4%</color>, <color\=#FFFC40>6.4%</color> × Desire Level points / 100 more; and critical rate by <color\=#FFFC40>3.2%</color> <color\=#FFFC40>3.2%</color> × Desire Level points / 100 more for 3 turns.\nGain <link\="s|273"><u>Facade</u></link> of Luck & Loss.\n<b><size\=28><color\=#850101>Combine the powers of Shiisaa and Bugs to deal Bless and Curse damage to an enemy.</color></size></b>=Inflige daño de bendición a 1 enemigo igual a <color\=#FFFC40>48.8%</color> de daño de Ataque y Maldición igual a <color\=#FFFC40>48.8%</color> de Ataque (1 impacto cada uno; aumenta este efecto un 1% por cada punto de <link\="s|271"><u>Nivel de deseo</u></link>). Además, aumenta el Ataque de Justine y Caroline en <color\=#FFFC40>9.6%</color>Además <color\=#FFFC40>9.6%</color> × Puntos de nivel de deseo / 100 más; daño infligido por <color\=#FFFC40>6.4%</color>, <color\=#FFFC40>6.4%</color> × Puntos de nivel de deseo / 100 más; y el índice de criticidad en <color\=#FFFC40>3.2%</color> <color\=#FFFC40>3.2%</color> × Puntos de nivel de deseo / 100 más durante 3 turnos. Gana <link\="s|273"><u>Fachada</u></link> de Suerte y Pérdida.\n<b><size\=28><color\=#850101>Combina los poderes de Shiisaa y Bugs para infligir daño de Bendición y Maldición a un enemigo.</color></size></b>
 Mask of Luck & Loss=Máscara de la suerte y la pérdida
 Deal Fire damage to 1 foe equal to <color\=#FFFC40>48.8%</color> of Attack and Ice damage equal to <color\=#FFFC40>48.8%</color> of Attack (1 hit each; increase this effect by 1% for every 1 point of <link\="s|271"><u>Desire Level</u></link>). Also, increase party's Attack by <color\=#FFFC40>25.6%</color> × Desire Level points / 100 for 3 turns.\nGain <link\="s|273"><u>Facade</u></link> of Mischief & Innocence.\n<b><size\=28><color\=#850101>Combine the powers of Jack-o'-Lantern and Jack Frost to deal Fire and Ice damage to an enemy.</color></size></b>=Inflige daño de Fuego a 1 enemigo igual al <color\=#FFFC40>48.8%</color> de daño de Ataque y Hielo igual a <color\=#FFFC40>48.8%</color> de Ataque (1 impacto cada uno; aumenta este efecto un 1% por cada 1 punto de <link\="s|271"><u>Nivel de deseo</u></link>). Además, aumenta el Ataque del grupo en <color\=#FFFC40>25.6%</color> × Puntos de nivel de deseo / 100 durante 3 turnos. Gana <link\="s|273"><u>Fachada</u></link> de Travesuras e Inocencias.\n<b><size\=28><color\=#850101>Combina los poderes de Jack-o'-Lantern y Jack Frost para infligir daño de Fuego y Hielo a un enemigo.</color></size></b>
@@ -38660,7 +38672,6 @@ Tomiyama and I strolled\nthe streets of Harajuku. We\nexplored the world of fash
 Give a gift to an accomplice 100 times. =Dale un regalo a un cómplice 100 veces. 
 Granted for achieving Rank 3 in the award Synergy.=Concedido por alcanzar el rango 3 en el premio Sinergia.
 Superstar: Rainbow=Superestrella: Arcoíris
-Until 5★: 87/110, Frostgale Kotone is the next guaranteed 5★!=Hasta 5★: 87/110, ¡Kotone Vientogélido es el próximo 5★ garantizado!
 Looks like Heritage Kitchen is packed with customers today...=Parece que Heritage Kitchen está repleta de clientes hoy...
 You don't have enough Action Points.=No tienes suficientes Puntos de Acción.
 It's getting late. I should go home.=Se está haciendo tarde. Debería irme a casa.
@@ -43757,7 +43768,7 @@ Wind's Special Missions=Mision Especial de Wind
 {{A}}'s Fog=La niebla de {{A}}
 Melchizedek's Fog=Niebla de Melchizedek
 Harness Tempest Riko's strengths to take down Shadows, complete challenges, and earn special rewards.=Aprovecha las fortalezas de Tempest Riko para derrotar Sombras, completar desafíos y ganar recompensas especiales.
-Sweeper/Assassin Score Multiplier=Multiplicador de Puntuación de Barredor/Asesino
+Sweeper/Assassin Score Multiplier=Multiplicador de Puntuación de Barrendero/Asesino
 Puppet, ready for action!=¡Títere, listo para la acción!
 A new season has begun. Your new rank is Somewhat Poor.=Una nueva temporada ha comenzado. Tu nuevo rango es Algo Pobre.
 Resurrection of the Dead=<size\=18>Resurrección de los Muertos</size>
@@ -44033,7 +44044,7 @@ Clear <color\=#ff0000>12 Stellae</color> to unlock=Completa <color\=#ff0000>12 e
 When an ally (other than Wonder) activates a <color\=#FFFC40>continuous damage</color> effect, their final damage is increased by 200%.=Cuando un aliado (que no sea Wonder) activa un <color\=#FFFC40>daño continuo</color>, su daño final aumenta un 200%.
 Pass 3 Stellae in Trial of the Astrolabe within 1 season.=Pasa 3 estrellas en la Prueba del Astrolabio dentro de 1 temporada.
 When allies activate a <color\=#FFFC40>Technical</color>, final damage is increased by 100%.=Cuando los aliados activan un <color\=#FFFC40>Técnico</color>, el daño final aumenta un 100%.
-When the party has 2 or more <color\=#FFFC40>Sweeper or Assassin</color> allies, all allies' final damage is increased by 60%.=Cuando el grupo tiene 2 o más <color\=#FFFC40>Barredor o Asesino</color> aliados, el daño final de todos los aliados aumenta un 60%.
+When the party has 2 or more <color\=#FFFC40>Sweeper or Assassin</color> allies, all allies' final damage is increased by 60%.=Cuando el grupo tiene 2 o más <color\=#FFFC40>Barrendero o Asesino</color> aliados, el daño final de todos los aliados aumenta un 60%.
 Psychokinesis, Nuclear, Bless, and Curse allies' final damage is increased by 60% (other than {{A}}).=El daño final de los aliados Psicoquinesis, Nuclear, Bendición y Maldición aumenta un 60% (excepto {{A}}).
 Thieves' Secrets limited-time event has ended.=El evento por tiempo limitado Secretos de los Ladrones ha terminado.
 Plum Blossom Bookmark=Marcador de flor de ciruelo
@@ -46160,7 +46171,7 @@ Let's transfer the energy first.=Primero transfiramos la energía.
 Understood. Let's see what we can do.=Entendido. Veamos qué podemos hacer.
 The time is nigh. Let's send\nthe power over.=Se acerca el momento. Vamos a enviar el poder.
 Nice work, {{A}}!=¡Buen trabajo, {{A}}!
-...Hmm!? Hey... that might\nbe something valuable.\nLet's check it out!=...¿Hmm!? Oye... eso podría ser algo valioso. ¡Vamos a ver!
+...Hmm!? Hey... that might\nbe something valuable.\nLet's check it out!=...¿¡Hmm!? Oye... eso podría ser algo valioso. ¡Vamos a ver!
 Hoom... We first need to open the door. We\nalso need to get the elevator operational.=Hoom... Primero necesitamos abrir la puerta. También tenemos que poner en marcha el ascensor.
 Might be quicker use your hands instead of\nyour head. Give it a try, {{A}}.=Tal vez sea más rápido usar las manos en vez de la cabeza. Inténtalo, {{A}}.
 Nice! The elevator's\npowered up!=¡Genial! ¡El ascensor ya tiene energía!
@@ -46251,7 +46262,6 @@ You can now quick travel to the \n<color\=#FF423F>Power Plant 3F: Long Corridor<
 You can now quick travel to the \n<color\=#FF423F>Power Plant 3F: West Inner Corridor</color>.=Ahora puede viajar rápidamente al \n<color\=#FF423F>Planta de Energía 3F: Corredor Interior Oeste</color>.
 You can now quick travel to the \n<color\=#FF423F>Power Plant 3F: Storage Room</color>.=Ahora puede viajar rápidamente al \n<color\=#FF423F>Planta de Energía 3F: Almacén</color>.
 This area has not been explored yet.=Esta zona aún no ha sido explorada.
-2303466(textId) error=2303466(textId) error
 C<color\=#ff0000ff>o</color>gnitive Technician=T<color\=#ff0000ff>é</color>cnico Cognitivo
 The worker seems to be worried\nabout something...=El trabajador parece estar preocupado por algo...
 I can't find it... I can't get in without\nit...=No lo encuentro... No puedo entrar sin él...
@@ -46619,7 +46629,7 @@ Has extremely high HP. After 4 turns, it activates Ragnarok, increasing {{A}}'s 
 T<color\=#000000>h</color>under God's Protection=P<color\=#000000>r</color>otección del Dios del Trueno
 Thunder God's Protection=Protección del Dios del Trueno
 Final Damage Taken Up=Daño Final Recibido Aumentado
-When using a skill, temporarily gain 5% of Effects stats from Sweeper or Assassin ally with highest Atk (excluding Justine & Caroline).=Al usar una habilidad, obtén temporalmente el 5% de estadísticas de efectos del aliado Barredor o Asesino con mayor ATQ (excluyendo a Justine y Caroline).
+When using a skill, temporarily gain 5% of Effects stats from Sweeper or Assassin ally with highest Atk (excluding Justine & Caroline).=Al usar una habilidad, obtén temporalmente el 5% de estadísticas de efectos del aliado Barrendero o Asesino con mayor ATQ (excluyendo a Justine y Caroline).
 Rebel Surveillance=Vigilancia Rebelde
 Increase final dmg by 500%. When dealing skill dmg, charge Mjolnir's energy.=Aumenta el daño final en un 500%. Al infligir daño de habilidad, carga la energía de Mjolnir.
 Lost Chip E=Chip E perdido
@@ -47274,7 +47284,7 @@ It's about Valentine's Day...=Es sobre el Día de San Valentín...
 Say you were going to give something other\nthan chocolates. What would it be?=¿Qué otro regalo les darías que no sea chocolate?
 Who are you giving it to?=¿A quién se lo vas a dar?
 Is it for your true valentine?=¿Es para tu verdadero San Valentín?
-U-Um...=U-Um...
+U-Um...=E-Ehm...
 I can't really say who it's for...=No puedo decir exactamente para quién es...
 But it's a special event that only comes\nonce a year, so I want to make them happy.=Pero es un evento especial que solo ocurre una vez al año, así que quiero hacerlos felices.
 And I thought they might like to get\nsomething I can make by hand.=Y pensé que quizás les gustaría recibir algo que pueda hacer con mis propias manos.
@@ -48301,7 +48311,7 @@ There ought to be a chocolate-gathering\nevent or some such. That's a given!=Deb
 Virtual chocolate is forever, after all!=¡El chocolate virtual es para siempre, al fin y al cabo!
 Yum! If only it wasn't virtual...=¡Ñam! Ojalá no fuera virtual...
 N<color\=#FF423F>e</color>xus of Dre<color\=#FF423F>a</color>ms=N<color\=#FF423F>e</color>xo de los Su<color\=#FF423F>e</color>ños
-The more Assassins and Sweepers you have in your party, the more the point multiplier will increase.=Cuántos más Asesinos y Barredores tengas en tu equipo, más aumentará el multiplicador de puntos.
+The more Assassins and Sweepers you have in your party, the more the point multiplier will increase.=Cuántos más Asesinos y Barrenderos tengas en tu equipo, más aumentará el multiplicador de puntos.
 Yui was pretty annoyed about\nValentine's Day. I wonder how\nshe's doing...=Yui estaba bastante molesta con\nel Día de San Valentín. Me\npregunto cómo le estará yendo...
 Go cheer her up=Ve y anímala
 Check on her=Revisa cómo está
@@ -50398,7 +50408,6 @@ Completa all stages in the Velvet Trials: Lair of Arcane Flame. =Completa todas 
 Collect 390 stars in the Velvet Trials. <size\=30>(0/1)</size>=Consigue 390 estrellas en las Pruebas de Terciopelo. <size\=30>(0/1)</size>
 All Claimed=Todo reclamado
 Press to claim=Presiona para reclamar
-2303283(textId) error=2303283(textId) error
 Atsuki Seishun: G...=Atsuki Seishun: ¡G...!
 Noctis Koholint: ...=Noctis Koholint: ...
 Happy New Year!\nBest wishes this year<sprite\=21 tint\=1>=¡Feliz Año Nuevo! Mis mejores deseos para este año<sprite\=21 tint\=1>
@@ -50649,7 +50658,6 @@ Today, as always, Petit is gonna do her\nabsolute best to take good care\nof Mas
 The clumsy maid again today, is it?=¿Otra vez la sirvienta torpe hoy, eh?
 I cannot begin to imagine what she will do\ntoday, but I'm sure you'll meet her with\nan open heart.=No puedo ni imaginar lo que hará hoy, pero estoy seguro de que la recibirás con el corazón abierto.
 She got my order wrong\nagain today...=Se volvió a equivocar con mi\npedido hoy también...
-2303382(textId) error=2303382(textId) error
 Have a great rest of your day, Master! Be\nsure and come back again soon, okay?=¡Que tengas un excelente resto del día, Maestro! Asegúrate de volver pronto, ¿sí?
 appy New Year=Feliz Año Nuevo
 Quite some time has passed since the new year began, and the New Year's atmosphere has completely died down, when all of a sudden Yaoling shows up to... wish me a Happy New Year...?=Ya pasó bastante tiempo desde que comenzó el año nuevo, y el ambiente festivo por completo se había desvanecido, cuando de repente aparece Yaoling para... desearme un Feliz Año Nuevo...?
@@ -52338,7 +52346,6 @@ The interval between Dancer of Dreams summoning Shadows is decreased by 1 turn. 
 Appeal to Retreat=Petición de Retirada
 A<color\=#000000>p</color>peal to Retreat=P<color\=#000000>e</color>tición de Retirada
 Highlight gauge fills slower...=El medidor de Highlight se llena más lento...
-2303090(textId) error=2303090(textId) error
 Shiina and I hung out\nin Shibuya. We almost got lost\nin the crowded crosswalk=Shiina y yo salimos por Shibuya.\nCasi nos perdemos en el\ncruce lleno de gente.
 Izayo Rosemary=Izayo Romero
 Remy Lavellan=Remy Lavellan
@@ -53358,7 +53365,6 @@ Gain Synergy with <color\=#FFC000>Mio Natsukawa</color>: Unlock the use of Shady
 <color\=#FFC000>Rank 11</color>: Unlock the ability to purchase products from Kichijoji using Shady Commodities.=<color\=#FFC000>Rango 11</color>: Desbloquea la habilidad de comprar productos de Kichijoji usando Negocios Turbios.
 <color\=#FFC000>Rank 13</color>: Unlock the ability to purchase products from Shinjuku using Shady Commodities.=<color\=#FFC000>Rango 13</color>: Desbloquea la capacidad de comprar productos en Shinjuku usando Negocios Turbios.
 <color\=#FFC000>Rank 17</color>: Unlock the ability to purchase products from Akihabara using Shady Commodities.=<color\=#FFC000>Rango 17</color>: Desbloquea la habilidad de comprar productos de Akihabara usando Negocios Turbios.
-tnxotb-[Skill_descSimple_103240]=I need the actual English text to translate. The code "tnxotb-[Skill_descSimple_103240]" appears to be a reference ID, but I don't see the actual skill description text that needs to be translated.\n\nPlease provide the English skill description text that corresponds to this ID, and I'll translate it to neutral Latin American Spanish following all the specified rules.
 Thank you. I was hoping to talk about my\nfather's former secretary...=Gracias. Quería hablar sobre la exsecretaria de mi padre...
 Event Ends in:  18 m=Evento termina en: 18 m
 Event Ends in:  17 m=El evento termina en: 17 m
@@ -53596,7 +53602,7 @@ Based on the total Velocity she accumulates during battle, she can activate Torq
 Each time her Velocity reaches a certain amount, Mayumi can gain an <color\=#FFFC40>extra action</color>. Additionally, she grants the party <color\=#FFFC40>increased damage</color> during extra actions.=Cada vez que su Velocidad alcance cierta cantidad, Mayumi puede obtener un <color\=#FFFC40>acción adicional</color>. Además, ella otorga al grupo <color\=#FFFC40>mayor daño</color> durante acciones extra.
 Mayumi possesses powerful <color\=#FFFC40>support capabilities</color>, granting the party increased pierce rate, Attack and damage dealt.=Mayumi posee poderosas <color\=#FFFC40>capacidades de apoyo</color>, otorgando al grupo una mayor tasa de penetración, Ataque y daño infligido.
 Akechi has high <color\=#FFFC40>Attack power</color>. He can deal <color\=#FFFC40>Almighty damage</color>, ignoring enemy affinities and Defense.=Akechi tiene alto <color\=#FFFC40>Poder de ataque</color>. Él puede infligir <color\=#FFFC40>daño Todopoderoso</color>, ignorando afinidades enemigas y Defensa.
-By granting the <color\=#FFFC40>Mastermind</color> state to <color\=#FFFC40>Sweeper or Assassin</color> allies, Akechi can record the damage dealt by an ally with Mastermind, and deal damage based on the recorded amount. If there are no Sweeper or Assassin allies, Akechi can gain Mastermind to strengthen himself.=Al otorgar el estado <color\=#FFFC40>Mente maestra</color> a aliados <color\=#FFFC40>Barredores o Asesinos</color>, Akechi puede registrar el daño infligido por un aliado con Mente maestra y realizar daño basado en la cantidad registrada. Si no hay aliados Barredores o Asesinos, Akechi puede obtener Mente maestra para potenciarse a sí mismo.
+By granting the <color\=#FFFC40>Mastermind</color> state to <color\=#FFFC40>Sweeper or Assassin</color> allies, Akechi can record the damage dealt by an ally with Mastermind, and deal damage based on the recorded amount. If there are no Sweeper or Assassin allies, Akechi can gain Mastermind to strengthen himself.=Al otorgar el estado <color\=#FFFC40>Mente maestra</color> a aliados <color\=#FFFC40>Barrenderos o Asesinos</color>, Akechi puede registrar el daño infligido por un aliado con Mente maestra y realizar daño basado en la cantidad registrada. Si no hay aliados Barrenderos o Asesinos, Akechi puede obtener Mente maestra para potenciarse a sí mismo.
 He can provide <color\=#FFFC40>buffs</color> and <color\=#FFFC40>healing</color> to allies, as well as inflict <color\=#FFFC40>debuffs</color> on foes, allowing utility in a variety of situations.=Él puede proporcionar <color\=#FFFC40>mejoras</color> y un <color\=#FFFC40>curación</color> a los aliados, así como infligir <color\=#FFFC40>Debuffs</color> sobre los enemigos, permitiendo utilidad en una variedad de situaciones.
 Ashiya specializes in <color\=#FFFC40>strengthening his allies' defense</color>. He can provide <color\=#FFFC40>shields</color> and <color\=#FFFC40>increased Defense</color> to allies, raising their survivability.=Ashiya se especializa en <color\=#FFFC40>fortalecer la defensa de sus aliados</color>. Puede proporcionar <color\=#FFFC40>escudos</color> e <color\=#FFFC40>incrementar la Defensa</color> de los aliados, aumentando su supervivencia.
 During battle, he can use Knight's Protection to <color\=#FFFC40>protect allies from damage</color> and gain Heroism to activate Garden of Promises.=Durante la batalla, él puede usar Protección del Caballero para <color\=#FFFC40>proteger a los aliados del daño</color> y obtén Heroísmo para activar el Jardín de Promesas.
@@ -53658,7 +53664,6 @@ It feels like only yesterday that we began\nour special contract.=Parece que fue
 I admit I did not expect this change within\nmyself either.=Admito que tampoco esperaba este cambio dentro de mí.
 Robin Hood=Robin Hood
 Akechi=Akechi
-tnxotb-[Skill_descSimple_135140]=tnxotb-[Skill_descSimple_135140]
 Akechi's Skills=Habilidades de Akechi
 It's a rare enemy... We should\ndefinitely take it down.=Es un enemigo raro... Definitivamente deberíamos eliminarlo.
 H<color\=#000000>i</color>gh School Detective=D<color\=#000000>e</color>tective de Secundaria
@@ -53823,3 +53828,798 @@ Contract Rewards=Recompensas del contrato
 Login Bonus=Bonificación de inicio de sesión
 Monstrous Entity=Entidad Monstruosa
 Recollections of Fate=Recuerdos del Destino
+Mmm... I feel like I wasn't\ndone yet...=Mmm... Siento que no había terminado aún...
+Showing some concern for your\nelders, huh? My thanks.=Preocupándote por tus mayores, ¿eh?\nTe lo agradezco.
+Taking time to analyze our\nintel is important, too.=Tomarse el tiempo para analizar nuestra información también es importante.
+Right... Point my fingertips more... I need\nto convey bold conviction.=Vale... Debo señalar más con los dedos... Necesito transmitir una convicción firme.
+Oh, Wonder-senpai! I was just reviewing my\nrhythmic gymnastics routine.=¡Oh, Wonder‑senpai! Solo estaba revisando mi rutina de gimnasia rítmica.
+Since I excel at bold, expressive maneuvers,\nI just wanted to find a way to make my moves\nlook more dynamic.=Ya que destaco en maniobras audaces y expresivas, solo quería encontrar una manera de que mis movimientos se vean más dinámicos.
+I know! If it's okay with you, could I ask\nfor your honest opinion?=¡Ya sé! Si te parece bien, ¿puedo pedirte tu opinión sincera?
+Hey, hey! Nagisa, what's your\nschool like?=¡Oye, oye! Nagisa, ¿cómo es tu escuela?
+It's in Shimokita.=Está en Shimokita.
+I take the train there.=Voy en tren hacia allá.
+Wow! I'd love to go there!=¡Guau! ¡Me encantaría ir allí!
+But after elementary school, I'll be\nattending college in America.=Pero después de la primaria, asistiré a la universidad en Estados Unidos.
+I guess we won't get to go to\nschool together...=Supongo que no podremos ir a la escuela juntos...
+I'll aim for the same college.=Intentaré entrar a la misma universidad.
+I'll visit you in America.=Iré a visitarte a Estados Unidos.
+Wait, really!? Yaaay!=Espera, ¿¡Lo dices en serio!? ¡Yupiii!
+Actually, I'm kinda scared to go to the US.=En realidad, me da un poco de miedo ir a Estados Unidos.
+But if I have you, Nagisa,\nI'll be just fine!=¡Pero si te tengo a ti, Nagisa, estaré bien!
+Haruna and I discussed what\ngoing to school in the States\nwould be like...=Haruna y yo discutimos cómo\nsería ir a la escuela en\nlos Estados Unidos...
+Realm of Repression: Revelation Set=Reino de la Represión: Conjunto Revelación
+[Inferno of Nothingness]=[Infierno de la Nada]
+Increase Attack by <color\=#2899FF>28.0%<color\=#FFD145>→37.3%</color></color>. After inflicting an elemental ailment, increase Attack by <color\=#2899FF>13.3%</color> for 2 turns. Increase elemental ailment accuracy by <color\=#2899FF>20.0%</color>. When attacking a foe, decrease the target's Defense by <color\=#2899FF>6.0%</color> for 2 turns. Increase this effect for each of target's elemental ailments, up to 4.=Aumenta el Ataque en <color\=#2899FF>28.0%<color\=#FFD145>→37.3%</color></color>. Después de infligir una dolencia elemental, aumenta el ATQ en <color\=#2899FF>13.3%</color> por 2 turnos. Aumenta la precisión de dolencias elementales en <color\=#2899FF>20.0%</color>. Al atacar a un enemigo, reduce la Defensa del objetivo en <color\=#2899FF>6.0%</color> por 2 turnos. Aumenta este efecto por cada dolencia elemental del objetivo, hasta 4.
+Only Purgatory Shard can be used as materials.=Solo se pueden usar Fragmentos de Purgatorio como materiales.
+Only Eye of Obsequies Shard can be used as materials.=Solo se pueden usar Esquirla del Ojo de las Exequias como materiales.
+Increase Attack by <color\=#2899FF>28.0%</color>. After inflicting a status ailment on a foe, decrease the foe's ailment resistance by <color\=#2899FF>12.0%</color>, Defense by <color\=#2899FF>5.0%<color\=#FFD145>→6.7%</color></color>, and increase the user's Attack by <color\=#2899FF>10.0%<color\=#FFD145>→13.3%</color></color> for 3 turns. This effect can stack up to 2 times, and stacks are spent separately. With 1 stack, increase target's Physical damage taken by <color\=#2899FF>14.0%<color\=#FFD145>→18.7%</color></color> for 3 turns.=Aumenta el Ataque en <color\=#2899FF>28.0%</color>. Después de infligir una dolencia a un enemigo, reduce la resistencia a dolencias del enemigo en <color\=#2899FF>12.0%</color>, Defensa por <color\=#2899FF>5.0%<color\=#FFD145>→6.7%</color></color>, y aumenta el Ataque del usuario en <color\=#2899FF>10.0%<color\=#FFD145>→13.3%</color></color> por 3 turnos. Este efecto puede acumularse hasta 2 veces, y las acumulaciones se gastan por separado. Con 1 acumulación, aumenta el daño Físico recibido por el objetivo en <color\=#2899FF>14.0%<color\=#FFD145>→18.7%</color></color> durante 3 turnos.
+<link\=thiefInnateSkill|1361|136111><u>Shockwave</u></link>\nSkill Multiplier 88.0%→<color\=#FEDA00>90.8%</color>\nDmg Increase 5.8%→<color\=#FEDA00>5.9%</color>\n Extra Dmg Increase Cap 23.0%→<color\=#FEDA00>23.8%</color>\n\n<link\=thiefInnateSkill|1361|136112><u>Aero Setup</u></link>\nAtk Increase 5.8%→<color\=#FEDA00>5.9%</color>\nExtra Atk Increase Cap 23.0%→<color\=#FEDA00>23.8%</color>\nDef Increase 6.4%→<color\=#FEDA00>6.6%</color>\nExtra Def Increase Cap 25.6%→<color\=#FEDA00>26.4%</color>\nShield 1700→<color\=#FEDA00>1730</color>\n\n=<link\=thiefInnateSkill|1361|136111><u>Onda de Choque</u></link>\nMultiplicador de habilidad 88.0%→<color\=#FEDA00>90.8%</color>\nAumento de daño 5.8%→<color\=#FEDA00>5.9%</color>\n Límite de aumento de daño extra 23.0%→<color\=#FEDA00>23.8%</color>\n\n<link\=thiefInnateSkill|1361|136112><u>Ajuste Aerodinámico</u></link>\nAumento de ATQ 5.8%→<color\=#FEDA00>5.9%</color>\nLímite de aumento extra de ATQ 23.0%→<color\=#FEDA00>23.8%</color>\nAumento de DEF 6.4%→<color\=#FEDA00>6.6%</color>\nLímite de aumento extra de Def 25.6%→<color\=#FEDA00>26.4%</color>\nEscudo 1700→<color\=#FEDA00>1730</color>\n\n
+ Extra Dmg Increase Cap= Límite de Aumento de Daño Adicional
+Plasma Blade Shard=Fragmento de Filo de Plasma
+Plasma Blade=Filo de Plasma
+Harmonic Element=Elemento Armónico
+A special crystal used to forge Plasma Blade.=Un cristal especial usado para forjar Filo de Plasma.
+Ally Almighty Attack Score (besides Wonder)=<size\=18>Puntuación de ataque Todopoderoso de aliados (excepto Wonder)</size>
+Reach <color\=#eade10>1250000</color> total points to obtain=Alcance <color\=#eade10>1250000</color> puntos totales a obtener
+The point multiplier increases depending on the number of Assassins and Sweepers in your party.=El multiplicador de puntos aumenta según la cantidad de Asesinos y Barrenderos en tu grupo.
+The Farmers Market=El Mercado de los Agricultores
+Retired Enmity=Enemistad Retirada
+Prison Arc=Arco de la Prisión
+Earn rewards when more Companio members participate! Current total: <color\=#eade10>15</color>=¡Gana recompensas cuando más miembros de Companio participen! Total actual: <color\=#eade10>15</color>
+Total Points This Season=Puntos totales esta temporada
+Thoughts I had on my\ntravels=Pensamientos que tuve en mis\nviajes
+I thought about it\non my travels...=Lo pensé durante mis viajes...
+They have Chinatowns not only\nin Yokohama, but Kobe and\nNagasaki, too.=Tienen barrios chinos no solo en Yokohama, sino también en Kobe y Nagasaki.
+I'd love to check them out\nsometime. It'd be a whole lot\neasier than going to Hakata.=Me encantaría echarles un vistazo algún día. Sería mucho más fácil que ir a Hakata.
+Totally.=Totalmente.
+No doubt.=Sin duda.
+I've heard of people from my\nhomeland who made the trek to\nJapan in search of something.=He oído de gente de mi tierra natal que hizo el viaje a Japón en busca\nde algo.
+I really wanna know exactly\nwhat it is they came for.=Realmente quiero saber exactamente qué es lo que vinieron a buscar.
+Do you want to live here?=¿Quieres vivir aquí?
+Do you see yourself in them?=¿Te ves reflejado en ellos?
+For sure. I'm still trying to\nfigure out what it is I want.=Claro. Todavía estoy tratando de averiguar qué es lo que quiero.
+I figured maybe they could\ngive me a few hints.=Supuse que tal vez podrían darme algunas pistas.
+I really loved the beach house!=¡Realmente me encantó la casa de la playa!
+A place where you can fully enjoy the\nmoment and soak in the summer air...=Un lugar donde puedes disfrutar plenamente del momento y empaparte del aire veraniego...
+Hehe! Makes me wanna go back!=¡Jeje! Me dan ganas de volver.
+Makoto Nakamura=Makoto Nakamura
+Jonathan Kizuki=Jonathan Kizuki
+NOMELEO ELLORE=NOMELEO ELLORE
+M<color\=#ff0000ff>a</color>yumi Hashimoto & Kayo Tomiyama=M<color\=#ff0000ff>a</color>yumi Hashimoto y Kayo Tomiyama
+C<color\=#ff0000ff>r</color>ow=C<color\=#ff0000ff>r</color>ow
+So bangin'! Your hairstyle is hella adorable!=¡Qué pasada! ¡Tu peinado es súper adorable!
+Where'd you get it done!? I totes wanna go!=¿¡Dónde te lo hiciste!? ¡Tengo muchísimas ganas de ir!
+Woah... You're pretty intense...!=Vaya... ¡Eres alguien bastante intensa!
+Ah, Nagisa. Hey.=Ah, Nagisa. Holis.
+I'm totally head over heels for this\ngal's hairstyle!=¡Estoy totalmente enamorada del peinado de esta chica!
+Isn't her streaked hair just absolute\ncrush material!?=¿¡Acaso su pelo con mechas no es absolutamente material de flechazo!?
+Where's your stylist? Shibuya? Harajuku?\nShimokita? What hair catalog do you read!?=¿Dónde está tu estilista? ¿Shibuya? ¿Harajuku? ¿Shimokita? ¿¡Qué catálogo de peinados lees!?
+Um... Just a local salon I've been going to\nfor a long time. I don't really look at hair\ncatalogs or anything like that.=Este... Solo un salón local al que he ido durante mucho tiempo. No miro realmente catálogos de peinados ni nada parecido.
+The length and style was all at my request.=La longitud y el estilo fueron por petición mía.
+Really, now...=Vaya, en serio...
+Why'd you pick that style?=¿Por qué elegiste ese estilo?
+See!? That's what I mean! You came up with\nthat all by yourself!? Your taste is far out!=¿¡Ves!? ¡A eso me refiero! ¿¡Se te ocurrió todo eso por tu cuenta!? ¡Tu gusto es increíble!
+Well, it wasn't something I came up with\nall by myself...=Bueno, no fue algo que se me ocurriera todo por mi cuenta...
+It's based on Tokkisa-kun, this famous\ncircuit mascot character.=Está basado en Tokkisa-kun, ese famoso personaje que es mascota del circuito.
+So I requested something based on his\nhairstyle.=Así que pedí algo basado en su peinado.
+A mascot!?=¿¡Una mascota!?
+Yeah. I was going for a more "If you know you\nknow." kind of approach, but...=Sí. buscaba un enfoque más del estilo "Si lo sabes, lo sabes." pero...
+This is the first time I've been complimented\non it like this. It might sound embarrassing,\nbut it makes me really happy...!=Esta es la primera vez que me elogian así. Puede sonar embarazoso, ¡pero me hace muy feliz...!
+A mascot... I can't believe something so\nstylish could come from that...!=Una mascota... ¡No puedo creer que algo tan estiloso pudiera salir de ahí...!
+Is this girl's fashion sense even more\namazing than I thought...!?=¿¡Es el sentido de la moda de esta chica aún más increíble de lo que pensaba...!?
+We continued talking about\nour everyday fashion habits...=Continuamos hablando sobre\nnuestros hábitos de moda diarios...
+Charismatic was changed to Debonair=Carismático se cambió a Apuesto
+Ver. 3.5 Nightmare’s Gateway Apology=Ver. 3.5 Disculpa de Portal del Cazapesadillas
+Ver. 3.5 Sea of Souls Apology=Ver. 3.5 Pruebas del Mar de Almas
+Do you want to automatically trade for the remaining seals?\nThis will cost <size\=60><sprite\=35></size>x1750<size\=60><sprite\=34></size>x1625<size\=60><sprite\=33></size>x90.=¿Quieres intercambiar automáticamente por los sellos restantes?\nEsto costará <size\=60><sprite\=35></size>x1750<size\=60><sprite\=34></size>x1625<size\=60><sprite\=33></size>x90.
+Spirit Strike=Golpe de Espíritu
+Auspicious Sign=Signo auspicioso
+Auspicious Sign I=Signo auspicioso I
+Restore 6.5% of max HP and SP after winning a battle.=Restaura el 6.5 % del PS y PE máximos después de ganar una batalla.
+Persona Skills=Habilidades de Persona
+Obtainable when leveling up the protagonist or making entries in the Persona Compendium. Used to level up schema skills.=Obtenible al subir de nivel al protagonista o al registrar entradas en el Compendio. Se usa para subir de nivel habilidades de esquema.
+Crystal Chorus=Coro de Cristal
+Gained Cellular Crystallization!=¡Obtuviste Cristalización Celular!
+F<color\=#000000>o</color>ur Gods=C<color\=#000000>u</color>atro Dioses
+C<color\=#000000>e</color>llular Crystallization=C<color\=#000000>r</color>istalización Celular
+Change Fire affinity to Resist.=Cambiar afinidad de Fuego a Resistir.
+Guardian's Preservation=Preservación del Guardián
+Cellular Crystallization=Cristalización Celular
+There's a lot of shops\nselling unique fashion and\nhard-to-find goods...=Hay muchas tiendas que venden\nmoda única y artículos difíciles\nde encontrar...
+There's also a crêpe shop,\nand their menu is famous...=También hay una crepería,\ny su menú es famoso...
+Seems like a fun place to\nvisit with somebody...=Parece un lugar divertido\npara visitar con alguien...
+It would be inappropriate for you to enter\nthere.=Sería inapropiado que ingreses allí.
+Rock 'n Roll Anubis=Anubis Rocanrol
+Jazzy Anubis=Anubis Jazzista
+Pharaoh Fever=Fiebre del Faraón
+Lord of the Dance Anubis=Señor del Baile Anubis
+Hip-Hop Anubis=Hip‑Hop Anubis
+Deep within the depths of the pyramids, Anubis and company have awakened. Give yourself over to the echoing tomb tunes and let the ancient rituals begin.=En lo más profundo de las pirámides, Anubis y compañía se han despertado. Entrégate a los ecos de las melodías de la tumba y deja que comiencen los antiguos rituales.
+Are those casks there completely filled with\nalcohol? What an enormous amount.=¿Están esos barriles allí completamente llenos de alcohol? Qué cantidad tan enorme.
+Most of the humans in this establishment seem\ninebriated to the point of\nnear unconsciousness...=La mayoría de los humanos en este establecimiento parecen embriagados hasta casi perder el conocimiento...
+A shop specializing in the pairing of\nspirits and sushi. Quite a "marriage"\nof flavors, if I may say. Ho ho ho.=Una tienda especializada en el maridaje de licores y sushi. Todo un "matrimonio" de sabores, si se me permite decir. Ho, ho, ho.
+...I have no intention of becoming a cannibal\ntonight.=...No tengo intención de convertirme en caníbal esta noche.
+I can only imagine the taste of this shop's\nroast pork and stewed eggs... *shlurp*=Solo puedo imaginar el sabor del cerdo asado y los huevos guisados de esta tienda... *sorbo*
+It says you must be at least 20 years old to enter.=Dice que debes tener al menos 20 años para entrar.
+Once you come of age, I suppose you can come\nback and enjoy this establishment.=Una vez que alcances la mayoría de edad, supongo que podrás volver y disfrutar de este establecimiento.
+The customers inside are\ntalking in raised voices....=Los clientes de adentro están\nhablando en voz alta...
+This one has quite a relaxing atmosphere.\nIt seems that even bars have their\nown personality.=Este tiene una atmósfera bastante relajante. Parece que incluso los bares tienen su propia personalidad.
+Look at that large pot. I can smell some\nmarvelous stewed eggs being prepared\nat this very moment...=Mira esa olla grande. Puedo oler unos maravillosos huevos guisados preparándose en este mismo momento...
+Even in such a small space, the owner of this\nbar seems to be able to maneuver\nwith impressive dexterity.=Incluso en un espacio tan pequeño, el dueño de este bar parece poder moverse con una destreza impresionante.
+A rather cramped establishment. But I suppose\nbeing close to the owner has its merits.=Un establecimiento bastante estrecho. Pero supongo que estar cerca del dueño tiene sus ventajas.
+Looks like the end of the\nshopping district... I should go\nback the way I came...=Parece ser el final del\ndistrito comercial... Debería\nvolver por donde vine...
+Billiards & Darts=Billar y Dardos
+I'm sorry, but we're not open yet.=Lo siento, pero todavía no estamos abiertos.
+The interior renovations are taking longer\nthan expected...=Las renovaciones del interior están tomando más tiempo de lo esperado...
+Please come visit as soon as we're open!=¡Por favor, ven a visitarnos tan pronto como abramos!
+Maybe I'll come back later...=Quizás vuelva más tarde...
+Earlier, I was watching Violet's movements\ntogether with Joker...=Hace un momento, estaba observando los movimientos de Violet junto a Joker...
+Moving that effortlessly might come in\nhandy when fighting in the Metaverse.=Moverse con esa naturalidad podría ser útil al luchar en el Metaverso.
+Perhaps I should ask her to teach me a\nthing or two.=Quizás debería pedirle que me enseñe una o dos cosas.
+Care to join me?=¿Te animas a acompañarme?
+The limited-time Thieves' Secrets will be ending soon, and the Secret Shop will be closed.\nPlease be sure to exchange for rewards before then.=Los Secretos de los Ladrones de tiempo limitado terminarán pronto, y la Tienda Secreta se cerrará. Por favor, asegúrate de canjear recompensas antes de eso.
+F<color\=#000000>o</color>ur Gods' Might=P<color\=#000000>o</color>der de los Cuatro Dioses
+Successful Defenses: =Defensas exitosas: 
+Def Increase=Aumento de DEF
+Extra Def Increase Cap=Límite extra de aumento de DEF
+Selected Target Pierce Rate Increase=Aumento de la Tasa de Perforación del Objetivo Seleccionado
+Extra Pierce Rate Increase Cap=Límite de Aumento de la Tasa de Perforación Extra
+Selected Target Extra Pierce Rate Increase Cap=Límite de Aumento de Tasa de Perforación Extra a Objetivos
+Highlight Extra Dmg Increase Cap=Límite de Aumento de Daño Extra de Highlight
+Highlight Extra Atk Increase Cap=Límite de Aumento de ATQ Extra de Highlight
+Increase the skill levels of Lion Dance of Oblivion and Thief Tactics by 3.=Aumenta los niveles de habilidad de Lion Dance of Oblivion y Thief Tactics en 3.
+Soul Reaper=Segador de almas
+Phantom thieves must always act with purpose.\nYou understand, Nagisa?=Los Ladrones Fantasma siempre deben actuar con un propósito. ¿Entiendes, Nagisa?
+Lionhearted=Corazón de león
+Oh, sorry. Did you say something? I was\ndeep in thought.=Oh, lo siento. ¿Dijiste algo? Estaba sumido en mis pensamientos.
+If you're planning to check on everyone, do\nyou mind if I tag along?=Si planeas ir a ver cómo están todos, ¿te importa si te acompaño?
+L<color\=#ff0000ff>u</color>fel & Crow=L<color\=#ff0000ff>u</color>fel y Crow
+Cattle looks like an animal of sorts, just\nlike Mona, right?=Cattle parece una especie de animal, al igual que Mona, ¿verdad?
+Yes. I may resemble an owl of sorts.\nWhat of it?=Sí. Puede que me parezca a una especie de búho. ¿y qué?
+Nothing really...=Nada, en realidad...
+But you said that you can't fly in that form,\nso I wondered if you could fly in real life.=Pero dijiste que no puedes volar en esa forma, así que me pregunté si podías volar en la vida real.
+Which is it exactly?=¿Cuál es exactamente?
+No, he can't.=No, no puede.
+He can.=Él puede.
+Yes. I myself am able to fly. Only my outward\nappearance bears similarity to an owl.=Sí. Yo mismo soy capaz de volar. Solo mi apariencia externa guarda similitud con un búho.
+Therefore, I am capable of flight.=Por lo tanto, soy capaz de volar.
+However, I sometimes think it'd be nice if\nI could fly in the Metaverse as well...=Sin embargo, a veces pienso que sería genial poder volar también en el Metaverso...
+For example, acquiring an item that's up\nhigh can be quite the challenge.=Por ejemplo, conseguir un objeto que está en lo alto puede ser todo un desafío.
+So, what do you do in that case? Oh, wait.\nIf my theory is correct...=Entonces, ¿qué haces en ese caso? Oh, espera. Si mi teoría es correcta...
+Maybe one of your teammates lifts you up...?\nYou are quite small, so it shouldn't be\ntoo difficult.=¿Tal vez uno de tus compañeros te cargue...? Eres bastante pequeño, así que no debería ser demasiado difícil.
+Correct. As expected of a detective. Oh...!\nOn that note, I'd like to borrow your wisdom,\nif you'll oblige.=Correcto. Como era de esperar de una detective. ¡Oh...! En ese sentido, me gustaría pedir prestado tu sabiduría, si no te importa.
+Being picked up doesn't look very cool...\nCould I leverage your intellect to think of\nother, more appealing methods?=Que me carguen no se ve muy bien... ¿Podría aprovechar tu intelecto para pensar en otros métodos más atractivos?
+Don't lie so brazenly! I can fly!\nI always could!=¡No mientas tan descaradamente! ¡Puedo volar! ¡Siempre lo he podido!
+An Unexpected Ally=Un Aliado Inesperado
+The young man in white who saved Violet from attack introduces himself as Crow, and explains that he's in temporary alliance with the Phantom Thieves of Hearts. Apparently he's also a detective, whose sharp insights into the mysterious Palace aid the group in unlocking a new area.=El joven de blanco que salvó a Violet del ataque se presenta como Crow, y explica que está en una alianza temporal con Los Ladrones Fantasma de Corazones. Al parecer, también es un detective cuyos perspicaces conocimientos sobre el misterioso Palacio ayudan al grupo a desbloquear una nueva área.
+Longing for Truth=Anhelo de la Verdad
+Phantom Thief in White=Ladrón Fantasma de Blanco
+Who is this? I've never seen him before.=¿Quién es él? Nunca lo había visto antes.
+It's all right. He's not an enemy.=No pasa nada. No es un enemigo.
+Is he your friend, Joker?=¿Es tu amigo, Joker?
+Is he your teammate, Joker?=¿Es tu compañero, Joker?
+Teammate...? Well... Sure.=¿Compañero...? Bueno... Sí.
+Friend...? Well... Sure.=¿Amigo...? Bueno... Sí.
+That response felt a bit loaded...=Esa respuesta se sintió con algo de segundas intenciones...
+Haha. The Phantom Thieves and I have a bit of\na complicated relationship.=Jaja. Los Ladrones Fantasma y yo tenemos una relación un poco complicada.
+But we have a reason to work together at the\nmoment. Isn't that right, Joker?=Pero tenemos una razón para trabajar juntos en este momento. ¿No es así, Joker?
+Sounds like a rather complicated alliance.=Suena como una alianza bastante complicada.
+Anyway, it's a pleasure to meet you.\nI'm <color\=#FF423F>Crow</color>.=De todos modos, es un placer conocerte. Soy <color\=#FF423F>Crow</color>.
+While it is temporary, the Phantom Thieves\nand I have a deal worked out wherein I act\nas their ally.=Mientras sea temporal, los Ladrones Fantasma y yo hemos llegado a un acuerdo por el cual actúo como su aliado.
+Now, who might you be?=Ahora bien, ¿quién podrías ser tú?
+We introduced ourselves and\nexplained our past encounters\nwith Joker...=Nos presentamos y explicamos\nnuestros encuentros pasados\ncon Joker...
+So you're Wonder, and he's Cattle.\nNice to make your acquaintance.=Así que tú eres Wonder, y él es Cattle. Un placer conocerlos.
+I must say, your story is quite intriguing.\nMeeting Phantom Thieves from another world,\nand on multiple occasions at that.=Debo decir que tu historia es bastante intrigante. Encontrarse con Ladrones Fantasma de otro mundo, y en múltiples ocasiones.
+Crow=Crow
+Wait a minute, you're—!=¡Espera un momento, tú—!
+Yes! It's me, Yoshiza—um, never mind!=¡Sí! Soy yo, Yoshiza...ehm, ¡no importa!
+Please call me Violet while we're here.=Por favor, llámame Violet mientras estemos aquí.
+Violet? But you're—=¿Violet? Pero tú—
+Since the other Phantom Thieves are here,\nwe've decided to call everyone by code names\nto protect our identities.=Dado que los demás Ladrones Fantasma están aquí, hemos decidido llamar a todos por nombres en clave para proteger nuestras identidades.
+I see. Well, it's good to see you, Violet.=Ya veo. Bueno, me alegra verte, Violet.
+You as well! I had no idea you were also a\nPersona user!=¡Igualmente! ¡No tenía idea de que también fueras un usuario de Persona!
+All this time and I never realized. And to\nthink, you of all people are working with the\nPhantom Thieves...=Todo este tiempo y nunca me di cuenta. Y pensar que tú, de entre todos, estás trabajando con los Ladrones Fantasma...
+Haha, well, I have my reasons.=Jaja, bueno, tengo mis razones.
+I want details.=Quiero detalles.
+Such as...?=¿Como qué...?
+Let's just say I'm acting in accordance with\nmy own sense of justice.=Digamos que actúo de acuerdo con mi propio sentido de la justicia.
+But never mind that. I'd like to hear more\nabout what's going on here. You all must have\nmore intel about this place than I.=Pero no importa eso. Me gustaría saber más sobre lo que está pasando aquí. Todos ustedes deben tener más información sobre este lugar que yo.
+Sure. But first, I have a question. What are\nyou doing here?=Claro. Pero primero, tengo una pregunta. ¿Qué haces aquí?
+Right, apologies. I hadn't mentioned that\nyet.=Cierto, mis disculpas. Todavía no había mencionado eso.
+Allow me to explain.=Permíteme que te explique.
+Remember how we were infiltrating Sae-san's\nPalace today? On the way home, I noticed\nsomething strange with my phone.=¿Recuerdas que hoy nos estábamos infiltrando en el Palacio de Sae-san? De camino a casa, noté algo raro en mi teléfono.
+Sae-san?=¿Sae-san?
+It's someone whose Palace we're currently\ninvestigating. Don't worry about it. So what\nwas weird with your phone?=Es alguien cuyo Palacio estamos investigando actualmente. No te preocupes por eso. Entonces, ¿qué tenía de raro tu teléfono?
+I noticed my Metaverse Navigator was acting\nstrangely.=Noté que mi Navegador del Metaverso estaba actuando extrañamente.
+I'd never seen it do that before, so I got\noff the train to check it out.=Nunca lo había visto hacer eso antes, así que bajé del tren para investigarlo.
+Then the Navigator charted a course for\nOdaiba.=Entonces el Navegador trazó una ruta hacia Odaiba.
+It started reacting even stronger when I\napproached the construction site for the\nnew stadium.=Empezó a reaccionar aún más fuerte cuando me acerqué al sitio de construcción del nuevo estadio.
+I tapped on the Navigator to see what would\nhappen, and I got transported to this place.=Toqué el Navegador para ver qué pasaría, y me transporté a este lugar.
+So you entered from there too?=¿Así que tú también entraste desde allí?
+You made it this far in alone?=¿Has llegado hasta aquí solo?
+How'd you end up this far inside?=¿Cómo terminaste llegando tan lejos?
+Well I couldn't find a way out, so I entered the building to take a look around.=Bueno, no pude encontrar una salida, así que entré al edificio para echar un vistazo.
+Then I saw you all fighting with a Shadow,\nand well, here we are.=Entonces los vi a todos luchando contra una Sombra y, bueno, aquí estamos.
+We have a bit of a complicated relationship.=Tenemos una relación un poco complicada.
+I'd say we're more like "temporarily allied\nrivals" than friends.=Yo diría que somos más como "rivales aliados temporalmente" que amigos.
+Well... That does sound rather complicated...=Bueno... Eso suena bastante complicado...
+Oh, that's right! I haven't thanked you yet!\nThank you so much for saving me earlier!=¡Oh, es cierto! ¡Aún no te he agradecido! ¡Muchas gracias por salvarme antes!
+Don't worry about it. I have some experience\nfighting in the Metaverse, so it wasn't too\nmuch trouble.=No te preocupes. Tengo algo de experiencia luchando en el Metaverso, así que no fue gran cosa.
+I see! Then I have a lot to learn from you,\nCrow-san—I mean, Crow-senpai!=¡Ya veo! Entonces tengo mucho que aprender de ti, Crow-san—¡quiero decir, Crow-senpai!
+Crow-senpai...? I mean, if that's what you\nwant to call me...=¿Crow-senpai...? Quiero decir, si así es como quieres llamarme...
+Just how many senpais do you have?=¿Cuántos senpais tienes exactamente?
+Well, I used to just call Joker-senpai\n"Senpai," but...=Bueno, solía llamar a Joker-senpai "Senpai", pero...
+Now I'm surrounded by so many people with so\nmuch experience! There's Joker-senpai,\nMona-senpai, Crow-senpai...=¡Ahora estoy rodeada de tanta gente con tanta experiencia! Está Joker-senpai, Mona-senpai, Crow-senpai...
+And we can't forget Wonder-senpai and\nCattle-senpai from the other Phantom Thieves!=Y no podemos olvidar a Wonder-senpai y Cattle-senpai de los otros Ladrones Fantasma!
+Okay, just do whatever you want.=Está bien, haz lo que quieras.
+To return to the matter at hand, Crow was\nbrought here by what seems to be an error\nwith the Metaverse Navigator?=Volviendo al asunto, Crow fue traído aquí por lo que parece ser un error con el Navegador del Metaverso.
+Seems that way.=Así parece.
+Since you've all experienced this kind of\nthing before, do you have any idea how we\ncan get out of here?=Como todos ustedes ya han pasado por esto antes, ¿tienen alguna idea de cómo podemos salir de aquí?
+It's not quite business as usual.=No es exactamente lo de siempre.
+I mean, we do and we don't.=Quiero decir, lo hacemos y no lo hacemos.
+Up till now there was always a Treasure-like\nthing called a Core that we could steal to\nget out.=Hasta ahora siempre había algo parecido a un Tesoro llamado Núcleo que podíamos robar para salir.
+But this false Palace has no trace of said\nCore. We've been trying to follow any\npowerful auras we can sense, but...=Pero este falso Palacio no tiene rastro del dicho Núcleo. Hemos estado intentando seguir cualquier aura poderosa que podamos percibir, pero...
+You haven't made any progress, I take it?=No has hecho ningún progreso, ¿supongo?
+I see. By the way, is this the first time\nyou've been to a place like this, Violet?=Ya veo. Por cierto, ¿es esta la primera vez que has estado en un lugar como este, Violet?
+Oh, but, I guess I was transported somewhere\nsimilar one time before...=Oh, pero, supongo que fui transportada a un lugar similar una vez antes...
+Somewhere similar? Could you tell me more\nabout that?=¿A un lugar similar? ¿Podrías contarme más sobre eso?
+Joker, Mona, Wonder, and Cattle have all been\nto places like this before.=Joker, Mona, Wonder y Cattle han estado antes en lugares como este.
+"Places" being defined as an area where\npeople from different worlds coexist.="Lugares" se definen como un área donde coexisten personas de mundos diferentes.
+Violet and the others told of\nthe similar Palace they'd been\nto before...=Violet y los demás hablaron del\nPalacio similar en el que\nhabían estado antes...
+Thank you for explaining. I think I get the\npicture. In summary...=Gracias por explicarlo. Creo que entiendo la idea. En resumen...
+And on all previous occasions, the members of\nyour respective Phantom Thieves were\ntransported here along with you.=Y en todas las ocasiones anteriores, los miembros de tus respectivos Ladrones Fantasma fueron transportados aquí junto a ti.
+But this time they weren't. Instead, Violet\nand I are here. Does that sound about right?=Pero esta vez no fue así. En su lugar, Violet y yo estamos aquí. ¿Suena correcto?
+Looking back, we always did end up in these\nplaces with all members of the Phantom\nThieves with us.=Ahora que lo pienso, siempre terminábamos en estos lugares con todos los miembros de los Ladrones Fantasma con nosotros.
+The same is true of us. Whenever we go to the\nMetaverse, we all go together...=Lo mismo ocurre con nosotros. Cada vez que vamos al Metaverso, vamos todos juntos...
+Yet, you were still brought here even without\nall members present.=Sin embargo, fueron traídos aquí aunque no estuvieran presentes todos los miembros.
+And most shocking of all, Violet and I, two\npeople who are decidedly not Phantom Thieves,\nwere brought here as well.=Y lo más sorprendente de todo, Violet y yo, dos personas que claramente no son Ladrones Fantasma, también fuimos traídos aquí.
+It felt to me as if I were called here\nspecifically. Which leads me to conclude...=Me dio la sensación de que me llamaron específicamente aquí. Lo que me lleva a concluir...
+This current meeting of our worlds is\nirregular. Ergo, the method of escaping it\nmust also be irregular.=Esta reunión actual de nuestros mundos es irregular. Por lo tanto, el método para escapar de ella también debe ser irregular.
+That was some really sharp analysis,\nCrow-senpai!=¡Ese fue un análisis realmente agudo, Crow-senpai!
+Haha. Well, I am a detective after all.=Jaja. Bueno, al fin y al cabo soy detective.
+Hoo!? You're a detective!?=¿¡Hoo!? ¿¡Eres un detective!?
+Oh, you didn't know? Crow-senpai is a famous\nhigh school detective.=Oh, ¿no lo sabías? Crow-senpai es un famoso detective de la secundaria.
+Some call him "the next Detective Prince."=Algunos lo llaman "el próximo Príncipe Detective."
+Hold it, you two. Didn't we agree not to\nreveal personal information here?=Un momento, ustedes dos. ¿No habíamos acordado no revelar información personal aquí?
+Anyway, as to why Violet and I were brought\nhere...=De todos modos, respecto a por qué Violet y yo fuimos traídos aquí...
+If we can figure that out, it may give us a\nclue about how to escape.=Si podemos averiguarlo, podría darnos una pista sobre cómo escapar.
+So Crow's a highly intelligent\nprivate detective...=Así que Crow es un detective\nprivado muy inteligente...
+But as a detective, are you not diametrically\nopposed to the Phantom Thieves, whose very\nwork aims to turn the world upside down?=Pero como detective, ¿no te opones diametralmente a los Ladrones Fantasma, cuyo trabajo mismo busca poner el mundo patas arriba?
+Until recently we were working against each\nother. But we've agreed to cooperate for now.=Hasta hace poco estábamos trabajando en contra del otro. Pero hemos acordado cooperar por ahora.
+I am against the Phantom Thieves' methods.\nThe only reason I'm working with them is to\ncatch a certain criminal.=Estoy en contra de los métodos de los Ladrones Fantasma. La única razón por la que trabajo con ellos es atrapar a cierto criminal.
+You're against the Phantom Thieves?=¿Estás en contra de los Ladrones Fantasma?
+What criminal?=¿Qué criminal?
+Intrigued, huh? I don't mind sharing a few\ndetails, but...=¿Te intriga, eh? No me importa compartir algunos detalles, pero...
+Am I right to assume there's a bit of a\ndifference between the events of your world\nand ours?=¿Tengo razón al suponer que hay una ligera diferencia entre los eventos de tu mundo y el nuestro?
+There is. To my knowledge, the crime in\nquestion hasn't occurred in their world.=La hay. Hasta donde yo sé, el crimen en cuestión no ha ocurrido en su mundo.
+Interesting... That's a pretty significant\ndifference.=Interesante... Esa es una diferencia bastante significativa.
+It's a long story, but in short, the Phantom\nThieves and I are investigating the party\nresponsible.=Es una larga historia, pero en resumen, los Ladrones Fantasma y yo estamos investigando a los responsables.
+That's right. Crow's reasoning skills have\nbeen invaluable.=Así es. Las habilidades de razonamiento de Crow han sido invaluables.
+Thank you. You know, in many ways, your mind\nacts as a foil to my own.=Gracias. Sabes, en muchos sentidos, tu mente actúa como un contrapunto a la mía.
+I've thought this before, but...=Ya lo he pensado antes, pero...
+You two sure get along well!=¡Ustedes dos se llevan muy bien!
+Huh!? Did I say something weird!?=¿Eh? ¿¡Dije algo raro!?
+I think it's more like they're rivals.\nThe phantom thief against the ace detective,\nand all that...=Creo que es más como si fueran rivales. El Ladrón Fantasma contra el detective estrella, y todo eso...
+Hoohoo, isn't that just as well? Either way,\nthey'll be working together to escape this\nplace.=Hoohoo, ¿no está bien así? De todos modos, trabajarán juntos para escapar de este lugar.
+On that note, shall we get moving?=En ese sentido, ¿nos ponemos en marcha?
+We've already exchanged intel, so going on\ntalking won't be much help to our current\npredicament.=Ya intercambiamos información, así que seguir hablando no será de mucha ayuda para nuestra situación actual.
+You're right. Let's continue searching.\nWe'll be counting on you, Crow.=Tienes razón. Sigamos buscando. Contaremos contigo, Crow.
+Defeating that Shadow from before looks like\nit opened up a new area. Let's head there\nfirst!=Derrotar a esa Sombra de antes parece haber abierto una nueva zona. ¡Vamos allí primero!
+Thieves in Black and White=Ladrones en negro y blanco
+Okay. Let's check out the new path that\nopened up, Wonder.=Bien. Veamos el nuevo camino que se abrió, Wonder.
+Unusual Rebel Coin=Moneda Rebelde Inusual
+There's an electric fence in the way...\nLet's figure out how to disable it!=Hay una cerca eléctrica en el camino... ¡Vamos a averiguar cómo desactivarla!
+It seems as if we've found all there is to\nfind here.=Parece que ya hemos encontrado todo lo que había por encontrar aquí.
+Shall we move on then, Wonder?=Entonces, ¿seguimos adelante, Wonder?
+I need a minute.=Necesito un minuto.
+Warehouse=Almacén
+Is this some kind of warehouse? It's very\nspacious.=¿Esto es una especie de almacén? Es muy espacioso.
+A room this large must have multiple exits.\nWe'll have to be thorough to ensure we find\nthe correct route.=Una habitación tan grande debe tener varias salidas. Tendremos que ser minuciosos para asegurarnos de encontrar la ruta correcta.
+Agreed. There are likely enemies lurking in\nthe shadows as well. Let's stay alert.=De acuerdo. Probablemente haya enemigos acechando en las sombras también. Mantengámonos alerta.
+The group arrives at a maze-like warehouse. They begin seeking out powerful Shadows to defeat, hoping it will lead them to freedom.=El grupo llega a un almacén que parece un laberinto. Comienzan a buscar Sombras poderosas para derrotarlas, con la esperanza de que esto los lleve a la libertad.
+Wide, Winding Warehouse=Almacén Amplio y Sinuoso
+The electric fence seems to have powered\ndown.=La cerca eléctrica parece haberse apagado.
+If we climb down those shipping containers we\ncan probably reach the lower level.=Si bajamos por esos contenedores de envío, probablemente podamos llegar al nivel inferior.
+Splendid. Let's head down there for now.=Magnífico. Vamos a bajar allí por ahora.
+Jump, Jump, JUMP! Hehe, being\na phantom thief is pretty fun!=¡Salta, salta, SALTA! Jeje, ser un Ladrón Fantasma es bastante divertido!
+Perhaps the other switch\nmust be activated as well.\nLet's use that robot.=Quizás también haya que activar el otro interruptor. Usemos ese robot.
+That should do it. Well done,\nWonder!=Eso debería ser suficiente. ¡Bien hecho, Wonder!
+Hoom... The Shadow on guard looks quite\nstrong.=Hoom... La Sombra que está de guardia parece bastante fuerte.
+Ready as I'll ever be.=Listo como nunca antes.
+I need a bit more time.=Necesito un poco más de tiempo.
+As we suspected, this warehouse is rather\nvast, indeed.=Como sospechábamos, este almacén es bastante amplio, de hecho.
+We're too deep in for my nose to pick things\nup clearly, but I can sense an enemy\nsomewhere further ahead.=Estamos demasiado adentrados para que mi olfato capte las cosas con claridad, pero puedo sentir un enemigo en algún lugar más adelante.
+That would seem to suggest that we're on the\nright path. Mona and Cattle's senses are all\nwe have to go on right now anyway.=Eso parecería indicar que vamos por buen camino. De todos modos, los sentidos de Mona y Cattle son todo lo que tenemos para guiarnos por ahora.
+Then let's embrace the unknown and venture\nonward, shall we? Come along, Wonder.=Entonces abracemos lo desconocido y aventurémonos hacia adelante, ¿de acuerdo? Vamos, Wonder.
+Detective Prince Turns Detective Paladin=<size\=28>El Príncipe Detective se Convierte en Paladín Detective</size>
+Begin the event Crossroads of Fate: Laboratory Arc Part 2. =Inicia el evento Encrucijada del Destino: Arco del Laboratorio Parte 2. 
+Let's Run=Vamos a correr
+After many twists and turns, the group manages to exit the warehouse, only to find a Shadow lying in wait to ambush them. After praising Crow's exceptional fighting prowess, Mona tries to engage Lufel in one of their classic bouts of bickering, but something about Lufel's mood seems off...=Tras muchos giros y vueltas, el grupo logra salir del almacén, solo para encontrarse con una Sombra que los acecha para emboscarlos. Tras alabar la excepcional destreza de combate de Crow, Mona intenta entablar con Lufel una de sus clásicas discusiones, pero algo en el humor de Lufel parece fuera de lugar...
+An electric fence is in the\nway. Look for how to\ndeactivate it, Wonder.=Una cerca eléctrica está en el camino. Busca cómo desactivarla, Wonder.
+Deactivation complete.\nWell done, Wonder!\nNow we can proceed.=Desactivación completa. ¡Bien hecho, Wonder! Ahora podemos continuar.
+It appears to be locked. Let's look around\nfor a way to open it.=Parece estar bloqueado. Busquemos alrededor una forma de abrirlo.
+Not a bad result!=¡No es un mal resultado!
+Nya! There. It's another strong Shadow...=¡Nya! Allí. Es otra Sombra fuerte...
+Is that one of the enemies with a "powerful\naura" you were talking about?=¿Es ese uno de los enemigos con una "aura poderosa" de los que hablabas?
+Yes. We've found enemies like that stationed\nall over this place. To what end, I'm unsure.=Sí. Hemos encontrado enemigos así desplegados por todo este lugar. A qué fin, no lo sé.
+All over...? Perhaps they're acting as\nguardians of this world, thus impeding our\nprogress.=¿Por todas partes...? Tal vez estén actuando como guardianes de este mundo, obstaculizando nuestro progreso.
+A path does open up whenever we defeat one!\nTime to open another!=¡Se abre un camino cada vez que derrotamos a uno! ¡Es hora de abrir otro!
+Huh. That was a tough enemy after all.=Vaya. Ese fue un enemigo difícil después de todo.
+You didn't even break a sweat, Crow-senpai!=¡Ni siquiera sudaste, Crow‑senpai!
+It was a troublesome foe, but if you mind the\nflow of battle and exploit their weaknesses,\nthey're easily dispatched.=Era un enemigo problemático, pero si prestas atención al flujo de la batalla y aprovechas sus debilidades, son fácilmente derrotados.
+You're pretty reliable.=Eres bastante confiable.
+Way to go, Crow.=¡Bien hecho, Crow!
+Thank you. You're quite impressive yourself,\nWonder.=Gracias. Tú también eres bastante impresionante, Wonder.
+While I don't love your condescending\nexplanation of basic battle tactics, I have\nto admire your fighting sense, Crow.=Aunque no me gusta tu explicación condescendiente de tácticas de combate básicas, tengo que admirar tu sentido de la lucha, Crow.
+You only awakened your Persona just recently\nafter all.=Después de todo, despertaste a tu Persona hace muy poco.
+Thanks, Mona. I'll take that as a compliment.=Gracias, Mona. Lo tomaré como un cumplido.
+Crow-senpai is also new to this!? I've got\nto try harder then!=¿¡Crow-senpai también es nuevo en esto!? ¡Tengo que esforzarme más entonces!
+Let's go, Senpais!=¡Vamos, Senpai!
+Glad you didn't get hurt.=<size\=28>Me alegra que no te hayas lastimado.</color>
+S-Sorry. I got a little too excited there...=L-Lo siento. Me emocioné un poco de más...
+Heheh, it's good to be enthusiastic, just try\nnot to get yourself too wound up.=Jeje, es bueno estar entusiasmado, solo trata de no alterarte demasiado.
+That's right. We all know you work harder\nthan anyone.=Así es. Todos sabemos que te esfuerzas más que nadie.
+We don't know how long it'll take us to get\nout of here, so don't forget to pace yourself.=No sabemos cuánto tiempo nos tomará salir de aquí, así que no olvides ir a tu propio ritmo.
+Senpais...=Senpais...
+I'm still a beginner too.=<size\=28>Yo también sigo siendo principiante.</color>
+Thank you! I'll do my best not to get ahead\nof myself!=¡Gracias! ¡Haré todo lo posible para no dejarme llevar!
+That's the spirit. Now, shall we continue\nexploring?=Esa es la actitud. Ahora, ¿seguimos explorando?
+Hey! I was gonna say that! Stop stealing my\nlines, you shrouded wraith!=¡Oye! ¡Yo iba a decir eso! ¡Deja de robarme el protagonismo, espectro encapuchado!
+Oh, you were? Apologies.=Ah, ¿lo estabas? Mis disculpas.
+Yes. I. Was! You fricken'... Hang on.=¡Sí! ¡Lo! ¡Estaba! Tú, maldito... Espera un momento.
+What's wrong? Why aren't you fighting back?=¿Qué pasa? ¿Por qué no te defiendes?
+Wait, shrouded wraith!? Why you infernal\nphony feline!=¡Espera, ¿¡espectro encapuchado!? ¡Maldito felino de pacotilla!
+You only noticed that now!?=¿¡Recién ahora te das cuenta!?
+Violet, ask them who's getting overexcited\nnow.=Violet, pregúntales quién es el que se está emocionando de más ahora.
+Ahahaha...=¡ajajaja...!
+Desire for Escape=Deseo de Escapar
+The group comes across a monitoring room where they decide to take a break to ease Violet's fatigue. Violet's convinced that she's to blame for everyone getting trapped in the Palace because of her desire to escape from reality, but kind words from Joker, Wonder, and the others inspire her to be more accepting of herself.=El grupo se topa con una sala de monitoreo donde deciden tomar un descanso para aliviar la fatiga de Violet. Violet está convencida de que ella tiene la culpa de que todos se hayan quedado atrapados en el Palacio debido a su deseo de escapar de la realidad, pero las amables palabras de Joker, Wonder y los demás la inspiran a aceptarse más a sí misma.
+Monitoring Room=Sala de monitoreo
+Use to receive a random Space Revelation Card of the same color.=Usa para recibir una carta de Revelación Espacial aleatoria del mismo color.
+Violet, are you all right? You're lagging\nbehind a bit.=Violet, ¿estás bien? Te estás quedando un poco atrás.
+Uh, yes! I'm totally...=¡Ah, sí! Estoy totalmente...
+Maybe I shouldn't be putting on a brave face.\nNot when I'm surrounded by so many reliable\nsenpais.=Tal vez no debería fingir que soy fuerte. No cuando estoy rodeada de senpais tan confiables.
+Sorry, would it be all right with everyone if\nwe took a short break?=Disculpen, ¿les parece bien a todos si tomamos un breve descanso?
+Thank you. I appreciate it.=Gracias. Lo agradezco.
+Don't hesitate to ask.=No dudes en preguntar.
+I could use a break too.=<size\=24>A mí también me vendría bien un descanso.</color>
+I'm sorry I didn't realize. Of course we can\ntake a break.=Lo siento, no me di cuenta. Por supuesto podemos tomar un descanso.
+I could be wrong but, Violet, your\nexhaustion...=Podría estar equivocado, pero, Violet, tu agotamiento...
+...isn't just from battle fatigue, is it?=...no es solo por el cansancio de la batalla, ¿verdad?
+There's Crow for you. Guess you can't fool\na detective...=Típico de Crow. Supongo que no se puede engañar a un detective...
+Um, could I talk to you guys about something\nfor a bit?=Ehm, ¿podría hablar con ustedes sobre algo por un momento?
+Take all the time you need.=Tómate todo el tiempo que necesites.
+Agreed. I don't sense any Shadows around, so\nwhy don't we take a seat and have a chat?=De acuerdo. No percibo ninguna Sombra cerca, así que ¿por qué no nos sentamos y charlamos un poco?
+Um, could I talk to you guys about something\nfor a bit?=Um, ¿puedo hablarles de algo un momento?
+It will give us a chance to recover our\nstrength too. Let's take a break here.=También nos dará la oportunidad de recuperar nuestra fuerza. Tomemos un descanso aquí.
+*sigh* I feel a bit calmer.=*suspiro* Me siento un poco más tranquila.
+I know it's odd saying I feel calm in the\nMetaverse...=Sé que es raro decir que me siento tranquila en el Metaverso...
+I wish there were a safe room, but I'm glad\nyou're able to feel at least a bit more\nrelaxed.=Ojalá hubiera una habitación segura, pero me alegra que puedas sentirte al menos un poco más relajada.
+So Violet, what did you want to talk about?=Entonces, Violet, ¿de qué querías hablar?
+Well, I was thinking about why Crow-senpai\nand I might have been brought here.=Bueno, estaba pensando en por qué Crow‑senpai y yo podríamos haber sido traídos aquí.
+And you think you've figured out the reason?=¿Y crees haber descubierto la razón?
+Yes. I mean, I could be completely off base,\nbut...=Sí. Quiero decir, podría estar totalmente equivocada, pero...
+Let's figure it out together.=Descubrámoslo juntos.
+You can tell us.=Puedes contárnoslo.
+Thank you. It's sort of hard to admit, but...=Gracias. Es un poco difícil admitirlo, pero...
+I think I'm the reason you've all been\ndragged into this.=Creo que soy la razón por la que todos han sido arrastrados a esto.
+Remember what I mentioned earlier? About the\nanxieties I'm facing right now...=¿Recuerdas lo que mencioné antes? Sobre las ansiedades que estoy enfrentando ahora...
+I've just been wishing I could run away from\nit all.=Solo he estado deseando poder escapar de todo.
+It's those feelings that led me here. It's\nwhy I think it's my fault that you're all\nhere...=Son esos sentimientos los que me trajeron aquí. Es por eso que creo que es mi culpa que todos estén aquí.
+I can't face reality. I just want to run from\neverything... I think that feeling must've\ntrapped us here.=No puedo enfrentar la realidad. Solo quiero huir de todo... Creo que esa sensación nos debe haber atrapado aquí.
+But, wait... How could a feeling lead to us\ngetting stuck in another world?=Pero, espera... ¿Cómo podría un sentimiento llevarnos a quedarnos atrapados en otro mundo?
+It's not impossible. Like this place itself,\neven if we think it shouldn't possibly exist,\nhere we are standing in it.=No es imposible. Al igual que este lugar, aunque pensemos que no debería existir, aquí estamos.
+The desire to escape reality... Hoom...=El deseo de escapar de la realidad... Hoom...
+Was I subconsciously wishing to escape that\nnightmare?=¿Acaso deseaba subconsciente escapar de esa pesadilla?
+Not that I think I have that kind of power,\nbut I'm sure the only one of us consumed with\nthoughts of escape is me.=No es que crea que tengo ese tipo de poder, pero estoy seguro de que el único de nosotros consumido por pensamientos de escape soy yo.
+And looking back, the Shadows here keep\nsaying things about running away and escape.=Y si lo piensas, las Sombras de aquí no dejan de decir cosas sobre huir y escapar.
+I guess you have a point there.=Supongo que tienes razón ahí.
+It's like my refusal to face reality led us\nto this place.=Es como si mi rechazo a la realidad nos hubiera arrastrado a este lugar.
+I know I just have to face these things\nhead-on, but... I'm such a coward.=Sé que solo tengo que enfrentar estas cosas de frente, pero... soy tan cobarde.
+What makes running away so bad?=¿Qué tiene de malo huir?
+I think it's fine to run away.=Creo que está bien huir.
+Well, you know...=Bueno, ya sabes...
+What? But I'm actively avoiding my\nresponsibilities.=¿Qué? Pero estoy evitando activamente mis responsabilidades.
+What I really should be doing is facing them\nhead-on.=Lo que realmente debería estar haciendo es enfrentarlos de frente.
+It's like I have all these things I need to\ndo that I'm just ignoring...=Es como si tuviera todas esas cosas que debo hacer y simplemente las estuviera ignorando...
+I've also run away from things.=Yo también he huido de algunas cosas.
+You have?=¿Tú también?
+I was forced to bear the burden of a crime I\ndidn't commit. Then my life as I knew it was\nstolen from me too.=Me obligaron a cargar con la culpa de un crimen que no cometí. Luego, mi vida tal como la conocía también me fue arrebatada.
+But if I hadn't tried to escape from those\naccusations, I wouldn't be where I am now.=Pero si no hubiera intentado escapar de esas acusaciones, no estaría donde estoy ahora.
+So sometimes running away is the right thing\nto do...?=¿Entonces, a veces huir es lo correcto...?
+Exactly! Being phantom thieves means we got\npeople chasin' after us all the time, right?=¡Exacto! Ser ladrones fantasma significa que tenemos gente persiguiéndonos todo el tiempo, ¿no?
+So we run, dash, and skedaddle away from the\nforces that try to steal our freedom, because\nthat's who we are!=Así que corremos, nos lanzamos y nos escapamos de las fuerzas que intentan robar nuestra libertad, ¡porque así somos!
+Joker-senpai, Mona-senpai...=Joker-senpai, Mona-senpai...
+Running away isn't always a bad thing.=Huir no siempre es algo malo.
+It's a desire for personal growth.=Es un deseo de crecimiento personal.
+It's a longing for somewhere new.=Es un anhelo por un lugar nuevo.
+Wonder is right.=Wonder tiene razón.
+If you tolerate injustice instead of fighting\nback, you just end up killing your own\nspirit.=Si toleras la injusticia en lugar de contraatacar, solo acabarás matando tu propio espíritu.
+If I didn't choose to escape, I wouldn't have\nbeen able to change anything.=Si no hubiera elegido escapar, no habría podido cambiar nada.
+It takes strength and courage to leave behind\nthe life you know. That's why running away\nis neither easy nor cowardly.=Se necesita fuerza y coraje para dejar atrás la vida que conoces. Por eso, huir no es algo fácil ni de cobardes.
+Crow-senpai...=Crow-senpai...
+Thank you, everyone!=¡Gracias a todos!
+Wait a minute...=Espera un momento...
+If the desire to escape is what brought you\nto this world, could the same be true for me?=Si el deseo de escapar es lo que te trajo a este mundo, ¿podría ser lo mismo para mí?
+No! I definitely didn't mean to imply—!\nI mean, I can't imagine you running from\nanything!=¡No! Definitivamente no quise insinuar—! Quiero decir, no puedo imaginar que huyas de algo.
+Haha, I was only joking.=Jaja, solo estaba bromeando.
+Running away demonstrates a human's desire\nor hope for their life to change.=Huir demuestra el deseo o la esperanza de una persona de que su vida cambie.
+Therefore, one could say that running away is\na valid expression of the "desire to escape."=Por lo tanto, se podría decir que huir es una expresión válida del "deseo de escapar".
+I never allowed myself to think running away\nwas okay.=Nunca me permití pensar que huir estaba bien.
+I always told myself I had to face things, to\nfigure them out somehow, like that was the\nonly option.=Siempre me dije que tenía que enfrentar las cosas, descubrirlas de alguna manera, como si esa fuera la única opción.
+But it's okay... to run away.=Pero está bien... huir.
+Violet seems like a weight\nhas been lifted off her...=Parece que a Violet se le\nhubiera quitado un gran\npeso de encima...
+Running away...=Huir...
+What are you thinking about?=¿En qué estás pensando?
+Just thinking about what it would mean if\nher theory about this place is correct.=Solo estoy pensando en lo que significaría si su teoría sobre este lugar es correcta.
+I'm not consciously running from anything,\nbut... what about subconsciously?=No estoy huyendo de nada conscientemente, pero... ¿y de forma subconsciente?
+So you realized what you're running from?=¿Entonces te diste cuenta de lo que estás huyendo?
+Maybe I did, maybe I didn't.=Tal vez lo hice, tal vez no.
+Either way, I wouldn't tell you all.=De cualquier forma, no te lo diría todo.
+You can't leave us hanging like that.\nTell us.=No puedes dejarnos colgados así. Dinos.
+But once we escape, we'll lose our memories\nof this anyway. Not much point in sharing\nthen, is there?=Pero una vez que escapemos, perderemos nuestros recuerdos de esto de todos modos. No tiene mucho sentido compartirlo entonces, ¿verdad?
+I guess that's true... Speaking of escape,\nI think we ought to make getting out of this\nfake Palace our top priority.=Supongo que es verdad... Hablando de escapar, creo que deberíamos hacer de salir de este Palacio falso nuestra máxima prioridad.
+I detect the presence of more formidable\nadversaries ahead.=Detecto la presencia de adversarios más formidables adelante.
+If we "desire to escape" from this place,\nI recommend we proceed apace.=Si "deseamos escapar" de este lugar, recomiendo que avancemos rápidamente.
+Settle down, Wordsworth, we get it.\nYour whole vibe screams "flight risk."=Relájate un poco, poetiso, ya te captamos. Toda tu actitud apesta a "ganas de salir corriendo".
+What was that!? You bogus bobcat!=¿¡Qué Dijiste!? ¡Gato callejero de pacotilla!
+There they go again...=Allí van otra vez...
+At least Lufel seems like he's\nin a better mood than before.=Al menos Lufel parece estar\nde mejor humor que antes.
+Um, I thought this earlier too, but...=Mmm, ya lo había pensado antes, pero...
+Mona and Lufel=Mona y Lufel
+You two seem like really good friends!=¡Ustedes dos parecen muy buenos amigos!
+WE'RE NOT FRIENDS!=¡NO SOMOS AMIGOS!
+Well, I suppose break time's over. Shall we\nget going?=Bueno, supongo que el descanso terminó. ¿Nos ponemos en marcha?
+Yeah, let's move!=¡Sí, en marcha!
+Touching that light causes\nmental interference.\nWe should use a robot.=Tocar esa luz causa interferencia mental. Deberíamos usar un robot.
+The area back there is blocked off by the\nelectric fence.=La zona de atrás está bloqueada por la cerca eléctrica.
+This door won't respond to any input. Do you\nthink there's an unlocking mechanism\nsomewhere?=Esta puerta no responde a ninguna señal. ¿Crees que hay algún mecanismo de desbloqueo por ahí?
+It seems it would do us good to search\nanother area first. Lead the way, Wonder.=Parece que nos vendría bien investigar otra zona primero. Guíanos, Wonder.
+It seems we can't move forward until we\ndefeat this Shadow...=Parece que no podemos avanzar hasta que derrotemos a esta Sombra...
+Are you prepared, Wonder!?=¿¡Estás preparado, Wonder!?
+I sense the Shadow that lies ahead is\npowerful.=Siento que la Sombra que está por delante es poderosa.
+Are you ready to fight, Wonder?=¿Estás listo para luchar, Wonder?
+I want time to prepare.=Quiero tiempo para prepararme.
+Ready and raring to go.=<size\=27>Listo y con muchas ganas de papearlos.</color>
+Ceaseless Search=Búsqueda Incansable
+While scouring every nook and cranny of the monitoring room, the group discovers a peculiar passphrase. It turns out to be the key to unlocking a particular door that leads them deeper into the Palace.=Mientras registran cada rincón de la sala de monitoreo, el grupo descubre una frase de contraseña peculiar. Resulta ser la contraseña para abrir una puerta específica que los lleva a lo más profundo del Palacio.
+Laboratory Arc Part 2=Arco del Laboratorio Parte 2
+The electric fence over there seems to have\ndeactivated. Shall we head that way then?=La cerca eléctrica de allí parece haberse desactivado. ¿Vamos por ese camino entonces?
+It's a new area, so stay on your toes.\nAnd don't forget to be on the look out\nfor treasure!=Es una zona nueva, así que manténganse alerta. ¡Y no olviden estar atentos por si encuentran algún tesoro!
+This doesn't look like a normal door. It may\nuse some kind of electronic lock.=Esto no parece una puerta normal. Puede que use algún tipo de cerradura electrónica.
+The higher level of security for this door\nmust mean there's something important\nbehind it.=El mayor nivel de seguridad de esta puerta debe significar que hay algo importante detrás de ella.
+Like a way for us to escape, perhaps?\nIf that's the case, we'll have to do\nwhatever's necessary to get it open.=¿Como una forma de escapar, tal vez? Si ese es el caso, tendremos que hacer lo que sea necesario para abrirlo.
+There's an odd sound coming from this room.\nA sort of buzzing, like an electrical current.=Hay un sonido extraño que proviene de esta habitación. Una especie de zumbido, como una corriente eléctrica.
+I'm not sure what could be making that sound,\nbut it's worth investigating. Let's try to\nopen the door.=No estoy seguro de qué podría estar haciendo ese sonido, pero vale la pena investigarlo. Intentemos abrir la puerta.
+Hey, lemur brains. After all the locked doors\nwe've come across, you think this one will\njust miraculously open?=Oigan, cerebros de lémur. Después de todas las puertas cerradas que hemos encontrado, ¿crees que esta se abrirá milagrosamente?
+O-Of course not! What I meant was, let's look\naround for a way to get the door open!=¡P-Por supuesto que no! ¡Lo que quería decir es que busquemos por aquí alguna forma de abrir la puerta!
+It looks like that Shadow is guarding a\nswitch.=Parece que esa Sombra está custodiando un interruptor.
+I bet that switch unlocks a door, but we'll\nhave to fight to get to it.=Apuesto a que ese interruptor abre una puerta, pero tendremos que luchar para llegar a ella.
+Then that leaves us no other choice. Prepare\nfor battle, Wonder!=Entonces eso nos deja sin otra opción. ¡Prepárate para la batalla, Wonder!
+Ah! That screen just turned on by itself!=¡Ah! Esa pantalla se encendió sola.
+...lies joyous escape...=...yace una escapatoria alegre...
+Joyous escape? What the heck is it saying?=¿Escapatoria alegre? ¿Qué demonios está diciendo?
+Perhaps the phrase has some significance?\nAnyhoo, let's keep looking around, Wonder.=¿Quizá la frase tenga algún significado? En fin, sigamos buscando, Wonder.
+Beyond the world of dreams...=Más allá del mundo de los sueños...
+Ah! The door just spoke!=¡Ah! ¡La puerta acaba de hablar!
+It sounded like the monitor from before.\nIs there a connection between them?=Sonó como el monitor de antes. ¿Hay alguna conexión entre ellos?
+Possibly. For instance... the phrase we heard\nearlier could be a password that unlocks\nthe door.=Posiblemente. Por ejemplo... la frase que escuchamos antes podría ser una contraseña que abre la puerta.
+I see... So it's a voice-activated lock.\nWonder, do you remember the passphrase?=Ya veo... Así que es una cerradura activada por voz. Wonder, ¿recuerdas la contraseña?
+Whoa! It opened! Score one for Crow's\ndeduction and Wonder's memory!=¡Guau! ¡Se abrió! ¡Un punto para la deducción de Crow y la memoria de Wonder!
+All right, let's keep moving.=Muy bien, sigamos avanzando.
+I sense a powerful aura from the Shadow\nbefore us.=Percibo una aura poderosa de la Sombra delante de nosotros.
+This fight should mark the end of our\nexploration here.=Esta pelea debería marcar el fin de nuestra exploración aquí.
+What do you think, Wonder? Are you prepared\nfor battle?=¿Qué piensas, Wonder? ¿Estás preparado para la batalla?
+I want to prepare first.=Quiero prepararme primero.
+Anxieties flare up among the Phantom Thieves as they continue through the laboratory-like Palace. Without the presence of a Core, the group racks their brains to find a new method of escape.=Las ansiedades aumentan entre los Ladrones Fantasma mientras continúan por el Palacio con aspecto de laboratorio. Sin la presencia de un Núcleo, el grupo se esfuerza por encontrar un nuevo método de escape.
+How Do We Get Out This Time?=¿Cómo Salimos Esta Vez?
+Research Ward=Sala de Investigación
+This area's pretty spacious.=Esta zona es bastante espaciosa.
+Yeah. And the deeper we get into this place,\nthe more strong Shadows I sense nearby.=Sí. Y cuanto más nos adentramos en este lugar, más Sombras fuertes percibo cerca.
+We may uncover some clues about how to escape\nhere. Let's go, Wonder.=Podríamos descubrir algunas pistas sobre cómo escapar de aquí. Vamos, Wonder.
+This door is locked. Let's search for a way\nto get it open.=Esta puerta está cerrada con llave. Busquemos una forma de abrirla.
+I believe this is the third\nfloor. It's larger than it\nlooks like from the outside.=Creo que este es el tercer piso. Es más grande de lo que parece desde el exterior.
+Oh! There's another one of those special\ndoors over there!=¡Oh! ¡Hay otra de esas puertas especiales allí!
+I suppose we'll need to look for another\npassphrase to get it open.=Supongo que tendremos que buscar otra contraseña para abrirlo.
+But I want to track down that powerful Shadow\nwe sensed ASAP...=Pero quiero rastrear a esa Sombra poderosa que sentimos lo antes posible...
+Well, a journey of a thousand miles starts\nwith a single step. Let's search for both the\nShadow and a way to unlock the door.=Bueno, un viaje de mil kilómetros comienza con un solo paso. Busquemos tanto a la Sombra como una forma de abrir la puerta.
+There it is. The special Shadow we were\nsensing.=Ahí está. La Sombra especial que estábamos percibiendo.
+Defeating that Shadow will bring us closer\nto the way out... right?=Derrotar a esa Sombra nos acercará a la salida... ¿cierto?
+Probably. But this is an unprecedented means\nof escape we're attempting here.=Probablemente. Pero esto es un medio de escape sin precedentes que estamos intentando aquí.
+We just gotta have faith.=Solo tenemos que tener fe.
+I'm sure it'll work.=Estoy seguro de que funcionará.
+I see no other options available as of now,\nso all we can do is try.=No veo otras opciones disponibles por ahora, así que lo único que podemos hacer es intentar.
+Plus the number of strong enemies around is\nshrinking. I have to think that means we're\nmaking progress.=Además, la cantidad de enemigos fuertes alrededor está disminuyendo. Supongo que eso significa que estamos avanzando.
+Nice! We cleaned those guys up good.=¡Bien! Les dimos una buena paliza a esos tipos.
+Indeed we did. I only sense a few strong\nShadows remaining.=En efecto, lo hicimos. Solo percibo unas pocas Sombras fuertes restantes.
+That means...=Eso significa...
+If we defeat them, we can escape?=¿Si los derrotamos, podemos escapar?
+They'll act like the Palace's Core?=¿Actuarán como el Núcleo del Palacio?
+Probably, right!? Hearing we're getting close\nto the end makes me feel a little nervous.=¡Probablemente, ¿cierto?! Escuchar que nos acercamos al final me pone un poco nerviosa.
+Don't worry. As long as we fight together,\nthere's no enemy we can't defeat.=No te preocupes. Mientras luchemos juntos, no hay enemigo que no podamos derrotar.
+Crow, are you with us?=Crow, ¿estás con nosotros?
+Yes, I'm good to go.=Sí, estoy listo para continuar.
+But what?=¿Pero qué?
+Forget it. It's nothing. Let's keep moving.=Olvídalo. No es nada. Sigamos avanzando.
+Down the Hidden Path=Por el Camino Oculto
+Having defeated another strong Shadow, only to gain no clues toward their escape, the group discovers a hidden path thanks to Crow's keen observations. They find their way to another special door that takes them further into the Palace.=Habiendo derrotado a otra Sombra poderosa, solo para no obtener pistas sobre su escape, el grupo descubre un camino oculto gracias a las agudas observaciones de Crow. Encuentran el camino hacia otra puerta especial que los lleva más adentro del Palacio.
+After we defeated that strong Shadow, I felt\nanother powerful presence emerge.=Después de derrotar a esa Sombra fuerte, sentí que surgía otra presencia poderosa.
+I did too. Problem is, it's coming from a\nlower level. We'll have to get down there\nsomehow.=Yo también. El problema es que proviene de un nivel inferior. Tendremos que bajar allí de alguna manera.
+Perhaps there may be an alternative route to\nthe one we came from.=Quizá haya una ruta alternativa a la que vinimos.
+If we made use of that protrusion over there,\nwe may be able to reach a new area.=Si aprovechamos ese saliente de allí, es posible que podamos llegar a una zona nueva.
+Hoohoo, what an excellent idea. Let's try it,\nWonder.=Hoohoo, qué excelente idea. Intentémoslo, Wonder.
+*gasp* That was really loud, wasn't it?\nDo you think the Shadow noticed?=*jadeo* Eso ha sido muy ruidoso, ¿no? ¿Crees que la Sombra se ha dado cuenta?
+Looks that way. But fortunately, it seems\nunaware of our current location.=Eso parece. Pero afortunadamente, parece que no conoce nuestra ubicación actual.
+Then this is our chance. Wonder, let's get\ndown there and defeat the enemy!=Entonces esta es nuestra oportunidad. Wonder, ¡bajemos allí y derrotemos al enemigo!
+....brings relief from pain...=...trae alivio al dolor...
+This phrase... It must be another password.\nLet's check out the door, Wonder.=Esta frase... Debe ser otra contraseña. Vamos a revisar la puerta, Wonder.
+Wha—!? Is this many electric fences really\nnecessary!?=¿¡Qué ca—!? ¿¡Realmente son necesarios tantos cercos eléctricos!?
+They're blocking the way to the door.\nWe'll have to shut them down to get to it.=Están bloqueando el camino a la puerta. Tendremos que desactivarlos para llegar a ella.
+There's a robot over there! What if we use it\nto disable the fences?=¡Hay un robot allí! ¿Y si lo usamos para desactivar las cercas?
+That sounds like a solid plan. Wonder, we'll\nleave control of the robot up to you.=Eso suena como un plan sólido. Wonder, dejaremos el control del robot en tus manos.
+Dissociation from reality...=Disociación de la realidad...
+I don't understand what this is suppose to\nmean... What kind of password is this?=No entiendo qué se supone que significa esto... ¿Qué tipo de contraseña es esta?
+Perhaps it's trying to teach us some profound\nrevelation or something. How ominous.=Quizá está intentando enseñarnos alguna revelación profunda o algo así. Qué inquietante.
+Anyway, we should respond with the\npassphrase. Wonder, if you wouldn't mind.=De todos modos, deberíamos responder con la contraseña. Wonder, si no te importa.
+A Peculiar Place=Un Lugar Peculiar
+The group continues to face stronger and more powerful enemies. They find themselves in an area resembling a clinic for treating patients, calling into question just what kind of place the Palace is meant represent. Amid these uncertainties, the Phantoms Thieves continue searching for a way out.=El grupo continúa enfrentándose a enemigos cada vez más fuertes y poderosos. Se encuentran en una zona que parece una clínica para tratar pacientes, lo que los lleva a cuestionarse qué clase de lugar se supone que representa el Palacio. Entre estas incertidumbres, los Ladrones Fantasma continúan buscando una salida.
+Counselling Room=Sala de Consejería
+This place is kind of scary... That glowing\ndoor over there is especially creepy...=Este lugar es algo aterrador... Esa puerta luminosa allá es especialmente espeluznante...
+I see what you mean. I can't image what this\nPalace is meant to be emulating.=Entiendo a lo que te refieres. No puedo imaginar qué está tratando de emular este Palacio.
+No point racking our brains about it. Let's\nkeep moving forward. The enemies here seem\nstronger too, so be careful.=No tiene sentido darles tantas vueltas. Sigamos adelante. Los enemigos por aquí parecen más fuertes, así que tengan cuidado.
+Fools... You know nothing of\nthe bliss of escape...=Tontos... No saben nada de la dicha del escape...
+Accept it... Let your dreams last forever...=Acéptalo... Que tus sueños duren para siempre...
+My heart is uneasy... Could this be some omen?=Mi corazón está inquieto... ¿Podría ser algún presagio?
+Isn't happiness for all... the most important thing?=¿No es la felicidad de todos... lo más importante?
+My master's ideals are also my own.=Los ideales de mi maestro también son míos.
+You shall not interfere in dreams...=No interferirás en los sueños...
+I hope this peace can last...=Espero que esta paz pueda durar...
+This door won't open.\nWe should look nearby\nfor a way to unlock it.=Esta puerta no se abre. Deberíamos buscar cerca una forma de desbloquearla.
+Tsk, there's a Shadow guarding the switch.\nWe'll have to take it down.=Tsk, hay una Sombra custodiando el interruptor. Tendremos que eliminarla.
+What do you think, Wonder? Are you ready for\na fight?=¿Qué piensas, Wonder? ¿Estás listo para una pelea?
+Let me take a sec to prepare.=Déjame tomar un segundo para prepararme.
+I'm ready whenever.=Estoy listo cuando sea.
+Maybe the switch on the other side needs to\nbe stepped on at the same time... Let's get\nto it, Wonder.=Tal vez el interruptor del otro lado deba pisarse al mismo tiempo... Vamos a ello, Wonder.
+Mot=Mot
+Alilat=Alilat
+Nya! There's another weird Shadow. Not sure\nif it's the one that'll lead to our escape,\nbut...=¡Nya! Hay otra Sombra extraña. No estoy seguro de si es la que nos guiará a nuestra escapatoria, pero...
+Since we're stuck in here, we can't just\nleave it be. Come on, we're takin' it out!=Ya que estamos atrapados aquí, no podemos simplemente dejarlo pasar. ¡Acabemos con él!
+Are you prepared to battle, Wonder?=¿Estás preparado para la batalla, Wonder?
+I need time to get ready.=<size\=30>Necesito tiempo para prepararme.</color>
+We did it. But I still sense something\nstrange in this area.=Lo logramos. Pero todavía percibo algo extraño en esta zona.
+Well then, why don't we take a look around?\nIt might lead us closer to getting out of\nhere!=Bien, entonces, ¿por qué no echamos un vistazo? ¡Podría acercarnos más a salir de aquí!
+Do you want to use the following to perform The Detective Prince 1 times?=¿Quieres usar lo siguiente para ejecutar The Detective Prince 1 vez?
+The group hurries to gather more passphrases to unlock the special doors leading to the heart of the Palace. All the while, the question lingers... What is the truth behind this place?=El grupo se apresura a reunir más contraseñas para abrir las puertas especiales que conducen al corazón del Palacio. Mientras tanto, la pregunta persiste... ¿Cuál es la verdad detrás de este lugar?
+The Truth Coming Into Focus=La Verdad Saliendo a la Luz
+tnxotb-[Skill_descSimple_136140]=tnxotb-[Skill_descSimple_136140]
+Ugh... We've searched everywhere and I still\ncan't figure out what's off about this area.=Ugh... Hemos buscado por todas partes y todavía no puedo entender qué está mal en esta zona.
+There must be something we've missed.\nA hidden passageway, for example.=Debe haber algo que se nos haya escapado. Un pasadizo oculto, por ejemplo.
+I see... I hadn't considered that. Let's try\nlooking for a hidden path.=Ya veo... No había considerado eso. Intentemos buscar un camino oculto.
+The door won't open.\nLet's find another way.=La puerta no se abre. Busquemos otro camino.
+Wow! I didn't think there would be paths up\nhere too!=¡Guau! ¡No pensé que también habría caminos por aquí arriba!
+Looks like there's a switch over there.\nI think it's safe to assume it'll prove\nuseful in someway.=Parece que hay un interruptor por allá. Creo que podemos asumir que será útil de alguna manera.
+I concur. It does seem like that is the only\npath forward, so we should head toward it.=Estoy de acuerdo. Parece que ese es el único camino adelante, así que deberíamos dirigirnos hacia él.
+However, that electric fence is in the way...\nFirst let's find a way to power that down,\nWonder.=Sin embargo, esa cerca eléctrica está en el camino... Primero, busquemos una forma de apagarla, Wonder.
+Oh, the switch opened a door! Looks like we\nfound our way forward!=¡Oh, el interruptor abrió una puerta! Parece que encontramos el camino adelante!
+Let's go check out where it leads!=¡Vamos a ver a dónde lleva!
+Be careful. I sense a powerful enemy Shadow.\nStay on your guard.=Tengan cuidado. Siento la presencia de una Sombra enemiga poderosa. Manténganse alerta.
+This Shadow's gonna get in our way too then,\nhuh? We're gonna have to fight.=Entonces esta Sombra también se pondrá en nuestro camino, ¿eh? Tendremos que luchar.
+Are you good to go, Wonder?=¿Estás listo, Wonder?
+I want to prepare.=Quiero prepararme.
+...acceptance, the only solution...=...aceptación, la única solución...
+Another passphrase? I'm not sure what it\nmeans, but let's try using it to unlock that\nlarge door.=¿Otra contraseña? No estoy seguro de lo que significa, pero probemos usarla para abrir esa gran puerta.
+Escape, the only true reality...=Escape, la única realidad verdadera...
+"Escape"? That word keeps popping up...="¿Escape?" Esa palabra sigue apareciendo...
+It's intriguing, but we shouldn't think about\nit too hard. Let's focus on moving forward so\nwe can get out of here.=Es intrigante, pero no deberíamos darle demasiada vueltas. Concentrémonos en seguir adelante para poder salir de aquí.
+I believe this may be the last door we need\nto open. Wonder, the passphrase, please.=Creo que esta podría ser la última puerta que necesitamos abrir. Wonder, la contraseña, por favor.
+Excellent! It was a long road getting this\nfar, so why don't we take a break before\nproceeding?=¡Excelente! Ha sido un largo camino llegar hasta aquí, así que ¿por qué no tomamos un descanso antes de continuar?
+The Birth of a New Desire=El Nacimiento de un Nuevo Deseo
+The Phantom Thieves realize that the key to escaping the Palace was not stealing the Core, but embracing desire. They accept their desire to escape as representing a hope to change themselves and their circumstances. This ultimately reveals the Palace's exit, allowing them to leave. Witnessing this, Crow theorizes that the mastermind behind creating these Palaces aims to link the two worlds that each set of Phantom Thieves reside in.=Los Ladrones Fantasma se dan cuenta de que la clave para escapar del Palacio no era robar el Núcleo, sino abrazar el deseo. Aceptan su deseo de escapar como una representación de la esperanza de cambiarse a sí mismos y a sus circunstancias. Esto finalmente revela la salida del Palacio, permitiéndoles irse. Al presenciar esto, Crow teoriza que la mente maestra detrás de la creación de estos Palacios busca vincular los dos mundos en los que reside cada grupo de Ladrones Fantasma.
+I sense an abnormal presence... It's highly\nprobable that the entity who created this\nfalse Palace lies ahead.=Siento una presencia anormal... Es muy probable que la entidad que creó este falso Palacio esté adelante.
+Yeah, I can smell it from here. Seems pretty\ntough too. Gonna have to go all out on this\none.=Sí, lo huelo desde aquí. También parece bastante difícil. Tendré que darlo todo en esta.
+You think this Shadow serves as the Core of\nthis Palace?=¿Crees que esta Sombra sirve como el Núcleo de este Palacio?
+Correct. The reason being that there are no\nauras comparable to that of a Core here, and\nno other strong Shadows either.=Correcto. La razón es que aquí no hay auras comparables a la de un Núcleo, y tampoco hay otras Sombras fuertes.
+Let's defeat it and escape.=Derrotémoslo y escapemos.
+Can we get this show on the road?=¿Podemos poner este espectáculo en marcha?
+Wait. Before we do this... I want to confirm\nsomething.=Espera. Antes de que hagamos esto... quiero confirmar algo.
+Violet, are you okay with this?=Violet, ¿estás de acuerda con esto?
+Huh? Why are you asking me...?=¿Eh? ¿Por qué me preguntas a mí...?
+S-Sorry, I'm just not sure what you're\nasking...=L-Lo siento, es que no estoy segura de lo que me estás preguntando...
+Once we defeat this enemy, we'll be able to\nleave and go back to the real world.=Una vez que derrotemos a este enemigo, podremos irnos y regresar al mundo real.
+But isn't that exactly what you've wanted\nto avoid?=¿Pero no es eso exactamente lo que has querido evitar?
+It's okay.=Está bien.
+I wanted to escape. From reality, from the\npressure, from a lot of other things too...=Quería escapar. De la realidad, de la presión, de muchas otras cosas también...
+But now I know that it's okay to run away.=Pero ahora sé que está bien huir.
+I use to think it was unacceptable.\nNow that I can take that pressure\noff myself, I feel...=Solía pensar que era inaceptable. Ahora que puedo quitarme esa presión, me siento...
+...so much stronger!=...¡mucho más fuerte!
+So even though reality bites, I won't let it\nkeep me down!=¡Aunque la realidad sea dura, no dejaré que me derribe!
+Heh.=Hum.
+Violet seems filled with a\nrenewed passion for life!=¡Parece que Violet se ha llenado de\nuna pasión renovada por la vida!
+Well, you seem like you're feeling better.=Bueno, parece que te sientes mejor.
+Yeah, Violet. You're so lively it's spreading\nto the rest of us!=¡Sí, Violet! ¡Estás tan animada que se nos está contagiando a los demás!
+Just knowing she has the option to run helped\nassuage her anxieties?=¿Saber que tiene la opción de huir ayudó a calmar sus ansiedades?
+Cattle's got pep back in his step.=Cattle vuelve a andar con energía.
+You seem happier too, Cattle.=También pareces más feliz, Cattle.
+Me!? No! I have felt positively fine this\nentire time! I've been as energetic as an\nowlet from the start.=¿¡Yo!? ¡No! ¡Me he sentido perfectamente bien todo este tiempo! He estado tan lleno de energía como un mochuelo desde el principio.
+You're such a bad liar... You were acting\nweird all day. Did you not realize?=Eres tan malo mintiendo... Estuviste actuando raro todo el día. ¿No te diste cuenta?
+Hoo!? I. Was. Not. Weird! Absolutely,\npositively, and decidedly not weird!=¿¡Hoo!? ¡No. Estaba. Raro! ¡Absolutamente, positivo y decididamente, no estaba raro!
+And I will ask you to stop making such\naccusations immediately!=¡Y te pediré que dejes de hacer tales acusaciones inmediatamente!
+It's okay. Anyone would feel flustered\ngetting called out like that.=Está bien. Cualquiera se sentiría nervioso si le llamaran la atención de esa manera.
+I'm telling you there was nothing to be\ncalled out about in the first place! Are\nyou even listening!?=¡Te digo que, para empezar, no había nada por lo que llamarme la atención! ¿¡Es que me estás escuchando!?
+Stop worrying about me and focus on the\nenemy! We have to take care of it or we won't\nbe able to leave!=¡Deja de preocuparte por mí y concéntrate en el enemigo! Tenemos que encargarnos de él o no podremos irnos!
+Heheh, it's cute how poorly he hides his\nembarrassment.=Jeje, es tierno lo mal que oculta su vergüenza.
+But he has a point.=Pero tiene razón.
+After we defeat the enemy, the Palace might\nstart collapsing around us. So be careful.=Después de derrotar al enemigo, el Palacio podría comenzar a colapsar a nuestro alrededor. Así que tengan cuidado.
+Back to reality!=¡De vuelta a la realidad!
+It's here!=¡Ya está aquí!
+It seems different than the other Shadows\nwe've encountered. This battle may pose a\nreal threat.=Parece diferente a las otras Sombras que hemos encontrado. Esta batalla podría representar una amenaza real.
+Heh. You scared?=Hum. ¿Estas cagado?
+As if. How about you? Think you can handle\nit?=Ni hablar. ¿Y tú qué? ¿Crees que podrás controlarlo?
+No sweat. Let's go!=Sin problema. ¡Vamos!
+He does. You probably didn't realize, but\nyou've been acting weird all day.=Así es. Probablemente no te diste cuenta, pero has estado actuando raro todo el día.
+Wha—!? I absolutely have not! I have been\nnormal! Completely business as usual!=¿¡Qué—!? ¡De ninguna manera! ¡He estado normal! ¡Completamente como siempre!
+Do you want to talk about it?=¿Quieres hablar de eso?
+We're all here for you, Cattle-senpai! You\ncan talk to us!=¡Todos estamos aquí para ti, Cattle-senpai! ¡Puedes hablar con nosotros!
+Nothing is wrong! I'm fine! F I N E!=¡No pasa nada! ¡Que estoy bien! repito ¡E S T O Y B I E N!
+Why do you resist?=¿Por qué te resistes?
+I... We... only want to help you...=Yo... Nosotros... solo queremos ayudarte...
+...? What is it talking abou—=...¿? ¿De qué está hablando—
+Accept your desire!=¡Acepta tu deseo!
+Scattered Dreams=Sueños dispersos
+D<color\=#000000>r</color>eaming Desire=D<color\=#000000>e</color>seo Onírico
+Gained Dreaming Desire...=Obtuviste Deseo Onírico...
+What on earth...!? Did they split up and\nreallocate their power...?=¿¡Qué demonios...!? ¿Dividieron y redistribuyeron su poder...?
+They must be planning a full-force attack.\nTry to attack the original first!=Debieron estar planeando un ataque a gran escala. ¡Intenta atacar al original primero!
+Lost Dreaming Desire!=¡Deseo Onírico Perdido!
+Denial Wave=Ola de Negación
+Ngh...! That was a devastating attack...\nIs everyone all right?=¡Ngh...! Ese fue un ataque devastador... ¿Todos están bien?
+The clones must have gained power from the\noriginal. Sorry, try to attack those clones\ninstead!=Los clones deben haber obtenido poder del original. Lo siento, ¡intenta atacar a esos clones en su lugar!
+Accept Change=Aceptar Cambio
+All affinities changed to Null...=Todas las afinidades cambiaron a Nulo...
+A<color\=#000000>c</color>cept Change=A<color\=#000000>c</color>eptar Cambio
+You must have noticed, Wonder? It seems\ntheir weaknesses have changed. Let's gather\nsome intel first.=¿Te has fijado, Wonder? Parece que sus debilidades han cambiado. Vamos a reunir algo de información primero.
+Calm Nightmare Incarnation=Encarnación de la Pesadilla Tranquila
+Dreaming Desire=Deseo Onírico
+When defeated, Monstrous Entity gains 1 Composure stack.=Al ser derrotado, Entidad Monstruosa gana 1 acumulación de Compostura.
+Decrease final damage taken by 20%, and enhance the damage of Denial Wave. Remove after taking damage (other than continuous damage effects).=Reduce el daño final recibido en un 20% y aumenta el daño de Ola de Negación. Se elimina después de recibir daño (excepto efectos de daño continuo).
+Change all affinities to Null. Remove after taking damage (other than continuous damage effects).=Cambia todas las afinidades a Nulo. Elimina después de recibir daño (excepto los efectos de daño continuo).
+*huff* *pant* We... We did it!=*uff* *jadeo* ¡Lo... lo logramos!
+We managed to defeat it, but...=Logramos derrotarlo, pero...
+The false Palace isn't collapsing...=El falso Palacio no se está derrumbando...
+Accept... it...=Acepta... eso...
+Looks like we called it a little early.\nI'll finish it off.=Parece que lo celebramos demasiado pronto. Yo acabaré con esto.
+Wait, Crow.=Espera, Crow.
+If you want... to awake from your dream...\nyou must... accept it...=Si quieres... despertar de tu sueño... debes... aceptarlo...
+The part of you that longs for escape...=La parte de ti que anhela escapar...
+What? What the heck are you talking about?=¿Qué? ¿De qué demonios estás hablando?
+The Shadow just keeps\nrepeating the same words...=La Sombra sigue repitiendo\nlas mismas palabras...
+I don't think it's capable of conversation.\nIt effectively doesn't exist anymore...=No creo que sea capaz de conversar. En efecto, ya no existe...
+But its final thoughts are lingering behind\nafter defeat.=Pero sus últimos pensamientos siguen perdurando tras la derrota.
+"Accept the part of you that longs for\nescape"?=¿"Acepta la parte de ti que anhela escapar"?
+What do you think it means?=¿Qué crees que significa?
+It means Violet's theory was correct...\nJust not perfectly so.=Significa que la teoría de Violet era correcta... Solo que no perfectamente.
+About wanting to run away?=¿Sobre querer huir?
+Think back. Originally, Violet believed that\nwanting to escape from her reality was bad.=Recuerda. Originalmente, Violet creía que querer escapar de su realidad era malo.
+But with Joker and Wonder's encouragement,\nshe realized that running away can be a valid\noption.=Pero con los ánimos de Joker y Wonder, ella se dio cuenta de que huir puede ser una opción válida.
+That's right. It's thanks to all of you that\nI gained a new perspective on things!=¡Así es! ¡Gracias a todos ustedes, he ganado una nueva perspectiva de las cosas!
+However, based on this Shadow's words,\nthat change itself is not enough to allow\nour exit.=Sin embargo, según las palabras de esta Sombra, ese cambio por sí solo no es suficiente para permitir nuestra salida.
+"Accept the part of you that longs for\nescape." That doesn't just mean learning\nit's okay to run...="Acepta la parte de ti que anhela escapar." Eso no solo significa aprender que está bien huir...
+It means acknowledging that your desire to\nrun is a part of you, and accepting yourself\nanyway.=Significa reconocer que tu deseo de huir es parte de ti, y aceptarte a ti mismo de todos modos.
+Accepting myself even though I want to run...=Aceptándome a mí misma aunque quiera huir...
+In other words, accepting the desire forming\nwithin you...?=En otras palabras, ¿aceptar el deseo que se está formando en tu interior...?
+Hold on. Thinking back to the other false\nPalaces, doesn't that same sentiment ring\ntrue?=Espera. Pensándolo bien, respecto a los otros Palacios falsos, ¿no parece que ese mismo sentimiento también es aplicable?
+What rings true?=¿Qué es lo que parece cierto?
+The other Palaces too?=¿Los otros Palacios también?
+Embracing a strong desire was always the key\nto escape. Looking at it that way, everything\nstarts to make sense.=Abrazar un fuerte deseo siempre fue la clave para escapar. Viéndolo así, todo empieza a tener sentido.
+We, Joker, and all the Phantom Thieves shared\na strong desire to escape from those Palaces.=Nosotros, Joker, y todos los Ladrones Fantasma compartimos un fuerte deseo de escapar de esos Palacios.
+But wait a minute. That would mean taking the\nCore was never the proper method of escape...=Pero espera un minuto. Eso significaría que tomar el Núcleo nunca fue el método adecuado de escape...
+...but instead, a kind of brute-force\nbackdoor exit we created?=...pero en su lugar, ¿una especie de salida trasera de fuerza bruta que nosotros creamos?
+I believe so. But to prove that's the case,\nthere's something I'd like us to test.=Creo que sí. Pero para demostrar que es así, hay algo que me gustaría que probáramos.
+Assuming the desire this Palace wants us to\nembrace is the "desire to escape," then all\nwe have to do is accept it.=Suponiendo que el deseo que este Palacio quiere que adoptemos es el "deseo de escapar," entonces todo lo que tenemos que hacer es aceptarlo.
+So I should accept the part of myself that\nwants to run... I understand.=Así que debo aceptar la parte de mí que quiere huir... Lo entiendo.
+It's true. I've been running for a long time.=Es verdad. He estado huyendo durante mucho tiempo.
+Not just from gymnastics, but from a lot of\nthings in my life... I wanted to escape, so I\nchose to run. I did that.=No solo de la gimnasia, sino de muchas cosas en mi vida... Quería escapar, así que elegí huir. Yo hice eso.
+And if I want to move forward, I can't deny\nor judge that part of myself anymore.=Y si quiero seguir adelante, ya no puedo negar ni juzgar esa parte de mí misma.
+So I'll accept myself. I accept the part of\nme who wanted to run, and I accept whoever\nI'll become!=¡Así que me aceptaré a mí misma! ¡Acepto la parte de mí que quería huir, y acepto a quien sea que llegue a ser!
+I... I admit that deep down, I was trying to\nrun as well.=Yo... admito que, en el fondo, yo también estaba intentando huir.
+But I accept myself, and this desire to\nescape...=Pero me acepto a mí mismo, y este deseo de escapar...
+So I can save Wonder and our comrades from\nthe ruin I saw in my nightmares!=¡Para poder salvar a Wonder y a nuestros camaradas de la ruina que vi en mis pesadillas!
+Running away represents the\nwill to change, and the courage\nto seek a brighter future...=Huir representa la voluntad de\ncambiar y el valor para buscar\nun futuro más brillante...
+So wanting to escape is a\nvalid desire that I should\nembrace...=Así que querer escapar es un\ndeseo válido que debería aceptar...
+Hey, look! The Shadow's fading!=¡Oye, mira! ¡La Sombra se está desvaneciendo!
+You... accepted it...?=Tú... ¿lo has aceptado...?
+I suppose it recognized our acceptance of\nthe desire to escape?=Supongo que reconoció nuestra aceptación del deseo de escapar, ¿no?
+I think it did.=Creo que sí.
+But even with that Shadow gone, this place\nshows no sign of collapsing...=Pero incluso con esa Sombra desaparecida, este lugar no muestra señales de colapsar...
+But the strange aura surrounding the entrance\nis gone. We should be able to escape from\nthere.=Pero el aura extraña que rodeaba la entrada ha desaparecido. Deberíamos poder escapar por allí.
+Then let's go!=¡Entonces vamos!
+Laboratory: Palace Entrance=Laboratorio: Entrada del Palacio
+Oh, we can definitely get out this way! Looks\nlike the lucky lemur was right for once!=¡Oh, definitivamente podemos salir por aquí! ¡Parece que el lémur afortunado tenía razón por una vez!
+You little—! What an incessant loudmouth.=¡Maldito enano—! Qué bocazas tan insufrible.
+Anyway, should we get going? Before we do,\nthere's something I have to say...=De todos modos, ¿nos vamos? Antes de hacerlo, hay algo que tengo que decir...
+I'm so sorry, everyone!=¡Lo siento muchisimo, a todos!
+It really was my desire to escape that\ncreated this place after all...=Realmente fue mi deseo de escapar lo que creó este lugar, después de todo...
+No, it wasn't just yours. I'm a bit\nembarrassed to admit it, but I too\nwas harboring that desire.=No, no era solo la tuya. Me da un poco de vergüenza admitirlo, pero yo también albergaba ese deseo.
+In the end, we learned about ourselves and\nfound a new desire to embrace. So I say it\nwas worth it, was it not?=Al final, aprendimos sobre nosotros mismos y descubrimos un nuevo deseo que abrazar. Entonces digo que valió la pena, ¿no?
+Cattle-senpai... Yes! It was! Thank you!=Cattle-senpai... ¡Sí! ¡Lo fue! ¡Gracias!
+What's wrong, Crow?=¿Qué pasa, Crow?
+I've been forming a hypothesis. It concerns\nwhy this place was created.=He estado formulando una hipótesis. Se trata de por qué se creó este lugar.
+Assuming Cattle's idea is correct and\n"embracing desire" is the requirement for\nescape...=Suponiendo que la idea de Cattle sea correcta y que "abrazar el deseo" sea el requisito para escapar...
+It made me wonder what on earth the culprit\nwho made this world is after.=Me hizo preguntarme qué demonios busca el culpable que creó este mundo.
+That's... a good question.=Eso... es una buena pregunta.
+It's the fourth time Joker and I have been to\na place like this. That's too often to brush\noff as a coincidence.=Es la cuarta vez que Joker y yo hemos estado en un lugar como este. Eso es demasiado a menudo para descartarlo como una coincidencia.
+I have pondered it before, but couldn't\narrive at a reasonable conclusion.=Lo he reflexionado antes, pero no he podido llegar a una conclusión razonable.
+In your three previous visits, you were able\nto escape by stealing the Core.=En tus tres visitas anteriores, pudiste escapar robando el Núcleo.
+But this time there was no Core. Considering\nthat, perhaps the previous three worlds were\nthe irregular ones.=Pero esta vez no había ningún Núcleo. Teniendo eso en cuenta, quizás los tres mundos anteriores eran los irregulares.
+I'm saying that when you escaped by stealing\nthe Core, it threw a wrench in the culprit's\nplan.=Digo que, cuando escapaste robando el Núcleo, arruinaste los planes del culpable.
+That's why they made it impossible for you to\nsteal this time by hiding it or doing away\nwith it entirely. I'm not sure which.=Por eso hicieron que fuera imposible que lo robaras esta vez, ocultándolo o eliminándolo por completo. No estoy seguro cuál.
+All because they wanted to force you to\naccomplish the goal they'd laid out as your\nonly means of escape. "Embracing desire."=Todo porque querían obligarte a cumplir el objetivo que habían planteado como tu única vía de escape. "Abrazando el deseo."
+Um, so what you're saying is...=Hmm, entonces lo que quieres decir es...
+This place was made to get us and the\nPhantom Thieves to embrace our desires?=¿Este lugar fue creado para que nosotros y los Ladrones Fantasma aceptáramos nuestros deseos?
+I can't say for certain, but there are other\naspects of this that seem to tie back to\n"desire."=No puedo asegurarlo, pero hay otros aspectos de esto que parecen estar relacionados con el "deseo".
+Joker, Wonder, you two must know what I'm\nreferring to.=Joker, Wonder, ustedes dos deben saber a qué me refiero.
+When our desires aligned across our two\nworlds, we ended up in one of these places...=Cuando nuestros deseos se alinearon entre nuestros dos mundos, terminamos en uno de estos lugares...
+Like when we each wanted to infiltrate\nPalaces in our own respective worlds\nand the timing happened to coincide.=Como cuando cada uno de nosotros quería infiltrarse en los Palacios de nuestros respectivos mundos y el momento coincidió.
+Yeah, I remember now.=Sí, ya lo recuerdo.
+I knew you'd both understand. Those were my\nthoughts exactly.=Sabía que los dos lo entenderían. Eso era exactamente lo que pensé.
+In order to give these places form, a Core\nand an aligned cognition are required.=Para dar forma a estos lugares, se requiere un Núcleo y una cognición alineada.
+For example, this time the cognition that\naligned was "the desire to escape."=Por ejemplo, esta vez la cognición que se alineó fue "el deseo de escapar."
+An alignment of cognitions between our\nworlds... Yes, that makes sense.=Una alineación de cogniciones entre nuestros mundos... Sí, eso tiene sentido.
+From there I would deduce that...=A partir de ahí deduciría que...
+The culprit has another goal besides making\nus embrace desire.=El culpable tiene otro objetivo además de hacer que aceptemos el deseo.
+What could that be?=¿Qué podría ser?
+Well, maybe they need to keep our two worlds\nconnected, or something like that.=Bueno, tal vez necesiten mantener nuestros dos mundos conectados, o algo así.
+Keeping our worlds connected? What for?=¿Mantener nuestros mundos conectados? ¿Para qué?
+I couldn't say. But if we assume that is\ntheir goal...=No podría decirlo. Pero si asumimos que ese es su objetivo...
+...then this time they've achieved it. After\nall, this world hasn't collapsed. Instead it\nremains as a link between our worlds.=...entonces esta vez lo lograron. Después de todo, este mundo no se ha derrumbado. En cambio, sigue siendo un vínculo entre nuestros mundos.
+Without more information, I can't make any\ndeductions beyond that. And once we leave,\nour memories will be wiped anyway.=Sin más información, no puedo deducir nada más allá de eso. Y una vez que nos vayamos, nuestros recuerdos serán borrados de todos modos.
+*gasp* E-Excuse me! I was so relieved about\ngetting out that I think my appetite came\nback...=*jadeo* ¡D-Disculpad! Estaba tan aliviada por salir de aquí que creo que me ha vuelto el apetito...
+Heheh, it's all right. We can't stay here\nforever, especially when we're hungry...=Jeje, está bien. No podemos quedarnos aquí para siempre, sobre todo cuando tenemos hambre...
+I was finished theorizing anyway.=Ya había terminado de teorizar, de todos modos.
+Yeah, we should really get out of here ASAP.\nNow might be our only chance.=Sí, realmente deberíamos salir de aquí lo antes posible. Ahora podría ser nuestra única oportunidad.
+But I must say, I am quite impressed by your\ninsightfulness, Crow.=Pero debo decir que estoy bastante impresionado por tu perspicacia, Crow.
+How would you like to join our Phantom\nThieves?=¿Cómo te gustaría unirte a nuestros grupo de Ladrones Fantasma?
+Huh? Are you scouting me? Right now!?\nYour timing's a little...=¿Eh? ¿Me estás reclutando? ¿¡Ahora mismo!? El momento es un poco...
+Hahaha! You're so funny, Cattle-senpai!=¡Jajaja! ¡Eres tan gracioso, Cattle-senpai!
+Wonder. Thanks for the help, as always.=Wonder. Gracias por la ayuda, como siempre.
+Listen... There was something I couldn't say\nin front of the others...=Escucha... había algo que no podía decir delante de los demás...
+Somewhere deep down, I think I also wanted\nto escape my current situation.=En el fondo, creo que también quería escapar de mi situación actual.
+What'd you do with the real Joker?=¿Qué le hiciste al Joker real?
+But you're JOKER!=¡Pero eres JOKER!
+Heh... Hearing you say that makes me feel\nlike I can be braver.=Je... Oírte decir eso me hace sentir que puedo ser más valiente.
+So there's this casino-like Palace we're\ninfiltrating now.=Pues bien, ahora nos estamos infiltrando en un lugar parecido a un casino.
+But once that's over, let's all get together\nagain.=Pero una vez que eso termine, volvamos a reunirnos todos de nuevo.
+A casino-like Palace...?=¿Un Palacio parecido a un casino...?
+It couldn't be the one from\nmy dream, could it...?=No podría ser el de mi sueño, ¿verdad...?
+Wonder! What are you doing? Come on.=Wonder! ¿Qué estás haciendo? Vamos.
+Oh right, after this I won't remember\nCattle-senpai and Wonder-senpai... Aw...\nYou guys were such great teammates.=Ah, es cierto, después de esto no me voy a acordar de Cattle-senpai ni de Wonder-senpai... Qué mal... Fueron unos compañeros increíbles.
+The same to you, Violet. With any luck, we'll\nhave the chance to meet again somehow.=Lo mismo para ti, Violet. Con un poco de suerte, tendremos la oportunidad de volver a encontrarnos de alguna forma.
+I'm just realizing, this is the first time\nwe've been able to have such a peaceful\ngoodbye.=Acabo de darme cuenta, es la primera vez que podemos tener una despedida tan pacífica.
+Because we're usually scrambling to escape\nbefore the place falls to pieces.=Porque normalmente nos apresuramos a escapar antes de que el lugar se deshaga en pedazos.
+Still, I don't think we should stay much\nlonger. Now might be our only window of\nescape.=Aún así, no creo que debamos quedarnos mucho más. Ahora podría ser nuestra única ventana de escape.
+You're right. Shall we head out then?=Tienes razón. ¿Nos vamos entonces?
+Bye, guys. See you again sometime!=¡Adiós, chicos. Nos vemos otra vez algún día!
+See you again...?=¿Nos vemos otra vez...?
+Oh, I didn't intend any deeper meaning\nbehind that.=¡Oh, no pretendía que eso tuviera un significado más profundo!
+I hope we can meet again. Goodbye!=Espero que podamos volver a vernos. ¡Adiós!
+What was I just doing...?=¿Qué estaba haciendo\nhace un momento...?
+What is it? You look confused.=¿Qué pasa? te ves confundido.
+Is there something wrong with your phone?=¿Hay algo mal con tu teléfono?
+Looking at the screen, there's\nnothing out of the ordinary.\nIt must be my imagination...=Al mirar la pantalla, no\nhay nada fuera de lo normal.\nDebe ser mi imaginación...
+I'm sorry I made you worry about me. I feel\nmuch better now that we've come to Shibuya.=Lo siento por haberte hecho preocuparte por mí. Me siento mucho mejor ahora que hemos llegado a Shibuya.
+It's strange though... I was so distraught\nbefore, but now...=Es extraño, sin embargo... Estaba tan angustiado antes, pero ahora...
+Right... I brought Lufel here\nto help turn his mood around...=Cierto... Traje a Lufel aquí para\nayudarlo a que se animara un poco...
+It seems the worries that plagued me are\ngone. Thank you for that, Nagisa.=Parece que las preocupaciones que me atormentaban se fueron. Gracias por eso, Nagisa.
+Hoom... Now that my head is clear, I am\nnoticing a similar emptiness in my stomach.=Hoom... Ahora que tengo la cabeza despejada, noto un vacío similar en mi estómago.
+I think today feels like a stewed eggs and\nroast pork day!=Creo que hoy se siente como un día de huevos estofados y cerdo asado.
+Nagisa, take me to Victory Kitchen!=Nagisa, llévame a Victory Kitchen!
+Uch. I've sustained damage, but it\nwas negligible.=Ugh. He recibido algo daño, pero fue insignificante.
+It seems that damaging the powered-up clones\nis the best approach. Keep at it,\neveryone!=Parece que lo mejor es atacar a los clones potenciados. ¡Sigan así, todos!
+When Monstrous Entity receives a stat buff from Nightmare Incarnation, it gains an additional permanent Defense increase.=Cuando Entidad Monstruosa recibe un mejora de estadística de Encarnación de la Pesadilla, obtiene un aumento permanente adicional de Defensa.
+Dreaming Desire's final damage taken decrease effect on Nightmare Incarnation is increased to 50%.=La reducción de daño final de Deseo Onírico sobre Encarnación de la Pesadilla aumenta al 50%.
+When Nightmare Incarnation has Dreaming Desire, it restores a set amount of its HP at the start of the turn.=Cuando Encarnación de la Pesadilla tiene Deseo Onírico, restaura una cantidad fija de su PS al inicio del turno.
+The effects of the additional Diarahan and Maragidyne used at the end of Monstrous Entity's turn are greatly increased.=Los efectos de los Diarahan y Maragidyne adicionales usados al final del turno de Entidad Monstruosa aumentan considerablemente.
+P<color\=#000000>e</color>rmanent Defense Up=A<color\=#000000>eu</color>mento de Defensa Permanente
+Multiple enemies defeated!\nWell done, Wonder!=¡Varios enemigos derrotados! ¡Bien hecho, Wonder!
+Fewest actions: You haven't tried this difficulty.=Menor número de acciones: No has intentado esta dificultad.
+Attempt at Nv. %s=Intento de Nv. %s

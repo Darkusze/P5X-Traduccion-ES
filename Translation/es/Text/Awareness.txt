@@ -10,3 +10,5 @@ Increase the skill levels of {{A}}'s Chains and Thief Tactics by 3.=Aumenta en 3
 Highlight Enhanced: Increase number of <link\="s|124"><u>Will of Rebellion</u></link> stacks gained to 3.=Highlight Mejorado: Aumenta el número de <link\="s|124"><u>Voluntad de Rebelión</u></link> acumulaciones ganadas a 3.
 
 Increase the skill levels of Trickster's Plunder and Phantom Omen by 3.=Aumenta en 3 los niveles de habilidad de Botín del Trickster y Presagio Fantasma.
+
+After taking an extra action, if there are foes with below 25% HP, deal damage to those foes equal to up to 250% of Ren's Attack (once per enemy per battle).\nAfter using a skill on an extra action, deal Curse damage equal to 50% of Attack to all foes.=Después de realizar una acción adicional, si hay enemigos con menos del 25% de PS, les inflige un daño equivalente a hasta el 250% del Ataque de Ren (una vez por enemigo por batalla).\nTras usar una habilidad en una acción adicional, inflige daño de Maldición equivalente al 50% del Ataque a todos los enemigos.
