@@ -1,5 +1,5 @@
 #  P5X Traducción fan ES (Global) (PC)
-<h1 align="">
+<h1 align="center">
 <br>
 <img width="500" height="252" alt="image" src="https://github.com/user-attachments/assets/d090757b-0b69-40bf-b925-3330996b17b0" />
 <br>
