@@ -1,0 +1,12 @@
++--Ren Anamiya (Joker)--+
+r:"(?s)At the end of Ren's action, gain (\d+) <link\=(.+?)><u>Will of Rebellion</u></link> stack for each foe with less than (\d+)% HP \(up to (\d+) stacks\).*?When Will of Rebellion reaches (\d+) stacks, gain an extra action.*?An additional extra action cannot be gained during the extra action.*?At the end of an extra action, spend (\d+) Will of Rebellion stacks.*?Can gain (\d+) Will of Rebellion stack per foe per battle\."="Al final de la acción de Ren, gana $1 acumulación de <link\=$2><u>Voluntad de Rebelión</u></link> por cada enemigo con menos del $3% de PS (hasta $4 acumulaciones).\nCuando la fuerza de voluntad llegue a $5 acumulaciones, gana una acción adicional.\nNo se puede ganar una acción adicional extra durante la acción adicional. (Las acciones adicionales no afectan la duración de los efectos con límites de turno). Al final de una acción adicional, consume $6 acumulaciones de fuerza de voluntad.\n*Puede ganar $7 acumulación de fuerza de voluntad por enemigo por batalla."
+
+Increase skill damage to the main target by 30%, and increase skill damage to other targets by 10%.=Aumenta el daño de habilidad al objetivo principal en un 30% y el daño de habilidad a otros objetivos en un 10%.
+
+On an extra action, decrease SP cost of skills by 80%. When Ren's SP is above 60%, increase Attack by 50%.=En una acción extra, reduce el coste de PE de las habilidades en un 80%. Cuando los SP de Ren superan el 60%, aumenta el Ataque un 50%.
+
+Increase the skill levels of {{A}}'s Chains and Thief Tactics by 3.=Aumenta en 3 los niveles de habilidad de Cadenas y Tácticas de ladrón de {{A}}.
+
+Highlight Enhanced: Increase number of <link\="s|124"><u>Will of Rebellion</u></link> stacks gained to 3.=Highlight Mejorado: Aumenta el número de <link\="s|124"><u>Voluntad de Rebelión</u></link> acumulaciones ganadas a 3.
+
+Increase the skill levels of Trickster's Plunder and Phantom Omen by 3.=Aumenta en 3 los niveles de habilidad de Botín del Trickster y Presagio Fantasma.
