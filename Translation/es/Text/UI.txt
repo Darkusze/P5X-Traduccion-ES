@@ -1,4 +1,4 @@
-++-------------Tiempos de juego-----------------++
+﻿++-------------Tiempos de juego-----------------++
 
 r:"^\\s*(\\d+) d (\\d+) h (\\d+) m$"="$1 d $2 h $3 m"
 r:"^\\s*(\\d+) d (\\d+) h$"="$1 d $2 h"
@@ -201,6 +201,7 @@ r:"^(Qualia|Cualia)\\s+\\{\\{A\\}\\}\\.\\s+(\\d+)\\s+Increases\\s+all\\s+allies'
 r:"^(Qualia|Cualia)\\s+\\{\\{A\\}\\}\\.\\s+(\\d+)\\s+Increases\\s+Ice\\s+and\\s+Nuclear\\s+damage\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(takes\\s+effect\\s+in\\s+battle\\)\\.$"="$1 {{A}}. $2 Aumenta el daño de Hielo y Nuclear un $3% (En combate)."
 r:"^{{A}}(\d+) Increases all allies' Speed by (\d+\.?\d*) \(takes effect in battle\)\.$"="{{A}}$1 Aumenta la Velocidad de todos los aliados en $2 (Efectivo en combate)."
 r:"{{A}}(\d+) Increase all allies' ailment accuracy by ([\d.]+)% \(takes effect in battle\)\."="{{A}}$1 Aumenta la precisión de dolencias de todos los aliados en $2% (toma efecto en batalla)."
+r:"{{A}}(\d+) Increases the protagonist's damage by ([\d.]+)% \(takes effect in battle\)\."="{{A}}$1 Aumenta el daño del protagonista en un $2% (se aplica en batalla)."
 
 ++-------------Detalles de nivel de Qualia-----------------++
 r:"^Increases\\s+Physical\\s+and\\s+Gun\\s+damage\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(takes\\s+effect\\s+in\\s+battle\\)\\.$"="Aumenta el daño físico y de arma en un $1% (En combate)."
@@ -463,14 +464,14 @@ r:"Complete a task\. \((\d+)/(\d+)\)"="Completar una tarea. ($1/$2)"
 
 ++-------------Interfaz-----------------++
 Select content to input.=Elige qué introducir.
-r:"^ID:(\d+)$"="ID:$1"
+r:"^ID:(\d+)$"="$1"
 r:"^Out\s+of\s+Stock\s+(\d+)$"="Sin stock: $1"
 r:"^Info\s+(\d+)\s*$"="Info. $1"
 r:"^\(Paid:\s+(\d+)\)$"="(Pagado: $1)"
 r:"^Unlocks at Lv\\. (\\d+)$"="Se desbloquea en Nv. $1"
 r:"^Lv\\.(\\d+)$"="Nv.$1"
 r:"^EXP:\s+(\d+)\s*$"="EXP: $1"
-r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.3.1\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
+r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.3.2\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
 r:"^Fusion\s+will\s+produce\s+(\d+)\s+<color\=#FF423F>(.+?)'s\s+Seal</color>\.\s*$"="La fusión producirá $1 <color\=#FF423F>Sello de $2</color>."
 r:"^Phantom Thief level cap increased to \\n<color\=#FFF000>Lv\\. (\\d+)</color>\\.$"="El límite de nivel de Ladrones Fantasma ha aumentado a \n<color\=#FFF000>Lv. $1</color>."
 r:"^Lv\\. (\\d+) Set$"="Set de Nv. $1"
@@ -711,6 +712,7 @@ r:"{{A}} the event Crossroads of Fate: Laboratory Arc Part (\d+) \((\d+)/(\d+)\)
 r:"Until 5★: (\d+)/(\d+), (.+?) is the next guaranteed 5★!"="Hasta 5★: $1/$2, ¡$3 es el próximo 5★ garantizado!"
 r:"<color\=#FFFFFF>\(Currently <color\=#FFD145>#(\d+)</color>\)</color>"="<color\=#FFFFFF>(Actualmente <color\=#FFD145>#$1</color>)</color>"
 r:"Attempt at {{A}}\. (\d+)"="Intento en {{A}}. $1"
+r:"Can enhance at Thief {{A}}. (\d+)"="Se puede mejorar con Ladrón {{A}}. $1"
 
 ++----Efecto de Armonía (Composiciones de Equipos)----++
 Electric Attribute Harmony Effects=Efectos de Armonía del Atributo Eléctrico
@@ -1370,6 +1372,7 @@ r:"(?s)<color\=#FFD145>Visitors</color>.*?Visitors can come to visit your Thieve
 
 r:"(?s)<color\=#FFD145>Graphics\s+Settings</color>.*?Configure\s+various\s+graphical\s+settings\..*?<color\=#FFD145>Sound\s+Settings</color>.*?Adjust\s+individual\s+volume\s+settings\..*?<color\=#FFD145>Game\s+Settings</color>.*?Customize\s+individual\s+in-game\s+system\s+settings\..*?<color\=#FFD145>Control\s+Settings</color>.*?Adjust\s+your\s+game\s+controls\..*?You\s+can\s+view\s+details\s+on\s+<color\=#FF423F>each\s+setting</color>\s+by\s+tapping\s+the\s+\?\s+icon\."="<color\=#FFD145>Ajustes de gráficos</color>\nConfigura varios ajustes gráficos.\n\n<color\=#FFD145>Ajustes de sonido</color>\nAjusta la configuración de volumen individual.\n\n<color\=#FFD145>Ajustes de juego</color>\nPersonaliza los ajustes individuales del sistema de juego.\n\n<color\=#FFD145>Ajustes de control</color>\nAjusta los controles de tu juego.\nPuedes ver los detalles de <color\=#FF423F>cada ajuste</color> tocando el icono de ?."
 
+
 ++-------------Pruebas Pjs-----------------++
 r:"(?s)1\.\s+(.*?)\s+possesses\s+powerful\s+<color\=#FF423F>support\s+capabilities</color>.*?deal\s+even\s+greater\s+damage\."="1. $1 posee poderosas <color\=#FF423F>capacidades de apoyo</color>. Al aprovechar sus diferentes habilidades en batalla, puede infligir <color\=#FF423F>multitud de efectos negativos</color> a los enemigos y <color\=#FF423F>reducir su curación recibida</color>.\n2. Cuando Gran Bienvenida está activo, puede <color\=#FF423F>reducir la Defensa de todos los enemigos</color> e <color\=#FF423F>aumentar el daño de Fuego/Hielo/Eléctrico/Viento recibido</color>, al tiempo que fortalece los ataques de esos elementos de los aliados.\n3. Cuando Seguimiento Feroz está activo, puede reducir la Defensa de un enemigo y aumentar su daño de Resonancia recibido. Cuando se combina con aliados que pueden usar <color\=#FF423F>Resonancia</color>, pueden infligir un daño aún mayor."
 
@@ -1638,7 +1641,7 @@ r:"^Increase\\s+healing\\s+by\\s+(\\d+)%\\.$"="Aumenta la curación en un $1%."
 
 r:"^Dvesha\\s+is\\s+looking\\s+at\\s+([A-Za-z]+)\\.\\.\\.$"="Dvesha está mirando a $1..."
 
-r:"^Increase\\s+1\\s+ally's\\s+crit\\s+rate\\s+(\\d+\\.?\\d*)%\\s+\\+\\s+(\\d+\\.?\\d*)%\\s+for\\s+every\\s+(\\d+)%\\s+of\\s+user's\\s+crit\\s+rate\\s+\\(up\\s+to\\s+(\\d+\\.?\\d*)%,\\s*(\\d+)\\s+turns\\)\\.$"="Aumenta el índice de hematocrito de 1 aliado un $1% + $2% por cada $3% del índice de hematocrito del usuario (hasta un $4%, $5 turnos)."
+r:"Increase 1 ally's crit rate ([\d.]+)% \+ ([\d.]+)% for every ([\d.]+)% of user's crit rate \(up to ([\d.]+)%, (\d+) turns\)\."="Aumenta la Prob. Crítica de 1 aliado en un $1% + $2% por cada $3% de la Prob. Crítica del usuario (hasta un $4%, $5 turnos)."
 
 r:"^When\\s+{{A}}'s\\s+Thundercloud\\s+is\\s+at\\s+maximum,\\s*increase\\s+Electric\\s+dmg\\s+by\\s+(\\d+)%\\.$"="Cuando Nube de truenos de {{A}} está al máximo, aumenta el daño de Electricidad un $1%."
 
@@ -1986,7 +1989,7 @@ r:"A Step that can stack up to a maximum of (\d+)\. With (\d+) or more Step stac
 
 r:"A Step that does not stack\. With (\d+) or more Step stacks, Kasumi can use Spellbound Cinders to enter Masquerade mode\."="Un Paso que no se acumula. Con $1 o más Acumulaciones de Paso, Kasumi puede usar Cenicienta Encantada para entrar en modo Mascarada."
 
-r:"When an ally with this condition uses a skill, Kasumi activates Cinderella Glow (\d+) time\."="Cuando un aliado con esta condición usa una habilidad, Kasumi activa Brillo de Cenicienta $1 vez."
+r:"When an ally with this condition uses a skill, Kasumi activates Cinderella Glow (\d+) time\."="Cuando un aliado con esta condición usa una habilidad, Kasumi activa Resplandor de Cenicienta $1 vez."
 
 r:"Each time an ally activates a Technical, all allies gain (\d+) Primal Instinct stack\.\nEach time an ally activates a Highlight, that ally gains (\d+) Primal Instinct stacks\.\nPrimal Instinct: Increase final damage by (\d+)% for each stack\. Lasts for (\d+) turns\. Stacks up to (\d+) times\."="Cada vez que un aliado activa un Técnico, todos los aliados ganan $1 acumulación de Instinto Primal.\nCada vez que un aliado activa un Highlight, ese aliado gana $2 acumulaciones de Instinto Primal.\nInstinto Primal: aumenta el daño final en $3% por cada acumulación. Dura $4 turnos. Se acumula hasta $5 veces."
 
