@@ -41087,7 +41087,7 @@ Divine Protection=Protección Divina
 Gained 6 Divine Protection!=Obtuviste 6 Protección Divina!
 Impact=Impacto
 <color\=#FFFC40>Assassin</color> allies' final damage is increased by 60%.=<color\=#FFFC40>Asesino</color> el daño final de los aliados aumenta un 60%.
-Guardian Stella=<size\=80>Estrella Guardiana</size>
+Guardian Stella=<size\=60>Estrella Guardiana</size>
 Allies from the <color\=#ff381d>Phantom Thieves of Hearts</color> deal 60% increased final damage.=Aliados de <color\=#ff381d>Ladrones Fantasma de Corazones</color> infligir un 60% más de daño final.
 Lord Stella=<size\=80>Señor Estrella</size>
 When an ally does not deal damage for 1 turn, their final damage is increased by 50%. This effect lasts for 1 turn.=Cuando un aliado no inflige daño durante 1 turno, su daño final aumenta un 50%. Este efecto dura 1 turno.
@@ -55482,3 +55482,5 @@ But you've managed to overcome those doubts to serve as our leader. That's a rol
 Say...=Dime...
 You really get around, huh?=Vaya si te mueves, ¿eh?
 Maybe because you're so easy to talk to.\nI think I'm a little jealous.=Tal vez sea porque es muy fácil hablar contigo. Creo que tengo un poco de celos.
+When an enemy is <color\=#FFFC40>knocked down</color>, increase final damage taken by 100%.=Cuando un enemigo está <color\=#FFFC40>derribado</color>, aumenta el daño final recibido en un 100%.
+Clear <color\=#ff0000>Fate Stella</color>\nClear <color\=#ff0000>9 Stellae</color> to unlock=Completa <color\=#ff0000><size\=75>Estrella del Destino</size></color>\nCompleta <color\=#ff0000>9 estrellas</color> para desbloquear.
