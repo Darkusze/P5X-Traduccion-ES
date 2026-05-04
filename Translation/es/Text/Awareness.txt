@@ -3,13 +3,13 @@ r:"(?s)At the end of Ren's action, gain (\d+) <link\=(.+?)><u>Will of Rebellion<
 
 Increase skill damage to the main target by 30%, and increase skill damage to other targets by 10%.=Aumenta el daño de habilidad al objetivo principal en un 30% y el daño de habilidad a otros objetivos en un 10%.
 
-On an extra action, decrease SP cost of skills by 80%. When Ren's SP is above 60%, increase Attack by 50%.=En una acción extra, reduce el coste de PE de las habilidades en un 80%. Cuando los SP de Ren superan el 60%, aumenta el Ataque un 50%.
+On an extra action, decrease SP cost of skills by 80%. When Ren's SP is above 60%, increase Attack by 50%.=En una acción extra, reduce el coste de PE de las habilidades en un 80%. Cuando los PE de Ren superan el 60%, aumenta el Ataque un 50%.
 
-Increase the skill levels of {{A}}'s Chains and Thief Tactics by 3.=Aumenta en 3 los niveles de habilidad de Cadenas y Tácticas de ladrón de {{A}}.
+Increase the skill levels of {{A}}'s Chains and Thief Tactics by 3.=Aumenta los niveles de habilidad de Cadenas de {{A}} y Tácticas de ladrón en 3.
 
 Highlight Enhanced: Increase number of <link\="s|124"><u>Will of Rebellion</u></link> stacks gained to 3.=Highlight Mejorado: Aumenta el número de <link\="s|124"><u>Voluntad de Rebelión</u></link> acumulaciones ganadas a 3.
 
-Increase the skill levels of Trickster's Plunder and Phantom Omen by 3.=Aumenta en 3 los niveles de habilidad de Botín del Trickster y Presagio Fantasma.
+Increase the skill levels of Trickster's Plunder and Phantom Omen by 3.=Aumenta los niveles de habilidad de Botín del Trickster y Presagio Fantasma en 3.
 
 After taking an extra action, if there are foes with below 25% HP, deal damage to those foes equal to up to 250% of Ren's Attack (once per enemy per battle).\nAfter using a skill on an extra action, deal Curse damage equal to 50% of Attack to all foes.=Después de realizar una acción adicional, si hay enemigos con menos del 25% de PS, les inflige un daño equivalente a hasta el 250% del Ataque de Ren (una vez por enemigo por batalla).\nTras usar una habilidad en una acción adicional, inflige daño de Maldición equivalente al 50% del Ataque a todos los enemigos.
 
@@ -20,11 +20,11 @@ When <link\="s|113"><u>La Vie en Rose</u></link> is active, increase the party's
 
 When <link\="s|113"><u>La Vie en Rose</u></link> ends, activate 2 follow-up attacks, dealing Fire damage equal to 66% of Ann's Attack to random foes.=Cuando <link\="s|113"><u>La Vie en Rose</u></link> termina, activa 2 ataques de seguimiento, infligiendo un daño de Fuego igual al 66% del Ataque de Ann a enemigos aleatorios.
 
-Increase the skill levels of Falling Sun and Thief Tactics by 3.=Aumenta en 3 los niveles de habilidad de Sol Caído y Tácticas de Ladrón.
+Increase the skill levels of Falling Sun and Thief Tactics by 3.=Aumenta los niveles de habilidad de Sol Caído y Tácticas de Ladrón en 3.
 
 Highlight Enhanced: When Ann uses a Highlight, increase her Attack by 100% for 1 turn.=Highlight mejorado: Cuando Ann usa un Highlight, aumenta su Ataque un 100% durante 1 turno.
 
-Increase the skill levels of Crimson Rose and Trifire by 3.=Aumenta en 3 los niveles de habilidad de Rosa Carmesí y Trifuego.
+Increase the skill levels of Crimson Rose and Trifire by 3.=Aumenta los niveles de habilidad de de Rosa Carmesí y Trifuego en 3.
 
 When attacking foes with Fire skills, 60% chance to gain 1 Passion stack.\nWhen <link\="s|113"><u>La Vie en Rose</u></link> is active, increase Fire damage by 11% per Passion stack spent (up to 110%).=Al atacar enemigos con habilidades de fuego, hay un 60% de probabilidad de obtener 1 acumulación de Pasión.\nCuando <link\="s|113">La Vie en Rose está activa, aumenta el daño de fuego en un 11% por cada acumulación de Pasión consumida (hasta un 110%).
 
@@ -39,10 +39,9 @@ Increase the skill levels of Healing Grace and Thief Tactics by 3.=Aumenta los n
 
 Highlight Enhanced: The duration of the max HP increase and healing effect increase are extended by 1 turn.=Highlight Mejorado: La duración del aumento de los PS máx. y del aumento del efecto de curación se extiende en 1 turno.
 
-Increase the skill levels of Nurse's Light and Compassionate Cure by 3.=Aumenta 3 niveles las habilidades Luz de la Enfermera y Curación Compasiva.
+Increase the skill levels of Nurse's Light and Compassionate Cure by 3.=Aumenta los niveles de habilidad de Luz de la Enfermera y Curación Compasiva en 3.
 
 Restore a KO'd ally's HP equal to 40% of Minami's max HP + 1200. This effect can be activated once per battle.=Restaura los PS de un aliado fuera de combate en una cantidad equivalente al 40% de los PS máx. de Minami + 1200. Este efecto puede activarse una vez por batalla.
-
 
 +--Justine y Caroline--+
 After obtaining Justine & Caroline, during battle, increase Wonder's skill and Thief Tactics levels by 1 (takes effect even when Justine & Caroline are not in battle).\nBefore entering battle, Justine & Caroline can select 2 of their 4 sets of Personas, and their Skill 1 and Skill 2 will change accordingly. During battle, Justine & Caroline will receive the following role effect based on the selected sets:\nMask of Mischief & Innocence + Mask of Service & Admonition: Medic\nMask of Mischief & Innocence + Mask of Absurdity & Nonsense: Strategist\nMask of Mischief & Innocence + Mask of Luck & Loss: Sweeper\nMask of Service & Admonition + Mask of Absurdity & Nonsense: Guardian\nMask of Service & Admonition + Mask of Luck & Loss: Saboteur\nMask of Absurdity & Nonsense + Mask of Luck & Loss: Assassin\nSkill effects are affected by <link\="s|271"><u>Desire Level</u></link>. At the start of battle, increase Desire Level by 25.=Tras obtener a Justine y Caroline, durante la batalla, aumenta en 1 el nivel de las habilidades y de Tácticas de ladrón de Wonder (surte efecto incluso si Justine y Caroline no están en batalla).\nAntes de entrar en batalla, Justine y Caroline pueden seleccionar 2 de sus 4 conjuntos de Personas, y su Habilidad 1 y Habilidad 2 cambiarán en consecuencia. Durante la batalla, Justine y Caroline recibirán el siguiente efecto de rol según los conjuntos seleccionados:\nMáscara de Travesura e Inocencia + Máscara de Servicio y Amonestación: Erudito\nMáscara de Travesura e Inocencia + Máscara de Absurdo y Sinsentido: Estratega\nMáscara de Travesura e Inocencia + Máscara de Suerte y Pérdida: Barrendero\nMáscara de Servicio y Amonestación + Máscara de Absurdo y Sinsentido: Guardián\nMáscara de Servicio y Amonestación + Máscara de Suerte y Pérdida: Saboteador\nMáscara de Absurdo y Sinsentido + Máscara de Suerte y Pérdida: Asesino\nLos efectos de las habilidades se ven afectados por el <link\="s|271"><u>Nivel de Deseo</u></link>. Al comienzo de la batalla, aumenta el nivel de Deseo en 25.
@@ -51,11 +50,11 @@ At the start of battle, depending on the selected Personas, gain 2 types of <lin
 
 When a <link\="s|273"><u>Facade</u></link> is gained, gain the following buff based on the type of Facade:\nFacade of Mischief & Innocence: Increase party's Attack by 30% for 2 turns.\nFacade of Service & Admonition: Decrease party's damage taken by 20% for 2 turns.\nFacade of Absurdity & Nonsense: Increase critical damage of the Assassin or Sweeper ally with the highest Attack by 20% for 2 turns.\nFacade of Luck & Loss: Increase Justine & Caroline's skill damage by 10% for 2 turns.=Cuando se obtiene una <link\="s|273"><u>Fachada</u></link>, se obtiene la siguiente mejora según el tipo de Fachada:\nFachada de Travesura e Inocencia: Aumenta el Ataque del equipo en un 30% durante 2 turnos.\nFachada de Servicio y Amonestación: Reduce el daño recibido por el equipo en un 20% durante 2 turnos.\nFachada de Absurdo y Sinsentido: Aumenta el daño crítico del aliado Asesino o Barrendero con el Ataque más alto en un 20% durante 2 turnos.\nFachada de Suerte y Pérdida: Aumenta el daño de habilidad de Justine y Caroline en un 10% durante 2 turnos.
 
-Increase the skill levels of Selected Skill 1 and Two Masks as One by 3.=Aumenta en 3 los niveles de la Habilidad seleccionada 1 y de Dos máscaras como una.
+Increase the skill levels of Selected Skill 1 and Two Masks as One by 3.=Aumenta los niveles de habilidad de Habilidad seleccionada 1 y de Dos Máscaras en Una en 3.
 
 When Justine & Caroline activate their Highlight, increase their Attack by 40%, damage dealt by 20%, and grant 50% of these effects to other allies for 2 turns.=Cuando Justine y Caroline activan su Highlight, aumenta su Ataque en un 40% y su daño infligido en un 20%, y otorga el 50% de estos efectos a los demás aliados durante 2 turnos.
 
-Increase the skill levels of Selected Skill 2 and Thief Tactics by 3.=Aumenta en 3 los niveles de la Habilidad seleccionada 2 y de Tácticas de ladrón.
+Increase the skill levels of Selected Skill 2 and Thief Tactics by 3.=Aumenta los niveles de habilidad de Habilidad seleccionada 2 y Tácticas de ladrón en 3.
 
 When this Awareness is unlocked, during battle, increase Wonder's skill and Thief Tactics levels by 1 (takes effect even when Justine & Caroline are not in battle). Also, increase <link\="s|271"><u>Desire Level</u></link> by 20%.\nAt the start of battle, gain True Desire.\nAfterwards, regain True Desire every 8 turns if it has been spent.\nDuring Justine & Caroline's turn, they can spend 1 True Desire stack to enhance the next activated Two Masks as One.\nEnhanced effect: Activate all <link\="s|273"><u>Facade</u></link> effects for Two Masks as One. Also, deal bonus damage to the main target equal to 40% of Attack (8 hits. Increase this skill's effect by 1% for every 1 point of Desire Level. These bonus hits deal 1 hit of Fire, Ice, Electric, Wind, Psychokinesis, Nuclear, Bless, and Curse damage each.)=Cuando se desbloquea esta Conciencia, durante la batalla, aumenta en 1 el nivel de las habilidades y de Tácticas de ladrón de Wonder (surte efecto incluso si Justine y Caroline no están en batalla). Además, aumenta el <link\="s|271"><u>Nidel de Deseo</u></link> en un 20%.\nAl comienzo de la batalla, obtienen Deseo verdadero.\nPosteriormente, recuperan Deseo verdadero cada 8 turnos si se ha consumido.\nDurante el turno de Justine y Caroline, pueden consumir 1 acumulación de Deseo verdadero para potenciar el próximo Dos máscaras como una que se active.\nEfecto potenciado: Activa todos los efectos de <link\="s|273"><u>Fachada</u></link> para Dos máscaras como una. Además, inflige daño adicional al objetivo principal igual al 40% del Ataque (8 golpes. Aumenta el efecto de esta habilidad en un 1% por cada punto de nivel de Deseo. Estos golpes adicionales infligen 1 golpe de daño de fuego, hielo, eléctrico, viento, psicoquinesis, nuclear, bendición y maldición cada uno).
 
@@ -66,11 +65,11 @@ Extend the duration of Dance Partner by 1 turn.\nWhen using Invitation, increase
 
 With 2 <link\="s|215"><u>Step</u></link> stacks, increase Attack by 33%. With 3 or more stacks, increase critical damage by 33%. These effects are permanent.=Con 2 acumulaciones de <link\="s|215"><u>Paso</u></link>, aumenta el Ataque en un 33%. Con 3 o más acumulaciones, aumenta el daño crítico en un 33%. Estos efectos son permanentes.
 
-Increase the skill levels of Cinderella Glow and Thief Tactics by 3.=Aumenta en 3 los niveles de Resplandor de Cenicienta y de Tácticas de ladrón.
+Increase the skill levels of Cinderella Glow and Thief Tactics by 3.=Aumenta los niveles de habilidad de Resplandor de Cenicienta y de Tácticas de ladrón en 3.
 
 When activating a Highlight, gain 1 Stroke of Midnight stack. Spend 1 Stroke of Midnight stack when taking damage, and evade that damage (not activated by some skills).\nAlso, with 4 <link\="s|215"><u>Step</u></link> stacks, increase Highlight damage by 50%.=Al activar un Highlight, obtienes 1 acumulación de Filo de la Medianoche. Consume 1 acumulación de Filo de la Medianoche al recibir daño y evade ese daño (no se activa con algunas habilidades).\nAdemás, con 4 <link\="s|215"><u>Paso</u></link>, aumenta el daño de Highlight en un 50%.
 
-Increase the skill levels of Invitation and Midnight Magic by 3.=Aumenta en 3 los niveles de Invitación y de Magia de la medianoche.
+Increase the skill levels of Invitation and Midnight Magic by 3.=Aumenta los niveles de habilidad de Invitación y de Magia de la medianoche en 3.
 
 After Kasumi activates her Highlight, she can activate her Highlight 1 more time while in <link\="s|217"><u>Masquerade</u></link> mode. This Highlight has 80% of its normal damage, and can be activated 1 time each time Masquerade mode is entered. Also, it will not activate automatically when Masquerade mode ends.=Después de que Kasumi active su Highlight, puede activar su Highlight 1 vez más mientras esté en modo <link\="s|217"><u>Mascarada</u></link>. Este Highlight tiene un 80% de su daño normal y puede activarse 1 vez por cada vez que se entre en el modo Mascarada. Además, no se activará automáticamente cuando termine el modo Mascarada.
 
@@ -81,10 +80,40 @@ r:"Reduce the first cooldown time for Orange Blossom Blade by (\d+) turn\. Also,
 
 r:"When Firecracker {{A}} is present, for each foe that appears, permanently inflict (\d+) special limit-breaking <link\=(.+?)><u>Burn</u></link> stack\. When this Burn is removed, (\d+) more stack is immediately inflicted\. This effect's cooldown time is (\d+) turns, calculated individually for each foe\.\nDuring battle, when (\d+) foe is inflicted with Burn, increase Firecracker {{A}}'s critical rate by (\d+)%\. Also, for each additional foe inflicted with Burn, increase by (\d+)% more \(up to a maximum of (\d+)%\)\."="Cuando Firecracker Yaoling está presente, por cada enemigo que aparezca, inflige permanentemente $1 acumulación de <link\=$2><u>Quemadura</u></link> especial que rompe el límite. Cuando se elimina esta Quemadura, se inflige inmediatamente $3 acumulación más. El tiempo de enfriamiento de este efecto es de $4 turnos, calculado individualmente para cada enemigo.\nDurante la batalla, cuando $5 enemigo sea afectado por Quemadura, aumenta la probabilidad de crítico de Firecracker Yaoling en un $6%. Además, por cada enemigo adicional afectado por Quemadura, aumenta un $7% más (hasta un máximo del $8%)."
 
-Increase the skill levels of Firework Finale and Orange Blossom Blade by 3.=Aumenta en 3 los niveles de habilidad de Final de Fuegos Artificiales y Hoja de Flor de Azahar.
+Increase the skill levels of Firework Finale and Orange Blossom Blade by 3.=Aumenta los niveles de habilidad de Final de Fuegos Artificiales y Hoja de Flor de Azahar en 3.
 
 Highlight Enhanced: Increase Firecracker {{A}}'s critical damage by 15% more for 2 turns. Also, extend the duration of all buffs gained from this Highlight by 2 turns.=Highlight Mejorado: Aumenta el daño crítico de Firecracker Yaoling en un 15% más durante 2 turnos. Además, extiende la duración de todos las mejoras obtenidos de este Highlight en 2 turnos.
 
-Increase the skill levels of Scarlet Surprise and Thief Tactics by 3.=Aumenta en 3 los niveles de habilidad de Sorpresa Escarlata y Tácticas de Ladrón.
+Increase the skill levels of Scarlet Surprise and Thief Tactics by 3.=Aumenta los niveles de habilidad de Sorpresa Escarlata y Tácticas de Ladrón en 3.
 
 r:"<link\=(.+?)><u>Flaming Sword Dance</u></link> becomes permanent\. <link\=(.+?)><u>Yanhua Slash</u></link> evolves to Liuxing Slash, increasing damage dealt by (\d+)%\. Flaming Sword Dance is not removed even after Liuxing Slash is activated\.\nAlso, Scarlet Surprise permanently maintains the critical rate increase and enhanced effects on Liuxing Slash\. The duration of Firework Finale's <link\=(.+?)><u>Burn</u></link> and enhanced effects on Liuxing Slash are extended by (\d+) turn\."="<link\=$1><u>Danza de la Espada Flamígera</u></link> se vuelve permanente. <link\=$2><u>Tajo Yanhua</u></link> evoluciona a Tajo Liuxing, aumentando el daño infligido en un $3%. Danza de la Espada Flamígera no se elimina incluso después de activar Tajo Liuxing.\nAdemás, Sorpresa Escarlata mantiene permanentemente el aumento de la probabilidad de crítico y los efectos mejorados en Tajo Liuxing. La duración de la <link\=$4><u>Quemadura</u></link> de Final de Fuegos Artificiales y los efectos mejorados en Tajo Liuxing se prolongan en $5 turno."
+
++--Manaka Nagao (Ange)--+
+r:"On each ally's action, gain (\d+) <link\=(.+?)><u>Musical Note</u></link> stack, up to a maximum of (\d+) stacks\.\nBefore any ally's action, Manaka can activate Da Capo \(the initial use count in each battle is (\d+)\)\. After activating Da Capo, when {{A}} takes (\d+) actions other than additional actions, restore the use count by (\d+) \(this effect activates only (\d+) time per battle\)\.\nDa Capo: Remove (\d+) debuff effect from (\d+) ally\. At the end of the target's next action, grant a special additional action\. When in this state, the target's HP, SP, buff/debuff effects, and skill cooldowns are reset to their state at the start of the previous action\."="Con cada acción de un aliado, obtienes $1 acumulación de <link\=$2><u>Nota Musical</u></link>, hasta un máximo de $3.\nAntes de la acción de cualquier aliado, Manaka puede activar Da Capo (el número de usos iniciales en cada batalla es $4). Tras activar Da Capo, cuando Wonder realice $5 acciones (sin contar adicionales), se restaura el número de usos en $6 (se activa solo $7 vez por batalla).\nDa Capo: Elimina $8 efecto negativo de $9 aliado. Al final de la siguiente acción, otorga una acción adicional. En este estado, los PS, PE, Buff/Debuff y enfriamientos vuelven al estado del comienzo de su acción anterior."
+
+r:"At the start of battle, gain the maximum number of <link\=(.+?)><u>Musical Note</u></link> stacks, and reduce the first cooldown time by (\d+) actions\.\nAlso, when using Melody of Steps, also increase party's critical rate by (\d+)% for (\d+) turns\."="Al comienzo de la batalla, obtén el máximo de acumulaciones de <link\=$1><u>Nota Musical</u></link> y reduce el tiempo de reutilización inicial en $2 acciones.\nAdemás, al usar Melody of Steps, aumenta también la probabilidad crítica del equipo en un $3% durante $4 turnos."
+
+r:"Increase <link\=(.+?)><u>final damage amplification</u></link> of allies with extra actions from <link\=(.+?)><u>Da Capo</u></link> by (\d+)%\.\nWhen an ally is KO'd, restore their HP equal to (\d+)% of Manaka's Attack \+ (\d+)\. This effect can be activated once per battle\."="Aumenta la <link\=$1><u>amplificación de daño final</u></link> de los aliados con acciones adicionales de <link\=$2><u>Da Capo</u></link> en un $3%.\nCuando un aliado sea derrotado, restaura sus PS en una cantidad igual al $4% del Ataque de Manaka + $5. Este efecto solo puede activarse una vez por batalla."
+
+Increase the skill levels of Prayer Refrain and Melody of Steps by 3.=Aumenta los niveles de habilidad de Refrán de Oración y Melodía de Pasos en 3.
+
+r:"At the start of battle, or when an ally activates a Highlight, gain (\d+) <link\=(.+?)><u>Musical Note</u></link> stacks\. Stacks gained from this effect can exceed the maximum limit up to (\d+) times\."="Al comienzo de la batalla, o cuando un aliado activa un Highlight, obtienes $1 acumulaciones de <link\=$2><u>Nota Musical</u></link>. Las acumulaciones obtenidas por este efecto pueden superar el límite máximo hasta $3 veces."
+
+Increase the skill level of Winged Canon by 3.=Aumenta el nivel de habilidad de Canon Alado en 3.
+
+Increase the initial use count of <link\="s|239"><u>Da Capo</u></link> by 1.=Aumenta el recuento de uso inicial de <link\="s|239"><u>Da Capo</u></link> en 1.
+
++--Shoki Ikenami (Luce)--+
+Shoki has 4 types of Improv states: Blazing Passion, Chilling Intensity, Electrifying Performance, and Tempestuous Drama. During battle, he can switch between states at the start of each turn.\nWhen dealing damage with a skill, there is a 75% chance to inflict all foes with an elemental ailment based on his current Improv state (Burn, Freeze, Shock, or Windswept).=Shoki tiene 4 tipos de estados de Improvisación: Pasión Ardiente, Intensidad Gélida, Interpretación Electrizante y Drama Tempestuoso. Durante la batalla, puede cambiar entre estados al comienzo de cada turno.\nAl infligir daño con una habilidad, hay un 75% de probabilidad de infligir a todos los enemigos un estado dolencias elementales basado en su estado de Improvisación actual (Quemadura, Congelación, Electrocución o Azotado por el Viento).
+
+When using a skill on an ally, for each <link\="s|111"><u>Blessing</u></link> stack on the target, increase the target's damage dealt by 3% (up to a maximum of 15%) for 2 turns.=Al usar una habilidad sobre un aliado, por cada acumulación de <link\="s|111"><u>Bendición</u></link> en el objetivo, aumenta el daño infligido del objetivo en un 3% (hasta un máximo del 15%) durante 2 turnos.
+
+When using Adlib, also grant an additional effect: When the target next takes skill damage, decrease their final damage taken by 35% for 1 turn.=Al usar Adlib, otorga también un efecto adicional: la próxima vez que el objetivo reciba daño de habilidad, reduce su daño final recibido en un 35% durante 1 turno.
+
+Increase the skill levels of Followspot and Adlib by 2.=Aumenta los niveles de habilidad de Foco de Seguimiento y Adlib en 2.
+
+Highlight Enhanced: Increase the main target's Attack by 10% for 2 turns, and grant 2 more <link\="s|111"><u>Blessing</u></link> stacks to all allies.=Highlight Mejorado: Aumenta el Ataque del objetivo principal en un 10% durante 2 turnos y otorga 2 acumulaciones más de <link\="s|111"><u>Bendición</u></link> a todos los aliados.
+
+Increase the skill levels of Improvise and Thief Tactics by 2.=Aumenta los niveles de habilidad de Improvisar y Tácticas de Ladrón en 2.
+
+When the additional effects of Improvise are activated based on Improv state, extend the duration of the additional effects to 4 turns.=Cuando los efectos adicionales de Improvisar se activen según el estado de Improvisación, extiende la duración de los efectos adicionales a 4 turnos.

@@ -21,3 +21,5 @@ r:"<link\=(.+?)><u>Trickster's Plunder</u></link>\nSkill Multiplier (.+?)%→<co
 r:"^Increase\s+Damage\s+Mult\.\s+\+\s+by\s+([\d.]+)%.\n$"="Aumenta el Mult. + Daño en un $1%.\n"
 
 r:"Increase HP by (\d+).\nIncrease Defense by (\d+)."="Aumenta los PS en $1. Aumenta la DEF en $2."
+
+r:"Increase Damage Down by ([\d.]+)%\.\\n"="Aumenta la Reducción de Daño un $1%.\n"

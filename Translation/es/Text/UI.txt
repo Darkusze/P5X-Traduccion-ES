@@ -145,6 +145,7 @@ r:"Unlocks in\s+(\d+)\s+m"="Se desbloquea en $1 m"
 r:"^VA:\\s+(.+)$"="VA: $1"
 
 ++-------------Efectos de subida de nivel de Qualia-----------------++
+r:"{{A}}(\d+) Thieves Den EXP Credit increased by (\d+)\n{{A}}(\d+) Increases all allies' Defense by (\d+) \(takes effect in battle\)\."="{{A}}$1 Crédito de EXP de la Guarida de Ladrones aumentado en $2\n{{A}}$3 Aumenta la Defensa de todos los aliados en $4 (se aplica en batalla)."
 r:"{{A}}(\d+) Restores (.+?) stamina after the first login of each day\."="{{A}}$1 Restablece $2 de resistencia después del primer inicio de sesión de cada día."
 r:"{{A}}(\d+) Increases Fire and Psychokinesis damage by (.+?)% \(takes effect in battle\)\."="{{A}}$1 Aumenta el daño de Fuego y Psicoquinesis en un $2% (toma efecto en batalla)."
 r:"{{A}}(\d+) Increases ally damage dealt in the Realm of Repression by (.+?)% \(takes effect in battle\)\."="{{A}}$1 Aumenta el daño infligido por aliados en el Reino de Represión en un $2% (toma efecto en batalla)."
@@ -156,7 +157,7 @@ r:"^Increases\\s+Ice\\s+and\\s+Nuclear\\s+damage\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(
 r:"^Thieves\\s+Den\\s+EXP\\s+Credit\\s+increased\\s+by\\s+(\\d+)$"="Crédito de EXP del Guarida de Ladrones aumentado en $1"
 r:"^Increases\\s+ally\\s+damage\\s+dealt\\s+in\\s+the\\s+Realm\\s+of\\s+Repression\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(effective\\s+in\\s+battle\\)\\.$"="Aumenta el daño infligido por los aliados en el Reino de la Represión en un $1% (En combate)."
 r:"^Increases\\s+Fire\\s+and\\s+Psychokinesis\\s+damage\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(effective\\s+in\\s+battle\\)\\.$"="Aumenta el daño de Fuego y Psicoquinesis en un $1% (En combate)."
-r:"^Increases\\s+Physical\\s+and\\s+Gun\\s+damage\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(effective\\s+in\\s+battle\\)\\.$"="Aumenta el daño físico y de armas de fuego en un $1% (En combate)."
+r:"^Increases\\s+Physical\\s+and\\s+Gun\\s+damage\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(effective\\s+in\\s+battle\\)\\.$"="Aumenta el daño físico y de Arma a Distancia en un $1% (En combate)."
 r:"^Increases\\s+Electric\\s+and\\s+Bless\\s+damage\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(effective\\s+in\\s+battle\\)\\.$"="Aumenta el daño de Eléctrico y Bendición en un $1% (En combate)."
 r:"^Increases\\s+all\\s+allies'\\s+ailment\\s+accuracy\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(effective\\s+in\\s+battle\\)\\.$"="Aumenta la precisión de dolencias de todos los aliados en un $1% (En combate)."
 r:"^Increases\\s+all\\s+allies'\\s+Attack\\s+by\\s+(\\d+)\\s+\\(effective\\s+in\\s+battle\\)\\.$"="Aumenta el Ataque de todos los aliados en $1 (En combate)."
@@ -186,7 +187,7 @@ r:"^(Qualia|Cualia)\\s+\\{\\{A\\}\\}\\.\\s+(\\d+)\\s+Increases\\s+all\\s+allies'
 r:"^(Qualia|Cualia)\\s+\\{\\{A\\}\\}\\}\\.\\s+(\\d+)\\s+Increases\\s+all\\s+allies'\\s+HP\\s+by\\s+(\\d+\\.?\\d*)\\s+\\(takes\\s+effect\\s+in\\s+battle\\)\\.$"="$1 {{A}}. $2 Aumenta los PS de todos los aliados en $3 (En combate)."
 r:"^(Qualia|Cualia)\\s+\\{\\{A\\}\\}\\.\\s+(\\d+)\\s+Increases\\s+all\\s+allies'\\s+Speed\\s+by\\s+(\\d+\\.?\\d*)\\s+\\(takes\\s+effect\\s+in\\s+battle\\)\\.$"="$1 {{A}}. $2 Aumenta la Velocidad de todos los aliados en $3 (En combate)."
 r:"^(Qualia|Cualia)\\s+\\{\\{A\\}\\}\\.\\s+(\\d+)\\s+Increases\\s+Fire\\s+and\\s+Psychokinesis\\s+damage\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(takes\\s+effect\\s+in\\s+battle\\)\\.$"="$1 {{A}}. $2 Aumenta el daño de Fuego y Psicoquinesis un $3% (En combate)."
-r:"^(Qualia|Cualia)\\s+\\{\\{A\\}\\}\\.\\s+(\\d+)\\s+Increases\\s+Physical\\s+and\\s+Gun\\s+damage\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(takes\\s+effect\\s+in\\s+battle\\)\\.$"="$1 {{A}}. $2 Aumenta el daño físico y de arma un $3% (En combate)."
+r:"^(Qualia|Cualia)\\s+\\{\\{A\\}\\}\\.\\s+(\\d+)\\s+Increases\\s+Physical\\s+and\\s+Gun\\s+damage\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(takes\\s+effect\\s+in\\s+battle\\)\\.$"="$1 {{A}}. $2 Aumenta el daño físico y de Arma a Distancia un $3% (En combate)."
 r:"^(Qualia|Cualia)\\s+\\{\\{A\\}\\}\\.\\s+(\\d+)\\s+Increases\\s+Wind\\s+and\\s+Curse\\s+damage\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(takes\\s+effect\\s+in\\s+battle\\)\\.$"="$1 {{A}}. $2 Aumenta el daño de Viento y Maldición un $3% (En combate)."
 r:"^(Qualia|Cualia)\\s+\\{\\{A\\}\\}\\.\\s+(\\d+)\\s+Increases\\s+Electric\\s+and\\s+Bless\\s+damage\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(takes\\s+effect\\s+in\\s+battle\\)\\.$"="$1 {{A}}. $2 Aumenta el daño eléctrico y de bendición un $3% (En combate)."
 r:"^(Qualia|Cualia)\\s+\\{\\{A\\}\\}\\.\\s+(\\d+)\\s+Increases\\s+Persona\\s+damage\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(takes\\s+effect\\s+in\\s+battle\\)\\.$"="$1 {{A}}. $2 Aumenta el daño de Persona un $3% (En combate)."
@@ -202,9 +203,15 @@ r:"^(Qualia|Cualia)\\s+\\{\\{A\\}\\}\\.\\s+(\\d+)\\s+Increases\\s+Ice\\s+and\\s+
 r:"^{{A}}(\d+) Increases all allies' Speed by (\d+\.?\d*) \(takes effect in battle\)\.$"="{{A}}$1 Aumenta la Velocidad de todos los aliados en $2 (Efectivo en combate)."
 r:"{{A}}(\d+) Increase all allies' ailment accuracy by ([\d.]+)% \(takes effect in battle\)\."="{{A}}$1 Aumenta la precisión de dolencias de todos los aliados en $2% (toma efecto en batalla)."
 r:"{{A}}(\d+) Increases the protagonist's damage by ([\d.]+)% \(takes effect in battle\)\."="{{A}}$1 Aumenta el daño del protagonista en un $2% (se aplica en batalla)."
+r:"{{A}}(\d+) Increases damage in Gates of the Nightmare Catcher by ([\d.]+)% \(takes effect in battle\)\."="{{A}}$1 Aumenta el daño en El Portal del Cazapesadillas en un $2% (se aplica en batalla)."
+r:"{{A}}(\d+) Increases all allies' Defense by (\d+) \(takes effect in battle\)\."="{{A}}$1 Aumenta la Defensa de todos los aliados en $2 (se aplica en batalla)."
+r:"{{A}}(\d+) Increases all allies' Defense by (\d+) \(takes effect in battle\)\.\n{{A}}(\d+) Increases damage in Gates of the Nightmare Catcher by ([\d.]+)% \(takes effect in battle\)\."="{{A}}$1 Aumenta la Defensa de todos los aliados en $2 (se aplica en batalla).\n{{A}}$3 Aumenta el daño en El Portal del Cazapesadillas en $4% (se aplica en batalla)."
+r:"{{A}}(\d+) Increases Physical and Gun damage by ([\d.]+)% \(takes effect in battle\)\."="Nv$1 Aumenta el daño físico y de Arma a Distancia en un $2% (se aplica en combate)."
+r:"{{A}}(\d+) Grants (\d+) extra Konpaku Gems when you play Pursuit of Treasure\."="Nv$1 Otorga $2 Gemas Konpaku adicionales al jugar Persecución de Tesoros."
+r:"{{A}}(\d+) Increases Physical and Gun damage by ([\d.]+)% \(takes effect in battle\)\.\n{{A}}(\d+) Grants (\d+) extra Konpaku Gems when you play Pursuit of Treasure\."="Nv$1 Aumenta el daño físico y de Arma a Distancia en un $2% (se aplica en combate).\nNv$3 Otorga $4 Gemas Konpaku adicionales al jugar Persecución de Tesoros."
 
 ++-------------Detalles de nivel de Qualia-----------------++
-r:"^Increases\\s+Physical\\s+and\\s+Gun\\s+damage\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(takes\\s+effect\\s+in\\s+battle\\)\\.$"="Aumenta el daño físico y de arma en un $1% (En combate)."
+r:"^Increases\\s+Physical\\s+and\\s+Gun\\s+damage\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(takes\\s+effect\\s+in\\s+battle\\)\\.$"="Aumenta el daño físico y de Arma a Distancia en un $1% (En combate)."
 r:"^Increases\\s+Fire\\s+and\\s+Psychokinesis\\s+damage\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(takes\\s+effect\\s+in\\s+battle\\)\\.$"="Aumenta el daño de Fuego y Psicoquinesis un $1% (En combate)."
 r:"^Increases\\s+Ice\\s+and\\s+Nuclear\\s+damage\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(takes\\s+effect\\s+in\\s+battle\\)\\.$"="Aumenta el daño de Hielo y Nuclear un $1% (En combate)."
 r:"^Increases\\s+Electric\\s+and\\s+Bless\\s+damage\\s+by\\s+(\\d+\\.?\\d*)%\\s+\\(takes\\s+effect\\s+in\\s+battle\\)\\.$"="Aumenta el daño de Electricidad y Bendición un $1% (En combate)."
@@ -471,7 +478,7 @@ r:"^\(Paid:\s+(\d+)\)$"="(Pagado: $1)"
 r:"^Unlocks at Lv\\. (\\d+)$"="Se desbloquea en Nv. $1"
 r:"^Lv\\.(\\d+)$"="Nv.$1"
 r:"^EXP:\s+(\d+)\s*$"="EXP: $1"
-r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.3.2\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
+r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.4.0\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
 r:"^Fusion\s+will\s+produce\s+(\d+)\s+<color\=#FF423F>(.+?)'s\s+Seal</color>\.\s*$"="La fusión producirá $1 <color\=#FF423F>Sello de $2</color>."
 r:"^Phantom Thief level cap increased to \\n<color\=#FFF000>Lv\\. (\\d+)</color>\\.$"="El límite de nivel de Ladrones Fantasma ha aumentado a \n<color\=#FFF000>Lv. $1</color>."
 r:"^Lv\\. (\\d+) Set$"="Set de Nv. $1"
@@ -531,9 +538,18 @@ r:"^Queue\\s+of\\s+(\\d+)\\s+Demons\\s*\\((\\d+)/(\\d+)\\)$"="Cola de $1 demonio
 r:"^All-New\\s+(\\d+)\\s+Tanks\\s*\\((\\d+)/(\\d+)\\)$"="Tanques $1 completamente nuevos($2/$3)"
 r:"^Reach\\s+Talent\\s+level\\s+(\\d+)\\s+to\\s+further\\s+level\\s+up\\s+Phantom\\s+Thief\\.$"="Alcanzar el nivel de talento $1 para nivelar más al Ladron fantasma."
 r:"^Unlocks\\s+at\\s+\\{\\{A\\}\}\\.\\s+(\\d+)$"="Se Desbloquea al {{A}}. $1"
-r:"^Game\\s+data\\s+updates\\s+are\\s+required:\\s+(\\d+\\.?\\d*)MB\\.\\s+Begin\\s+download\\?$"="Se requieren actualizaciones de datos del juego: $1 MB.\nComenzar la descarga?"
-r:"^\\((\\d+\\.?\\d*)MB/(\\d+\\.?\\d*)MB\\)$"="($1Mb/$2Mb)"
+r:"^Game\\s+data\\s+updates\\s+are\\s+required:\\s+(\\d+\\.?\\d*)MB\\.\\s+Begin\\s+download\\?$"="Se requieren actualizaciones de datos del juego: $1MB.\nComenzar la descarga?"
+r:"(?s)^A\s+(\d+\.?\d*)MB\s+download\s+is\s+required\.\s+Would\s+you\s+like\s+to\s+begin\s+the\s+download\?\s+\(On\s+smartphones,\s+the\s+download\s+will\s+continue\s+even\s+while\s+the\s+application\s+is\s+suspended\.\s+Music\s+will\s+be\s+played\s+during\s+the\s+download\s+process\.\s+It\s+is\s+recommended\s+to\s+be\s+connected\s+to\s+Wi-Fi\.\)$"="Se requiere una descarga de $1MB. ¿Te gustaría comenzar la descarga?\n\n(En smartphones, la descarga continuará incluso si la aplicación está suspendida. Se reproducirá música durante el proceso de descarga. Se recomienda estar conectado\na Wi-Fi)."
+r:"^\\((\\d+\\.?\\d*)MB/(\\d+\\.?\\d*)MB\\)$"="($1MB/$2MB)"
 r:"^(\\d+\\.?\\d*)MB/s$"="$1MB/s"
+r:"^Download\s+Size:\s+(\d+\.?\d*)MB$"="Tamaño de descarga: $1MB"
+r:"^Chapter\s+(\d+)\s+Part\s+(\d+)$"="Capítulo $1 Parte $2"
+r:"^Download\s+Paused\.\.\.(\d+\.?\d*)MB/(\d+\.?\d*)MB$"="Descarga pausada...$1MB/$2MB"
+r:"^Required\s+Resource\s+(\d+)$"="Recurso requerido $1"
+r:"^Data\s+Storage:\s+(\d+)\s+MB$"="Almacenamiento de datos: $1MB"
+r:"^(\d+\.?\d*)MB/(\d+\.?\d*)MB\((\d+\.?\d*)MB/S\)$"="$1MB/$2MB($3MB/S)"
+r:"^Downloading\.+(\d+\.?\d*)MB$"="Descargando........$1MB"
+r:"(?s)^Do\s+you\s+want\s+to\s+download\s+all\s+the\s+content\s+now\?\s+The\s+data\s+size\s+is\s+(\d+\.?\d*)MB\.\s+This\s+will\s+take\s+some\s+time\s+to\s+complete\.\s+\(You\s+can\s+also\s+download\s+the\s+remaining\s+data\s+after\s+you\s+begin\s+playing\)$"="¿Quieres descargar todo el contenido ahora?\nEl tamaño de los datos es $1MB. Esto tomará algo de tiempo en completarse.\n(También puedes descargar los datos restantes después de comenzar a jugar)"
 r:"^Checking\\s+resources\\.\\s+Please\\s+wait:\\s+\\((\\d+)\\)$"="Verificación de recursos.\nPor favor espere: ($1)"
 r:"^Updating\\s+local\\s+files:\\s+\\((\\d+)/(\\d+)\\)$"="Actualización de archivos locales: ($1/$2)"
 r:"^\\{\\{A\\}\}\\.\\s+(\\d+)\\s+Set$"="{{A}}. $1 set"
@@ -713,13 +729,99 @@ r:"Until 5★: (\d+)/(\d+), (.+?) is the next guaranteed 5★!"="Hasta 5★: $1/
 r:"<color\=#FFFFFF>\(Currently <color\=#FFD145>#(\d+)</color>\)</color>"="<color\=#FFFFFF>(Actualmente <color\=#FFD145>#$1</color>)</color>"
 r:"Attempt at {{A}}\. (\d+)"="Intento en {{A}}. $1"
 r:"Can enhance at Thief {{A}}. (\d+)"="Se puede mejorar con Ladrón {{A}}. $1"
+r:"Obtain rewards based on your total points! Current total: <color\=#eade10>(\d+)</color>"="¡Obtén recompensas según tu total de puntos! Total actual: <color\=#eade10>$1</color>"
+r:"^Palace\s+(\d+)$"="Palacio $1"
+r:"^Data\s+Collected:\s+(\d+)/(\d+)$"="Datos recopilados: $1/$2"
+r:"^Spend\s+time\s+with\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)$"="Pasar tiempo con $1"
+r:"^Should\s+I\s+spend\s+time\s+with\s+([A-Za-z]+)\.\.\.\?$"="¿Debería pasar tiempo con $1...?"
+r:"(?s)^From\s+the\s+([A-Z][a-z]+\s+\d{2},\s+\d{4})\s+Phantom\s+Pass,\s+Daily\s+Mission\s+Rewards\s+x(\d+)\s+were\s+not\s+claimed\.\s+They\s+have\s+been\s+delivered\s+to\s+you\s+via\s+this\s+message\.$"="Del Pase Fantasma del $1, no se reclamaron las Recompensas de Misión Diaria x$2. Se te han entregado a través de este mensaje."
+r:"Collect Radiant Lilies in The Masks We Wear: Phase (\d+) \(([\d/]+)\)"="Consigue Lirios Radiantes en Las Máscaras que Llevamos: Fase $1 ($2)"
+r:"{{A}} Trials from the Sea of Souls: Western Work Site \(([\d/]+)\)"="Completa Pruebas del Mar de Almas: Zona de Obra Occidental ($1)"
+r:"It's hard to find an opening\. Spot weaknesses at <color\=#FF3B37>Insight {{A}}\. (\d+)</color>"="Es difícil encontrar una apertura. Detecta debilidades con <color\=#FF3B37>Perspicacia {{A}}. $1</color>"
+r:"Spend: <color\=#FFDE00>(\d+)★ Cognitite Case x(\d+)</color>\.\nTrade: <color\=#FFDE00>([a-zA-Z\s]+)'s Cognitite x(\d+)</color>\.\nConfirm trade\?"="Gastar: <color\=#FFDE00>Caja de Cognición de $1★ x$2</color>.\nIntercambiar por: <color\=#FFDE00>Cognición de $3 x$4</color>.\n¿Confirmar intercambio?"
+r:"{{A}}: (\d+)/(\d+)"="{{A}}: $1/$2"
+r:"Joy Medal x(\d+)"="Medalla de Alegría x$1"
+r:"Collect (\d+) to obtain one Artisan's Mod Order\."="Recolecta $1 para obtener una Orden de Modificación de Artesano."
+r:"Rank ([IVXLCDM]+) Persona Box"="Caja de Persona de Rango $1"
+r:"Sounds like (\w+) wants to\nmeet up\. I should head\nover now\.\.\."="Parece que $1 quiere reunirse.\nDebería ir hacia allá ahora..."
+r:"Can be used to select and obtain Repression Medal IV x(\d+) or certain Rank ([IVXLCDM]+) Personas. "="Puede usarse para seleccionar y obtener Medalla de Represión IV x$1 o ciertas Personas de Rango $2."
+r:"Raise ([^:]+?) to {{A}}\. (\d+)\."="Sube a $1 a Nv. $2."
+r:"Raise ([^:]+?) to level (\d+)\."="Sube a $1 a nivel. $2."
+r:"Reach Synergy Rank (\d+) with ([\w\s]+)\."="Alcanza el Rango $1 de Sinergia con $2."
+Reach Synergy Rank 1 with Merope.=Alcanza el Rango 1 de Sínergia con Merope.
+Reach Synergy Rank 17 with Merope and make her your exclusive concierge.=Alcanza el Rango de Sínergía 17 con Merope y hazla tu conserje exclusivo.
+Purchase the Lunar New Year Outfit Set at the shop.=Compra el conjunto de ropa de Año Nuevo Lunar en la tienda.
+Frostgale Avatar 2=Avatar de Vientogélido 2
+Frostgale Kotone Avatar=Vientogélido Kotone Avatar
+Default icon. Unlocks automatically.=Icono predeterminado. Se desbloquea automáticamente.
+
+++----Metro----++
+r:"{{A}} Difficulty (\d+) with (?:a|an) <link\=(.+?)><u>Curse Formation</u></link>"="Completa la dificultad $1 con una <link\=$2><u>Formación de Maldición</u></link>"
+r:"{{A}} Difficulty (\d+) with (?:a|an) <link\=(.+?)><u>Electric Formation</u></link>"="Completa la dificultad $1 con una <link\=$2><u>Formación Eléctrica</u></link>"
+r:"{{A}} Difficulty (\d+) with (?:a|an) <link\=(.+?)><u>Ice Formation</u></link>"="Completa la dificultad $1 con una <link\=$2><u>Formación de Hielo</u></link>"
+r:"{{A}} Difficulty (\d+) with (?:a|an) <link\=(.+?)><u>Fire Formation</u></link>"="Completa la dificultad $1 con una <link\=$2><u>Formación de Fuego</u></link>"
+r:"{{A}} Difficulty (\d+) with (?:a|an) <link\=(.+?)><u>Nuclear Formation</u></link>"="Completa la dificultad $1 con una <link\=$2><u>Formación de Nuclear</u></link>"
+r:"{{A}} Difficulty (\d+) with (?:a|an) <link\=(.+?)><u>Bless Formation</u></link>"="Completa la dificultad $1 con una <link\=$2><u>Formación de Bedición</u></link>"
+r:"{{A}} Difficulty (\d+) with (?:a|an) <link\=(.+?)><u>Wind Formation</u></link>"="Completa la dificultad $1 con una <link\=$2><u>Formación de Viento</u></link>"
+r:"{{A}} Difficulty (\d+) with (?:a|an) <link\=(.+?)><u>Physical Formation</u></link>"="Completa la dificultad $1 con una <link\=$2><u>Formación de Físico</u></link>"
+r:"{{A}} Difficulty (\d+) with (?:a|an) <link\=(.+?)><u>Psychokinesis Formation</u></link>"="Completa la dificultad $1 con una <link\=$2><u>Formación de Psicoquinesis</u></link>"
+r:"{{A}} Difficulty (\d+) with (?:a|an) <link\=(.+?)><u>Almighty Formation</u></link>"="Completa la dificultad $1 con una <link\=$2><u>Formación de Todopoderoso</u></link>"
+r:"{{A}} Difficulty (\d+) with (?:a|an) <link\=(.+?)><u>Gun Formation</u></link>"="Completa la dificultad $1 con una <link\=$2><u>Formación de Arma a Distancia</u></link>"
+r:"Dream Line Course (\d+)"="Curso de Línea de Sueño $1"
+r:"All allies' SP cost \+(\d+)%"="Costo de PE de todos los aliados +$1%"
+r:"All foes' HP \+(\d+)%"="PS de todos los enemigos +$1%"
+r:"All foes' Attack \+(\d+)%"="Ataque de todos los enemigos +$1%"
+r:"Ally SP cost \+(\d+)%"="Costo de PE del aliado +$1%"
+r:"Enemy HP \+(\d+)%"="PS del enemigo +$1%"
+r:"Enemy HP \+(\d+)%"="PS del enemigo +$1%"
+r:"Enemy Attack \+(\d+)%"="Ataque del enemigo +$1%"
+
+++----Wp For----++
+Ryuji Only=Sólo Para Ryuji
+Nagisa Only=Sólo Para Nagisa
+Ann Only=Sólo Para Ann
+Tomoko Only=Sólo Para Tomoko
+Ren Only=Sólo Para Ren
+Shiratori Only=Sólo Para Shiratori
+Shoki Only=Sólo Para Shoki
+Lufel Only=Sólo Para Lufel
+Sumi Only=Sólo Para Sumi
+Kurotani Only=Sólo Para Kurotani
+Kamiyama Only=Sólo Para Kamiyama
+Minami Only=Sólo Para Minami
+Yukimi Only=Sólo Para Yukimi
+Tomiyama Only=Sólo Para Tomiyama
+Haruna Only=Sólo Para Haruna
+Miyu Only=Sólo Para Miyu
+Kotone Only=Sólo Para Kotone
+Makoto Only=Sólo Para Makoto
+Chizuko Only=Sólo Para Chizuko
+Yumi Only=Sólo Para Yumi
+Ayaka Only=Sólo Para Ayaka
+Yusuke Only=Sólo Para Yusuke
+Riko Only=Sólo Para Riko
+Seaside Tomoko Only=Sólo Para Tomoko Costera
+Futaba Only=Sólo Para Futaba
+Haru Only=Sólo Para Haru
+Justine & Caroline Only=Sólo Para Justine y Caroline
+Mio Only=Sólo Para Mio
+Frostgale Kotone Only=Sólo Para Kotone Vientogélido
+Yui Only=Sólo Para Yui
+Kira Only=Solo Kira
+Ashiya Only=Sólo Para Ashiya
+Firecracker Yaoling Only=Sólo Para Firecracker Yaoling 
+Kasumi Only=Solamente para Kasumi
+Mayumi Only=Solo para Mayumi
+Akechi Only=Sólo para Akechi
+Manaka Only=Sólo Para Manaka
 
 ++----Efecto de Armonía (Composiciones de Equipos)----++
+
 Electric Attribute Harmony Effects=Efectos de Armonía del Atributo Eléctrico
 Wind Attribute Harmony Effects=Efectos de Armonía del Atributo Viento
 Ice Attribute Harmony Effects=Efectos de Armonía del Atributo Hielo
 Fire Attribute Harmony Effects=Efectos de Armonía del Atributo Fuego
-Gun Attribute Harmony Effects=Efectos de Armonía del Atributo Arma
+Gun Attribute Harmony Effects=Efectos de Armonía del Atributo Arma a Distancia
 Physical Attribute Harmony Effects=Efectos de Armonía del Atributo Físico
 Almighty Attribute Harmony Effects=Efectos de Armonía del Atributo Todopoderoso
 Curse Attribute Harmony Effects=Efectos de Armonía del Atributo Maldición
@@ -732,8 +834,8 @@ Duet (Ice): Increases the Phantom Thieves' Ice skill damage\nby 10%.=Dueto (Hiel
 Ensemble (Ice): Increases the Phantom Thieves' Ice skill damage\nby 12%.=Ensamble (Hielo): Aumenta el daño de las habilidades de Hielo de los Ladrones Fatansma en un 12%.
 Duet (Physical): Increases the Phantom Thieves' Physical skill damage\nby 10%.=Dueto (Físico): Aumenta el daño de las habilidades Físicas de los Ladrones Fantasma en un 10%.
 Ensemble (Physical): Increases the Phantom Thieves' Physical skill damage\nby 12%.=Ensamble (Físico): Aumenta el daño de las habilidades Físicas de los Ladrones Fatansma en un 12%.
-Duet (Gun): Increases the Phantom Thieves' Gun skill damage\nby 10%.=Dueto (Arma de fuego): Aumenta el daño de las habilidades de Arma de fuego de los Ladrones Fantasma en un 10%.
-Ensemble (Gun): Increases the Phantom Thieves' Gun skill damage\nby 12%.=Ensamble (Arma de fuego): Aumenta el daño de las habilidades de Arma de fuego de los Ladrones Fantasma en un 12%.
+Duet (Gun): Increases the Phantom Thieves' Gun skill damage\nby 10%.=Dueto (Arma a Distancia): Aumenta el daño de las habilidades de Arma a Distancia de los Ladrones Fantasma en un 10%.
+Ensemble (Gun): Increases the Phantom Thieves' Gun skill damage\nby 12%.=Ensamble (Arma a Distancia): Aumenta el daño de las habilidades de Arma a Distancia de los Ladrones Fantasma en un 12%.
 Duet (Electric): Increases the Phantom Thieves' Electric skill damage\nby 10%.=Dueto (Eléctrico): Aumenta el daño de las habilidades de Eléctrico de los Ladrones Fatansma en un 10%.
 Ensemble (Electric): Increases the Phantom Thieves' Electric skill damage\nby 12%.=Ensamble (Eléctrico): Aumenta el daño de las habilidades de Eléctrico de los Ladrones Fatansma en un 12%.
 Duet (Wind): Increases the Phantom Thieves' Wind skill damage\nby 10%.=Dueto (Viento): Aumenta el daño de las habilidades de Viento de los Ladrones Fatansma en un 10%.
@@ -753,13 +855,15 @@ Concerto: Increases Bless/Almighty/Electric/Wind damage by 5%.=Concierto: Aument
 Concerto: Increases Nuclear/Curse/Psychokinesis/Fire damage by 5%.=Concierto: Aumenta el daño de Nuclear, Maldición, Psicoquinesis, Fuego en un 5%.
 Concerto: Increases Psychokinesis/Fire/Bless/Electric damage by 5%.=Concierto: Aumenta el daño de Psicoquinesis, Fuego, Bendición, Eléctrico en un 5%.
 Concerto: Increases Fire/Curse/Electric/Nuclear damage by 5%.=Concierto: Aumenta el daño de Fuego, Maldición, Eléctrico, Nuclear un 5%.
-Concerto: Increases Gun/Fire/Ice/Nuclear damage by 5%.=Concierto: Aumenta el daño de Arma de Fuego, Fuego, Hielo, Nuclear un 5%.
+Concerto: Increases Gun/Fire/Ice/Nuclear damage by 5%.=Concierto: Aumenta el daño de Arma a Distancia, Fuego, Hielo, Nuclear un 5%.
 Concerto: Enhances damage for four attributes in party.=Concierto: Mejora el daño de cuatro atributos del grupo.
 ++------------Tycoon----------------++
 r:"Become Tycoon using Lufel (\d+) time\. \((\d+)/(\d+)\)"="Conviértete en Magnate usando a Lufel $1 vez. ($2/$3)"
 r:"Play a (.+?) card (\d+) times\. \((\d+)/(\d+)\)"="Juega una carta $1 $2 veces. ($3/$4)"
 r:"Play against ([^ ]+) and become Tycoon\. \((\d+)/(\d+)\)"="Juega contra $1 y conviértete en Magnate. ($2/$3)"
 r:"Play a pair (\d+) times\. \((\d+)/(\d+)\)"="Juega un par $1 veces. ($2/$3)"
+
+On days 2 and 3 of the event, the daily Tycoon Medal Cap is raised by 600 each day.\nIf you play 1 Round, you will receive 80 Tycoon Medals when rewards are tallied.\nIf you play 3 Rounds, you will receive 200 Tycoon Medals when rewards are tallied.\nIf you play in Ranked Match, you will receive 200 Tycoon Medals when rewards are tallied.=En los días 2 y 3 del evento, el límite diario de Medallas de Tycoon aumenta en 600 cada día.\nSi juegas 1 ronda, recibirás 80 Medallas de Tycoon cuando se contabilicen las recompensas.\nSi juegas 3 rondas, recibirás 200 Medallas de Tycoon cuando se contabilicen las recompensas.\nSi juegas en una Partida Clasificatoria, recibirás 200 medallas Tycoon cuando se calculen las recompensas.
 
 ++-------------UI Habitación Terciopelo-----------------++
 r:"^Fuse\s+(\d+)\s+Rank\s+(.+?)\s+Persona\s+of\s+(\d+).?\s*rarity\s*$"="Fusiona $1 Persona de rango $2 con rareza de $3★."
@@ -1316,6 +1420,28 @@ r:"Roll a Loaded Die (\d+) times \((\d+)/(\d+)\)"="Lanza dado cargado $1 veces (
 r:"Get (\d+) collectables in the Laboratory Arc Part 2 \((\d+)/(\d+)\)"="Consigue $1 objetos colecc. en el Arco Lab. Parte 2 ($2/$3)"
 r:"{{A}} the Area (\d+) boss challenge \((\d+)/(\d+)\)"="Completa el desafío del jefe del Área $1 ($2/$3)"
 r:"{{A}} Recollections of Fate on difficulty (\d+) \((\d+)/(\d+)\)"="Completa Recuerdos del Destino en dificultad $1 ($2/$3)"
+r:"Radiant Lily: (\d+)"="Lirio Radiante: $1"
+r:"Obtain from The Masks We Wear: Phase (\d+) Missions"="Se obtiene en Las Máscaras que Llevamos: Misiones de la Fase $1"
+r:"Awarded for playing The Masks We Wear: Phase (\d+) in chapter (\d+) of the main story\."="Se otorga por jugar Las Máscaras que Llevamos: Fase $1 en el capítulo $2 de la historia principal."
+r:"About The Masks We Wear: Phase (\d+)"="Acerca de Las Máscaras que Llevamos: Fase $1"
+r:"Go to Path Of Kaitul \(([\d/]+)\)"="Ve al Camino de Kaitul ($1)"
+r:"Rehearse for the performance \(([\d/]+)\)"="Ensayar para la presentación ($1)"
+r:"Infiltrate the fourth Palace \(([\d/]+)\)"="Infiltrarse en el cuarto Palacio ($1)"
+r:"Learn the Phantom Thieves have been exposed \(([\d/]+)\)"="Entérate de que los Ladrones Fantasma han sido expuestos ($1)"
+r:"Awaken the fourth Phantom Thief \(([\d/]+)\)"="Despierta al cuarto Ladrón Fantasma ($1)"
+r:"Obtainable by playing The Masks We Wear: Phase (\d+)\. Can be exchanged for rewards\."="Se obtiene jugando Las Máscaras que Llevamos: Fase $1. Se puede canjear por recompensas."
+r:"Meet Shimotsuna \((\d+)/(\d+)\)"="Conoce a Shimotsuna ($1/$2)"
+r:"Find (\d+) safe rooms in Path of Kaitul \(([\d/]+)\)"="Encuentra $1 habitaciones seguras en el Camino de Kaitul ($2)"
+r:"Reach ticket level (\d+) in Path of Kaitul \(([\d/]+)\)"="Alcanza el nivel de ticket $1 en el Camino de Kaitul ($2)"
+r:"Open (\d+) treasure chests in Path of Kaitul \(([\d/]+)\)"="Abre $1 cofres del tesoro en el Camino de Kaitul ($2)"
+r:"Get (\d+)% progress in the fourth Palace \(([\d/]+)\)"="Obtén un $1% de progreso en el cuarto Palacio ($2)"
+r:"Defeat a Depraved Shadow in Path of Kaitul Area (\d+) \((\d+)/(\d+)\)"="Derrota a una Sombra Depravada en el Área $1 del Camino de Kaitul ($2/$3)"
+r:"Defeat (\d+) {{A}}tated Shadows in Path of Kaitul \((\d+)/(\d+)\)"="Derrota a $1 Sombras Agitadas en el Camino de Kaitul ($2/$3)"
+r:"Defeat an {{A}}tated Shadow in Path of Kaitul \((\d+)/(\d+)\)"="Derrota a una Sombra Agitada en el Camino de Kaitul ($1/$2)"
+r:"Defeat a savage Shadow in the fourth Palace \((\d+)/(\d+)\)"="Derrota a una Sombra salvaje en el cuarto Palacio ($1/$2)"
+r:"Defeat a Treasure Demon in Path of Kaitul \((\d+)/(\d+)\)"="Derrota a un Demonio del Tesoro en el Camino de Kaitul ($1/$2)"
+r:"Defeat (\d+) Savage Shadows in the fourth Palace \((\d+)/(\d+)\)"="Derrota a $1 Sombras Salvajes en el cuarto Palacio ($2/$3)"
+r:"{{A}} (\d+) City Adventure missions \((\d+)/(\d+)\)"="Completa $1 misiones de Aventura en la Ciudad ($2/$3)"
 
 ++-------------San valentín-----------------++
 r:"Do you want to spend Valentine's Day with <color\=#FF91B9>([^ ]+)</color>\?\nYou will receive special chocolate from the first person you chose, which you can display at home\.\n<color\=#FF91B9>\(You will not be able to receive special chocolate from other people\.\)</color>"="¿Quieres pasar el Día de San Valentín con <color\=#FF91B9>$1</color>?\nRecibirás chocolate especial de la primera persona que elegiste, que podrás exhibir en casa.\n<color\=#FF91B9>(No podrás recibir chocolate especial de otras personas.)</color>"
@@ -1372,6 +1498,7 @@ r:"(?s)<color\=#FFD145>Visitors</color>.*?Visitors can come to visit your Thieve
 
 r:"(?s)<color\=#FFD145>Graphics\s+Settings</color>.*?Configure\s+various\s+graphical\s+settings\..*?<color\=#FFD145>Sound\s+Settings</color>.*?Adjust\s+individual\s+volume\s+settings\..*?<color\=#FFD145>Game\s+Settings</color>.*?Customize\s+individual\s+in-game\s+system\s+settings\..*?<color\=#FFD145>Control\s+Settings</color>.*?Adjust\s+your\s+game\s+controls\..*?You\s+can\s+view\s+details\s+on\s+<color\=#FF423F>each\s+setting</color>\s+by\s+tapping\s+the\s+\?\s+icon\."="<color\=#FFD145>Ajustes de gráficos</color>\nConfigura varios ajustes gráficos.\n\n<color\=#FFD145>Ajustes de sonido</color>\nAjusta la configuración de volumen individual.\n\n<color\=#FFD145>Ajustes de juego</color>\nPersonaliza los ajustes individuales del sistema de juego.\n\n<color\=#FFD145>Ajustes de control</color>\nAjusta los controles de tu juego.\nPuedes ver los detalles de <color\=#FF423F>cada ajuste</color> tocando el icono de ?."
 
+<color\=#FFD145>Station Shop</color>\nYou can buy <color\=#FF423F>Lost Items</color> or <color\=#FF423F>Charms</color> from Marthym.\nYou can also <color\=#FF423F>enhance</color> Charms at certain stations.\nBuying and enhancing requires Railway Coins, which you can obtain by <color\=#FF423F>defeating enemies</color> or <color\=#FF423F>destroying breakable objects</color>.=<color\=#FFD145>Tienda de la estación</color>\nPuedes comprar <color\=#FF423F>Artículos perdidos</color> o <color\=#FF423F>Encantos</color> de Marthym. También puedes <color\=#FF423F>Mejorar</color> Encantos en ciertas estaciones. Comprar y mejorar requiere Monedas de Ferrocarril, que puedes obtener al <color\=#FF423F>derrotar enemigos</color> o <color\=#FF423F>destruyendo objetos destructibles</color>.
 
 ++-------------Pruebas Pjs-----------------++
 r:"(?s)1\.\s+(.*?)\s+possesses\s+powerful\s+<color\=#FF423F>support\s+capabilities</color>.*?deal\s+even\s+greater\s+damage\."="1. $1 posee poderosas <color\=#FF423F>capacidades de apoyo</color>. Al aprovechar sus diferentes habilidades en batalla, puede infligir <color\=#FF423F>multitud de efectos negativos</color> a los enemigos y <color\=#FF423F>reducir su curación recibida</color>.\n2. Cuando Gran Bienvenida está activo, puede <color\=#FF423F>reducir la Defensa de todos los enemigos</color> e <color\=#FF423F>aumentar el daño de Fuego/Hielo/Eléctrico/Viento recibido</color>, al tiempo que fortalece los ataques de esos elementos de los aliados.\n3. Cuando Seguimiento Feroz está activo, puede reducir la Defensa de un enemigo y aumentar su daño de Resonancia recibido. Cuando se combina con aliados que pueden usar <color\=#FF423F>Resonancia</color>, pueden infligir un daño aún mayor."
@@ -1400,6 +1527,10 @@ With powerful <color\=#FF423F>offensive capabilities</color>, Firecracker Yaolin
 
 1. Akechi has high <color\=#FF423F>Attack power</color>. He can deal <color\=#FF423F>Almighty damage</color>, ignoring enemy affinities and Defense.\n2. By granting the <color\=#FF423F>Mastermind</color> state to <color\=#FF423F>Sweeper or Assassin</color> allies, Akechi can record the damage dealt by an ally with Mastermind, and deal damage based on the recorded amount. If there are no Sweeper or Assassin allies, Akechi can gain Mastermind to strengthen himself.\n3. He can provide <color\=#FF423F>buffs</color> and <color\=#FF423F>healing</color> to allies, as well as inflict <color\=#FF423F>debuffs</color> on foes, allowing utility in a variety of situations.=1. Akechi tiene un alto <color\=#FF423F>poder de Ataque</color>. Puede infligir <color\=#FF423F>daño Todopoderoso</color>, ignorando las afinidades y la Defensa del enemigo.\n2. Al otorgar el estado de <color\=#FF423F>Mente maestra</color> a aliados de tipo <color\=#FF423F>Barrenderoes o Asesino</color>, Akechi puede registrar el daño infligido por un aliado con Mente maestra y realizar daño basado en la cantidad registrada. Si no hay aliados Barrenderoes o Asesinos, Akechi puede obtener Mente maestra para fortalecerse a sí mismo.\n3. Puede proporcionar <color\=#FF423F>mejoras</color> y <color\=#FF423F>curación</color> a los aliados, así como aplicar <color\=#FF423F>debilitaciones</color> a los enemigos, lo que le otorga utilidad en una gran variedad de situaciones.
 
+<color\=#ff3b37>Manaka</color> has special support skills.=<color\=#ff3b37>Manaka</color> tiene habilidades de apoyo especiales.
+We should be able to take them\non without breaking a sweat!=¡Deberíamos poder acabar con ellos sin sudar una gota!
+1. Manaka has excellent <color\=#FF423F>full-party support capability</color>, and can raise the entire team's Attack and damage, as well as their pierce rate.\n2. Manaka can gain <color\=#FF423F>Musical Note</color> stacks from her skills and at the beginning of each ally's action. Musical Note enhances <color\=#FF423F>Melody of Steps</color>, or can reduce the cooldown time of <color\=#FF423F>Prayer Refrain</color>. 3. She can grant special extra actions to allies. On this extra action, the target's status will be <color\=#FF423F>reverted</color> to their condition before the previous action, and their <color\=#FF423F>Attack will be increased</color>.=1. Manaka tiene una excelente <color\=#FF423F>capacidad de apoyo para todo el grupo</color>, y puede aumentar el Ataque y el daño de todo el equipo, así como su tasa de perforación.\n2. Manaka puede ganar acumulaciones de <color\=#FF423F>Nota Musical</color> mediante sus habilidades y al comienzo de la acción de cada aliado. La Nota Musical mejora <color\=#FF423F>Melodía de Pasos</color>, o puede reducir el tiempo de reutilización de <color\=#FF423F>Estribillo de Oración</color>.\n3. Ella puede otorgar acciones extra especiales a los aliados. En esta acción extra, el estado del objetivo se <color\=#FF423F>revertirá</color> a su condición anterior a la acción previa, y su <color\=#FF423F>Ataque aumentará</color>.
+
 ++-------------Tutoriales Eventos-----------------++
 r:"(?s)<color\=#FFD145>Collecting Keywords</color>\n• In the mission Answer Sheet, join (.+?) to solve puzzles.*?• Drag the keywords to the correct place and complete the puzzle\."="<color\=#FFD145>Recopilación de palabras clave</color>\n• En la misión Hoja de respuestas, únete a $1 para resolver acertijos en una búsqueda del tesoro que pondrá a prueba tu ingenio. Durante el evento, puedes consultar tu hoja de respuestas para ver las palabras clave que has recopilado.\n• Puedes reunir las palabras clave en cualquier orden, pero solo puedes aceptar una misión de palabra clave a la vez.\n• Habrá más historia disponible cuando hayas reunido 3, 6 y 9 palabras clave. No podrás recolectar la siguiente palabra clave hasta que hayas completado la nueva historia.\n• Recibirás inmediatamente las recompensas por recopilar palabras clave tras completar cada misión. No es necesario volver a la hoja de respuestas para reclamarlas.\n\n<color\=#FFD145>Completar el acertijo</color>\n• Tras recopilar todas las palabras clave, deberás ponerlas en el orden correcto para formar una oración.\n• Arrastra las palabras clave al lugar correcto y completa el acertijo."
 
@@ -1420,6 +1551,11 @@ r:"<color\=#FFD145>Basic\s+Rules</color>\s+Progress\s+through\s+Mementos\s+and\s
 <color\=#FFD145>Event Introduction</color>\nThe third new Persona 5 Royal special event, Crossroads of Fate: Laboratory Arc Part 2, includes 5 sub-events: Laboratory Arc Part 2, Jose's Dicey Adventure, Recollections of Fate, Missions, and Exchange Shop.\n\n<color\=#FFD145>Event Duration</color>\nThis is a limited-time event.\nWhen the event is over, Laboratory Arc Part 2 can still be played in Past Events.\nUnused Unusual Rebel Coins will be converted to Konpaku Gems, so be sure to use them before the end of the event.\n\n<color\=#FFD145>Laboratory Arc Part 2</color>\n{{A}} stages to earn rewards.\n\n<color\=#FFD145>Jose's Dicey Adventure</color>\nExplore the Metaverse and collect Flowers to exchange for a variety of items.\n\n<color\=#FFD145>Recollections of Fate</color>\nDefeat the boss to earn rewards.\n\n<color\=#FFD145>Missions</color>\nComplete set goals to earn a variety of rewards.\n\n<color\=#FFD145>Exchange Shop</color>\nTrade Unusual Rebel Coins for a variety of items.=<color\=#FFD145>Introducción del evento</color>\nEl tercer nuevo evento especial de Persona 5 Royal, Encrucijada del Destino: Arco del Laboratorio Parte 2, incluye 5 subeventos: Arco del Laboratorio Parte 2, La Darriesgada Aventura de José, Recuerdos del Destino, Misiones y Tienda de Intercambio.\n\n<color\=#FFD145>Duración del evento</color>\nEste es un evento de tiempo limitado.\nCuando el evento termine, el Arco del Laboratorio Parte 2 podrá seguir jugándose en Eventos Pasados.\nLas Monedas Rebeldes Inusuales no utilizadas se convertirán en Gemas Konpaku, así que asegúrate de usarlas antes del final del evento.\n\n<color\=#FFD145>Arco del Laboratorio Parte 2</color>\nCompleta escenarios para ganar recompensas.\n\n<color\=#FFD145>La Darriesgada Aventura de José</color>\nExplora el Metaverso y recoge Flores para intercambiarlas por una variedad de objetos.\n\n<color\=#FFD145>Recuerdos del Destino</color>\nDerrota al jefe para ganar recompensas.\n\n<color\=#FFD145>Misiones</color>\nCompleta los objetivos establecidos para ganar una variedad de recompensas.\n\n<color\=#FFD145>Tienda de Intercambio</color>\nIntercambia Monedas Rebeldes Inusuales por una variedad de objetos.
 
 <color\=#FFD145>Event Overview</color>\nWhen you defeat bosses, you will unlock their corresponding Distortion Level challenges.\n\n<color\=#FFD145>Distortion Level</color>\nEach boss battle has multiple distortion levels.\nWhen you eliminate a boss at a certain level, a new level is unlocked, and you will receive rewards corresponding to the current distortion level.\nBosses become more powerful at higher distortion levels.\nYou can switch between challenge mode and stamina mode.\n{{A}}ing a difficulty level for the first time on challenge mode will unlock the difficulty on stamina mode.\nChallenging on stamina mode will expend stamina, but grants rewards for clearing.\nIn stamina mode, you will be granted special effects in order to support you in the boss challenge.\n\n<color\=#FFD145>Challenge Log</color>\nYou will receive rewards and Unusual Rebel Coins for challenge goals cleared before the end of the event period.\nRebel Coins can be exchanged for rewards through the Exchange Shop.=<color\=#FFD145>Resumen del evento</color>\nAl derrotar a los jefes, desbloquearás sus correspondientes desafíos de Nivel de Distorsión.\n\n<color\=#FFD145>Nivel de Distorsión</color>\nCada batalla contra un jefe tiene múltiples niveles de distorsión.\nCuando eliminas a un jefe en un nivel determinado, se desbloquea un nuevo nivel y recibirás recompensas correspondientes al nivel de distorsión actual.\nLos jefes se vuelven más poderosos en los niveles de distorsión más altos.\nPuedes cambiar entre el modo desafío y el modo de estamina.\nCompletar un nivel de dificultad por primera vez en el modo desafío desbloqueará la dificultad en el modo de estamina.\nDesafiar en el modo de estamina consumirá estamina, pero otorga recompensas al completarlo.\nEn el modo de estamina, se te otorgarán efectos especiales para apoyarte en el desafío del jefe.\n\n<color\=#FFD145>Registro de desafíos</color>\nRecibirás recompensas y Monedas Rebeldes Inusuales por los objetivos de desafío completados antes de que termine el periodo del evento.\nLas Monedas Rebeldes pueden intercambiarse por recompensas a través de la Tienda de Intercambio.
+
+<color\=#FFD145>Event Rules</color>\nComplete the goals in Main Story, Metaverse Exploration, Visions of Ruin, and City Adventure to obtain rewards like {{A}} and the event item, Radiant Lilies.\nAfter the event ends, each Radiant Lily will be converted to 100 Konpaku Gems.\n\n<color\=#FFD145>Balance and Harmony</color>\nWhen you collect Radiant Lilies, you can exchange them for Shoki's exclusive 4★ weapon, Sipario, and its required forging materials, Sipario Shards.=<color\=#FFD145>Reglas del evento</color>\nCompleta los objetivos en la Historia principal, Exploración del Metaverso, Visiones de la Ruina y Aventura en la ciudad para obtener recompensas como {{A}} y el objeto del evento, Lirios Radiantes.\nTras finalizar el evento, cada Lirio Radiante se convertirá en 100 Gemas Konpaku.\n\n<color\=#FFD145>Equilibrio y Armonía</color>\nCuando recolectes Lirios Radiantes, podrás intercambiarlos por el arma exclusiva de 4 estrellas de Shoki, Sipario, y sus materiales de forja necesarios, Fragmentos de Sipario.
+
+During the event, when you participate in Ranked Match or Solo Mode of Tycoon, you can obtain Tycoon Medals, and earn rewards for obtaining certain amounts.\nThere is a limit to how many Tycoon Medals you can obtain. On days 2 and 3 of the event, the daily Tycoon Medal Cap is raised by 600 each day.=Durante el evento, al participar en Partida igualada o Modo solitario de Tycoon, puedes obtener Medallas de Tycoon y ganar recompensas al obtener ciertas cantidades.\nExiste un límite en la cantidad de Medallas de Tycoon que puedes obtener. En los días 2 y 3 del evento, el límite diario de Medallas de Tycoon aumenta en 600 cada día.
+
 
 ++-------------Combates enemigos-----------------++
 
@@ -1455,6 +1591,14 @@ r:"Shadows have different weaknesses and resistances than normal\.\n1\. Phantom 
 
 <color\=#FFD145>About the Event</color>\nCrossroads of Fate: Laboratory Arc Part 2 is the third new Persona 5 Royal special event.\n\n<color\=#FFD145>Palace Exploration</color>\nYou can unlock a new stage when you clear the previous stage. Earn rewards for first-time completion of stages.=<color\=#FFD145>Acerca del evento</color>\nEncrucijada del Destino: Laboratorio Arco Parte 2 es el tercer nuevo evento especial de Persona 5 Royal.\n\n<color\=#FFD145>Exploración de Palacio</color>\nPuedes desbloquear una nueva etapa cuando superes la etapa anterior. Obtén recompensas por completar una etapa por primera vez.
 
+Fafnir inflicts <color\=#FF423F>Fafnir's Curse</color> on all Phantom Thieves.\nFafnir's Curse: Increase damage taken by 20%. When a Phantom Thief uses a Buff, Healing, or Defense skill, Fafnir's Curse is removed, and Fafnir is inflicted with 1 <color\=#FF423F>Curse's Remnant</color> stack.\nCurse's Remnant: Decrease Defense by 12%. Stacks up to 3 times. At 3 stacks, increase Fafnir's Highlight damage taken by 30%.=Fafnir inflige <color\=#FF423F>Maldición de Fafnir</color> a todos los Ladrones Fantasma.\nMaldición de Fafnir: aumenta el daño recibido en un 20%. Cuando un Ladrón Fantasma usa una habilidad de Mejora, Curación o Defensa, se elimina la Maldición de Fafnir y Fafnir recibe 1 acumulación de <color\=#FF423F>Remanente de Maldición</color>.\nRemanente de Maldición: reduce la Defensa en un 12%. Se acumula hasta 3 veces. Con 3 acumulaciones, aumenta el daño de Highlight recibido por Fafnir en un 30%.
+
+Shadows have different weaknesses and resistances than normal.\n1. At the start of battle, Lilith summons 4 Shadows.\nLilith and all Shadows are in the <color\=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Each turn, Lilith grants 1 <color\=#FF423F>Cover of Night</color> stack to all Shadows.\nCover of Night: Decrease final damage taken by 15% for each stack. Stacks up to 2 times.\n3. When a Shadow with Cover of Night is inflicted with an elemental ailment, remove 1 Cover of Night stack. =Las Sombras tienen debilidades y resistencias diferentes a las normales.\n1. Al comienzo de la batalla, Lilith invoca 4 Sombras.\nLilith y todas las Sombras están en estado de <color\=#FF423F>Vínculo de Almas</color>.\nVínculo de Almas: Distribuye todo el daño recibido entre todas las Sombras que comparten esta condición, según el porcentaje de su PS actual.\n2. Cada turno, Lilith otorga 1 acumulación de <color\=#FF423F>Manto de la Noche</color> a todas las Sombras.\nManto de la Noche: Reduce el daño final recibido en un 15% por cada acumulación. Se acumula hasta 2 veces.\n3. Cuando una Sombra con Manto de la Noche sufre un estado alterado elemental, se elimina 1 acumulación de Manto de la Noche.
+
+<color\=#FFD145>Event Rules</color>\n• Log in to the game every day to receive that day's rewards. =<color\=#FFD145>Reglas del evento</color>\n• Inicia sesión en el juego todos los días para recibir las recompensas del día. 
+
+<color\=#FFD145>Event Rules</color>\n• Log in to the game every day to receive that day's rewards.\n\n<color\=#FFD145>Event Rewards</color>\n• Rewards will be unlocked sequentially based on the total number of login days.\nDaily rewards are unlocked at 8 PM UTC.=<color\=#FFD145>Reglas del evento</color>\n• Inicia sesión en el juego todos los días para recibir las recompensas del día.\n\n<color\=#FFD145>Recompensas del evento</color>\n• Las recompensas se desbloquearán secuencialmente según el total de días de inicio de sesión. Las recompensas diarias se desbloquean a las 8 p. m. UTC.
+
 ++-------------Enemigos EndGame-----------------++
 r:"Shadows have different weaknesses and resistances than normal.\n1. At the start of battle, Vishnu summons 4 servants. Vishnu and all servants are in the <color\=(.+?)>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. When Vishnu and its servants take skill damage, they gain Guardian's Preservation based on the attribute, and that affinity is changed to Resist. This effect lasts for 2 turns."="Las Sombras tienen debilidades y resistencias diferentes a las habituales.\n1. Al comienzo de la batalla, Vishnu invoca a 4 sirvientes. Vishnu y todos los sirvientes están en estado de <color\=$1>Vínculo de alma</color>.\nVínculo de alma: Distribuye todo el daño recibido entre todas las Sombras que comparten esta condición, según el porcentaje de su HP actual.\n2. Cuando Vishnu y sus sirvientes reciben daño de habilidad, obtienen Preservación del guardián según el atributo, y esa afinidad cambia a Resistir. Este efecto dura 2 turnos."
 
@@ -1469,7 +1613,7 @@ r:"^Raise \{\{([A-Za-z]+)\}\} to \{\{([A-Za-z]+)\}\}\. (\d+)$"=Eleva a {{$1}} al
 # Patrón 1: Comienza con "Clear X Step Y missions"
 r:"^Clear (\d+) Step (\d+) missions$"=Completa $1 misiones de la etapa $2
 # Patrón 2: Comienza con "{{A}} X Step Y missions" y la traducción reordena a "Misiones del paso Y de {{A}} X"
-r:"^\{\{([A-Za-z]+)\}\} (\d+) Step (\d+) missions$"={{$1}} Misiones $2 de la etapa $3
+r:"{{A}} (\d+) Step (\d+) missions"="Completa $1 misiones de la Etapa $2"
 r:"^Raise (\d+) skills for (\d+) Phantom Thief to \{\{([A-Za-z]+)\}\}\. (\d+)$"=Eleva $1 habilidades para $2 Ladrones Fantasma a {{$3}}. $4
 r:"^Raise a Phantom Thief to \{\{([A-Za-z]+)\}\}\. (\d+)$"=Eleva a un Ladrón Fantasma a {{$1}}. $2
 r:"^Draw (\d+) contracts$"=Realiza $1 contratos
@@ -1516,7 +1660,27 @@ r:"^Raise\s+(\d+)\s+Space\s+Revelation\s+Cards\s+to\s+{{(.*?)}}\.\s+(\d+)\s*$"="
 r:"^Reach\s+level\s+(\d+)\s+on\s+the\s+Path\s+of\s+Aiyatsbus\s+Fare\s+Machine\s*$"="Alcanza el nivel $1 en la Máquina de tarifas del Camino de Aiyatsbus."
 r:"^Raise\s+(\d+)\s+skill\s+for\s+(\d+)\s+Thie[v|f]e?s\s+to\s+{{(.*?)}}\.\s+(\d+)\s+\(excluding\s+increases\s+from\s+Awareness\s+Levels\)\s*$"="Aumenta $1 habilidades para $2 Ladrones a {{$3}}. $4 (excluyendo aumentos de los Niveles de Conciencia)"
 r:"^Own\s+(\d+)\s+Rank\s+(.+?)\s+Personas\s+of\s+(\d+).?\s*rarity\s*$"="Posee $1 Personas de rango $2 con rareza de $3★."
-
+r:"Raise {{A}} to Super Level (\d+)"="Sube a {{A}} al Super Nivel $1"
+r:"Reach (\d+)% progress for the third Palace's Water Treatment Plant"="Alcanza el $1% de progreso en la Planta de Tratamiento de Agua del tercer Palacio"
+r:"Attain (\d+)★ in Trials from the Sea of Souls"="Alcanza $1★ en las Pruebas del Mar de Almas"
+r:"Reach level (\d+) on the Path of Chemdah Fare Machine"="Alcanza el nivel $1 en la Máquina de Tarifas del Camino de Chemdah"
+r:"Own (\d+) Rank ([IVXLCDM]+) Personas"="Posee $1 Personas de Rango $2"
+r:"Reach Task Level (\d+)\."="Alcanza el nivel de tarea $1."
+r:"Get a Phantom Thief's Rating to (\d+) points"="Lleva la Calificación de un Ladrón Fantasma a $1 puntos"
+Pass a red Stella in Trial of the Astrolabe=Entrega una Estrella roja en la Prueba del Astrolabio
+r:"Forge (\d+) {{A}}-only (\d+)★ weapons (\d+) times"="Forja $1 armas de 5★ exclusivas de {{A}} $3 veces"
+r:"Collect all capsule toys in (\d+) set"="Colecciona todos los juguetes de cápsula de $1 set"
+r:"Get (\d+) Phantom Thieves' Rating to (\d+) points"="Lleva la Calificación de $1 Ladrones Fantasma a $2 puntos"
+r:"Pass (\d+) purple Stellae in Trial of the Astrolabe"="Supera $1 estrellas moradas en la Prueba del Astrolabio"
+r:"Raise your fishing proficiency to level (\d+)"="Aumenta tu maestría de pesca al nivel $1"
+r:"Get your Total Phantom Thief Rating to (\d+) points"="Haz que tu Calificación total de Ladrón Fantasma alcance los $1 puntos"
+r:"Reach Den Level (\d+)"="Alcanza el nivel $1 de la Guarida"
+r:"Pass (\d+) red Stellae in Trial of the Astrolabe"="Supera $1 estrellas rojas en la Prueba del Astrolabio"
+r:"Get (\d+) Phantom Thief Rating to (\d+) points"="Lleva la Calificación de $1 Ladrón Fantasma a $2 puntos"
+r:"Reach Synergy Rank (\d+) with (\d+) accomplices"="Alcanza el Rango de Sinergia $1 con $2 cómplices"
+r:"Customize (\d+) Revelation Cards"="Personaliza $1 Cartas de Revelación"
+r:"Collect all capsule toys in (\d+) different sets"="Colecciona todos los juguetes de cápsula de $1 sets diferentes"
+r:"Reach (\d+)% progress for the third Palace's {{A}} Plant"="Alcanza un $1% de progreso en la Planta de Energía del tercer Palacio"
 ++-------------Marcos Avatares-----------------++
 r:"^Phantom\s+Pass\s+Phase\s+(\d+)\s+(.+)\s+reward\.$"="Phantom Pass Fase $1 $2 recompensa."
 
@@ -1675,7 +1839,7 @@ r:"^Increase\\s+Curse\\s+dmg\\s+by\\s+(\\d+\\.?\\d*)%\\.$"="Aumenta el daño de 
 
 r:"^Increase\\s+Physical\\s+dmg\\s+by\\s+(\\d+\\.?\\d*)%\\.$"="Aumenta el daño de Físico un $1%."
 
-r:"^Increase\\s+Gun\\s+dmg\\s+by\\s+(\\d+\\.?\\d*)%\\.$"="Aumenta el daño de Arma un $1%."
+r:"^Increase\\s+Gun\\s+dmg\\s+by\\s+(\\d+\\.?\\d*)%\\.$"="Aumenta el daño de Arma a Distancia un $1%."
 
 r:"^Increase\\s+Almighty\\s+dmg\\s+by\\s+(\\d+\\.?\\d*)%\\.$"="Aumenta el daño de Todopoderoso un $1%."
 
@@ -1785,7 +1949,7 @@ r:"^Decrease\s+damage\s+taken\s+by\s+([\d\.]+)%\.$"="Disminuye el daño recibido
 
 r:"^Increase\s+healing\s+received\s+by\s+([\d\.]+)%\.$"="Aumenta la curación recibida en un $1%."
 
-r:"^Increase\s+Gun\s+damage\s+by\s+([\d\.]+)%\.$"="Aumenta el daño de las Armas de Fuego en un $1%."
+r:"^Increase\s+Gun\s+damage\s+by\s+([\d\.]+)%\.$"="Aumenta el daño de las Arma a Distancia en un $1%."
 
 r:"^Increase\s+Physical\s+damage\s+by\s+([\d\.]+)%\.$"="Aumenta el daño Físico en un $1%."
 
@@ -1827,7 +1991,7 @@ r:"^Increase\s+Almighty\s+dmg\s+taken\s+by\s+(\d+)%\.\s*$"="Aumenta el daño de 
 
 r:"^Increase\s+Physical\s+dmg\s+taken\s+by\s+(\d+)%\.\s*$"="Aumenta el daño Físico recibido un $1%."
 
-r:"^Increase\s+Gun\s+dmg\s+taken\s+by\s+(\d+)%\.\s*$"="Aumenta el daño de Arma de Fuego recibido un $1%."
+r:"^Increase\s+Gun\s+dmg\s+taken\s+by\s+(\d+)%\.\s*$"="Aumenta el daño de Arma a Distancia recibido un $1%."
 
 r:"^Increase\s+dmg\s+taken\s+by\s+(.+?)%\.\s+After\s+taking\s+dmg,\s+grant\s+(.+?)\s+(\d+)%\s+Analysis\s+Progress\.\s*$"="Aumenta el daño recibido un $1%. Después de recibir daño, otorga a $2 un $3% de progreso de Análisis."
 
@@ -1851,7 +2015,7 @@ Curse Damage Taken Up=Daño de Maldición Recibido Aumentado
 
 Almighty Damage Taken Up=Daño Todopoderoso Recibido Aumentado
 
-Gun Damage Taken Up=Daño Arma de Fuego Recibido Aumentado
+Gun Damage Taken Up=Daño Arma a Distancia Recibido Aumentado
 
 r:"^Increase Atk, Def, ailment accuracy, and ailment resistance by (\d+[\d.]*)%\.$"="Aumenta el ATQ, DEF, precisión de estados adversos y resistencia a estados en un $1%."
 
@@ -2002,3 +2166,39 @@ r:"Increase damage to knocked down foes by (\d+)%\."="Aumenta el daño a enemigo
 r:"When on an extra action, increase damage by (\d+)%\."="Al realizar una acción extra, aumenta el daño en un $1%."
 
 r:"Increase Speed by (\d+)\."="Aumenta la Velocidad en $1."
+
+r:"Decrease Defense by ([\d.]+)% when taking Bless dmg\."="Reduce la Defensa en un $1% al recibir daño de Bendición."
+
+r:"At (\d+) Curse's Remnant stacks, increase Highlight damage taken by ([\d.]+)%\."="Con $1 cargas de Remanente de Maldición, aumenta el daño de Highlight recibido en un $2%."
+
+r:"Increase dmg based on user's missing HP\. \(Current Increase: ([\d.]+)%\)"="Aumenta el daño según el HP perdido del usuario. (Aumento actual: $1%)"
+
+r:"At the start of battle, increase Attack by ([\d.]+)% for (\d+) turns\."="Al inicio de la batalla, aumenta el Ataque un $1% durante $2 turnos."
+
+r:"Increase final damage by ([\d.]+)%\. On an extra action, increase damage by ([\d.]+)% more\."="Aumenta el daño final en un $1%. En una acción extra, aumenta el daño en un $2% más."
+
+r:"Restores ([\d.]+)% of max HP at the start of each turn\."="Restaura un $1% de los PS máximos al inicio de cada turno."
+
+r:"Decrease Speed by (\d+)\. Increase HP by ([\d.]+)%\."="Disminuye la Velocidad en $1. Aumenta los PS un $2%."
+
+r:"Decrease critical taken rate by ([\d.]+)%\."="Reduce la probabilidad de recibir críticos en un $1%."
+
+r:"Increase Psychokinesis damage by ([\d.]+)%\."="Aumenta el daño de Psicoquinesis en un $1%."
+
+r:"Increase critical rate by ([\d.]+)% when ambushing\."="Aumenta la probabilidad de críticos en un $1% al emboscar."
+
+r:"Decrease Physical damage taken by ([\d.]+)%\."="Reduce el daño físico recibido en un $1%."
+
+r:"Increase ailment accuracy by ([\d.]+)% when it rains\."="Aumenta la precisión de las dolencias en un $1% cuando llueve."
+
+r:"Decrease Fire damage taken by ([\d.]+)%\."="Reduce el daño de Fuego recibido en un $1%."
+
+r:"Decrease Gun damage taken by ([\d.]+)%\."="Reduce el daño de Arma a Distancia recibido en un $1%."
+
+r:"Increase crit dmg by ([\d.]+)%\."="Aumenta el daño crítico en un $1%."
+
+r:"Increase Technical Precision by (\d+)\."="Aumenta la Precisión Técnica en $1."
+
+r:"When activating Technical, increases Atk by (\d+)%\."="Al activar Técnico, aumenta el ATQ en un $1%."
+
+r:"Increase continuous damage effect by ([\d.]+)%\."="Aumenta el efecto de daño continuo un $1%."
