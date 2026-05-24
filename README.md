@@ -20,31 +20,42 @@ Vista a mi discord pueden contactarme por el servidor y tengo mas información [
 
 ## Guía de instalación
 
-### Opcion 1
-1. Descargar los archivos del repositorio junto al plugins de mod de BenInEx y XUnity que esta en el Archivo .zip llamado P5XTES.zip. y la carpeta Translate
-2. Busque la ruta del juego donde lo tenga instalado hacia la carpeta \P5X\client\pc y extraen los archivos de P5XTES.zip hacia la carpeta
-3. Luego la carpeta Translate lo colocan al \P5X\client\pc\BepInEx
-4. Y Listo ya pueden iniciar el juego.
+### Herramienta P5XTES Patcher
+P5XTES Patcher es herramienta de gestion de archivos para descarga versiones que se estara publicando por github y ademas de facilitar la instalacion del mod para el juego. Ademas, Cuenta con herramientas para personalizar el nombre del protagonista del juego si por defecto no tienes el personaje como Nagisa Kamisiro y ademas incluye una herramienta para ocultar el ID (solamente la parte inferior del juego) si es que no quieres motrar al púbilico por stream tu ID del juego o compatir una captura.
 
-### Opcion 2 (sencillo)
-1. Descargas los archivos en el apartado de [Release](https://github.com/Darkusze/P5XTES/releases) vX.X - P5XTES.zip
-2. Busque la ruta del juego donde lo tenga instalado hacia la carpeta \P5X\client\pc y extraen los archivos de X.X.P5XTES.zip hacia la carpeta.
-3. Y Iniciar el juego.
+**¿Que hay de Novedades tiene a compracion la versión 1.0.0?**
 
-### Opcion para actualizar (Para los que ya instalaron el mod, solo se actualizra los archivo de texto del mod)
-Si ya tienes instalado el mod solo necesita actualizar los archivos de Translation (traducción) de la siguiente manera:
-- Desde el [Release](https://github.com/Darkusze/P5XTES/releases): Por el repositorio tendras un archivo llamado Only-Translation.x.x.zip, extrae el archivo .zip y tendras la carpeta de Translation, lo copias y pegas a la siguiente ruta P5X\client\pc\BepInEx
+- Se ha agregado una interfaz grafica amigable.
+- Facilidad de ver disponibilidad actualizaciones disponibles del mod P5XTES (Core, Texto, Textura)
+- Guardado de nombre de Protagonista personalizado.
+- Ocultar ID con tan solo un click.
+- Botón de Ejecutar el juego (importante: requiere estar conectado a la cuenta de Steam o Google Play Games)
+- Botón de Desinstalar el Mod
 
-  
-## Herramienta P5XTES Patcher
-P5XTES Patcher es un programa para modificar nombre del protagonista que viene por defecto y ocultar el ID del interfaz para que puedan hacer stream sin problemas o grabar video para subirlo en su plataforma de preferencia.
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6b7602f5-1db9-4f16-b767-6e940605320f" width="50%" />
-</p>
+<div align="center">
+<img width="65%" alt="P5XTES Patcher" src="https://github.com/user-attachments/assets/31e55a10-03df-4da4-8fd6-3deb20088d0e" />
+</div>
 
-¡Proximamente mas opciones!
+**¿Que es el Core?**
+El Core (Núcleo) es donde se encuentra los archivos para hacer funcionar el mod español para el juego de Persona 5:The Phantom X (GLB) no incluye los archivos de texturas ni texto traducidos.
 
-Mas informacion del P5XTES Patcher [Aquí](https://github.com/Darkusze/P5XTES/releases/tag/v1.0.0)
+**¿Que debo hacer para poder utilizar el P5XTES Patcher si tengo instalado los viejos archivos?**
+PAra ello solamente tendrias que volver a reinstalar los mods desde el Launcher y listo.
+<img width="704" height="660" alt="image" src="https://github.com/user-attachments/assets/b4b9ada5-3656-4e39-a0c6-a75dd5b49477" />
+
+**_-Guía de como Desinstalar Mod para usar la versión P5XTES Patcher-_**
+
+<div align="center">
+Busquen la carpeta de su juego donde tienen instalado el mod tiene que borrar los siguientes archivos y le dan eliminar.
+<img alt="image" src="https://github.com/user-attachments/assets/1666a88c-248b-4b3a-a2ba-5c193f41befb" width="50%"/>
+
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/da3ca042-6340-48eb-9a35-d23db6e13d94" />
+
+</div>
+
+Y listo, vuelves al launcher de P5XTES Patcher y le das al botón Actualizar/Descargar todo.
+
+Versión Ultima Publicado [Aquí 2.0.2](https://github.com/Darkusze/P5XTES/releases/tag/a2.0.2)
 
 ## Advertencia Legal
 
