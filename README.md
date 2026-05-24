@@ -41,16 +41,8 @@ El Core (Núcleo) es donde se encuentra los archivos para hacer funcionar el mod
 
 **¿Que debo hacer para poder utilizar el P5XTES Patcher si tengo instalado los viejos archivos?**
 PAra ello solamente tendrias que volver a reinstalar los mods desde el Launcher y listo.
-<img width="704" height="660" alt="image" src="https://github.com/user-attachments/assets/b4b9ada5-3656-4e39-a0c6-a75dd5b49477" />
-
-**_-Guía de como Desinstalar Mod para usar la versión P5XTES Patcher-_**
-
 <div align="center">
-Busquen la carpeta de su juego donde tienen instalado el mod tiene que borrar los siguientes archivos y le dan eliminar.
-<img alt="image" src="https://github.com/user-attachments/assets/1666a88c-248b-4b3a-a2ba-5c193f41befb" width="50%"/>
-
-<img width="50%" alt="image" src="https://github.com/user-attachments/assets/da3ca042-6340-48eb-9a35-d23db6e13d94" />
-
+<img width="65%" alt="P5XTES Patcher2" src="https://github.com/user-attachments/assets/b4b9ada5-3656-4e39-a0c6-a75dd5b49477" />
 </div>
 
 Y listo, vuelves al launcher de P5XTES Patcher y le das al botón Actualizar/Descargar todo.
