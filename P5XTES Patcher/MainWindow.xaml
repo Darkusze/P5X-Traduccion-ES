@@ -1,0 +1,739 @@
+<Window x:Class="P5XTESPatcher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="P5XTES Patcher" Height="660" Width="700"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="CanMinimize"
+        Background="#1a1a2e"
+        Foreground="White"
+        FontFamily="Segoe UI"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        BorderBrush="#e8b4b8"
+        BorderThickness="1">
+
+    <Window.Resources>
+
+        <!-- ── Botón base ── -->
+        <Style x:Key="PatcherButton" TargetType="Button">
+            <Setter Property="Background"      Value="#16213e"/>
+            <Setter Property="Foreground"      Value="#e8b4b8"/>
+            <Setter Property="BorderBrush"     Value="#e8b4b840"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding"         Value="10,6"/>
+            <Setter Property="FontSize"        Value="11"/>
+            <Setter Property="FontWeight"      Value="SemiBold"/>
+            <Setter Property="Cursor"          Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="6" Padding="{TemplateBinding Padding}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#e8b4b820"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Background" Value="#e8b4b835"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter Property="Opacity" Value="0.35"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- ── Botón acción (rojo) ── -->
+        <Style x:Key="PrimaryButton" TargetType="Button" BasedOn="{StaticResource PatcherButton}">
+            <Setter Property="Background"  Value="#c0392b30"/>
+            <Setter Property="BorderBrush" Value="#c0392b80"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#c0392b50"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <!-- ── Botón desinstalar ── -->
+        <Style x:Key="DangerButton" TargetType="Button">
+            <Setter Property="Background"      Value="#2a0a0a"/>
+            <Setter Property="Foreground"      Value="#e74c3c"/>
+            <Setter Property="BorderBrush"     Value="#e74c3c60"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="FontSize"        Value="11"/>
+            <Setter Property="FontWeight"      Value="SemiBold"/>
+            <Setter Property="Cursor"          Value="Hand"/>
+            <Setter Property="Padding"         Value="14,0"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="6" Padding="{TemplateBinding Padding}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#3d1010"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter Property="Opacity" Value="0.35"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- ── Botón pill (links) ── -->
+        <Style x:Key="LinkButton" TargetType="Button">
+            <Setter Property="Background"      Value="Transparent"/>
+            <Setter Property="Foreground"      Value="#888888"/>
+            <Setter Property="BorderBrush"     Value="#ffffff20"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding"         Value="12,5"/>
+            <Setter Property="FontSize"        Value="11"/>
+            <Setter Property="Cursor"          Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="20" Padding="{TemplateBinding Padding}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Foreground"  Value="#e8b4b8"/>
+                                <Setter Property="BorderBrush" Value="#e8b4b850"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- ── Botón ? ayuda ── -->
+        <Style x:Key="HelpButton" TargetType="Button">
+            <Setter Property="Background"      Value="Transparent"/>
+            <Setter Property="Foreground"      Value="#555"/>
+            <Setter Property="BorderBrush"     Value="#ffffff15"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Width"           Value="18"/>
+            <Setter Property="Height"          Value="18"/>
+            <Setter Property="FontSize"        Value="10"/>
+            <Setter Property="FontWeight"      Value="Bold"/>
+            <Setter Property="Cursor"          Value="Help"/>
+            <Setter Property="Padding"         Value="0"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="9" Padding="{TemplateBinding Padding}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Foreground"  Value="#e8b4b8"/>
+                                <Setter Property="BorderBrush" Value="#e8b4b860"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- ── TextBox ── -->
+        <Style x:Key="PatcherInput" TargetType="TextBox">
+            <Setter Property="Background"      Value="#16213e"/>
+            <Setter Property="Foreground"      Value="#f0e6e8"/>
+            <Setter Property="BorderBrush"     Value="#ffffff20"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding"         Value="8,0"/>
+            <Setter Property="FontSize"        Value="12"/>
+            <Setter Property="CaretBrush"      Value="#e8b4b8"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="TextBox">
+                        <Border Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="6">
+                            <ScrollViewer x:Name="PART_ContentHost"
+                                          Margin="{TemplateBinding Padding}"
+                                          VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsFocused" Value="True">
+                                <Setter Property="BorderBrush" Value="#e8b4b870"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- ── CheckBox ── -->
+        <Style x:Key="PatcherCheckBox" TargetType="CheckBox">
+            <Setter Property="Foreground" Value="#cccccc"/>
+            <Setter Property="FontSize"   Value="12"/>
+            <Setter Property="Cursor"     Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="CheckBox">
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                            <Border x:Name="CheckBorder"
+                                    Width="16" Height="16"
+                                    Background="#16213e"
+                                    BorderBrush="#e8b4b870"
+                                    BorderThickness="1.5"
+                                    CornerRadius="4"
+                                    Margin="0,0,8,0">
+                                <Path x:Name="CheckMark"
+                                      Data="M2,7 L5.5,10.5 L12,3"
+                                      Stroke="White" StrokeThickness="1.5"
+                                      StrokeStartLineCap="Round" StrokeEndLineCap="Round"
+                                      Visibility="Collapsed" Margin="1"/>
+                            </Border>
+                            <ContentPresenter VerticalAlignment="Center"/>
+                        </StackPanel>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsChecked" Value="True">
+                                <Setter TargetName="CheckBorder" Property="Background" Value="#c0392b"/>
+                                <Setter TargetName="CheckBorder" Property="BorderBrush" Value="#c0392b"/>
+                                <Setter TargetName="CheckMark"   Property="Visibility"  Value="Visible"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- ── Separador ── -->
+        <Style x:Key="HSep" TargetType="Separator">
+            <Setter Property="Background" Value="#ffffff10"/>
+            <Setter Property="Height"     Value="1"/>
+            <Setter Property="Margin"     Value="0,4"/>
+        </Style>
+
+        <!-- ── Label de sección ── -->
+        <Style x:Key="SectionLabel" TargetType="TextBlock">
+            <Setter Property="FontSize"   Value="10"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Foreground" Value="#e8b4b8"/>
+            <Setter Property="Margin"     Value="0,0,0,8"/>
+        </Style>
+
+        <!-- ── Tooltip oscuro ── -->
+        <Style x:Key="DarkTooltip" TargetType="ToolTip">
+            <Setter Property="Background"      Value="#0f172a"/>
+            <Setter Property="Foreground"      Value="#cccccc"/>
+            <Setter Property="BorderBrush"     Value="#e8b4b840"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="FontSize"        Value="11"/>
+            <Setter Property="Padding"         Value="10,7"/>
+            <Setter Property="MaxWidth"        Value="280"/>
+        </Style>
+
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="48"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="28"/>
+        </Grid.RowDefinitions>
+
+        <!-- ══════ TITLEBAR ══════ -->
+        <Border Grid.Row="0" Background="#16213e"
+                BorderBrush="#e8b4b840" BorderThickness="0,0,0,1"
+                MouseDown="TitleBar_MouseDown">
+            <Grid Margin="12,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                    <!-- Icono: muestra icon.png si existe, sino fallback gradiente -->
+                    <Border Width="32" Height="32" CornerRadius="7" Margin="0,0,10,0"
+                            ClipToBounds="True">
+                        <Grid>
+                            <!-- Fondo gradiente (visible si no hay imagen) -->
+                            <Border x:Name="IconFallback" CornerRadius="7">
+                                <Border.Background>
+                                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                        <GradientStop Color="#e8b4b8" Offset="0"/>
+                                        <GradientStop Color="#c0392b" Offset="1"/>
+                                    </LinearGradientBrush>
+                                </Border.Background>
+                                <TextBlock Text="P5" FontWeight="Bold" FontSize="13"
+                                           HorizontalAlignment="Center" VerticalAlignment="Center"
+                                           Foreground="White"/>
+                            </Border>
+                            <!-- Imagen custom (se carga desde code-behind si existe) -->
+                            <Image x:Name="IconImg" Stretch="UniformToFill"
+                                   Visibility="Collapsed"/>
+                        </Grid>
+                    </Border>
+
+                    <StackPanel VerticalAlignment="Center">
+                        <TextBlock Text="P5XTES PATCHER" FontWeight="SemiBold"
+                                   FontSize="13" Foreground="#e8b4b8"/>
+                        <TextBlock Text="v2.0.2"
+                                   FontSize="10" Foreground="#555"/>
+                    </StackPanel>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center"
+                            Grid.Column="1" Margin="0,0,2,0">
+
+                    <!-- Botón Iniciar juego -->
+                    <Button x:Name="BtnIniciarJuego"
+                            Click="BtnIniciarJuego_Click"
+                            Margin="0,0,10,0"
+                            Cursor="Hand"
+                            ToolTip="Iniciar P5X Launcher">
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background"      Value="#c0392b30"/>
+                                <Setter Property="BorderBrush"     Value="#c0392b90"/>
+                                <Setter Property="BorderThickness" Value="1"/>
+                                <Setter Property="Foreground"      Value="#f0e6e8"/>
+                                <Setter Property="FontSize"        Value="11"/>
+                                <Setter Property="FontWeight"      Value="SemiBold"/>
+                                <Setter Property="Height"          Value="30"/>
+                                <Setter Property="Padding"         Value="14,0"/>
+                                <Setter Property="Template">
+                                    <Setter.Value>
+                                        <ControlTemplate TargetType="Button">
+                                            <Border Background="{TemplateBinding Background}"
+                                                    BorderBrush="{TemplateBinding BorderBrush}"
+                                                    BorderThickness="{TemplateBinding BorderThickness}"
+                                                    CornerRadius="6"
+                                                    Padding="{TemplateBinding Padding}">
+                                                <ContentPresenter HorizontalAlignment="Center"
+                                                                  VerticalAlignment="Center"/>
+                                            </Border>
+                                            <ControlTemplate.Triggers>
+                                                <Trigger Property="IsMouseOver" Value="True">
+                                                    <Setter Property="Background" Value="#c0392b70"/>
+                                                </Trigger>
+                                                <Trigger Property="IsPressed" Value="True">
+                                                    <Setter Property="Background" Value="#c0392b99"/>
+                                                </Trigger>
+                                                <Trigger Property="IsEnabled" Value="False">
+                                                    <Setter Property="Opacity" Value="0.4"/>
+                                                </Trigger>
+                                            </ControlTemplate.Triggers>
+                                        </ControlTemplate>
+                                    </Setter.Value>
+                                </Setter>
+                            </Style>
+                        </Button.Style>
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                            <TextBlock Text="▶" FontSize="10" Margin="0,0,5,0"
+                                       VerticalAlignment="Center" Foreground="#e8b4b8"/>
+                            <TextBlock Text="INICIAR JUEGO" FontSize="11" FontWeight="SemiBold"
+                                       VerticalAlignment="Center"/>
+                        </StackPanel>
+                    </Button>
+
+                    <Button Content="─" Width="32" Height="28"
+                            FontSize="12" Foreground="#888"
+                            Background="Transparent" BorderThickness="0"
+                            Cursor="Hand" Click="BtnMinimize_Click"/>
+                    <Button Content="✕" Width="32" Height="28"
+                            FontSize="12" Foreground="#888"
+                            Background="Transparent" BorderThickness="0"
+                            Cursor="Hand" Click="BtnClose_Click"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <!-- ══════ CONTENIDO ══════ -->
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto"
+                      Background="#1a1a2e">
+            <StackPanel Margin="20,16,20,16">
+
+                <!-- ── Estado de componentes ── -->
+                <Grid Margin="0,0,0,8">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="ESTADO DE COMPONENTES" Style="{StaticResource SectionLabel}"
+                               Margin="0" VerticalAlignment="Center"/>
+                    <Button Grid.Column="1" Style="{StaticResource HelpButton}"
+                            Content="?" Click="BtnHelp_Componentes_Click"
+                            VerticalAlignment="Center">
+                        <Button.ToolTip>
+                            <ToolTip Style="{StaticResource DarkTooltip}">
+                                <TextBlock TextWrapping="Wrap">
+                                    <Run FontWeight="SemiBold" Foreground="#2ECC71">🟢 Verde</Run><Run> — ya tienes la última versión.</Run>
+                                    <LineBreak/>
+                                    <Run FontWeight="SemiBold" Foreground="#f39c12">🟠 Naranja</Run><Run> — hay una actualización disponible.</Run>
+                                    <LineBreak/>
+                                    <Run FontWeight="SemiBold" Foreground="#e74c3c">🔴 Rojo</Run><Run> — no está instalado o no se detecta la carpeta.</Run>
+                                </TextBlock>
+                            </ToolTip>
+                        </Button.ToolTip>
+                    </Button>
+                </Grid>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="10"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <!-- Versión instalada -->
+                    <Border Grid.Column="0" Background="#16213e"
+                            BorderBrush="#ffffff15" BorderThickness="1"
+                            CornerRadius="8" Padding="12,10">
+                        <StackPanel>
+                            <TextBlock Text="Versión instalada" FontSize="10"
+                                       Foreground="#888" Margin="0,0,0,8"/>
+                            <Grid Margin="0,4">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="14"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+                                <Ellipse x:Name="DotTraductor" Width="10" Height="10"
+                                         Fill="#555" Grid.Column="0" VerticalAlignment="Center"/>
+                                <TextBlock Text="Traductor" Grid.Column="1" FontSize="12"
+                                           Foreground="#ccc" Margin="8,0,0,0" VerticalAlignment="Center"/>
+                                <TextBlock x:Name="TxtVerTraductorLocal" Text="—"
+                                           Grid.Column="2" FontSize="11" Foreground="#888" VerticalAlignment="Center"/>
+                            </Grid>
+                            <Grid Margin="0,4">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="14"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+                                <Ellipse x:Name="DotTextos" Width="10" Height="10"
+                                         Fill="#555" Grid.Column="0" VerticalAlignment="Center"/>
+                                <TextBlock Text="Textos" Grid.Column="1" FontSize="12"
+                                           Foreground="#ccc" Margin="8,0,0,0" VerticalAlignment="Center"/>
+                                <TextBlock x:Name="TxtVerTextosLocal" Text="—"
+                                           Grid.Column="2" FontSize="11" Foreground="#888" VerticalAlignment="Center"/>
+                            </Grid>
+                            <Grid Margin="0,4">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="14"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+                                <Ellipse x:Name="DotTexturas" Width="10" Height="10"
+                                         Fill="#555" Grid.Column="0" VerticalAlignment="Center"/>
+                                <TextBlock Text="Texturas" Grid.Column="1" FontSize="12"
+                                           Foreground="#ccc" Margin="8,0,0,0" VerticalAlignment="Center"/>
+                                <TextBlock x:Name="TxtVerTexturasLocal" Text="—"
+                                           Grid.Column="2" FontSize="11" Foreground="#888" VerticalAlignment="Center"/>
+                            </Grid>
+                        </StackPanel>
+                    </Border>
+
+                    <!-- Última versión remota -->
+                    <Border Grid.Column="2" Background="#16213e"
+                            BorderBrush="#ffffff15" BorderThickness="1"
+                            CornerRadius="8" Padding="12,10">
+                        <StackPanel>
+                            <TextBlock Text="Última versión (GitHub)" FontSize="10"
+                                       Foreground="#888" Margin="0,0,0,8"/>
+                            <Grid Margin="0,4">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+                                <TextBlock x:Name="TxtStatusTraductor" Text="Comprobando..."
+                                           Grid.Column="0" FontSize="11" Foreground="#888" VerticalAlignment="Center"/>
+                                <TextBlock x:Name="TxtVerTraductorRemoto" Text="—"
+                                           Grid.Column="1" FontSize="11" Foreground="#888" VerticalAlignment="Center"/>
+                            </Grid>
+                            <Grid Margin="0,4">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+                                <TextBlock x:Name="TxtStatusTextos" Text="Comprobando..."
+                                           Grid.Column="0" FontSize="11" Foreground="#888" VerticalAlignment="Center"/>
+                                <TextBlock x:Name="TxtVerTextosRemoto" Text="—"
+                                           Grid.Column="1" FontSize="11" Foreground="#888" VerticalAlignment="Center"/>
+                            </Grid>
+                            <Grid Margin="0,4">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+                                <TextBlock x:Name="TxtStatusTexturas" Text="Comprobando..."
+                                           Grid.Column="0" FontSize="11" Foreground="#888" VerticalAlignment="Center"/>
+                                <TextBlock x:Name="TxtVerTexturasRemoto" Text="—"
+                                           Grid.Column="1" FontSize="11" Foreground="#888" VerticalAlignment="Center"/>
+                            </Grid>
+                        </StackPanel>
+                    </Border>
+                </Grid>
+
+                <!-- ── Acciones ── -->
+                <Grid Margin="0,18,0,8">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="ACCIONES" Style="{StaticResource SectionLabel}"
+                               Margin="0" VerticalAlignment="Center"/>
+                    <Button Grid.Column="1" Style="{StaticResource HelpButton}"
+                            Content="?" VerticalAlignment="Center">
+                        <Button.ToolTip>
+                            <ToolTip Style="{StaticResource DarkTooltip}">
+                                <TextBlock TextWrapping="Wrap">
+                                    Descarga e instala los componentes del mod directamente desde GitHub.
+                                    <LineBreak/><LineBreak/>
+                                    <Run FontWeight="SemiBold">Traductor:</Run><Run> BepInEx + loader base del mod.</Run>
+                                    <LineBreak/>
+                                    <Run FontWeight="SemiBold">Textos:</Run><Run> archivos de traducción al español.</Run>
+                                    <LineBreak/>
+                                    <Run FontWeight="SemiBold">Texturas:</Run><Run> imágenes y UI traducidas.</Run>
+                                    <LineBreak/><LineBreak/>
+                                    Usa "Actualizar todo" para instalar los pendientes de una vez.
+                                </TextBlock>
+                            </ToolTip>
+                        </Button.ToolTip>
+                    </Button>
+                </Grid>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="8"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="8"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button x:Name="BtnTraductor" Grid.Column="0"
+                            Style="{StaticResource PatcherButton}"
+                            Height="36" IsEnabled="False"
+                            Click="BtnTraductor_Click">
+                        <TextBlock x:Name="TxtBtnTraductor" Text="✓  Traductor"/>
+                    </Button>
+                    <Button x:Name="BtnTextos" Grid.Column="2"
+                            Style="{StaticResource PrimaryButton}"
+                            Height="36" IsEnabled="False"
+                            Click="BtnTextos_Click">
+                        <TextBlock x:Name="TxtBtnTextos" Text="↑  Textos"/>
+                    </Button>
+                    <Button x:Name="BtnTexturas" Grid.Column="4"
+                            Style="{StaticResource PrimaryButton}"
+                            Height="36" IsEnabled="False"
+                            Click="BtnTexturas_Click">
+                        <TextBlock x:Name="TxtBtnTexturas" Text="↓  Texturas"/>
+                    </Button>
+                </Grid>
+
+                <!-- Actualizar todo + Desinstalar -->
+                <Grid Margin="0,8,0,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="8"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <Button x:Name="BtnActualizarTodo" Grid.Column="0"
+                            Style="{StaticResource PatcherButton}"
+                            Height="36" IsEnabled="False"
+                            Click="BtnActualizarTodo_Click">
+                        <TextBlock Text="⟳   Actualizar/Descargar todo"/>
+                    </Button>
+                    <Button x:Name="BtnDesinstalar" Grid.Column="2"
+                            Style="{StaticResource DangerButton}"
+                            Height="36"
+                            Click="BtnDesinstalar_Click">
+                        <TextBlock Text="✕  Desinstalar mod"/>
+                    </Button>
+                </Grid>
+
+                <!-- Barra de progreso -->
+                <Border Background="#ffffff10" Height="3" CornerRadius="2" Margin="0,10,0,0">
+                    <Border x:Name="ProgressFill" Background="#e8b4b8"
+                            HorizontalAlignment="Left" Width="0" CornerRadius="2"/>
+                </Border>
+                <TextBlock x:Name="TxtProgreso" Text="" FontSize="10"
+                           Foreground="#888" Margin="0,4,0,0" HorizontalAlignment="Center"/>
+
+                <Separator Style="{StaticResource HSep}" Margin="0,16,0,12"/>
+
+                <!-- ── Protagonista ── -->
+                <Grid Margin="0,0,0,8">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="NOMBRE DEL PROTAGONISTA" Style="{StaticResource SectionLabel}"
+                               Margin="0" VerticalAlignment="Center"/>
+                    <Button Grid.Column="1" Style="{StaticResource HelpButton}"
+                            Content="?" VerticalAlignment="Center">
+                        <Button.ToolTip>
+                            <ToolTip Style="{StaticResource DarkTooltip}">
+                                <TextBlock TextWrapping="Wrap">
+                                    Cambia el nombre con el que aparece el protagonista en los textos del juego.
+                                    <LineBreak/><LineBreak/>
+                                    Por defecto es <Run FontWeight="SemiBold">Nagisa Kamisiro</Run>. Escribe el nombre y apellido que quieras y pulsa ✓.
+                                    <LineBreak/><LineBreak/>
+                                    ⚠ Cierra el juego antes de aplicar cambios.
+                                </TextBlock>
+                            </ToolTip>
+                        </Button.ToolTip>
+                    </Button>
+                </Grid>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="75"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="8"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="8"/>
+                        <ColumnDefinition Width="36"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="Nombre" Grid.Column="0" FontSize="12"
+                               Foreground="#aaa" VerticalAlignment="Center"/>
+                    <TextBox x:Name="TxtNombre" Grid.Column="1"
+                             Style="{StaticResource PatcherInput}"
+                             Height="32" Text="Nagisa"/>
+                    <TextBox x:Name="TxtApellido" Grid.Column="3"
+                             Style="{StaticResource PatcherInput}"
+                             Height="32" Text="Kamisiro"/>
+                    <Button Grid.Column="5" Height="32"
+                            Style="{StaticResource PatcherButton}"
+                            Content="✓" FontSize="14"
+                            Click="BtnAplicarNombre_Click"
+                            ToolTip="Aplicar nombre"/>
+                </Grid>
+                <TextBlock Text="El juego debe estar cerrado antes de aplicar cambios."
+                           FontSize="10" Foreground="#555" Margin="0,5,0,0"/>
+
+                <Separator Style="{StaticResource HSep}" Margin="0,16,0,12"/>
+
+                <!-- ── Opciones ── -->
+                <Grid Margin="0,0,0,8">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="OPCIONES" Style="{StaticResource SectionLabel}"
+                               Margin="0" VerticalAlignment="Center"/>
+                    <Button Grid.Column="1" Style="{StaticResource HelpButton}"
+                            Content="?" VerticalAlignment="Center">
+                        <Button.ToolTip>
+                            <ToolTip Style="{StaticResource DarkTooltip}">
+                                <TextBlock TextWrapping="Wrap">
+                                    <Run FontWeight="SemiBold">Ocultar ID:</Run><Run> elimina tu ID de jugador de la pantalla del juego. Útil para streamers o capturas de pantalla. Se aplica al instante al marcar la casilla.</Run>
+                                </TextBlock>
+                            </ToolTip>
+                        </Button.ToolTip>
+                    </Button>
+                </Grid>
+                <CheckBox x:Name="ChkOcultarID"
+                          Style="{StaticResource PatcherCheckBox}"
+                          Content="Ocultar ID en la interfaz del juego"
+                          Checked="ChkOcultarID_Changed"
+                          Unchecked="ChkOcultarID_Changed"/>
+                <TextBlock Text="Se aplica automáticamente al marcar o desmarcar."
+                           FontSize="10" Foreground="#555" Margin="24,4,0,0"/>
+
+                <Separator Style="{StaticResource HSep}" Margin="0,16,0,12"/>
+
+                <!-- ── Ruta ── -->
+                <Grid Margin="0,0,0,8">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="RUTA DE INSTALACIÓN" Style="{StaticResource SectionLabel}"
+                               Margin="0" VerticalAlignment="Center"/>
+                    <Button Grid.Column="1" Style="{StaticResource HelpButton}"
+                            Content="?" VerticalAlignment="Center">
+                        <Button.ToolTip>
+                            <ToolTip Style="{StaticResource DarkTooltip}">
+                                <TextBlock TextWrapping="Wrap">
+                                    Ruta donde está instalado el juego. Debe apuntar a la carpeta que contiene el ejecutable del juego.
+                                    <LineBreak/><LineBreak/>
+                                    Ruta por defecto de Steam:<LineBreak/>
+                                    <Run Foreground="#888">…\steamapps\common\P5X\client\pc</Run>
+                                    <LineBreak/><LineBreak/>
+                                    Si instalaste el juego en otra unidad, usa "Cambiar ruta".
+                                    <LineBreak/><LineBreak/>
+                                    Para ver la ruta del juego vas Steam>Biblioteca>P5X>Propiedades>Archivos instalados
+                                </TextBlock>
+                            </ToolTip>
+                        </Button.ToolTip>
+                    </Button>
+                </Grid>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="8"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBox x:Name="TxtRuta" Grid.Column="0"
+                             Style="{StaticResource PatcherInput}"
+                             Height="32" FontSize="11" IsReadOnly="True"/>
+                    <Button Grid.Column="2" Height="32"
+                            Style="{StaticResource PatcherButton}"
+                            Content="Cambiar ruta" Padding="10,0"
+                            Click="BtnCambiarRuta_Click"/>
+                </Grid>
+
+                <Separator Style="{StaticResource HSep}" Margin="0,16,0,12"/>
+
+                <!-- ── Comunidad ── -->
+                <TextBlock Text="COMUNIDAD Y SOPORTE" Style="{StaticResource SectionLabel}"/>
+                <WrapPanel Orientation="Horizontal">
+                    <Button Style="{StaticResource LinkButton}" Margin="0,0,6,6"
+                            Content="⌥  GitHub" Click="BtnGitHub_Click"/>
+                    <Button Style="{StaticResource LinkButton}" Margin="0,0,6,6"
+                            Content="✦  Twitter" Click="BtnTwitter_Click"/>
+                    <Button Style="{StaticResource LinkButton}" Margin="0,0,6,6"
+                            Content="◈  Discord" Click="BtnDiscord_Click"/>
+                    <Button Style="{StaticResource LinkButton}" Margin="0,0,6,6"
+                            Content="♥  Ko-fi" Click="BtnKofi_Click"/>
+                    <Button Style="{StaticResource LinkButton}" Margin="0,0,6,6"
+                            Content="▶  YouTube" Click="BtnYouTube_Click"/>
+                </WrapPanel>
+
+            </StackPanel>
+        </ScrollViewer>
+
+        <!-- ══════ STATUS BAR ══════ -->
+        <Border Grid.Row="2" Background="#0f172a"
+                BorderBrush="#ffffff10" BorderThickness="0,1,0,0">
+            <Grid Margin="14,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock x:Name="TxtStatus" Grid.Column="0"
+                           Text="● Iniciando..." FontSize="10"
+                           Foreground="#555" VerticalAlignment="Center"/>
+                <TextBlock x:Name="TxtRutaStatus" Grid.Column="2"
+                           Text="" FontSize="10" Foreground="#444"
+                           VerticalAlignment="Center"
+                           MaxWidth="400" TextTrimming="CharacterEllipsis"/>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

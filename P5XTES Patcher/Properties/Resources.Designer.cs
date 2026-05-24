@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace P5XTES_Patcher.Properties {
+namespace P5XTESPatcher.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace P5XTES_Patcher.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("P5XTES_Patcher.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("P5XTESPatcher.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -65,7 +65,7 @@ namespace P5XTES_Patcher.Properties {
         /// </summary>
         internal static System.Drawing.Icon P5XTES_Patcher_v2 {
             get {
-                object obj = ResourceManager.GetObject("P5XTES_Patcher_v2", resourceCulture);
+                object obj = ResourceManager.GetObject("P5XTES Patcher v2", resourceCulture);
                 return ((System.Drawing.Icon)(obj));
             }
         }
