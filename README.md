@@ -23,7 +23,7 @@ Vista a mi discord pueden contactarme por el servidor y tengo mas información [
 ### Herramienta P5XTES Patcher
 P5XTES Patcher es herramienta de gestion de archivos para descarga versiones que se estara publicando por github y ademas de facilitar la instalacion del mod para el juego. Ademas, Cuenta con herramientas para personalizar el nombre del protagonista del juego si por defecto no tienes el personaje como Nagisa Kamisiro y ademas incluye una herramienta para ocultar el ID (solamente la parte inferior del juego) si es que no quieres motrar al púbilico por stream tu ID del juego o compatir una captura.
 
-**¿Que hay de Novedades tiene a compracion la versión 1.0.0?**
+### **¿Que hay de Novedades tiene a compracion la versión 1.0.0?**
 
 - Se ha agregado una interfaz grafica amigable.
 - Facilidad de ver disponibilidad actualizaciones disponibles del mod P5XTES (Core, Texto, Textura)
@@ -36,11 +36,13 @@ P5XTES Patcher es herramienta de gestion de archivos para descarga versiones que
 <img width="65%" alt="P5XTES Patcher" src="https://github.com/user-attachments/assets/31e55a10-03df-4da4-8fd6-3deb20088d0e" />
 </div>
 
-**¿Que es el Core?**
+
+### **¿Que es el Core?**
 El Core (Núcleo) es donde se encuentra los archivos para hacer funcionar el mod español para el juego de Persona 5:The Phantom X (GLB) no incluye los archivos de texturas ni texto traducidos.
 
-**¿Que debo hacer para poder utilizar el P5XTES Patcher si tengo instalado los viejos archivos?**
-PAra ello solamente tendrias que volver a reinstalar los mods desde el Launcher y listo.
+### **¿Que debo hacer para poder utilizar el P5XTES Patcher si tengo instalado los viejos archivos?**
+Para ello solamente tendrias que volver a reinstalar los mods desde el Launcher y listo.
+
 <div align="center">
 <img width="65%" alt="P5XTES Patcher2" src="https://github.com/user-attachments/assets/b4b9ada5-3656-4e39-a0c6-a75dd5b49477" />
 </div>
