@@ -30,7 +30,6 @@ Motoha Arai=Motoha Arai
 Motoha=Motoha
 Arai=Arai
 Shun Kanou=Shun Kanou
-Reo Kamiyama=Reo Kamiyama
 Kayo Tomiyama=Kayo Tomiyama
 Tomoko Noge=Tomoko Noge
 Kiyoshi Kurotani=Kiyoshi Kurotani
