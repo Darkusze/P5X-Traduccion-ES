@@ -216,7 +216,7 @@ Oberon=Oberon
 ++--------Efectos Kits--------+
 Critical Rate=Probabilidad crítica
 Critical Damage=Daño crítico
-SP Regen=Regeneración de SP
+SP Regen=Regeneración de PE
 Combat Skills=Habilidades de combate
 Curse Mult. +=Mult. de maldición +
 Attack Mult. +=Mult. de ataque +

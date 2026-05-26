@@ -485,7 +485,7 @@ r:"^\(Paid:\s+(\d+)\)$"="(Pagado: $1)"
 r:"^Unlocks at Lv\\. (\\d+)$"="Se desbloquea en Nv. $1"
 r:"^Lv\\.(\\d+)$"="Nv.$1"
 r:"^EXP:\s+(\d+)\s*$"="EXP: $1"
-r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.5.0\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
+r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.5.1\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
 r:"^Fusion\s+will\s+produce\s+(\d+)\s+<color\=#FF423F>(.+?)'s\s+Seal</color>\.\s*$"="La fusión producirá $1 <color\=#FF423F>Sello de $2</color>."
 r:"^Phantom Thief level cap increased to \\n<color\=#FFF000>Lv\\. (\\d+)</color>\\.$"="El límite de nivel de Ladrones Fantasma ha aumentado a \n<color\=#FFF000>Lv. $1</color>."
 r:"^Lv\\. (\\d+) Set$"="Set de Nv. $1"
@@ -1428,11 +1428,11 @@ r:"<pos\=45>Every (\d+) Sun God's Blessing stacks are converted into 1 Sun God's
 
 r:"<pos\=45>The final damage increase from Sun God's {{A}} is increased by (\d+)%\. {{B}}'s Attack is increased by (\d+)%\."="<pos\=45>El aumento de daño final de {{A}} del Dios Sol aumenta un $1%. El Ataque de {{B}} aumenta un $2%."
 
-r:"<pos\=45>Wisdom Theurgy changes all affinities of the Shadow with the lowest HP to Null. Thoth's Attack is increased by (\d+)%\."="<pos\=45>Teurgia de la Sabiduría cambia todas las afinidades de la Sombra con menos PS a Nulo. El Ataque de Thoth aumenta un $1%."
+r:"<pos\=45>Wisdom Theurgy changes all affinities of the Shadow with the lowest HP to Null. Thoth's Attack is increased by (\d+)%\."="<pos\=45>Teúrgia de la Sabiduría cambia todas las afinidades de la Sombra con menos PS a Nulo. El Ataque de Thoth aumenta un $1%."
 
-r:"<pos\=45>Wisdom Theurgy changes all affinities of the Shadow with the lowest HP to Drain. Thoth's Attack is increased by (\d+)%\."="<pos\=45>Teurgia de la Sabiduría cambia todas las afinidades de la Sombra con menos PS a Drenar. El Ataque de Thoth aumenta un $1%."
+r:"<pos\=45>Wisdom Theurgy changes all affinities of the Shadow with the lowest HP to Drain. Thoth's Attack is increased by (\d+)%\."="<pos\=45>Teúrgia de la Sabiduría cambia todas las afinidades de la Sombra con menos PS a Drenar. El Ataque de Thoth aumenta un $1%."
 
-r:"<pos\=45>The shield granted by Shield Theurgy is increased by (\d+)%, the target's Defense is increased by (\d+)%, and Thoth's max HP is increased by (\d+)%\."="<pos\=45>El escudo otorgado por Teurgia de Escudos aumenta un $1%, la defensa del objetivo aumenta un $2% y los PS máx. de Thoth aumentan un $3%."
+r:"<pos\=45>The shield granted by Shield Theurgy is increased by (\d+)%, the target's Defense is increased by (\d+)%, and Thoth's max HP is increased by (\d+)%\."="<pos\=45>El escudo otorgado por Teúrgia de Escudos aumenta un $1%, la defensa del objetivo aumenta un $2% y los PS máx. de Thoth aumentan un $3%."
 
 r:"<pos\=45>Allies will be insta-killed when they gain (\d+) Curse of Annihilation stacks\. {{A}}'s Attack is increased by (\d+)%\."="<pos\=45>Los aliados morirán instantáneamente al obtener $1 acumulaciones de Maldición de Aniquilación. El Ataque de {{A}} aumenta un $2%."
 
@@ -1621,11 +1621,11 @@ With powerful <color\=#FF423F>offensive capabilities</color>, Firecracker Yaolin
 
 1. Ashiya specializes in <color\=#FF423F>boosting the Defense of allies</color>.\nHe can grant his allies a <color\=#FF423F>shield</color> and increase their Defense to improve their survivability.\n2. During battle, he can use <color\=#FF423F>Knight's Protection</color> to protect allies from damage and gain <color\=#FF423F>Heroism</color> to activate <color\=#FF423F>Garden of Promises</color>.\n3. Garden of Promises strengthens skills, and can increase the damage taken by foes and the survivability of allies.=1. Ashiya se especializa en <color\=#FF423F>aumentando la Defensa de los aliados</color>. Puede conceder a sus aliados un <color\=#FF423F>escudo</color> y aumentar su Defensa para mejorar su capacidad de supervivencia.\n2. En combate, él puede usar <color\=#FF423F>Protección del Caballero</color> para proteger a los aliados del daño y ganar <color\=#FF423F>Heroísmo</color> activar <color\=#FF423F>Jardín de Promesas</color>.\n3. Jardín de Promesas fortalece habilidades, y puede aumentar el daño recibido por los enemigos y la supervivencia de los aliados.
 
-1. Akechi has high <color\=#FF423F>Attack power</color>. He can deal <color\=#FF423F>Almighty damage</color>, ignoring enemy affinities and Defense.\n2. By granting the <color\=#FF423F>Mastermind</color> state to <color\=#FF423F>Sweeper or Assassin</color> allies, Akechi can record the damage dealt by an ally with Mastermind, and deal damage based on the recorded amount. If there are no Sweeper or Assassin allies, Akechi can gain Mastermind to strengthen himself.\n3. He can provide <color\=#FF423F>buffs</color> and <color\=#FF423F>healing</color> to allies, as well as inflict <color\=#FF423F>debuffs</color> on foes, allowing utility in a variety of situations.=1. Akechi tiene un alto <color\=#FF423F>poder de Ataque</color>. Puede infligir <color\=#FF423F>daño Todopoderoso</color>, ignorando las afinidades y la Defensa del enemigo.\n2. Al otorgar el estado de <color\=#FF423F>Mente maestra</color> a aliados de tipo <color\=#FF423F>Barrenderoes o Asesino</color>, Akechi puede registrar el daño infligido por un aliado con Mente maestra y realizar daño basado en la cantidad registrada. Si no hay aliados Barrenderoes o Asesinos, Akechi puede obtener Mente maestra para fortalecerse a sí mismo.\n3. Puede proporcionar <color\=#FF423F>mejoras</color> y <color\=#FF423F>curación</color> a los aliados, así como aplicar <color\=#FF423F>debilitaciones</color> a los enemigos, lo que le otorga utilidad en una gran variedad de situaciones.
+1. Akechi has high <color\=#FF423F>Attack power</color>. He can deal <color\=#FF423F>Almighty damage</color>, ignoring enemy affinities and Defense.\n2. By granting the <color\=#FF423F>Mastermind</color> state to <color\=#FF423F>Sweeper or Assassin</color> allies, Akechi can record the damage dealt by an ally with Mastermind, and deal damage based on the recorded amount. If there are no Sweeper or Assassin allies, Akechi can gain Mastermind to strengthen himself.\n3. He can provide <color\=#FF423F>buffs</color> and <color\=#FF423F>healing</color> to allies, as well as inflict <color\=#FF423F>debuffs</color> on foes, allowing utility in a variety of situations.=1. Akechi tiene un alto <color\=#FF423F>poder de Ataque</color>. Puede infligir <color\=#FF423F>daño Todopoderoso</color>, ignorando las afinidades y la Defensa del enemigo.\n2. Al otorgar el estado de <color\=#FF423F>Mente maestra</color> a aliados de tipo <color\=#FF423F>Barrenderos o Asesino</color>, Akechi puede registrar el daño infligido por un aliado con Mente maestra y realizar daño basado en la cantidad registrada. Si no hay aliados Barrenderos o Asesinos, Akechi puede obtener Mente maestra para fortalecerse a sí mismo.\n3. Puede proporcionar <color\=#FF423F>mejoras</color> y <color\=#FF423F>curación</color> a los aliados, así como aplicar <color\=#FF423F>debilitaciones</color> a los enemigos, lo que le otorga utilidad en una gran variedad de situaciones.
 
 1. Manaka has excellent <color\=#FF423F>full-party support capability</color>, and can raise the entire team's Attack and damage, as well as their pierce rate.\n2. Manaka can gain <color\=#FF423F>Musical Note</color> stacks from her skills and at the beginning of each ally's action. Musical Note enhances <color\=#FF423F>Melody of Steps</color>, or can reduce the cooldown time of <color\=#FF423F>Prayer Refrain</color>. 3. She can grant special extra actions to allies. On this extra action, the target's status will be <color\=#FF423F>reverted</color> to their condition before the previous action, and their <color\=#FF423F>Attack will be increased</color>.=1. Manaka tiene una excelente <color\=#FF423F>capacidad de apoyo para todo el grupo</color>, y puede aumentar el Ataque y el daño de todo el equipo, así como su tasa de perforación.\n2. Manaka puede ganar acumulaciones de <color\=#FF423F>Nota Musical</color> mediante sus habilidades y al comienzo de la acción de cada aliado. La Nota Musical mejora <color\=#FF423F>Melodía de Pasos</color>, o puede reducir el tiempo de reutilización de <color\=#FF423F>Estribillo de Oración</color>.\n3. Ella puede otorgar acciones extra especiales a los aliados. En esta acción extra, el estado del objetivo se <color\=#FF423F>revertirá</color> a su condición anterior a la acción previa, y su <color\=#FF423F>Ataque aumentará</color>.
 
-1. Makoto specializes in <color\=#FF423F>single-target attacks</color>. He can deal powerful fire damage to foes with multi-hit attacks.\n2. He possesses <color\=#FF423F>two Theurgies</color>, Cadenza or Ardhanari, and can freely select and activate them during battle.\n3. Activating <color\=#FF423F>Cadenza</color> significantly enhances the attack capabilities of all allies.=1. Makoto se especializa en <color\=#FF423F>ataques a un solo objetivo</color>. Puede infligir un poderoso daño de fuego a los enemigos con ataques de múltiples golpes.\n2. Posee <color\=#FF423F>dos Teurgias</color>, Cadenza o Ardhanari, y puede seleccionarlas y activarlas libremente durante la batalla.\n3. Activar <color\=#FF423F>Cadenza</color> mejora significativamente las capacidades de ataque de todos los aliados.
+1. Makoto specializes in <color\=#FF423F>single-target attacks</color>. He can deal powerful fire damage to foes with multi-hit attacks.\n2. He possesses <color\=#FF423F>two Theurgies</color>, Cadenza or Ardhanari, and can freely select and activate them during battle.\n3. Activating <color\=#FF423F>Cadenza</color> significantly enhances the attack capabilities of all allies.=1. Makoto se especializa en <color\=#FF423F>ataques a un solo objetivo</color>. Puede infligir un poderoso daño de fuego a los enemigos con ataques de múltiples golpes.\n2. Posee <color\=#FF423F>dos Teúrgia</color>, Cadenza o Ardhanari, y puede seleccionarlas y activarlas libremente durante la batalla.\n3. Activar <color\=#FF423F>Cadenza</color> mejora significativamente las capacidades de ataque de todos los aliados.
 
 
 ++-------------Tutoriales Eventos-----------------++
@@ -1779,6 +1779,7 @@ r:"Reach Synergy Rank (\d+) with (\d+) accomplices"="Alcanza el Rango de Sinergi
 r:"Customize (\d+) Revelation Cards"="Personaliza $1 Cartas de Revelación"
 r:"Collect all capsule toys in (\d+) different sets"="Colecciona todos los juguetes de cápsula de $1 sets diferentes"
 r:"Reach (\d+)% progress for the third Palace's {{A}} Plant"="Alcanza un $1% de progreso en la Planta de Energía del tercer Palacio"
+
 ++-------------Marcos Avatares-----------------++
 r:"^Phantom\s+Pass\s+Phase\s+(\d+)\s+(.+)\s+reward\.$"="Phantom Pass Fase $1 $2 recompensa."
 
@@ -1789,12 +1790,21 @@ r:"^Unlocks\s+when\s+Charm\s+is\s+(\d+)\.$"="Se desbloquea al alcanzar $1 de Enc
 r:"^Unlocks\s+when\s+Knowledge\s+is\s+(\d+)\.$"="Se desbloquea al alcanzar $1 de Conocimiento."
 r:"^Unlocks\s+when\s+Kindness\s+is\s+(\d+)\.$"="Se desbloquea al alcanzar $1 de Amabilidad."
 
+r:"^You can become soulmates with ([\w\s]+)\.$"="Puedes llegar a ser el alma gemela de $1."
+r:"^Earned for building a strong bond of friendship with (.*?)\.\nUsed in chat\.$"="Obtenido por construir un fuerte lazo de amistad con $1.\nSe usa en el chat."
+r:"^Earned for forming a romantic relationship with (.*?)\.\nUsed in chat\.$"="Obtenido por formar una relación romántica con $1.\nSe usa en el chat."
+r:"^Earned for building a strong bond of friendship with ([\w\s]+)\.\nCan be set as your profile frame\.$"="Obtenido por construir un fuerte lazo de amistad con $1.\nSe puede establecer como tu marco de perfil."
+r:"^Earned for forming a romantic relationship with ([\w\s]+)\.\nCan be set as your profile frame\.$"="Obtenido por formar una relación romántica con $1.\nSe puede establecer como tu marco de perfil."
+r:"Become close friends with ([\w\s]+)\."="Hazte amigo íntimo de $1."
+
 ++-------------Prueba Astrolabio-----------------++
 r:"^Pass\s+(\d+)\s+Stellae\s+\((\d+)\/(\d+)\)$"="Supera $1 Estrellas ($2/$3)"
 r:"^Pass\s+a\s+Lord\s+Stella\s+\((\d+)\/(\d+)\)$"="Supera una Estrella del Señor ($1/$2)"
 r:"^Pass\s+a\s+Fate\s+Stella\s+\((\d+)\/(\d+)\)$"="Supera una Estrella del Destino ($1/$2)"
 r:"^Pass\s+all\s+Stellae\s+\((\d+)\/(\d+)\)$"="Supera todas las Estrellas ($1/$2)"
 r:"^Use\s+(\d+)\s+Willpower\s+to\s+pass\s+all\s+Stellae\s*\((\d+)\/(\d+)\)$"="Usa $1 de Fuerza de Voluntad para superar todas las Estrellas ($2/$3)"
+
+
 
 ++-------------Combate-----------------++
 r:"^([A-Za-z\s]+) is being protected by ([A-Za-z]+)\.\.\.$"="$1 está siendo protegido por $2..."

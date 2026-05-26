@@ -1,0 +1,275 @@
+#Historia
+Class is over for today...=Se acabaron las clases por hoy...
+Ah, {{A}}. Do you have a moment?=Ah, {{A}}.\n¿Tienes un momento?
+Do you have any plans for today? If you're\nfree, would you like to go somewhere with me?=¿Tienes algún plan para hoy?\nSi estás libre, ¿te gustaría ir a algún lugar conmigo?
+
+#C1
+Hehe, it's settled then.=Jeje, está decidido entonces.
+#C2
+As long as you're paying.=Mientras pagues tú.
+Of course. I invited you, after all. No need\nto worry about that.=Por supuesto.\nDespués de todo, te he invitado yo.\nNo necesitas preocuparte por eso.
+#C3
+I'm pretty hungry...=Tengo bastante hambre...
+Not to worry. I was planning on getting food\nafter we're done.=No te preocupes.\nTenía pensado que fuéramos a comer una vez que terminásemos.
+
+So, where are we headed today?=Entonces, ¿hacia dónde nos dirigimos hoy?
+Tatsumi Port Island.=Isla del Puerto Tatsumi.
+It's a reclaimed area of land in the bay\narea... A man-made island. We can get there\nvia monorail.=Es un área de tierra ganada al mar en el área de la bahía... Una isla artificial.\nPodemos llegar en monorraíl.
+Hoo, a monorail...!=¡Hoo, un monorraíl...!
+I'm planning to visit a shopping mall there.\nThere's a snack I'd like to buy that's only\navailable in the evening...=Estoy planeando visitar un centro comercial de allí.\nHay un refrigerio que me gustaría comprar y sólo está disponible por la noche...
+But... I've never been there before, so I'm\na little nervous. I was hoping someone could\ncome with me.=Pero... nunca había estado allí antes, así que estoy un poco nerviosa.\nEsperaba que alguien pudiera venir conmigo.
+Thank you. Well then, shall we be off?=Gracias.\nBueno, entonces, ¿nos vamos?
+Riko and I made our way to\nPort Island...=Riko y yo nos dirigimos a la Isla Puerto...
+There it is! That's the store I wanted to\nvisit. I'm glad we managed to make it without\nany trouble...=¡Ahí está! Esa es la tienda que quería visitar.\nMe alegro de que lo hayamos logrado sin ningún problema...
+Wait here, I'll go buy it.=Espera aquí, iré a comprarlo.
+Also... I'll have the Port Island Limited\nParfait for dessert, please.=Además... tomaré el parfait limitado de la\nIsla Puerto de postre, por favor.
+Certainly!=¡Ciertamente!
+Anyway, I'm glad I could get my hands on\nthese snacks. I heard that they were in\nlimited supply...=De todos modos, me alegro de haber podido conseguir este refrigerio.\nEscuché que había un suministro limitado...
+
+#C1
+Are they tasty?=¿Están sabrosos?
+Hmm... They are, I think. Probably...=Hmm... Lo son, creo.\nProbablemente...
+#C2
+Sounds pretty exclusive.=Suena bastante exclusivo.
+Hmm... Yeah, they only seem to sell them from\nthe evening onwards...=Hmm... Sí, parece que sólo los venden a partir\nde la noche...
+
+To tell you the truth, I haven't actually\ntasted them before.=A decir verdad, nunca los había probado antes.
+Well, I have technically eaten them before,\nbut I don't actually remember it...=Bueno, técnicamente ya los había comido antes,\npero en realidad no lo recuerdo...
+They were my mother's favorite.=Eran los favoritos de mi madre.
+My father told me about them the other day.=Mi padre me habló de ellos el otro día.
+Since they're only available to purchase on\nPort Island, my father couldn't go out of his\nway to buy them.=Como solo están disponibles para comprar en la Isla Puerto, mi padre no podía venir para compralos.
+When I heard that, I decided I wanted to\nplace them as an offering on my mother's\ngrave. I had the time, after all.=Cuando escuché de ellos, decidí que quería colocarlos como ofrenda en la tumba de mi madre.\nDespués de todo, tengo el tiempo de venir.
+
+#C1
+So that's why...=Entonces es por eso...
+#C2
+I'm sure she'd appreciate it.=Estoy seguro que le gustará.
+
+When my mother was in the hospital, she used\nto eat them all the time whenever she had\nthe doctor's permission.=Cuando mi madre estaba en el hospital, solía comerlos todo el tiempo siempre que tenía el permiso del médico.
+Before she was admitted, she apparently used\nto share them with me as well... but I have\nno memory of that.=Antes de ser admitida, aparentemente ella también solía compartirlos conmigo... pero no tengo ningún recuerdo de eso.
+When I heard that, I got curious and bought\nsome for myself. Maybe we can try them\ntogether with everyone else?=Cuando escuché eso, sentí curiosidad y compré algunos para mí.\n¿Quizás podamos probarlos junto con todos los demás?
+Indeed! I'm quite curious to sample some,\nmyself.=¡En efecto!\nTengo mucha curiosidad por probar algunos.
+
+#C1
+Should I message everyone?=¿Debería escribirles?
+#C2
+Let's send a photo.=Enviemos una foto.
+
+Good idea. We can all meet somewhere after\nschool tomorrow and try them together.=Buena idea.\nPodemos reunirnos todos en algún lugar mañana después de la escuela y probarlos juntos.
+Somewhere at school maybe...? That might be\ntough for Shoki, though.=¿En algún lugar de la escuela tal vez...?\nSin embargo, eso podría ser difícil para Shoki.
+
+#C1
+My place?=¿Mi casa?
+#C2
+What about Zoshigaya?=¿Qué tal en Zoshigaya?
+
+Thank you. I'll gladly take you up on that.=Gracias.\nCon mucho gusto aceptaré tu oferta.
+Everyone, are you free\ntomorrow?=Todos, ¿están libres mañana?
+I bought some snacks I'd like to try with everyone.=Compre unos refrigeros y me gustaría probarlos con todos.
+Whaaat! For real!? You bet\nI'll be free!=¡Qué!\n¿¡De verdad!?\n¡Puedes apostar que estaré libre!
+What kind of snacks are they?=¿Qué tipo de refrigerio son?
+A special kind that my\nmother enjoyed.=Un tipo especial que a mi madre le gustaba.
+They only sell them at\nPort Island.=Sólo los venden en la Isla Puerto.
+I came here to buy them with {{A}}.=Fui a comprarlos con {{A}}.
+Oh! You mean at the mall!?=¡Oh!\n¿¡Los del centro comercial!?
+
+#C2
+Do you know it?=¿Lo conoces?
+
+I used to go there all the\ntime.=Solía ​​ir allí todo el tiempo.
+I'm free tomorrow, too.=Yo también estoy libre mañana.
+I can come, as well.=Yo también puedo ir.
+Great. Let's meet at\n{{A}}'s house, then.=Excelente.\nEntonces nos vemos en casa de {{A}}.
+Okey dokey!=¡Okey dokey!
+See ya then!=¡Nos vemos entonces!
+Bene!=¡Bené!
+So you're at Port Island, huh?=Entonces estás en la Isla Puerto, ¿eh?
+I've actually gone shopping\nthere before myself.=De hecho, fui de compras allí hace tiempo.
+Huh, sounds like they have\na bunch of shops over there.=Eh, parece que tienen un montón de tiendas allí.
+There's this great ramen shop,\ntoo! I think you'd really like\nit, Shun.=¡También hay una gran tienda de ramen!\nCreo que realmente te gustará, Shun.
+Ah sorry, not the mall. Maybe\nthe strip mall? You can still\nuse the monorail though!=Ah lo siento, no en el centro comercial.\n¿Quizás en el pasillo comercial?\n¡Aun así puedes ir en el monorraíl!
+Well, I'm checking that out\nfor sure. Let's go there\nnext time, {{A}}.=Bueno, eso seguro que voy a verlo.\nVayamos allí la próxima vez, {{A}}.
+
+#C2
+I mean, if you're paying.=Quiero decir, si pagas tú.
+#C3
+Guess I'll have to...=Supongo que tendré...
+
+See you tomorrow, Riko-senpai!=¡Hasta mañana, Riko-senpai!
+I'm curious about that ramen place...=Tengo curiosidad por esa tienda de ramen...
+It seems you've become quite the ramen\nfanatic, Riko...=Parece que te has vuelto bastante fanática del ramen, Riko...
+I wouldn't go that far. Shun and the others\nhave had an influence on me, though.=Yo no iría tan lejos.\nAunque, Shun y los demás si que influyeron en mí.
+Still, I wonder where that ramen shop might\nbe. I didn't see it in the mall...=Aun así, me pregunto dónde estará esa tienda de ramen.\nNo la vi en el centro comercial...
+Yeah, let's try and look it up. I'll\nsearch... "ramen shops nearby"...=Sí, intentemos buscarlo.\nBuscaré... "tiendas de ramen cercanas"...
+Hmm... I guess the search range was too wide.\nI'm getting results for a ton of places.=Hmm... Supongo que el rango de búsqueda era demasiado amplio.\nEstoy obteniendo resultados para un montón de lugares.
+It would be tough to find the exact one\nMotoha mentioned... Probably best to ask her\nin person tomorrow.=Será difícil encontrar exactamente la que mencionó Motoha... Probablemente sea mejor preguntarle en persona mañana.
+Despite being man-made, Port Island is\nquite large.=A pesar de ser artificial, la Isla Puerto es bastante grande.
+Also, when I hear "man-made island," I tend\nto imagine a brand-new place, don't you?=Además, cuando escucho "isla artificial", tiendo a imaginar un lugar completamente nuevo, ¿no?
+In reality, there are quite a few old homes\nand stores built here. Including the\nconfectionary shop we just visited.=En realidad, hay bastantes casas y tiendas antiguas construidas aquí.\nIncluida la confitería que acabamos de visitar.
+Even still, there are many retail facilities,\nso it doesn't really have that old-fashioned\nfeel to it.=Aún así, hay muchas instalaciones comerciales, por lo que realmente no tiene esa sensación pasada de moda.
+
+#C1
+It's because of the monorail.=Es por el monorraíl.
+Good point. I suppose monorails do have a\nmore novel, modern feeling to them.=Buen punto.\nSupongo que los monorrieles tienen una sensación más novedosa y moderna.
+#C2
+It's because of the mall.=Es por el centro comercial.
+Good point. I did notice quite a few\nhigh school students there on their way\nhome from school.=Buen punto.\nNoté que allí había bastantes estudiantes de secundaria de camino a casa desde la escuela.
+
+By the way, this diner is actually part of a\nwell-known restaurant chain.=Por cierto, este restaurante forma parte de una conocida cadena de restaurantes.
+Thanks for waiting! Here's your Port Island\nLimited Parfait.=¡Gracias por esperar!\nAquí está su parfait limitado de la Isla Puerto.
+It's quite large... Can you finish it by\nyourself, Lufel?=Es bastante grande... ¿Puedes terminartelo por tu cuenta, Lufel?
+I suppose the mini parfait would have been\nthe wiser option...=Supongo que el mini parfait hubiera sido la opción más inteligente...
+Lufel and I decided to split\nthe parfait between us...=Lufel y yo decidimos dividir\nel parfait entre nosotros...
+It's gotten pretty late, hasn't it?=Se ha hecho bastante tarde, ¿no?
+
+#C1
+I blame Lufel.=Culpa de Lufel.
+T-This was unavoidable! That parfait was\ncolossal, to say the least...!=¡E-Esto era inevitable!\n¡Ese parfait era colosal, por decir lo mínimo...!
+#C2
+Ah, I'm not blaming you at all. Please don't\nworry about it.=Ah, no te culpo en absoluto.\nPor favor, no te preocupes por eso.
+
+Thank you for riding with us. This train is\nbound for Iwatodai.=Gracias por viajar con nosotros.\nEste tren se dirige a Iwatodai.
+Ah, I almost forgot. Since I have these\nsnacks, I should prepare some tea for\ntomorrow as well.=Ah, casi lo olvido.\nYa que tengo estos refrigerios, también debería preparar un poco de té para mañana.
+I'll bring a few varieties that will pair\nnicely.=Traeré algunas variedades que combinarán muy bien.
+
+#C1
+It's not too much trouble?=¿No es mucha molestia?
+Of course. I was the one who proposed the\nidea, after all. Plus, these kinds of things\nare always better when—=Por supuesto. Después de todo, fui yo quien propuso la idea. Además, este tipo de cosas siempre son mejores cuand-
+
+Gyah!?=¿¡Aah!?
+What the heck was that?=¿Qué diablos fue eso?
+Whoa, it looks like we've stopped...=Vaya, parece que nos hemos detenido...
+Was there an accident!? Just my luck...=¿¡Hubo un accidente!?\nVaya suerte la mía...
+Yes... That was quite a harsh stop, though.=Sí... Sin embargo, esa fue una parada bastante dura.
+We apologize for activating the emergency\nbrake. We received notice of a rail\nswitching malfunction just ahead.=Pedimos disculpas por activar el freno de emergencia. Recibimos un aviso de mal funciona-\nmiento en un cambio de carril más adelante.
+Restoring service is expected to take some\ntime. We apologize for the inconvenience, but\nplease wait until we resolve the issue.=Se espera que la restauración del servicio lleve algún tiempo. Lamentamos las molestias, pero por favor, esperen hasta que resolvamos el problema.
+Due to track conditions, please do not leave\nthe train. Once again...=Debido a las condiciones de la vía, no abandonen el tren. Repito...
+How unfortunate...=Que desafortunado...
+They said that it might take some time to\nfix... At this rate, we might miss the\nlast train.=Dijeron que podría tomar algún tiempo arreglarlo...\nA este paso, podríamos perder el último tren.
+Shall I have someone pick us up? Once we're\nable to get off this train, we can take you\ndirectly to Zoshigaya.=¿Llamo para que alguien nos recoja?\nUna vez que podamos bajar del tren, podemos llevarte directamente a Zoshigaya.
+
+#C1
+I'd really appreciate that.=Realmente lo apreciaría.
+No need to thank me. Nothing we can do about\nthe current situation, after all.=No necesitas agradecerme.\nDespués de todo, no podemos hacer nada con respecto a la situación actual.
+#C2
+I'll get dropped off after you, so I'll be\nfine.=Me dejarán después de ti, así que estaré bien.
+
+Still, who can say when we'll be able to get\noff this train...?=Aun así, ¿quién dirá cuándo podremos bajar del tren...?
+If we can just make it to the next station,\nthings should work out. Let's just wait for a\nlittle while.=Si podemos llegar a la siguiente estación, todo debería funcionar.\nEsperemos un poco.
+We waited a while for\nthe monorail to start\nmoving again...=Esperamos un rato a que\nel monorraíl volviera a moverse...
+I'm glad things worked out, but it's already\nalmost midnight...=Me alegro que todo haya funcionado, pero ya es casi medianoche...
+I apologize for keeping you so late...=Lo siento por hacerte quedar hasta tan tarde...
+
+#C2
+It was unavoidable.=Era inevitable.
+
+Your attention please. Today's train schedule\nwill be modified...=Su atención por favor.\nEl horario de trenes de hoy será modificado...
+...due to the rail switching malfunction. We\napologize for any inconvenience.=debido al mal funcionamiento del cambio de carril.\nPedimos disculpas por cualquier inconveniente.
+The next stop is Iwatodai.=La siguiente parada es Iwatodai.
+Let's get off here. I told my driver to come\nmeet us at Iwatodai, so they should be there\nto pick us up by now.=Bajemos aquí. Le dije a mi chofer que viniera a buscarnos a Iwatodai, así que ya debería estar allí para recogernos.
+Geez, my back's killing me from sitting for\nso long...=Caray, mi espalda me está matando de tanto estar sentada...
+Guess I better call a taxi... What a waste.=Supongo que será mejor que llame a un taxi...\nQué desperdicio.
+I'll go ahead and check if the car is here\nyet.=Me adelantaré y comprobaré si el coche ya está aquí.
+It's almost midnight...=Es casi medianoche...
+I went through the\nticket gate...=Pasé por la puerta de entrada...
+
+
+#Tutoriales
+Met by Moonlight: Luminous Island=Encontrado por la Luz de la Luna: Isla Luminosa
+Clear event missions and earn rewards!=¡Completa misiones de eventos y gana recompensas!
+
+Met by Moonlight=Encontrado por la Luz de la Luna
+Explore <color\=#FF423F>Tartarus</color> and complete <color\=#FF423F>Recollections Under Moonlight</color> to earn <color\=#FF423F>Wheels of Time: New Moon</color> and other fantastic rewards.=Explora el <color\=#FF423F>Tártaro</color> y completa <color\=#FF423F>Recolecciones bajo la Luz de la Luna</color> para conseguir <color\=#FF423F>Ruedas del Tiempo: Luna Nueva</color> y otras fantásticas recompensas.
+<color\=#FF690A>Wheels of Time: New Moon</color> can be exchanged for various items in the Limited-Time Shop. Be sure to exchange them before the event ends.=Las <color\=#FF690A>Ruedas del Tiempo: Luna Nueva</color> se pueden intercambiar por varios artículos en la tienda por tiempo limitado.\nAsegúrate de canjearlos antes de que finalice el evento.
+
+
+#Misiones
+Luminous Island=Isla Luminosa
+r:"^Clear Chapter ([0-9]+) of Luminous Island$"="Completa el capítulo $1 de la Isla Luminosa"
+r:"^Open ([0-9]+) treasure chests$"="Abre $1 cofres del tesoro"
+Open all treasure chests=Abre todos los cofres del tesoro.
+
+Tartarus=Tártaro
+r:"^Defeat ([0-9]+) Shadow$"="Derrota a $1 sombra"
+#Mirar
+r:"^Unlock ([0-9]+) of ([A-Za-z]+) ([A-Za-z]+)\'s Dream Chapters$"="Desbloquea $1 de los Capítulos de los Sueños de $2 $3"
+r:"^Unlock ([0-9]+) teammate during Tartarus exploration$"="Desbloquea $1 compañero durante la exploración del Tártaro"
+r:"^Unlock ([0-9]+) unique attributes, schema skill, or weapon forging in Tartarus Mastery$"="Desbloquea $1 atributos únicos, habilidad de esquema o forja de armas en la Maestría del Tártaro"
+r:"^Unlock ([0-9]+) Antique at Mayoido Antiques$"="Desbloquea $1 antigüedad en Antigüedades Mayoido"
+
+r:"^Clear Barbaric Beast Wheel on difficulty ([0-9]+)$"="Derrota la Rueda de Bestia Barbárica en dificultad $1"
+
+#Objetos
+#Mirar
+r:"^([A-Za-z]+)'s Dream Fragment$"="Fragmento de Sueño de $1"
+Dream Fragment=Fragmento de Sueño
+r:"^Obtained from Tartarus. Can be used to unlock ([A-Za-z]+) ([A-Za-z]+)\'s side story\.$"="Obtenido del Tártaro.\nSe puede utilizar para desbloquear la historia secundaria de $1 $2."
+
+Wheel of Time: New Moon=Rueda del Tiempo: Luna Nueva
+Can be gained by participating in the Luminous Island event, and can be exchanged for items in the event shop.=Se obtiene participando en el evento Isla Luminosa y se puede canjear por artículos en la tienda del evento.
+Wheel of Time: New Moon\nCan be gained by participating in the Luminous Island event, and can be exchanged for items in the event shop.=Rueda del Tiempo: Luna Nueva\nSe obtiene participando en el evento Isla Luminosa y se puede canjear por artículos en la tienda del evento.
+
+Barbaric Beast Wheel: New Moon=Rueda de Bestia Barbárica: Luna Nueva
+Barbaric Beast Wheel: Crescent Moon=Rueda de Bestia Barbárica: Luna Creciente
+Barbaric Beast Wheel: Full Moon=Rueda de Bestia Barbárica: Luna Llena
+Barbaric Beast Wheel: Half Moon=Rueda de Bestia Barbárica: Luna Media
+r:"^Awarded for clearing Recollections Under Moonlight on difficulty ([0-9]+) in Luminous Island\.$"="Otorgado por completar Recuerdos Bajo la Luz de la Luna en dificultad $1 en Isla Luminosa."
+
+New Moon of the Dark Hour=Luna Nueva de la Hora Oscura
+Awarded for playing Met by Moonlight: Luminous Island.=Otorgada por participar en Encontrado por la Luz de la Luna: Ciudad Luminosa.
+
+Tartarus: Arbiter=Tártaro: Árbitro
+The highest floor you've reached during Tartarus exploration will be recorded.=Se registrará el piso más alto que hayas alcanzado durante la exploración del Tártaro.
+
+
+#UI
+By the Light of the Silvery Moon=A la Luz de la Luna Plateada
+EXPLORE=EXPLORAR
+STORY=HISTORIA
+Item Details=Detalles del Objeto
+Remaining=Restante
+Sold Out=Agotado
+Mission Details=Detalles de la Misión
+Recent Missions=Misiones Recientes
+Past Missions=Misiones Pasadas
+Special Missions=Misiones Especiales
+Log in for 7 days to receive <size\=66><sprite\=19></size> x5 and <size\=66><sprite\=21></size> x5=Ingresa 7 días para recibir <size\=66><sprite\=19></size> x5 y <size\=66><sprite\=21></size> x5
+r:"^Day ([0-9]+)$"="Día $1"
+BOSS CHALLENGE=DESAFÍO DEL JEFE
+Clear to unlock Stamina Mode=Completalo para desbloquear el modo Resistencia
+Clear Lv. =Nv. Completado
+r:"^LV.([0-9]+)$"="LV.$1"
+Not Played=No jugado
+Clear Luminous Island to unlock.=Completa la Isla Luminosa para desbloquearlo.
+Assist=Asistir
+For the best experience, play through The Masks We Wear: Phase 1 and Riko Tanemura's Synergy (Go to room 2-C) before playing this story.=Para disfrutar de la mejor experiencia, juega Las Máscaras que Vestimos: Parte 1 y la sinergia de Riko Tanemura (ve a la clase 2-C) antes de jugar esta historia.
+
+#Niveles historia
+By the Light of the Moon=A la Luz de la Luna
+Midnight Madness=Locura de Medianoche
+Unfamiliar Void=Vacío Desconocido
+The Blue-Haired Savior=El Salvador Pelo-Azul
+Who Are These Two?=¿Quiénes son estos dos?
+Incomplete Poder=Poder Incompleto
+Specialized Extracurricular Execution Squad=Escuadrón Especializado de Ejecución Extraescolar
+What Can Be Done=Lo que se puede hacer
+Tell Me More=Cuéntame más
+Abnormality Detected=Anormalidad Detectada
+The Toils of Tartarus=Los trabajos del Tártaro
+Mutual Support=Apoyo mutuo
+What Makes a Great Leader=Qué hace Grande a un Lider
+The Never-Ending Climb=La Escalada Interminable
+A Mighty Enemy=Un Enemigo Poderoso
+Where's the Exit?=¿Dónde está la Salida?
+Still Trapped, Still Searching=Todavía Atrapado, Todavía Buscando
+The Mysterious Door=La Puerta Misteriosa
+
+
+#Enemy
+Barbaric Beast Wheel=Rueda de Bestia Barbárica
+A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.=Una Sombra que deambula por los pasillos del Tártaro.\nAtaca a cualquier humano que entre en sus dominios.
+Phantom Mage=Mago Fantasma
+
+
+#Mirar
+Weakness and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn.=a
