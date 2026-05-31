@@ -1,6 +1,6 @@
 #Historia
 Class is over for today...=Se acabaron las clases por hoy...
-Ah, Nagisa. Do you have a moment?=Ah, Nagisa. ¿Tienes un momento?
+Ah, {{A}}. Do you have a moment?=Ah, {{A}}.\n¿Tienes un momento?
 Do you have any plans for today? If you're\nfree, would you like to go somewhere with me?=¿Tienes algún plan para hoy?\nSi estás libre, ¿te gustaría ir a algún lugar conmigo?
 
 #C1
@@ -19,7 +19,7 @@ Hoo, a monorail...!=¡Hoo, un monorraíl...!
 I'm planning to visit a shopping mall there.\nThere's a snack I'd like to buy that's only\navailable in the evening...=Estoy planeando visitar un centro comercial de allí.\nHay un refrigerio que me gustaría comprar y sólo está disponible por la noche...
 But... I've never been there before, so I'm\na little nervous. I was hoping someone could\ncome with me.=Pero... nunca había estado allí antes, así que estoy un poco nerviosa.\nEsperaba que alguien pudiera venir conmigo.
 Thank you. Well then, shall we be off?=Gracias.\nBueno, entonces, ¿nos vamos?
-Riko and I made our way to\nPort Island...=Riko y yo nos dirigimos a\nla Isla Puerto...
+Riko and I made our way to\nPort Island...=Riko y yo nos dirigimos a la\nIsla Puerto...
 There it is! That's the store I wanted to\nvisit. I'm glad we managed to make it without\nany trouble...=¡Ahí está! Esa es la tienda que quería visitar.\nMe alegro de que lo hayamos logrado sin ningún problema...
 Wait here, I'll go buy it.=Espera aquí, iré a comprarlo.
 Also... I'll have the Port Island Limited\nParfait for dessert, please.=Además... tomaré el parfait limitado de la\nIsla Puerto de postre, por favor.
@@ -70,7 +70,7 @@ Whaaat! For real!? You bet\nI'll be free!=¡Qué!\n¿¡De verdad!?\n¡Puedes apo
 What kind of snacks are they?=¿Qué tipo de refrigerio son?
 A special kind that my\nmother enjoyed.=Un tipo especial que a mi madre le gustaba.
 They only sell them at\nPort Island.=Sólo los venden en la Isla Puerto.
-I came here to buy them\nwith Nagisa.=Fui a comprarlos con Nagisa.
+I came here to buy them with {{A}}.=Fui a comprarlos con {{A}}.
 Oh! You mean at the mall!?=¡Oh!\n¿¡Los del centro comercial!?
 
 #C2
@@ -79,7 +79,7 @@ Do you know it?=¿Lo conoces?
 I used to go there all the\ntime.=Solía ​​ir allí todo el tiempo.
 I'm free tomorrow, too.=Yo también estoy libre mañana.
 I can come, as well.=Yo también puedo ir.
-Great. Let's meet at\nNagisa's house, then.=Excelente.\nEntonces nos vemos en casa de Nagisa.
+Great. Let's meet at\n{{A}}'s house, then.=Excelente.\nEntonces nos vemos en casa de {{A}}.
 Okey dokey!=¡Okey dokey!
 See ya then!=¡Nos vemos entonces!
 Bene!=¡Bené!
@@ -88,7 +88,7 @@ I've actually gone shopping\nthere before myself.=De hecho, fui de compras allí
 Huh, sounds like they have\na bunch of shops over there.=Eh, parece que tienen un montón de tiendas allí.
 There's this great ramen shop,\ntoo! I think you'd really like\nit, Shun.=¡También hay una gran tienda de ramen!\nCreo que realmente te gustará, Shun.
 Ah sorry, not the mall. Maybe\nthe strip mall? You can still\nuse the monorail though!=Ah lo siento, no en el centro comercial.\n¿Quizás en el pasillo comercial?\n¡Aun así puedes ir en el monorraíl!
-Well, I'm checking that out\nfor sure. Let's go there\nnext time, Nagisa.=Bueno, eso seguro que voy a verlo.\nVayamos allí la próxima vez, Nagisa.
+Well, I'm checking that out\nfor sure. Let's go there\nnext time, {{A}}.=Bueno, eso seguro que voy a verlo.\nVayamos allí la próxima vez, {{A}}.
 
 #C2
 I mean, if you're paying.=Quiero decir, si pagas tú.
@@ -283,7 +283,7 @@ Yeah, good idea. He might have the\ninformation that we're looking for.=Sí, bue
 Okay, let's start with names... It'd be\nunfair if I didn't go first.=Bien, empecemos con los nombres... Sería injusto si no voy yo primero.
 <color\=#FF423F>Makoto Yuki</color>. Nice meeting you.=<color\=#FF423F>Makoto Yuki</color>. Un placer conocerte.
 I'm <color\=#FF423F>Yukari Takeba</color>. This here's Yuki-kun.=Soy <color\=#FF423F>Yukari Takeba</color>. Este de aquí es Yuki-kun.
-Nice to meet you, Kamisiro-kun.=Encantado de conocerte, Kamisiro-kun.
+Nice to meet you, {{A}}-kun.=Encantado de conocerte, {{A}}-kun.
 I'd be toast without you.=Estaría en problemas sin ti.
 Thanks again for saving me.=Gracias de nuevo por salvarme.
 No problem.=No hay problema.
@@ -295,11 +295,11 @@ So you know...=Así que ya lo sabes...
 Guess you're not an ordinary missing person,\nafter all... Well, I suppose that's obvious.\nI mean, you can walk and talk normally.=Supongo que no eres una persona desaparecida cualquiera, después de todo... Bueno, supongo que eso es obvio. Quiero decir, puedes caminar y hablar con normalidad.
 Still, it doesn't seem like you're playing\ndumb or anything.=Aun así, no parece que estés haciéndote el tonto ni nada por el estilo.
 Yeah... He really does seem to be in a daze.=Sí... Realmente parece estar aturdido.
-How much do you know about the place and\nthe time that we're in, Kamisiro-kun?=¿Qué sabes sobre el lugar y la época en la que nos encontramos, Kamisiro-kun?
+How much do you know about the place and\nthe time that we're in, {{A}}-kun?=¿Qué sabes sobre el lugar y la época en la que nos encontramos, {{A}}-kun?
 What does that even mean?=<size\=28>¿Qué se supone que significa eso?</size>
 Absolutely nothing.=Absolutamente nada.
 So you know about Personas, but don't know\nabout the Dark Hour...=Así que ya sabes lo que son las Personas, pero no sabes nada de la Hora Oscura...
-There's no room for doubt anymore. I think\nit's okay if we trust Nagisa at this point.=Ya no hay lugar a dudas. Creo que está bien si confiamos en Nagisa a estas alturas.
+There's no room for doubt anymore. I think\nit's okay if we trust {{A}} at this point.=Ya no hay lugar a dudas. Creo que está bien si confiamos en {{A}} a estas alturas.
 Still, there are some things I'd like to ask\nhim about.=Aún así, hay algunas cosas sobre las que me gustaría preguntarle.
 Same. Sorry about all this. We've had some\nissues on our side, too...=Lo mismo digo. Siento todo esto. Nosotros también hemos tenido algunos problemas por nuestro lado...
 I'd do the same in your shoes.=Yo haría lo mismo en tu lugar.
@@ -310,7 +310,7 @@ However, you did make an attempt to run away\nfrom the Shadow's attack.=Sin emba
 That's right... A normal person would be\nexhausted from the moment they arrived,\nand couldn't possibly avoid a Shadow.=Así es... Una persona normal estaría agotada desde el momento en que llegara, y no podría evitar encontrarse con una Sombra.
 Ah... For context, normal people sometimes\nfind their way in here and get lost...=Ah... Para que te hagas una idea, a veces las personas normales encuentran el camino hacia aquí y se pierden...
 Most of the people who wander in here are in\nbad shape. It's like the life has been\nsucked out of them.=La mayoría de las personas que deambulan por aquí están en mal estado. Es como si les hubieran succionado la vida.
-But you weren't like that, Kamisiro. You're\ndifferent than the missing people we've\nhelped so far.=Pero tú no estabas así, Kamisiro. Eres diferente a las personas desaparecidas que hemos ayudado hasta ahora.
+But you weren't like that, {{A}}. You're\ndifferent than the missing people we've\nhelped so far.=Pero tú no estabas así, {{A}}. Eres diferente a las personas desaparecidas que hemos ayudado hasta ahora.
 But still, you didn't fight back... Is there\na reason for that?=Pero aun así, no te defendiste... ¿Hay alguna razón para eso?
 I can't seem to use my powers...=No parece que pueda usar mis poderes...
 I'm a Persona-user too, but...=Yo también uso Persona, pero...
@@ -326,7 +326,7 @@ You probably got wrapped up in the Dark Hour\nbecause you have the potential...=
 Wait. Are your friends Persona-users like\nyou, then?=Espera. ¿Entonces tus amigos también son usuarios de Persona como tú?
 If that's the case, that means they might be\nlost in here, too...=Si ese es el caso, eso significa que también podrían estar perdidos aquí...
 And if they're in the same state as you,\nit'll be dangerous for them to wander around\nwithout their Personas.=Y si están en el mismo estado que tú, será peligroso que deambulen sin sus Personas.
-By the way, were you the only person who\nwent through that door you mentioned,\nNagisa?=Por cierto, ¿eras la única persona que pasó por esa puerta que mencionaste, Nagisa?
+By the way, were you the only person who\nwent through that door you mentioned,\n{{A}}?=Por cierto, ¿eras la única persona que pasó por esa puerta que mencionaste, {{A}}?
 If they didn't go through... there's a chance\nthey might still be at Iwatodai Station.=Si ellos no pasaron... hay una posibilidad de que todavía estén en la Estación de Iwatodai.
 As much as we'd like to go over there and\nlook... we're in a bit of a situation right\nnow sorry.=Por mucho que nos gustaría ir hasta allí y echar un vistazo... estamos en una situación un poco complicada ahora mismo, lo siento.
 A door... What do you think, Yukari?=Una puerta... ¿Qué piensas tú, Yukari?
@@ -338,13 +338,13 @@ That said, there's something off about the\nfloors we've gone through in this se
 Oh, yeah, so about where we are right—=Ah, sí, entonces sobre dónde estamos exact—
 Ugh, just as I'm in the middle of\nexplaining...! Let's get this over with\nquick!=¡Ugh, justo cuando estoy a mitad de la explicación...! ¡Acabemos con esto rápido!
 Thanks to Yukari's healing,\nI feel like I might be able\nto fight...!=Gracias a la curación de Yukari,\n¡creo que quizá pueda\nluchar...!
-Nagisa...?=¿Nagisa...?
+{{A}}...?=¿{{A}}...?
 Time to return the favor.=Es hora de devolverte el favor.
 Let me fight with you.=Déjame luchar contigo.
 ...Okay. Just don't push yourself too hard.=...Está bien. Solo no te exijas demasiado.
 
 Huh!? Why'd your clothes change!?=¡¿Eh?! ¡¿Por qué cambió tu ropa?!
-That's you... right, Nagisa?=Eres tú... ¿verdad, Nagisa?
+That's you... right, {{A}}?=Eres tú... ¿verdad, {{A}}?
 
 Phew... You're pretty good in a fight!=Vaya... ¡Eres bastante bueno en una pelea!
 Not again... I still can't use\nmy powers properly...=Otra vez no... Todavía no\npuedo usar mis poderes\ncorrectamente...
@@ -387,11 +387,11 @@ I'm the leader of SEES, the Specialized\nExtracurricular Execution Squad. We fig
 I wouldn't exactly call myself the leader,\nthough... I just handle things like combat\ntactics and situational judgment.=Aunque no me llamaría exactamente el líder... Solo me encargo de cosas como las tácticas de combate y los juicios situacionales.
 Was that okay?=¿Eso estuvo bien?
 Sounded good to me.=Me pareció bien.
-Shoot, I got too distracted by\nKamisiro-kun's situation...=Cielos, me distraje demasiado con la situación de Kamisiro-kun...
+Shoot, I got too distracted by\n{{A}}-kun's situation...=Cielos, me distraje demasiado con la situación de {{A}}-kun...
 The rest of our team came into Tartarus with\nus. We got separated just like you did.=El resto de nuestro equipo entró al Tártaro con nosotros. Nos separamos igual que tú.
 Since we can't contact Fuuka, we could look\nfor his friends while we try and find a way\nto regroup... How's that sound?=Como no podemos contactar a Fuuka, podríamos buscar a sus amigos mientras intentamos encontrar una forma de reagruparnos... ¿Qué te parece?
 Yeah... Sounds good.=Sí... suena bien.
-We're scattered around, Kamisiro-kun's\nfriends are lost...=Estamos dispersos, los amigos de Kamisiro‑kun están perdidos...
+We're scattered around, {{A}}-kun's\nfriends are lost...=Estamos dispersos, los amigos de {{A}}‑kun están perdidos...
 Tartarus really has it out for us... Geez,\nwhat the heck is going on!?=El Tártaro realmente nos tiene en el punto de mira... ¡Por Dios!, ¡¿qué demonios está pasando?!
 Whatever. No use in standing around and\ntalking. Should we get moving, Leader?=Como sea. No sirve de nada quedarse aquí de pie hablando. ¿Nos ponemos en marcha, Líder?
 Okay, it's settled then. I'll explain more\nwhile we're on the move.=De acuerdo, entonces está decidido. Explicaré más mientras nos movemos.
@@ -419,7 +419,7 @@ Ready whenever.=Listo cuando sea.
 If we want to open the treasure chest, we're\ngoing to have to take down that Shadow first.=Si queremos abrir el cofre del tesoro, tendremos que derrotar a esa Sombra primero.
 I need to prepare.=Necesito prepararme.
 Hmm... I'm not detecting anyone on this\nfloor...=Hmm... No detecto a nadie en este piso...
-By the way, what are your friends like,\nNagisa-kun?=Por cierto, ¿cómo son tus amigos, Nagisa-kun?
+By the way, what are your friends like,\n{{A}}-kun?=Por cierto, ¿cómo son tus amigos, {{A}}-kun?
 Riko is...=Riko es...
 Lufel is...=Lufel es...
 Huh, a third-year... Your senpai, then. We\nhave some third-years in our group as well.=Eh, de tercer año... Tu senpai, pues. Nosotros también tenemos algunos de tercer año en nuestro grupo.
@@ -443,7 +443,7 @@ How can we get out of here?=¿Cómo podemos salir de aquí?
 What'll happen if we keep going?=¿Qué pasará si seguimos adelante?
 Hmm... I dunno. Even we haven't been to the\ntop of this place...=Mmm... No lo sé. Ni siquiera nosotros hemos estado en la cima de este lugar...
 We don't even know how many floors there\nare. In fact, I don't even think we know what\nfloor we're on now.=Ni siquiera sabemos cuántos pisos hay. De hecho, ni siquiera creo que sepamos en qué piso estamos ahora.
-I can at least remember how many floors we've\nascended since we met Nagisa...=Puedo recordar al menos cuántos pisos hemos ascendido desde que nos conocimos a Nagisa...
+I can at least remember how many floors we've\nascended since we met {{A}}...=Puedo recordar al menos cuántos pisos hemos ascendido desde que nos conocimos a {{A}}...
 But this Tartarus feels different from the\none we know, so we can't know for sure what\nfloor we're actually on.=Pero este Tártaro se siente diferente al que conocemos, así que no podemos saber con certeza en qué piso estamos realmente.
 Is something off about this place?=¿Hay algo raro en este lugar?
 What's different?=¿Qué hay de diferente?
@@ -453,7 +453,7 @@ But this area... it definitely feels like the\narea we unlocked in April on a pr
 And yet, the Shadows here are abnormally\nstrong...=Y sin embargo, las Sombras aquí son anormalmente fuertes...
 The higher you go, the tougher the enemies\nget. It's not like they're impossible to\ndefeat, but...=Cuanto más alto subas, más duros se vuelven los enemigos. No es que sean imposibles de derrotar, pero...
 Oh, speak of the devil...=Oh, hablando del rey de Roma...
-Nagisa, are you all right?=Nagisa, ¿estás bien?
+{{A}}, are you all right?={{A}}, ¿estás bien?
 I'll manage.=Me las arreglaré.
 All good.=Todo bien.
 I can still fight, but my\nbody feels strangely heavy...=Aún puedo luchar, pero siento el\ncuerpo extrañamente pesado...
@@ -528,7 +528,7 @@ I was pretty stunned at first, but I've\ngotten used to it by now. I should be a
 I just remembered something...=Acabo de acordarme de algo...
 Since my smartphone won't\nturn on, I can't contact Motoha\nand the others...=Como mi smartphone no se enciende,\nno puedo contactar a Motoha\ny a los demás...
 They might be worried\nsince I haven't responded\nin a while...=Quizás estén preocupados\nporque no he respondido\nen un tiempo...
-Nagisa？=¿Nagisa？
+{{A}}？=¿{{A}}？
 You okay? That last fight was pretty tough.\nWanna rest for a bit?=¿Estás bien? Esa última pelea fue bastante dura. ¿Quieres descansar un rato?
 Understood. Let's continue, then.=Entendido. Continuemos, entonces.
 
@@ -548,7 +548,7 @@ Yeah... It feels like the door that we've\nseen, but the design is a bit differe
 Plus, that door wouldn't just appear in the\nmiddle of a hallway out of nowhere.=Además, esa puerta no aparecería de la nada en medio de un pasillo.
 What do we do...? I'm curious, but we haven't\nseen the rest of the floor yet. Going in now\nmight be risky...=¿Qué hacemos...? Tengo curiosidad, pero aún no hemos visto el resto del piso. Entrar ahora podría ser arriesgado...
 Yeah. Let's start by searching the rest of\nthis floor.=Sí. Empecemos por registrar el resto de este piso.
-Got it, Leader. Is that okay with you,\nKamisiro-kun?=Entendido, Líder. ¿Te parece bien, Kamisiro-kun?
+Got it, Leader. Is that okay with you,\n{{A}}-kun?=Entendido, Líder. ¿Te parece bien, {{A}}-kun?
 I decided to search this\nfloor with the others...=Decidí registrar este piso con los demás...
 No luck on the stairs... We searched every\ncorner of this place, too...=No hemos tenido suerte en las escaleras... También hemos registrado cada rincón de este lugar...
 For now, let's return to that door that we\nfound earlier.=Por ahora, regresemos a esa puerta que encontramos antes.
@@ -575,7 +575,7 @@ Are there any brighter floors?=¿Hay pisos más iluminado?
 Believe it or not, yes. It'd be nice if we\ncould find a new floor soon...=Créalo o no, sí. Sería agradable si pudiéramos encontrar un nuevo piso pronto...
 Ooh! A staircase!=¡Oh! ¡Una escalera!
 Yukari, what's wrong?=Yukari, ¿qué pasa?
-Is this the door you came through, Nagisa?=¿Es esta la puerta por la que entraste, Nagisa?
+Is this the door you came through, {{A}}?=¿Es esta la puerta por la que entraste, {{A}}?
 It's similar, but...=Es similar, pero...
 I see... It almost looks like the Monad\nDoors.=Ya veo... Casi parece una de las Puertas de Monad.
 What should we do? If we go through, I don't\nthink we'll be able to get back here.=¿Qué debemos hacer? Si pasamos, no creo que podamos volver aquí.
@@ -585,8 +585,8 @@ Let's open it up.=Abrámoslo.
 I figured you'd say that.=Me imaginé que dirías eso.
 Once we go through, there may be no going\nback... Nothing ventured, nothing gained, I\nsuppose.=Una vez que crucemos, puede que no haya vuelta atrás... Quien no arriesga, no gana, supongo.
 ...Yeah. Let's do this.=...Sí. Hagámoslo.
-Kamisiro's outfit changed! Does that mean\nthere are Shadows nearby?=¡El atuendo de Kamisiro cambió! ¿Eso significa que hay Sombras cerca?
-No... there don't seem to be. Nagisa, are\nyou feeling all right?=No... no parece que haya ninguna. Nagisa, ¿te encuentras bien?
+{{A}}'s outfit changed! Does that mean\nthere are Shadows nearby?=¡El atuendo de {{A}} cambió! ¿Eso significa que hay Sombras cerca?
+No... there don't seem to be. {{A}}, are\nyou feeling all right?=No... no parece que haya ninguna. {{A}}, ¿te encuentras bien?
 Same as ever.=Igual que siempre.
 I see. Good to hear.=Ya veo. Qué bueno escuchar eso.
 But why the costume change, then? Does it\nmean your powers are back?=Pero ¿a qué viene el cambio de atuendo, entonces? ¿Significa eso que tus poderes han vuelto?
@@ -625,11 +625,13 @@ Something feels off about Tartarus... Let's\nbe careful as we search each floor.
 
 #Tutoriales
 Met by Moonlight: Luminous Island=Encontrado por la Luz de la Luna: Isla Luminosa
-Completa event missions and earn rewards!=¡Completa las misiones del evento y gana recompensas!
-Enemy Equipo=Grupo de Enemigos
+Clear event missions and earn rewards!=¡Completa las misiones de eventos y gana recompensas!
+Enemy Team=Grupo de Enemigos
+
 Met by Moonlight=Encontrado por la Luz de la Luna
 Explore <color\=#FF423F>Tartarus</color> and complete <color\=#FF423F>Recollections Under Moonlight</color> to earn <color\=#FF423F>Wheels of Time: New Moon</color> and other fantastic rewards.=Explora el <color\=#FF423F>Tártaro</color> y completa <color\=#FF423F>Recolecciones bajo la Luz de la Luna</color> para conseguir <color\=#FF423F>Ruedas del Tiempo: Luna Nueva</color> y otras fantásticas recompensas.
 <color\=#FF690A>Wheels of Time: New Moon</color> can be exchanged for various items in the Limited-Time Shop. Be sure to exchange them before the event ends.=Las <color\=#FF690A>Ruedas del Tiempo: Luna Nueva</color> se pueden intercambiar por varios artículos en la tienda por tiempo limitado.\nAsegúrate de canjearlos antes de que finalice el evento.
+
 <color\=#FF3838>Tartarus</color> is a mysterious tower that appears during the <color\=#FF3838>Dark Hour</color>. The layout of the tower is randomized, presenting a new adventure each time you enter.=<color\=#FF3838>Tártaro</color> es una torre misteriosa que aparece durante la <color\=#FF3838>Hora Oscura</color>. El diseño de la torre es aleatorio, presentando una nueva aventura cada vez que ingresas.
 You must <color\=#FF3838>form a team</color> to explore the tower. Exploration teammates can be unlocked with <color\=#FF690A>Soul Fragments</color>.=Debes <color\=#FF3838>forma un equipo</color> para explorar la torre. Los compañeros de exploración pueden desbloquearse con <color\=#FF690A>Fragmentos de Alma</color>.
 Your abilities are sealed within Tartarus. Defeat Shadows as you explore to gain levels.=Tus habilidades están selladas dentro del Tártaro. Derrota Sombras mientras exploras para subir de nivel.
@@ -639,7 +641,7 @@ You must form a <color\=#FF3838>team</color> to explore Tartarus. Your team cons
 Characters can join your exploration of Tartarus <color\=#FF3838>even if you haven't drawn their contract</color>. Unlock characters by collecting <color\=#FF690A>Soul Fragments</color>.=Los personajes pueden unirse a tu exploración del Tártaro <color\=#FF3838>incluso si no has firmado su contrato</color>. Desbloquea personajes reuniendo <color\=#FF690A>Fragmentos de Alma</color>.
 Use <color\=#FF423F>Auto Select</color> to assign recommended team.=Usa <color\=#FF423F>Auto Seleccionar</color> para asignar el equipo recomendado.
 Select <color\=#FF423F>Confirm</color> to start exploring.=Selecciona <color\=#FF423F>Confirmar</color> para comenzar a explorar.
-Empty team slots have been automatically assigned.\nThe selected teammates will join your team once acquired through Shuffle Time.=Los espacios vacíos del equipo se han asignado automáticamente. Los compañeros seleccionados se unirán a tu equipo una vez que los adquieras mediante Hora de Barajar.
+Empty team slots have been automatically assigned.\nThe selected teammates will join your team once acquired through Shuffle Time.=Los espacios vacíos del equipo se han asignado automáticamente.\nLos compañeros seleccionados se unirán a tu equipo una vez que los adquieras mediante Hora de Barajar.
 Beginning Tartarus exploration activates <color\=#FF3838>Shuffle Time</color>. <color\=#FF3838>Choose 1 card</color> from a set of cards with various effects.=Comenzar la exploración del Tártaro activa el <color\=#FF3838>Hora de Barajar</color>. <color\=#FF3838>Elige 1 carta</color> de un conjunto de cartas con varios efectos.
 Selecting a character for the first time will add them to your active team. When the same character is selected again, their <color\=#FF3838>Awareness Level is increased by 1, for a maximum of 6 levels</color>. <color\=#FF3838>SEES members</color> gain <color\=#FF3838>Transcended Awareness</color> after reaching Awareness Level 6, granting them new abilities.=Seleccionar un personaje por primera vez lo añadirá a tu equipo activo. Cuando se selecciona al mismo personaje de nuevo, su <color\=#FF3838>nivel de conciencia aumenta en 1, hasta un máximo de 6 niveles</color>. Los <color\=#FF3838>miembros de SEES</color> obtienen <color\=#FF3838>Conciencia Trascendida</color> después de alcanzar el nivel de conciencia 6, lo que les otorga nuevas habilidades.
 <color\=#FF3838>Wands</color>:\nGrants various temporary enhancements.\n<color\=#FF3838>Cups:</color>\nGrants permanent enhancements during exploration.\n<color\=#FF3838>Swords:</color>\nGrants permanent enhancements during battle.\n<color\=#FF3838>Coins:</color>\nGrants a one-time item.=<color\=#FF3838>Bastos</color>:\nOtorga varias mejoras temporales.\n<color\=#FF3838>Copas</color>:\nOtorga mejoras permanentes durante la exploración.\n<color\=#FF3838>Espadas</color>:\nOtorga mejoras permanentes durante la batalla.\n<color\=#FF3838>Oros</color>:\nOtorga un objeto por única vez.
@@ -663,36 +665,42 @@ Before battling a <color\=#FF3838>Sentinel</color> you can view their enemy inte
 Check the boss's <color\=#FF423F>details</color>.=Consulta los <color\=#FF423F>detalles del jefe</color>.
 You can watch character stories in <color\=#FF3838>Dream Chapters</color>.=Puedes ver las historias de los personajes en <color\=#FF3838>Capítulos de Sueños</color>.
 There are two kinds of character stories.\nSide Stories, which are unlocked with <color\=#FF690A>Dream Fragments</color>, and Item Stories, which are unlocked by having <color\=#FF690A>specific items</color> in your possession.\n<color\=#FF690A>Dream Fragments</color> are obtained by exploring Tartarus. <color\=#FF690A>Items required for Item Stories</color> are obtained by completing specific missions.=Hay dos tipos de historias de personajes. Historias secundarias, que se desbloquean con <color\=#FF690A>Fragmentos de Sueño</color>, y Historias de Objeto, que se desbloquean al tener <color\=#FF690A>objetos específicos</color> en tu posesión.\n<color\=#FF690A>Fragmentos de Sueño</color> se obtienen al explorar Tártaro. <color\=#FF690A>Objetos necesarios para Historias de objeto</color> se obtienen al completar misiones específicas.
+You can view Tartarus missions from the <color\=#FF3838>Mission</color> menu. Under Special Missions, you can view requests from the <color\=#FF3838>Tatsumi East Police Station</color>. Completing these missions will earn you valuable rewards.=Puedes ver las misiones de Tártaro desde el menú de <color\=#FF3838>Misión</color>. En Misiones especiales, puedes ver las peticiones de la <color\=#FF3838>Comisaría de Policía de Tatsumi Este</color>. Completar estas misiones te otorgará valiosas recompensas.
+Tartarus Tartarus is a mysterious tower that appears during the Dark Hour. You must form a team to explore Tartarus. The layout of the tower is randomized, presenting a new adventure each time you enter.
+Your team will be subject to various effects based on your strength of <color\=#FF3838>Will</color>.\nSome Will is lost after battling, so try to keep it <color\=#FF3838>above 0</color> to avoid unsavory effects.=Tu equipo estará sujeto a varios efectos según tu fuerza de <color\=#FF3838>Voluntad</color>. Se pierde algo de Fuerza de voluntad después de la batalla, así que trata de conservarla <color\=#FF3838>por encima de 0</color> para evitar efectos desagradables.
+Items you collect in Tartarus can be used <color\=#FF3838>after exploration has ended</color>, regardless of the <color\=#FF3838>success or failure</color> of your expedition.=Los Objetos que recolectas en el Tártaro pueden usarse <color\=#FF3838>después de que la exploración haya terminado</color>, sin importar el <color\=#FF3838>éxito o fracaso</color> de tu expedición.
+Battling will raise your <color\=#FF3838>Exploration Level</color>. Your Exploration Level determines the levels of <color\=#FF3838>all teammates</color>, <color\=#FF3838>weapons</color>, <color\=#FF3838>skills</color>, and <color\=#FF3838>Wonder's Personas</colro>.=Combatir aumentará tu <color\=#FF3838>Nivel de Exploración</color>. Tu Nivel de Exploración determina los niveles de todos <color\=#FF3838>los compañeros de equipo</color>, <color\=#FF3838>las armas</color>, <color\=#FF3838>las habilidades</color> y <color\=#FF3838>las Personas de Wonder</color>.
+The goal of Tartarus exploration is not always to clear the level, but to get stronger through successive attempts.\nContinue challenging Tartarus and powering up your team as you aim for greater heights.=El objetivo de la exploración de Tártaro no siempre es despejar el nivel, sino volverse más fuerte a través de intentos sucesivos.\nContinúa desafiando al Tártaro y potenciando a tu equipo mientras aspiras a llegar más alto.
 
-
-#Misiones Historia 
-Floor ???  =Piso ???  
-Completa the mission to unlock Tartarus=Completa la misión para desbloquear el Tártaro
-Let's head to Tartarus and meet up with Makoto.=Vayamos al Tártaro y reunámonos con Makoto.
-Go to Tartarus=Ir al Tártaro
 
 #Misiones
+Floor ???  =Piso ???  
+Go to Tartarus=Ir al Tártaro
+Clear the mission to unlock Tartarus=Completa la misión para desbloquear el Tártaro.
+Let's head to Tartarus and meet up with Makoto.=Vayamos al Tártaro y encontrémonos con Makoto.
+
+
 Luminous Island=Isla Luminosa
-r:"^{{A}} Chapter ([0-9]+) of Luminous Island$"="Completa el capítulo $1 de la Isla Luminosa"
+r:"^Clear Chapter ([0-9]+) of Luminous Island$"="Completa el capítulo $1 de la Isla Luminosa"
 r:"^Open ([0-9]+) treasure chests$"="Abre $1 cofres del tesoro"
 Open all treasure chests=Abre todos los cofres del tesoro.
 
 Tartarus=Tártaro
 r:"^Defeat ([0-9]+) Shadow$"="Derrota a $1 sombra"
 #Mirar
-r:"^Unlock ([0-9]+) of ([A-Za-z]+) ([A-Za-z]+)\'s Dream Chapters$"="Desbloquea $1 de los Capítulos de los Sueños de $2 $3"
+r:"^Unlock ([0-9]+) of {{A}}\'s Dream Chapters$"="Desbloquea $1 de los Capítulos de los Sueños de {{A}}"
 r:"^Unlock ([0-9]+) teammate during Tartarus exploration$"="Desbloquea $1 compañero durante la exploración del Tártaro"
 r:"^Unlock ([0-9]+) unique attributes, schema skill, or weapon forging in Tartarus Mastery$"="Desbloquea $1 atributos únicos, habilidad de esquema o forja de armas en la Maestría del Tártaro"
 r:"^Unlock ([0-9]+) Antique at Mayoido Antiques$"="Desbloquea $1 antigüedad en Antigüedades Mayoido"
 
-r:"^{{A}} Barbaric Beast Wheel on difficulty ([0-9]+)$"="Derrota la Rueda de Bestia Barbárica en dificultad $1"
+r:"^Clear Barbaric Beast Wheel on difficulty ([0-9]+)$"="Derrota la Rueda de Bestia Barbárica en dificultad $1"
 
 #Objetos
-#Mirar
-r:"^([A-Za-z]+)'s Dream Fragment$"="Fragmento de Sueño de $1"
-Dream Fragment=Fragmento de Sueño
-r:"^Obtained from Tartarus. Can be used to unlock ([A-Za-z]+) ([A-Za-z]+)\'s side story\.$"="Obtenido del Tártaro.\nSe puede utilizar para desbloquear la historia secundaria de $1 $2."
 Twilight Fragment=Fragmentos Crepusculares
+
+{{A}}'s Dream Fragment=Fragmento de Sueño de {{A}}
+Dream Fragment=Fragmento de Sueño
+Obtained from Tartarus. Can be used to unlock {{A}}'s side story.=Obtenido del Tártaro.\nSe puede utilizar para desbloquear la historia secundaria de {{A}}.
 
 Wheel of Time: New Moon=Rueda del Tiempo: Luna Nueva
 Can be gained by participating in the Luminous Island event, and can be exchanged for items in the event shop.=Se obtiene participando en el evento Isla Luminosa y se puede canjear por artículos en la tienda del evento.
@@ -710,6 +718,7 @@ Awarded for playing Met by Moonlight: Luminous Island.=Otorgada por participar e
 Tartarus: Arbiter=Tártaro: Árbitro
 The highest floor you've reached during Tartarus exploration will be recorded.=Se registrará el piso más alto que hayas alcanzado durante la exploración del Tártaro.
 
+
 #UI
 Claimable=Reclamable
 Play Next Stage=Jugar siguiente\netapa
@@ -722,6 +731,7 @@ Item Details=Detalles del Objeto
 Remaining=Restante
 1 More=1 Más
 Sold Out=Agotado
+Enemy Equipo=Equipo Enemigo
 Cannot be KO'd.=No puede ser noqueado.
 Mission Details=Detalles de la Misión
 Recent Missions=Misiones Recientes
@@ -730,15 +740,17 @@ Special Missions=Misiones Especiales
 Log in for 7 days to receive <size\=66><sprite\=19></size> x5 and <size\=66><sprite\=21></size> x5=Ingresa 7 días para recibir <size\=66><sprite\=19></size> x5 y <size\=66><sprite\=21></size> x5
 r:"^Day ([0-9]+)$"="Día $1"
 BOSS CHALLENGE=DESAFÍO DEL JEFE
-Completa Nv. =Nv. Completado
-r:"^NV.([0-9]+)$"="LV.$1"
+Clear to unlock Stamina Mode=Completalo para desbloquear el modo Resistencia
+Clear Lv. =Nv. Completado
+r:"^LV.([0-9]+)$"="LV.$1"
 Not Played=No jugado
 r:"^Challenge {{A}}\. (\d+)$"="Desafío Nv. $1"
-Challenge Nv. %s=Desafío Nv. %s
+Challenge Lv. %s=Desafío Nv. %s
 Next Level=Siguiente Nivel
 Restart=Reiniciar
 Unlocked: =<size\=42>Desbloqueado: </size>
 Completa Luminous Island to unlock.=Completa la Isla Luminosa para desbloquearlo.
+Clear Luminous Island to unlock.=Completa la Isla Luminosa para desbloquearlo.
 Assist=Asistir
 SEVENTH=SÉPTIMO
 BOSS=JEFE
@@ -775,8 +787,20 @@ Tartarus: Great Clock=Tártaro: Gran Reloj
 Tartarus: Clocks=Tártaro: Relojes
 Tartarus: Sentinels=Tártaro: Centinelas
 Tartarus: Dream Chapters=Tártaro: Capítulos de Sueños
+Tartarus: Missions=Tártaro: Misiones
+Tartarus: Exploration Levels=Tártaro: Niveles de Exploración
+Tartarus: Will=Tártaro: Voluntad
+Tartarus: Collection=Tártaro: Colección
 Battle Members: <sprite\=0 tint\=1><sprite\=15 tint\=1><sprite\=8 tint\=1>=Miembros de Batalla: <sprite\=0 tint\=1><sprite\=15 tint\=1><sprite\=8 tint\=1>
 This can't be selected as you don't have enough items.=Esto no se puede seleccionar porque no tienes suficientes objetos.
+Unlock 1 of Makoto Yuki's Dream Chapters=Desbloquea 1 de los Capítulos de Sueño de Makoto Yuki
+Makoto's Dream Fragment=Fragmento del Sueño de Makoto
+r:"^Current Location: Tartarus Floor (\d+)\nDo you want to save your current progress and return to the Tartarus entrance\?$"="Ubicación actual: Tártaro Piso $1\n¿Quieres guardar tu progreso actual y regresar a la entrada del Tártaro?"
+r:"^Do you want to spend (.*?)'s Dream Fragment x(\d+) to unlock the story\?$"="¿Quieres gastar Fragmento de Sueño de $1 x$2 para desbloquear la historia?"
+r:"^(\d+) - (\d+)F$"="$1 - $2F"
+r:"^Unlock (\d+) basic attributes in Mastery$"="Desbloquea $1 atributos básicos en Maestría"
+Core Antiques=Antigüedades de Shinshoudo
+
 
 #Niveles historia
 By the Light of the Moon=A la Luz de la Luna
@@ -798,13 +822,15 @@ Where's the Exit?=¿Dónde está la Salida?
 Still Trapped, Still Searching=Todavía Atrapado, Todavía Buscando
 The Mysterious Door=La Puerta Misteriosa
 
+
 #Enemy
 Barbaric Beast Wheel=Rueda de Bestia Barbárica
 A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.=Una Sombra que deambula por los pasillos del Tártaro.\nAtaca a cualquier humano que entre en sus dominios.
 Phantom Mage=Mago Fantasma
+
+
 Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Poder at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Poder.\n3. At the start of the second phase, Barbaric Beast Wheel's Poder gain rate is doubled and it gains Shifting Gears. When Poder reaches 80, final damage increases and it gains the Irreversible state, preventing Poder from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Poder in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Poder at 100. When Barbaric Beast Wheel spends Poder to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn.=Las debilidades y resistencias son diferentes de lo normal.\n1. Rueda de Bestia Barbárica obtiene una pequeña cantidad de Poder al final de cada turno.\n2. Cada vez que un Ladrón Fantasma inflige daño a Rueda de Bestia Barbárica, esta pierde una cierta cantidad de Poder.\n3. Al inicio de la segunda fase, la tasa de obtención de Poder de Rueda de Bestia Barbárica se duplica y obtiene Engranajes Cambiantes. Cuando el Poder llega a 80, el daño final aumenta y obtiene el estado Irreversible, lo que evita que el Poder baje de 80. Si Rueda de Bestia Barbárica ha obtenido una cierta cantidad de Poder en este estado, usará Persecución Rodante 1 vez más cada 2 turnos.\n4. Al inicio de la tercera fase, el daño final de Rueda de Bestia Barbárica aumenta enormemente y obtiene Potencia Máxima, manteniendo el Poder en 100. Cuando Rueda de Bestia Barbárica consume Poder para usar una habilidad en este estado, su daño final recibido aumenta y obtiene Sobrecarga durante 2 turnos.\n5. Al inicio de la tercera fase, Rueda de Bestia Barbárica invoca 2 Siluetas de la rueda. Cuando una Silueta de la Rueda es derrotada, Rueda de Bestia Barbárica quedará Debilitada y no podrá actuar durante 1 turno.
 1. Barbaric Beast Wheel gains a small amount of Poder at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Poder.\n3. At the start of the second phase, Barbaric Beast Wheel's Poder gain rate is doubled and it gains Shifting Gears. When Poder reaches 80, final damage increases and it gains the Irreversible state, preventing Poder from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Poder in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Poder at 100. When Barbaric Beast Wheel spends Poder to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn.=1. Rueda de Bestia Barbárica obtiene una pequeña cantidad de Poder al final de cada turno.\n2. Cada vez que un Ladrón Fantasma inflige daño a Rueda de Bestia Barbárica, esta pierde una cierta cantidad de Poder.\n3. Al inicio de la segunda fase, la tasa de obtención de Poder de Rueda de Bestia Barbárica se duplica y obtiene Engranajes Cambiantes. Cuando el Poder llega a 80, el daño final aumenta y obtiene el estado Irreversible, lo que evita que el Poder baje de 80. Si Rueda de Bestia Barbárica ha obtenido una cierta cantidad de Poder en este estado, usará Persecución Rodante 1 vez más cada 2 turnos.\n4. Al inicio de la tercera fase, el daño final de Rueda de Bestia Barbárica aumenta enormemente y obtiene Potencia Máxima, manteniendo el Poder en 100. Cuando Rueda de Bestia Barbárica consume Poder para usar una habilidad en este estado, su daño final recibido aumenta y obtiene Sobrecarga durante 2 turnos.\n5. Al inicio de la tercera fase, Rueda de Bestia Barbárica invoca 2 Siluetas de la rueda. Cuando una Silueta de la Rueda es derrotada, Rueda de Bestia Barbárica quedará Debilitada y no podrá actuar durante 1 turno.
-
 #EFFECT
 1. Barbaric Beast Wheel gains a small amount of Poder at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Poder.\n3. At the start of the second phase, Barbaric Beast Wheel's Poder gain rate is doubled and it gains Shifting Gears. When Poder reaches 80, final damage increases and it gains the Irreversible state, preventing Poder from dropping below 80.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Poder at 100.=Rueda de Bestia Barbárica obtiene una pequeña cantidad de Poder al final de cada turno.\n2. Cada vez que un Ladrón Fantasma inflige daño a Rueda de Bestia Barbárica, esta pierde una cierta cantidad de Poder.\n3. Al inicio de la segunda fase, la tasa de obtención de Poder de Rueda de Bestia Barbárica se duplica y obtiene Engranajes Cambiantes. Cuando el Poder llega a 80, el daño final aumenta y obtiene el estado Irreversible, lo que evita que el Poder baje de 80.\n4. Al inicio de la tercera fase, el daño final de Rueda de Bestia Barbárica aumenta enormemente y obtiene Potencia Máxima, manteniendo el Poder en 100.
 
@@ -854,6 +880,9 @@ After 2 turns, use Wild Assault.=Después de 2 turnos, usa Asalto salvaje.
 Shocked Woman=Mujer Sorprendida
 Homebound Shopper=Comprador Casero
 Nervous Businessman=Empresario Nervioso
+
+#NPC Tártaro Dialogos
+You're right...! If I just keep going, I\nshould eventually reach my house!=¡Tienes razón...! Si sigo adelante, debería llegar a mi casa al final.
 
 #DAMAGE
 r:"^(\d+)k$"="$1k"
@@ -993,9 +1022,8 @@ PRIVATE CATALOGUE=CATÁLOGO PRIVADO
 DIRECTORY=DIRECTORIO
 INFOMATION=INFORMACIÓN
 LEAVE=SALIR
-
-+--Conseguir Pjs--+
-
+MAPSELECT=SELECCIÓN DE MAPAS
+Where will you go?=¿A dónde irás?
 
 You don't have enough required items to unlock this.=No tienes los objetos necesarios para desbloquearlo.
 You don't have enough Tarnished Silver Coins to enhance this.=No tienes suficientes Monedas de Plata Deslustradas para mejorarlo.
@@ -1064,63 +1092,63 @@ The antique Exquisite Oil Painting has been set.=La antigüedad Pintura al Óleo
 Antique Vase=Florero Antiguo
 r:"^Antique Vase Level ([0-9]+)$"="Florero Antiguo Nivel $1"
 r:"^Increase Clock Gears gained from battles, chests, and search objects by <color\=#3DE594>([0-9]+)%</color>\.$"="Aumenta los Engranajes de Reloj obtenidos en batallas, cofres y objetos destruibles en <color\=#3DE594>$1%</color>."
-Do you want to spend Tarnished Gold Coin x2 to unlock the Antique Vase?=¿Quieres gastar 2 Moneda de Oro Deslustrada para desbloquear el Florero Antiguo?
+Do you want to spend Tarnished Gold Coin x2 to unlock the antique Antique Vase?=¿Quieres gastar 2 Moneda de Oro Deslustrada para desbloquear el Florero Antiguo?
 The antique Exquisite Oil Painting has been unlocked.=La antigüedad Pintura al Óleo Exquisita ha sido desbloqueada.
 The antique Exquisite Oil Painting has been set.=La antigüedad Pintura al Óleo Exquisita ha sido seleccionada.
 
 Ornamental Bird=Ave Ornamental
 r:"^Ornamental Bird Level ([0-9]+)$"="Ave Ornamental Nivel $1"
 r:"^Increase Tarnished Silver Coins gained from battles and chests by <color\=#3DE594>([0-9]+)%</color>\.$"="Aumenta las Monedas de Plata Deslustradas obtenidos en batallas y cofres en <color\=#3DE594>$1%</color>."
-Do you want to spend Tarnished Gold Coin x2 to unlock the Ornamental Bird?=¿Quieres gastar 2 Moneda de Oro Deslustrada para desbloquear el Ave Ornamental?
+Do you want to spend Tarnished Gold Coin x2 to unlock the antique Ornamental Bird?=¿Quieres gastar 2 Moneda de Oro Deslustrada para desbloquear el Ave Ornamental?
 The antique Ornamental Bird has been unlocked.=La antigüedad Ave Ornamental ha sido desbloqueada.
 The antique Ornamental Bird has been set.=La antigüedad Ave Ornamental ha sido seleccionada.
 
 Silver Recorder=Flauta de Plata
 r:"^Silver Recorder Level ([0-9]+)$"="Flauta de Plata Nivel $1"
 r:"^When starting Tartarus exploration, select <color\=#3DE594>([0-9]+) more ally</color>\.$"="Al comenzar la exploración del Tártaro, selecciona <color\=#3DE594>$1 aliado más</color>."
-Do you want to spend Tarnished Gold Coin x2 to unlock the Silver Recorder?=¿Quieres gastar 2 Moneda de Oro Deslustrada para desbloquear la Flauta de Plata?
+Do you want to spend Tarnished Gold Coin x2 to unlock the antique Silver Recorder?=¿Quieres gastar 2 Moneda de Oro Deslustrada para desbloquear la Flauta de Plata?
 The antique Silver Recorder has been unlocked.=La antigüedad Flauta de Plata ha sido desbloqueada.
 The antique Silver Recorder has been set.=La antigüedad Flauta de Plata ha sido seleccionada.
 
 Vintage Perfume Bottle=Botella de Perfume Vintage
 r:"^Vintage Perfume Bottle Level ([0-9]+)$"="Botella de Perfume Vintage Nivel $1"
 r:"^When starting Tartarus exploration, increase Will by <color\=#3DE594>([0-9]+)</color>, and decrease Will consumed after battle by <color\=#3DE594>([0-9]+)</color>\.$"="Al comenzar la exploración del Tártaro, aumentas la Voluntad en <color\=#3DE594>$1</color>, y reduces la Voluntad consumida después de una batalla en <color\=#3DE594>$2</color>."
-Do you want to spend Tarnished Gold Coin x3 to unlock the Vintage Perfume Bottle?=¿Quieres gastar 3 Moneda de Oro Deslustrada para desbloquear la Botella de Perfume Vintage?
+Do you want to spend Tarnished Gold Coin x3 to unlock the antique Vintage Perfume Bottle?=¿Quieres gastar 3 Moneda de Oro Deslustrada para desbloquear la Botella de Perfume Vintage?
 The antique Vintage Perfume Bottle has been unlocked.=La antigüedad Botella de Perfume Vintage ha sido desbloqueada.
 The antique Vintage Perfume Bottle has been set.=La antigüedad Botella de Perfume Vintage ha sido seleccionada.
 
 Wooden Tarot Cards=Cartas del Tarot de Madera
 r:"^Wooden Tarot Cards Level ([0-9]+)$"="Cartas del Tarot de Madera Nivel $1"
 r:"^When starting Tartarus exploration, decrease Will by <color\=#3DE594>([0-9]+)</color>, but gain <color\=#3DE594>([0-9]+) Major Arcana card</color> from the start\.$"="Al comenzar la exploración del Tártaro, reduces la Voluntad en <color\=#3DE594>$1</color>, pero ganas <color\=#3DE594>$2 carta de Arcana Mayor</color> desde el comienzo."
-Do you want to spend Tarnished Gold Coin x3 to unlock the Wooden Tarot Cards?=¿Quieres gastar 3 Moneda de Oro Deslustrada para desbloquear las Cartas del Tarot de Madera?
+Do you want to spend Tarnished Gold Coin x3 to unlock the antique Wooden Tarot Cards?=¿Quieres gastar 3 Moneda de Oro Deslustrada para desbloquear las Cartas del Tarot de Madera?
 The antique Wooden Tarot Cards has been unlocked.=La antigüedad Cartas del Tarot de Madera ha sido desbloqueada.
 The antique Wooden Tarot Cards has been set.=La antigüedad Cartas del Tarot de Madera ha sido seleccionada.
 
 Bronze Incense Burner=Quemador de Incienso de Bronce
 r:"^Bronze Incense Burner Level ([0-9]+)$"="Quemador de Incienso de Bronce Nivel $1"
 r:"^When selecting cards from Shuffle Time: Normal or Shuffle Time: Rare, increase options by <color\=#3DE594>([0-9]+) card</color>\.$"="Cuando seleccionas cartas en una Hora de Barajar: Normal y Hora de Barajar: Raro, incrementa las opciones en <color\=#3DE594>$1 carta</color>."
-Do you want to spend Tarnished Gold Coin x3 to unlock the Bronze Incense Burner?=¿Quieres gastar 3 Moneda de Oro Deslustrada para desbloquear el Quemador de Incienso de Bronce?
+Do you want to spend Tarnished Gold Coin x3 to unlock the antique Bronze Incense Burner?=¿Quieres gastar 3 Moneda de Oro Deslustrada para desbloquear el Quemador de Incienso de Bronce?
 The antique Bronze Incense Burner has been unlocked.=La antigüedad Quemador de Incienso de Bronce ha sido desbloqueada.
 The antique Bronze Incense Burner has been set.=La antigüedad Quemador de Incienso de Bronce ha sido seleccionada.
 
 Wealth Charm=Amuleto de Riqueza
 r:"^Wealth Charm Level ([0-9]+)$"="Amuleto de Riqueza Nivel $1"
 r:"^Increase rate of finding treasure chests, and increase Clock Gears gained from chests by <color\=#3DE594>([0-9]+)%</color>\.$"="Incrementa el ratio de encontrar cofres del tesoro, e incrementa los Engranajes de Reloj obtenidos de cofres en un <color\=#3DE594>$1%</color>."
-Do you want to spend Tarnished Gold Coin x3 to unlock the Wealth Charm?=¿Quieres gastar 3 Moneda de Oro Deslustrada para desbloquear el Amuleto de Riqueza?
+Do you want to spend Tarnished Gold Coin x3 to unlock the antique Wealth Charm?=¿Quieres gastar 3 Moneda de Oro Deslustrada para desbloquear el Amuleto de Riqueza?
 The antique Wealth Charm has been unlocked.=La antigüedad Amuleto de Riqueza ha sido desbloqueada.
 The antique Wealth Charm has been set.=La antigüedad Amuleto de Riqueza ha sido seleccionada.
 
 Antique Compass=Brújula Antigua
 r:"^Antique Compass Level ([0-9]+)$"="Brújula Antigua Nivel $1"
 r:"^Increase rate of finding search objects, and increase Clock Gears gained from search objects by <color\=#3DE594>([0-9]+)%</color>\.$"="Incrementa el ratio de encontrar objetos destruibles, e incrementa los Engranajes de Reloj obtenidos de objetos destruibles en un <color\=#3DE594>$1%</color>."
-Do you want to spend Tarnished Gold Coin x3 to unlock the Antique Compass?=¿Quieres gastar 3 Moneda de Oro Deslustrada para desbloquear la Brújula Antigua?
+Do you want to spend Tarnished Gold Coin x3 to unlock the antique Antique Compass?=¿Quieres gastar 3 Moneda de Oro Deslustrada para desbloquear la Brújula Antigua?
 The antique Antique Compass has been unlocked.=La antigüedad Brújula Antigua ha sido desbloqueada.
 The antique Antique Compass has been set.=La antigüedad Brújula Antigua ha sido seleccionada.
 
 Ancient Pot=Olla Antigua
 r:"^Ancient Pot Level ([0-9]+)$"="Olla Antigua Nivel $1"
 r:"^When starting Tartarus exploration, gain <color\=#3DE594>([0-9]+)</color> Dawn Fragment\.$"="Al comenzar la exploración del Tártaro, obtienes <color\=#3DE594>$1</color> Fragmento del Amanecer."
-Do you want to spend Tarnished Gold Coin x2 to unlock the Ancient Pot?=¿Quieres gastar 2 Moneda de Oro Deslustrada para desbloquear la Olla Antigua?
+Do you want to spend Tarnished Gold Coin x2 to unlock the antique Ancient Pot?=¿Quieres gastar 2 Moneda de Oro Deslustrada para desbloquear la Olla Antigua?
 The antique Ancient Pot has been unlocked.=La antigüedad Olla Antigua ha sido desbloqueada.
 The antique Ancient Pot has been set.=La antigüedad Olla Antigua ha sido seleccionada.
 
@@ -1181,7 +1209,7 @@ r:"^Unlock ([0-9]+) unique attributes, stat skills or weapon forging in Mastery$
 r:"^Unlock ([0-9]+) exploration skills in Mastery$"="Desbloquea $1 habilidades de exploración en Maestrías"
 
 r:"^Will #([0-9]+)$"="Voluntad #$1"
-r:"^{{A}} Tower of Darkness 1 time with Will below -([0-9]+)$"="Completa una exploración de la Torre de la Oscuridad teniendo la Voluntad en -$1"
+r:"^Clear Tower of Darkness 1 time with Will below -([0-9]+)$"="Completa una exploración de la Torre de la Oscuridad teniendo la Voluntad en -$1"
 
 r:"^Tartarus Exploration #([0-9]+)$"="Exploración del Tártaro #$1"
 r:"^Reach a total number of ([0-9]+) floors in Tower of Darkness$"="Alcanza un total de $1 pisos en la Torre de la Oscuridad"
@@ -1203,8 +1231,8 @@ r:"^Destroy ([0-9]+) search objects in Tower of Darkness$"="Destruye $1 objetos 
 r:"^Destroy ([0-9]+) rare search objects in Tower of Darkness$"="Destruye $1 objetos destruibles raros en la Torre de la Oscuridad"
 
 r:"^Monad Doors #([0-9]+)$"="Puertas Monad #$1"
-{{A}} 1 Monad Door in Tower of Darkness=Completa 1 Puerta Monad en la Torre de la Oscuridad
-r:"^{{A}} ([0-9]+) Monad Doors in Tower of Darkness$"="Completa $1 Puertas Monad en la Torre de la Oscuridad"
+Clear 1 Monad Door in Tower of Darkness=Completa 1 Puerta Monad en la Torre de la Oscuridad
+r:"^Clear ([0-9]+) Monad Doors in Tower of Darkness$"="Completa $1 Puertas Monad en la Torre de la Oscuridad"
 
 r:"^Purchase Cards #([0-9]+)$"="Comprar Cartas #$1"
 r:"^Purchase ([0-9]+) cards at the Great Clock in Tower of Darkness$"="Compra $1 cartas en el Gran Reloj en la Torre de la Oscuridad"
@@ -1224,6 +1252,7 @@ r:"^{{A}}'s Awareness$"="Conciencia de {{A}}"
 r:"^With {{A}} at Awareness 6, complete any run of Tower of Darkness 1 time$"="Con la Conciencia de {{A}} al 6, completa una exploración en la Torre de la Oscuridad 1 vez"
 
 r:"^Explore with {{A}} #([0-9]+)$"="Explora con {{A}} #$1"
+
 With {{A}} in the party, complete any run of Tower of Darkness 1 time=Con {{A}} en el equipo, completa una exploración en la Torre de la Oscuridad 1 vez
 With {{A}} in the party, complete any run of Tower of Darkness 2 times=Con {{A}} en el equipo, completa una exploración en la Torre de la Oscuridad 2 veces
 With {{A}} at Transcended Awareness, complete 1 run of Tower of Darkness=Con {{A}} con la Conciencia Trascendida, completa 1 exploración en la Torre de la Oscuridad
@@ -1238,21 +1267,22 @@ r:"^Find ([0-9]+) missing persons in Tower of Darkness\(([0-9]+)/([0-9]+)\)$"="E
 Will=Voluntad
 Team=Equipo
 View=Ver
-SNv.=ENv.
-SNV=SNV
+SLv.=NvE.
+SLV=NVE
 EXP=EXP
 Darkness=Oscuridad
 Appears on=Aparece en
 Team Preset=Equipo Prestablecido
 Exploration Items=Objetos de exploración
 Effect ended.=El efecto terminó.
-First Completa=Primera Vez Completado
+First Clear=Primera Vez Completado
 Purchased=Comprado
-r:"^Enemy Strength: \+(\d+)$"="Fuerza del enemigo: +$1"
 
 #Mirar
-<color\=#FFD145>Tartarus</color>\nTartarus is a mysterious tower that appears during the Dark Hour. You must form a team to explore Tartarus. The layout of the tower is randomized, presenting a new adventure each time you enter.\n\n<color\=#FFD145>Forming a Team</color>\nTo explore Tartarus, you must confirm your Team Preset.\nThe team includes 9 main members and 3 supports. These characters are not included in your initial active team, but will join you as you explore.\nCollect Soul Fragments to unlock characters for exploration, including characters you haven't obtained yet.=<color\=#FFD145>Tártaro</color>\nEl Tártaro es una torre misteriosa que aparece durante la Hora Oscura. Deberás formar un equipo para explorar el Tártaro. La distribución de la torre es aleatoria, presentando una nueva aventura cada vez que entras.\n\n\n<color\=#FFD145>Formar un Equipo</color>\nPara explorar el Tártaro, necesitarás confirmar tu Equipo Prestablecido. El equipo incluye 9 miembros principales y 3 soportes. Estos personajes no estarán en tu equipo inicial activos, pero se irán uniendo según exploras.\nRecolecta Fragmentos de Alma para desbloquear personajes, incluyendo personajes que aún no hayas obtenido1.
-<color\=#FFD145>Tartarus</color>\nTartarus is a mysterious tower that appears during the Dark Hour. You must form a team to explore Tartarus. The layout of the tower is randomized, presenting a new adventure each time you enter.\n\n\n<color\=#FFD145>Forming a Team</color>\nTo explore Tartarus, you must confirm your Team Preset.\nThe team includes 9 main members and 3 supports. These characters are not included in your initial active team, but will join you as you explore.\nCollect Soul Fragments to unlock characters for exploration, including characters you haven't obtained yet.=<color\=#FFD145>Tártaro</color>\nEl Tártaro es una torre misteriosa que aparece durante la Hora Oscura. Deberás formar un equipo para explorar el Tártaro. La distribución de la torre es aleatoria, presentando una nueva aventura cada vez que entras.\n\n\n<color\=#FFD145>Formar un Equipo</color>\nPara explorar el Tártaro, necesitarás confirmar tu Equipo Prestablecido. El equipo incluye 9 miembros principales y 3 soportes. Estos personajes no estarán en tu equipo inicial activos, pero se irán uniendo según exploras.\nRecolecta Fragmentos de Alma para desbloquear personajes, incluyendo personajes que aún no hayas obtenido2.
+
+r:"(?s)<color\=#FFD145>Tartarus</color>\s+Tartarus is a mysterious tower that appears during the Dark Hour\.\s+You must form a team to explore Tartarus\.\s+The layout of the tower is randomized, presenting a new adventure each time you enter\..*?<color\=#FFD145>Forming a Team</color>.*?To explore Tartarus,.*?you must confirm your Team Preset..*?The team includes 9 main members and 3 supports..*?.$"="<color\=#FFD145>Tártaro</color>\nEl Tártaro es una misteriosa torre que aparece durante la Hora Oscura. Debes formar un equipo para explorar el Tártaro. La distribución de la torre es aleatoria, presentando una nueva aventura cada vez que entras.\n\n<color\=#FFD145>Formar un equipo</color>\nPara explorar el Tártaro, debes confirmar tu Ajuste de Equipo. El equipo incluye 9 miembros principales y 3 de apoyo. Estos personajes no están incluidos en tu equipo activo inicial, pero se unirán a ti a medida que explores.\nReúne Fragmentos de Alma para desbloquear personajes para la exploración, incluidos los personajes que aún no has obtenido."
+
+
 
 r:"^Tartarus Floor ([0-9]+)$"="Tártaro - Piso $1"
 Tartarus Floor %s=Tártaro - Piso %s
@@ -1266,63 +1296,42 @@ Teammates will join your active team via Shuffle Time.=Los compañeros de equipo
 Team has been saved.\nSelect "Enter" from the Tartarus Entrance to begin exploring.=El Equipo a sido guardado.\nSelecciona "Entrar" desde la Entrada del Tártaro para comenzar la exploración.
 Reached new floor=Nuevo piso alcanzado
 r:"^Current Location: Tartarus Floor ([0-9]+)\nDo you want to save your current progress and return to the Tartarus entrance?$"="Ubicación actual: Tártaro - Piso $1 ¿Quieres guardar tu progreso actual y regresar a la entrada del Tártaro?"
+r:"^Enemy Strength: +([0-9]+)$"="Fuerza del Enemigo: +$1"
+
+#Mirar
+r:"^Under the leadership of {{A}}, the exploration was ended in ([0-9]+)Duration: ([0-9]+) m([0-9]+) s on ([0-9]+)\.([0-9]+)\.([0-9]+)\. Your exploration results are as follows:$"="Bajo el liderazgo de {{A}}, la exploración terminó en $1\nDuración: $2m $3s el $6/$5/$4. Los resultados de exploración son los siguientes:1"
+r:"^Under the leadership of {{A}}, the exploration was ended in ([0-9A-Za-z .]+)Duration: ([0-9]+) m([0-9]+) s on ([0-9]+)\.([0-9]+)\.([0-9]+)\. Your exploration results are as follows:$"="Bajo el liderazgo de {{A}}, la exploración terminó en $1\nDuración: $2m $3s el $6/$5/$4. Los resultados de exploración son los siguientes:2"
+r:"^Under the leadership of Dan Quartz, the exploration was ended in ([0-9A-Za-z .]+)Duration: ([0-9]+) m([0-9]+) s on ([0-9]+)\.([0-9]+)\.([0-9]+)\. Your exploration results are as follows:$"="Bajo el liderazgo de Dan Quartz, la exploración terminó en $1\nDuración: $2m $3s el $6/$5/$4. Los resultados de exploración son los siguientes:3"
+r:"^Under the leadership of Dan Quartz, the exploration was ended in 16Duration: ([0-9]+) m([0-9]+) s on ([0-9]+)\.([0-9]+)\.([0-9]+)\. Your exploration results are as follows:$"="Bajo el liderazgo de Dan Quartz, la exploración terminó en $1\nDuración: $2m $3s el $6/$5/$4. Los resultados de exploración son los siguientes:5"
+r:"^Under the leadership of Dan Quartz, the exploration was ended in 16Duration: 53 m34 s on 2026\.05\.31\. Your exploration results are as follows:$"="Bajo el liderazgo de Dan Quartz, la exploración terminó en 16\nDuración: 53 34s el 31/5/4. Los resultados de exploración son los siguientes:8"
+r:"^Under the leadership of {{A}}, the exploration was ended in 16Duration: 53 m34 s on 2026\.05\.31\. Your exploration results are as follows:$"="Bajo el liderazgo de {{A}}, la exploración terminó en 16\nDuración: 53 34s el 31/5/4. Los resultados de exploración son los siguientes:10"
+#Under the leadership of Dan Quartz, the exploration was ended in 16Duration: 53 m34 s on 2026.05.31. Your exploration results are as follows:=Bajo el liderazgo de Dan Quartz, la exploración terminó en 16\nDuración: 53 34s el 31/5/4. Los resultados de exploración son los siguientes:9
+
+r:"^Floors Climbed \(([0-9]+)\)$"="Pisos alcanzados ($1)"
+r:"^Enemies Defeated \(([0-9]+)\)$"="Enemigos Derrotados ($1)"
+r:"^Formidable Shadows Defeated \(([0-9]+)\)$"="Sombras Formidables Derrotadas ($1)"
+r:"^Rare Shadows Defeated \(([0-9]+)\)$"="Sombras Raras Derrotadas ($1)"
+r:"^Defeated Sentinel \(([0-9]+)\)$"="Centinelas Derrotados ($1)"
+r:"^Clock Gears Obtained \(([0-9]+)\)$"="Engranajes de Reloj Obtenidos ($1)"
+r:"^Dawn Fragments Obtained \(([0-9]+)\)$"="Fragmentos del Amanecer Obtenidos ($1)"
+r:"^Missing Persons Found \(([0-9]+)\)$"="Personas Perdidas Encontradas ($1)"
+r:"^Monad Doors Explored \(([0-9]+)\)$"="Puertas Monad Exploradas ($1)"
+r:"^Phantom Thieves Obtained \(([0-9]+)\)$"="Ladrones Fantasma Obtenidos ($1)"
+r:"^Minor Arcana Selected \(([0-9]+)\)$"="Arcanas Menores Seleccionadas ($1)"
+r:"^Major Arcana Selected \(([0-9]+)\)$"="Arcanas Mayores Seleccionadas ($1)"
+r:"^Rounds \(([0-9]+)\)$"="Rondas ($1)"
+
 
 Tartarus: Entrance=Tártaro: Entrada
 Exploration: =Exploración: 
 Tower of Darkness=Torre de la Oscuridad
 Diff<sprite\=18 tint\=1>: <sprite\=0 tint\=1>=Dific<sprite\=18 tint\=1>: <sprite\=0 tint\=1>
 Floor: <sprite\=3 tint\=1>F=Piso: <sprite\=3 tint\=1>F
+Infiltrate Tartarus=Infiltrarse al Tártaro
 
 Tartarus: Team=Tártaro: Equipo
 Obtain: {{A}}=Obtener a: {{A}}
-Obtain: Makoto Yuki=Obtener a: Makoto Yuki
 Obtain: Lufel=Obtener a: Lufel
-Obtain: Motoha Arai=Obtener a: Motoha Arai
-Obtain: Shun Kano=Obtener a: Shun Kano
-Obtain: Riko Tanemura=Obtener a: Riko Tanemura
-Obtain: Shoki Ikenami=Obtener a: Shoki Ikenami
-Obtain: Aran Hirano=Obtener a: Aran Hirano
-Obtain: Tomoko Noge=Obtener a: Tomoko Noge
-Obtain: Yui=Obtener a: Yui
-Obtain: Seiji Shiratori=Obtener a: Seiji Shiratori
-Obtain: Kotone Montagne=Obtener a: Kotone Montagne
-Obtain: Yukimi Fujikawa=Obtener a: Yukimi Fujikawa
-Obtain: Miyuu Sahara=Obtener a: Miyuu Sahara
-Obtain: Reo Kamiyama=Obtener a: Reo Kamiyama
-Obtain: Kiyoshi Kurotani=Obtener a: Kiyoshi Kurotani
-Obtain: Moko Tanisawa=Obtener a: Moko Tanisawa
-Obtain: Chizuko Nagao=Obtener a: Chizuko Nagao
-Obtain: Runa Dogenzaka=Obtener a: Runa Dogenzaka
-Obtain: Masaki Ashiya=Obtener a: Masaki Ashiya
-Obtain: Ayaka Sakai=Obtener a: Ayaka Sakai
-Obtain: Hiyori Koide=Obtener a: Hiyori Koide
-Obtain: Toshiya Sumi=Obtener a: Toshiya Sumi
-Obtain: Yuzuru Haigamine=Obtener a: Yuzuru Haigamine
-Obtain: Airi Fujieda=Obtener a: Airi Fujieda
-Obtain: Kei Akashi=Obtener a: Kei Akashi
-Obtain: Ichigo Shikano=Obtener a: Ichigo Shikano
-Obtain: Okyann=Obtener a: Okyann
-Obtain: Pinky=Obtener a: Pinky
-Obtain: Blitz=Obtener a: Blitz
-Obtain: Ren Amamiya=Obtener a: Ren Amamiya
-Obtain: Morgana=Obtener a: Morgana
-Obtain: Ryuji Sakamoto=Obtener a: Ryuji Sakamoto
-Obtain: Ann Takamaki=Obtener a: Ann Takamaki
-Obtain: Yusuke Kitagawa=Obtener a: Yusuke Kitagawa
-Obtain: Makoto Niijima=Obtener a: Makoto Niijima
-Obtain: Futaba Sakura=Obtener a: Futaba Sakura
-Obtain: Haru Okumura=Obtener a: Haru Okumura
-Obtain: Goro Akechi=Obtener a: Goro Akechi
-Obtain: Sumire Yoshizawa=Obtener a: Sumire Yoshizawa
-Obtain: Yukari Takeba=Obtener a: Yukari Takeba
-Obtain: Aigis=Obtener a: Aigis
-Obtain: Koromaru=Obtener a: Koromaru
-Obtain: Junpei Iori=Obtener a: Junpei Iori
-Obtain: Mitsuru Kirijo=Obtener a: Mitsuru Kirijo
-Obtain: Fuuka Yamagishi=Obtener a: Fuuka Yamagishi
-Obtain: Akihiko Sanada=Obtener a: Akihiko Sanada
-
-r:"^You obtained <color\=#ffb400>(.+?)</color> for the first time during this exploration, but since <color\=#ffb400>(.+?)</color>'s Awareness was already at (\d+), you received Awareness bonus x(\d+)\.$"="Obtuviste a <color\=#ffb400>$1</color> por primera vez durante esta exploración, pero como la Conciencia de <color\=#ffb400>$2</color> ya estaba en $3, recibiste un bono de Conciencia x$4."
 
 #Mirar
 r:"^Do you want to spend ([0-9]+) Soul Fragments to unlock this teammate in Tartarus?$"="¿Quieres usar $1 Fragmentos de Alma para desbloquear este aliado en el Tártaro?"
@@ -1375,17 +1384,34 @@ Grave Beetle=Escarabajo de Tumba
 Precious Hand=Mano Preciosa
 Magic Hand=Mano Mágica
 Black Raven=Cuervo Negro
-Merciless Maya=Maya la Despiadada
+Merciless Maya=Maya Despiadada
 Cowardly Maya=Maya Cobarde
-Obsessed Cupid=Cupido Obsesionado
-Slaughter Twins=Matanza de Gemelos
-Grieving Tiara=Tiara de Duelo
+Slaughter Twins=Gemelos de Matanza
+Crazy Twins=Gemelos Locos
+Grieving Tiara=Tiara Afligida
 Iron Dice=Dados de Hierro
 Soul Dancer=Bailarín de Alma
+Steel Gigas=Gigas de Acero
+Profligate Gigas=Gigas Libertino
+Furious Gigas=Gigas Furioso
+Obsessed Cupid=Cupido Obsesionado
+Spurious Book=Libro Espurio
+Amorous Snake=Serpiente Amorosa
+Pheromone Sting=Picadura de Feromona
+Formidable Shadow=Formidable Sombra
+Phantom Master=Maestro Fantasma
+Bronze Dice=Dados de Bronce
+Dancing Hand=Mano Bailarina
+Grand Magus=Gran Mago
+Magical Magus=Mago Mágico
+Stasis Giant=Gigante de Estasis
+Conviction Sword=Espada de Convicción
+
 
 Avenger Knight=Caballero Vengador
 1. Avenger Knight will continuously summon Shadows, and grants Steel Pride. For every 1 Steel Pride stack, Defense increases by 5%.\n2. Avenger Knight and summoned Shadows gain 1 Steel Pride at the end of their turn.\n3. When a summoned Shadow is defeated, all Steel Pride stacks from that Shadow are removed.\n4. Avenger Knight will spend Steel Pride granted to Shadows to enhance the effect of Condemnation of Pride.=1. El Caballero Vengador invocara Sombras continuamente y les otorgara Orgullo de Acero. Por cada acumulación de Orgullo de Acero, incrementa la Defensa en 5%.\n2. El Caballero Vengador y las Sombras invocadas obtienen 1 Orgullo de Acero al terminar su turno.\n3. Cuando una Sombra invocada es derrotada, todas las acumulaciones de Orgullo de Acero de esa Sombra son eliminadas.\n4. El Caballero Vengador usará los Orgullos de Acero otorgados a las Sombras para mejorar los efectos de Condenación del Orgullo.
 Knight's Convocation=Convocatoria de Caballeros
+Avenger Knight is preparing to activate a skill...=Caballero Vengador se está preparando para activar una habilidad...
 Summon=Invocar
 Summon up to 2 Shadows, and grant 1 Steel Pride stack to all Shadows.=Invoca hasta 2 Sombras y otorga 1 acumulación de Orgullo de Acero a todas las Sombras.
 Condemnation of Pride=Condena del Orgullo
@@ -1400,14 +1426,44 @@ Knight=Caballero
 
 Harmony Giant=Gigante Armonía
 1. Harmony Giant will Lock On to 1 Phantom Thief, significantly increasing their rate of being targeted.\n2. At the start of the second phase, Harmony Giant will summon 2 Justice Swords. When each Justice Sword is defeated, Harmony Giant will Lock On to 1 more Phantom Thief, and summon Justice Sword after 1 turn.\n3. When Harmony Giant is Locked On to multiple Phantom Thieves, its Heaven's Blade deals heavy critical damage.=1. El Gigante Armonía Fijará de Objetivo a 1 Ladrón Fantasma, aumentando significativamente la posibilidad de ser atacado.\n2. Al comenzar la segunda fase, el Gigante Armonía invocara 2 Espadas Justicia. Cuando una Espada Justicia es derrotada, el Gigante Armonía Fijará de Objetivo a 1 Ladrón Fantasma adicional, e invocará una Espada Justicia después de 1 turno.\n3. Cuando el Gigante Armonía tenga Fijados como Objetivo a varios Ladrones Fantasma, su Espada Celestial hace daño crítico pesado.
+Peaceful Tendency=Tendencia Pacifista
+Grant a shield to all allies that protects against damage 1 time.=Otorga un escudo a los aliados que protege de del daño 1 vez.
+Inflict Lock On to 1 foe, significantly increasing their chance of being attacked.=Inflinge Objetivo Fijado a 1 enemigo, incrementando significativamente la probabilidad de ser atacado.
+Heaven's Blade=Espada Celestial
+Deal severe Physical damage to 1 foe. Prioritize attacking locked on foes.=Hace daño Físico severo a 1 enemigo. Prioriza atacar a enemigos fijados.
 
-Steel Gigas=Gigas de Acero
-Profligate Gigas=Gigas Libertino
-Furious Gigas=Gigas Furioso
+Justice Sword=Espada de Justicia
+When multiple Phantom Thieves are under Lock On, Justice Sword will target all Locked On Phantom Thieves and deal damage with Myriad Slashes.=Cuando multiples Ladrones Fantasma esten Fijados como Objetivo, Espada de Justicia atacará a todos los Ladrones Fantasma fijados con Miriadas de Cuchillas. 
+Blade of Fury=Espada de Furia
+Deal Physical damage to all foes based on Attack, and decrease Defense.=Hace daño Físico a todos los enemigos en base al Ataque, y reduce su defensa.
+Deal Physical damage to 1 foe equal to <color\=#fffc40>56.7%</color> of Attack (2 to 3 hits). Also, inflict Deep Wounds for 3 turns, decreasing HP by a set amount each turn. Prioritize attacking Locked On foes.=Inflige daño Físico a 1 enemigo igual al <color\=#fffc40>56.7%</color> del Ataque (de 2 a 3 golpes). Tambien inflinge Herida Profunda por 3 turnos, reduciendo los PS por una cantidad fija cada turno. Prioriza atacar enemigos fijados.
 
+Hakurou Musha=Hakurou Musha
+1. When Hakurou Musha uses certain skills, it gains Warrior's Way, and spends Warrior's Way to strengthen Requiem of Thunder.\nWarrior's Way: Increase Shadow's Attack by 10%, critical rate by 5%, and final damage taken by 3% per stack. Stacks up to 5 times.\n2. At the start of Hakurou Musha's turn, it inflicts Sigil of Lightning on 1 random Phantom Thief, changing their Electric affinity to Weak. Sigil of Lightning cannot be inflicted on multiple Phantom Thieves at the same time. When a Phantom Thief with Sigil of Lightning is knocked down, Hakurou Musha gains 3 Warrior's Way stacks.\n3. At the start of battle, Hakurou Musha summons 2 Sky Balances.\n4. At the start of the second phase, Hakurou Musha summons 2 Heat Balances, and gains State of Supremacy. In this state, it gains 1 Warrior's Way stack every turn (when all summoned Shadows have been defeated, it gains 2 stacks every turn). At 5 stacks, its final damage taken increases by 25% more.=1. Cuando Hakurou Musha usa ciertas habilidades, obtiene Camino del Guerrero, y consume Camino del Guerrero para potenciar Requiem del Trueno.\nCamino del Guerrero: Incrementa el Ataque en 10%, la probabilidad crítica en 5% y el daño final recibido en 3% de la Sombra por cada acumulación. Se acumula hasta 5 veces.\n2. Al comienzo del turno de Hakurou Musha, inflinge Sigilo del Rayo a 1 Ladrón Fantasma al azar, cambiando su afinidad de Eléctrico a Débil. Sello del Rayo no puede ser inflingido a multiples Ladrones Fantasma al mismo tiempo. Cuando un Ladrón Fantasma con el Sigilo del Rayo es derribado, Hakurou Musha obtiene 3 acumulaciones de Camino del Guerrero.\n3. Al comienzo de la batalla, Hakurou Musha invoca 2 Balances del Cielo.\n4. Al comienzo de la segunda fase, Hakurou Musha invoca 2 Balances de Calor, y gana Estado de Supremacía. En este estado, gana 1 acumulación de Camino del Guerrero cada turno (cuando todas las Sombras invocadas han sido derrotadas, gana 2 acumulaciones por turno). Con 5 acumulaciones, su daño final recibido aumenta un 25% más.
+Warrior's Way=Camino del Guerrero
+For each stack, increase Attack by 10% and critical rate by 5%, but also increase final dmg taken by 3%.=Por cada acumulación, incrementa el Ataque en un 10% y la Probabilidad Crítica en un 5%, pero tambien incrementa el daño final recibido en un 3%.
+Sigil of Lightning=Sigilo del Rayo
+At the start of each turn, inflict 1 random foe with Sigil of Lightning, changing their Electric affinity to Weak. Sigil of Lightning cannot be inflicted on multiple foes at the same time. When a foe with Sigil of Lightning is knocked down, Hakurou Musha gains 3 Warrior's Way stacks.=Al comienzo de cada turno, inflinge a 1 enemigo al azar con Sigilo del Rayo, cambiando su afinidad de Eléctrico a Débil. Sello del Rayo no puede ser inflingido a multiples enemigos al mismo tiempo. Cuando un enemigo con el Sigilo del Rayo es derribado, Hakurou Musha obtiene 3 acumulaciones de Camino del Guerrero.
+Change Electric affinity to Weak. When downed, grant Warrior's Way to Hakurou Musha.=Cambia la resistencia de Eléctrico a Débil. Cuando eres derribado, otorga Camino del Guerrero a Hakurou Musha.
+Shiden Slash=Corte Shiden
+Deal Electric damage to all foes. When dealing weakness damage, gain 1 Warrior's Way stack.=Hace daño Eléctrico a todos los enemigos. Cuando hace daño de debilidad, gana 1 acumulación de Camino del Guerrero.
+Requiem of Thunder=Requiem del Trueno
+Spend all Warrior's Way stacks, and deal Electric damage to 1 foe (3 hits). For each Warrior's Way stack spent, deal 1 more hit of Electric damage, and with 5 stacks, increase damage by 50%. If this skill defeats a target, regain 3 Warrior's Way stacks.=Gasta todas las acumulaciones de Camino del Guerrero, y hace daño Eléctrico a 1 enemigo (3 golpes). Por cada acumulación de Camino del Guerrero gastada, hace 1 golpe más de daño Eléctrico, y con 5 acumulaciones, incrementa el daño un 50%. Si esta habilidad derrota al objetivo, vuelve a obtener 3 acumulaciones de Camino del Guerrero.
+State of Supremacy=Estado de Supremacía
+Enter State of Supremacy. In this state, gain 1 Warrior's Way stack every turn (when other allies are defeated, gain 2 stacks every turn), but at 5 Warrior's Way stacks, increase final damage taken by 25% more.=Entra en el Estado de Supremacía. En este estado, gana 1 acumulación de Camino del Guerrero cada turno (cuando todos los aliados sean derrotados, gana 2 stacks por turno), pero con 5 acumulaciones de Camino del Guerrero, incrementa el daño final recibido un 25% más.
+Gain 1 Warrior's Way stack every turn, and if user is the last survivor, gain 2 stacks. When Warrior's Way reaches 5 stacks, increase final damage taken by 25% more.=Gana 1 acumulación de Camino del Guerrero cada turno, si es el último superviviente, gana 2 acumulaciones. Cuando alcanza 5 acumulaciones de Camino del Guerrero, incrementa el daño final recibido un 25% más.
+
+Sky Balance=Balance del Cielo
+Heat Balance=Balance de Calor
+Heat Balance changes between Fire Form and Ice Form each turn.\nFire Form: At the end of each turn, grant 1 Warrior's Way stack to Hakurou Musha. When defeated, grant 5 Warrior's Way stacks to Hakurou Musha.\nIce Form: When defeated, remove all Warrior's Way stacks from Hakurou Musha.=Balance de Calor alterna entre Forma de Fuego y Forma de Hielo cada turno.\nForma de Fuego: Al final de cada turno, otorga 1 acumulación de Camino del Guerrero a Hakurou Musha. Cuando es derrotado, otorga 5 acumulaciones de Camino del Guerrero a Hakurou Musha.\nForma de Hielo: Cuando es derrotado, elimina todas las acumulaciones de Camino del Guerrero de Hakurou Musha.
+Fire Form=Forma de Fuego
+At the end of the turn, grant 1 Warrior's Way stack to Hakurou Musha. When defeated, Hakurou Musha gains 5 Warrior's Way stacks.=Al final del turno, otorga 1 acumulación de Camino del Guerrero a Hakurou Musha. Cuando es derrotado, Hakurou Musha gana 5 acumulaciones de Camino del Guerrero.
+Ice Form=Forma de Hielo
+When defeated, remove all Warrior's Way stacks from Hakurou Musha.=Cuando es derrotado, elimina todas las acumulaciones de Camino del Guerrero de Hakurou Musha.
 
 #Personas perdidas/eventos
-r:"^Spend ([0-9]+) Will to clear the fog\.$"="Gasta $1 Voluntad para despejar la niebla."
+r:"^Spend ([0-9]+) Will to clear the fog\.$"="Gasta $1 de Voluntad para despejar la niebla."
+r:"^Spend ([0-9]+) Dawn Fragments to enter battle, and receive a large amount of rewards if you win\.$"="Gastar $1 Fragmentos del Amanecer para entrar a una batalla, y recibir una gran cantidad de recompensas si ganas."
 
 Clock=Reloj
 Recover=Recuperar
@@ -1422,10 +1478,14 @@ r:"^Gain ([0-9]+) Dawn Fragments\.$"="Obtienes $1 Fragmentos del Amanecer."
 r:"^Gain ([0-9]+)-([0-9]+) Soul Fragments\.$"="Obtienes $1-$2 Fragmentos de Alma."
 Go closer=Acercarse
 r:"^Gain ([0-9]+)-([0-9]+) Tarnished Silver Coins\.$"="Obtienes $1-$2 Monedas de Plata Deslustradas."
+#Mirar Cambiar del general.txt
+Enter=Entrar en
 Receive nothing.=No recibir nada.
 
 Great Clock=Gran Reloj
 r:"^Left: ([0-9]+)$"="Restantes: $1"
+r:"^Refresh ([0-9]+) times for free$"="Actualiza gratis $1 veces"
+
 
 Tenacious Old Man=Viejo Tenaz
 I need to hurry up and get to the sea!=¡Necesito darme prisa y llegar al mar!
@@ -1460,6 +1520,57 @@ r:"^Spend ([0-9]+) Will\. ([0-9]+)% chance to restore ([0-9]+) Will\. ([0-9]+)% 
 You should turn back.=Deberías darte la vuelta.
 Maybe someone can help you?=¿Tal vez alguien pueda ayudarte?
 
+Hurried Man=Hombre Apresurado
+You know about Clock Gears? Got any to spare?=¿Conoces los Engranajes de Reloj?\n¿Tienes alguno de sobra?
+Sorry, I really need to get my hands on them.=Lo siento, pero de verdad los necesito.
+I can't go back home without them!=¡No puedo volver a casa sin ellos!
+If you have any, please send them my way!\nI'll give you this stone in return.=Si tienes alguno, ¡por favor damelos!\nA cambio te dare esta piedra.
+I have loads.=Tengo montones.
+r:"^Spend ([0-9]+) Clock Gears to gain ([0-9]+) Dawn Fragments\.$"="Gastar $1 Engranajes de Reloj para obtener $2 Fragmentos del Amanecer."
+Music to my ears! Thank you so very much!=¡Música para mis oidos! ¡Muchas gracias, de verdad!
+I have quite a few.=Tengo unos cuantos.
+I have some.=Tengo algunos.
+r:"^Spend ([0-9]+) Clock Gears to gain ([0-9]+) Dawn Fragment\.$"="Gastar $1 Engranajes de Reloj para obtener $2 Fragmento del Amanecer."
+I don't have any.=No tengo ninguno.
+
+Lonely Girl=Chica Solitaria
+I can't believe Saki-chan moved to a new\nschool... We made a promise to graduate\ntogether...=No me puedo creer que Saki-chan se haya cambiado de escuela...\nHicimos una promesa de graduarnos juntas...
+Saki-chan was my only friend...=Saki-chan era mi única amiga...
+Now she's gone, I have nobody...=Ahora que se fue, no tengo a nadie...
+*sniff* I hate being alone...=*Sollozo* Odio estar sola...
+Write her a letter?=¿Y si le escribes una carta?
+r:"^Spend ([0-9]+) Will to raise a teammate's Awareness Level\.$"="Gasta $1 de Voluntad para aumentar la Conciencia de un aliado."
+You can make more friends.=Puedes hacer más amigos.
+r:"^Spend ([0-9]+) Will to gain ([0-9]+) random teammate\.$"="Gasta $1 de Voluntad para ganar $2 aliado al azar."
+I'm not sure if I can, but I'll try.=No se si podré, pero lo intentaré.
+Take a breather.=Tomate un respiro
+
+Kokatsu Female Student=Estudiante Femenina de Kokatsu
+I didn't make the team again... I don't want\npeople telling me to just "try again next\ntime."=No volví a entrar en el equipo...\nNo quiero que la gente me siga diciendo "vuelve a intentarlo la próxima vez".
+*sigh* What should I do... It's getting\nharder and harder to breathe...=*Suspiro* Qué debería hacer...\nSe esta volviendo más y más dificil respirar...
+I just want to disappear... For good... Once\nand for all...=Solo quiero desaparecer... Por mi bien...\nDe una vez por todas...
+I don't have anywhere I can call home...=No tengo ningún lugar al que pueda llamar hogar...
+Can you talk to your family?=¿Puedes hablarlo con tu familia?
+r:"^Spend ([0-9]+) Major Arcana card\. ([0-9]+)% chance to gain ([0-9]+) Major Arcana cards\. ([0-9]+)% chance to receive nothing\.$"="Gasta $1 carta de Arcana Mayor. $2% de obtener $2 cartas de Arcana Mayor. $3% de recibir nada."
+You should talk to your friends.=Deberías hablar con tus amigos.
+r:"^Spend ([0-9]+) Major Arcana card, and gain ([0-9]+) random Major Arcana card\.$"="Gasta $1 carta de Arcana Mayor, para ganar $2 carta de Arcana Mayor al azar."
+You can't give up on yourself.=No puedes rendirte en ti mismo.
+r:"^([0-9]+)% chance to gain ([0-9]+) random Major Arcana card\.$"="$1% de ganar $2 carta de Arcana Mayor al azar."
+As if I don't already know that! A little\nunderstanding would really go a long way, you\nknow...=¡Como si no supiera eso ya!\nUn poco de comprensión realmente ayudaría mucho, ¿sabes?
+
+Lost Privileged Boy=Chico privilegiado Perdido
+You there. Yes, I'm talking to you!=¿Tú ahí? Sí, te estoy hablando.
+Just so you know, I'm NOT lost. I'm too smart\nfor that.=Solo para que lo sepas, NO estoy perdido. Soy demasiado inteligente para eso.
+I'm just... in need of a little assistance is\nall.=Solo... necesito un poco de ayuda, eso es todo.
+My father has more money than you can\nimagine! Anything you want—just name it! So,\nwill you help me?=¡Mi padre tiene más dinero del que puedes imaginar! Lo que sea que quieras—¡solo dilo! Entonces, ¿me ayudarás?
+Pay me.=Págame.
+Gain 2000 Clock Gears and 10 Dawn Fragments.=Obtén 2000 Engranajes de Reloj y 10 Fragmentos de Amanecer.
+I want a bodyguard.=Quiero un guardaespaldas.
+Gain teammates from <color\=#FF3838>Shuffle Time</color> 7 times.=Consigue compañeros de equipo en el <color\=#FF3838>Hora de Barajar</color> 7 veces.
+I don't need anything.=No necesito nada.
+Deal! You'll be swimming in it!=¡Trato hecho! ¡Vas a nadar en dinero!
+
+
 #Efectos de cartas
 
 +---------------------------------
@@ -1467,10 +1578,27 @@ Coins=Oros
 r:"^Gain ([0-9]+) Clock Gears\.$"="Obtienes $1 Engranajes de Reloj."
 r:"^Coins: Gain ([0-9]+) Clock Gears\.$"="Oros: Obtienes $1 Engranajes de Reloj."
 
-r:"^Obtain ([0-9]+) Dawn Fragments\.$"="Obtienes $1 Fragmento del Amanecer."
-Obtain 1 Dawn Fragment.=Obtienes 1 Fragmento de Amanecer.
-r:"^Coins: Obtain ([0-9]+) Dawn Fragments\.$"="Oros: Obtienes $1 Fragmento del Amanecer."
-Coins: Obtain 1 Dawn Fragment.=Oros: Obtienes 1 Fragmento de Amanecer.
+Obtain 1 Dawn Fragment.=Obtienes 1 Fragmento del Amanecer.
+Coins: Obtain 1 Dawn Fragment.=Oros: Obtienes 1 Fragmento del Amanecer.
+
+r:"^Obtain ([0-9]+) Dawn Fragments\.$"="Obtienes $1 Fragmentos de Amanecer."
+r:"^Coins: Obtain ([0-9]+) Dawn Fragments\.$"="Oros: Obtienes $1 Fragmentos de Amanecer."
+
+Gain a Tarnished Gold Coin.=Obtienes 1 Moneda de Oro Deslustrada.
+Coins: Gain a Tarnished Gold Coin.=Oros: Obtienes 1 Moneda de Oro Deslustrada.
+
+r:"^Gain ([0-9]+) Tarnished Gold Coin\.$"="Obtienes $1 Monedas de Oro Deslustradas"
+r:"^Coins: Gain ([0-9]+) Tarnished Gold Coin\.$"="Oros: Obtienes $1 Monedas de Oro Deslustradas"
+
+r:"^Obtain ([0-9]+) Soul Fragments\.$"="Obtienes $1 Fragmentos de Alma."
+r:"^Coins: Obtain ([0-9]+) Soul Fragments\.$"="Oros: Obtienes $1 Fragmentos de Alma."
+
+r:"^Obtain ([0-9]+) Tarnished Silver Coins\.$"="Obtienes $1 Monedas de Plata Deslustradas."
+r:"^Coins: Obtain ([0-9]+) Tarnished Silver Coins\.$"="Oros: Obtienes $1 Monedas de Plata Deslustradas."
+
+r:"^Obtain ([0-9]+) Dream Fragments\.$"="Obtienes $1 Fragmentos de Sueño."
+r:"^Coins: Obtain ([0-9]+) Dream Fragments\.$"="Oros: Obtienes $1 Fragmentos de Sueño."
+
 
 
 +---------------------------------
@@ -1509,6 +1637,9 @@ r:"^Swords: When an ally's current HP is low, increase damage\. When HP is at ([
 r:"^When an ally's current HP is low, decrease damage taken\. When HP is at ([0-9]+)%, decrease damage taken up to a maximum of ([0-9]+)%\.$"="Cuando los PS de un aliado están bajos, disminuye el daño recibido. Cuanto los PS están al $1%, disminuye el daño recibido hasta un máximo de $2%."
 r:"^Swords: When an ally's current HP is low, decrease damage taken\. When HP is at ([0-9]+)%, decrease damage taken up to a maximum of ([0-9]+)%\.$"="Espadas: Cuando los PS de un aliado están bajos, disminuye el daño recibido. Cuanto los PS están al $1%, disminuye el daño recibido hasta un máximo de $2%."
 
+r:"^When an ally's current HP is high, increase critical rate\. When HP is at ([0-9]+)%, increase critical rate up to a maximum of ([0-9]+)%\.$"="Cuando los PS de un aliado están altos, incrementa la Probabilidad Crítica. Cuanto los PS están al $1%, incrementa la Probabilidad Crítica hasta un máximo de $2%."
+r:"^Swords: When an ally's current HP is high, increase critical rate\. When HP is at ([0-9]+)%, increase critical rate up to a maximum of ([0-9]+)%\.$"="Espadas: Cuando los PS de un aliado están altos, incrementa la Probabilidad Crítica. Cuanto los PS están al $1%, incrementa la Probabilidad Crítica hasta un máximo de $2%."
+
 r:"^Increase allies' normal attack final damage by ([0-9]+)%\.$"="Aumenta el Daño Final del Ataque Normal de los aliados en un $1%."
 r:"^Swords: Increase allies' normal attack final damage by ([0-9]+)%\.$"="Espadas: Aumenta el Daño Final del Ataque Normal de los aliados en un $1%."
 
@@ -1524,11 +1655,19 @@ r:"^Swords: Increase {{A}}'s damage by ([0-9]+)%\. When the Major Arcana card To
 r:"^Increase {{A}}'s HP by ([0-9]+)%\. When the Major Arcana card Tower is obtained, apply this effect to the party\.$"="Aumenta los PS de {{A}} en un $1%.\nAl obtener la carta de Arcana Mayor Torre, aplica este efecto al equipo."
 r:"^Swords: Increase {{A}}'s HP by ([0-9]+)%\. When the Major Arcana card Tower is obtained, apply this effect to the party\.$"="Espadas: Aumenta los PS de {{A}} en un $1%.\nAl obtener la carta de Arcana Mayor Torre, aplica este efecto al equipo."
 
+r:"^Increase {{A}}'s Attack by ([0-9]+)%\. When the Major Arcana card Tower is obtained, increase piece rate by ([0-9]+)% more\.$"="Aumenta el Ataque de {{A}} en un $1%.\nAl obtener la carta de Arcana Mayor Torre, incrementa la Tasa de Perforación en un $2% más."
+r:"^Swords: Increase {{A}}'s Attack by ([0-9]+)%\. When the Major Arcana card Tower is obtained, increase piece rate by ([0-9]+)% more\.$"="Espadas: Aumenta el Ataque de {{A}} en un $1%.\nAl obtener la carta de Arcana Mayor Torre, incrementa la Tasa de Perforación en un $2% más."
+r:"^Increase {{A}}'s Attack by ([0-9]+)%\. When the Major Arcana card Tower is obtained, increase pierce rate by ([0-9]+)% more\.$"="Aumenta el Ataque de {{A}} en un $1%.\nAl obtener la carta de Arcana Mayor Torre, incrementa la Tasa de Perforación en un $2% más."
+r:"^Swords: Increase {{A}}'s Attack by ([0-9]+)%\. When the Major Arcana card Tower is obtained, increase pierce rate by ([0-9]+)% more\.$"="Espadas: Aumenta el Ataque de {{A}} en un $1%.\nAl obtener la carta de Arcana Mayor Torre, incrementa la Tasa de Perforación en un $2% más."
+
+r:"^Increase {{A}}'s critical rate by ([0-9]+)%\. When the Major Arcana card Tower is obtained, increase {{A}}'s critical damage by ([0-9]+)% more\.$"="Aumenta la Probabilidad Crítica de {{A}} en un $1%.\nAl obtener la carta de Arcana Mayor Torre, incrementa el Daño Crítico de {{A}} en un $2 más."
+r:"^Swords: Increase {{A}}'s critical rate by ([0-9]+)%\. When the Major Arcana card Tower is obtained, increase {{A}}'s critical damage by ([0-9]+)% more\.$"="Espadas: Aumenta la Probabilidad Crítica de {{A}} en un $1%.\nAl obtener la carta de Arcana Mayor Torre, incrementa el Daño Crítico de {{A}} en un $2 más."
+
 r:"^Increase Medic and Guardian allies' Defense by ([0-9]+)%, and increase max HP by ([0-9]+)%\.$"="Aumenta la Defensa de los aliados Médicos y Guardianes en un $1%, y aumenta los PS máximos en un $2%."
 r:"^Swords: Increase Medic and Guardian allies' Defense by ([0-9]+)%, and increase max HP by ([0-9]+)%\.$"="Espadas: Aumenta la Defensa de los aliados Médicos y Guardianes en un $1%, y aumenta los PS máximos en un $2%."
 
 r:"^Increase allies' HP recovery by ([0-9]+)%\.$"="Aumenta la Recuperación de PS de los aliados en un $1%."
-r:"^Swords: Increase allies' HP recovery by ([0-9]+)%$\.$"="Espadas: Aumenta la Recuperación de PS de los aliados en un $1%."
+r:"^Swords: Increase allies' HP recovery by ([0-9]+)%\.$"="Espadas: Aumenta la Recuperación de PS de los aliados en un $1%."
 
 r:"^Increase allies' max HP by ([0-9]+)%\.$"="Aumenta los PS máximos de los aliados en un $1%."
 r:"^Swords: Increase allies' max HP by ([0-9]+)%\.$"="Espadas: Aumenta los PS máximos de los aliados en un $1%."
@@ -1583,30 +1722,101 @@ r:"^Swords: Increase allies' weak point damage by ([0-9]+)%\.$"="Espadas: Increm
 r:"^Theurgy gauge fills ([0-9]+)% faster\.$"="La barra de Teúrgia se llena $1% más rápido."
 r:"^Swords: Theurgy gauge fills ([0-9]+)% faster\.$"="Espadas: La barra de Teúrgia se llena $1% más rápido."
 
-r:"^Increase allies' continuous damage effect by (\d+)%\.$"="Aumenta el efecto de daño continuo de los aliados un $1%."
-r:"^Swords: Increase allies' continuous damage effect by (\d+)%\.$"="Espadas: aumenta el efecto de daño continuo de los aliados un $1%."
+r:"^Increase allies' SP recovery by ([0-9]+)%\.$"="Incrementa la Recuperación de PE de los aliados en un $1%."
+r:"^Swords: Increase allies' SP recovery by ([0-9]+)%\.$"="Espadas: Incrementa la Recuperación de PE de los aliados en un $1%."
 
-r:"^Increase foes' damage taken by (\d+)% for each debuff they are inflicted with, up to (\d+)%\.$"="Aumenta el daño que reciben los enemigos un $1% por cada estado negativo (debuffs) que sufran, hasta un $2%."
-r:"^Swords: Increase foes' damage taken by (\d+)% for each debuff they are inflicted with, up to (\d+)%\.$"="Espadas: Aumenta el daño que reciben los enemigos un $1% por cada estado negativo (debuffs) que sufran, hasta un $2%."
+r:"^Increase allies' shield by ([0-9]+)%\.$"="Aumenta el Escudo de los aliados en un $1%."
+r:"^Swords: Increase allies' shield by ([0-9]+)%\.$"="Espadas: Aumenta el Escudo de los aliados en un $1%."
 
-r:"^When an ally's current HP is high, increase critical rate\. When HP is at (\d+)%, increase critical rate up to a maximum of (\d+)%\.$"="Cuando el PS actual de un aliado es alto, aumenta la probabilidad de crítico. Cuando el PS está al $1%, aumenta la probabilidad de crítico hasta un máximo del $2%."
-r:"^Swords: When an ally's current HP is high, increase critical rate\. When HP is at (\d+)%, increase critical rate up to a maximum of (\d+)%\.$"="Espadas: Cuando el PS actual de un aliado es alto, aumenta la probabilidad de crítico. Cuando el PS está al $1%, aumenta la probabilidad de crítico hasta un máximo del $2%."
+r:"^On floor 10 or lower, decrease party's final damage by ([0-9]+)%\. On floor 11 or higher, increase party's final damage by ([0-9]+)%\.$"="En el piso 10 o inferior, disminuye el Daño Final del equipo en un $1%.\nEn el piso 11 o superior, aumenta el Daño Final del equipo en un $2%."
+r:"^Swords: On floor 10 or lower, decrease party's final damage by ([0-9]+)%\. On floor 11 or higher, increase party's final damage by ([0-9]+)%\.$"="Espadas: En el piso 10 o inferior, disminuye el Daño Final del equipo en un $1%.\nEn el piso 11 o superior, aumenta el Daño Final del equipo en un $2%."
 
-r:"^When an ally's current HP is high, critical rate is increased\. When HP is at (\d+)%, gain maximum critical rate bonus of (\d+)%\.$"="Cuando los PS actuales de un aliado son altos, aumenta la probabilidad de crítico. Cuando los PS están al $1%, obtienes un bono máximo de probabilidad de crítico del $2%."
-r:"^Swords: When an ally's current HP is high, critical rate is increased\. When HP is at (\d+)%, gain maximum critical rate bonus of (\d+)%\.$"="Espadas: Cuando los PS actuales de un aliado son altos, aumenta la probabilidad de crítico. Cuando los PS están al $1%, obtienes un bono máximo de probabilidad de crítico del $2%."
+r:"^On floor 10 or lower, increase party's final damage taken by ([0-9]+)%\. On floor 11 or higher, decrease party's final damage taken by ([0-9]+)%\.$"="En el piso 10 o inferior, aumenta el Daño Final recibido por el equipo en un $1%.\nEn el piso 11 o superior, reduce el Daño Final recibido por el equipo en un $2%."
+r:"^Swords: On floor 10 or lower, increase party's final damage taken by ([0-9]+)%\. On floor 11 or higher, decrease party's final damage taken by ([0-9]+)%\.$"="Espadas: En el piso 10 o inferior, aumenta el Daño Final recibido por el equipo en un $1%.\nEn el piso 11 o superior, reduce el Daño Final recibido por el equipo en un $2%."
 
-r:"^Allies' Fire, Ice, Electric, and Wind damage is increased by (\d+)%\.$"="El daño de Fuego, Hielo, Eléctrico y Viento de los aliados aumenta un $1%."
-r:"^Swords: Allies' Fire, Ice, Electric, and Wind damage is increased by (\d+)%\.$"="Espadas: El daño de Fuego, Hielo, Eléctrico y Viento de los aliados aumenta un $1%."
+r:"^For each Dawn Fragment in your possession, increase party's damage by ([0-9]+)%\.$"="Por cada Fragmento del Amanecer en tu posesión, incrementa el Daño del equipo en un $1%."
+r:"^Swords: For each Dawn Fragment in your possession, increase party's damage by ([0-9]+)%\.$"="Espadas: Por cada Fragmento del Amanecer en tu posesión, incrementa el Daño del equipo en un $1%."
 
-r:"^Foes' damage taken is increased by (\d+)% for each debuff they are inflicted with, up to (\d+)%\.$"="El daño que reciben los enemigos aumenta un $1% por cada estado negativo (debuff) que sufran, hasta un $2%."
-r:"^Swords: Foes' damage taken is increased by (\d+)% for each debuff they are inflicted with, up to (\d+)%\.$"="Espadas: El daño que reciben los enemigos aumenta un $1% por cada estado negativo que sufran, hasta un $2%."
+r:"^Increase allies' Highlight final damage by ([0-9]+)%\.$"="Incrementa el Daño Final del Highlight de los aliados en un $1%."
+r:"^Swords: Increase allies' Highlight final damage by ([0-9]+)%\.$"="Espadas: Incrementa el Daño Final del Highlight de los aliados en un $1%."
 
-a+
+r:"^After an ally uses a Highlight or Theurgy, increase party's damage by ([0-9]+)% for ([0-9]+) turns\. Stacks up to ([0-9]+) times\.$"="Cuando un aliado usa un Highlight o Teúrgia, incrementa el daño del equipo en un $1% por $2 turnos. Se acumula hasta $3 veces."
+r:"^Swords: After an ally uses a Highlight or Theurgy, increase party's damage by ([0-9]+)% for ([0-9]+) turns\. Stacks up to ([0-9]+) times\.$"="Espadas: Cuando un aliado usa un Highlight o Teúrgia, incrementa el daño del equipo en un $1% por $2 turnos. Se acumula hasta $3 veces."
+
+r:"^Increase all allies' final damage based on how high current Will is\. The effect is maximized at ([0-9]+) Will, increasing final damage by ([0-9]+)%\.$"="Incrementa el Daño Final en base a lo alto que tengas la Voluntad actual. El efecto es maximizado en $1 de Voluntad, incrementando el Daño Final en un $2%."
+r:"^Swords: Increase all allies' final damage based on how high current Will is\. The effect is maximized at ([0-9]+) Will, increasing final damage by ([0-9]+)%\.$"="Espadas: Incrementa el Daño Final en base a lo alto que tengas la Voluntad actual. El efecto es maximizado en $1 de Voluntad, incrementando el Daño Final en un $2%."
+
+r:"^Increase allies' continuous damage effect by ([0-9]+)%\.$"="Incrementa los efectos del Daño Continuo de los aliados en un $1%."
+r:"^Swords: Increase allies' continuous damage effect by ([0-9]+)%\.$"="Espadas: Incrementa los efectos del Daño Continuo de los aliados en un $1%."
+
+r:"^Increase allies' ailment accuracy by ([0-9]+)%\.$"="Incrementa la Precisión de Dolencias de los aliados en un $1%."
+r:"^Swords: Increase allies' ailment accuracy by ([0-9]+)%\.$"="Espadas: Incrementa la Precisión de Dolencias de los aliados en un $1%."
+
+r:"^Increase Elucidator allies' stat buff effects by ([0-9]+)% more\.$"="Incrementa las mejoras de atributos de los aliados Elucidator un $1% más."
+r:"^Swords: Increase Elucidator allies' stat buff effects by ([0-9]+)% more\.$"="Espadas: Incrementa las mejoras de atributos de los aliados Elucidator un $1% más."
+
+At the start of battle against a Rare Shadow, change all of the Rare Shadow's resistances to Weak.=Al comienzo de una batalla contra una Sombra Rara, cambia todas sus Resistencias a Débil.
+Swords: At the start of battle against a Rare Shadow, change all of the Rare Shadow's resistances to Weak.=Espadas: Al comienzo de una batalla contra una Sombra Rara, cambia todas sus Resistencias a Débil.
+
+r:"^For every battle won during the current exploration \(including Insta-kills\), increase party's Attack by ([0-9]+)\.([0-9]+)% and Defense by ([0-9]+)\.([0-9]+)%\.$"="Por cada batalla ganada en la exploración actual (incluye batallas con Muerte Instantánea), incrementa el Ataque del equipo un $1,$2% y la Defensa del equipo un $3,$4%."
+r:"^Swords: For every battle won during the current exploration \(including Insta-kills\), increase party's Attack by ([0-9]+)\.([0-9]+)% and Defense by ([0-9]+)\.([0-9]+)%\.$"="Espadas: Por cada batalla ganada en la exploración actual (incluye batallas con Muerte Instantánea), incrementa el Ataque del equipo un $1,$2% y la Defensa del equipo un $3,$4%."
+
+r:"^After an Elucidator ally uses a skill, permanently increase party's damage by ([0-9]+)%\. Stacks up to ([0-9]+) times\.$"="Después de que un Elucidator aliado use una habilidad, incrementa permanentemente el daño del equipo en un $1%. Se acumula hasta $2 veces."
+r:"^Swords: After an Elucidator ally uses a skill, permanently increase party's damage by ([0-9]+)%\. Stacks up to ([0-9]+) times\.$"="Espadas: Después de que un Elucidator aliado use una habilidad, incrementa permanentemente el daño del equipo en un $1%. Se acumula hasta $2 veces."
+
+r:"^After an Elucidator ally uses a skill, fill Highlight gauge by ([0-9]+)%\.$"="Después de que un Elucidator aliado use una habilidad, llena la barra del Highlight en un $1%."
+r:"^Swords: After an Elucidator ally uses a skill, fill Highlight gauge by ([0-9]+)%\.$"="Espadas: Después de que un Elucidator aliado use una habilidad, llena la barra del Highlight en un $1%."
+
+r:"^When an ally receives healing from a Resonance, increase their critical damage by ([0-9]+)%\. Stacks up to ([0-9]+) times\.$"="Cuando un aliado recibe curación de una Resonancia, aumenta su Daño Crítico en un $1%. Se acumula hasta $2 veces."
+r:"^Swords: When an ally receives healing from a Resonance, increase their critical damage by ([0-9]+)%\. Stacks up to ([0-9]+) times\.$"="Espadas: Cuando un aliado recibe curación de una Resonancia, aumenta su Daño Crítico en un $1%. Se acumula hasta $2 veces."
+
+r:"^Increase allies' Theurgy final damage by ([0-9]+)%\.$"="Incrementa el Daño Final de las Teúrgias de los aliados en un $1%."
+r:"^Swords: Increase allies' Theurgy final damage by ([0-9]+)%\.$"="Espadas: Incrementa el Daño Final de las Teúrgias de los aliados en un $1%."
+
+r:"^At the start of each ally's turn, gain a shield equal to ([0-9]+)% of their max HP, but lose ([0-9]+)% of their current HP\.$"="Al comienzo de cada turno de un aliado, gana un Escudo igual al $1% de sus PS máximos, pero pierden $2% de sus PS actuales."
+r:"^Swords: At the start of each ally's turn, gain a shield equal to ([0-9]+)% of their max HP, but lose ([0-9]+)% of their current HP\.$"="Espadas: Al comienzo de cada turno de un aliado, gana un Escudo igual al $1% de sus PS máximos, pero pierden $2% de sus PS actuales."
+
+r:"^For every ([0-9]+) Clock Gears in your possession, increase damage by ([0-9]+)%\.$"="Por cada $1 Engranajes de Reloj en tu posesión, incrementa el daño en un $2%."
+r:"^Swords: For every ([0-9]+) Clock Gears in your possession, increase damage by ([0-9]+)%\.$"="Espadas: Por cada $1 Engranajes de Reloj en tu posesión, incrementa el daño en un $2%."
+
+r:"^For every search object destroyed during the current exploration, increase damage by ([0-9]+)\.([0-9]+)%\.$"="Por cada Objeto Destruible destruido durante la exploración actual, incrementa el daño en $1,$2%."
+r:"^Swords: For every search object destroyed during the current exploration, increase damage by ([0-9]+)\.([0-9]+)%\.$"="Espadas: Por cada Objeto Destruible destruido durante la exploración actual, incrementa el daño en $1,$2%."
+
+r:"^When an ally uses a single-target attack skill, deal damage equal to ([0-9]+)% of the damage taken by the main target ([0-9]+) time\.$"="Cuando un aliado ataca con una habilidad de un solo objetivo, hace daño igual al $1% del daño recibido por el objetivo principal $2 vez."
+r:"^Swords: When an ally uses a single-target attack skill, deal damage equal to ([0-9]+)% of the damage taken by the main target ([0-9]+) time\.$"="Espadas: Cuando un aliado ataca con una habilidad de un solo objetivo, hace daño igual al $1% del daño recibido por el objetivo principal $2 vez."
+
+r:"^Increase foes' damage taken by ([0-9]+)% for each debuff they are inflicted with, up to ([0-9]+)%\.$"="Incrementa el daño recibido de los enemigos en $1% por cada debuff que que tengan inflingido, hasta un máximo de $2%."
+r:"^Swords: Increase foes' damage taken by ([0-9]+)% for each debuff they are inflicted with, up to ([0-9]+)%\.$"="Espadas: Incrementa el daño recibido de los enemigos en $1% por cada debuff que que tengan inflingido, hasta un máximo de $2%."
+
+r:"^Increase Elucidator allies' Attack, Defense, and max HP by ([0-9]+)%\.$"="Incrementa el Ataque, Defensa y PS máximos de los Elucidator aliados en un $1%."
+r:"^Swords: Increase Elucidator allies' Attack, Defense, and max HP by ([0-9]+)%\.$"="Espadas: Incrementa el Ataque, Defensa y PS máximos de los Elucidator aliados en un $1%."
+
+r:"^At the start of battle, for each ally with the same attribute, increase party's damage by (\d+)%\.$"="Al comienzo de la batalla, por cada aliado con el mismo atributo, aumenta el daño del grupo en un $1%."
+r:"^Swords: At the start of battle, for each ally with the same attribute, increase party's damage by (\d+)%\.$"="Espadas: Al comienzo de la batalla, por cada aliado con el mismo atributo, aumenta el daño del grupo en un $1%."
+
+r:"^Increase allies' damage by (\d+)% per current Exploration Level\. At Exploration Level (\d+), increase final damage by (\d+)% more\.$"="Aumenta el daño de los aliados en un $1% por cada nivel de exploración actual. Al nivel de exploración $2, aumenta el daño final en un $3% más."
+r:"^Swords: Increase allies' damage by (\d+)% per current Exploration Level\. At Exploration Level (\d+), increase final damage by (\d+)% more\.$"="Espadas: Aumenta el daño de los aliados en un $1% por cada nivel de exploración actual. Al nivel de exploración $2, aumenta el daño final en un $3% más."
+
+r:"^Increase allies' Resonance final damage by (\d+)%\.$"="Aumenta el daño final de Resonancia de los aliados en un $1%."
+r:"^Swords: Increase allies' Resonance final damage by (\d+)%\.$"="Espadas: Aumenta el daño final de Resonancia de los aliados en un $1%."
+
+r:"^When {{A}} has taken (\d+) actions \(excluding extra actions\), gain an extra action\.$"="Cuando {{A}} haya realizado $1 acciones (excluyendo acciones extra), obtiene una acción extra."
+r:"^Swords: When {{A}} has taken (\d+) actions \(excluding extra actions\), gain an extra action\.$"="Espadas: Cuando {{A}} haya realizado $1 acciones (excluyendo acciones extra), obtiene una acción extra."
+
+r:"^At the start of battle, fill Highlight gauge by (\d+)%\.$"="Al comienzo de la batalla, llena la barra de Highlight en un $1%."
+r:"^Swords: At the start of battle, fill Highlight gauge by (\d+)%\.$"="Espadas: Al comienzo de la batalla, llena la barra de Highlight en un $1%."
+
+r:"^After an ally uses a Highlight, (\d+)% chance to immediately reset their Highlight cooldown time and fill Highlight gauge by (\d+)%\. Cannot activate repeatedly on the same turn\.$"="Después de que un aliado use un Highlight, tiene un $1% de probabilidad de restablecer inmediatamente el tiempo de enfriamiento de su Highlight y llenar la barra de Highlight en un $2%. No se puede activar repetidamente en el mismo turno."
+r:"^Swords: After an ally uses a Highlight, (\d+)% chance to immediately reset their Highlight cooldown time and fill Highlight gauge by (\d+)%\. Cannot activate repeatedly on the same turn\.$"="Espadas: Después de que un aliado use un Highlight, tiene un $1% de probabilidad de restablecer inmediatamente el tiempo de enfriamiento de su Highlight y llenar la barra de Highlight en un $2%. No se puede activar repetidamente en el mismo turno."
+r:"^Increase all allies' final damage based on how low current Will is\. The effect is maximized at (-?\d+) Will, increasing final damage by (\d+)%\.$"="Aumenta el daño final de todos los aliados según qué tan baja sea la fuerza de voluntad actual. El efecto al máximo a la fuerza de voluntad de $1 aumenta el daño final en un $2%."
+r:"^Swords: Increase all allies' final damage based on how low current Will is\. The effect is maximized at (-?\d+) Will, increasing final damage by (\d+)%\.$"="Espadas: Aumenta el daño final de todos los aliados según qué tan baja sea la fuerza de voluntad actual. El efecto al máximo a la fuerza de voluntad de $1 aumenta el daño final en un $2%."
+
+#s.
 +---------------------------------
 Wands=Bastos
 
 r:"^Increase Dream Fragments gained from the next battle by ([0-9]+)%\."="Incrementa los Fragmentos de Sueño obtenidos en la siguiente batalla en un $1%."
-r:"^Wands: Increase Dream Fragments gained from the next battle by ([0-9]+)%\."=""Bastos: Incrementa los Fragmentos de Sueño obtenidos en la siguiente batalla en un $1%."
+r:"^Wands: Increase Dream Fragments gained from the next battle by ([0-9]+)%\."="Bastos: Incrementa los Fragmentos de Sueño obtenidos en la siguiente batalla en un $1%."
 
 r:"^All allies' affinities are changed to Null for ([0-9]+) turns for the next non-Insta-kill battle\.$"="Todas las afinidades de los aliados cambian a Nulifica por $1 turnos para la siguiente batalla sin Muerte Instantánea."
 r:"^Wands: All allies' affinities are changed to Null for ([0-9]+) turns for the next non-Insta-kill battle\.$"="Bastos: Todas las afinidades de los aliados cambian a Nulifica por $1 turnos para la siguiente batalla sin Muerte Instantánea."
@@ -1677,6 +1887,22 @@ r:"^Wands: Allies' Defense is increased by ([0-9]+)% for the next non-Insta-kill
 r:"^Highlight gauge fills ([0-9]+)% faster for the next ([0-9]+) non-Insta-kill battles\.$"="La barra de Highlight se llena un $1% más rápido durante las siguientes $2 batallas sin Muerte Instantánea."
 r:"^Wands: Highlight gauge fills ([0-9]+)% faster for the next ([0-9]+) non-Insta-kill battles\.$"="Bastos: La barra de Highlight se llena un $1% más rápido durante las siguientes $2 batallas sin Muerte Instantánea."
 
+r:"^Increase the number of cards that can be selected at the next Great Clock by ([0-9]+)\.$"="Incrementa el número de cartas que aparecen para seleccionar en el siguiente Gran Reloj en $1."
+r:"^Wands: Increase the number of cards that can be selected at the next Great Clock by ([0-9]+)\.$"="Bastos: Incrementa el número de cartas que aparecen para seleccionar en el siguiente Gran Reloj en $1."
+
+r:"^Decrease Clock Gears needed to purchase cards at the next Great Clock by ([0-9]+)%\.$"="Reduce la cantidad necesaria de Engranajes de Reloj para comprar cartas en el siguiente Gran Reloj en un $1%."
+r:"^Wands: Decrease Clock Gears needed to purchase cards at the next Great Clock by ([0-9]+)%\.$"="Bastos: Reduce la cantidad necesaria de Engranajes de Reloj para comprar cartas en el siguiente Gran Reloj en un $1%."
+
+r:"^Increase allies' critical rate by ([0-9]+)% and critical damage by ([0-9]+)% for the next ([0-9]+) non-Insta-kill battles\.$"="Incrementa la Probabilidad Crítica de los aliados en un $1% y el Daño Crítico de los aliados en un $2% durante las próximas $3 batallas sin Muerte Instantánea."
+r:"^Wands: Increase allies' critical rate by ([0-9]+)% and critical damage by ([0-9]+)% for the next ([0-9]+) non-Insta-kill battles\.$"="Bastos: Incrementa la Probabilidad Crítica de los aliados en un $1% y el Daño Crítico de los aliados en un $2% durante las próximas $3 batallas sin Muerte Instantánea."
+
+Increase the chance of encountering a Formidable Shadow on the next floor.=Incrementa la posibilidad de encontrar una Sombra Formidable en el siguiente piso.
+Wands: Increase the chance of encountering a Formidable Shadow on the next floor.=Bastos: Incrementa la posibilidad de encontrar una Sombra Formidable en el siguiente piso.
+
+r:"^Increase the number of cards that can be selected in Shuffle Time: Normal by (\d+) for the next (\d+) Shuffle Times\.$"="Aumenta en $1 el número de cartas que se pueden seleccionar en el Hora de Barajar: Normal durante los próximos $2 Hora de Barajar."
+r:"^Wands: Increase the number of cards that can be selected in Shuffle Time: Normal by (\d+) for the next (\d+) Shuffle Times\.$"="Bastos: Aumenta en $1 el número de cartas que se pueden seleccionar en el Hora de Barajar: Normal durante los próximos $2 Hora de Barajar."
+
+#w.
 +---------------------------------
 Cups=Copas
 
@@ -1685,6 +1911,12 @@ r:"^Cups: After winning a battle against Rare Shadows, gain ([0-9]+) Tarnished G
 
 r:"^Increase Soul Fragments gained from battle by ([0-9]+)%\."="Incrementa los Fragmentos de Alma ganados en batallas en $1%."
 r:"^Cups: Increase Soul Fragments gained from battle by ([0-9]+)%\."="Copas: Incrementa los Fragmentos de Alma ganados en batallas en $1%."
+
+r:"^Increase Clock Gears gained from treasure chests by ([0-9]+)%\."="Incrementa los Engranajes de Reloj ganados en cofres en $1%."
+r:"^Cups: Increase Clock Gears gained from treasure chests by ([0-9]+)%\."="Copas: Incrementa los Engranajes de Reloj ganados en cofres en $1%."
+
+r:"^Increase Tarnished Silver Coins gained from treasure chests by ([0-9]+)%\."="Incrementa las Monedas de Plata Deslustradas ganadas en cofres en $1%."
+r:"^Cups: Increase Tarnished Silver Coins gained from treasure chests by ([0-9]+)%\."="Copas: Incrementa las Monedas de Plata Deslustradas ganadas en cofres en $1%."
 
 r:"^Cups: Decrease Clock Gears needed to refresh cards at the Great Clock by ([0-9]+)%\.$"="Copas: Reduce el coste de Engranajes de Reloj al actualizar cartas en el Gran Reloj en $1%."
 
@@ -1696,6 +1928,9 @@ Cups: Increase Insta-kill level by a certain amount.=Copas: Aumenta el nivel Mue
 
 r:"^Increase Tarnished Silver Coins gained from search objects by ([0-9]+)%\.$"="Aumenta las Monedas de Plata Deslustradas obtenidas de Objetos Destruibles en un $1%."
 r:"^Cups: Increase Tarnished Silver Coins gained from search objects by ([0-9]+)%\.$"="Copas: Aumenta las Monedas de Plata Deslustradas obtenidas de Objetos Destruibles en un $1%."
+
+r:"^Increase Clock Gears gained from search objects by ([0-9]+)%\.$"="Aumenta los Engranajes de Reloj obtenidos de Objetos Destruibles en un $1%."
+r:"^Cups: Increase Clock Gears gained from search objects by ([0-9]+)%\.$"="Copas: Aumenta los Engranajes de Reloj obtenidos de Objetos Destruibles en un $1%."
 
 r:"^Decrease Clock Gears needed to purchase cards at the Great Clock by ([0-9]+)%\.$"="Disminuye el coste de los Engranajes de Reloj necesarios para comprar cartas en el Gran Reloj en un $1%."
 r:"^Cups: Decrease Clock Gears needed to purchase cards at the Great Clock by ([0-9]+)%\.$"="Copas: Disminuye el coste de los Engranajes de Reloj necesarios para comprar cartas en el Gran Reloj en un $1%."
@@ -1716,48 +1951,94 @@ r:"^Cups: Increase the number of cards that can be selected in Shuffle Time: Nor
 r:"^When you enter a new floor, increase the number of Clock Gears in your possession by ([0-9]+)%\.$"="Cuando entras a un piso nuevo, incrementa el número de Engranajes de Reloj en tu posesión en un $1%."
 r:"^Cups: When you enter a new floor, increase the number of Clock Gears in your possession by ([0-9]+)%\.$"="Copas: Cuando entras a un piso nuevo, incrementa el número de Engranajes de Reloj en tu posesión en un $1%."
 
+r:"^Refresh cards at the Great Clock at no cost ([0-9]+) time\.$"="Actualiza cartas en el Gran Reloj sin coste $1 vez."
+r:"^Cups: Refresh cards at the Great Clock at no cost ([0-9]+) time\.$"="Copas: Actualiza cartas en el Gran Reloj sin coste $1 vez."
+
+r:"^Refresh cards at the Great Clock at no cost ([0-9]+) times\.$"="Actualiza cartas en el Gran Reloj sin coste $1 veces."
+r:"^Cups: Refresh cards at the Great Clock at no cost ([0-9]+) times\.$"="Copas: Actualiza cartas en el Gran Reloj sin coste $1 veces."
+
+r:"^Increase Clock Gears gained from battle by ([0-9]+)%\."="Incrementa los Engranajes de Reloj ganados de batallas en un $1%."
+r:"^Cups: Increase Clock Gears gained from battle by ([0-9]+)%\."="Copas: Incrementa los Engranajes de Reloj ganados de batallas en un $1%."
+
+#c.
 +---------------------------------
 r:"^Raise {{A}} to Awareness ([0-9])\.$"="Sube la Conciencia de {{A}} a nivel $1."
-Max Awareness reached. Any further gains will be converted to Dawn Fragments.=Conciencia máxima alcanzada. Cualquier exceso se convertirá en Fragmentos del Amanecer.
+Max Awareness reached. Any further gains will be converted to Dawn Fragments.=Conciencia máxima alcanzada. Cualquier exceso se convertirá en Fragmentos de Amanecer.
 
-#makoto yuki
-Raise {{A}} to Awareness 1.\nAwareness 1 Effect: Additional effects are added to the following skills.\nMelody of Flames: This skill deals 1 more hit of Fire damage.\nNocturne of Battle: Increase party's pierce rate by 10% for 2 turns.\nScarlet Hades: When this skill is activated with 4 <link\="s|240"><u>Moon Phase</u></link> stacks, increase {{B}}'s critical rate by 16%.=Aumenta la Conciencia de {{A}} a 1.\nEfecto de Conciencia 1: Efectos adicionales son añadidos a las siguientes habilidades:\nMelodía de Llamas: Esta habilidad hace 1 golpe más de daño de Fuego.\nNocturno de Batalla: Incrementa la Tasa de Perforación del equipo en un 10% por 2 turnos.\nHades Escarlata: Cuando esta habilidad es activada con 4 acumulaciones de <link\="s|240"><u>Fase Lunar</u></link>, incrementa la Probabilidad Crítica de {{B}} en un 16%.
-Raise {{A}} to Awareness 2.\nAwareness 2 Effect: When {{B}} has 4 <link\="s|240"><u>Moon Phase</u></link> stacks on his action, automatically activate Nocturne of Battle 1 time. Cooldown time: 1 turn.=Aumenta la Conciencia de {{A}} a 2.\nEfecto de Conciencia 2: Cuanto {{B}} tiene 4 acumulaciones de <link\="s|240"><u>Fase Lunar</u></link> en su turno, utiliza automáticamente Nocturno de Batalla 1 vez. Tiempo de Reutilización: 1 Turno.
-Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Scarlet Hades and Combat Tactics by 3.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Hades Escarlata y Tácticas de Combate en 3.
-Raise {{A}} to Awareness 4.\nAwareness 4 Effect: Additional effects are added to the following Theurgy.\nCadenza: Increase party's damage by 10% more for 2 turns.\nArdhanari: This skill deals 2 more hits of Fire damage.=Aumenta la Conciencia de {{A}} a 4.\nEfecto de Conciencia 4: Efectos adicionales son añadidos a las siguientes Teurgias.\nCadenza: Incrementa el Daño del equipo en un 10% más por 2 turnos.\nArdhanari: Esta habilidad hace 2 golpes de Fuego más.
-Raise {{A}} to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Melody of Flames and Nocturne of Battle by 3.=Aumenta la Conciencia de {{A}} a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Melodía de Llamas y Nocturno de Batalla en 3.
-Raise {{A}} to Awareness 6.\nAwareness 6 Effect: When {{B}} activates a Theurgy, the effects of the other Theurgy are activated at the same time.\nIncrease skill damage dealt by spending <link\="s|241"><u>Full Moon</u></link> stacks with Scarlet Hades by 35%.\nThe first time that {{B}} takes fatal damage, he enters a special near-death state and survives with 1 HP, and will be KO'd at the end of the turn. If {{B}}'s HP is restored above 25%, this state is removed.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Cuando {{B}} activa una Teúrgia, los efectos de la otra Teúrgia son activados al mismo tiempo.\nAumenta el daño realizado por Hades Escarlata en un 35% al gastar acumulaciones de <link\="s|241"><u>Luna Llena</u></link>.\nLa primera vez que {{B}} toma daño letal, entra en un estado parecido a la muerte y survive con 1 PS, será derrotado al final del turno. Si los PS de {{B}} son recuperados por encima del 25%, este estado es eliminado.
-{{A}} reached Transcended Awareness.\nTranscended Awareness Effect: At the start of each turn, Theurgy gauge is restored by an additional 15. When damage is dealt with a skill 3 or more times, final damage is increased by 30%.={{A}} alcanza la Conciencia Trascendida.\nEfectos de la Conciencia Trascendida: Al comienzo de cada turno, la barra de Teúrgia se restaura adicionalmente en 15. Cuando se hace daño 3 o más veces con una habilidad, el daño final incrementa en 30%.
+#Makoto Yuki
+Raise Makoto Yuki to Awareness 1.\nAwareness 1 Effect: Additional effects are added to the following skills.\nMelody of Flames: This skill deals 1 more hit of Fire damage.\nNocturne of Battle: Increase party's pierce rate by 10% for 2 turns.\nScarlet Hades: When this skill is activated with 4 <link\="s|240"><u>Moon Phase</u></link> stacks, increase Makoto's critical rate by 16%.=Aumenta la Conciencia de Makoto Yuki a 1.\nEfecto de Conciencia 1: Efectos adicionales son añadidos a las siguientes habilidades:\nMelodía de Llamas: Esta habilidad hace 1 golpe más de daño de Fuego.\nNocturno de Batalla: Incrementa la Tasa de Perforación del equipo en un 10% por 2 turnos.\nHades Escarlata: Cuando esta habilidad es activada con 4 acumulaciones de <link\="s|240"><u>Fase Lunar</u></link>, incrementa la Probabilidad Crítica de Makoto en un 16%.
+Raise Makoto Yuki to Awareness 2.\nAwareness 2 Effect: When Makoto has 4 <link\="s|240"><u>Moon Phase</u></link> stacks on his action, automatically activate Nocturne of Battle 1 time. Cooldown time: 1 turn.=Aumenta la Conciencia de Makoto Yuki a 2.\nEfecto de Conciencia 2: Cuanto Makoto tiene 4 acumulaciones de <link\="s|240"><u>Fase Lunar</u></link> en su turno, utiliza automáticamente Nocturno de Batalla 1 vez. Tiempo de Reutilización: 1 Turno.
+Raise Makoto Yuki to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Scarlet Hades and Combat Tactics by 3.=Aumenta la Conciencia de Makoto Yuki a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Hades Escarlata y Tácticas de Combate en 3.
+Raise Makoto Yuki to Awareness 4.\nAwareness 4 Effect: Additional effects are added to the following Theurgy.\nCadenza: Increase party's damage by 10% more for 2 turns.\nArdhanari: This skill deals 2 more hits of Fire damage.=Aumenta la Conciencia de Makoto Yuki a 4.\nEfecto de Conciencia 4: Efectos adicionales son añadidos a las siguientes Teurgias.\nCadenza: Incrementa el Daño del equipo en un 10% más por 2 turnos.\nArdhanari: Esta habilidad hace 2 golpes de Fuego más.
+Raise Makoto Yuki to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Melody of Flames and Nocturne of Battle by 3.=Aumenta la Conciencia de Makoto Yuki a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Melodía de Llamas y Nocturno de Batalla en 3.
+Raise Makoto Yuki to Awareness 6.\nAwareness 6 Effect: When Makoto activates a Theurgy, the effects of the other Theurgy are activated at the same time.\nIncrease skill damage dealt by spending <link\="s|241"><u>Full Moon</u></link> stacks with Scarlet Hades by 35%.\nThe first time that Makoto takes fatal damage, he enters a special near-death state and survives with 1 HP, and will be KO'd at the end of the turn. If Makoto's HP is restored above 25%, this state is removed.=Aumenta la Conciencia de Makoto Yuki a 6.\nEfecto de Conciencia 6: Cuando Makoto activa una Teúrgia, los efectos de la otra Teúrgia son activados al mismo tiempo.\nAumenta el daño realizado por Hades Escarlata en un 35% al gastar acumulaciones de <link\="s|241"><u>Luna Llena</u></link>.\nLa primera vez que Makoto toma daño letal, entra en un estado parecido a la muerte y survive con 1 PS, será derrotado al final del turno. Si los PS de Makoto son recuperados por encima del 25%, este estado es eliminado.
+Makoto Yuki reached Transcended Awareness.\nTranscended Awareness Effect: At the start of each turn, Theurgy gauge is restored by an additional 15. When damage is dealt with a skill 3 or more times, final damage is increased by 30%.=Makoto Yuki alcanza la Conciencia Trascendida.\nEfectos de la Conciencia Trascendida: Al comienzo de cada turno, la barra de Teúrgia se restaura adicionalmente en 15. Cuando se hace daño 3 o más veces con una habilidad, el daño final incrementa en 30%.
 Transcended Awareness: At the start of each turn, Theurgy gauge is restored by an additional 15. When damage is dealt with a skill 3 or more times, final damage is increased by 30%.=Conciencia Trascendida: Al comienzo de cada turno, la barra de Teúrgia se restaura adicionalmente en 15. Cuando se hace daño 3 o más veces con una habilidad, el daño final incrementa en 30%.
 
-#Yukimi fujikawa
-Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Sword of Condemnation and Sacral Glow by 2.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Espada de Condena y Brillo Sacro en 2.
+#Minami Miyasita
+Raise Minami Mayashita to Awareness 1.\nAwareness 1 Effect: When healing allies above max HP, increase target's pierce rate by 20% for 2 turns.=Aumenta la Conciencia de Minami Mayashita a 1.\nEfecto de Conciencia 1: Al curar aliados por encima de sus PS máx., aumenta la tasa de perforación del objetivo en un 20% durante 2 turnos.
+Raise Minami Mayashita to Awareness 2.\nAwareness 2 Effect: When using Healing Grace, heal 1 more ally, and if target's HP is below 50%, increase healing effect by 20%.=Aumenta la Conciencia de Minami Mayashita a 2.\nEfecto de Conciencia 2: Al usar Gracia Curativa, cura a 1 aliado más, y si los PS del objetivo son inferiores al 50%, aumenta el efecto de curación en un 20%.
+Raise Minami Mayashita to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Healing Grace and Thief Tactics by 3.=Aumenta la Conciencia de Minami Mayashita a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Gracia Curativa y Tácticas de Ladrón en 3.
+Raise Minami Mayashita to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: The duration of the max HP increase and healing effect increase are extended by 1 turn.=Aumenta la Conciencia de Minami Mayashita a 4.\nEfecto de Conciencia 4: Highlight Mejorado: La duración del aumento de los PS máx. y del aumento del efecto de curación se extiende en 1 turno.
+Raise Minami Mayashita to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Nurse's Light and Compassionate Cure by 3.=Aumenta la Conciencia de Minami Mayashita a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Luz de la Enfermera y Curación Compasiva en 3.
+Raise Minami Mayashita to wareness 6.\nAwareness 6 Effect: Restore a KO'd ally's HP equal to 40% of Minami's max HP + 1200. This effect can be activated once per battle.=Aumenta la Conciencia de Minami Mayashita a 6.\nEfecto de Conciencia 6: Restaura los PS de un aliado fuera de combate en una cantidad equivalente al 40% de los PS máx. de Minami + 1200. Este efecto puede activarse una vez por batalla.
+
+#Yukimi Fujikawa
+Raise Yukimi Fujikawa to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Sword of Condemnation and Sacral Glow by 2.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Espada de Condena y Brillo Sacro en 2.
 Raise Yukimi Fujikawa to Awareness 6.\nAwareness 6 Effect: Increase damage by 10% for Yukimi and allies with <link\="s|121"><u>Oath</u></link>. Increase Bless damage by 2% for each <link\="s|111"><u>Blessing</u></link> stack on Yukimi and allies with Oath (up to 20%).=Aumenta la Conciencia de Yukimi Fujikawa a 6.\nEfecto de Conciencia 6: Aumenta el daño en un 10% para Yukimi y los aliados con <link\="s|121"><u>Juramento</u></link>. Aumenta el daño de Bendición en un 2% por cada acumulación de <link\="s|111"><u>Bendición</u></link> en Yukimi y los aliados con Juramento (hasta un 20%).
 
-#shun kano
-Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Icicle Hatchet and Smash Hit by 2.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Hacha de Carámbano y Golpe Certero en 2.
-Raise {{A}} to Awareness 6.\nAwareness 6 Effect: When attacking a foe while <link\="s|151"><u>Desperado</u></link> is active, deal bonus damage equal to 10% of Shun's max HP, and restore HP equal to damage dealt.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Al atacar a un enemigo mientras <link\="s|151"><u>Forajido</u></link> está activo, inflige daño adicional igual al 10% del PS máximo de Shun y restaura PS según el daño infligido.
+#Shun Kano
+Raise Shun Kano to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Icicle Hatchet and Smash Hit by 2.=Aumenta la Conciencia de Shun Kano a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Hachuela de hielo y Golpe Certero en 2.
+Raise Shun Kano to Awareness 6.\nAwareness 6 Effect: When attacking a foe while <link\="s|151"><u>Desperado</u></link> is active, deal bonus damage equal to 10% of Shun's max HP, and restore HP equal to damage dealt.=Aumenta la Conciencia de Shun Kano a 6.\nEfecto de Conciencia 6: Al atacar a un enemigo mientras <link\="s|151"><u>Forajido</u></link> está activo, inflige daño adicional igual al 10% del PS máximo de Shun y restaura PS según el daño infligido.
 
-#leo kamiyama
-Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Atomic Smash and Justice Barrier by 2.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Golpe atómico y Barrera de Justicia en 2.
-Raise {{A}} to Awareness 6.\nAwareness 6 Effect: When using a skill on an ally with HP below 60%, increase critical damage by 25% for 1 turn.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Al usar una habilidad sobre un aliado con menos del 60% de PS, aumenta el daño crítico un 25% durante 1 turno.
+#Leo Kamiyama
+Raise Leo Kamiya to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Atomic Smash and Justice Barrier by 2.=Aumenta la Conciencia de Leo Kamiya a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Golpe Atómico y Barrera de la Justicia en 2.
+Raise Leo Kamiya to Awareness 6.\nAwareness 6 Effect: When using a skill on an ally with HP below 60%, increase critical damage by 25% for 1 turn.=Aumenta la Conciencia de Leo Kamiya a 6.\nEfecto de Conciencia 6: Al usar una habilidad sobre un aliado con menos del 60% de PS, aumenta el daño crítico un 25% durante 1 turno.
 
-#kiyoshi kurotani
+#Kiyoshi Kurotani
 Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Ring of Fire and Cleansing Flame by 2.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Anillo de Fuego y Llama Purificadora en 2.
 Raise {{A}} to Awareness 6.\nAwareness 6 Effect: Increase the party's Fire damage by 30% for every 10 <link\="s|135"><u>Chosen One</u></link> stacks gained for 2 turns.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Aumenta el daño de Fuego del equipo en un 30% por cada 10 acumulaciones de <link\="s|135"><u>Elegido</u></link> obtenidas durante 2 turnos.
 
-#riko tanemura
+#Riko Tanemura
 Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Scattered Plum Blossoms and Dreams in the Mist by 2.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Ciruelos en flor y Sueños en la niebla en 2.
 Raise {{A}} to Awareness 6.\nAwareness 6 Effect: If Riko's Speed is 100 or more, when using Verngale Petals, decrease cooldown time for every 15 points of Speed over 100, up to 4 actions.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Si la Velocidad de Riko es 100 o más, al usar Pétalos de Verngale, disminuye el tiempo de reutilización por cada 15 puntos de Velocidad por encima de 100, hasta 4 acciones.
 
-#seiji shiratori
+#Seiji Shiratori
 Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Blustering Épée and Graceful Gale by 2.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Épée Tempestuosa y Ráfaga Gale en 2.
 Raise {{A}} to Awareness 6.\nAwareness 6 Effect: Increase chance to gain <link\="s|118"><u>Right to Strike</u></link> by 20%.\nWhen Seiji has 5 Right to Strike stacks, Blustering Épée, Graceful Gale, and Saber Surge deal 1 more hit.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Aumenta la probabilidad de obtener <link\="s|118"><u>Derecho a Atacar</u></link> en un 20%. Cuando Seiji tiene 5 acumulaciones de Derecho a Atacar, Épée Tempestuosa, Ráfaga Gale y Oleada de Sable infligen 1 golpe más.
 
+#Motoha Arai
+Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Wrathful Thunder and Blitz Mine by 2.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta en 2 los niveles de habilidad de Trueno Iracundo y Mina Relámpago.
+Raise {{A}} to Awareness 6.\nAwareness 6 Effect: Increase <link\="s|104"><u>Shocked</u></link> foes' Electric damage taken by 20%, and increase Electric critical damage taken by 20%.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Aumenta el daño Eléctrico recibido por los enemigos con <link\="s|104"><u>Electrocución</u></link> en un 20%, y aumenta el daño crítico Eléctrico recibido en un 20%.
+
+#Tomoko Noge
+Raise Tomoko Noge to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Psyche Melody and Cheering You On by 2.=Aumenta la Conciencia de Tomoko Noge a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Melodía Psíquica y Animándote en 2.
+Raise Tomoko Noge to Awareness 6.\nAwareness 6 Effect: Cheer Song increases 1 ally's damage by 20%, and increases ailment accuracy by 15%.=Aumenta la Conciencia de Tomoko Noge a 6.\nEfecto de Conciencia 6: Canción de ánimo aumenta el daño de 1 aliado un 20% y la precisión de las dolencias un 15%.
+
+#Kayo Tomiyama
+Raise Kayo Tomiyama to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Club Okyann and Intermission by 2.=Aumenta la Conciencia de Kayo Tomiyama a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Club Okyann e Intermedio en 2.
+Raise Kayo Tomiyama to Awareness 6.\nAwareness 6 Effect: After activating <link\="s|142"><u>Pulsating Rhythm</u></link>, 25% chance to activate Encore, granting 1 additional Pulsating Rhythm.\nEncore will not activate consecutively.=Aumenta la Conciencia de Kayo Tomiyama a 6.\nEfecto de Conciencia 6: Tras activar <link\="s|142"><u>Ritmo pulsante</u></link>, tiene un 25% de probabilidad de activar Bucle, lo que otorga 1 Ritmo palpitante adicional.\nBucle no se activará de forma consecutiva.
+
+#Chizuko Nagao
+Raise Chizuko Nagao to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Diving Ray and Blunt Edge by 2.=Aumenta la Conciencia de Chizuko Nagao a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Rayo de inmersión y Filo Contundente en 2.
+Raise Chizuko Nagao to Awareness 6.\nAwareness 6 Effect: When an ally attacks a foe with <link\="s|179"><u>Radiation</u></link>, activate the following effects based on the number of unique elemental ailments on the foe. (Effects will stack.)\n1 or more: Increase Attack by 10%.\n2 or more: Increase Nuclear damage by 10%.\n3 or more: Increase pierce rate by 8%.=Aumenta la Conciencia de Chizuko Nagao a 6.\nEfecto de Conciencia 6: Cuando un aliado ataca a un enemigo con <link\="s|179"><u>Radiación</u></link>, activa los siguientes efectos según la cantidad de dolencias elementales únicos que tenga el enemigo. (Los efectos se acumulan).\n1 o más: aumenta el Ataque en un 10%.\n2 o más: aumenta el daño de Cosmos en un 10%.\n3 o más: aumenta la tasa de perforación en un 8%.
+
+#Toshiya Sumi
+Raise Toshiya Sumi to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Unexpected Tragedy and Absurd Comedy by 2.=Aumenta la Conciencia de Toshiya Sumi a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Tragedia Inesperada y Comedia Absurda en 2.
+Raise Toshiya Sumi to Awareness 6.\nAwareness 6 Effect: After using a skill, the <link\="s|160"><u>Verse of Hate</u></link>, <link\="s|161"><u>Verse of Healing</u></link>, or <link\="s|162"><u>Verse of Passion</u></link> gained activates 3 more times next turn.\nIf 2 or more different types of Verses are stacked, increase <link\="s|154"><u>Sonnet of Fate</u></link> damage by 67%.=Aumenta la Conciencia de Toshiya Sumi a 6.\nEfecto de Conciencia 6: Después de usar una habilidad, el <link\="s|160"><u>Verso de Odio</u></link>, <link\="s|161"><u>Verso de Curación</u></link> o <link\="s|162"><u>Verso de Pasión</u></link> obtenido se activará 3 veces más en el próximo turno.\nSi se acumulan 2 o más tipos diferentes de versos, el daño de <link\="s|154"><u>Soneto del Destino</u></link> aumenta en un 67%.
+
+#Miyu Sahara
+Raise Miyu Sahara to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Little Mermaid's Song and Poseidon's Blessing by 2.=Aumenta la Conciencia de Miyu Sahara a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Canto de la Sirenita y Bendición de Poseidón en 2.
+Raise Miyu Sahara to Awareness 6.\nAwareness 6 Effect: Increase maximum number of <link\="s|144"><u>Seashell</u></link> stacks to 8.\nWhen Seashell reaches 8 stacks, increase damage by 20%.=Aumenta la Conciencia de Miyu Sahara a 6.\nEfecto de Conciencia 6: Aumenta el número máximo de acumulaciones de <link\="s|144"><u>Concha Marina</u></link> a 8.\nCuando Caracola alcanza 8 acumulaciones, aumenta el daño en un 20%.
+
+#Lufel
+Raise Lufel to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Owl Fire and Owl Green by 2.=Aumenta la Conciencia de Lufel a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Fuego de Búho y Verde Búho en 2.
+Raise Lufel to Awareness 6.\nAwareness 6 Effect: After <link\="s|115"><u>Starfire II</u></link> ends, gain Starfire III for 1 turn.\nStarfire III: Increase Attack by 8% of Lufel's Attack, increase Fire damage by 20%, and increase healing received by 10%.=Aumenta la Conciencia de Lufel a 6.\nEfecto de Conciencia 6: Después de que termine <link\="s|115"><u>Fuego Estelar II</u></link>, obtiene Fuego Estelar III durante 1 turno.\nFuego Estelar III: aumenta el Ataque en un 8% del Ataque de Lufel, aumenta el daño de Fuego en un 20% y aumenta la curación recibida en un 10%.
+
 +---------------------------------
 Magician=Mago
-r:"^Gain ([0-9]+) Clock Gears, ([0-9]+) Dawn Fragments, ([0-9]+) Tarnished Gold Coin, and ([0-9]+) Tarnished Silver Coins\.$"="Obtienes $1 Engranajes de Reloj, $2 Fragmentos del Amanecer, $3 Monedas de Oro Deslustradas y $4 Monedas de Plata Deslustrada."
-r:"^Magician: Gain ([0-9]+) Clock Gears, ([0-9]+) Dawn Fragments, ([0-9]+) Tarnished Gold Coin, and ([0-9]+) Tarnished Silver Coins\.$"="Mago: Obtienes $1 Engranajes de Reloj, $2 Fragmentos del Amanecer, $3 Monedas de Oro Deslustradas y $4 Monedas de Plata Deslustrada."
+r:"^Gain ([0-9]+) Clock Gears, ([0-9]+) Dawn Fragments, ([0-9]+) Tarnished Gold Coin, and ([0-9]+) Tarnished Silver Coins\.$"="Obtienes $1 Engranajes de Reloj, $2 Fragmentos de Amanecer, $3 Monedas de Oro Deslustradas y $4 Monedas de Plata Deslustrada."
+r:"^Magician: Gain ([0-9]+) Clock Gears, ([0-9]+) Dawn Fragments, ([0-9]+) Tarnished Gold Coin, and ([0-9]+) Tarnished Silver Coins\.$"="Mago: Obtienes $1 Engranajes de Reloj, $2 Fragmentos de Amanecer, $3 Monedas de Oro Deslustradas y $4 Monedas de Plata Deslustrada."
 
 Fool=Loco
 r:"^Fool: Increase EXP gained in battle by ([0-9]+)%\.$"="Loco: Aumenta la EXP obtenida en batalla en un $1%."
@@ -1769,6 +2050,21 @@ r:"^Devil: Increase rate of finding search objects on floors, and increase Clock
 Strength=Fuerza
 r:"^Increase all allies' max SP by ([0-9]+) and SP recovery by ([0-9]+)%, but increase SP cost by ([0-9]+)%\. When a skill is used, for every ([0-9]+) SP spent, increase all allies' final damage by ([0-9]+)% for 1 turn\.$"="Aumenta los PE máximos de todos los aliados en $1 y la Recuperación de PE en un $2%, pero aumenta el coste de PE en un $3%.\nCuando se usa una habilidad, por cada $4 PE gastado, aumenta el Daño Final de todos los aliados en un $5% durante 1 turno."
 r:"^Strength: Increase all allies' max SP by ([0-9]+) and SP recovery by ([0-9]+)%, but increase SP cost by ([0-9]+)%\. When a skill is used, for every ([0-9]+) SP spent, increase all allies' final damage by ([0-9]+)% for 1 turn\.$"="Fuerza: Aumenta los PE máximos de todos los aliados en $1 y la Recuperación de PE en un $2%, pero aumenta el coste de PE en un $3%.\nCuando se usa una habilidad, por cada $4 PE gastado, aumenta el Daño Final de todos los aliados en un $5% durante 1 turno."
+
+High Priestess=Sacerdotisa
+r:"^When an ally deals damage with a skill, also decrease the main target's Down Points by ([0-9]+), and increase all foes' All-Out Attack damage taken by ([0-9]+)%-([0-9]+)% \(based on number of stacks\)\.$"="Cuando un aliado inflige daño con una habilidad, disminuye los Puntos de Derribo del objetivo principal en $1 y aumenta el daño de Ataque Combinado recibido de todos los enemigos un $2%-$3% (según el número de acumulaciones)."
+r:"^High Priestess: When an ally deals damage with a skill, also decrease the main target's Down Points by ([0-9]+), and increase all foes' All-Out Attack damage taken by ([0-9]+)%-([0-9]+)% \(based on number of stacks\)\.$"="Sacerdotisa: Cuando un aliado inflige daño con una habilidad, disminuye los Puntos de Derribo del objetivo principal en $1 y aumenta el daño de Ataque Combinado recibido de todos los enemigos un $2%-$3% (según el número de acumulaciones)."
+
+r:"^Decrease Will cost of battle by ([0-9]+)\. When Will is over ([0-9]+), also increase allies' final damage by ([0-9]+)%\.$"="Reduce el coste de Voluntad de las batallas en $1. Cuando la Voluntad está por encima de $2, también incrementa el Daño Final de los aliados en un $3%."
+r:"^Moon: Decrease Will cost of battle by ([0-9]+)\. When Will is over ([0-9]+), also increase allies' final damage by ([0-9]+)%\.$"="Luna: Reduce el coste de Voluntad de las batallas en $1. Cuando la Voluntad está por encima de $2, también incrementa el Daño Final de los aliados en un $3%."
+
+Tower=Torre
+r:"^Increase {{A}}'s Attack, Defense and max HP by ([0-9]+)%, and final damage by ([0-9]+)%$"="Incrementa el Ataque, Defensa y PS máximos de {{A}} en un $1%, y su Daño Final en un $2%."
+r:"^Tower: Increase {{A}}'s Attack, Defense and max HP by ([0-9]+)%, and final damage by ([0-9]+)%$"="Torre: Incrementa el Ataque, Defensa y PS máximos de {{A}} en un $1%, y su Daño Final en un $2%."
+
+Chariot=Carro
+r:"^Allies' Highlights and Theurgies can deal critical hits, but decrease Highlight and Theurgy's gauge recovery rate by ([0-9]+)%\.$"="Los Highlights y Teúrgias de los aliados pueden hacer golpes críticos, pero reduce la recuperación de barra de Highlights y Teúrgias en un $1%."
+r:"^Chariot: Allies' Highlights and Theurgies can deal critical hits, but decrease Highlight and Theurgy's gauge recovery rate by ([0-9]+)%\.$"="Carro: Los Highlights y Teúrgias de los aliados pueden hacer golpes críticos, pero reduce la recuperación de barra de Highlights y Teúrgias en un $1%."
 
 
 #Historias
@@ -1838,7 +2134,7 @@ Maybe we should try to find more of these\nthings.=Quizás deberíamos intentar 
 It's unclear exactly what it is, but... it\ndoesn't seem dangerous at least.=No está claro exactamente qué es, pero... al menos no parece peligroso.
 You got it, Leader.=Entendido, Líder.
 Counting on you.=Cuento contigo.
-Same to you, Nagisa.=Igualmente, Nagisa.
+Same to you, {{A}}.=Igualmente, {{A}}.
 
 #Conversaciones entrada
 
@@ -1852,15 +2148,138 @@ I could do with the moral support.=Yo me encargo del apoyo moral.
 It's impossible to know how far Tartarus\ngoes.=Es imposible saber que tan lejos llega el Tártaro.
 Let's just take it one floor at a time.=Vayamos piso por piso.
 
+Nice work, {{A}}.=Buen trabajo, {{A}}.
+We've made some decent exploration progress.=Hemos hecho un decente progreso en la exploración.
+I don't think we would've made it this far\nwithout you guys.=Creo que no hubieramos llegado tan lejos sin vosotros.
+I'm glad we did this together.=Me alegra haber hecho esto juntos.
+
 #Yukari
 Give me a shout if you're going in to investigate.=Llamame si vas a entrar a investigar.
 My experience with the place is sure to come in handy.=Mi experiencia con el lugar seguro será de ayuda.
 
+Since the teleporter's broken, we have no\nchoice but to use the entrance.=Desde que el teletransportador esta roto, no queda otra que usar la entrada.
+Something feels off about Tartarus... Let's\nbe careful as we search each floor.=Algo se siente raro sobre el Tártaro...\nSeamos cautelosos al explorar cada piso.
+
+{{A}}-kun, I'm surprised you managed to\nclimb so high in Tartarus!={{A}}-kun, ¡estoy sorprendida de lo alto que has llegado a escalar el Tártaro!
+I gotta admit, I had my doubts about how this\nwas gonna pan out...=Tengo que admitirlo, tenía mis dudas acerca de como iba a resultar esto...
+But thanks to you, I think that things will\nbe all right after all.=Pero gracias a ti, creo que las cosas estarán bien después de todo.
 
 +----- Makoto Yuki ------+
 #Historia 1
+Hope you like fishing.=Espero que te guste pescar.
+It's a fishing pond.=Es un estanque de pesca.
+I am curious about it, actually.=En realidad, tengo curiosidad al respecto.
+So... do you wanna fish?=Entonces... ¿Quieres pescar?
+So it is.=Así es.
+There are some fishing rods here... Should we\ngive it a try?=Hay algunas cañas de pescar aquí... ¿Lo intentamos?
+I haven't caught anything\nyet...=Aún no he atrapado nada...
+It seems Makoto hasn't had\nmuch luck either...=Parece que Makoto tampoco ha\ntenido mucha suerte...
+He doesn't seem bored, but I\ncan't tell if he's enjoying\nthis at all...=No parece aburrido, pero no\npuedo decir si está disfrutando\nesto en absoluto...
+Do you fish often?=¿Pescas a menudo?
+A bit.=Un poco.
+Well then, since I'm not very experienced,\nmaybe our skill levels are about the same.=Bueno, como no tengo mucha experiencia, tal vez nuestros niveles de habilidad sean más o menos iguales.
+A pro...!?=¿¡Un profesional...!?
+It seems like you aren't catching much\nthough.=Sin embargo, parece que no estás pescando mucho.
+There aren't any places like this near the\ndorm. Seems like a pretty nice spot.=No hay lugares como este cerca del dormitorio. Parece un sitio bastante agradable.
+As a hobby?=¿Como pasatiempo?
+It passes the time.=Sirve para pasar el rato.
+I see. It's nice to have a place you can kill\ntime at.=Ya veo. Es agradable tener un lugar donde puedes matar el tiempo.
+This is a nice spot too. If I lived closer, I\nmight come here to do the same.=Este es un buen lugar también. Si viviera más cerca, podría venir aquí a hacer lo mismo.
+By the way, can you take home anything you\ncatch here, or is it catch and release?=Por cierto, ¿puedes llevarte a casa todo lo que pesques aquí, o es de captura y libera?
+So you get points for the fish you catch and\nthen exchange those for prizes...=Entonces obtienes puntos por los peces que capturas y luego los cambias por premios...
+Seems like we can't do that in this version\nof your city, but it sounds pretty fun.=Parece que no podemos hacer eso en esta versión de tu ciudad, pero suena bastante divertido.
+Your rod!=¡Tu caña!
+Makoto!=¡Makoto!
+Oh, a bite. I just need to reel it in, is\nthat right?=Ah, ha picado. Solo tengo que recoger el sedal, ¿verdad?
+...Caught one.=...Atrapé uno.
+I won't lose yet.=Aún no perderé.
+All right. But I won't be giving up either.=Está bien. Pero tampoco me rendiré.
+Congrats.=Felicidades.
+Very nice.=Muy bien.
+Thanks. Fishing turned out to be pretty fun.=Gracias. Pescar resultó bastante divertido.
+By the way, what am I supposed to do with\nthis fish now?=Por cierto, ¿qué se supone que haga con este pescado ahora?
+We got carried away and ended\nup catching way too many\nfish...=Nos dejamos llevar y terminamos\natrapando muchísimos peces...
+It's a shame we can't actually\nexchange these for points...=Qué lástima que no podamos\nrealmente cambiarlos por puntos...
+...{{A}}.=...{{A}}.
+Over there... Can you see that huge shadow in\nthe water? Is that a fish too?=Allí... ¿Puedes ver esa enorme sombra en el agua? ¿Eso también es un pez?
+It's a big 'un!=¡Es uno grande!
+Yeah. We might be able to catch it if we both\nreel it in.=Sí. Podríamos atraparlo si los dos lo enrollamos.
+Should we go for it...?=¿Deberíamos ir a por ello...?
+Should we try it together? Maybe with two of\nus we can manage to reel it in.=¿Deberíamos intentarlo juntos? Quizás entre los dos podamos lograr sacarlo.
+I took on the colossal fish\nwith Makoto...=Me enfrenté al pez\ncolosal con Makoto...
+That was a tough one... Fishing is... full of\nsurprises, huh?=Ese estuvo difícil... La pesca está... llena de sorpresas, ¿eh?
+We did our best...=Hicimos lo mejor...
+It was a worth a shot...=Valío la pena intentarlo...
+I might be more tired right now than when I'm\nfighting through Tartarus.=Podría estar más cansado ahora que cuando estoy luchando en el Tártaro.
+...I wonder if Yukari would heal me when we\nget back.=...Me pregunto si Yukari me curará cuando regresemos.
+Ahaha, maybe not. She might get mad at me.=Jajaja, tal vez no. Puede que se enoje conmigo.
+You seem to have a knack for this.=Parece que tienes un don para esto.
+Sounds like you had fun.=Parece que te divertiste.
+Yeah, I think I'd like to fish again\nsometime.=Sí, creo que me gustaría pescar otra vez algún día.
+I wonder if Junpei or Aragaki-senpai know of\nany places like this near us.=Me pregunto si Junpei o Aragaki‑senpai conocen algún lugar como este cerca de aquí.
+Ah, but if it's somewhere back home, I guess\nit'd be hard for you to join me... Hm...=Ah, pero si es en algún lugar de mi ciudad, supongo que te resultaría difícil venir a verme... Hm...
+I'll be happy if you enjoy fishing.=Me alegraré si disfrutas de la pesca.
+Don't worry about me.=No te preocupes por mí.
+...Okay then. I'll have enough fun for the\nboth of us.=......Está bien entonces. Me divertiré lo suficiente por los dos.
+Someday, I'll catch something even bigger\nthan the one that got away from us today.=Algún día, atraparé algo aún más grande que el que se nos escapó hoy.
+Sea fishing, huh...? Sounds fun. What kind of\nfish can you catch out there?=¿Pescar en el mar, eh...? Suena divertido. ¿Qué tipo de peces se pueden atrapar por allí?
+Makoto and I had a spirited\nconversation about fishing...=Makoto y yo tuvimos una\nanimada conversación sobre\nla pesca...
 
 #Historia 2
+...A karaoke place.=...Un lugar de karaoke.
+Ever been before?=¿Has estado antes?
+A few times... They have karaoke on the\nsecond floor of Paulownia Mall.=Unas cuantas veces... Tienen karaoke en el segundo piso del centro comercial Paulownia.
+It's pretty crowded on Sundays, but weekdays\nare quiet, so I go there sometimes.=Los domingos está bastante concurrido, pero entre semana está tranquilo, así que a veces voy allí.
+In Kichijoji too...=También en Kichijoji...
+Oh, really? This room's pretty big, huh?\nSeems like it could fit a lot of people.=¿En serio? Esta habitación es bastante grande, ¿no? Parece que podría caber mucha gente.
+Seems like there's not much else to do here,\nso... feel like singing?=Parece que no hay mucho más que hacer aquí, así que... ¿te apetece cantar?
+Would you mind going first, Nagisa?=¿Te importaría ir primero, Nagisa?
+I tried singing something...=Intenté cantar algo...
+Was that a new song?=¿Esa era una canción nueva?
+Not really...?=¿No realmente...?
+I guess it's kinda new...=Supongo que es algo nueva...
+I see. I'd never heard it before, so I was\ncurious.=Ya veo. Nunca lo había escuchado antes, así que tenía curiosidad.
+I wonder what kind of music\nMakoto listens to...=Me pregunto qué tipo de\nmúsica escucha Makoto...
+What kind of music do I like...?=¿Qué tipo de música me gusta...?
+I don't really have a preference.=Realmente no tengo preferencia.
+I thought you were a music buff.=Pensé que eras un aficionado a la música.
+I'm surprised...=Estoy sorprendido...
+I always wear headphones, so maybe that's why\npeople think I'm particular about music...=Siempre uso audífonos, así que tal vez por eso la gente piensa que soy exigente con la música...
+Let's see... I wonder if this place has that\none song...=Veamos... Me pregunto si este lugar tiene esa canción...
+Makoto is singing with an\nintense focus on the\nscreen...!=¡Makoto está cantando con una\nintensa concentración en la\npantalla...!
+That wasn't too bad... I think.=Eso no estuvo tan mal... creo.
+Wanna duet?=<size\=24>¿Quieres que hagamos un dúo?</size>
+Encore! Encore!=¡Otra! ¡Otra!
+Thanks. Encore, huh? But what song...?=Gracias. ¿Otra, eh? Pero ¿pero qué canción...?
+I wonder if there are any songs we both know.=Me pregunto si hay alguna canción que ambos conozcamos.
+That one kids show theme song?=<size\=27>¿Esa canción principal de un programa infantil?</size>
+You're probably right... Still, wouldn't hurt\nto look.=Probablemente tengas razón... De todos modos, no estaría mal echar un vistazo.
+I enjoyed singing karaoke with\nMakoto...=Disfruté cantando karaoke con Makoto...
+I don't even know how many songs we've done\nnow.=Ni siquiera sé cuántas canciones hemos cantado ya.
+I don't usually do karaoke with other people.\nThis was really fun.=No suelo hacer karaoke con otras personas. Fue realmente divertido.
+Why not invite someone to join you?=¿Por qué no invitas a alguien a que se una?
+Hm. That's not a bad idea.=Hm. No es una mala idea.
+I've never invited my friends to karaoke\nbefore... it might surprise them.=Nunca he invitado a mis amigos al karaoke antes... podría sorprenderlos.
+You don't go with friends?=¿No vas con amigos?
+I don't think I have many friends that enjoy\nsinging...=No creo que tenga muchos amigos a los que les guste cantar...
+We usually hang out at a café or diner and\nthen go our separate ways.=Normalmente nos juntamos en un café o en un restaurante y luego cada uno sigue su camino.
+Makoto looks like he's in deep\nthought...=Makoto parece estar\nsumido en un profundo\npensamiento...
+...Ah, sorry.=...Ah, lo siento.
+I was just imagining what it would be like to\ngo to karaoke with everyone.=Solo estaba imaginando cómo sería ir al karaoke con todos.
+Yukari and Junpei would probably fight over\nthe song selection. As for the others...=Yukari y Junpei probablemente pelearían por la selección de canciones. En cuanto a los demás...
+When they got dragged along to karaoke this\nsummer, they didn't seem interested in\nsinging. They were happy to just listen.=Cuando los arrastraron al karaoke este verano, no parecían interesados en cantar. Estaban contentos de simplemente escuchar.
+Who's the best singer in the group?=¿Quién es el mejor cantante del grupo?
+I don't know... Just going by lung capacity,\nI'd guess it's Sanada-senpai.=No lo sé... Solo por la capacidad pulmonar, diría que es Sanada‑senpai.
+If you came with, you could hear who's best\nfor yourself.=Si vinieras, podrías escuchar quién es el mejor para ti.
+Still, sounds like it'd be fun.=Aún así, suena como que sería divertido.
+I think so, yeah. I hope we can do it\nsomeday.=Creo que sí, claro. Espero que podamos hacerlo algún día.
+It'd be fun if you came too.=Sería divertido si también vinieras.
+I hope we can make that happen someday.=Espero que podamos lograrlo algún día.
+I'm sure we will.=Estoy seguro de que lo haremos.
+Hmm.=Hmm.
+We can jam on the tambourine.=Podemos improvisar con la pandereta.
+Sure thing. As long as you don't mind me\nplaying out of rhythm.=Claro. Mientras no te importe que toque fuera de ritmo.
+Makoto and I talked about\npracticing karaoke...=Makoto y yo hablamos sobre\npracticar karaoke...
 
 #Historia 3
 
@@ -1878,4 +2297,3 @@ Obtain Potent Medicine to unlock=Obtén la Medicina Potente para desbloquear
 
 #Historia 9
 Obtain Pretty Seashell to unlock=Obtén el Caparazón Precioso para desbloquear
-
