@@ -671,6 +671,8 @@ Your team will be subject to various effects based on your strength of <color\=#
 Items you collect in Tartarus can be used <color\=#FF3838>after exploration has ended</color>, regardless of the <color\=#FF3838>success or failure</color> of your expedition.=Los Objetos que recolectas en el Tártaro pueden usarse <color\=#FF3838>después de que la exploración haya terminado</color>, sin importar el <color\=#FF3838>éxito o fracaso</color> de tu expedición.
 Battling will raise your <color\=#FF3838>Exploration Level</color>. Your Exploration Level determines the levels of <color\=#FF3838>all teammates</color>, <color\=#FF3838>weapons</color>, <color\=#FF3838>skills</color>, and <color\=#FF3838>Wonder's Personas</colro>.=Combatir aumentará tu <color\=#FF3838>Nivel de Exploración</color>. Tu Nivel de Exploración determina los niveles de todos <color\=#FF3838>los compañeros de equipo</color>, <color\=#FF3838>las armas</color>, <color\=#FF3838>las habilidades</color> y <color\=#FF3838>las Personas de Wonder</color>.
 The goal of Tartarus exploration is not always to clear the level, but to get stronger through successive attempts.\nContinue challenging Tartarus and powering up your team as you aim for greater heights.=El objetivo de la exploración de Tártaro no siempre es despejar el nivel, sino volverse más fuerte a través de intentos sucesivos.\nContinúa desafiando al Tártaro y potenciando a tu equipo mientras aspiras a llegar más alto.
+r:"(?s)<color\=#FFD145>Tartarus</color>\s+Tartarus is a mysterious tower that appears during the Dark Hour\.\s+You must form a team to explore Tartarus\.\s+The layout of the tower is randomized, presenting a new adventure each time you enter\..*?<color\=#FFD145>Forming a Team</color>.*?To explore Tartarus,.*?you must confirm your Team Preset..*?The team includes 9 main members and 3 supports..*?.$"="<color\=#FFD145>Tártaro</color>\nEl Tártaro es una misteriosa torre que aparece durante la Hora Oscura. Debes formar un equipo para explorar el Tártaro. La distribución de la torre es aleatoria, presentando una nueva aventura cada vez que entras.\n\n<color\=#FFD145>Formar un equipo</color>\nPara explorar el Tártaro, debes confirmar tu Ajuste de Equipo. El equipo incluye 9 miembros principales y 3 de apoyo. Estos personajes no están incluidos en tu equipo activo inicial, pero se unirán a ti a medida que explores.\nReúne Fragmentos de Alma para desbloquear personajes para la exploración, incluidos los personajes que aún no has obtenido."
+
 
 
 #Misiones
@@ -799,7 +801,10 @@ r:"^Current Location: Tartarus Floor (\d+)\nDo you want to save your current pro
 r:"^Do you want to spend (.*?)'s Dream Fragment x(\d+) to unlock the story\?$"="¿Quieres gastar Fragmento de Sueño de $1 x$2 para desbloquear la historia?"
 r:"^(\d+) - (\d+)F$"="$1 - $2F"
 r:"^Unlock (\d+) basic attributes in Mastery$"="Desbloquea $1 atributos básicos en Maestría"
+r:"^Gain (\d+)\-(\d+) Clock Gears\.$"="Obtén $1-$2 Engranajes de Reloj."
+Discarded.=Descartado.
 Core Antiques=Antigüedades de Shinshoudo
+Sentinel=Centinela
 
 
 #Niveles historia
@@ -1278,12 +1283,6 @@ Effect ended.=El efecto terminó.
 First Clear=Primera Vez Completado
 Purchased=Comprado
 
-#Mirar
-
-r:"(?s)<color\=#FFD145>Tartarus</color>\s+Tartarus is a mysterious tower that appears during the Dark Hour\.\s+You must form a team to explore Tartarus\.\s+The layout of the tower is randomized, presenting a new adventure each time you enter\..*?<color\=#FFD145>Forming a Team</color>.*?To explore Tartarus,.*?you must confirm your Team Preset..*?The team includes 9 main members and 3 supports..*?.$"="<color\=#FFD145>Tártaro</color>\nEl Tártaro es una misteriosa torre que aparece durante la Hora Oscura. Debes formar un equipo para explorar el Tártaro. La distribución de la torre es aleatoria, presentando una nueva aventura cada vez que entras.\n\n<color\=#FFD145>Formar un equipo</color>\nPara explorar el Tártaro, debes confirmar tu Ajuste de Equipo. El equipo incluye 9 miembros principales y 3 de apoyo. Estos personajes no están incluidos en tu equipo activo inicial, pero se unirán a ti a medida que explores.\nReúne Fragmentos de Alma para desbloquear personajes para la exploración, incluidos los personajes que aún no has obtenido."
-
-
-
 r:"^Tartarus Floor ([0-9]+)$"="Tártaro - Piso $1"
 Tartarus Floor %s=Tártaro - Piso %s
 Select which antiques to bring into Tartarus. Antique effects remain active throughout your exploration.=Selecciona cual antigüedad traer al Tártaro.\nLos efectos de las antigüedades permanecen activos durante toda la exploración.
@@ -1406,7 +1405,18 @@ Grand Magus=Gran Mago
 Magical Magus=Mago Mágico
 Stasis Giant=Gigante de Estasis
 Conviction Sword=Espada de Convicción
-
+Musha's Gathering=Reunión de Musha
+Ghastly Wail=Aullido Espantoso
+Kaiden Musha=Kaiden Musha
+Musha=Musha
+Allies' Highlights and Theurgies can deal critical hits.=Los Highlights de los Aliados y las Teurgias pueden infligir golpes críticos.
+C<color\=#000000>o</color>unter Form=F<color\=#000000>o</color>rma de Contraataque
+S<color\=#000000>t</color>ate of Carnage=E<color\=#000000>s</color>tado de Carnicería
+B<color\=#000000>a</color>rrier Form=F<color\=#000000>o</color>rma de Barrera
+Changed to Counter Form...=Cambiado a Forma de Contraataque...
+Changed to Barrier Form...=Cambiado a Forma de Barrera...
+Lost Barrier Form!=¡Forma de Barrera Perdida!
+State of Carnage=Estado de Carnicería
 
 Avenger Knight=Caballero Vengador
 1. Avenger Knight will continuously summon Shadows, and grants Steel Pride. For every 1 Steel Pride stack, Defense increases by 5%.\n2. Avenger Knight and summoned Shadows gain 1 Steel Pride at the end of their turn.\n3. When a summoned Shadow is defeated, all Steel Pride stacks from that Shadow are removed.\n4. Avenger Knight will spend Steel Pride granted to Shadows to enhance the effect of Condemnation of Pride.=1. El Caballero Vengador invocara Sombras continuamente y les otorgara Orgullo de Acero. Por cada acumulación de Orgullo de Acero, incrementa la Defensa en 5%.\n2. El Caballero Vengador y las Sombras invocadas obtienen 1 Orgullo de Acero al terminar su turno.\n3. Cuando una Sombra invocada es derrotada, todas las acumulaciones de Orgullo de Acero de esa Sombra son eliminadas.\n4. El Caballero Vengador usará los Orgullos de Acero otorgados a las Sombras para mejorar los efectos de Condenación del Orgullo.
@@ -1476,11 +1486,21 @@ It's got something in its\nmouth...=Tiene algo en la boca...
 Take=Tomar
 r:"^Gain ([0-9]+) Dawn Fragments\.$"="Obtienes $1 Fragmentos del Amanecer."
 r:"^Gain ([0-9]+)-([0-9]+) Soul Fragments\.$"="Obtienes $1-$2 Fragmentos de Alma."
+r:"^Gain (\d+) Dawn Fragment\.$"="Obtén $1 fragmento del Amanecer."
 Go closer=Acercarse
 r:"^Gain ([0-9]+)-([0-9]+) Tarnished Silver Coins\.$"="Obtienes $1-$2 Monedas de Plata Deslustradas."
 #Mirar Cambiar del general.txt
 Enter=Entrar en
 Receive nothing.=No recibir nada.
+
+Young Woman=Mujer joven
+I should never have trusted that person...=Nunca debí haber confiado en esa persona...
+I know we only met a few times, but they were\nalways so kind to me...=Sé que solo nos conocimos unas cuantas veces, pero siempre fueron tan amables conmigo...
+But then they tried to get me to sign up for\npart-time work out of the blue...=Pero entonces intentaron que me inscribiera en un trabajo a tiempo parcial de repente...
+So I made a run for it, and now I'm lost...=Así que corrí por ello, y ahora estoy perdida...
+You should run further.=Deberías correr más.
+Let's call someone for help.=Llamemos a alguien para pedir ayuda.
+Yeah. I should find someone right away!=Sí. ¡Debería encontrar a alguien de inmediato!
 
 Great Clock=Gran Reloj
 r:"^Left: ([0-9]+)$"="Restantes: $1"
@@ -1557,6 +1577,17 @@ r:"^Spend ([0-9]+) Major Arcana card, and gain ([0-9]+) random Major Arcana card
 You can't give up on yourself.=No puedes rendirte en ti mismo.
 r:"^([0-9]+)% chance to gain ([0-9]+) random Major Arcana card\.$"="$1% de ganar $2 carta de Arcana Mayor al azar."
 As if I don't already know that! A little\nunderstanding would really go a long way, you\nknow...=¡Como si no supiera eso ya!\nUn poco de comprensión realmente ayudaría mucho, ¿sabes?
+You don't know anything about me! Don't talk\nto me ever again!=¡No sabes nada de mí! ¡No me vuelvas a hablar nunca más!
+
+Kokatsu Male Student=Estudiante Masculino de Kokatsu
+Hm? Is that the unmistakable\naura of a rare item?=¿Hm? ¿Es esa la aura inconfundible de un objeto raro?
+Senpai always told me to always aim for first\nplace in every contest...=Senpai siempre me dijo que siempre apuntara al primer lugar en cada concurso...
+In the end, I didn't achieve that. Ever\nsince, I've never been able to pick myself\nup.=Al final, no lo logré. Desde entonces, nunca he podido levantarme.
+I'm still running away from my failure. Even\nskipping school...=Sigo huyendo de mi fracaso. Incluso faltando a la escuela...
+Tell me, what purpose does my life have...?=Dime, ¿qué propósito tiene mi vida...?
+Spend 1 rare Minor Arcana card. 90% chance to gain 2 Minor Arcana cards. 10% chance to receive nothing.=Gasta 1 carta rara de Arcanos Menores. 90% de probabilidad de obtener 2 cartas de Arcanos Menores. 10% de probabilidad de no recibir nada.
+How about switching schools?=¿Qué tal cambiar de escuela?
+70% chance to gain 1 rare Minor Arcana card.=70% de probabilidad de obtener 1 carta rara de Arcanos Menores.
 
 Lost Privileged Boy=Chico privilegiado Perdido
 You there. Yes, I'm talking to you!=¿Tú ahí? Sí, te estoy hablando.
@@ -1811,6 +1842,12 @@ r:"^Swords: After an ally uses a Highlight, (\d+)% chance to immediately reset t
 r:"^Increase all allies' final damage based on how low current Will is\. The effect is maximized at (-?\d+) Will, increasing final damage by (\d+)%\.$"="Aumenta el daño final de todos los aliados según qué tan baja sea la fuerza de voluntad actual. El efecto al máximo a la fuerza de voluntad de $1 aumenta el daño final en un $2%."
 r:"^Swords: Increase all allies' final damage based on how low current Will is\. The effect is maximized at (-?\d+) Will, increasing final damage by (\d+)%\.$"="Espadas: Aumenta el daño final de todos los aliados según qué tan baja sea la fuerza de voluntad actual. El efecto al máximo a la fuerza de voluntad de $1 aumenta el daño final en un $2%."
 
+r:"^For every treasure chest opened during the current exploration, increase damage by (\d+(?:\.\d+)?)%\.$"="Por cada cofre del tesoro abierto durante la exploración actual, aumenta el daño en un $1%."
+r:"^Swords: For every treasure chest opened during the current exploration, increase damage by (\d+(?:\.\d+)?)%\.$"="Espadas: Por cada cofre del tesoro abierto durante la exploración actual, aumenta el daño en un $1%."
+
+
+r:"^When {{A}} has acted (\d+) times \(excluding extra actions\), gain an extra action\.$"="Cuando {{A}} haya actuado $1 veces (excluyendo acciones extra), obtiene una acción extra."
+r:"^Swords: When {{A}} has acted (\d+) times \(excluding extra actions\), gain an extra action\.$"="Espadas: Cuando {{A}} haya actuado $1 veces (excluyendo acciones extra), obtiene una acción extra."
 #s.
 +---------------------------------
 Wands=Bastos
@@ -1992,8 +2029,8 @@ Raise Shun Kano to Awareness 3.\nAwareness 3 Effect: Increase the skill levels o
 Raise Shun Kano to Awareness 6.\nAwareness 6 Effect: When attacking a foe while <link\="s|151"><u>Desperado</u></link> is active, deal bonus damage equal to 10% of Shun's max HP, and restore HP equal to damage dealt.=Aumenta la Conciencia de Shun Kano a 6.\nEfecto de Conciencia 6: Al atacar a un enemigo mientras <link\="s|151"><u>Forajido</u></link> está activo, inflige daño adicional igual al 10% del PS máximo de Shun y restaura PS según el daño infligido.
 
 #Leo Kamiyama
-Raise Leo Kamiya to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Atomic Smash and Justice Barrier by 2.=Aumenta la Conciencia de Leo Kamiya a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Golpe Atómico y Barrera de la Justicia en 2.
-Raise Leo Kamiya to Awareness 6.\nAwareness 6 Effect: When using a skill on an ally with HP below 60%, increase critical damage by 25% for 1 turn.=Aumenta la Conciencia de Leo Kamiya a 6.\nEfecto de Conciencia 6: Al usar una habilidad sobre un aliado con menos del 60% de PS, aumenta el daño crítico un 25% durante 1 turno.
+Raise Leo Kamiyama to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Atomic Smash and Justice Barrier by 2.=Aumenta la Conciencia de Leo Kamiya a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Golpe Atómico y Barrera de la Justicia en 2.
+Raise Leo Kamiyama to Awareness 6.\nAwareness 6 Effect: When using a skill on an ally with HP below 60%, increase critical damage by 25% for 1 turn.=Aumenta la Conciencia de Leo Kamiya a 6.\nEfecto de Conciencia 6: Al usar una habilidad sobre un aliado con menos del 60% de PS, aumenta el daño crítico un 25% durante 1 turno.
 
 #Kiyoshi Kurotani
 Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Ring of Fire and Cleansing Flame by 2.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Anillo de Fuego y Llama Purificadora en 2.
@@ -2066,6 +2103,12 @@ Chariot=Carro
 r:"^Allies' Highlights and Theurgies can deal critical hits, but decrease Highlight and Theurgy's gauge recovery rate by ([0-9]+)%\.$"="Los Highlights y Teúrgias de los aliados pueden hacer golpes críticos, pero reduce la recuperación de barra de Highlights y Teúrgias en un $1%."
 r:"^Chariot: Allies' Highlights and Theurgies can deal critical hits, but decrease Highlight and Theurgy's gauge recovery rate by ([0-9]+)%\.$"="Carro: Los Highlights y Teúrgias de los aliados pueden hacer golpes críticos, pero reduce la recuperación de barra de Highlights y Teúrgias en un $1%."
 
+Fortune=Fortuna
+r:"^Increase allies' max HP by (\d+)%\. When a skill heals beyond max HP, deal damage to (\d+) random foe equal to (\d+)% of surplus healing\.$"="Aumenta los PS máximos de los aliados en un $1%. Cuando una habilidad cure más allá de los PS máximos, inflige daño a $2 enemigo aleatorio igual al $3% de la curación excedente."
+
+#justicia
+r:"^Increase the number of cards that can be selected in Shuffle Time by (\d+)\.$"="Aumenta en $1 el número de cartas que se pueden seleccionar en Hora de Barajar."
+r:"^Justice: Increase the number of cards that can be selected in Shuffle Time by (\d+)\.$"="Justicia: Aumenta en $1 el número de cartas que se pueden seleccionar en Hora de Barajar."
 
 #Historias
 Dream Chapters=Capítulos de Sueños
@@ -2297,3 +2340,38 @@ Obtain Potent Medicine to unlock=Obtén la Medicina Potente para desbloquear
 
 #Historia 9
 Obtain Pretty Seashell to unlock=Obtén el Caparazón Precioso para desbloquear
+
+
+#Buff
+Change Psychokinesis affinity to Weak.=Cambia la afinidad de Psicoquinesis a Débil.
+r:"^Doubles rate of gaining Warrior's Way, but when (\d+) stacks are gained, increase final dmg taken by an additional (\d+)%\.$"="Duplica la velocidad para ganar El camino del guerrero, pero al ganar $1 acumulaciones, aumenta el daño final recibido en un $2% adicional."
+r:"^All foes' max HP is increased by (\d+)%\.$"="El PS máximo de todos los enemigos aumenta un $1%."
+r:"^For every ally not in the current party, increase party's damage dealt by (\d+)%\.$"="Por cada aliado que no esté en el equipo actual, aumenta el daño infligido del equipo en un $1%."
+r:"^Increase allies' damage dealt by (\d+)% per current Exploration Level\. At Exploration Level (\d+), also increase final damage by (\d+)%\.$"="Aumenta el daño infligido de los aliados en un $1% por cada nivel de exploración actual. Al nivel de exploración $2, también aumenta el daño final en un $3%."
+r:"^For every search object destroyed during the current exploration, increase damage dealt by (\d+(?:\.\d+)?)%\.$"="Por cada objeto de búsqueda destruido durante la exploración actual, aumenta el daño infligido en un $1%."
+r:"^Increase {{A}}'s Attack by (\d+)%\. When the Major Arcana Card Tower is obtained, increase piece rate by (\d+)% more\.$"="Aumenta el Ataque de {{A}} en un $1%. Cuando se obtenga la carta de Arcano Mayor de La Torre, aumenta la tasa de piezas en un $2% más."
+r:"^Increase {{A}}'s critical rate by (\d+)%\. When the Major Arcana Card Tower is obtained, increase {{A}}'s critical damage by (\d+)% more\.$"="Aumenta la probabilidad de crítico de {{A}} en un $1%. Cuando se obtenga la carta de Arcano Mayor de La Torre, aumenta el daño crítico de {{A}} en un $2% más."
+r:"^After an Elucidator ally uses a skill, fill the Highlight gauge by (\d+)%\.$"="Después de que un aliado Elucidador use una habilidad, llena la barra de Highlight en un $1%."
+r:"^After an Elucidator ally uses a skill, permanently increase the party's damage by (\d+)%\. Stacks up to (\d+) times\.$"="Después de que un aliado Elucidador use una habilidad, aumenta permanentemente el daño del equipo en un $1%. Se acumula hasta $2 veces."
+r:"^Increase allies' final normal attack damage by (\d+)%\.$"="Aumenta el daño de ataque normal final de los aliados en un $1%."
+r:"^Sweeper and Assassin allies' damage is increased by (\d+)% and critical rate is increased by (\d+)%\.$"="El daño de los aliados Barrenderos y Asesinos aumenta un $1% y la tasa de crítico aumenta un $2%."
+r:"^Elucidator characters' Attack, Defense, and max HP are increased by (\d+)%\.$"="El Ataque, la Defensa y el PS máximo de los personajes Elucidadores aumentan un $1%."
+r:"^When an ally's current HP is high, critical rate is increased\. When HP is at (\d+)%, gain maximum critical rate bonus of (\d+)%\.$"="Cuando el PS actual de un aliado es alto, aumenta la tasa de crítico. Cuando el PS está al $1%, obtiene un bono máximo de tasa de crítico del $2%."
+r:"^Each time damage is dealt to a foe, their damage taken is increased by (\d+)% for (\d+) turns\. Stacks up to (\d+) times\.$"="Cada vez que se inflige daño a un enemigo, su daño recibido aumenta en un $1% durante $2 turnos. Se acumula hasta $3 veces."
+r:"^Foes' damage taken is increased by (\d+)% for each debuff they are inflicted with, up to (\d+)%\.$"="El daño recibido de los enemigos aumenta en un $1% por cada estado negativo (debuff) que tengan, hasta un $2%."
+r:"^Allies' Attack is increased by (\d+)%\.$"="El Ataque de los aliados aumenta un $1%."
+r:"^Allies' Defense is increased by (\d+(?:\.\d+)?)%\.$"="La Defensa de los aliados aumenta un $1%."
+r:"^Allies' max HP is increased by (\d+)%\.$"="El PS máximo de los aliados aumenta un $1%."
+r:"^Allies' Fire, Ice, Electric, and Wind damage is increased by (\d+)%\.$"="El daño de Fuego, Hielo, Eléctrico y Viento de los aliados aumenta un $1%."
+r:"^Allies' Psychokinesis, Nuclear, Bless, and Curse damage is increased by (\d+)%\.$"="El daño de Psicoquinesis, Nuclear, Bendición y Maldición de los aliados aumenta un $1%."
+r:"^Allies' critical rate is increased by (\d+)%\.$"="La tasa de crítico de los aliados aumenta un $1%."
+r:"^Allies' critical damage is increased by (\d+)%\.$"="El daño crítico de los aliados aumenta un $1%."
+r:"^Allies' final damage taken is decreased by (\d+)%\.$"="El daño final recibido por los aliados se reduce en un $1%."
+r:"^Allies' critical rate is increased by (\d+)%, and critical damage is increased by (\d+)%\.$"="La tasa de crítico de los aliados aumenta un $1% y el daño crítico aumenta un $2%."
+r:"^Change all allies' affinities to Null for (\d+) turns\.$"="Cambia las afinidades de todos los aliados a Nulo durante $1 turnos."
+r:"^Allies' final damage is increased by (\d+)%\.$"="El daño final de los aliados aumenta un $1%."
+Will: Strong=Fuerza de voluntad: Fuerte
+Unfettered Faith=Fe sin ataduras
+r:"^Allies' Attack, Defense, max HP, and final damage is increased by (\d+)%\.$"="El Ataque, la Defensa, el PS máximo y el daño final de los aliados aumentan un $1%."
+r:"^At the start of each turn, Theurgy gauge is restored by an additional (\d+)\. When damage is dealt with a skill (\d+) or more times, final damage is increased by (\d+)%\.$"="Al inicio de cada turno, la barra de Teúrgia se restaura en un $1 adicional. Cuando se inflige daño con una habilidad $2 o más veces, el daño final aumenta un $3%."
+
