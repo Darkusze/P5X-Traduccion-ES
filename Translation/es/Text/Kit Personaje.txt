@@ -22,11 +22,11 @@ r:"^Curse dmg to all foes \\((\\d+\\.\\d+)% Atk\\)\\.\\nGain (\\d+) Will of Rebe
 
 r:"^Fire\s+dmg\s+to\s+1\s+foe\s+\((.+?)%\s+Atk\),\s+inflict\s+Burn\s+and\s+decrease\s+healing\s+received\s+(\d+)%\s+\((\d+)\s+turns\)\.\s*$"="Daño de Fuego a 1 enemigo ($1% ATQ), inflige Quemadura y reduce la curación recibida un $2% ($3 turnos)."
 
-r:"^Restore (\\d+) ally's HP \\((\\d+\\.\\d+)% of Lufel's Atk \\+ (\\d+)\\)\\. If target's HP is below (\\d+)%, increase healing effect (\\d+)%\\.$"="Restaura los PS de $1 aliado ($2% del ATQ de Lufel + $3).\nSi los PS del objetivo están por debajo del $4%, aumenta el efecto de curación un $5%."
+r:"^Restore (\\d+) ally's HP \\((\\d+\\.\\d+)% of {{A}}'s Atk \\+ (\\d+)\\)\\. If target's HP is below (\\d+)%, increase healing effect (\\d+)%\\.$"="Restaura los PS de $1 aliado ($2% del ATQ de {{A}} + $3).\nSi los PS del objetivo están por debajo del $4%, aumenta el efecto de curación un $5%."
 
-r:"^Restore party's HP \\((\\d+\\.\\d+)% of Lufel's Atk \\+ (\\d+)\\)\\.\\nIncrease healing effect on main target\\.$"="Restaura los PS del grupo ($1% del ATQ de Lufel + $2).\nAumenta el efecto curativo en el objetivo principal."
+r:"^Restore party's HP \\((\\d+\\.\\d+)% of {{A}}'s Atk \\+ (\\d+)\\)\\.\\nIncrease healing effect on main target\\.$"="Restaura los PS del grupo ($1% del ATQ de {{A}} + $2).\nAumenta el efecto curativo en el objetivo principal."
 
-r:"^Restore party's HP \\((\\d+\\.\\d+)% of Lufel's Atk \\+ (\\d+)\\) and increase party's Atk (\\d+\\.\\d+)% \\((\\d+) turn\\)\\.$"="Restaura los PS del grupo ($1% del ATQ de Lufel + $2) y aumenta el ATQ del grupo $3% ($4 turno)."
+r:"^Restore party's HP \\((\\d+\\.\\d+)% of {{A}}'s Atk \\+ (\\d+)\\) and increase party's Atk (\\d+\\.\\d+)% \\((\\d+) turn\\)\\.$"="Restaura los PS del grupo ($1% del ATQ de {{A}} + $2) y aumenta el ATQ del grupo $3% ($4 turno)."
 
 ++-------------Kayo Tomiyama-----------------++
 
@@ -40,7 +40,7 @@ r:"^Increase party's dmg \\((\\d+\\.\\d+)% \\+ (\\d+)% per (\\d+) of Tomiyama's 
 
 r:"^Psy dmg to all foes \\((\\d+\\.\\d+)% Atk\\)\\. Gain (\\d+) Greenleaf\\.$"="Daño Psíquico a todos los enemigos ($1% del ATQ).\nObtiene $2 acumulaciones para Hoja Verde."
 
-r:"^Spend (\\d+) Greenleaf and grant Cheer Song to (\\d+) other ally: Increase Atk (\\d+)% \\+ (\\d+)% of Tomoko's Atk \\(max (\\d+)\\) and increase ailment accuracy (\\d+)% \\((\\d+) turns\\)\\.$"="Gasta $1 Hoja Verde y otorga Canción de Ánimo a otro aliado: Aumenta ATQ un $2% + $3% del ATQ de Tomoko (máx. $4) y aumenta la precisión a dolencias un $5% ($6 turnos)."
+r:"^Spend (\d+) Greenleaf and grant Cheer Song to 1 ally besides self: Increase Atk (\d+)% \+ (\d+)% of Tomoko's Atk \(max (\d+)\) and increase ailment accuracy (\d+)% \((\d+) turns\)\.$"="Consume $1 Hojaverde y otorga Canción de Ánimo a 1 aliado que no sea uno mismo: aumenta el ATQ un $2% + el $3% del ATQ de Tomoko (máx. $4) y aumenta la precisión de estados un $5% ($6 turnos)."
 
 r:"^Spend (\\d+) Greenleaf stacks for (\\d+\\.\\d+)% chance to inflict Sleep on (\\d+) foe \\((\\d+) turn\\)\\.\\nOn success, increase foe's next attack dmg taken (\\d+\\.\\d+)%\\.\\nOn failure, increase next dmg taken (\\d+\\.\\d+)%\\.$"="Gasta $1 acumulaciones de Hoja Verde para un $2% de probabilidad de aplicar Sueño a $3 enemigo ($4 turno).\nSi tiene éxito, aumenta el daño recibido del siguiente ataque en un $5%.\nSi falla, aumenta el siguiente daño recibido en un $6%."
 
@@ -56,17 +56,17 @@ r:"^Grant shield to party \\((\\d+\\.\\d+)% of Miyu's Def \\+ (\\d+), (\\d+) tur
 
 ++-------------Motoha Arai-----------------++
 
-r:"^Elec dmg to random foes \\(([0-9]+\\.[0-9]+)% Atk, ([0-9]+) hits\\)\\.\\nFrom second attack, prioritize targeting different foes and decrease dmg by ([0-9]+)% for repeated hits on same foe\\.\\nInflict Shock on main target\\.$"="Daño eléctrico a enemigos aleatorios ($1% ATQ, $2 golpes).\nDesde el segundo golpe, prioriza objetivos distintos y reduce el daño en $3% si golpeas al mismo enemigo.\nInflige "Electrocución" al objetivo principal."
+r:"^Elec dmg to foes \(([\d\.]+)% Atk, (\d+) hits\)\.\nFrom second hit, prioritize targeting different foes and decrease dmg to (\d+)% for hits on same target\.\nInflict Shock on main target\.$"="Daño Eléctrico a los enemigos ($1% ATQ, $2 golpes).\nA partir del segundo golpe, prioriza objetivos distintos y reduce el daño al $3% para los golpes en el mismo objetivo.\nInflige Electrocución al objetivo principal."
 
-r:"^Elec dmg to ([0-9]+) foe \\(([0-9]+\\.[0-9]+)% Atk\\)\\. Increase party's Elec dmg ([0-9]+\\.[0-9]+)% \\(([0-9]+) turns\\)\\.$"="Daño eléctrico a $1 enemigo ($2% ATQ).\nAumenta el daño eléctrico del grupo en un $3% ($4 turnos)."
+r:"^Elec dmg to ([0-9]+) foe \\(([0-9]+\\.[0-9]+)% Atk\\)\\. Increase party's Elec dmg ([0-9]+\\.[0-9]+)% \\(([0-9]+) turns\\)\\.$"="Daño Eléctrico a $1 enemigo ($2% ATQ).\nAumenta el daño Eléctrico del grupo en un $3% ($4 turnos)."
 
-r:"^Elec dmg to all foes \\(([0-9]+\\.[0-9]+)% Atk\\)\\.\\nIf foe is Shocked, activate Technical and deal bonus Elec dmg \\(([0-9]+\\.[0-9]+)% Atk\\)\\.$"="Daño eléctrico a todos los enemigos ($1% ATQ).\nSi el enemigo está "Electrocutado", activa Técnico y aplica daño eléctrico extra ($2% ATQ)."
+r:"^Elec dmg to all foes \\(([0-9]+\\.[0-9]+)% Atk\\)\\.\\nIf foe is Shocked, activate Technical and deal bonus Elec dmg \\(([0-9]+\\.[0-9]+)% Atk\\)\\.$"="Daño Eléctrico a todos los enemigos ($1% ATQ).\nSi el enemigo está "Electrocutado", activa Técnico y aplica daño Eléctrico extra ($2% ATQ)."
 
-r:"^Elec dmg to all foes \\(([0-9]+\\.[0-9]+)% Atk\\)\\.\\nInflict Shock on main target and increase Elec dmg ([0-9]+)% \\(([0-9]+) turns\\)\\.$"="Daño eléctrico a todos los enemigos ($1% ATQ).\nInflige "Electrocución" al objetivo principal y aumenta el daño eléctrico en $2%\n($3 turnos)."
+r:"^Elec dmg to all foes \\(([0-9]+\\.[0-9]+)% Atk\\)\\.\\nInflict Shock on main target and increase Elec dmg ([0-9]+)% \\(([0-9]+) turns\\)\\.$"="Daño Eléctrico a todos los enemigos ($1% ATQ).\nInflige "Electrocución" al objetivo principal y aumenta el daño Eléctrico en $2%\n($3 turnos)."
 
-r:"^Elec\\s+dmg\\s+to\\s+foes\\s+\\((\\d+\\.?\\d*)%\\s+Atk,\\s+(\\d+)\\s+hits\\)\\.\\s+From\\s+second\\s+hit,\\s+prioritize\\s+targeting\\s+different\\s+foes\\s+and\\s+decrease\\s+dmg\\s+(\\d+)%\\s+for\\s+hits\\s+on\\s+same\\s+target\\.\\s+Inflict\\s+Shock\\s+on\\s+main\\s+target\\.$"="Daño eléctrico a enemigos ($1% ATQ, $2 golpes). A partir del segundo golpe, prioriza objetivos distintos y reduce el daño un $3% si golpeas al mismo. Aplica “Electrocución” al objetivo principal."
+r:"^Elec\\s+dmg\\s+to\\s+foes\\s+\\((\\d+\\.?\\d*)%\\s+Atk,\\s+(\\d+)\\s+hits\\)\\.\\s+From\\s+second\\s+hit,\\s+prioritize\\s+targeting\\s+different\\s+foes\\s+and\\s+decrease\\s+dmg\\s+(\\d+)%\\s+for\\s+hits\\s+on\\s+same\\s+target\\.\\s+Inflict\\s+Shock\\s+on\\s+main\\s+target\\.$"="Daño Eléctrico a enemigos ($1% ATQ, $2 golpes). A partir del segundo golpe, prioriza objetivos distintos y reduce el daño un $3% si golpeas al mismo. Aplica “Electrocución” al objetivo principal."
 
-r:"^Elec\\s+dmg\\s+to\\s+foes\\s+\\((\\d+\\.?\\d*)%\\s+Atk,\\s+(\\d+)\\s+hits\\)\\.\\nFrom\\s+second\\s+hit,\\s+prioritize\\s+targeting\\s+different\\s+foes\\s+and\\s+decrease\\s+dmg\\s+to\\s+(\\d+)%\\s+for\\s+hits\\s+on\\s+same\\s+target\\.\\nInflict\\s+Shock\\s+on\\s+main\\s+target\\.$"="Daño eléctrico a los enemigos ($1% Ataque, $2 golpes). A partir del $3 golpe, da prioridad a otros enemigos y reduce el daño al $4% para los golpes en el mismo objetivo. Inflige Electrocución al objetivo principal."
+
 
 ++-------------Yosuke-----------------++
 
@@ -74,17 +74,14 @@ r:"^Ice dmg to random foes \\(([0-9]+\\.[0-9]+)% Def, ([0-9]+) hits\\)\\. When Y
 
 r:"^Ice dmg to all foes \\(([0-9]+\\.[0-9]+)% Def\\)\\. Inflict Freeze on main target \\(([0-9]+) turns\\)\\.$"="Daño de Hielo a todos los enemigos ($1% DEF).\nInflige Congelación en el objetivo principal ($2 turnos)."
 
-r:"^Next Inspiration changes to Imagination\\.\\s*(\\d+)%\\s*chance to counterattack,\\s*increase dmg\\s*\\((\\d+\\.?\\d*)%\\s*Def\\),\\s*and target all foes\\.\\s*Gain shield\\s*\\((\\d+\\.?\\d*)%\\s*Def\\s*\\+\\s*(\\d+),\\s*(\\d+)\\s*turns\\),\\s*increase Fire resistance,\\s*and nullify spiritual ailments\\s*\\((\\d+)\\s*turns\\)\\.\\s*Taunt all foes\\s*\\((\\d+)\\s*turns\\)\\.$"="La próxima "Inspiración" cambia a "Imaginación". Probabilidad del $1% de contraatacar, aumenta el daño ($2% de la DEF ) y ataca a todos los enemigos. Obteniendo un escudo ($3% de la DEF + $4, durante $5 turnos), aumenta la resistencia al Fuego y anula dolencias espirituales ($6 turnos). Provoca a todos los enemigos ($7 turnos)."
+r:"Evolve next activated Inspiration to Imagination\.\s+(\d+)% chance to counterattack, increase dmg \((\d+(?:\.\d+)?)% Def\), and target all foes\.\s*Gain shield \((\d+(?:\.\d+)?)% Def \+ (\d+),\s*(\d+) turns\),\s*increase Fire resistance,\s*and nullify\s*spiritual ailments\.\s*Taunt all foes \((\d+) turns\)\."="Evoluciona la próxima Inspiración activada a Imaginación.\n$1% de probabilidad de contraatacar, aumenta el daño ($2% de Defensa) y selecciona a todos los enemigos como objetivo. Obtiene un escudo ($3% de Defensa + $4, $5 turnos), aumenta la resistencia al Fuego y anula los estados alterados espirituales.\nProvoca a todos los enemigos ($6 turnos)."
 
 r:"^Ice dmg to all foes \((\d+\.\d+)% Def\)\. Increase chance of Inspiration counter (\d+)% \((\d+) turns\)\.$"=Daño de Hielo a todos los enemigos ($1% DEF).\nAumenta la probabilidad de contraataque de Inspiración en $2% ($3 turnos).
-
-r:"^Ice\\s+dmg\\s+to\\s+foes\\s+\\((\\d+\\.?\\d*)%\\s+Def,\\s+(\\d+)\\s+hits\\)\\.\\s*When\\s+([A-Za-z]+)\\s+has\\s+shield,\\s+increase\\s+dmg\\s+(\\d+)%\\.\\nRepeated\\s+hits\\s+on\\s+same\\s+foe\\s+deal\\s+(\\d+)%\\s+decreased\\s+dmg\\s+per\\s+hit\\s+\\(min\\s+(\\d+)%\\s+of\\s+Def\\)\\.$"="Daño de Hielo a los enemigos ($1% Def, $2 golpes). Cuando $3 tiene escudo, aumenta los daños un $4%. Los golpes repetidos al mismo enemigo infligen un $5% menos de daño por golpe (mín. $6% de Def)."
 
 r:"^Next\\s+Inspiration\\s+(?:changes|evolves)\\s+to\\s+Imagination\\.\\s*(\\d+)%\\s*chance\\s+to\\s+counterattack,\\s*increase\\s+dmg\\s*\\((\\d+\\.?\\d*)%\\s*Def\\),\\s*and\\s+target\\s+all\\s+foes\\.\\s*Gain\\s+shield\\s*\\((\\d+\\.?\\d*)%\\s*Def\\s*\\+\\s*(\\d+),\\s*(\\d+)\\s*turns\\),\\s*increase\\s+([A-Za-z]+)\\s+resistance,\\s*and\\s+nullify\\s+spiritual\\s+ailments\\s*\\((\\d+)\\s*turns\\)\\.\\s*Taunt\\s+all\\s+foes\\s*\\((\\d+)\\s*turns\\)\\.$"="La "Inspiración" evoluciona a "Imaginación". Contraataca con un $1% de probabilidad, aumenta el daño ($2% de la DEF) y ataca a todos los enemigos. Obteniendo un escudo ($3% de la DEF + $4, durante $5 turnos), aumenta la resistencia al Fuego y anula dolencias espirituales (durante $7 turnos).\nProvoca a todos los enemigos ($8 turnos)."
 
 r:"^Ice\\s+dmg\\s+to\\s+foes\\s+\\((\d+\.?\d*)%\\s+Def,\\s+(\d+)\\s+hits\\)\\.\\s*When\\s+Yusuke\\s+has\\s+shield,\\s+increase\\s+dmg\\s+(\d+)%\\.\\nDecrease\\s+dmg\\s+by\\s+(\d+)%\\s+for\\s+each\\s+hit\\s+on\\s+same\\s+foe\\s+\\(max\\s+decrease\\s+to\\s+(\d+)%\\s+of\\s+Def\\)\\.$"="Daño de Hielo a los enemigos ($1% DEF, $2 golpes). Cuando Yusuke tiene escudo, aumenta el daño un $3%. Disminuye los daños un $4% cada vez que golpeas al mismo enemigo (reducción máxima del $5% de la DEF)."
 
-r:"^Evolve\\s+next\\s+activated\\s+Inspiration\\s+to\\s+Imagination\\.\\s*(\d+)%\\s+chance\\s+to\\s+counterattack,\\s+increase\\s+dmg\\s+\\((\d+\.?\d*)%\\s+Def\\),\\s+and\\s+target\\s+all\\s+foes\\.\\s*Gain\\s+shield\\s+\\((\d+\.?\d*)%\\s+Def\\s+\\+\\s+(\d+),\\s+(\d+)\\s+turns\\),\\s+increase\\s+Fire\\s+resistance,\\s+and\\s+nullify\\s+spiritual\\s+ailments\\s+\\((\d+)\\s+turns\\)\\.\\s*Taunt\\s+(all\\s+foes)\\s+\\((\d+)\\s+turns\\)\\.$"="Evoluciona la siguiente Inspiración activada a Imaginación.\n$1% de probabilidad de contraatacar, aumenta el daño ($2% DEF) y afecta a todos los enemigos. Obtiene un escudo ($3% DEF + $4, $5 turnos), aumenta la resistencia al Fuego y anula estados alterados espirituales ($6 turnos).\nProvoca a $7 ($8 turnos)."
 
 ++-------------Yukimi-----------------++
 
@@ -160,7 +157,7 @@ r:"^Restore\\s+party's\\s+HP\\s*\\((\\d+\\.?\\d*)%\\s+of\\s+Minami's\\s+max\\s+H
 
 r:"^Phys dmg to (\\d+) foe \\((\\d+\\.?\\d*)% Atk, (\\d+) hits\\)\\.\\nIf Ryuji doesn't have Rebound, spend (\\d+)% of max HP to deal (\\d+)% more dmg and increase crit rate (\\d+)%\\.$"="Daño físico a $1 enemigo ($2% ATQ, $3 golpes).\nSi Ryuji no tiene Rebote, sacrifica $4% de su PS máx. para infligir $5% más de daño y aumentar su probabilidad de golpe crítico en $6%."
 
-r:"^Elec dmg to all foes \\((\\d+\\.?\\d*)% Atk\\), with (\\d+\\.?\\d*)% chance to inflict Shock\\.\\nIf Ryuji has Rebound, increase chance to inflict Shock (\\d+\\.?\\d*)%\\.$"="Daño eléctrico a todos los enemigos ($1% ATQ), con $2% de probabilidad de "Electrocución".\nSi Ryuji tiene Rebote, la probabilidad aumenta a $3%."
+r:"^Elec dmg to all foes \\((\\d+\\.?\\d*)% Atk\\), with (\\d+\\.?\\d*)% chance to inflict Shock\\.\\nIf Ryuji has Rebound, increase chance to inflict Shock (\\d+\\.?\\d*)%\\.$"="Daño Eléctrico a todos los enemigos ($1% ATQ), con $2% de probabilidad de "Electrocución".\nSi Ryuji tiene Rebote, la probabilidad aumenta a $3%."
 
 r:"^Select (\\d+) foe, and enter Changing Gears\\. On next action, deal Phys dmg to target \\((\\d+\\.?\\d*)% Atk\\)\\.\\nIf Ryuji has Rebound, guarantee crit hit\\.$"="Selecciona $1 enemigo e ingresa a Cambio de Marcha.\nEn la siguiente acción, inflige daño físico al objetivo ($2% ATQ).\nSi Ryuji tiene Rebote, el golpe será un crítico garantizado."
 
@@ -212,11 +209,11 @@ r:"^Wind\\s+dmg\\s+to\\s+(\\d+)\\s+foe\\s*\\((\\d+\\.?\\d*)%\\s+Atk\\)\\.\\s*Rev
 
 ++-------------Yui-----------------++
 
-r:"^Elec\\s+dmg\\s+to\\s+(\\d+)\\s+foe\\s*\\((\\d+\\.?\\d*)%\\s+Atk\\)\\.\\s+If\\s+foe\\s+is\\s+not\\s+Shocked,\\s+(\\d+\\.?\\d*)%\\s+chance\\s+to\\s+inflict\\s+Shock\\s*\\((\\d+)\\s+turns\\)\\.\\nIf\\s+foe\\s+is\\s+Shocked,\\s+increase\\s+dmg\\s+(\\d+)%\\.$"="Daño eléctrico a $1 enemigo ($2% ATQ).\nSi el enemigo no está afectado por "Electrocución", hay un $3% de probabilidad de aplicarlo (durante $4 turnos).\nSi el enemigo ya está afectado por "Electrocución", aumenta el daño en un $5%."
+r:"^Elec\\s+dmg\\s+to\\s+(\\d+)\\s+foe\\s*\\((\\d+\\.?\\d*)%\\s+Atk\\)\\.\\s+If\\s+foe\\s+is\\s+not\\s+Shocked,\\s+(\\d+\\.?\\d*)%\\s+chance\\s+to\\s+inflict\\s+Shock\\s*\\((\\d+)\\s+turns\\)\\.\\nIf\\s+foe\\s+is\\s+Shocked,\\s+increase\\s+dmg\\s+(\\d+)%\\.$"="Daño Eléctrico a $1 enemigo ($2% ATQ).\nSi el enemigo no está afectado por "Electrocución", hay un $3% de probabilidad de aplicarlo (durante $4 turnos).\nSi el enemigo ya está afectado por "Electrocución", aumenta el daño en un $5%."
 
-r:"^Elec\\s+dmg\\s+to\\s+all\\s+foes\\s*\\((\\d+\\.?\\d*)%\\s+Atk\\)\\.\\s+Increase\\s+dmg\\s+to\\s+main\\s+target\\s+(\\d+)%\\.$"="Daño eléctrico a todos los enemigos ($1% ATQ).\nAumenta el daño al objetivo principal en un $2%."
+r:"^Elec\\s+dmg\\s+to\\s+all\\s+foes\\s*\\((\\d+\\.?\\d*)%\\s+Atk\\)\\.\\s+Increase\\s+dmg\\s+to\\s+main\\s+target\\s+(\\d+)%\\.$"="Daño Eléctrico a todos los enemigos ($1% ATQ).\nAumenta el daño al objetivo principal en un $2%."
 
-r:"^Grant\\s+Player\\s+2\\s+to\\s+(\\d+)\\s+ally\\s+and\\s+increase\\s+([^'\\s]+)'s\\s+Atk\\s+(\\d+\\.?\\d*)%\\s*\\((\\d+)\\s+turns\\)\\.\\nWhen\\s+ally\\s+with\\s+Player\\s+2\\s+deals\\s+dmg\\s+to\\s+a\\s+foe\\s+with\\s+skill,\\s+perform\\s+follow-up\\s+attack,\\s+dealing\\s+Elec\\s+dmg\\s*\\((\\d+\\.?\\d*)%\\s+Atk\\)\\s+up\\s+to\\s+(\\d+)\\s+times\\s*\\((\\d+)\\s+turns\\)\\.\\nIncrease\\s+chance\\s+to\\s+activate\\s+Jolly\\s+Cooperation\\s+(\\d+)%\\s*\\((\\d+)\\s+turns\\)\\.$"="Otorga Jugador 2 a $1 aliado y aumenta el ATQ de $2 en un $3% (durante $4 turnos).\nCuando el aliado con Jugador 2 inflige daño a un enemigo con una habilidad, realiza un ataque adicional, causando daño eléctrico ($5% ATQ) hasta $6 veces (durante $7 turnos).\nAumenta la probabilidad de activar Cooperación alegre en un $8% (durante $9 turnos)."
+r:"^Grant\\s+Player\\s+2\\s+to\\s+(\\d+)\\s+ally\\s+and\\s+increase\\s+([^'\\s]+)'s\\s+Atk\\s+(\\d+\\.?\\d*)%\\s*\\((\\d+)\\s+turns\\)\\.\\nWhen\\s+ally\\s+with\\s+Player\\s+2\\s+deals\\s+dmg\\s+to\\s+a\\s+foe\\s+with\\s+skill,\\s+perform\\s+follow-up\\s+attack,\\s+dealing\\s+Elec\\s+dmg\\s*\\((\\d+\\.?\\d*)%\\s+Atk\\)\\s+up\\s+to\\s+(\\d+)\\s+times\\s*\\((\\d+)\\s+turns\\)\\.\\nIncrease\\s+chance\\s+to\\s+activate\\s+Jolly\\s+Cooperation\\s+(\\d+)%\\s*\\((\\d+)\\s+turns\\)\\.$"="Otorga Jugador 2 a $1 aliado y aumenta el ATQ de $2 en un $3% (durante $4 turnos).\nCuando el aliado con Jugador 2 inflige daño a un enemigo con una habilidad, realiza un ataque adicional, causando daño Eléctrico ($5% ATQ) hasta $6 veces (durante $7 turnos).\nAumenta la probabilidad de activar Cooperación alegre en un $8% (durante $9 turnos)."
 
 r:"^Increase\\s+([^\s]+)'s\\s+Atk\\s+and\\s+follow-up\\s+dmg\\s+\\((\\d+)\\s+turns\\)\\.\\s+Also\\s+perform\\s+follow-up\\s+attack\\s+when\\s+allies\\s+deal\\s+skill\\s+dmg\\s+to\\s+foes\\s+\\((\\d+)\\s+turns\\)\\.$"="Aumenta el ATQ de $1 y el ataque adicional (durante $2 turnos).\nTambién realiza un ataque adicional cuando los aliados infligen daño con habilidades a los enemigos (durante $3 turnos)."
 
@@ -253,11 +250,11 @@ r:"^Increase\\s+party's\\s+Atk\\s+by\\s+(\\d+\\.?\\d*)%\\s+of\\s+Yumi's\\s+Atk,\
 
 r:"Increase\s+1\s+ally\'s\s+damage\s+([\d\.]+)%\s+per\s+(\d+)\s+of\s+Yumi\'s\s+Atk,\s+up\s+to\s+(\d+)\s+of\s+Atk,\s+and\s+their\s+max\s+HP\s+([\d\.]+)%\s+\((\d+)\s+turns\)\.[\s\n\r]+When\s+target\s+deals\s+dmg\s+to\s+foe,\s+restore\s+target\'s\s+HP\s+\(([\d\.]+)%\s+of\s+dmg\s+dealt,\s+(\d+)\s+turn\)\.\s+When\s+activating\s+skill,\s+spend\s+(\d+)\s+Basic\s+or\s+Standard\s+Cocktail\s+to\s+gain\s+(\d+)\s+Tailor-Made\s+Cocktail\."="Aumenta el daño de 1 aliado un $1% por cada $2 de ATQ de Yumi, hasta un máximo de $3 de ATQ, y su PS máx. en un $4% ($5 turnos).\nCuando el objetivo inflige daño a un enemigo, restaura el PS del objetivo ($6% del daño infligido, $7 turno). Al activar la habilidad, consume $8 Cóctel Básico o Estándar para obtener $9 Cóctel A Medida."
 
-r:"Spend\s+all\s+Cocktails\s+to\s+increase\s+party\'s\s+attribute\s+dmg\s+based\s+on\s+targeted\s+ally\'s\s+attribute\s+\((\d+)\s+turns\)\.[\s\n\r]+Attribute\s+dmg\s+will\s+increase\s+([\d\.]+)%\s+per\s+(\d+)\s+of\s+Yumi\'s\s+Atk\s+\(up\s+to\s+(\d+)\s+of\s+Atk\)\.\s+Each\s+Tailor-Made,\s+Standard,\s+or\s+Basic\s+Cocktail\s+spent\s+will\s+change\s+effect[\s\n\r]+([\d\.]+)%\/([\d\.]+)%\/([\d\.]+)%,\s+respectively\.[\s\n\r]+Increase\s+effects\s+on\s+targeted\s+ally\s+([\d\.]+)\s+times\s+\((\d+)\s+turns\)\.[\s\n\r]+If\s+(\d+)\+\s+Standard\s+or\s+better\s+Cocktails\s+are\s+spent,\s+also\s+increase\s+targeted\s+ally\'s\s+crit\s+dmg\s+([\d\.]+)%\."="Consume todos los Cócteles para aumentar el daño de atributo del equipo según el atributo del aliado objetivo ($1 turnos).\nEl daño de atributo aumentará un $2% por cada $3 de ATQ de Yumi (hasta $4 de ATQ). Cada Cóctel A Medida, Estándar o Básico consumido cambia el efecto\n$5%/$6%/$7%, respectivamente.\nAumenta los efectos sobre el aliado seleccionado $8 veces ($9 turnos).\nSi se consumen $10 o más Cócteles Estándar o mejores, también aumenta el daño crítico del aliado objetivo en un $11%."
+r:"Spend all Cocktails to increase party's attribute dmg based on targeted ally's attribute \((\d+) turns\)\.\s*Attribute dmg will increase (\d+)% per (\d+) of Yumi's Atk \(up to (\d+) of Atk\)\.\s*Each Tailor-Made, Standard, or Basic Cocktail spent will change effect (\d+)%/(\d+)%/(\d+)%,\s*respectively\.\s*Increase effects on targeted ally (\d+(?:\.\d+)?) times\.\s*If (\d+)\+ Standard or better Cocktails are spent,\s*also increase targeted ally's crit dmg (\d+(?:\.\d+)?)%\."="Consume todos los Cócteles para aumentar el daño elemental del equipo según el elemento del aliado seleccionado ($1 turnos).\nEl daño elemental aumentará un $2% por cada $3 de ATQ. de Yumi (hasta $4 de ATQ.). Cada Cóctel a Medida, Estándar o Básico consumido cambiará el efecto un $5%/$6%/$7%, respectivamente.\nAumenta los efectos en el aliado seleccionado $8 veces.\nSi se consumen $9 o más Cócteles Estándar o mejores, también aumenta el daño crítico del aliado seleccionado un $10%."
 
 ++-------------Chord-----------------++
 
-r:"^Elec\\s+dmg\\s+to\\s+all\\s+foes\\s+\\((\\d+\\.?\\d*)%\\s+Atk\\)\\.\\s+(\\d+)%\\s+chance\\s+to\\s+inflict\\s+Shock\\s+on\\s+main\\s+target\\s+\\((\\d+)\\s+turns\\)\\.\\s+If\\s+ally\\s+has\\s+Costar,\\s+deal\\s+bonus\\s+Elec\\s+dmg\\s+to\\s+main\\s+target\\s+\\((\\d+\\.?\\d*)%\\s+Atk\\)\\.$"="Daño eléctrico a todos los enemigos ($1% Ataque). $2% de probabilidad de infligir Electrocución al objetivo principal ($3 turnos). Si el aliado tiene Costar, inflige daño eléctrico adicional al objetivo principal ($4 de daño)."
+r:"^Elec\\s+dmg\\s+to\\s+all\\s+foes\\s+\\((\\d+\\.?\\d*)%\\s+Atk\\)\\.\\s+(\\d+)%\\s+chance\\s+to\\s+inflict\\s+Shock\\s+on\\s+main\\s+target\\s+\\((\\d+)\\s+turns\\)\\.\\s+If\\s+ally\\s+has\\s+Costar,\\s+deal\\s+bonus\\s+Elec\\s+dmg\\s+to\\s+main\\s+target\\s+\\((\\d+\\.?\\d*)%\\s+Atk\\)\\.$"="Daño Eléctrico a todos los enemigos ($1% Ataque). $2% de probabilidad de infligir Electrocución al objetivo principal ($3 turnos). Si el aliado tiene Costar, inflige daño Eléctrico adicional al objetivo principal ($4 de daño)."
 
 r:"^Grant\\s+Costar\\s+to\\s+(\\d+)\\s+ally\\s+and\\s+increase\\s+target's\\s+Atk\\s+by\\s+(\\d+)%\\s+of\\s+Ayaka's\\s+Atk\\s+\\(up\\s+to\\s+(\\d+),\\s+(\\d+)\\s+turns\\)\\.$"="Otorga Costar a $1 aliado y aumenta el ATQ del objetivo un $2% del ATQ de Ayaka (hasta $3, $4 turnos)."
 
@@ -366,11 +363,13 @@ r:"^Bless\s+dmg\s+to\s+(\d+)\s+foe\s+\((\d+\.?\d*)%\s+Atk\)\s+and\s+Curse\s+dmg\
 
 r:"^Bless\s+dmg\s+to\s+(all)\s+foes\s+\((\d+\.?\d*)%\s+Atk\),\s+and\s+Curse\s+dmg\s+\((\d+\.?\d*)%\s+Atk\),\s+(\d+)\s+hit\s+each,\s+can\s+crit\.\\nIncrease\s+Justine\s+&\s+Caroline's\s+Atk\s+(\d+\.?\d*)%\s+and\s+crit\s+dmg\s+(\d+\.?\d*)%\s+\((\d+)\s+turns\)\.$"="Daño de Bendición a $1 los enemigos ($2% ATQ) y daño de Maldición ($3% ATQ), $4 golpe cada uno, puede ser crítico.\nAumenta el ATQ de Justine y Caroline un $5% y el daño crítico un $6% ($7 turnos)."
 
-r:"^Elec\s+dmg\s+to\s+(\d+)\s+foe\s+\((\d+\.?\d*)%\s+Atk\)\s+and\s+Wind\s+dmg\s+\((\d+\.?\d*)%\s+Atk\),\s+(\d+)\s+hit\s+each\s+\(increase\s+this\s+effect\s+(\d+\.?\d*)%\s+per\s+1\s+Desire\s+Level\)\.\s+Decrease\s+party's\s+dmg\s+taken\s+(\d+\.?\d*)%\s+\+\s+(\d+\.?\d*)%\s+per\s+100\s+Desire\s+Level\s+\((\d+)\s+turns\)\.\s+Also,\s+restore\s+party's\s+HP\s+\((\d+\.?\d*)%\s+Atk\s+\+\s+(\d+)\)\.\s+Gain\s+Facade\s+of\s+Service\s+&\s+Admonition\.$"="Daño eléctrico a $1 enemigo ($2% ATQ) y daño de viento ($3% ATQ), $4 golpe cada uno (aumenta este efecto un $5% por cada Nivel de Deseo). Reduce el daño recibido por el equipo un $6% + $7% por cada 100 Niveles de Deseo ($8 turnos). Además, restaura los PS del equipo ($9% ATQ + $10). Obtienes Fachada de Servicio y Amonestación."
+r:"^Elec\s+dmg\s+to\s+(\d+)\s+foe\s+\((\d+\.?\d*)%\s+Atk\)\s+and\s+Wind\s+dmg\s+\((\d+\.?\d*)%\s+Atk\),\s+(\d+)\s+hit\s+each\s+\(increase\s+this\s+effect\s+(\d+\.?\d*)%\s+per\s+1\s+Desire\s+Level\)\.\s+Decrease\s+party's\s+dmg\s+taken\s+(\d+\.?\d*)%\s+\+\s+(\d+\.?\d*)%\s+per\s+100\s+Desire\s+Level\s+\((\d+)\s+turns\)\.\s+Also,\s+restore\s+party's\s+HP\s+\((\d+\.?\d*)%\s+Atk\s+\+\s+(\d+)\)\.\s+Gain\s+Facade\s+of\s+Service\s+&\s+Admonition\.$"="Daño Eléctrico a $1 enemigo ($2% ATQ) y daño de viento ($3% ATQ), $4 golpe cada uno (aumenta este efecto un $5% por cada Nivel de Deseo). Reduce el daño recibido por el equipo un $6% + $7% por cada 100 Niveles de Deseo ($8 turnos). Además, restaura los PS del equipo ($9% ATQ + $10). Obtienes Fachada de Servicio y Amonestación."
 
 r:"^Can be used when Facade of Service & Admonition and Facade of Absurdity & Nonsense are both held\. Almighty dmg to (\d+) foe \(([\d\.]+)% Atk; increase this effect (\d+)% per (\d+) Desire Level\)\.\s*Spend all Facades to grant all allies shield \(([\d\.]+)% Atk \+ (\d+)\) and (\d+) Down Point \((\d+) turns\)\. Also increase party's Def ([\d\.]+)% per (\d+) Desire Level \((\d+) turns\)\.$"="Se puede usar cuando se poseen Fachada de Servicio y Amonestación y Fachada de Absurdo y Sinsentido a la vez. Inflige daño de Todopoderoso a $1 enemigo ($2% del ATQ; aumenta este efecto en un $3% por cada $4 Nivel de Deseo).\nConsume todas las Fachadas para otorgar un escudo a todos los aliados ($5% del ATQ + $6) y $7 punto de Derribo ($8 turnos). También aumenta la DEF del grupo en un $9% por cada $10 puntos de Nivel de Deseo ($11 turnos)."
 
 r:"^Can be used when Facade of Service & Admonition and Facade of Luck & Loss are both held\. Almighty dmg to (\d+) foe \(([\d\.]+)% Atk; increase effect (\d+)% per (\d+) Desire Level\)\.\s*Spend all Facades to inflict Shock and Windswept on main target, then inflict (\d+) Curse and gain (\d+) Blessing \((\d+) turns\)\. Decrease all foes' Def ([\d\.]+)% \+ ([\d\.]+)% per (\d+) Desire Level \((\d+) turns\)\.$"="Se puede usar cuando se poseen Fachada de Servicio y Amonestación y Fachada de Suerte y Pérdida a la vez. Inflige daño de Todopoderoso a $1 enemigo ($2% del ATQ; aumenta el efecto en un $3% por cada $4 Nivel de Deseo).\nConsume todas las Fachadas para infligir Electrocución y Azotado por el Viento al objetivo principal, luego inflige $5 Maldición y obtiene $6 Bendición ($7 turnos). Reduce la DEF de todos los enemigos en un $8% + $9% por cada $10 puntos de Nivel de Deseo ($11 turnos)."
+
+r:"^When using a skill, temporarily gain ([\d\.]+)% of Effects stats from Sweeper or Assassin ally with highest Atk \(excluding Justine & Caroline\)\.$"="Al usar una habilidad, otorga temporalmente el $1% de las estadísticas de Efectos del aliado de tipo Barrendero o Asesino con el ATQ más alto (excluyendo a Justine y Caroline)."
 
 ++-------------Kotone Vientogélido (Mont)-----------------++
 
@@ -438,6 +437,8 @@ r:"Bless dmg to (\d+) foe equal to ([\d.]+)% of Atk\.\nWhen using this skill in 
 r:"Bless dmg to (\d+) foe \(([\d.]+)% Atk\)\. Also, with Step, gain additional effects accordingly\.\nLead Step: Increase Highlight dmg (\d+)% per stack\.\nFollow Step: Increase Highlight crit rate (\d+)%, and crit dmg (\d+)%\."="Daño de Bendición a $1 enemigo ($2% del ATQ). Además, con Paso, obtiene efectos adicionales según corresponda.\nPaso de Iniciación: Aumenta el daño de Highlight un $3% por acumulación.\nSeguir el Paso: Aumenta la probaiblidad crítica de Highlight un $4% y el daño crítico un $5%."
 
 ++-------------Mayumi (Turbo)-----------------++
+r:"^Phys dmg to all foes \(([\d\.]+)% Atk\)\.\s*Also, increase party's dmg ([\d\.]+)% \+ bonus ([\d\.]+)% per (\d+) Speed \(max bonus ([\d\.]+)%, (\d+) turns\).\s*When used on extra action, increase skill dmg (\d+)%, and guaranteed crit hit on main target\.$"="Daño físico a todos los enemigos ($1% ATQ).\nAdemás, aumenta el daño del grupo un $2% + un bono del $3% por cada $4 de Velocidad (bono máx. $5%, $6 turnos).\nCuando se usa como acción extra, aumenta el daño de la habilidad un $7% y asesta un golpe crítico garantizado al objetivo principal."
+
 r:"Increase party's Atk ([\d.]+)% \+ bonus ([\d.]+)% per (\d+) Speed \(max bonus ([\d.]+)%, (\d+) turns\)\. Also increase party's Def ([\d.]+)% \+ bonus ([\d.]+)% per (\d+) Speed \(max bonus ([\d.]+)%, (\d+) turns\)\.\nWhen used on extra action, grant shield to all allies \((\d+), (\d+) turns\)\."="Aumenta el ATQ del equipo un $1% + un bono del $2% por cada $3 de Velocidad (bono máx. $4%, $5 turnos). También aumenta la DEF del equipo un $6% + un bono del $7% por cada $8 de Velocidad (bono máx. $9%, $10 turnos).\nCuando se usa en una acción adicional, otorga un escudo a todos los aliados ($11, $12 turnos)."
 
 r:"Increase party's pierce rate ([\d.]+)% \+ bonus ([\d.]+)% per (\d+) Speed \(max bonus ([\d.]+)%, (\d+) turns\)\. Also, increase party's Atk ([\d.]+)% \+ bonus ([\d.]+)% per (\d+) Speed \(max bonus ([\d.]+)%, (\d+) turns\)\.\nWhen used on extra action, also increase main target's pierce rate ([\d.]+)% \+ bonus ([\d.]+)% per (\d+) Speed \(max bonus ([\d.]+)%, (\d+) turn\)\."="Aumenta la tasa de perforación del equipo un $1% + un bono del $2% por cada $3 de Velocidad (bono máx. $4%, $5 turnos). También aumenta el ATQ del equipo un $6% + un bono del $7% por cada $8 de Velocidad (bono máx. $9%, $10 turnos).\nCuando se usa en una acción adicional, aumenta la tasa de perforación del objetivo principal un $11% + un bono del $12% por cada $13 de Velocidad (bono máx. $14%, $15 turno)."
@@ -494,7 +495,7 @@ r:"^Grant shield to party \\((\\d+\\.?\\d*)% Atk \\+ (\\d+), (\\d+) turns\\)\\. 
 
 r:"^Wind dmg to (\\d+) foe \\((\\d+\\.?\\d*)% Atk\\)\\. (\\d+\\.?\\d*)% chance to inflict Windswept\\.$"="Daño de viento a $1 enemigo ($2 % ATQ). $3 % de probabilidad de infligir Viento Cortante."
 
-r:"^Elec dmg to (\\d+) foe \\((\\d+\\.?\\d*)% Atk\\)\\. (\\d+\\.?\\d*)% chance to inflict Shock\\.$"="Daño eléctrico a $1 enemigo ($2 % ATQ). $3 % de probabilidad de infligir Electrocución."
+r:"^Elec dmg to (\\d+) foe \\((\\d+\\.?\\d*)% Atk\\)\\. (\\d+\\.?\\d*)% chance to inflict Shock\\.$"="Daño Eléctrico a $1 enemigo ($2 % ATQ). $3 % de probabilidad de infligir Electrocución."
 
 r:"^Grant shield to party \((\d+\.\d+)% Atk \+ (\d+), (\d+) turns\)\.$"=Otorga escudo al grupo ($1% ATQ + $2, $3 turnos).
 
@@ -540,14 +541,14 @@ r:"^Bless\\s+dmg\\s+to\\s+all\\s+foes\\s*\\((\\d+\\.?\\d*)%\\s+Atk\\)\\.\\s*Rest
 
 r:"^Elec\\s+dmg\\s+to\\s+(\\d+)\\s+foe\\s*\\((\\d+\\.?\\d*)%+\\s+Atk\\)\\.$"="Daño Eléctrico a $1 enemigo ($2% ATQ)."
 
-r:"^Elec\\s+dmg\\s+to\\s+(\\d+)\\s+foe\\.\\s+Increase\\s+party's\\s+Elec\\s+dmg\\s*\\((\\d+)\\s+turns\\)\\.$"="Daño eléctrico a $1 enemigo.\nAumenta el daño eléctrico del grupo ($2 turnos)."
+r:"^Elec\\s+dmg\\s+to\\s+(\\d+)\\s+foe\\.\\s+Increase\\s+party's\\s+Elec\\s+dmg\\s*\\((\\d+)\\s+turns\\)\\.$"="Daño Eléctrico a $1 enemigo.\nAumenta el daño Eléctrico del grupo ($2 turnos)."
 
 r:"^Phys\\s+dmg\\s+to\\s+(\\d+)\\s+foe\\s*\\((\\d+)\\s+hits\\)\\.\\s+Without\\s+Rebound,\\s+spend\\s+HP\\s+to\\s+increase\\s+dmg\\s+and\\s+crit\\s+rate\\.$"="Daño físico a $1 enemigo ($2 golpes).\nSin Rebote, gasta PS para aumentar el daño y la probabilidad crítica."
 
 r:"^Restore\\s+party's\\s+HP\\s*\\((\\d+\\.?\\d*)%\\s+Atk\\s+\\+\\s+(\\d+)\\)\\.$"="Restaura los PS del grupo ($1% ATQ + $2)."
 r:"^Ice\\s+dmg\\s+to\\s+(\\d+)\\s+foe\\s*\\((\\d+\\.?\\d*)%+\\s+Atk\\)\\.$"="Daño de Hielo a $1 enemigo ($2% ATQ)."
 r:"^Grant\s+shield\s+to\s+(\d+)\s+ally\s+\((\d+\.?\d*)%\s+Atk\s+\+\s+(\d+)\)\.\s+(\d+\.?\d*)%\s+chance\s+to\s+inflict\s+Freeze\s+on\s+foes\s+that\s+deal\s+shield\s+damage\s+\((\d+)\s+turns\)\.$"="Otorga escudo a $1 aliado ($2% ATQ + $3).\n$4% de probabilidad de infligir Congelación a los enemigos que causan daño al escudo (durante $5 turnos)."
-r:"^Increase\s+Electric\s+dmg\s+by\s+(\d+\.?\d*)%\.$"="Aumenta el daño eléctrico en un $1%."
+r:"^Increase\s+Electric\s+dmg\s+by\s+(\d+\.?\d*)%\.$"="Aumenta el daño Eléctrico en un $1%."
 r:"^Increase\s+party's\s+dmg\s+by\s+(\\d+\\.?\\d*)%\\s+\\((\\d+)\\s+turns\\)\\.$"="Aumenta el daño del grupo en un $1% ($2 turnos)."
 r:"^Increase\s+ailment\s+accuracy\s+(\d+)%\.\s+After\s+using\s+skill\s+on\s+self,\s+increase\s+Atk\s+(\d+)%\s+\((\d+)\s+turn\)\.$"="Aumenta la precisión de estados alterados en un $1%. Tras usar una habilidad en uno mismo, aumenta el ATQ en un $2% ($3 turno)."
 r:"^Increase\s+user's\s+next\s+magic\s+dmg\s+(\d+\.?\d*)%\s+\((\d+)\s+turn\)\.$"="Aumenta el próximo daño mágico del usuario en un $1% ($2 turno)."
@@ -555,7 +556,7 @@ r:"^Decrease\s+Defense\s+by\s+(\d+)%\.\s+Stacks\s+up\s+to\s+(\d+)\s+times\\.$"="
 r:"^Restore\\s+HP\\s+to\\s+party\\s*\\((\\d+\\.?\\d*)%\\s+Atk\\s+\\+\\s+(\\d+)\\)\\.\\s+Cure\\s+(\\d+)\\s+elemental\\s+ailment\\.$"="Restaura PS al grupo ($1% ATQ + $2).\nCura $3 dolencia elemental."
 r:"^Restore\\s+party's\\s+HP\\s*\\((\\d+\\.?\\d*)\\s+Atk\\s+\\+\\s+(\\d+)\\)\\.\\s+Decrease\\s+party's\\s+dmg\\s+taken\\s+(\\d+\\.?\\d*)%\\s*\\((\\d+)\\s+turns\\)\\.$"="Restaura los PS del grupo ($1% ATK + $2). Reduce el daño recibido por el grupo en un $3% ($4 turnos)."
 r:"^Bless\\s+dmg\\s+to\\s+all\\s+foes\\s*\\((\\d+\\.?\\d*)%\\s+Atk\\)\\.\\s+If\\s+main\\s+target's\\s+HP\\s+is\\s+below\\s+(\\d+)%,\\s+chance\\s+to\\s+insta-kill\\.$"="Daño de Bendición a todos los enemigos ($1% ATQ). Si el PS del objetivo principal está por debajo del $2%, hay posibilidad de muerte instantánea."
-r:"^Elec\\s+dmg\\s+to\\s+all\\s+foes\\s*\\((\\d+\\.?\\d*)%\\s+Atk\\)\\.\\s+(\\d+\\.?\\d*)%\\s+chance\\s+to\\s+inflict\\s+Shock\\.$"="Daño eléctrico a todos los enemigos ($1% ATQ). $2% de probabilidad de infligir Electrocución."
+r:"^Elec\\s+dmg\\s+to\\s+all\\s+foes\\s*\\((\\d+\\.?\\d*)%\\s+Atk\\)\\.\\s+(\\d+\\.?\\d*)%\\s+chance\\s+to\\s+inflict\\s+Shock\\.$"="Daño Eléctrico a todos los enemigos ($1% ATQ). $2% de probabilidad de infligir Electrocución."
 r:"^Restore\\s+party's\\s+HP\\s+\\((\\d+\\.?\\d*)%\\s+Atk\\s+\\+\\s+(\\d+)\\)\\.\\s+If\\s+ally's\\s+HP\\s+is\\s+below\\s+(\\d+)%,\\s+increase\\s+healing\\s+(\\d+)%\\.\\s+Restore\\s+(\\d+)\\s+SP\\s+to\\s+party\\.$"="Restaura los PS del grupo ($1% ATQ + $2). Si el PS de un aliado está por debajo del $3%, aumenta la curación en un $4%. Restaura $5 PE al grupo."
 r:"^(\\d+\\.?\\d*)%\\s+chance\\s+to\\s+inflict\\s+Dizzy\\s+on\\s+all\\s
 r:"^Phys\\s+dmg\\s+to\\s+(\\d+)\\s+foe\\s+\\((\\d+\\.?\\d*)%\\s+Atk\\)\\.\\s*(\\d+\\.?\\d*)%\\s+chance\\s+to\\s+inflict\\s+Forget\\s+\\((\\d+)\\s+turns\\)\\.$"="Daño físico a $1 enemigo ($2% ATQ).\\n$3% de probabilidad de aplicar Olvido ($4 turnos)."
@@ -576,7 +577,7 @@ r:"^Increase\\s+party's\\s+crit\\s+rate\\s+(\\d+\\.?\\d*)%\\s+\\+\\s+(\\d+\\.?\\
 r:"^Decrease\\s+(\\d+)\\s+foe's\\s+Atk\\s+(\\d+\\.?\\d*)%\\s+\\((\\d+)\\s+turns\\)\\.$"="Disminuye el ATQ de $1 enemigo un $2% ($3 turnos)."
 r:"^Decrease\\s+all\\s+foes'\\s+Def\\s+(\\d+\\.?\\d*)%\\s+\\((\\d+)\\s+turns\\)\\.$"="Reduce la DEF de todos los enemigos un $1% ($2 turnos)."
 r:"^Fire\\s+dmg\\s+to\\s+(\\d+)\\s+foe\\s+\\((\\d+\\.?\\d*)%\\s+Atk\\)\\.\\s*(\\d+\\.?\\d*)%\\s+chance\\s+to\\s+inflict\\s+{{A}}\\.$"="Daño de Fuego a $1 enemigo ($2% ATQ). $3% Probabilidad de infligir {{A}}."
-r:"^Elec\\s+dmg\\s+to\\s+(\\d+)\\s+foe\\s+\\((\\d+\\.?\\d*)%\\s+Atk\\)\\.\\s*(\\d+\\.?\\d*)%\\s+chance\\s+to\\s+inflict\\s+Shock\\s+\\((\\d+)\\s+turns\\)\\.$"="Daño eléctrico a $1 enemigo ($2% Ataque). $3% Probabilidad de infligir Electrocución ($4 turnos)."
+r:"^Elec\\s+dmg\\s+to\\s+(\\d+)\\s+foe\\s+\\((\\d+\\.?\\d*)%\\s+Atk\\)\\.\\s*(\\d+\\.?\\d*)%\\s+chance\\s+to\\s+inflict\\s+Shock\\s+\\((\\d+)\\s+turns\\)\\.$"="Daño Eléctrico a $1 enemigo ($2% Ataque). $3% Probabilidad de infligir Electrocución ($4 turnos)."
 r:"^Phys\\s+dmg\\s+to\\s+all\\s+foes\\s+\\((\\d+\\.?\\d*)%\\s+Atk\\)\\.\\s*(\\d+\\.?\\d*)%\\s+chance\\s+to\\s+inflict\\s+Dizzy\\s+\\((\\d+)\\s+turns\\)\\.$"="Daño físico a todos los enemigos ($1% de daño). $2% de probabilidad de infligir Mareo ($3 turnos)."
 
 r:"^Increase\\s+all\\s+foes'\\s+Curse\\s+dmg\\s+taken\\s+(\\d+\\.?\\d*)%\\s+\\+\\s+(\\d+\\.?\\d*)%\\s+for\\s+every\\s+(\\d+)%\\s+of\\s+user's\\s+ailment\\s+accuracy\\s+\\(max\\s+(\\d+)%,\\s+(\\d+)\\s+turns\\)\\.\\s+When\\s+foe's\\s+HP\\s+is\\s+below\\s+(\\d+)%,\\s+chance\\s+to\\s+insta-kill\\.$"="Aumenta un $1% + $2% el daño recibido por Maldición por cada $3% de precisión de la Maldición del usuario (máx. $4%, $5 turnos). Cuando los PS del enemigo son inferiores al $6%, probabilidad de muerte instantánea."
@@ -585,7 +586,7 @@ r:"^Curse\\s+dmg\\s+to\\s+all\\s+foes\\s+\\((\\d+\\.?\\d*)%%\\s+Atk\\)\\s+and\\s
 
 r:"^Ice\\s+dmg\\s+to\\s+all\\s+foes\\s+\\((\\d+\\.?\\d*)%%\\s+Atk\\)\\s+and\\s+increase\\s+dmg\\s+taken\\s+(\\d+\\.?\\d*)%\\s+\\((\\d+)\\s+turns\\)\\.$"="Inflige daño de Hielo a todos los enemigos ($1% ATQ) y aumenta el daño recibido un $2% ($3 turnos)."
 
-r:"^Elec\\s+dmg\\s+to\\s+all\\s+foes\\s+\\((\\d+\\.?\\d*)%%\\s+Atk\\)\\.$"="Daño eléctrico a todos los enemigos ($1%% ATQ)."
+r:"^Elec\\s+dmg\\s+to\\s+all\\s+foes\\s+\\((\\d+\\.?\\d*)%%\\s+Atk\\)\\.$"="Daño Eléctrico a todos los enemigos ($1%% ATQ)."
 
 r:"^Increase\\s+Attack\\s+by\\s+(\\d+\\.?\\d*)%\\.\\s+After\\s+an\\s+ally\\s+uses\\s+a\\s+skill,\\s+increase\\s+their\\s+critical\\s+rate\\s+by\\s+(\\d+\\.?\\d*)%\\s+for\\s+(\\d+)\\s+turn\\.$"="Aumenta el ataque un $1%. Después de que un aliado use una habilidad, aumenta su probabilidad de críticos un $2% durante $3 turno."
 
@@ -669,7 +670,7 @@ r:"Increase healing ([\d.]+)%\. After healing with skill, increase target's ailm
 
 r:"Increase party's Atk ([\d.]+)% \+ ([\d.]+)% per (\d+) of user's Atk \(max (\d+)%, (\d+) turns\)\.\\nGrant Purifying Flames to main target\.\\nPurifying Flames: When dealing skill dmg, ([\d.]+)% chance to inflict Burn on 1 random foe\."="Aumenta el ATQ del equipo en un $1% + $2% por cada $3 de ATQ del usuario (máx. $4%, $5 turnos).\nOtorga Llamas Purificadoras al objetivo principal.\nLlamas Purificadoras: Al infligir daño de habilidad, $6% de probabilidad de infligir Quemadura a 1 enemigo aleatorio."
 
-r:"Phys\s+dmg\s+to\s+all\s+foes\s+\(([\d\.]+)%\s+Atk\)\."="Daño físico a todos los enemigos ($1% de ATQ)."
+r:"^Phys dmg to all foes \(([\d\.]+)% Atk\)\.$"="Daño físico a todos los enemigos ($1% ATQ)."
 
 r:"Phys\s+dmg\s+to\s+all\s+foes\s+\(([\d\.]+)%\s+Atk\)\.\s+Increase\s+dmg\s+(\d+)%\s+per\s+debuff\s+on\s+foes\s+\(up\s+to\s+(\d+)\)\.\s+Sleep\s+counts\s+as\s+(\d+)\s+debuffs\."="Daño físico a todos los enemigos ($1% de ATQ). Aumenta el daño un $2% por cada debuff en los enemigos (hasta $3). Sueño cuenta como $4 debuffs."
 
@@ -699,3 +700,8 @@ r:"Gun dmg to (\d+) foe \(([\d.]+)% Atk\)\. Increase this skill's crit rate (\d+
 
 r:"Gun dmg to all foes \(([\d.]+)% Atk, (\d+) hits\)\. If foe is Marked, increase dmg ([\d.]+)% and crit dmg ([\d.]+)%\."="Daño de Arma a Distancia a todos los enemigos ($1% ATQ, $2 golpes).\nSi el enemigo está marcado, aumenta el daño en un $3% y el daño crítico en un $4%."
 
+r:"^Increase max HP ([\d\.]+)%\. After healing, restore HP to target \(([\d\.]+)% Atk, (\d+) turns\)\.$"="Aumenta los PS máximos un $1%. Después de curar, restaura PS al objetivo ($2% ATQ, $3 turnos)."
+
+r:"^Fire dmg to 1 foe \(([\d\.]+)%% Atk\)\.$"="Daño de Fuego a 1 enemigo ($1% ATQ)."
+
+r:"^Fire dmg to 1 foe \(([\d\.]+)% Atk, (\d+) hits\), and inflict Ascetic Ordeals \((\d+) turns\)\.\\nAscetic Ordeals: Increase critl dmg taken (\d+)% per 1 hit of Fire dmg taken \((\d+) turns, max (\d+) stacks\)\.$"="Daño de Fuego a 1 enemigo ($1% ATQ, $2 golpes) e inflige Tribulaciones Ascéticas ($3 turnos).\nTribulaciones Ascéticas: aumenta el daño crítico recibido un $4% por cada golpe de daño de Fuego recibido ($5 turnos, máx. $6 acumulaciones)."

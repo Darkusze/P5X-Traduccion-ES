@@ -1,0 +1,256 @@
+﻿The necessary resources have not been downloaded. Do you want to download them now? (Resources: Met by Moonlight: Luminous Island. This will take a few minutes to complete.)=Los recursos necesarios no se han descargado. ¿Quieres descargarlos ahora? (Recursos: Encontrado por la Luz de la Luna: Isla Luminosa. Esto tomará unos minutos en completarse.)
+{{A}}-kun! Glad you're here!=¡{{A}}‑kun! Me alegra que estés aquí!
+I'd like you to take care of things in the\nkitchen, same as always. I know I can trust\nyou'll do a great job!=Me gustaría que te encargues de la cocina, como siempre. Sé que puedo confiar en que harás un gran trabajo.
+I helped out in the kitchen...=Ayudé en la cocina...
+Great work as usual! Here's your pay for\ntoday.=¡Excelente trabajo como siempre! Aquí tienes tu paga de hoy.
+The rest of the staff are really grateful\nfor your help out front too!=¡El resto del personal está realmente agradecido por tu ayuda al frente también!
+It looks as though your hard work is being noticed,\ncreating synergy in the workplace.=Parece que se está notando tu arduo trabajo, lo que genera sinergia en el lugar de trabajo.
+A message from the admin\nof HWO=Un mensaje del administrador de HWO
+This is a message from\nthe admin of Harvest\nWorld Online.=Este es un mensaje del administrador de Harvest World Online.
+There is currently an outbreak\nof potato moles! For those\nof you with farms, be careful.=¡Actualmente hay un brote de topos de la patata! Tengan cuidado los que tengan granjas.
+Looks like there's a pest\nproblem on the farmland...=Parece que hay un problema de plagas\nen las tierras de cultivo...
+If I log on now, Yui probably\nwon't be there, though...=Si me conecto ahora\nYui probablemente no estará\nallí, aunque...
+That said, saving our plot\nfrom pests would surely\nstrengthen my bond with Yui...=Dicho esto, salvar nuestro huerto de\nlas plagas sin duda reforzaría\nmi vínculo con Yui...
+Only the Plasma Blade Shard can be used as material.=Solo el Fragmento de Filo de Plasma se puede usar como material.
+Flames of Desire activates when the allies in your party and Wonder's Persona share the same Attribute.=Llamas del Deseo se activa cuando los aliados de tu equipo y la Persona de Wonder comparten el mismo atributo.
+Wind Returns=Regreso de Wind
+Tend to the farm=Cuidar la granja
+You don't have Akechi=No tienes a Akechi
+Akechi ♦K=Akechi ♦K
+Apology for May 21 Maintenance Issues=Disculpa por los problemas de mantenimiento del 21 de mayo
+Receive from operations team mail.=Recibe el correo del equipo de operaciones.
+Wow...! We won! We really won!=¡Guau...! ¡Ganamos! ¡De verdad ganamos!
+T-They're down!?\nW-What do I do...?=¡¿E-Están derribados?! ¿Q-Qué hago...?
+They're down! Follow it up!=¡Están derribados! ¡Sigue así!
+I sense treasure! Should we look around?=¡Siento un tesoro! ¿Deberíamos buscar alrededor?
+Let's show 'em what we've got!=¡Mostremosles lo que tenemos!
+This one looks like trouble...\nThink we can take it?=Este parece problemático... ¿Crees que podemos con él?
+Let's keep up the good work!=¡Sigamos con el buen trabajo!
+Hehe, what's the matter?\nFeeling hung over?=Jeje, ¿qué pasa? ¿Estás con resaca?
+Let's dance!=¡Bailemos!
+I'll take the wheel any time!=¡Yo tomo el volante en cualquier momento!
+This is a bad situation... Let's approach this calmly and make a plan.=Esta es una mala situación... Vamos a abordarla con calma y elaborar un plan.
+Commencing... exploration!=¡Iniciando... exploración!
+A Safe Room! Time for a pit stop.=¡Una habitación segura! Es hora de una parada técnica.
+A safe room... Nice, let's take a rest.=Una habitación segura... Qué bien, vamos a descansar.
+We're in a bit of a bind\nhere... Let's try to push\nthrough!=¡Estamos en un aprieto!... ¡Hay que abrirse paso a como dé lugar!
+A treasure chest! Oooh...\nI'm so excited...!=¡Un cofre de tesoro! ¡Ooooh!\n¡Qué emoción...!
+An enemy. Stay alert everyone.=Un enemigo. Estén atentos, todos.
+There's an enemy. Be careful.=Hay un enemigo. Tengan cuidado.
+Wonder what's inside...=Me pregunto qué habrá dentro...
+Ooh, that looks pretty good!=¡Uuh, eso se ve bastante bien!
+Ooh! What do you think's inside?=¡Uuh! ¿Qué crees que hay dentro?
+They look pretty tough...\nBest keep our wits about us.=Se ven bastante fuertes... Mejor mantenernos alerta.
+Oh, we're there already? We made good time!=¿Oh, ya llegamos? ¡Hicimos buen tiempo!
+Man, I'm beat. Let's take a break.=Uff, estoy agotada. Tomemos un descanso
+Ally down! We can't let the\nenemies get the upper hand!=¡Aliado caído! ¡No podemos dejar que los enemigos tomen la ventaja!
+Ah... It's getting a bit tough...=Ah... Se está poniendo un poco difícil...
+Hey, let me see!=¡Hey, déjame ver!
+Let's begin the investigation.=Comencemos la investigación.
+It's a safe room! C'mon,\nlet's go, let's go!=¡Es una habitación segura! ¡Vamos, vamos!
+We made it! Err... What do we\ndo next?=¡Lo logramos! Este... ¿qué hacemos ahora?
+Let's just take a deep\nbreath! In... and out...!=¡Solo respiremos hondo! ¡Inhalen... y exhalen...!
+Everyone, let's do what we\ncan to protect Wonder!=¡Todos, hagamos lo que podamos para proteger a Wonder!
+Here we are. So, where next?=Aquí estamos. Entonces, ¿hacia dónde ahora?
+Time to start the show.=Es hora de iniciar el espectáculo.
+Combat Gear=Equipo de combate
+A<color\=#000000>t</color>tack Down=A<color\=#000000>t</color>aque Bajo
+M<color\=#ff0000ff>a</color>koto Yuki & Shun=M<color\=#ff0000ff>a</color>koto Yuki y Shun
+M<color\=#000000>a</color>tarunda=M<color\=#000000>a</color>tarunda
+D<color\=#000000>e</color>ep Wounds=H<color\=#000000>e</color>ridas Profunda
+T<color\=#000000>u</color>ndra's Eminence=E<color\=#000000>m</color>inencia de la Tundra
+C<color\=#000000>a</color>ll of the Deep=L<color\=#000000>l</color>amado de lo Profundo
+H<color\=#000000>a</color>llowed Fragment=F<color\=#000000>r</color>agmento Sagrado
+C<color\=#000000>o</color>mrade's Protection=P<color\=#000000>r</color>otección del Camarada
+W<color\=#000000>a</color>rrior's Way=E<color\=#000000>l</color> Camino del Guerrero
+S<color\=#000000>c</color>rewdriver=D<color\=#000000>e</color>sarmador
+B<color\=#000000>l</color>oody Mary=B<color\=#000000>l</color>oody Mary
+A<color\=#000000>s</color>cetic Ordeals=T<color\=#000000>r</color>ibulaciones Ascéticas
+T<color\=#000000>h</color>reefold Transcendence=T<color\=#000000>r</color>ascendencia Triple
+F<color\=#000000>i</color>nal Damage Down=R<color\=#000000>e</color>ducción de Daño Final
+Zaou-Gongen's Seal=Sello de Zaou-Gongen
+Order of Balance=Orden del Equilibrio
+Obeyed Order of Balance...=Orden del Equilibrio Obedecida
+Lose fixed amount of HP each turn.=Pierde una cantidad fija de PS cada turno.
+Gained extra action!=¡Acción extra obtenida!
+Aww... What a shame.=Ay... Qué lástima.
+I should restore peace to the farm before Yui returns.=Debería restablecer la paz en la granja antes de que vuelva Yui.
+Are you going to log on to\nHarvest World Online?=¿Vas a iniciar sesión en Harvest World Online?
+That friend of yours does not appear to be\nonline today...=Esa amiga tuyo no parece estar en línea hoy.
+Regardless of whether you meet or not, that\nplot of land is what keeps you connected in\nmore ways than you think.=Independientemente de si se encuentran o no, ese terreno es lo que los mantiene conectados en más formas de las que crees.
+I decided to log on and\ncheck on our land.=Decidí conectarme y ver\ncómo estaba nuestro terreno.
+Yui wasn't online\nafter all...=Yui no estaba en línea después de todo...
+I dealt with the potato moles\nswiftly by myself. Looks like\nthe damage wasn't too bad.=Me encargué de los topos\nde papa rápidamente yo solo. Parece que\nel daño no fue tan grave.
+I'll have to defend our\nfields like this until Yui\ncomes back...=Tendré que defender nuestros\ncampos así hasta que Yui\nregrese...
+Ooh, sorry. The right answer is any kind of\ntriangle.=Ah, lo siento. La respuesta correcta es cualquier tipo de triángulo.
+It seemed pretty intuitive to me, but I guess\nit's math jargon.=Me pareció bastante intuitivo, pero supongo que es jerga matemática.
+The Piled-High★Pancakes, then... Wait just\na moment.=Los Panqueques★Amontonados, entonces... Espera un momento.
+Sorry for the wait... Here are your\nPiled-High★Pancakes.=Disculpa la espera... Aquí tienes tus Pancakes Apilados★.
+It's, um... p-piled high with... all of my\nfeelings for you, Master!=Es, eh... a-a-pilado alto con... todos mis sentimientos por ti, Maestro!
+The soup base plays a pretty important role\nwhen it comes to ramen.=El caldo juega un papel bastante importante cuando se trata de ramen.
+Even a small adjustment can completely change\nyour impression of the flavor.=Incluso un pequeño ajuste puede cambiar por completo tu impresión del sabor.
+You don't seem too interested...=No pareces muy interesado...
+Oh, it's {{A}}. I'm not the only one\ndoing the talking here, get me?=Ah, es {{A}}. No soy el único que habla aquí, ¿me entiendes?
+Makoto started asking me about ramen, so I\nwanted to lay down the basics...=Makoto empezó a preguntarme sobre el ramen, así que quería explicarle lo básico...
+That's right. I was the once who started it.=Así es. Yo fui quien empezó esto.
+Shun's knowledge has been pretty helpful\nso far.=El conocimiento de Shun ha sido bastante útil hasta ahora.
+Oh, really? In that case, let me tell you\nabout some of the other types of noodles\nout there...=¿Ah, sí? En ese caso, déjame contarte sobre algunos de los otros tipos de fideos que existen...
+My recent recommendation has got to be...=Mi recomendación reciente tiene que ser...
+Hmm... I see.=Hmm... ya veo.
+They both seem to be\nenjoying themselves...=Ambos parecen estar divirtiéndose...
+Ah... {{A}}. We meet again.=Ah... {{A}}. Nos volvemos a encontrar.
+Recently, I took on the "Big Eater Challenge"\nat Wilduck Burger...=Hace poco, acepté el "Reto del Glotón"\nen Wilduck Burger...
+It felt like I was fighting for my life...=Sentía que estaba luchando por mi vida...
+Why don't you give it a try if you get a\nchance? It never hurts to learn\nyour limits...=¿Por qué no lo intentas si tienes la oportunidad? Nunca está de más conocer tus límites...
+...Hello there.=...Hola.
+So you're here too, {{A}}... This really\nis a strange place, isn't it?=Así que también estás aquí, {{A}}... Realmente este es un lugar extraño, ¿no?
+I'm pretty curious about it... Maybe my face isn't expressing that very well, though.=Tengo bastante curiosidad al respecto... Quizá mi cara no lo exprese muy bien, sin embargo.
+You do not have enough Special Exchange Ticket to purchase this product.=No tienes suficientes Ticket de Intercambio Especial para comprar este producto.
+Baal Zebul can't move!=¡Baal Zebul no puede moverse!
+Weapons with the same star level can be used as material.=Las armas con el mismo nivel de estrellas pueden usarse como material.
+Bond of Swordsmanship=Vínculo de la esgrima
+Shoot the Moon=Dispara a la Luna
+Trial by Fire=Prueba de Fuego
+About Lufel's "Business" Plan EX=Acerca del Plan "Business" de Lufel EX
+Activate Inferno of Nothingness based on number of stacks.=Activa Infierno de la Nada según el número de acumulaciones.
+Moon Phase Bonus Skill Multiplier=Multiplicador de Habilidad de Bonificación de Fase Lunar
+Full Moon Skill Multiplier=Multiplicador de Habilidad Luna Llena
+Moon Phase Skill Multiplier=Multiplicador de Habilidad de Fase Lunar
+Cadenza: Dmg Increase=Cadenza: Aumento de Daño
+Cadenza: Atk Increase=Cadenza: Aumento de Ataque
+Ardhanari: Skill Multiplier=Ardhanari: Multiplicador de Habilidad
+Each time damage is dealt with a skill, increase the user's Fire damage by 3%. This effect lasts 3 turns and stacks up to 8 times. When at 8 stacks, also increase user's critical rate by 6%.=Cada vez que se inflija daño con una habilidad, aumenta el daño de Fuego del usuario en un 3%. Este efecto dura 3 turnos y se acumula hasta 8 veces. Al llegar a 8 acumulaciones, también aumenta la probabilidad de crítico del usuario en un 6%.
+At the start of battle, if the user is the 3rd/4th ally in the turn order, increase Attack by 24%/30%.=Al inicio de la batalla, si el usuario es el tercer/cuarto aliado en el orden de turnos, aumenta el Ataque en un 24%/30%.
+Prudence: Sky=Prudencia: Cielo
+Prudence: Star=Prudencia: Estrella
+Prudence: Moon=Prudencia: Luna
+Prudence: Sun=Prudencia: Sol
+Resolve & Prudence=Determinación y Prudencia
+Clear 1 red Stella and 2 purple Stellae during the season with a Willpower cap of 17, or clear 1 red Stella and 3 purple Stellae during the season with a Willpower cap of 21.=Completa 1 Estrella roja y 2 Estrellas moradas durante la temporada con un límite de fuerza de voluntad de 17, o completa 1 Estrella roja y 3 Estrellas moradas durante la temporada con un límite de fuerza de voluntad de 21.
+Looks like a treasure chest here. Should we open it?=Parece que hay un cofre del tesoro aquí. ¿Deberíamos abrirlo?
+I'm glad it was something good.=Me alegra que haya sido algo bueno.
+Met by Moonlight: Luminous Island Ending Soon=Encontrado bajo la luz de la luna: Isla Luminosa termina pronto
+Clear The Masks We Wear: Final Phase to unlock=Completa Las Máscaras que Vestimos: Fase final para desbloquear
+Wind up with a role in the play for the school festival. =Termina consiguiendo un papel en la obra del festival escolar. 
+Do you want to spend these items to refresh tasks?\n(Limited tasks and in-progress tasks won't be refreshed.)=¿Quieres gastar estos objetos para refrescar las tareas? (Las tareas limitadas y las que están en progreso no se refrescarán.)
+Check your messages=Revisa tus mensajes
+Head to a New Location=Dirígete a una nueva ubicación
+Hah, not even close. Just guessing? The\nanswer is exercise to train the body and\nmind.=Ja, ni cerca. ¿Solo estabas adivinando? La respuesta es hacer ejercicio para entrenar el cuerpo y la mente.
+Woof! Woof! Hooray! Nice weather, huh? It's\nanother perfect day here in Shibuya!=¡Guau! ¡Guau! ¡Hurra! Buen clima, ¿eh? ¡Es otro día perfecto aquí en Shibuya!
+All right, for getting every single question\nright, you've earned a reward! Here, you\ndeserve this!=¡Muy bien, por responder correctamente cada una de las preguntas, te has ganado una recompensa! ¡Toma, te desmerces esto!
+Until next time, then! Woof! Woof! Hooray!=¡Hasta la próxima, entonces! ¡Guau! ¡Guau! ¡Hurra!
+2303420(textId) error=2303420(textId) error
+2303067(textId) error=2303067(textId) error
+2303452(textId) error=2303452(textId) error
+2303466(textId) error=2303466(textId) error
+2303283(textId) error=2303283(textId) error
+2303382(textId) error=2303382(textId) error
+Comrade's Protection=Protección del camarada
+Kageuchi=Kageuchi
+Zangetsu Flash=Zangetsu Destello
+意识·新岛真 X1=Conciencia: Makoto Niijima x1
+The chosen one will surely\nmake the most of it.=El elegido seguramente le sacará el máximo provecho.
+The Moon=La Luna
+Exorcising Flames=Llamas Exorcistas
+Threefold Blessings=Triple Bendición
+Threefold Blessings I=Triple Bendición I
+Threefold Blessings II=Triple Bendición II
+Maragidyne Lv.7=Maragidyne Lv.7
+Heritage Kitchen is pretty busy today. I could go help out...=Heritage Kitchen está bastante ocupado hoy. Podría ir a ayudar...
+Am I glad to see you! We could really use\nyour help right now.=¡Qué alegría verte! De verdad nos vendría bien tu ayuda en este momento.
+We're packed with customers today, so it's\na bit hectic...=Estamos llenos de clientes hoy, así que está un poco caótico...
+I'll focus on the kitchen, so I'll leave\nall the customer orders to you.=Me encargaré de la cocina, así que dejaré todos los pedidos de los clientes a tu cargo.
+I made the rounds in\nthe crowded shop...=Di las vueltas por\nla tienda abarrotada...
+
+Y<color\=#ff0000ff>u</color>kari Takeba & Motoha Arai=Y<color\=#ff0000ff>u</color>kari Takeba y Motoha Arai
+...And for foundation, it's better to blend\nit in with a sponge, like this.=...Y para la base de maquillaje, es mejor difuminarla con una esponja, justo así.
+Wait, really!? I had no idea...!=¡¿En serio?! ¡No tenía la menor idea...!
+Foundation...?=¿Base de maquillaje...?
+Ah, Kamisiro-kun.=Ah, Kamisiro-kun.
+Hey there! We were just getting in some\ngirl talk, is all.=¡Hola! Solo estábamos en una charla de chicas, eso es todo.
+I was giving Motoha some makeup suggestions.\nAlso, some easy application techniques\nand the like.=Le estaba dando a Motoha algunos consejos de maquillaje, además de técnicas de aplicación sencillas y cosas por el estilo.
+Yukari's so stylish and on point with her\nmakeup, so it got me pumped to try my\nbest, too!=¡Yukari tiene tanto estilo y su maquillaje es tan impecable que me dieron muchísimas ganas de esforzarme a mí también!
+Are you on a diet or anything like that?\nOr maybe a special workout plan?=¿Estás a dieta o algo parecido? ¿O tal vez sigues una rutina especial de ejercicio?
+I don't do anything special really. Besides,\nyour style is really cute, Motoha.=En realidad no hago nada del otro mundo. Además, tu estilo es muy lindo, Motoha.
+Hey, is there anything you tend to focus\non, Kamisiro?=Oye, ¿y hay algo en lo que tú suelas enfocarte, Kamisiro?
+Aahaha, me too! Tasty food is definitely\nimportant!=¡Ajajaja, yo también! ¡Comer algo sabroso es definitivamente muy importante!
+I'll be more careful, too.=Yo también tendré más cuidado.
+Hey, wanna go grab a bit together? I have\ntons more I want to ask you!=Oye, ¿vamos a comer algo juntas? ¡Tengo un montón de cosas más que quiero preguntarte!
+Heck yeah! Food trio is a go!=¡Claro que sí! ¡El trío de la comida se pone en marcha!
+Hmm... I guess so? Maybe I worry too much. Oh\nwell, being healthy is the most important\nthing, that's for sure.=Mmm... ¿supongo que sí? Tal vez me preocupo de más. En fin, estar sano es lo más importante, ¡de eso no hay duda!
+Besides, if you burn off what you eat, it all\nworks out!=Además, si quemas todo lo que te comes, ¡al final no pasa nada!
+Getting good rest and eating well.=Descansar de forma adecuada y comer bien.
+My health, I guess?=¿Mi salud, supongo?
+Ehehe, thanks! Hmm... What I usually do is...=¡Jeje, gracias! Mmm... Lo que suelo hacer es...
+Sounds good to me! Wanna come, Kamisiro-kun?=¡Por mí suena genial! ¿Quieres venir con nosotros, Kamisiro-kun?
+*sigh* All this talk about food is making me\nhungry...!=*suspira* ¡Tanto hablar de comida ya me abrió el apetito...!
+Motoha, Yukari and I had a\nlively discussion about\nbeauty and diets...=Motoha, Yukari y yo tuvimos\nuna conversación muy animada sobre\nla belleza y las dietas...
+Y<color\=#ff0000ff>u</color>kari Takeba & Riko Tanemura=Y<color\=#ff0000ff>u</color>kari Takeba y Riko Tanemura
+I bought some sweets from this shop before.\nI remember them being quite delicious.=Ya he comprado dulces en esta tienda antes. Recuerdo que eran deliciosos.
+Ah, I've had them before, too. They're\npretty good.=Ah, yo también los he probado antes. Son muy buenos.
+Hehe, are you perhaps a fan of sweets,\nTakeba-san?=Jeje, ¿por si acaso eres fan de los dulces, Takeba-san?
+Hmm... I wouldn't say I'm a huge fan. I do\nlike strawberry daifuku, though.=Mmm... No diría que soy una gran fan. Aunque me gusta mucho el daifuku de fresa.
+I just love how it looks. And it just\nhas to be pink!=¡Me encanta cómo se ve! ¡Y a la fuerza tiene que ser de color rosa!
+Pink strawberry daifuku... Very cute. It fits\nyou perfectly, Takeba-san.=Daifuku de fresa rosa... Qué lindo. Va perfecto contigo, Takeba-san.
+Huh...!? Wh-What do you mean by that!?=¡¿Eh...?! ¡¿A-A qué te refieres con eso?!
+A-Anyway, do you have any favorite sweets,\nTanemura-san?=C-Como sea... ¿tienes algún dulce favorito, Tanemura-san?
+Hm, let me think...=Mmm, déjame pensar...
+Now I want strawberry daifuku.=Ahora se me antojó un daifuku de fresa.
+I like sweets too.=<size\=28>A mí también me gustan los dulces.</size>
+Ahaha, you too, Kamisiro-kun?=¡Ajajaja! ¿Tú también, Kamisiro-kun?
+Very well. Perhaps I'll treat the both of you\nto one of my favorites next time.=Muy bien. Quizás la próxima vez les invite a los dos uno de mis favoritos.
+Wait, for real? You don't have to go\nthat far...=Espera, ¿en serio? No tienes que molestarte tanto...
+It's no trouble at all. Sharing things that\nyou like with friends makes for even\nmore fun.=No es ninguna molestia. Compartir las cosas que te gustan con tus amigos lo hace todavía más divertido.
+I'll bring my top pick, too.=Yo también traeré mi dulce preferido.
+What if we all brought something?=¿Y si cada quien trae algo diferente?
+Ah, nice idea. I'll bring my favorite sweets\ntoo. That'd only be fair, right?=¡Ah, buena idea! Yo también traeré mis dulces favoritos. Es lo justo, ¿no?
+Hehe, I suppose so... Maybe we can invite\neveryone else to share as well.=Jeje, supongo que sí... Tal vez podamos invitar a los demás para que también compartan.
+Ah, that sounds perfect! The more the merrier\nwith these kinds of things.=¡Ah, suena perfecto! Entre más seamos, mejor la pasaremos con este tipo de cosas.
+Time to rally the crew.=Es hora de reunir al grupo.
+Nagisa, let's go and talk to everyone\nright now.=Nagisa, vamos a hablar con todos ahora mismo.
+I'll check everyone's plans on our side, too!=¡Yo revisaré los planes de los demás por nuestro lado!
+A sweets party it is.=<size\=28>¡Que comience la fiesta de dulces!</size>
+I get the feeling that this\nsweets party will turn out\nto be something special...!=¡Tengo el presentimiento de que esta\nfiesta de dulces va a terminar siendo\nalgo muy especial...!
+
+Ah, {{A}}-kun! Hey, do you want to hang\nout for a little today?=¡Ah, {{A}}-kun! Oye, ¿quieres pasar el rato un poco hoy?
+I found out where one of the former\nShichi-kuns might be!=¡Descubrí dónde podría estar uno de los antiguos Shichi-kuns!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

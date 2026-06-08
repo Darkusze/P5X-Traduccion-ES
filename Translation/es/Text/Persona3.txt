@@ -697,7 +697,7 @@ r:"^Clear Barbaric Beast Wheel on difficulty ([0-9]+)$"="Derrota la Rueda de Bes
 #Objetos
 Twilight Fragment=Fragmentos Crepusculares
 
-r:"^(.+?)'s Dream Fragment$"="Fragmento de Sueño de $1"
+{{A}}'s Dream Fragment=Fragmento de Sueño de {{A}}
 Dream Fragment=Fragmento de Sueño
 Obtained from Tartarus. Can be used to unlock {{A}}'s side story.=Obtenido del Tártaro.\nSe puede utilizar para desbloquear la historia secundaria de {{A}}.
 
@@ -716,6 +716,52 @@ Awarded for playing Met by Moonlight: Luminous Island.=Otorgada por participar e
 
 Tartarus: Arbiter=Tártaro: Árbitro
 The highest floor you've reached during Tartarus exploration will be recorded.=Se registrará el piso más alto que hayas alcanzado durante la exploración del Tártaro.
+
++-Morepe Paulownia--+ 
+Forgive the sudden message. A\nplace where strong desires\ngather appears to have opened.=Disculpa el mensaje repentino. Parece que\nse ha abierto un lugar donde se reúnen\nlos deseos más intensos.
+How do I get there?=¿Cómo llego ahí?
+I believe you may already be\naware of its location.=Creo que ya debes de estar\nal tanto de su ubicación.
+Please make your way there at\nyour earliest convenience.=Por favor, dirígete ahí en cuanto tengas oportunidad.
+Many unforeseen encounters\nand experiences await you.=Te aguardan muchos encuentros\ny experiencias imprevistas.
+Whether it be for rewards or\nfor further training...=Ya sea para obtener recompensas o\npara entrenar más a fondo...
+I look forward to seeing how\nyou leverage this opportunity.=Espero con interés ver cómo\naprovechas esta oportunidad.
+I shall await your arrival\non the moonlit island.=Te esperaré\nen la isla iluminada por la luna.
+Go to Paulownia Mall=Ir al Centro Comercial Paulownia
+Head to <color\=#ff3b37>Port Island</color>.=Dirígete a <color=#ff3b37>Isla del Puerto</color>.
+Select <color\=#ff3b37>Paulownia Mall</color>.=Selecciona <color=#ff3b37>Centro Comercial Paulownia</color>.
+I received a message from\nMerope to come here...=Recibí un mensaje de Merope pidiéndome venir aquí...
+This looks like Paulownia\nMall...=Esto se parece al Centro Comercial Paulownia...
+You have my deepest gratitude for meeting on\nsuch short notice.=Tiene mi más profundo agradecimiento por reunirse conmigo con tan poca antelación.
+How are we here right now...?=¿Cómo es que estamos aquí ahora mismo...?
+This is a world born from your cognition...=Este es un mundo nacido a partir de tu propia cognición...
+However, I am not at liberty to disclose the\ndetails of such a process.=Sin embargo, no tengo permitido revelar los detalles de dicho proceso.
+This is indeed the Paulownia Mall that you\nonce visited, but it is not the Paulownia\nMall of reality.=Este es, en efecto, el Paulownia Mall que visitaste alguna vez, pero no es el complejo real.
+It is a world given form by your thoughts and\nmemories.=Es un mundo que cobró forma a través de tus pensamientos y recuerdos.
+Pardon my boldness, but I took the\nliberty of surveying the area, and have made\nsome observations.=Disculpe mi atrevimiento, pero me tomé la libertad de inspeccionar la zona y he hecho algunas observaciones.
+Most notably is that you may shop and work\nhere in the same manner as in reality.=Lo más destacable es que aquí puedes comprar y trabajar de la misma manera que en el mundo real.
+Furthermore, it would seem that other humans\nare present here, as well. It may prove\nbeneficial to liaise with them.=Además, parece que también hay otros humanos presentes aquí. Podría resultar muy beneficioso interactuar con ellos.
+Thanks for the recommendation.=Gracias por la recomendación.
+I'll give it a shot, thanks.=Le echaré un vistazo, gracias.
+Hehe. I have but performed the duty befitting\nme as your concierge.=Jeje. Solo he cumplido con el deber que me corresponde como tu conserje.
+If your cognition were to expand, it may\nbecome possible for you to visit areas beyond\nhere as well.=Si tu cognición se expandiera, también sería posible que visitaras otras áreas más allá de este lugar.
+Please know that there is no nobler\nundertaking than striving to expand the mind.=Por favor, ten en cuenta que no hay empresa más noble que esforzarse por expandir la mente.
+And with that, I must be off.=Y con esto dicho, debo retirarme.
+Time to make like a tree!=¡Aquí corrió una loba!
+I had been informed that this was a friendly\nway to say farewell. Is there something\nstrange about it?=Me habían informado que mencionar a un lobo era una forma amistosa de despedirse. ¿Acaso tiene algo de extraño?
+Merope left with a puzzled\nlook on her face...=Merope se marchó con una\nxpresión de total desconcierto\nen el rostro...
+Anyway, let's take a look\naround Paulownia Mall...!=En fin, ¡vamos a echar un vistazo\nal Centro Comercial Paulownia!
+
++--Lugares y Acciones --+
+P3 RELOAD=P3 RELOAD
+Chagall Café=Café Chagall
+Aohige Pharmacy=Farmacia Aohige
+METRO=METRO
+MALL=CENTRO COMERCIAL
+Paulownia Mall=Centro comercial Paulownia
+SELECT MAP=SELECCIONAR MAPA
+TOWNMAP=MAPA DE LA CIUDAD
+Daytime=Día
+Entering Tartarus=Entrando al Tártaro
 
 
 #UI
@@ -794,7 +840,6 @@ r:"^([0-9]+) - ([0-9]+)F$"="$1 - $2F"
 r:"^Tartarus Floor ([0-9]+)$"="Tártaro - Piso $1"
 Tartarus Floor %s=Tártaro - Piso %s
 r:"^Current Location: Tartarus Floor (\d+)\nDo you want to save your current progress and return to the Tartarus entrance\?$"="Ubicación actual: Tártaro - Piso $1\n¿Quieres guardar tu progreso actual y regresar a la entrada del Tártaro?"
-You do not have enough Soul Fragments to unlock this. Find more by exploring Tartarus.=No tienes suficientes Fragmentos de Alma para desbloquear esto. Encuentra más explorando el Tártaro.
 Core Antiques=Antigüedades de Shinshoudo
 
 r:"^Enemy Strength: +([0-9]+)$"="Fuerza del Enemigo: +$1"
@@ -1319,7 +1364,6 @@ Infiltrate Tartarus=Infiltrarse al Tártaro
 
 Tartarus: Team=Tártaro: Equipo
 Obtain: {{A}}=Obtener a: {{A}}
-Obtain: Yumi Shiina=Obtener a: Yumi Shiina
 
 #Mirar
 r:"^Do you want to spend ([0-9]+) Soul Fragments to unlock this teammate in Tartarus?$"="¿Quieres usar $1 Fragmentos de Alma para desbloquear este aliado en el Tártaro?"
@@ -1394,19 +1438,8 @@ Bronze Dice=Dado de Bronce
 Dancing Hand=Mano Bailarina
 Grand Magus=Gran Mago
 Magical Magus=Mago Mágico
-Conviction Sword=Espada de Convicción
-Wild Beast=Bestia Salvaje
-Enslaved Beast=Bestia Esclavizada
-Adamant Beetle=Escarabajo Adamantio
-
-Musha's Gathering=Reunión de Musha
-Ghastly Wail=Aullido Espantoso
-Kaiden Musha=Kaiden Musha
-Musha=Musha
-1. When Kaiden Musha uses certain skills, it gains Warrior's Way, and spends Warrior's Way to strengthen Zangetsu Flash.\nWarrior's Way: Increase Shadow's Attack by 10%, critical rate by 5%, and final damage taken by 3% per stack. Stacks up to 5 times.\n2. At the start of battle, Kaiden Musha uses Musha's Gathering to summon Musha. While Musha are present, Kaiden Musha's final damage taken is decreased.\n3. At the end of a Musha's turn, Kaiden Musha has a 50% chance to gain 1 Warrior's Way stack. If it doesn't, the Musha will enter Counter Form for 1 turn. If it is attacked while in this form, it will counterattack, dealing Physical damage, and grant 1 Warrior's Way stack to Kaiden Musha.\n4. At the start of the second phase, Kaiden Musha enters State of Carnage, doubling its rate of gaining Warrior's Way. At 5 Warrior's Way stacks, its final damage taken increases by 25% more.=1. Cuando Kaiden Musha usa ciertas habilidades, obtiene El Camino del Guerrero y consume El Camino del Guerrero para potenciar Destello de Zangetsu.\nEl Camino del Guerrero: Aumenta el Ataque de la Sombra en un 10%, la probabilidad de crítico en un 5% y el daño final recibido en un 3% por acumulación. Se acumula hasta 5 veces.\n2. Al inicio de la batalla, Kaiden Musha usa Reunión de Musha para invocar a Musha. Mientras haya Musha presentes, el daño final recibido de Kaiden Musha disminuye.\n3. Al final del turno de un Musha, Kaiden Musha tiene un 50% de probabilidad de ganar 1 acumulación de El Camino del Guerrero. Si no lo hace, el Musha entrará en Forma de contraataque durante 1 turno. Si es atacado mientras está en esta forma, contraatacará, infligiendo daño Físico, y otorgará 1 acumulación de El Camino del Guerrero a Kaiden Musha.\n4. Al inicio de la segunda fase, Kaiden Musha entra en Estado de carnicería, duplicando su velocidad para ganar El Camino del Guerrero. Con 5 acumulaciones de El Camino del Guerrero, su daño final recibido aumenta en un 25% más.
-
 Stasis Giant=Gigante de Estasis
-1. At the start of battle, Stasis Giant will summon 2 Conviction Swords. Stasis Giant will buff summoned Shadows, allowing them to use additional skills.\n2. At the start of the second phase, all Conviction Swords present will be destroyed, and 4 new Conviction Swords will be summoned.\n3. At the start of the turn, when the number of Conviction Swords destroyed reaches 2 or more for the first time, World Balance will be summoned. World Balance's damage taken is increased by 40%, and Stasis Giant is in the Soul Link state. World Balance will continuously summon Conviction Sword every odd-numbered turn.=1. Al inicio de la batalla, el Gigante del éxtasis invocará 2 Espadas de la convicción. El Gigante del éxtasis potenciará a las Sombras invocadas, permitiéndoles usar habilidades adicionales.\n2. Al inicio de la batalla, el Gigante del éxtasis invocará 2 Espadas de la convicción. El Gigante del éxtasis potenciará a las Sombras invocadas, permitiéndoles usar habilidades adicionales.\n3. Al inicio del turno, cuando el número de Espadas de la convicción destruidas llegue a 2 o más por primera vez, se invocará el Equilibrio del Mundo. El daño recibido del Equilibrio del Mundo aumenta en un 40% y el Gigante del éxtasis entra en estado de Enlace de alma. El Equilibrio del Mundo invocará continuamente una Espada de la convicción cada turno impar.
+Conviction Sword=Espada de Convicción
 
 Avenger Knight=Caballero Vengador
 1. Avenger Knight will continuously summon Shadows, and grants Steel Pride. For every 1 Steel Pride stack, Defense increases by 5%.\n2. Avenger Knight and summoned Shadows gain 1 Steel Pride at the end of their turn.\n3. When a summoned Shadow is defeated, all Steel Pride stacks from that Shadow are removed.\n4. Avenger Knight will spend Steel Pride granted to Shadows to enhance the effect of Condemnation of Pride.=1. El Caballero Vengador invocara Sombras continuamente y les otorgara Orgullo de Acero. Por cada acumulación de Orgullo de Acero, incrementa la Defensa en 5%.\n2. El Caballero Vengador y las Sombras invocadas obtienen 1 Orgullo de Acero al terminar su turno.\n3. Cuando una Sombra invocada es derrotada, todas las acumulaciones de Orgullo de Acero de esa Sombra son eliminadas.\n4. El Caballero Vengador usará los Orgullos de Acero otorgados a las Sombras para mejorar los efectos de Condenación del Orgullo.
@@ -1470,7 +1503,10 @@ Changed to Ice Form...=Cambiado a Forma de Hielo...
 I<color\=#000000>c</color>e Form=F<color\=#000000>o</color>rma de Hielo
 When defeated, remove all Warrior's Way stacks from Hakurou Musha.=Cuando es derrotado, elimina todas las acumulaciones de Camino del Guerrero de Hakurou Musha.
 
-
+Musha's Gathering=Reunión de Musha
+Ghastly Wail=Aullido Espantoso
+Kaiden Musha=Kaiden Musha
+Musha=Musha
 C<color\=#000000>o</color>unter Form=F<color\=#000000>o</color>rma de Contraataque
 S<color\=#000000>t</color>ate of Carnage=E<color\=#000000>s</color>tado de Carnicería
 B<color\=#000000>a</color>rrier Form=F<color\=#000000>o</color>rma de Barrera
@@ -1498,8 +1534,7 @@ r:"^Gain ([0-9]+)-([0-9]+) Soul Fragments\.$"="Obtienes $1-$2 Fragmentos de Alma
 r:"^Gain ([0-9]+)-([0-9]+) Clock Gears\.$"="Obtienes $1-$2 Engranajes de Reloj."
 Go closer=Acercarse
 r:"^Gain ([0-9]+)-([0-9]+) Tarnished Silver Coins\.$"="Obtienes $1-$2 Monedas de Plata Deslustradas."
-r:"Gain (\d+) Tarnished Gold Coin\."="Obtén $1 Moneda de Oro Deslustrada."
-Enter=Entrar
+Enter=Entrar en
 Receive nothing.=No recibir nada.
 
 Great Clock=Gran Reloj
@@ -1558,7 +1593,6 @@ If you have any, please send them my way!\nI'll give you this stone in return.=S
 I have loads.=Tengo montones.
 r:"^Spend ([0-9]+) Clock Gears to gain ([0-9]+) Dawn Fragments\.$"="Gastar $1 Engranajes de Reloj para obtener $2 Fragmentos del Amanecer."
 Music to my ears! Thank you so very much!=¡Música para mis oidos! ¡Muchas gracias, de verdad!
-Thank you so much, you saved me!=¡Muchas gracias, me salvaste!
 I have quite a few.=Tengo unos cuantos.
 I have some.=Tengo algunos.
 r:"^Spend ([0-9]+) Clock Gears to gain ([0-9]+) Dawn Fragment\.$"="Gastar $1 Engranajes de Reloj para obtener $2 Fragmento del Amanecer."
@@ -1599,7 +1633,6 @@ r:"^Spend ([0-9]+) Major Arcana card\. ([0-9]+)% chance to gain ([0-9]+) Major A
 Yeah... I really could do with my mom's cream\nstew right now...=Sí... Realmente me vendría bien el guiso de crema de mi madre ahora mismo...
 You should talk to your friends.=Deberías hablar con tus amigos.
 r:"^Spend ([0-9]+) Major Arcana card, and gain ([0-9]+) random Major Arcana card\.$"="Gasta $1 carta de Arcana Mayor, para ganar $2 carta de Arcana Mayor al azar."
-Well, I am supposed to go shopping with my\nfriends tomorrow...=Bueno, se supone que debo ir de compras con mis amigos mañana...
 You can't give up on yourself.=No puedes rendirte en ti mismo.
 r:"^([0-9]+)% chance to gain ([0-9]+) random Major Arcana card\.$"="$1% de ganar $2 carta de Arcana Mayor al azar."
 As if I don't already know that! A little\nunderstanding would really go a long way, you\nknow...=¡Como si no supiera eso ya!\nUn poco de comprensión realmente ayudaría mucho, ¿sabes?
@@ -1624,7 +1657,6 @@ I'm feeling curry.=Tengo ganas de curry.
 r:"^Gain ([0-9]+)-([0-9]+) rare Minor Arcana Swords cards\.$"="Gana $1-$2 cartas raras de Espadas del Arcano Menor."
 What about ramen?=¿Qué tal ramen?
 r:"^Gain ([0-9]+)-([0-9]+) Minor Arcana Swords cards\.$"="Gana $1-$2 cartas de Espadas del Arcano Menor."
-In the mood for noodles, huh. What should I\ndo for the broth?=Con antojo de fideos, ¿eh? ¿Qué debería hacer para el caldo?
 
 Sad Girl=Chica Triste
 He loves me, he loves me not... Loves me...\nLoves me not...=Él me ama, él no me ama...\nMe ama...\nNo me ama...
@@ -2612,8 +2644,6 @@ They don't work well together?=¿No trabajan bien juntos?
 I wouldn't go that far. I think it's just a\nmatter of improving their coordination.=No iria tan lejos como eso.\nCreo que es solo cuestión de mejorar su coordinación.
 I think we could all stand to get stronger.=Creo que a todos nos vendría bien fortalecernos.
 
-#C2
-Everything okay?=¿Todo bien?
 ...Sorry.=...Lo siento.
 I wouldn't want you to get involved, so I\ncan't say much, but...=No me gustaría que te involucraras, así que no puedo decir mucho, pero...
 Do you remember how Yukari was wary of you\nthe first time we met?=¿Recuerdas cómo Yukari desconfiaba de ti la primera vez que nos conocimos?

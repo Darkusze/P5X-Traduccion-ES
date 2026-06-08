@@ -1,16 +1,11 @@
 ++--------Ramdon--------+
-Meta Jewels=Meta Jewels
 Party=Equipo
 Wonder=Wonder
 Workbench=Mesa de Trabajo
-Lv=Nv
-LV=NV
 Closer=Closer
 Cattle=Cattle
-Resets after =Reinicia antes 
 Ends in =Termina en 
 Time Left: =Tiempo Restante: 
-Clear=Completa
 ++--------Nombres de personajes--------+
 Ren Amamiya=Ren Amamiya
 Morgana=Morgana
@@ -29,7 +24,7 @@ Ruferu=Ruferu
 Motoha Arai=Motoha Arai
 Motoha=Motoha
 Arai=Arai
-Shun Kanou=Shun Kanou
+Shun Kano=Shun Kano
 Kayo Tomiyama=Kayo Tomiyama
 Tomoko Noge=Tomoko Noge
 Kiyoshi Kurotani=Kiyoshi Kurotani
@@ -59,6 +54,29 @@ Kira Kitazato=Kira Kitazato
 Masaki Ashiya=Masaki Ashiya
 Mayumi Hashimoto=Mayumi Hashimoto
 Mio Natsukawa=Mio Natsukawa
+Shoki Ikenami=Shoki Ikenami
+Aran Hirano=Aran Hirano
+Miyuu Sahara=Miyuu Sahara
+Reo Kamiyama=Reo Kamiyama
+Moko Tanisawa=Moko Tanisawa
+Chizuko Nagao=Chizuko Nagao
+Ayaka Sakai=Ayaka Sakai
+Hiyori Koide=Hiyori Koide
+Yuzuru Haigamine=Yuzuru Haigamine
+Airi Fujieda=Airi Fujieda
+Kei Akashi=Kei Akashi
+Ichigo Shikano=Ichigo Shikano
+Sumire Yoshizawa=Sumire Yoshizawa
+Makoto Yuki=Makoto Yuki
+Yukari Takeba=Yukari Takeba
+Junpei Iori=Junpei Iori
+Mitsuru Kirijo=Mitsuru Kirijo
+Fuuka Yamagishi=Fuuka Yamagishi
+Akihiko Sanada=Akihiko Sanada
+Leo Kamiyama=Leo Kamiyama
+Yui=Yui
+Lufel=Lufel
+Yumi Shiina=Yumi Shiina
 
 ++--------Nombres de Persona--------+
 
@@ -214,14 +232,6 @@ Nebiros=Nebiros
 Oberon=Oberon
 
 ++--------Efectos Kits--------+
-Critical Rate=Probabilidad crítica
-Critical Damage=Daño crítico
-SP Regen=Regeneración de PE
-Combat Skills=Habilidades de combate
-Curse Mult. +=Mult. de maldición +
-Attack Mult. +=Mult. de ataque +
-Psy Mult. +=Mult. de Psicoquinesis +
-Total Mult. +=Mult. total +
 Maragion=Maragion
 Maragi=Maragi
 Agidyne=Agidyne
@@ -342,4 +352,9 @@ Sunflower=Girasol
 Manage Visitors=Gestionar 
 Training Sets=Sets de entrenamiento
 
-++--------Nombre Protagonista------+
+++---Nombre Protagonista por Defecto----+
+Nagisa=Nagisa
+Kamisiro=Kamisiro
+Nagisa Kamisiro=Nagisa Kamisiro
+
+++---Nombre Protagonista Personalizado---+

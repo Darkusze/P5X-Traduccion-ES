@@ -1,4 +1,4 @@
-﻿fps=FPS
+fps=FPS
 Logging in=Iniciar sesión
 Unable to connect to server due to connection error or maintenance.=No se puede conectar al servidor debido al error de conexión o al mantenimiento.
 Traces of Dreams=Rastros de sueños
@@ -8,13 +8,8 @@ Rewards=<size\=24>Recompensas</size>
 Palace Progress=Progreso del palacio
 Wonder will gain the attributes of his equipped Personas.=Wonder obtendrá los atributos de sus personajes equipados.
 HP=PS
-T=T
 Attack=Ataque
 Main Stadium Entrance=Entrada del estadio principal
-h=h
-t=T
-a=a
-A=A
 Exhibition Hall=Salón de exposiciones
 Training Hall=Sala de entrenamiento
 Get=Conseguir
@@ -23,16 +18,23 @@ Rewards: =<size\=21>Recompensas: </size>
 Sennight Inferno=Infierno de una Semana
 Southern Rooftop=Azotea del Sur
 {{A}} Palace=Palacio {{A}}
+T=T
 K=K
+h=h
+t=t
+a=a
+A=A
 s=s
 i=i
 g=g
 E=E
 M=M
 N=N
-MANSION HOUSE=MANSION HOUSE
+F=F
 m=m
 r=r
+z=z
+U=U
 o=o
 R=R
 e=e
@@ -42,9 +44,23 @@ k=k
 u=u
 j=j
 l=l
-f=F
+f=f
 S=S
 L=L
+V=V
+C=C
+X=X
+p=p
+d=d
+w=w
+G=G
+Z=Z
+x=x
+P=P
+D=D
+W=W
+b=b
+MANSION HOUSE=MANSION HOUSE
 Do you want to leave the Palace and return to the city?=¿Quieres salir del palacio y regresar a la ciudad?
 Full Recovery=Recuperación Total
 Let's stay focused!=¡Mantengámonos enfocados!
@@ -65,7 +81,6 @@ Craft=Fabricar
 Unlock Items=Desbloquear elementos
 Unlocks at Palace Progress XXX=Desbloqueos en Palace Progress XXX
 Thief Level=Nivel de ladrón
-C=C
 N/A=N/A
 Mementos=Mementos
 VIP Service=Servicio VIP
@@ -79,7 +94,6 @@ Oni=Oni
 Fusible=Fusionable
 {{A}}'s Seal=Sello de {{A}}
 Schema Points=Puntos de esquema
-X=X
 Persona Compendium=Compendio de Persona
 <color\=#FFD145>Function Description</color>\nYou can check the detailed information of all Personas in the Persona Compendium.\nYou can view specific acquisition methods, profiles, tags, growth parameters, and more.\nTap on How to Get to move to the location.\n\n<color\=#FFD145>Persona Record</color>\nWhen you acquire a Persona, it will be recorded in the Persona Compendium.\nOnce a Persona is recorded, you will earn schema points.=<color\=#FFD145>Descripción de la función</color>\nPuedes consultar la información detallada de todas las Personas en el Compendio de Persona.\nPuedes ver métodos de adquisición específicos, perfiles, etiquetas, parámetros de crecimiento y más.\nToca “Cómo obtener” para ir a la ubicación.\n\n<color\=#FFD145>Registro de Persona</color>\nCuando adquieras una Persona, se registrará en el Compendio de Persona.\nUna vez registrada, obtendrás puntos de esquema.
 Available=Disponible
@@ -106,7 +120,6 @@ Current Star Level: =Nivel de estrella actual:
 Palace Entrance=Entrada del Palacio
 Can Get=Se puede obtener
 Regular Shadow=Sombra regular
-V=V
 LLet's carefully explore {{A}} Palace to ensure the plan goes off without a hitch.=Exploremos cuidadosamente el Palacio {{A}} para garantizar que el plan salga sin contratiempos.
 I should talk to the others about going to Mementos.=Debería hablar con los demás sobre ir a Mementos.
 Shibuya  Central Street=Calle Central de Shibuya
@@ -167,9 +180,6 @@ Search=Buscar
 Coming Soon=Próximamente
 Tap screen to return.=Toca la pantalla para regresar.
 Notifications=Notificaciones
-p=p
-d=d
-w=w
 Okay! I've set the trap, just like\n{{A}}-sama ordered.=¡Listo!\nHe colocado la trampa, tal como ordenó {{A}}-sama.
 Protagonist's Level=Nivel del protagonista
 Totally lame...\nLet's finish up quick, okay?=Qué patético...\nTerminemos rápido, ¿vale?
@@ -308,7 +318,6 @@ Purchase Limited=Compra limitada
 Left: =Restantes:
 Tell ya what, sweet pea—I'll toss in a li'l somethin' extra,\nno matter which you buy!=Te diré algo, cariño—te daré un pequeño extra,\nsin importar cuál compres.
 Your end-of-season rewards will be sent to your inbox.=Tus recompensas de fin de temporada se enviarán a tu bandeja de entrada.
-G=G
 Purchasable from Lv.20=Disponible desde el nivel 20
 Quantity=Cantidad
 Claim Tomorrow=Reclamar mañana
@@ -387,7 +396,6 @@ Exhibition Hall 1F=Sala de exhibición 1F
 It's locked? How annoying!=¿Está cerrado?\n¡Qué molesto!
 It's locked...=Está cerrado...
 It's locked. Let's\ncome back later.=Está bloqueado.\nVolvamos más tarde.
-b=b
 Station Square=Plaza de la estación
 The Supply Set restocks every Monday.\nTry to complete daily Pass goals each week!=El conjunto de suministros se repone cada lunes.\nIntenta completar los objetivos diarios del pase cada semana.
 I got it!\nLet's get\nsushi today!=¡Lo tengo!\n¡Vamos por sushi hoy!
@@ -429,8 +437,6 @@ Press and hold an icon to view details.=Mantén presionado un ícono para ver lo
 Selected Set=Conjunto seleccionado
 Purchase Tier: =Nivel de compra:
 Used Items: =Objetos usados:
-D=D
-W=W
 TONS OF KONPAKU GEMS=Toneladas de gemas Konpaku
 Pursuit of Treasure=Búsqueda del tesoro
 Pursuit of Honor VIII=Búsqueda del honor VIII
@@ -501,7 +507,6 @@ Maximum level=Nivel máximo
 Base Status=Estado base
 Floor=Piso
 Daily Bonus Rewards Left: =Recompensas diarias restantes:
-P=P
 Weapon not held.=Arma no equipada
 Forge Level=Nivel de forja
 Overclock Level=Nivel de sobrecarga
@@ -790,7 +795,6 @@ Weapons with the same name can be used as materials.=Las armas con el mismo nomb
 Gain Beat when using support skills. At 4 stacks, activate Resonance to use Pulsating Rhythm, granting buffs to party.=Obtén Ritmo al usar habilidades de apoyo.\nCon 4 acumulaciones, activa Resonancia para usar Ritmo Pulsante y otorgar mejoras al grupo.
 SKILL MATERIAL=Material de habilidad
 S-Spare, um... change?=¿R-Repuesto, eh... cambio?
-x=x
 Spare change?=¿Tienes cambio?
 Hi.=Hola.
 I-I'm collecting... donations... to help cats... But um...=Estoy recolectando... donaciones... para ayudar a los gatos... pero eh...
@@ -800,7 +804,6 @@ Milicoin Set=Set de Milimonedas
 Platinum Set=Set de platino
 Marthym's Rewards Card=Tarjeta de recompensas de Marthym
 Newcomer Pass=Pase de recién llegado
-Resets after  1 d=Se reinicia después de 1 día
 Daily Gift=Regalo diario
 Whiff of Iris=Aroma de iris
 Platinum Ticket=Boleto de platino
@@ -813,10 +816,8 @@ Limited 4★ Weapon Case=Estuche de arma 4★ limitado
 Phantom Thief Gift=Regalo de Ladrón Fantasma
 Monthly Platinum Set=Set mensual de platino
 Monthly Limited=Limitado mensual
-Resets after  31 d=Se reinicia después de 31 días
 Monthly Milicoin Set=Set mensual de Milimonedas
 Coffee Aid Set=Set de ayuda de café
-Resets after  22 h 28 min=Se reinicia después de 22 h 28 min
 Make sure you haven't gotten anything mixed up now!=¡Asegúrate de no haber confundido nada!
 X1=X1
 I could work at the flower shop in Shibuya...=Podría trabajar en la florería de Shibuya...
@@ -872,11 +873,8 @@ Onion Seeds=Semillas de cebolla
 Tomato Seeds=Semillas de tomate
 [Sunflower]\nCan be crafted at the workbench into Sunflower Seeds and gifted to an accomplice.=[Girasol] Se puede elaborar en la mesa de trabajo como semillas de girasol y regalar a un cómplice.
 [Tomato]\nUsed as an ingredient when cooking in your home kitchen.=[Tomate] Se usa como ingrediente al cocinar en tu cocina.
-Z=Z
 Mom's flowers are growing over\nthe side of the wall...=Las flores de mamá están creciendo por el costado del muro...
 This is a rare one...!\nDid your desire bring about this good luck...?=Este es raro...!\n¿Tu deseo provocó esta buena suerte...?
-z=z
-U=U
 Umibozu=Umibozu
 Kitsune no Yomeiri=Kitsune no Yomeiri
 Hitotsume Kozo=Hitotsume Kozo
@@ -1034,7 +1032,7 @@ Let's get paid and return home.=Cobramos y volvamos a casa.
 You cannot do any more activities.\nWould you like to go home and rest?=No puedes realizar más actividades.\n¿Quieres ir a casa y descansar?
 I want to\ngo on a trip.=Quiero irme de viaje.
 If you don't have a book to read, why not\ntry meditation? It can help you clear your\nmind, and you'll find it has many benefits.=Si no tienes un libro para leer, ¿por qué no pruebas la meditación?\nPuede ayudarte a despejar la mente y tiene muchos beneficios.
-I quietly reflected on the\nqualities in people I admire.=Reflexioné en silencio sobre las cualidades de las personas que admiro.
+I quietly reflected on the\nqualities in people I admire.=Reflexioné en silencio sobre las\ncualidades que admiro en las personas.
 Howdy! Today, we're covering "The Tales of\nIse." Specifically one man's journey long,\nlong ago to the east!=¡Hola! Hoy veremos "Los cuentos de Ise".\nEspecíficamente, el viaje de un hombre hacia el este, hace mucho tiempo.
 Basically, he left Kyoto because he saw\nhimself as an "eunakimono." In Old English,\nthat'd be something like "cumber-world."=Básicamente, dejó Kioto porque se veía a sí mismo como un "eunakimono".\nEn inglés antiguo, sería algo como "cumber-world".
 Any idea what that word would mean in\nmore modern terms? How about...\nNagisa Kamisiro-kun!=¿Alguna idea de lo que significaría esa palabra en términos modernos?\n¿Qué tal... Nagisa Kamisiro-kun?
@@ -1524,12 +1522,9 @@ Psy Mult. +=Mult. de Psicoquinesis +
 Rebellious Spirit=Espíritu rebelde
 Adrenaline=Adrenalina
 Ailment Resist.=Resist. a dolencias
-{{A}}.3={{A}}.3
 Ailment Acc.=Precisión de dolencias
 Deal Psy damage equal to <color\=#FFFC40>63.8%</color> of Attack to all foes, and gain 2 <link\="s|131"><u>Greenleaf</u></link> stacks.\n<b><size\=28><color\=#850101>A stirring melody drives listeners wild, dealing Psychokinesis damage to enemies.</color></size></b>=Inflige daño psíquico igual al <color\=#FFFC40>63.8%</color> del ATK a todos los enemigos y gana 2 acumulaciones de <link\="s|131"><u>Hoja Verde</u></link>.\n<b><size\=28><color\=#850101>Una melodía conmovedora enloquece a los oyentes, infligiendo daño de Psicoquinesis a los enemigos.</color></size></b>
 Deal Psy damage equal to <color\=#FFFC40>67.5%</color> of Attack to all foes, and gain 2 <link\="s|131"><u>Greenleaf</u></link> stacks.\n<b><size\=28><color\=#850101>A stirring melody drives listeners wild, dealing Psychokinesis damage to enemies.</color></size></b>=Inflige daño psíquico igual al <color\=#FFFC40>67.5%</color> del ATK a todos los enemigos y gana 2 acumulaciones de <link\="s|131"><u>Hoja Verde</u></link>.\n<b><size\=28><color\=#850101>Una melodía conmovedora enloquece a los oyentes, infligiendo daño de Psicoquinesis a los enemigos.</color></size></b>
-{{A}}.3= {{A}}.3
-Accuracy=Precisión
 Deal Physical damage to 1 foe equal to <color\=#FFFC40>45.1%</color> of Attack (3 times). When Ryuji doesn't have <link\="s|130"><u>Rebound</u></link>, spend 20% of max HP to increase damage dealt by 30% and increase critical rate by 30%.\n<b><size\=28><color\=#850101>A shockwave slams into enemies like a pincer from a pirate fleet, dealing Physical damage.</color></size></b>=Inflige daño físico a 1 enemigo igual al <color\=#FFFC40>45.1%</color> de ataque (3 veces).\nCuando Ryuji no tiene <link\="s|130"><u>Rebote</u></link>, gasta el 20% del PS máximo para aumentar el daño infligido en un 30% y la probabilidad crítica en un 30%.\n<b><size\=28><color\=#850101>Una onda de choque golpea a los enemigos como una pinza de una flota pirata, infligiendo daño físico.</color></size></b>
 Highlight Dmg Increase=Aumento de daño de Highlight
 HP Up=Mejora de PS
@@ -2209,9 +2204,7 @@ I Love Treasure=Amo el tesoro
 Overflowing Curiosity=Curiosidad desbordante
 Étrangère=Étrangère
 Chosen One=Elegido
-Resets after  20 h 47 min=Se reinicia después de 20 h 47 min
 {{A}}.32={{A}}.32
-Resets after  28 d=Se reinicia después de 28 días
 Hero of Justice=Héroe de la justicia
 Serra Vrumm=Serra Vrumm
 HI=HOLA
@@ -3305,8 +3298,6 @@ Daunting Firepower=Potencia de Fuego Abrumadora
 You can now quick travel to the\n<color\=#FF423F>Club 1F: Back Room</color>.=Ahora puedes viajar rápidamente al\n<color\=#FF423F>Club 1F: Sala trasera</color>.
 hancement Rush=Fiebre de mejora
 On 2025-07-07, during the event Enhancement Rush, you did not claim the Coffee Aid*1 goal reward. It has been delivered to you via this message.=El 2025-07-07, durante el evento Fiebre de mejora, no reclamaste la recompensa del objetivo Ayuda de Café*1.\nSe te ha entregado a través de este mensaje.
-Resets after  24 d=Se restablece después de 24 d
-Resets after  18 h 45 min=Se restablece después de 18 h 45 min
 2 {{A}}=2 {{A}}
 1 {{A}}=1 {{A}}
 {{A}}.38={{A}}.38
@@ -3396,7 +3387,6 @@ Favorite Pre-Match Book=Libro Favorito Antes del Partido
 Clumsy Swordwielder=Espadachín Torpe
 Forest Sage=Sabio del bosque
 Thieves=Ladrones
-{{A}} has joined the Phantom Thieves={{A}} se ha unido a los Ladrones Fantasma
 This content is currently under development and may be subject to changes upon release.=Este contenido está actualmente en desarrollo y puede estar sujeto a cambios al momento de su lanzamiento.
 When dealing dmg with skill, chance to gain 1 Right to Strike and increase Atk and Speed for 2 {{A}}. Stacks up to 3 times.=Al infligir daño con una habilidad, hay posibilidad de obtener 1 Derecho a Atacar y aumentar ATQ y velocidad por 2 {{A}}.\nSe acumula hasta 3 veces.
 Do you want to open this with the <color\=#ffff76>Lockpick</color>?\n(Spend: 1 / Held: 3)=¿Quieres abrir esto con la <color\=#ffff76>ganzúa</color>?\n(Gastar: 1 / En posesión: 3)
@@ -3444,7 +3434,6 @@ No Companio=Sin Companio
 Decent=Decente
 Bumbling was changed to Decent=Torpe se cambió a Decente
 Fairly Proficient=Bastante competente
-Resets after  23 d=Se restablece después de 23 d
 Start Bonus Event Rewards=Iniciar recompensas de evento de bonificación
 Casual=Casual
 Gray Denim Pants=Pantalones de mezclilla gris
@@ -5933,7 +5922,7 @@ Should we withdraw?=¿Deberíamos retirarnos?
 I'd really like to, but our way out is blocked!=Me encantaría, pero la salida está bloqueada.
 Ngh! We'll have to fight our way out.=¡Ngh!\nTendremos que abrirnos paso luchando.
 I'll deal with the Shadows behind us. You cut your way through!=Yo me encargo de las Sombras de atrás.\n¡Tú sigue abriéndote camino!
-{{A}}!={{A}}!
+{{A}}!=¡{{A}}!
 Follow my lead!=¡Sigue mi ejemplo!
 -{{B}}!\n-{{A}}!=-{{B}}!\n-{{A}}!
 Resist it...=Resístelo...
@@ -6314,7 +6303,7 @@ Oh, there's another post on Divine Justice...=Oh, hay otra publicación en Justi
 "Menace Condemned... the Subway Slammer?"="Amenaza condenada... ¿El Embestidor de las Vías?"
 Huh?=¿Eh?
 Ngn!=¡Ngn!
-{{A}}!?={{A}}!?
+{{A}}!?=¡¿{{A}}?!
 Tomoko!=¡Tomoko!
 It wasn't on purpose. That's not my fault.=No fue intencional...\n¡No fue mi culpa!
 Tomoko! Please, answer me!=¡Tomoko!\n¡Por favor, contéstame!
@@ -7163,7 +7152,6 @@ You'll never be alone again... I just need to complete one last mission.=Nunca v
 Wow! To think that stoic agent would take that young girl under his wing...=¡Vaya! Pensar que ese agente estoico tomaría a esa jovencita bajo su protección...
 Though in a way, I feel as though she helped him as much as he helped her.=Aunque, en cierto modo, siento que ella lo ayudó tanto como él a ella.
 The bond that formed between the agent and the girl touched my heart...=El vínculo que se formó entre el agente y la niña conmovió mi corazón...
-Haruna Nishimori has joined the Phantom Thieves=Haruna Nishimori se ha unido a los Ladrones Fantasma
 Oh man. Realizing now I should've gone in\nwith more of a plan. Sorry...=Oh vaya.\nAhora me doy cuenta de que debí haber tenido un plan.\nLo siento...
 Oh, you know I hear Jinbocho's famous for its\ncurry. Let's take a break for a bite!=Oh, dicen que Jinbocho es famoso por su curry.\nTomemos un descanso para comer algo.
 {{A}} and I enjoyed\nour fill of curry.={{A}} y yo disfrutamos de nuestro curry.
@@ -7233,10 +7221,8 @@ Why hasn't he\nbeen arrested?=¿Por qué no lo han arrestado?
 He's not here,\nis he?=No está aquí, ¿verdad?
 No one's here...=No hay nadie aquí...
 Animation under Development=Animación en desarrollo
-Leo Kamiyama has joined the Phantom Thieves=Leo Kamiyama se ha unido a los Ladrones Fantasma
 Completing {{A}}'s synergy story will provide a better play experience=Completar la historia de sinergia de {{A}} proporcionará una mejor experiencia de juego
 ok=OK
-{{A}} Kano has joined the Phantom Thieves={{A}} Kano se ha unido a los Ladrones Fantasma
 Infiltrate {{A}} Palace=Infiltra el palacio de {{A}}
 Path of Qimranut Area 2=Camino del área 2 de Qimranut
 Heroes assemble! Let's move out!=¡Los héroes se reúnen!\n¡En marcha!
@@ -7496,7 +7482,7 @@ Get 60% progress in Stage 1-3=Obtén un progreso del 60 % en la etapa 1-3
 Get 60% progress in Stage 1-2=Obtén un progreso del 60 % en la etapa 1-2
 Get 60% progress in Stage 1-1=Obtén un progreso del 60 % en la etapa 1-1
 Rebel Coin=Moneda rebelde
-Enter=Ingresar
+Enter=Entrar
 That cat there's <color\=#FF423F>Mona</color>.=Ese gato de ahí es <color\=#FF423F>Mona</color>.
 I'm not a cat!=¡No soy un gato!
 And who are you?=¿Y tú quién eres?
@@ -10526,7 +10512,6 @@ Good idea. Let's head to the station once our preparations are in order.=Buena i
 Check up on Tomoko=Revisar a Tomoko
 Hang on. This is the right room, but...=Espera.\nEsta es la habitación correcta, pero...
 Would you two mind waiting out here?=¿Les importaría esperar aquí afuera?
-No problem.=Ningún problema.
 Would you want someone staring at you while you're all banged and bruised up? {{A}} is being considerate by keeping you out.=¿Te gustaría que alguien te estuviera mirando mientras estás todo golpeado y magullado?\n{{A}} está siendo considerado al dejarte afuera.
 Sorry, Nagisa.=Lo siento, Nagisa.
 Tomoko, it's me, {{A}}. I'm coming in.=Tomoko, soy yo, {{A}}.\nVoy a entrar.
@@ -10570,7 +10555,7 @@ What do you think, Leader?=¿Qué piensas, líder?
 Let's make a show of it.=Hagamos un espectáculo.
 We'll make sure everyone sees.=Nos aseguraremos de que todos lo vean.
 Ooh! I know!=¡Oh! ¡Lo sé!
-What if Lufel flies over the station and scatters a bunch of calling cards everywhere?=¿Y si Lufel vuela sobre la estación y lanza un montón de cartas de desafío por todas partes?
+What if Lufel flies over the station and scatters a bunch of calling cards everywhere?=¿Y si Lufel vuela sobre la estación y lanza un montón de cartas de aviso por todas partes?
 H-Hoo!? Me?=¿H-hoo? ¿Yo?
 Well, yeah. I mean, you're the one who can fly, right?=Bueno, sí. Quiero decir, tú eres el que puede volar, ¿no?
 I'm bound to break a bone carrying this much weight!=¡Seguro me rompo un hueso cargando tanto peso!
@@ -10641,7 +10626,6 @@ E<color\=#000000>a</color>gle Eye=O<color\=#000000>j</color>o de águila
 R<color\=#000000>a</color>diation=R<color\=#000000>a</color>diación
 Retreat is also\na valid strategy...=El retiro también es una estrategia válida...
 Weekly Limit: =Límite semanal: 
-Chizuko {{A}}o has joined the Phantom Thieves=Chizuko {{A}}o se ha unido a los Ladrones Fantasma
 Required Persona Role=Rol de Persona requerido
 Required Persona Attribute=Atributo de Persona requerido
 Play Support Phantom Thief Animations=Reproducir animaciones de apoyo de los Ladrones Fantasma
@@ -12006,17 +11990,17 @@ Hand the marbles to the tabby 0/5=Entrega las canicas al atigrado 0/5
 You can't do that at this time.\nDo you want to wait until it's <color\=#FFC000>Clear</color>?=No puedes hacerlo en este momento. ¿Quieres esperar hasta que este <color\=#FFC000>Despejado</color>?
 After much searching, I finally found all of the marbles. Now I need to find the orange tabby. I might be in for a nice reward...=Después de mucho buscar, por fin he encontrado todas las canicas. Ahora necesito encontrar al atigrado naranja. Podría recibir una buena recompensa...
 Hand the marbles to the tabby=Dale las canicas al atigrado
-Wait until it's {{A}}=Espera hasta que esté despejado.
+Wait until it's Clear=Espera hasta que esté despejado.
 I never got a chance to enjoy that highly-acclaimed ramen...\nGuess I'll just head home.=Nunca tuve la oportunidad de disfrutar de ese aclamado ramen... Supongo que me iré a casa.
-Wait until it's {{A}} and Night=Espera hasta que esté despejado y sea de noche.
+Wait until it's Clear and Night=Espera hasta que esté despejado y sea de noche.
 Looks like Lufel has something he wants to discuss.\nI should go to Shibuya and talk with him.=Parece que Lufel tiene algo que quiere discutir. Debería ir a Shibuya y hablar con él.
 Unlocks by clearing the mission Metro of Desire.=Se desbloquea al completar la misión Metro of Desire.
-Wait until it's {{A}} and After School=Espera hasta que esté despejado y sea después de clases.
+Wait until it's Clear and After School=Espera hasta que esté despejado y sea después de clases.
 Looks like {{A}} wants to talk about something...\nI should go and meet her in classroom 2-C.=Parece que {{A}} quiere hablar de algo... Debería ir a verla al aula 2-C.
 Talk to {{A}} in the classroom=Hable con {{A}} en el aula
 There's a woman juggling on the backstreets of the Shibuya Shopping District.\nI should get a closer look...=Hay una mujer haciendo malabares en las callejuelas del distrito comercial de Shibuya. Debería verlo más de cerca...
 Go to the shopping district in Shibuya=Ir al distrito comercial de Shibuya
-Wait until it's {{A}} and Evening=Espera hasta que esté despejado y sea por la noche.
+Wait until it's Clear and Evening=Espera hasta que esté despejado y sea por la noche.
 I got a message. I should check it out.=Recibí un mensaje. Debería comprobarlo.
 Check IM=Comprobar IM
 There's an event going on at the station square.\nI should go check it out.=Hay un evento en la plaza de la estación. Debería ir a verlo.
@@ -12647,7 +12631,7 @@ This event has ended.=Este evento ha finalizado.
 Highest Level {{A}}ed: =Nivel más alto completado: 
 Today's Challenge Attempts Left: =Quedan los intentos de desafío de hoy: 
 Boss Traits: =Rasgos de Jefe: 
-{{A}} to unlock Stamina Mode={{A}} para desbloquear el Modo Estamina
+{{A}} to unlock Stamina Mode=Completalo para desbloquear el modo Resistencia
 Max Score: =Puntuación máxima: 
 When Irshya's guards are present, all of its affinities change from Resist to Null.=Cuando los guardias de Irshya están presentes, todas sus afinidades cambian de Resistir a Nulo.
 All foes' damage taken is decreased by 10%.=El daño recibido por todos los enemigos disminuye un 10%.
@@ -12859,7 +12843,6 @@ Ultimate Student-Athlete=El mejor estudiante-deportista
 Chief Strategist=Estratega jefe
 At the start of battle, gain 5 <link\="s|177"><u>Tenacity</u></link> stacks, allowing Makoto to activate <link\="s|178"><u>Crash Out</u></link> on her action.\nWhen Crash Out is active, increase Attack by 50% more and damage by 35%.=Al inicio de la batalla, gana 5 <link\="s|177"><u>Tenacidad</u></link> permitiendo a Makoto activar <link\="s|178"><u>Estallido</u></link> en su acción. Cuando Crash Out está activo, aumenta el Ataque un 50% más y el daño un 35%.
 Special Contracts (Random)=Contratos especiales (aleatorios)
-When <link\="s|178"><u>Crash Out</u></link> is active, inflict random elemental ailments on foes, and for each different type of elemental ailment, increase Makoto's pierce rate by 6%.=Cuando <link\="s|178"><u>Estallido</u></link> está activo, inflige dolencias elementales aleatorias a los enemigos y, por cada tipo diferente de dolencia elemental, aumenta el índice de perforación de Makoto un 6%.
 [Effect] Increase Makoto's Attack by 40% and Defense by 20% for 2 turns, and Nuclear Fury evolves to Thermonuclear Fury.=[Efecto] Aumenta el Ataque de Makoto un 40% y su Defensa un 20% durante 2 turnos, y Furia nuclear evoluciona a Furia termonuclear.
 [Count] Increase Makoto's Attack by 6% and Defense by 2%.=[Cargas] Aumenta el ataque de Makoto un 6% y su defensa un 2%.
 [Iron Fist]=[Puño de Hierro]
@@ -13658,7 +13641,7 @@ Charming Gaze=Mirada Encantadora
 Screwdriver=Desarmador
 Mojito=Mojito
 Martini=Martini
-Bloody Mary=Mary Sangrienta
+Bloody Mary=Bloody Mary
 Old Fashioned=Anticuado
 XYZ=XYZ
 C<color\=#000000>h</color>arming Gaze=M<color\=#000000>i</color>rada Encantadora
@@ -15120,7 +15103,7 @@ Increases Attack by 25%, but also decreases max HP by 15%. After collecting 3 ca
 <nobr>Increase party's shield received by <color\=#50b50d>12.0%</color>→<color\=#c900e4>16.0%</color>.</nobr>=<nobr>Aumenta el escudo recibido por el partido en <color\=#50b50d>12.0%</color>→<color\=#c900e4>16.0%</color>.</nobr>
 Included stats: Attack, Defense, max HP, critical rate, and critical damage=Estadísticas incluidas: Ataque, Defensa, PS máximo, probabilidad de crítico y daño crítico.
 A fourth-edition pack of a popular trading card game. Contains many powerful cards.=Una cuarta edición del popular juego de cartas coleccionables. Contiene muchas cartas poderosas.
-D<color\=#000000>e</color>ep Wounds=D<color\=#000000>e</color>ep Heridas
+
 W<color\=#000000>i</color>reless Gamepad=G<color\=#000000>a</color>mepad Inalámbrico
 <nobr>After using a multi-target attack skill, decrease user's damage taken by (<color\=#50b50d>12.0%</color>/16.0%/20.0%) for 2 turns.</nobr>=<nobr>Tras utilizar una habilidad de ataque multiobjetivo, el daño recibido por el usuario disminuye en (<color\=#50b50d>12.0%</color>/16,0%/20,0%) durante 2 turnos.</nobr>
 Chaotic II=Caótico II
@@ -17629,7 +17612,7 @@ Three {{A}}. 30 Thieves=Tres {{A}}. 30 Ladrones
 I got this!=¡Lo tengo!
 Okay, I’ll take care of it.=Vale, yo me encargo.
 Cognition Crystals\nCan be used for Contracts, Arms Deals, and recovering stamina.=Cristales Cognitivos Se pueden utilizar para Contratos, Tratos de Armas y para recuperar resistencia.
-{{A}}\nCan be used for Contracts, Arms Deals, and recovering stamina.={{A}} Se puede utilizar para Contratos, Tratos de Armas y para recuperar resistencia.
+Meta Jewels\nCan be used for Contracts, Arms Deals, and recovering stamina.=Meta Joyas pueden usarse para Contratos, Tratos de armas y recuperar resistencia.
 I went to the izakaya\nwith Minami...=Fui al izakaya con Minami...
 Hey there Nagisa-kun.=Hola Nagisa-kun.
 Minami-chan! You're back!=¡Minami-chan! ¡Has vuelto!
@@ -18044,7 +18027,7 @@ That's exactly right.=Exactamente.
 We can recover the hopes of victims being exploited by these outrageous acts.=Podemos recuperar las esperanzas de las víctimas explotadas por estos actos indignantes.
 Now, with regard to the documents reportedly\nscattered over Shibuya Station and signed\nby the so-called "Phantom Thieves..."=Ahora, con respecto a los documentos supuestamente esparcidos por la estación de Shibuya y firmados por los llamados\n"Ladrones Fantasma"...
 Newscaster=Locutor
-Ah! Are they talking about the calling cards!?=¡Ah! ¿Están hablando de las tarjetas de visita!?
+Ah! Are they talking about the calling cards!?=¡Ah! ¿Están hablando de las Aviso!?
 The documents in question expressed an\nintention to steal the suspect {{A}}\n"desires," leading police to believe...=Los documentos en cuestión expresaban la intención de robar los "deseos" sospechosos de {{A}}, lo que llevó a la policía a creer...
 ...they held a connection to the ongoing case.\nHowever, based on eyewitness reports that the\ndocuments were dropped by a wild bird...=...tenían una conexión con el caso en curso. Sin embargo, según testigos presenciales, los documentos fueron arrojados por un pájaro salvaje...
 ...police have ruled them out as having any connection to the case at hand, calling it a "random occurrence."=...la policía ha descartado que tengan relación con el caso que nos ocupa, calificándolo de "suceso aleatorio".
@@ -18074,7 +18057,7 @@ But, for a person to be as willing to face danger head-on as she...=Pero, para q
 Anyway, Nagisa. As members of the Phantom Thieves, I look forward to completing our next job together.=De todos modos, Nagisa. Como miembros de los Ladrones Fantasma, espero completar nuestro próximo trabajo juntos.
 By deciding to continue with\nthe Phantom Thieves...=Al decidir continuar con los Ladrones Fantasma...
 Infiltration Know-How=Conocimientos sobre infiltración
-But to think I was spotted distributing the calling cards...=Pero pensar que me vieron distribuyendo las tarjetas de visita...
+But to think I was spotted distributing the calling cards...=Pero pensar que me vieron distribuyendo los Aviso...
 I fear my presence could risk unmasking your identity as a phantom thief.=Temo que mi presencia pueda desenmascarar su identidad como ladrón fantasma.
 We'll need to think of a different method\nfor delivering the next calling card.=Tendremos que pensar en otro método para entregar la próximo aviso.
 Go back to your room and sleep=Vuelve a tu habitación y duerme
@@ -18585,7 +18568,7 @@ Nothing beats the\nusual go-to!=No hay nada mejor que lo de siempre.
 I heard he was\ncaught right here.=Escuché que lo atraparon justo aquí.
 Kokatsu Academy  3F Hallway=Pasillo 3F de la Academia Kokatsu
 I can advance the current time to Night by selecting Track, or through City Life.=Puedo adelantar la hora actual a Noche seleccionando Pista, o a través de City Life.
-{{A}} the mission to unlock the City Life activity Band Club Practice.={{A}} la misión para desbloquear la actividad de Vida Urbana: Práctica del Club de Banda.
+Clear the mission to unlock the City Life activity Band Club Practice.={Completa la misión para desbloquear la actividad de Vida Urbana: Práctica del Club de Banda.
 Wait until it's After School=Esperar hasta después de clase
 Meet with the band club members=Reunión con los miembros del club de la banda
 The members of the band club are having a heated discussion outside the band room on the 3rd floor of Kokatsu Academy. I should go see what they're talking about.=Los miembros del club de la banda están teniendo una acalorada discusión fuera de la sala de la banda, en la 3ª planta de la Academia Kokatsu. Debería ir a ver de qué están hablando.
@@ -19344,7 +19327,6 @@ Castle Forest=Bosque del Castillo
 Looks like we can't get past here!=¡Parece que no podemos pasar de aquí!
 Let's see if we can find an infiltration\nroute nearby. Perhaps we can get in\nwithout alerting any enemies...=Veamos si podemos encontrar una ruta de infiltración cerca. Tal vez podamos entrar sin alertar a ningún enemigo...
 All right! Let's get moving then!=¡Muy bien! ¡En marcha entonces!
-Explore Miyazawa's Palace=Explorar el Palacio de Miyazawa
 A Japanese castle...? And a super flashy-looking one at that...=¿Un castillo japonés...? Y de aspecto muy llamativo...
 This is supposedly Miyazawa's perception of reality...=Esta es supuestamente la percepción de la realidad de Miyazawa...
 But why a castle? Do you think the inside's actually a huge ramen shop or something?=Pero, ¿por qué un castillo? ¿Crees que el interior es en realidad una enorme tienda de ramen o algo así?
@@ -20495,7 +20477,6 @@ Apparently some customers have been causing\nthem trouble lately. Stuff like spi
 Uploading pictures of leftover beef bowls\nthey've tossed onto the floor...=Subiendo fotos de sobras de carne que han tirado al suelo...
 The boss seems very upset about it. He says \nthey're acting like Menaces.=El jefe parece muy molesto por ello. Dice que están actuando como Amenazas.
 Increase Atk 2.9%. When attacking {{A}}ing foes, increase Atk 25%.=Aumenta el Atk un 2,9%. Al atacar a enemigos {{A}}ing, aumenta Atk 25%.
-Ayaka Sakai has joined the Phantom Thieves=Ayaka Sakai se ha unido a los Phantom Thieves
 Think there's anything we could do to help?\nI'm sure it's easier said than done, but...=¿Crees que hay algo que podamos hacer para ayudar? Seguro que es más fácil decirlo que hacerlo, pero...
 Aren't there security cameras?=¿No hay cámaras de seguridad?
 Maybe call the cops...?=¿Quizás llamar a la policía...?
@@ -21173,7 +21154,6 @@ Central Castle Keep=Torre del Castillo Central
 Behind Main Hall=Detrás del vestíbulo principal
 You can now quick travel to the\n<color\=#FF423F>Castle Keep: Trap Corridor Front</color>.=Ahora puedes usar el viaje rápido al\n<color\=#FF423F>Torre del Castillo: Frente del Corredor de Trampas</color>.
 Thief {{A}}. 50+=Ladrón {{A}}. 50+
-Nuclear affinity changed to Weak!=¡Afinidad nuclear cambiada a Débil!
 Several affinities changed to Weak!=Varias afinidades cambiaron a ¡Débil!
 You can now quick travel to the\n<color\=#FF423F>Castle Keep: Trap Corridor Back</color>.=Ahora puedes usar el viaje rápido al\n<color\=#FF423F>Torre del Castillo: Corredor Trampa Atrás</color>.
 Bond of Death=Vínculo de la muerte
@@ -21281,7 +21261,7 @@ P<color\=#000000>r</color>ogress=P<color\=#000000>r</color>ogreso
 Metamorphosis Dogu became a SP Dogu!=¡Metamorphosis Dogu se convirtió en PE Dogu!
 S<color\=#000000>P</color> Dogu=P<color\=#000000>E</color> Dogu
 Metamorphosis Dogu=Metamorfosis Dogu
-Activate Abyssal Gaze after 10 stacks.=Activa Mirada abisal después de 10 acumulaciones.
+Activate Abyssal Gaze after 10 stacks.=Activa Mirada Abisal después de 10 acumulaciones.
 Progress=Progreso
 Foes lose SP each turn.=Los enemigos pierden PE cada turno.
 SP Dogu=PE Dogu
@@ -21325,7 +21305,7 @@ Progress Up=Aumento de Progreso
 Gained Progress!=¡Progreso obtenido!
 Randomly deals Psy, Nuclear, Bless, or Curse damage to 1 foe once. Can be crafted at the workbench with ethanol and iron sheets.=Inflige daño psíquico, nuclear, bendición o maldición a 1 enemigo una vez. Puede fabricarse en el mesa de trabajo con etanol y láminas de hierro.
 Dizzy=Mareado
-Abyssal Gaze=Mirada abisal
+Abyssal Gaze=Mirada Abisal
 Inflicted with despair...=Infligido por la desesperación...
 D<color\=#000000>e</color>spair=D<color\=#000000>e</color>sesperación
 Chizuko despairs...=Chizuko se desespera...
@@ -22224,7 +22204,6 @@ It seems {{A}} wants to talk about something. I should go to the school rooftop.
 Honey, I'm here!\nWhere are you?=¡Cariño, estoy aquí! ¿Donde estas?
 There's a rumor going around about a curious young boy at the Kokatsu Academy Library with an incomprehensible manner of speaking.\nShould I go and have a look?=Corre el rumor de que en la biblioteca de la Academia Kokatsu hay un joven curioso con una forma de hablar incomprensible. ¿Debería ir a echar un vistazo?
 Go to the Library=Ir a la biblioteca
-{{A}} the mission to unlock the activity Camerawork with Rikuto Shimizu.={{A}} la misión para desbloquear la actividad Trabajo de cámara con Rikuto Shimizu.
 Apparently there's a guy who's been taking lots of photos of Shibuya recently. Maybe I should go see what he's up to.=Al parecer, hay un tipo que ha estado haciendo muchas fotos de Shibuya últimamente. Quizá debería ir a ver qué está haciendo.
 Talk to the man with the camera=Habla con el hombre de la cámara
 Drinks these days\ncome in all sorts of\nweird flavors.=Las bebidas de hoy en día vienen en todo tipo de sabores extraños.
@@ -23131,7 +23110,7 @@ Thank you. You've helped me out as well.=Gracias. A mí también me has ayudado.
 Please take this treasure with you, so you\ncan remember what to look for.=Por favor, llévese este tesoro con usted, para que pueda recordar lo que debe buscar.
 However... you must never look inside.=Sin embargo... nunca debes mirar dentro.
 What's in this thing?=¿Qué hay en esta cosa?
-What? Why?=¿Por qué? ¿Por qué?
+What? Why?=¿Qué? ¿Por qué?
 Well... I'm afraid it's not for me to say.=Bueno... Me temo que no me corresponde a mí decirlo.
 Once you have learned to understand the\norange tabby, you may ask him directly.=Cuando hayas aprendido a entender al atigrado naranja, podrás preguntarle directamente.
 Now, to begin, he'd like you to find the six\nremaining treasures hidden here in {{A}}.=Ahora, para empezar, le gustaría que encontraras los seis tesoros restantes escondidos aquí en {{A}}.
@@ -25385,7 +25364,6 @@ What kind of facility is this? Pretty sure\nit's not a school.=¿Qué tipo de in
 It looks like there's some kind of large\nstructure in the distance.=Parece que hay algún tipo de gran estructura en la distancia.
 But that barricade is blocking our path.=Pero esa barricada bloquea nuestro camino.
 Let's find another way in, {{A}}.=Busquemos otra forma de entrar, {{A}}.
-Explore Katayama's Palace=Explorar el Palacio de Katayama
 This kinda feels like trespassing...=Esto se siente como un allanamiento de morada...
 Good thing this ain't the real world then.\nDon't worry about it.=Menos mal que esto no es el mundo real. No te preocupes.
 Hoo... Do you hear water?=Hoo... ¿Oyes el agua?
@@ -26883,7 +26861,7 @@ Haste makes waste.=La prisa hace perder el tiempo.
 He's right. We only made it through that last\nbattle thanks to you, Senpai.=El tiene razón. Sólo superamos esa última batalla gracias a ti, Senpai.
 You must be wiped. You can lean on my\nshoulder if you need.=Debes estar limpio. Puedes apoyarte en mi hombro si lo necesitas.
 Uh, no, no. I'll do it!=Uh, no, no. ¡Yo lo haré!
-Huh? Why?=¿Por qué? ¿Por qué?
+Huh? Why?=¿Eh? ¿Por qué?
 Well, a) Riko-senpai is a girl, and\nb) you're kinda ham-fisted, Soy.=Bueno, a) Riko-senpai es una chica, y b) eres un poco torpe, Soy.
 Ham-fisted!?=¿¡Torpe!?
 I'll carry you in my arms.=Te llevaré en mis brazos.
@@ -27304,7 +27282,7 @@ Off the Bottle=Fuera de la botella
 You won't believe this...=No te lo vas a creer...
 Complete 1 City Life activity in Kichijoji. (1/1)=Completa 1 actividad de Vida urbana en Kichijoji. (1/1)
 I should join up with everyone to share what I learned.=Debería unirme a todos para compartir lo que he aprendido.
-Wait until it's {{A}} and Morning=Espera hasta que esté despejado y sea por la mañana.
+Wait until it's Clear and Morning=Espera hasta que esté despejado y sea por la mañana.
 You have not invited anybody to watch the fireworks with you.\nAre you sure want to go by yourself?=No has invitado a nadie a ver los fuegos artificiales contigo. ¿Seguro que quieres ir solo?
 Based on the intel we've gotten from the\nstaff and customers... it seems mysterious\nforces are at play here...=Según la información que nos han facilitado el personal y los clientes... parece que aquí actúan fuerzas misteriosas...
 Any ideas, Lufel?=¿Alguna idea, Lufel?
@@ -29393,7 +29371,6 @@ Ah... It seems my mind is still trapped\nin a state of confusion...=Ah... Parece
 Nirvana=Nirvana
 I am ever so grateful... I cannot begin to\nexpress my thanks.=Estoy tan agradecido... No tengo palabras para expresar mi agradecimiento.
 N<color\=#000000>i</color>rvana=N<color\=#000000>i</color>rvana
-Seaside Tomoko has joined the Phantom Thieves=Seaside Tomoko se ha unido a los Phantom Thieves
 Seems we've arrived. Where should we start?=Parece que hemos llegado. ¿Por dónde empezamos?
 Please use your power\nto put an end to my doubts...=Por favor, usa tu poder para poner fin a mis dudas...
 Sokushin=Sokushin
@@ -33541,21 +33518,21 @@ Gained Sun God's {{A}}!=¡{{A}} del Dios del Sol obtenido!
 They're hurt bad!\nHeal them quickly!=¡Están malheridos! ¡Cúralos rápido!
 Wisdom Theurgy changes all affinities of the Shadow with the lowest HP to Drain. {{A}}'s Attack is increased by 40%.=Teúrgia de la Sabiduría cambia todas las afinidades de la Sombra con menos PS a Drenar. El Ataque de {{A}} aumenta un 40%.
 Wisdom Theurgy II=Teúrgia de la Sabiduría II
-Down!? Try to hang in there!=¿¡Abajo!? ¡Intenta aguantar!
+Down!? Try to hang in there!=¿¡derribado!? ¡Intenta aguantar un poco más!
 Okay, time for a comeback!=Bien, ¡es hora de volver!
 Defeated if allies are KO'd or exceed 80 turns.=Derrotado si los aliados están KO o superan los 80 turnos.
 All foes' Attack is increased by 50%.=El ataque de todos los enemigos aumenta un 50%.
 Nice! Enemy down!=¡Bien! ¡Enemigo abatido!
 Ally down!\nYou okay out there!?=¡Aliado caído! ¿¡Estás bien ahí fuera!?
 {{A}}'s back!\nIt's payback time!=¡{{A}} ha vuelto! ¡Es hora de la revancha!
-Dang, {{A}}'s down!\nQuit slacking with the support!=¡Dang, {{A}} ha caído! ¡Deja de holgazanear con el apoyo!
+Dang, Wonder's down!\nQuit slacking with the support!=¡Rayos, Wonder cayó! ¡Dejen de holgazanear con el soporte!
 Allies will be insta-killed when they gain 4 Curse of Annihilation stacks. {{A}}'s Attack is increased by 10%.=Los aliados morirán de forma instantánea cuando obtengan 4 acumulaciones de Maldición de aniquilación. El Ataque de {{A}} aumenta un 10%.
 Withering Death I=Muerte fulminante I
 Every 3 Amulet of Rebirth stacks are converted into 1 {{B}} of Rebirth stack. {{A}}'s max HP is increased by 50%.=Cada 3 acumulaciones de Amuleto del Renacimiento se convierten en 1 acumulación de {{B}} del Renacimiento. Los PS máximos de {{A}} aumentan un 50%.
 Revival Boost II=Revival Boost II
 {{B}}'s healing is increased by 30%. {{A}}'s Attack is increased by 25%.=La curación de {{B}} aumenta un 30%. El ataque de {{A}} aumenta un 25%.
 Recovery Boost II=Recovery Boost II
-Lock in, {{A}}!=¡Cierra, {{A}}!
+Lock in, Wonder!=¡Concéntrate, Wonder!
 This is bad! Someone's down!\nHelp them, fast!=¡Esto es malo! ¡Alguien ha caído! ¡Ayúdenlo, rápido!
 {{A}}!?\nThis looks bad... We've gotta help him!=¿¡{{A}}!? Esto pinta mal... ¡Tenemos que ayudarlo!
 Do you want to customize a Revelation Card with the mark <color\=#f1b500>Star</color>, set <color\=#f1b500>Prosperity</color>, and main attribute <color\=#f1b500>Attack</color>?=¿Quieres personalizar una carta de revelación con la marca <color\=#f1b500>Estrella</color>, conjunto <color\=#f1b500>Prosperidad</color> y atributo principal <color\=#f1b500>Ataque</color>?
@@ -35742,7 +35719,6 @@ Updates daily at 8 PM UTC=Actualizaciones diarias a las 8 PM UTC
 Celebratory Popper=Popper de celebración
 Dominion, Power, Principality, and Archangel are in the <color\=#72C5FF>Soul Link</color> state.\nSoul Link: When a Shadow with Soul Link takes damage, split the damage between all Shadows with Soul Link, based on its current HP.=Dominion, Power, Principality y Archangel se encuentran en el <color\=#72C5FF>Enlace del alma</color> estado. Enlace del alma: Cuando una Sombra con Enlace del alma recibe daño, divide el daño entre todas las Sombras con Enlace del alma, en función de sus PS actuales.
 Newcomer Contracts=Contratos para recién llegados
-Justine & Caroline has joined the Phantom Thieves=Justine & Caroline se ha unido a los Phantom Thieves
 Increase ailment accuracy 7%. After using skills on foes, increase target's Fire dmg taken 7.1% (2 turns).=Aumenta la precisión de las dolencias un 7%. Tras usar habilidades sobre enemigos, aumenta el daño de Fuego recibido por el objetivo un 7,1% (2 turnos).
 When any ally receives <color\=#FFFC40>healing</color>, their final damage is increased by 8%. Lasts for 2 turns. Stacks up to 4 times.=Cuando un aliado recibe <color\=#FFFC40>curación</color> su daño final aumenta un 8%. Dura 2 turnos. Se acumula hasta 4 veces.
 {{A}}'s Bless damage is increased by 20%.=El daño de Bendición de {{A}} aumenta un 20%.
@@ -38174,7 +38150,6 @@ I think it's wonderful to get the chance to\ntalk to someone from another group 
 I understand we can't talk about details,\nbut I hope we can have a fun time together.=Entiendo que no podemos hablar de detalles, pero espero que podamos pasar un rato divertido juntos.
 Do you want to use the following to perform Ice Princess 1 times?=¿Quieres usar lo siguiente para ejecutar Princesa de Hielo 1 vez?
 Can be used to select and obtain one Phantom Thief from certain Phantom Thieves.=Se puede usar para seleccionar y obtener un Ladrón Fantasma de ciertos Ladrones Fantasma.
-Lufel has joined the Phantom Thieves=Lufel se ha unido a los Ladrones Fantasma
 Yui and I visited a remote\ntown. We bought some new\ncyber veggies.=Yui y yo visitamos un pueblo remoto.\nCompramos algunas verduras\ncibernéticas nuevas.
 {{A}} and I hit the Shibuya\nArcade. We went head-to-head\nin a racing game...={{A}} y yo fuimos al Arcade de\nShibuya. Nos enfrentamos en un\njuego de carreras...
 Hehe, it's so kind of you to say so... Let's\nhave a great new year!=Jeje, muy amable por tu parte.... ¡Que tengas un buen año nuevo!
@@ -38865,7 +38840,7 @@ Elec Dmg Multiplier=Multiplicador de daño eléctrico
 Dmg Taken Decrease=Disminución de los daños sufridos
 Extra Dmg Taken Decrease=Disminución de daño Extra Tomado
 Crit Dmg Increase=Aumento de daño crítico
-Skill Amplification=Amplificación de habilidades
+Skill Amplification=Amplificación de Habilidades
 Almighty Dmg Multiplier=Multiplicador de daño Todopoderoso
 Highlight Max HP Increase=Aumento de PS máximo de Highlight
 {{A}}211 Increases all allies' HP recovery by 0.1% (takes effect in battle).={{A}}211 Aumenta la recuperación de PS de todos los aliados un 0,1% (tiene efecto en batalla).
@@ -39683,11 +39658,8 @@ Dammit. Still not done...?=Maldita sea. ¿Aún no has terminado...?
 No way I'm cleaning another one of these!=¡De ninguna manera voy a limpiar otro de estos!
 W<color\=#000000>i</color>nd Wall=M<color\=#000000>u</color>ro de Viento
 I<color\=#000000>c</color>e Wall=M<color\=#000000>u</color>ro de Hielo
-Wind Weakness=Debilidad del viento
-W<color\=#000000>i</color>nd Weakness=V<color\=#000000>i</color>nd Debilidad
 Change Ice affinity to Resist.=Cambia la afinidad de Hielo a Resistencia.
 Ice Wall=Muro de Hielo
-Change Wind affinity to Weak.=Cambia la afinidad del Viento a Débil.
 Change Wind affinity to Resist.=Cambia la afinidad de Viento a Resistencia.
 I<color\=#ff0000ff>m</color>portant Notes=N<color\=#ff0000ff>o</color>tas Importantes
 It seems there are "toilet rules"\nwritten here...=Parece que hay "reglas de aseo" escritas aquí...
@@ -39794,14 +39766,9 @@ Please don't spill coffee around here or\nanything like that. You'll wish you di
 Akashi-sama's really scary...=Akashi-sama da mucho miedo...
 If I disappeared, who would take over my\njob duties?=Si yo desapareciera, ¿quién asumiría mis funciones?
 Looks like I still have some work left for\ntoday.=Parece que aún me queda trabajo para hoy.
-Psychokinesis Weakness=Debilidad Psicoquinesis
-P<color\=#000000>s</color>ychokinesis Weakness=D<color\=#000000>e</color>bilidad Psicoquinesis
 A<color\=#000000>z</color>ure Storm=T<color\=#000000>o</color>rmenta Azur
-Change Psy affinity to Weak.=Cambia la afinidad Psíquica a Débil.
 At 6 stacks, activate a skill to deal severe damage.=Con 6 acumulaciones, activa una habilidad para infligir graves daños.
 Azure Storm=Tormenta Azur
-Nuclear Weakness=Debilidad Nuclear
-N<color\=#000000>u</color>clear Weakness=D<color\=#000000>e</color>bilidad Nuclear
 Ahhh, finally done with work for the day.=Ahhh, por fin he terminado con el trabajo del día.
 Yeah. Good job today.=Sí. Buen trabajo hoy.
 Work... Must... keep... working...=Trabajo... Debo... seguir... trabajando...
@@ -39917,12 +39884,6 @@ So tired... Need rest...=Tan cansado... Necesito descansar...
 Must... keep... working...=Debe... seguir... trabajando...
 You can now quick travel to the \n<color\=#FF423F>Lower Control Center: Control Room</color>.=Ahora puede viajar rápidamente al \n<color\=#FF423F>Centro de Control Inferior: Sala de Control</color>.
 Inflict Weakness=Infligir debilidad
-B<color\=#000000>l</color>ess Weakness=D<color\=#000000>e</color>bilidad Bendición
-Change Bless affinity to Weak.=Cambia la afinidad de Bendición a Débil.
-Bless Weakness=Debilidad Bendición
-F<color\=#000000>i</color>re Weakness=D<color\=#000000>e</color>bilidad Fuego
-Change Fire affinity to Weak.=Cambia la afinidad de Fuego a Débil.
-Fire Weakness=Debilidad Fuego
 Story Animation:  Morning at Shibuya Station=Animación de la historia:  Mañana en la estación de Shibuya
 Each individual's varying emotions, the\ncomplicated rules of etiquette... It's\nall so difficult!=Las distintas emociones de cada uno, las complicadas reglas de etiqueta... ¡Es todo tan difícil!
 They say I'm thick as a brick. But there's a\nlot to take in when it comes to social\nsituations!=Dicen que soy duro como una piedra. Pero hay mucho que asimilar cuando se trata de situaciones sociales.
@@ -40515,7 +40476,7 @@ Prepare for Riko's strategy=Prepárate para la estrategia de Riko
 Do you want to spend these items\nto purchase Ultramarine Outfit Set?=¿Quieres gastar estos artículos para comprar el conjunto de atuendo ultramarino?
 Mysterious Weapon Kit=Kit de armas misteriosas
 Creation=Creación
-Riko is preparing to send the calling card to Akashi. We should do some training in the meantime.=Riko se está preparando para enviarle la tarjeta de visita a Akashi.\nMientras tanto, deberíamos entrenar un poco.
+Riko is preparing to send the calling card to Akashi. We should do some training in the meantime.=Riko se está preparando para enviarle la Aviso a Akashi.\nMientras tanto, deberíamos entrenar un poco.
 Riko's Strategy=La estrategia de Riko
 Recurring Daydream=Ensueño recurrente
 Next Move=Siguiente movimiento
@@ -43461,8 +43422,6 @@ All passed Stellae must be <color\=#FF423F>cleared</color> to take this on.=Toda
 Increase final dmg by 4%. Stacks up to 15 times.=Aumenta el daño final en un 4%. Se acumula hasta 15 veces.
 Edit=Editar
 Current Set=Conjunto actual
-Increase Pierce Rate by 1.5%.\n=Aumenta la tasa de perforación en un 1.5%.\n
-Increase Pierce Rate by 3%.\n=Aumenta la tasa de perforación en un 3%.\n
 Clinical Care=Atención Clínica
 Rebound=Rebote
 Psycho Blast {{A}}.7=Explosión Psíquica {{A}}.7
@@ -43508,7 +43467,6 @@ Light Archive=Archivo de Luz
 PERSONA EXCHANGE ITEMS=OBJETOS DE INTERCAMBIO DE PERSONAS
 Sky Archive=Archivo Celeste
 Selected:=Seleccionado:
-Tempest Riko has joined the Phantom Thieves=Tempest Riko se ha unido a los Ladrones Fantasma
 Wind's Special Missions=Mision Especial de Wind
 {{A}}'s Fog=La niebla de {{A}}
 Melchizedek's Fog=Niebla de Melchizedek
@@ -44547,7 +44505,7 @@ We're in for a good time...=Nos espera un buen momento...
 Talk about a mean streak.=Vaya racha de maldad...
 Yeah! I don't think we would've even thought\nof that strategy before!=¡Sí! No creo que hubiéramos pensado en esa estrategia antes.
 Agreed. If we're gonna do this, let's do it\nright!=De acuerdo. Si vamos a hacer esto, hagámoslo bien.
-This operation is of a magnitude far beyond\nall previous calling cards we've sent.=Esta operación es de una magnitud mucho mayor a todas las tarjetas de presentación que hemos enviado antes.
+This operation is of a magnitude far beyond\nall previous calling cards we've sent.=Esta operación es de una magnitud mucho mayor a todos los Aviso que hemos enviado antes.
 Hoo hoo, I like it! And if more people start\nto notice the Phantom Thieves...=¡Hoo hoo, me gusta! Y si más gente empieza a notar a los Ladrones Fantasma...
 It could become a deterrent for Menaces and\nthose looking to exploit others' desires.=Podría convertirse en un deterrente para las Amenazas y aquellos que buscan explotar los deseos de los demás.
 I just know this is gonna be a mountain of\nwork though... Haha...=Solo sé que esto va a ser un montón de trabajo... Jaja...
@@ -44640,7 +44598,7 @@ It can't be... A calling card from the\nPhantom Thieves?=No puede ser... ¿un av
 Oh, a new Divine Justice post. Huh? What\nis this?=Oh, una nueva publicación en la Justicia Divina. ¿Eh? ¿Qué es esto?
 What's with all these weird thumbnails? Is\nthis some kind of stunt?=¿Qué onda con todas estas miniaturas raras? ¿Es algún tipo de truco?
 Whoa, take a look at Divine Justice!\nSomething crazy's going on!=¡Wow, echen un vistazo en la Justicia Divina! ¡Está pasando algo loco!
-I swear I've seen that symbol somewhere\nbefore... It's from those, uh, what were\nthey...? Calling cards, right?=Juro que he visto ese símbolo en algún lado antes... Es de esos, eh, ¿cómo eran...? ¿Tarjetas de Presentación, no?
+I swear I've seen that symbol somewhere\nbefore... It's from those, uh, what were\nthey...? Calling cards, right?=Juro que he visto ese símbolo en algún lado antes... Es de esos, eh, ¿cómo eran...? ¿el Aviso, no?
 It can't be... No, it has to be!=No puede ser... ¡No, tiene que ser!
 It's them...!=¡Son ellos...!
 Akashi and Yamanashi's Conversation=Conversación entre Akashi y Yamanashi
@@ -44693,7 +44651,7 @@ You're going to what? Take my desires?\nHahaha! I'd love to see you try!=¿Vas a
 You're the ones that are going to be ripped\nto shreds and devoured!=¡Ustedes serán los que serán destrozados y devorados!
 Check the notification on your phone=Revisa la notificación en tu celular
 So everything on Divine Justice, about\nMr. Akashi... You think it's true?=Entonces todo lo de Justicia Divina, sobre el Sr. Akashi... ¿Crees que sea verdad?
-They weren't regular posts, that's for sure.\nAll that stuff about calling cards and the\nPhantom Thieves...=No eran publicaciones normales, eso seguro. Todo eso sobre las tarjetas de presentación y los Ladrones Fantasma...
+They weren't regular posts, that's for sure.\nAll that stuff about calling cards and the\nPhantom Thieves...=No eran publicaciones normales, eso seguro. Todo eso sobre los Aviso y los Ladrones Fantasma...
 I think I remember hearing about the Phantom\nThieves before. Um... I think it was during\nthe Subway Slammer thing?=Creo que recuerdo haber oído hablar de los Ladrones Fantasma antes. Um... creo que fue durante lo del Embestidor de las Vías.
 Yeah, it happened to that food critic\nMiyazawa, too.=Sí, también le pasó a ese crítico gastronómico Miyazawa.
 Everyone, remember you're in class now! No\nchitchat, and put your phones away!=Todos, recuerden que están en clase ahora. ¡Nada de charlas y guarden sus telefonos!
@@ -45194,8 +45152,8 @@ Love!? N-N-N-No, it's not like that at all!\nNot everything's about romance, y'k
 Hehe, in any case, I may take you up on that\noffer to borrow the box set.=Jeje, en fin, quizá te tome la palabra de prestarme la colección completa.
 Oh, uh, great! I'll bring it by sometime.=¡Oh, bueno, genial! Lo traeré en algún momento.
 Oh, can I recommend a manga to you too,\nRiko-senpai!?=¡Oh, ¿puedo recomendarte un manga también, Riko-senpai!?
-There's this manga called Phantom Famiglia,\nand it's actually been getting really\npopular recently!=Hay un manga llamado Familia de los Fantasmas, y últimamente se está volviendo muy popular.
-Phantom Famiglia... Does that mean it's\nabout a Phantom Thief?=Familia de los Fantasmas... ¿Eso significa que se trata de un Ladrón Fantasma?
+There's this manga called Phantom Famiglia,\nand it's actually been getting really\npopular recently!=Hay un manga llamado Famiglia Fantasma, y últimamente se está volviendo muy popular.
+Phantom Famiglia... Does that mean it's\nabout a Phantom Thief?=Famiglia Fantasma... ¿Eso significa que se trata de un Ladrón Fantasma?
 Yep, sure does! The character designs are\ngreat, and the story's really fun, too!=¡Sí, claro! Los diseños de personajes son geniales, y la historia también es muy divertida.
 Plus, the author's still a high school\nstudent! Imagine writing a hit manga\nat our age! What a legend!=Además, ¡la autora todavía es estudiante de secundaria! Imagina escribir un manga exitoso a nuestra edad. ¡Es una leyenda!
 Fascinating... If it's about Phantom Thieves,\nperhaps I should read it as well. It could\nbe a good resource for our business!=Fascinante... Si se trata de los Ladrones Fantasma, quizás debería leerlo también. Podría ser un buen recurso para nuestro negocio.
@@ -45209,7 +45167,7 @@ Thanks, Leader. You too.=Gracias, Líder. Tú también.
 Shall we all head home for today, then? All\nof us could use some good rest.=¿Nos vamos todos a casa por hoy, entonces? A todos nos vendría bien un buen descanso.
 You're right, I probably should. I'll see\nyou all tomorrow, then.=Tienes razón, probablemente debería. Los veré a todos mañana, entonces.
 Yeah, see you tomorrow!=¡Sí, nos vemos mañana!
-They're going to read... Phantom Famiglia?=Van a leer... ¿Familia de los Fantasmas?
+They're going to read... Phantom Famiglia?=Van a leer... ¿La Famiglia Fantasma?
 And those uniforms... Kokatsu...?=Y esos uniformes... ¿Kokatsu...?
 Schedule, schedule... Let's see...\nKokatsu Culture Festival...=Horario, horario... Veamos... Festival Cultural Kokatsu...
 Good work today, all of you.=Buen trabajo hoy, todos ustedes.
@@ -45224,14 +45182,14 @@ Did it really work?=¿De verdad funcionó?
 Hmm... Anyway, if her\nsuspension isn't lifted, I'll\nask Masa-san about it.=Mmm... De todos modos, si no se levanta su suspensión, le preguntaré a Masa-san al respecto.
 Yeah. Let's go for some ramen!=Sí. ¡Vamos por un poco de ramen!
 You're only saying that\nbecause you're hungry.=Solo dices eso porque tienes hambre.
-By the way, those calling card\nvideos on Divine Justice...=Por cierto, esos vídeos de las Tarjetas de Presentación en Justicia Divina...
+By the way, those calling card\nvideos on Divine Justice...=Por cierto, esos vídeos de las Aviso en Justicia Divina...
 Hehe. But I certainly wouldn't\nsay no to that.=Jeje. Pero ciertamente no diría que no a eso.
 It seems all of them were\nremoved.=Parece que todos fueron eliminados.
 Wait, seriously?=¿En serio?
 I just checked. They really\nare gone!=Acabo de revisar. ¡Realmente se desaparecieron!
 But it looks like it was\nreposted on some blogs that\nfollow Divine Justice.=Pero parece que fue republicado en algunos blogs que siguen a la Justicia Divina.
 They have those?=¿Ellos tienen esos?
-Looks like they've also got\nsome posts about the calling\ncards Lufel scattered.=Parece que también tienen algunas publicaciones sobre las tarjetas de presentación que Lufel esparció.
+Looks like they've also got\nsome posts about the calling\ncards Lufel scattered.=Parece que también tienen algunas publicaciones sobre las Aviso que Lufel esparció.
 Really? I wanna check those\nout later...=¿En serio? Quiero ver esos después...
 What is it, {{A}}?=¿Qué pasa, {{A}}?
 I already had dinner, but my\nstomach's still growling...=Ya cené, pero mi estómago sigue rugiendo...
@@ -45240,7 +45198,7 @@ Do as you wish. Anyways, talk\nto you later, everyone.=Haz lo que quieras. De to
 Yeah! See you tomorrow!=¡Sí! ¡Nos vemos mañana!
 Seeya!=¡Nos vemos!
 Good night!=¡Buenas noches!
-Websites investigating the Phantom Thief\ncalling cards... While it is crucial that we\nprotect our identities...=Sitios investigando las Tarjetas de Presentación del Ladrón Fantasma... Aunque es crucial que protejamos nuestras identidades...
+Websites investigating the Phantom Thief\ncalling cards... While it is crucial that we\nprotect our identities...=Sitios investigando los Aviso del Ladrón Fantasma... Aunque es crucial que protejamos nuestras identidades...
 Increased awareness of the Phantom Thieves\namong the general public could help\nstimulate people's desires.=El mayor reconocimiento de los Ladrones Fantasma entre el público general podría ayudar a estimular los deseos de la gente.
 We should try to make our next calling card\nas high profile as possible, while preserving\nour anonymity.=Deberíamos intentar que nuestro próximo aviso que sea lo más llamativa posible, sin perder el anonimato.
 Speaking of stimulating desire, those\nShadows that came to amplify Akashi's\npower...=Hablando de deseo estimulante, esas Sombras que vinieron a amplificar el poder de Akashi...
@@ -45543,7 +45501,6 @@ Freeze!=¡Alto ahí!
 Live an ordinary life=Vive una vida ordinaria
 The Phantom Thieves gather on the rooftop during lunch. Riko has been thinking about Akashi's calling card...=Los Ladrones Fantasma se reúnen en la azotea durante el almuerzo. Riko ha estado pensando en el aviso de Akashi...
 Major Announcement=Anuncio importante
-The Masks We Wear=Las Máscaras que Llevamos
 The Method We Discussed=El Método que Discutimos
 Yeah! I'm honored get a glimpse of\nRiko-senpai's bad side! Let's slam dunk his\nface in all his crimes!=¡Sí! ¡Me siento honrado de ver el lado oscuro de Riko-senpai! ¡Vamos a estrellar su cara en todos sus crímenes!
 Haha, that's not a bad thing! When it comes\nto the Phantom Thieves, you gotta be cruel to\nbe kind.=¡Jaja, eso no es malo! Cuando se trata de los Ladrones Fantasma, a veces hay que ser cruel para ser bondadoso.
@@ -45625,7 +45582,7 @@ Burned by Sin=Quemado por el Pecado
 {{A}} Side Mission: Finding the Real Me to unlock.=Misión secundaria de {{A}}: Encontrar el verdadero yo para desbloquear.
 It seems {{A}} wants to talk about something.\nI should go to the second-floor hallway.=Parece que {{A}} quiere hablar sobre algo. Debería ir al pasillo del segundo piso.
 Finding the Real Me=Encontrando a mi verdadero yo
-Wait until it's {{A}} and Early Morning=Espera hasta que sea {{A}} y primeras horas de la mañana
+Wait until it's Clear and Early Morning=Espera hasta que esté Despejado y sea Temprano por la mañana
 Do you want to track the mission Finding the Real Me?=¿Quieres rastrear la misión Encontrando a mi verdadero yo?
 Go to the shoe lockers=Ve a los casilleros de zapatos
 Pass a purple or red Stella in Trial of the Astrolabe =Pasa una Estrella morada o roja en la Prueba del Astrolabio 
@@ -45983,7 +45940,7 @@ Upper North Entrance=Entrada Norte Superior
 Upper North Interior=Interior Superior Norte
 You can now quick travel to the\n<color\=#FF423F>Upper Water Treatment Plant: North Entrance</color>.=Ahora puedes usar el viaje rápido al\n<color\=#FF423F>Planta de Tratamiento de Agua Superior: Entrada Norte</color>.
 You can now quick travel to the\n<color\=#FF423F>Mid Upper Water Treatment Plant: West Interior</color>.=Ahora puedes usar el viaje rápido al\n<color\=#FF423F>Planta de Tratamiento de Agua Media Superior: Interior Oeste</color>.
-Now, what's inside...=Ahora, ¿qué hay dentro...
+Now, what's inside...=Ahora, qué hay dentro...
 We can use this for energy transfers too,\nhuh? Pretty handy.=También podemos usar esto para transferencias de energía, ¿eh? Muy útil.
 Dang... so it absorbed power from the control\npanel. This thing really is crazy powerful.=Vaya... así que absorbió energía del panel de control. Esto sí que es una bestia de poder.
 You can now quick travel to the\n<color\=#FF423F>Upper Water Treatment Plant: North Interior</color>.=Ahora puedes usar el viaje rápido al\n<color\=#FF423F>Planta de Tratamiento de Agua Superior: Interior Norte</color>.
@@ -46369,7 +46326,6 @@ Has extremely high HP. After 4 turns, it activates Ragnarok, increasing {{A}}'s 
 T<color\=#000000>h</color>under God's Protection=P<color\=#000000>r</color>otección del Dios del Trueno
 Thunder God's Protection=Protección del Dios del Trueno
 Final Damage Taken Up=Daño Final Recibido Aumentado
-When using a skill, temporarily gain 5% of Effects stats from Sweeper or Assassin ally with highest Atk (excluding Justine & Caroline).=Al usar una habilidad, obtén temporalmente el 5% de estadísticas de efectos del aliado Barrendero o Asesino con mayor ATQ (excluyendo a Justine y Caroline).
 Rebel Surveillance=Vigilancia Rebelde
 Increase final dmg by 500%. When dealing skill dmg, charge Mjolnir's energy.=Aumenta el daño final en un 500%. Al infligir daño de habilidad, carga la energía de Mjolnir.
 Lost Chip E=Chip E perdido
@@ -46435,18 +46391,11 @@ Seiryu will inflict weakness to a target. If Seiryu is present when a target is 
 B<color\=#000000>l</color>ack Tortoiseshell=T<color\=#000000>o</color>rtuga de Caparazón Negro
 {{A}}'s Pyre=El Pira de {{A}}
 P<color\=#000000>y</color>re=P<color\=#000000>i</color>ra
-Physical Weakness=Debilidad Físico
-P<color\=#000000>h</color>ysical Weakness=D<color\=#000000>e</color>bilidad Física
-Physical affinity changed to Weak!=¡Afinidad de Físico cambiada a Débil!
 {{A}}'s Feathers=Plumas de {{A}}
 U<color\=#000000>n</color>targetable=N<color\=#000000>o</color> Seleccionable
 {{A}} cannot be targeted...={{A}} no puede ser objetivo...
-Psychokinesis affinity changed to Weak!=¡La afinidad de Psicoquinesis cambió a Débil!
 G<color\=#ff0000ff>o</color> to Area 7=I<color\=#ff0000ff>r</color> al Área 7
 Path of Chemdah Depths=Profundidades del Sendero de Chemdah
-Ice Weakness=Debilidad a Hielo
-I<color\=#000000>c</color>e Weakness=D<color\=#000000>e</color>bilidad Hielo
-Ice affinity changed to Weak!=¡Afinidad por Hielo cambiada a Débil!
 Black Tortoiseshell=Tortuga de Caparazón Negro
 G<color\=#ff0000ff>o</color> to Path of Kaitul=I<color\=#ff0000ff>r</color> al Camino de Kaitul
 R<color\=#ff0000ff>e</color>turn to Path of Chemdah Area 6=<size\=26>R<color\=#ff0000ff>e</color>gresar al Camino de Chemdah Área 6</size>
@@ -49032,7 +48981,7 @@ I've actually wanted this for a very long\ntime now. I don't recall mentioning t
 It's almost as if you read my mind. You've\nmade me very happy. Thank you.=Es casi como si leyeras mi mente. Me has hecho muy feliz. Gracias.
 We stopped by Central Street.\nAt the diner, Riko told me\nabout her favorite foods...=Pasamos por la Calle Central.\nEn el restaurante, Riko me contó\nsobre sus comidas favoritas...
 The trio once again infiltrated the Palace in an attempt to change Kamoshida's heart. Somehow, Ann has also appeared in this world...=El trío una vez más se infiltró en el Palacio en un intento por cambiar el corazón de Kamoshida. Por alguna razón, Ann también ha aparecido en este mundo...
-After returning from the real world, the four of them secretly put up calling cards around the school, exposing Kamoshida's evil deeds. The card was signed by "The Phantom Thieves of Hearts."=Después de regresar del mundo real, los cuatro colocaron en secreto tarjetas de presentación por toda la escuela, exponiendo las acciones malvadas de Kamoshida. La tarjeta estaba firmada por "Los Ladrones Fantasma de Corazones".
+After returning from the real world, the four of them secretly put up calling cards around the school, exposing Kamoshida's evil deeds. The card was signed by "The Phantom Thieves of Hearts."=Después de regresar del mundo real, los cuatro colocaron en secreto el Aviso por toda la escuela, exponiendo las acciones malvadas de Kamoshida. La tarjeta estaba firmada por "Los Ladrones Fantasma de Corazones".
 After meeting up with Ryuji again, they discussed the strange castle they saw, and decided to attempt entry once again. As the two struggled in their foreign surroundings, Morgana called out to them...=Después de encontrarse con Ryuji de nuevo, hablaron sobre el extraño castillo que vieron y decidieron intentar entrar una vez más. Mientras los dos tenían dificultades en ese entorno desconocido, Morgana los llamó...
 In the real world, Morgana appeared to Ryuji and the protagonist in the form of a cat. As Morgana began to explain how Kamoshida's heart could be changed by using the Palace, Ann's best friend, Shiho, gazed down at the ground from the school rooftop...=En el mundo real, Morgana se les apareció a Ryuji y al protagonista en forma de gato. Mientras Morgana empezaba a explicar cómo se podía cambiar el corazón de Kamoshida utilizando el Palacio, la mejor amiga de Ann, Shiho, miraba hacia abajo al suelo desde la azotea de la escuela...
 The Phantom Thieves infiltrated the Palace to steal the Treasure. Twisted by his distorted desires, Kamoshida took on a monstrous, demonic form and attacked them. The Phantom Thieves were cornered...!=Los Ladrones Fantasma infiltraron el Palacio para robar el Tesoro. Distorsionado por sus deseos retorcidos, Kamoshida adoptó una forma monstruosa y demoníaca, atacándolos. ¡Los Ladrones Fantasma quedaron acorralados...!
@@ -50121,7 +50070,6 @@ One of the major Hindu gods, he is the preserver and protector of the universe. 
 Galaxy of Desire=Galaxia de Deseo
 None shall enter!=¡Nadie pasará!
 A monstrous, fire spitting, Japanese bird with a man's face. It is actually a corpse that was not given a proper memorial service. They appear before monks who neglect their duties.=Un pájaro japonés monstruoso que escupe fuego y tiene rostro humano. En realidad es un cadáver al que no se le dio un funeral adecuado. Aparece ante monjes que descuidan sus deberes.
-NV.49=NV.49
 A master sportsman who entertains the audience in exchange for his own life: one mistake can mean death. Some believe that matadors who die while performing remain in this world.=Un maestro deportista que entretiene al público a cambio de su propia vida: un solo error puede significar la muerte. Algunos creen que los matadores que mueren durante la actuación permanecen en este mundo.
 One of the four oni controlled by Fujiwara no Chikata, it sends hurricanes to blow away its enemies. Some say that Fuu-ki is the original ninja.=Uno de los cuatro oni controlados por Fujiwara no Chikata, envía huracanes para barrer a sus enemigos. Algunos dicen que Fuu-ki es el ninja original.
 An ancient Persian god of contracts. He was also revered as a harvest-bringing sun god when he was introduced to the Zoroastrian religion.=Un antiguo dios persa de los contratos. También fue venerado como dios solar que trae cosechas cuando fue introducido en la religión zoroástrica.
@@ -50151,7 +50099,6 @@ Do you want to use the following to perform A Lioness in Red 1 times?=¿Quieres 
 A special crystal used to forge Purgatory.=Un cristal especial utilizado para forjar forjar Purgatorio.
 The general of Hell. He keeps watch over other demons. One of Hell's greatest necromancers, he can control souls and corpses.=El general del Infierno. Vigila a los otros demonios. Uno de los más grandes nigromantes del Infierno, puede controlar almas y cadáveres.
 Happy, Happy New Year!=¡Feliz, feliz año nuevo!
-Firecracker Yaoling has joined the Phantom Thieves=Firecracker Yaoling se ha unido a los Ladrones Fantasma
 At times, I'll compare my way of thinking\nto those of others.=A veces, comparo mi forma de pensar con la de los demás.
 It makes me think that I'm too constrained\nby insisting on formal correctness.=Me hace pensar que estoy demasiado limitado por insistir en la corrección formal.
 But after having interacted with those who\ncome to different conclusions?=¿Pero después de haber interactuado con aquellos que llegan a conclusiones diferentes?
@@ -51668,9 +51615,6 @@ Gained Cardiac Stimulation!=¡Obtuviste Estimulación Cardíaca!
 C<color\=#000000>a</color>rdiac Stimulation=E<color\=#000000>s</color>timulación cardíaca
 Your Phantom Thieves' Weapons, Skills are not strong enough.=Las armas y habilidades de tus Ladrones Fantasma no son lo suficientemente fuertes.
 Requires 3 party members with a role other than Elucidator.=Requiere 3 miembros del equipo con un rol distinto a Elucidator.
-Fire affinity changed to Weak!=¡Afinidad por Fuego cambiada a Débil!
-Wind affinity changed to Weak!=¡Afinidad de Wind cambiada a Débil!
-Gun affinity changed to Weak!=¡Afinidad a Arma a Distancia cambiada a Débil!
 Ummmm... Guess I'll head back!=Ummmm... ¡Creo que mejor me voy!
 1. Jikokuten has <color\=#ff3b37>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, also grants a shield to 1 random Shadow.\n2. Zouchouten can activate <color\=#ff3b37>Growth of All Things</color>.\nGrowth of All Things: Randomly increases Attack, Defense, or damage of all Shadows each turn.\n3. Koumokuten can activate <color\=#ff3b37>Eye of Heaven</color>.\nEye of Heaven: Selects 1 Phantom Thief.\nIncreases their damage taken and has Shadows focus attacks on them next turn.\n4. Bishamonten has <color\=#ff3b37>Parasol of Chaos</color>.\nParasol of Chaos: Covers the Shadow with the lowest HP, and changes all elemental affinities to Resist.\nLasts for 2 turns.=1. Jikokuten tiene <color\=#ff3b37>Hoja del Santuario</color>. Hoja del Santuario: Cada vez que se inflige daño, también otorga un escudo a 1 Sombra aleatoria. 2. Zouchouten puede activar <color\=#ff3b37>Crecimiento de todas las cosas</color>. Crecimiento de todas las cosas: Aumenta aleatoriamente el Ataque, la Defensa o el daño de todas las Sombras cada turno. 3. Koumokuten puede activar <color\=#ff3b37>Ojo del cielo</color>. Ojo del Cielo: Selecciona 1 Phantom Thief. Aumenta el daño que recibe y hace que las Sombras centren sus ataques en él en el siguiente turno. 4. Bishamonten tiene <color\=#ff3b37>Parasol del caos</color>. Sombrilla del Caos: Cubre a la Sombra con menos PS y cambia todas sus afinidades elementales a Resistir. Dura 2 turnos.
 This is currently equipped to Shun Kano. Do you want to change that?=Esto está equipado actualmente a Shun Kano. ¿Quieres cambiarlo?
@@ -51693,7 +51637,6 @@ Event Shop Ending Soon=Tienda de eventos cerrando pronto
 Dancing with the Happy-Go-Lucky Lions Ending Soon=Pronto termina el baile con los Leones Felices y Sin Cuidado
 The Amber Yearbeast boss challenge will be ending soon.=El desafío del jefe Yearbeast Ámbar estará terminando pronto.
 Alca¤chofas=Alcachofas
-NV.86=NV.86
 Like upside-down blessings, there are many\nother symbols of luck in China based on\nhomophones, like bats.=Como las bendiciones invertidas, hay muchos otros símbolos de suerte en China basados en homófonos, como los murciélagos.
 This one here is based on the Chinese\ncharacters for the word "bat."=Este está basado en los caracteres chinos para la palabra "murciélago".
 It is also customary to display a golden pig\nwhich is said to bring good fortune.=También es costumbre exhibir un cerdo dorado que, según dicen, atrae buena suerte.
@@ -52495,7 +52438,7 @@ P<color\=#000000>r</color>imal Instinct=I<color\=#000000>n</color>stinto Primal
 Increase Seth's final Highlight damage taken by 20%. Decrease all other final skill damage taken by 30%.=Aumenta el daño final de Highlight de Seth recibido en un 20%. Reduce el daño final de todas las demás habilidades recibido en un 30%.
 Haru's Skills=Habilidades de Haru
 Take Over=Asalto
-Nv. 5=Nv. 5
+Lv. 5=Nv. 5
 3 new songs unlocked.=3 canciones nuevas desbloqueadas.
 The notes comes together beneath your deft fingers, conveying the emotions hidden within the song.=Las notas se unen bajo tus dedos hábiles, transmitiendo las emociones ocultas en la canción.
 5 or less Miss notes. =5 o menos notas Fallo. 
@@ -52977,7 +52920,7 @@ I am correct in that you wish to give this\nto me...?=¿Estoy en lo cierto al pe
 I appreciate your kindness. I graciously\naccept this gift.=Agradezco tu amabilidad. Acepto con gusto este regalo.
 Looks like a classic\ncabinet-style racing game...=Parece el clásico juego de carreras\ncon mueble de recreativa...
 She's in second place, hot on\nthe heels of the first car...=Va en segundo lugar, pisándole los\ntalones al primer coche...
-Gotcha...=Te tengo...
+Gotcha...=Entiendo...
 She overtook the leading car\nin an instant...!=¡Adelantó al auto que iba\nde primero en un instante...!
 Keeping her momentum,\nshe won the race...=Manteniendo su impulso,\nganó la carrera...
 If you're gonna play, take a seat.=Si vas a jugar, toma asiento.
@@ -54586,8 +54529,8 @@ Lucky Red=Rojo Afortunado
 Sky Lantern Festival=Festival de Linternas del Cielo
 For 2 turns, take Fire damage based on Firecracker Yaoling's Attack. Stacks up to 4 times.=Durante 2 turnos, recibe daño de Fuego basado en el Ataque de Firecracker Yaoling. Se acumula hasta 4 veces.
 <color\=#72C5FF>Year-End Flames</color>=<color\=#72C5FF>Llamas de Fin de Año</color>
-Deployed {{A}}: ={{A}} Desplegado: 
-Abnormality {{A}}.=Anormalidad {{A}}.
+Deployed LV: =NV Desplegado: 
+Abnormality Lv.=Anormalidad Nv.
 When the party has 2 or more <color\=#FFFC40>Sweeper or Assassin</color> allies, all allies' final damage is increased by 20%.=Cuando el grupo tiene 2 o más <color\=#FFFC40>Barrenderos o Asesino</color> aliados, el daño final de todos los aliados aumenta un 20%.
 Sweeper/Assassin score bonus ×=Bonificación de puntuación de Barrendero/Asesino ×
 G<color\=#000000>o</color>d's Ear=O<color\=#000000>í</color>do de Dios
@@ -54987,7 +54930,7 @@ My scheduled delivery time is coming up, but\nthe road's iced over... Whoa, almo
 Buying & Enhancing=Comprar y Mejorar
 Fully restore HP, SP, and Highlight Gauge before taking on the boss at the terminal station.=Restaura por completo PS, PE y la barra de Highlight antes de enfrentarte al jefe en la estación terminal.
 Weapon Gift Box=Caja de regalo de arma
-Artisan's Mod Order Piece=Pieza de Orden del Mod del Artesano
+Artisan's Mod Order Piece=Pieza de Orden de Mod de Artesano
 Wonder Weapon Enhancement Box=Caja de Mejora de Armas Wonder
 Piece=Pieza
 Can be used to obtain Venus Gem x2 and Venus Bottle x6.=Puede usarse para obtener Gema de Venus x2 y Botella Venus x6.
@@ -55021,7 +54964,6 @@ And another time, this girl was crying after\nbeing broken up with, and she aske
 ...and for some reason, I wound up singing it\nfor her!=... ¡y por alguna razón, terminé cantándola para ella!
 Wow. you sang a song to cheer her up!? Huh,\nmaybe I could work there too...=Vaya. ¿¡Cantaste una canción para animarla!? Jeje, tal vez yo también podría trabajar allí...
 Manaka listened intently\nto Tomoko's stories...=Manaka escuchó atentamente las\nhistorias de Tomoko...
-Each time damage is dealt with a skill, increase the user's Fire damage by 3%. This effect lasts 3 turns and stacks up to 8 times. When at 8 stacks, also increase user's critical rate by 6%.=Cada vez que se inflija daño con una habilidad, aumenta el daño de Fuego del usuario en un 3 %. Este efecto dura 3 turnos y se acumula hasta 8 veces. Al llegar a 8 acumulaciones, también aumenta la tasa de crítico del usuario en un 6 %.
 When equipped by an Elucidator Phantom Thief: When granting buffs to allies with a skill, increase the main target's pierce rate by <color\=#2899ff>5%</color> for 1 turn.=Cuando lo equipa un Ladrón Fantasma con Elucidator: Al otorgar buffs a los aliados con una habilidad, aumenta la tasa de penetración del objetivo principal en <color\=#2899ff>5%</color> durante 1 turno.
 Take down Shadows and complete challenges to earn special rewards.=Derrota a las Sombras y completa los desafíos para obtener recompensas especiales.
 The method to obtain the music track Blooming Villain has been unlocked.\n=Se ha desbloqueado el método para obtener la pista musical Villano en Flor.\n
@@ -55267,6 +55209,7 @@ E<color\=#000000>l</color>ectrifying Performance=I<color\=#000000>n</color>terpr
 T<color\=#000000>e</color>mpestuous Drama=D<color\=#000000>r</color>ama Tempestuoso
 F<color\=#000000>o</color>llowspot=F<color\=#000000>o</color>co de Seguimiento
 I<color\=#000000>m</color>provise=I<color\=#000000>m</color>provisar
+I<color\=#000000>n</color> the Limelight=B<color\=#000000>a</color>jo los Reflectores
 A<color\=#000000>d</color>lib=A<color\=#000000>d</color>lib
 Chilling Intensity=Intensidad de Enfriamiento
 Electrifying Performance=Interpretación Electrizante
@@ -55296,7 +55239,6 @@ Clear <color\=#ff0000>Fate Stella</color>\nClear <color\=#ff0000>9 Stellae</colo
 Eeek...! Nagisa-san!? How long have you been\nstanding there for...!?=¡Eeek...! ¡¡Nagisa-san!? ¿Cuánto tiempo llevas ahí parado...!?
 I thought I was alone, so I just started\nhumming to myself...!=¡Pensé que estaba sola, así que empecé a tararear para mí misma...!
 Oh, this is so embarrassing...! P-Please,\nforget you heard anything!=¡Ay, esto es tan embarazoso...! P-Por favor, olvida que escuchaste algo.
-Shoki Ikenami has joined the Phantom Thieves=Shoki Ikenami se ha unido a los Ladrones Fantasma
 Fantastico! This place is magnificent!=¡Fantástico! Este lugar es magnífico!
 It's like something out of a fantasy novel.\nI've never seen anything like it.=Es como algo sacado de una novela de fantasía. Nunca he visto nada igual.
 It's quite spacious. I'd like to explore it a bit more. You should join me later.=Es bastante amplio. Me gustaría explorarlo un poco más. Deberías acompañarme después.
@@ -55963,7 +55905,7 @@ Tomorrow=Mañana
 The highest floor you've reached during Tartarus exploration will be recorded.=Se registrará el piso más alto que hayas alcanzado durante la exploración del Tártaro.
 Tartarus: Arbiter=Tártaro: El Árbitro
 Barbaric Beast Wheel: Full Moon=Rueda de la Bestia Bárbara: Luna Llena
-Awarded for playing Met by Moonlight: Luminous Island.=Otorgado por jugar Encuentro Najo La Luz De La Luna: Isla Luminosa.
+Awarded for playing Met by Moonlight: Luminous Island.=Otorgado por jugar Encontrado por la Luz de la Luna: Isla Luminosa.
 New Moon of the Dark Hour=Luna Nueva de la Hora Oscura
 Highlight/Theurgy Animations=Animaciones de Highlight/Teúrgia
 Highlights/Theurgy in Auto-Battle=Highlight/Teúrgia en Batalla Automática
@@ -56459,3 +56401,69 @@ I'll hold you to it.=Te lo voy a recordar.
 I'm looking forward to the\nnext time I get to see you.=Tengo muchas ganas de que llegue la próxima vez que pueda verte.
 Ryugarra Light=Ryugarra Light
 Wonder Bread=Wonder Bread
+
+#Weaks implants
+#Physical
+P<color\=#000000>h</color>ysical Weakness=D<color\=#000000>e</color>bilidad a Físico
+Physical affinity changed to Weak!=¡La afinidad de Físico cambió a Débil!
+Physical Weakness=Debilidad a Físico
+Change Physical affinity to Weak.=Cambia la afinidad de Físico a Débil.
+
+#Gun
+G<color\=#000000>u</color>n Weakness=D<color\=#000000>e</color>bilidad a Arma a Distancia
+Gun affinity changed to Weak!=¡La afinidad de Arma a Distancia cambió a Débil!
+Gun Weakness=Debilidad a Arma a Distancia
+Change Gun affinity to Weak.=Cambia la afinidad de Arma a Distancia a Débil.
+
+#Fire
+F<color\=#000000>i</color>re Weakness=D<color\=#000000>e</color>bilidad a Fuego
+Fire affinity changed to Weak!=¡La afinidad de Fuego cambió a Débil!
+Fire Weakness=Debilidad a Fuego
+Change Fire affinity to Weak.=Cambia la afinidad de Fuego a Débil.
+
+#Ice
+I<color\=#000000>c</color>e Weakness=D<color\=#000000>e</color>bilidad a Hielo
+Ice affinity changed to Weak!=¡La afinidad de Hielo cambió a Débil!
+Ice Weakness=Debilidad a Hielo
+Change Ice affinity to Weak.=Cambia la afinidad de Eléctrico a Débil.
+
+#Electric
+E<color\=#000000>l</color>ectric Weakness=D<color\=#000000>e</color>bilidad a Eléctrico
+Electric affinity changed to Weak!=¡La afinidad de Eléctrico cambió a Débil!
+Electric Weakness=Debilidad a Eléctrico
+Change Electric affinity to Weak.=Cambia la afinidad de Eléctrico a Débil.
+
+#Wind
+W<color\=#000000>i</color>nd Weakness=D<color\=#000000>e</color>bilidad a Viento
+Wind affinity changed to Weak!=¡La afinidad de Viento cambió a Débil!
+Wind Weakness=Debilidad a Viento
+Change Wind affinity to Weak.=Cambia la afinidad de Viento a Débil.
+
+#Psychokinesis
+P<color\=#000000>s</color>ychokinesis Weakness=D<color\=#000000>e</color>bilidad a Psicoquinesis
+Psychokinesis affinity changed to Weak!=¡La afinidad de Psicoquinesis cambió a Débil!
+Psychokinesis Weakness=Debilidad a Psicoquinesis
+Change Psychokinesis affinity to Weak.=Cambia la afinidad de Psicoquinesis a Débil.
+
+P<color\=#000000>s</color>y Weakness=D<color\=#000000>e</color>bilidad a Psicoquinesis
+Psy affinity changed to Weak!=¡La afinidad de Psicoquinesis cambió a Débil!
+Psy Weakness=Debilidad a Psicoquinesis
+Change Psy affinity to Weak.=Cambia la afinidad de Psicoquinesis a Débil.
+
+#Nuclear
+N<color\=#000000>u</color>clear Weakness=D<color\=#000000>e</color>bilidad a Nuclear
+Nuclear affinity changed to Weak!=¡La afinidad de Nuclear cambió a Débil!
+Nuclear Weakness=Debilidad a Nuclear
+Change Nuclear affinity to Weak.=Cambia la afinidad de Nuclear a Débil.
+
+#Bless
+B<color\=#000000>l</color>ess Weakness=D<color\=#000000>e</color>bilidad a Bendición
+Bless affinity changed to Weak!=¡La afinidad de Bendición cambió a Débil!
+Bless Weakness=Debilidad a Bendición
+Change Bless affinity to Weak.=Cambia la afinidad de Bendición a Débil.
+
+#Curse
+C<color\=#000000>u</color>rse Weakness=D<color\=#000000>e</color>bilidad a Maldición
+Curse affinity changed to Weak!=¡La afinidad de Maldición cambió a Débil!
+Curse Weakness=Debilidad a Maldición
+Change Curse affinity to Weak.=Cambia la afinidad de Maldición a Débil.
