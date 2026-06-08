@@ -624,16 +624,9 @@ Since the teleporter's broken, we have no\nchoice but to use the entrance.=Como 
 Something feels off about Tartarus... Let's\nbe careful as we search each floor.=Algo se siente raro en Tártaro... Seamos cuidadosos mientras registramos cada piso.
 
 #Tutoriales
-Recollections Under Moonlight=Recuerdos Bajo la Luz de la Luna
 Met by Moonlight: Luminous Island=Encontrado por la Luz de la Luna: Isla Luminosa
 Clear event missions and earn rewards!=¡Completa las misiones de eventos y gana recompensas!
 Enemy Team=Grupo de Enemigos
-
-Met by Moonlight: Pierce the Night Sky=Encontrado por la Luz de la Luna: Perfora el Cielo Nocturno
-#Mirar
-<color\=#FFD145>Event Introduction</color>\nThe second Persona 3 Reload special event Pierce the Night Sky includes 7 sub-events: Pierce the Night Sky, Tartarus, Recollections Under Moonlight, Paulownia Mall, Login Bonus, Missions, and Exchange Shop.\n\n<color\=#FFD145>Event duration</color>\nThis is a limited-time event.\nWhen the event is over, Pierce the Night Sky can still be played in Past Events.\n\n<color\=#FFD145>Tartarus</color>\nYou can earn rewards for exploring Tartarus. Tartarus is a permanent event and can still be played after the event ends.\n\n<color\=#FFD145>Recollections Under Moonlight</color>\nDefeat the boss to earn rewards.\n\n<color\=#FFD145>Paulownia Mall</color>\nComplete goals related to Paulownia Mall to earn rewards.\n\n<color\=#FFD145>Login Bonus</color>\nLog in daily to claim login bonuses. Rewards will be unlocked sequentially according to your cumulative login days, and rewards for the day will refresh at 8 PM UTC.\n\n<color\=#FFD145>Missions</color>\nComplete set goals to earn a variety of rewards.\n\n<color\=#FFD145>Exchange Shop</color>Trade Wheels of Time: Crescent Moon for a variety of items.\nWhen the event ends, the Exchange Shop will be closed and all unused Wheel of Time: Crescent Moon will be converted into Konpaku Gems.=<color\=#FFD145>Introducción del Evento</color>\nEl segundo evento especial de Persona 3 Reload Perfora el Cielo Nocturno incluye 7 sub-eventos: Perfora el Cielo Nocturno, Tártaro, Recolecciones Bajo la Luz de la Luna, Centro Comercial Paulownia, Bonificación de Inicio de Sesión, Misiones, y Tienda de Intercambio.\n\n<color\=#FFD145>Duración del Evento</color>\nEste es un evento de tiempo limitado.\nCuando el evento termine, Perfora el Cielo Nocturno se podrá seguir jugando en Eventos Pasados.\n\n<color\=#FFD145>Tártaro</color>\nPuedes obtener recompensas al explorar el Tártaro. El Tártaro es un evento permanente y se puede seguir jugando después del evento.\n\n<color\=#FFD145>Recolecciones Bajo la Luz de la Luna</color>\nDerrota al jefe para conseguir recompensas.\n\n<color\=#FFD145>Centro Comercial Paulownia</color>\nCompleta metas relacionadas al centro comercial Paulownia para conseguir recompensas.\n\n<color\=#FFD145>Bonificación de Inicio de Sesión</color>\nInicia sesión diariamente para reclamar bonificaciones. Las recompensas se desbloquean secuencialmente de acuerdo a tus días iniciando sesión, y las recompensas del día se actualizan a las 8 PM UTC.\n\n<color\=#FFD145>Misiones</color>\nCompleta metas para conseguir una variedad de recompensas.\n\n<color\=#FFD145>Tienda de Intercambio</color>\nIntercambia Rueda del Timepo: Luna Creciente por una variedad de objetos.\nCuando el evento termine, la Tienda de Intercambio se cerrará y las Ruedas del Tiempo: Luna Creciente sin usar se convertirán en Gemas Konpaku.
-r:"^(.*?)<color\=#(.*?)>Event Introduction</color>(.*?)The second Persona 3 Reload special event Pierce the Night Sky includes 7 sub-events: Pierce the Night Sky, Tartarus, Recollections Under Moonlight, Paulownia Mall, Login Bonus, Missions, and Exchange Shop\.(.*?)$"="$1<color\=#$2>Introducción del Evento</color>\nEl segundo evento especial de Persona 3 Reload Perfora el Cielo Nocturno incluye 7 sub-eventos: Perfora el Cielo Nocturno, Tártaro, Recolecciones Bajo la Luz de la Luna, Centro Comercial Paulownia, Bonificación de Inicio de Sesión, Misiones, y Tienda de Intercambio.\n\n<color\=#FFD145>Duración del Evento</color>\nEste es un evento de tiempo limitado.\nCuando el evento termine, Perfora el Cielo Nocturno se podrá seguir jugando en Eventos Pasados.\n\n<color\=#FFD145>Tártaro</color>\nPuedes obtener recompensas al explorar el Tártaro. El Tártaro es un evento permanente y se puede seguir jugando después del evento.\n\n<color\=#FFD145>Recolecciones Bajo la Luz de la Luna</color>\nDerrota al jefe para conseguir recompensas.\n\n<color\=#FFD145>Centro Comercial Paulownia</color>\nCompleta metas relacionadas al centro comercial Paulownia para conseguir recompensas.\n\n<color\=#FFD145>Bonificación de Inicio de Sesión</color>\nInicia sesión diariamente para reclamar bonificaciones. Las recompensas se desbloquean secuencialmente de acuerdo a tus días iniciando sesión, y las recompensas del día se actualizan a las 8 PM UTC.\n\n<color\=#FFD145>Misiones</color>\nCompleta metas para conseguir una variedad de recompensas.\n\n<color\=#FFD145>Tienda de Intercambio</color>\nIntercambia Rueda del Timepo: Luna Creciente por una variedad de objetos.\nCuando el evento termine, la Tienda de Intercambio se cerrará y las Ruedas del Tiempo: Luna Creciente sin usar se convertirán en Gemas Konpaku$2."
-
 
 Met by Moonlight=Encontrado por la Luz de la Luna
 Explore <color\=#FF423F>Tartarus</color> and complete <color\=#FF423F>Recollections Under Moonlight</color> to earn <color\=#FF423F>Wheels of Time: New Moon</color> and other fantastic rewards.=Explora el <color\=#FF423F>Tártaro</color> y completa <color\=#FF423F>Recolecciones bajo la Luz de la Luna</color> para conseguir <color\=#FF423F>Ruedas del Tiempo: Luna Nueva</color> y otras fantásticas recompensas.
@@ -685,34 +678,26 @@ Go to Tartarus=Ir al Tártaro
 Clear the mission to unlock Tartarus=Completa la misión para desbloquear el Tártaro.
 Let's head to Tartarus and meet up with Makoto.=Vayamos al Tártaro y encontrémonos con Makoto.
 
-Head to a New Location=Dirígete a una Nueva Ubicación
-Check your messages=Revisa tus mensajes
 
 Luminous Island=Isla Luminosa
 r:"^Clear Chapter ([0-9]+) of Luminous Island$"="Completa el capítulo $1 de la Isla Luminosa"
 r:"^Open ([0-9]+) treasure chests$"="Abre $1 cofres del tesoro"
 Open all treasure chests=Abre todos los cofres del tesoro.
 
-Pierce the Night Sky=Perfora el Cielo Nocturno
-r:"^Clear Chapter ([0-9]+) of any P3R special event$"="Completa el capítulo $1 de cualquier evento especial de P3R."
-
 Tartarus=Tártaro
 r:"^Defeat ([0-9]+) Shadow$"="Derrota a $1 sombra"
+#Mirar
 r:"^Unlock ([0-9]+) of {{A}}\'s Dream Chapters$"="Desbloquea $1 de los Capítulos de los Sueños de {{A}}"
 r:"^Unlock ([0-9]+) teammate during Tartarus exploration$"="Desbloquea $1 compañero durante la exploración del Tártaro"
 r:"^Unlock ([0-9]+) unique attributes, schema skill, or weapon forging in Tartarus Mastery$"="Desbloquea $1 atributos únicos, habilidad de esquema o forja de armas en la Maestría del Tártaro"
 r:"^Unlock ([0-9]+) Antique at Mayoido Antiques$"="Desbloquea $1 antigüedad en Antigüedades Mayoido"
 
 r:"^Clear Barbaric Beast Wheel on difficulty ([0-9]+)$"="Derrota la Rueda de Bestia Barbárica en dificultad $1"
-r:"^Clear Lascivious Lady on difficulty ([0-9]+)$"="Derrota a la Dama Lasciva en dificultad $1"
-
-r:"^Defeat ([0-9]+) Intersected Shadow$"="Derrota a $1 Sombra de Intersección"
-Unlock the Vintage Necklace at Mayoido Antiques=Desbloquea el Collar Vintage en Antigüedades Mayoido
 
 #Objetos
 Twilight Fragment=Fragmentos Crepusculares
 
-{{A}}'s Dream Fragment=Fragmento de Sueño de {{A}}
+r:"^(.+?)'s Dream Fragment$"="Fragmento de Sueño de $1"
 Dream Fragment=Fragmento de Sueño
 Obtained from Tartarus. Can be used to unlock {{A}}'s side story.=Obtenido del Tártaro.\nSe puede utilizar para desbloquear la historia secundaria de {{A}}.
 
@@ -720,30 +705,17 @@ Wheel of Time: New Moon=Rueda del Tiempo: Luna Nueva
 Can be gained by participating in the Luminous Island event, and can be exchanged for items in the event shop.=Se obtiene participando en el evento Isla Luminosa y se puede canjear por artículos en la tienda del evento.
 Wheel of Time: New Moon\nCan be gained by participating in the Luminous Island event, and can be exchanged for items in the event shop.=Rueda del Tiempo: Luna Nueva\nSe obtiene participando en el evento Isla Luminosa y se puede canjear por artículos en la tienda del evento.
 
-Wheel of Time: Crescent Moon=Rueda del Tiempo: Luna Creciente
-Can be gained by participating in the Pierce the Night Sky event, and can be exchanged for items in the event exchange shop.=Se obtiene participando en el evento Perfora el Cielo Nocturno y se puede canjear por artículos en la tienda del evento.
-Wheel of Time: Crescent Moon\nCan be gained by participating in the Pierce the Night Sky event, and can be exchanged for items in the event exchange shop.=Rueda del Tiempo: Luna Creciente\nSe obtiene participando en el evento Perfora el Cielo Nocturno y se puede canjear por artículos en la tienda del evento.
-
 Barbaric Beast Wheel: New Moon=Rueda de Bestia Barbárica: Luna Nueva
 Barbaric Beast Wheel: Crescent Moon=Rueda de Bestia Barbárica: Luna Creciente
-Barbaric Beast Wheel: Half Moon=Rueda de Bestia Barbárica: Luna Media
 Barbaric Beast Wheel: Full Moon=Rueda de Bestia Barbárica: Luna Llena
+Barbaric Beast Wheel: Half Moon=Rueda de Bestia Barbárica: Luna Media
 r:"^Awarded for clearing Recollections Under Moonlight on difficulty ([0-9]+) in Luminous Island\.$"="Otorgado por completar Recuerdos Bajo la Luz de la Luna en dificultad $1 en Isla Luminosa."
 
 New Moon of the Dark Hour=Luna Nueva de la Hora Oscura
 Awarded for playing Met by Moonlight: Luminous Island.=Otorgada por participar en Encontrado por la Luz de la Luna: Ciudad Luminosa.
 
-Moonhaze Island=Isla de Neblina Lunar
-Awarded for playing Met by Moonlight: Pierce the Night Sky.=Otorgada por participar en Encontrado por la Luz de la Luna: Perfora el Cielo Nocturno.
-
 Tartarus: Arbiter=Tártaro: Árbitro
 The highest floor you've reached during Tartarus exploration will be recorded.=Se registrará el piso más alto que hayas alcanzado durante la exploración del Tártaro.
-
-Lascivious Lady: New Moon=Dama Lasciva: Luna Nueva
-Lascivious Lady: Crescent Moon=Dama lasciva: Luna Creciente
-Lascivious Lady: Half Moon=Dama Lasciva: Luna Media
-Lascivious Lady: Full Moon=Dama Lasciva: Luna Llena
-r:"^Awarded for clearing Recollections Under Moonlight on difficulty ([0-9]+) in Pierce the Night Sky\.$"="Otorgado por completar Recuerdos Bajo la Luz de la Luna en dificultad $1 en Perfora el Cielo Nocturno."
 
 
 #UI
@@ -763,7 +735,6 @@ Mission Details=Detalles de la Misión
 Recent Missions=Misiones Recientes
 Past Missions=Misiones Pasadas
 Special Missions=Misiones Especiales
-Main Missions=Misiones Principales
 Log in for 7 days to receive <size\=66><sprite\=19></size> x5 and <size\=66><sprite\=21></size> x5=Ingresa 7 días para recibir <size\=66><sprite\=19></size> x5 y <size\=66><sprite\=21></size> x5
 r:"^Day ([0-9]+)$"="Día $1"
 BOSS CHALLENGE=DESAFÍO DEL JEFE
@@ -778,14 +749,7 @@ Restart=Reiniciar
 Unlocked: =<size\=42>Desbloqueado: </size>
 Clear Luminous Island to unlock.=Completa la Isla Luminosa para desbloquearlo.
 Assist=Asistir
-FIRST=PRIMERO
-SECOND=SEGUNDO
-THIRD=TERCERO
-FOURTH=CUARTO
-FIFTH=QUINTO
-SIXTH=SEXTO
 SEVENTH=SÉPTIMO
-Log in for 4 days to receive <size\=66><sprite\=19></size> x5 and <size\=66><sprite\=21></size> x5=Inicia sesión durante 4 días para recibir <size\=66><sprite\=19></size> x5 y <size\=66><sprite\=21></size> x5
 BOSS=JEFE
 Boss HP Left=PS Restantes del Jefe
 For the best experience, play through The Masks We Wear: Phase 1 and Riko Tanemura's Synergy (Go to room 2-C) before playing this story.=Para disfrutar de la mejor experiencia, juega Las Máscaras que Vestimos: Parte 1 y la sinergia de Riko Tanemura (ve a la clase 2-C) antes de jugar esta historia.
@@ -830,13 +794,8 @@ r:"^([0-9]+) - ([0-9]+)F$"="$1 - $2F"
 r:"^Tartarus Floor ([0-9]+)$"="Tártaro - Piso $1"
 Tartarus Floor %s=Tártaro - Piso %s
 r:"^Current Location: Tartarus Floor (\d+)\nDo you want to save your current progress and return to the Tartarus entrance\?$"="Ubicación actual: Tártaro - Piso $1\n¿Quieres guardar tu progreso actual y regresar a la entrada del Tártaro?"
+You do not have enough Soul Fragments to unlock this. Find more by exploring Tartarus.=No tienes suficientes Fragmentos de Alma para desbloquear esto. Encuentra más explorando el Tártaro.
 Core Antiques=Antigüedades de Shinshoudo
-Clear Challenge Mode=Completar Modo Desafío
-TARTARUS=TÁRTARO
-CHAPTER=CAPÍTULO
-Unlocked by clearing the previous stage.=Se desbloque al completar el nivel anterior.
-Unlocks after clearing Head to a New Location.=Se desbloquea después de completar Dirígete a una nueva ubicación.
-New Missions=Nuevas Misiones
 
 r:"^Enemy Strength: +([0-9]+)$"="Fuerza del Enemigo: +$1"
 Exploration Difficulty: =Dific. de exploración: 
@@ -852,97 +811,25 @@ r:"^Base Collection Bonus: x([0-9]+)$"="Bono de Colección Base: x$1"
 r:"^Basic Training Material Bonus x([0-9]+)\.([0-9]+)\nOld Gemstone Collection Bonus x([0-9]+)\.([0-9]+)$"="Bonificación de Material de Entrenamiento Básico x$1,$2\nBonificación de Colección de Piedra Preciosa Antigua x$3,4"
 r:"^Basic Training Material Bonus x([0-9]+)\nOld Gemstone Collection Bonus x([0-9]+)$"="Bonificación de Material de Entrenamiento Básico x$1\nBonificación de Colección de Piedra Preciosa Antigua x$3"
 
-For every 1 Infatuation, decrease final damage dealt by 4%.=Por cada 1 acumulación de Amor Ciego, disminuye el daño final infligido en un 4%.
-Spiral of Desire is not removed over time. Also, decrease Defense of targets inflicted with Spiral of Desire for 2 turns.=Espiral de Deseo no se elimina con el tiempo.\nAdemás, disminuye la defensa de los objetivos infligidos con Espiral de Deseo durante 2 turnos.
-When Temptation is activated, inflict the last target that attacked the user with 1 stack of Infatuation.=Cuando se usa Tentación, inflige al último objetivo que atacó al usuario 1 acumulación de Amor Ciego.
-When Painful Pleasure is used, inflict 1 more Phantom Thief with Passionate Gaze. Also, increase final damage taken of targets inflicted with Passionate Gaze by 10%.=Cuando se usa Placer Doloroso, inflige a 1 Ladrón Fantasma más con Mirada Apasionada.\nAdemás, aumenta el daño final recibido de los objetivos infligidos con Mirada Apasionada en un 10%.
-The final damage increase effect for every Garden of Paradise is greatly enhanced.=El efecto de aumento de daño final para cada Jardín del Paraíso mejora enormemente.
-For every 1 Garden of Paradise, decrease final damage taken by 10%.=Por cada 1 Jardín del Paraíso, disminuye el daño final recibido en un 10%.
-Clear difficulty level 30 to unlock.=Completa la dificultad 30 para desbloquear.
-r:"^Decrease final dmg dealt by ([0-9]+)%\.$"="Reduce el daño final inflingido en $1%."
-r:"^Increase final dmg dealt by ([0-9]+)%\.$"="Incrementa el daño final inflingido en $1%."
-r:"^Actions: ([0-9]+)$"="Acciones: $1"
-Fight Lascivious Lady=Lucha contra la Dama Lasciva
-r:"^Challenge Attempts Left: ([0-9]+)/([0-9]+)$"="Intentos de desafío restantes: $1/$2"
-Ranking badges will be sent to your Inbox after the event ends.=La Medalla de clasificación se enviará a tu correo una vez finalizado el evento.
-HP Left=PS restante
-
 #Niveles historia
-#Resumen Historia
 By the Light of the Moon=A la Luz de la Luna
-After school, Riko extends an invitation to visit the man-made marvel, Tatsumi Port Island. On their way back, the monorail comes to a sudden halt...=Después de clase, Riko te invita a visitar la maravilla artificial de la Isla Puerto Tatsumi. En el camino de vuelta, el monorriel se detiene de repente...
-
 Midnight Madness=Locura de Medianoche
-Something strange happens after midnight at Iwatodai Station. When the hour is nigh, otherworldly creatures come to life...=Algo extraño sucede después de la medianoche en la estación de Iwatodai. Cuando la hora se acerca, criaturas de otro mundo cobran vida...
-
 Unfamiliar Void=Vacío Desconocido
-Beyond a blue door lies a realm shrouded in mystery. With countless questions and no clues, the only option is to press forward.=Más allá de una puerta azul yace un reino envuelto en misterio. Con innumerables preguntas y sin pistas, la única opción es seguir adelante.
-
 The Blue-Haired Savior=El Salvador Pelo-Azul
-As Wonder presses into the heart of the strange void, he is attacked again. Having lost his ability to fight back, he prepares to meet his end...=A medida que Wonder se adentra en el corazón del extraño vacío, vuelve a ser atacado. Al haber perdido la capacidad de defenderse, se prepara para afrontar su destino...
-
 Who Are These Two?=¿Quiénes son estos dos?
-Wonder encounters a teenage boy and girl in the realm of the unknown. They seem to have information on this strange place.=Wonder se encuentra con un chico y una chica adolescentes en el reino de lo desconocido. Parece que tienen información sobre este lugar extraño.
-
 Incomplete Poder=Poder Incompleto
-Thanks to Yukari's aid, Wonder's power to summon Personas seems to have returned... but there's only one way to find out.=Gracias a la ayuda de Yukari, el poder de Wonder para invocar Personas parece haber regresado... pero solo hay una forma de averiguarlo.
-
 Specialized Extracurricular Execution Squad=Escuadrón Especializado de Ejecución Extraescolar
-Successfully fending off the enemy, Wonder's new companions share information on the Dark Hour and Tartarus. It seems there are more members in their secret group...=Tras defenderse con éxito del enemigo, los nuevos compañeros de Wonder comparten información sobre la Hora Oscura y el Tártaro. Parece que hay más miembros en su grupo secreto..
-
 What Can Be Done=Lo que se puede hacer
-With Riko's and Lufel's whereabouts unknown, there's no choice but to continue into the depths of Tartarus.=Con el paradero de Riko y Lufel desconocido, no queda otra opción que continuar hacia las profundidades del Tártaro.
-
 Tell Me More=Cuéntame más
-Makoto and Yukari are intrigued by the Phantom Thieves. Wonder decides that it's time to share what he knows...=A Makoto y Yukari les intrigan los Ladrones Fantasma. Wonder decide que es hora de compartir lo que sabe.
-
 Abnormality Detected=Anormalidad Detectada
-The deeper the search, the more Makoto and Yukari seem to feel something is off. This isn't quite the Tartarus they know.=Cuanto más profunda es la búsqueda, más parecen sentir Makoto y Yukari que algo anda mal. Este no es del todo el Tártaro que conocen.
-
 The Toils of Tartarus=Los trabajos del Tártaro
-Though Wonder is still recovering his strength, the battle persists. He has no choice but to depend on Makoto and Yukari.=Aunque Wonder aún está recuperando sus fuerzas, la batalla persiste. No tiene más remedio que depender de Makoto y Yukari.
-
 Mutual Support=Apoyo mutuo
-Despite having just met Yukari and Makoto, Wonder finds himself in good coordination with the duo. At this rate, progress through Tartarus seems like it will be simple...=A pesar de haber conocido recién a Yukari y Makoto, Wonder se siente bien coordinado con el dúo. A este ritmo, avanzar por Tártaro parece que será fácil...
-
 What Makes a Great Leader=Qué hace Grande a un Lider
-Even before a mighty enemy, Makoto remains composed. Yukari holds deep respect for him as the leader.=Incluso ante un enemigo poderoso, Makoto mantiene la compostura. Yukari siente un profundo respeto por él como líder.
-
 The Never-Ending Climb=La Escalada Interminable
-Wonder's search for his missing allies and the key to escape appear to be as endless as the tower he's stuck in...=La búsqueda de Wonder de sus aliados desaparecidos y la clave para escapar parecen ser tan interminables como la torre en la que está atrapado...
-
 A Mighty Enemy=Un Enemigo Poderoso
-A perilous threat stands in Wonder's way, and he has no choice but to fight...=Una amenaza peligrosa se interpone en el camino de Wonder, y no le queda otra que luchar...
-
 Where's the Exit?=¿Dónde está la Salida?
-Having dispelled the threat, the trio's only path forward is up. But where is the exit...?=Habiendo disipado la amenaza, el único camino que le queda al trío es ir hacia arriba. Pero, ¿dónde está la salida...?
-
 Still Trapped, Still Searching=Todavía Atrapado, Todavía Buscando
-The higher they climb, the stronger the Shadows become. But there's no turning back now.=Cuanto más suben, más fuertes se vuelven las Sombras. Pero ya no hay vuelta atrás.
-
 The Mysterious Door=La Puerta Misteriosa
-The group finds a mysterious blue door. With no other way to go, Wonder pushes it open...=El grupo se encuentra con una misteriosa puerta azul. Al no haber otra salida, Wonder la empuja y la abre...
-
-
-Beyond the Door=Más allá de la Puerta
-The blue door opens, revealing Paulownia Mall. Upon closer inspection, it seems slightly different than usual...=La puerta azul se abre, revelando el centro comercial Paulownia. Tras una investigación, parece ligeramente diferente de lo normal...
-
-An Unusual Scene=Una Escena Inusual
-The Search Resumes=La Búsqueda Continua
-Better than Nothing=Mejor que Nada
-Strike like Lightning=Golpea como un Rayo
-A New Area=Una Nueva Área
-A New Area Continued=Una Nueva Área Continuación
-A Worthy Opponent=Un Oponente Digno
-The Gatekeeper=El Portero
-The Only Way Is Up=El Único Camino es Subir
-Getting Higher=Cada vez más Alto
-A Strong Enemy=Un Enemigo Fuerte
-Even Higher=Aún más Alto
-A Strong Enemy Continued=Un Enemigo Fuerte Continuación
-The Unknown Door Reappears=La Puerta Desconocida Reaparece
-Paulownia Mall at Night=Paulownia de Noche
-Overcoming the Pain=Superando el Dolor
 
 
 #Enemy
@@ -1080,6 +967,43 @@ MARIAN-Summer=MARIAN-Summer
 BERRY=BERRY
 AKIHIKO=AKIHIKO
 
+#Resumen Historia
+After school, Riko extends an invitation to visit the man-made marvel, Tatsumi Port Island. On their way back, the monorail comes to a sudden halt...=Después de clase, Riko te invita a visitar la maravilla artificial de la Isla Puerto Tatsumi. En el camino de vuelta, el monorriel se detiene de repente...
+
+Something strange happens after midnight at Iwatodai Station. When the hour is nigh, otherworldly creatures come to life...=Algo extraño sucede después de la medianoche en la estación de Iwatodai. Cuando la hora se acerca, criaturas de otro mundo cobran vida...
+
+Beyond a blue door lies a realm shrouded in mystery. With countless questions and no clues, the only option is to press forward.=Más allá de una puerta azul yace un reino envuelto en misterio. Con innumerables preguntas y sin pistas, la única opción es seguir adelante.
+
+As Wonder presses into the heart of the strange void, he is attacked again. Having lost his ability to fight back, he prepares to meet his end...=A medida que Wonder se adentra en el corazón del extraño vacío, vuelve a ser atacado. Al haber perdido la capacidad de defenderse, se prepara para afrontar su destino...
+
+Wonder encounters a teenage boy and girl in the realm of the unknown. They seem to have information on this strange place.=Wonder se encuentra con un chico y una chica adolescentes en el reino de lo desconocido. Parece que tienen información sobre este lugar extraño.
+
+Thanks to Yukari's aid, Wonder's power to summon Personas seems to have returned... but there's only one way to find out.=Gracias a la ayuda de Yukari, el poder de Wonder para invocar Personas parece haber regresado... pero solo hay una forma de averiguarlo.
+
+Successfully fending off the enemy, Wonder's new companions share information on the Dark Hour and Tartarus. It seems there are more members in their secret group...=Tras defenderse con éxito del enemigo, los nuevos compañeros de Wonder comparten información sobre la Hora Oscura y el Tártaro. Parece que hay más miembros en su grupo secreto..
+
+With Riko's and Lufel's whereabouts unknown, there's no choice but to continue into the depths of Tartarus.=Con el paradero de Riko y Lufel desconocido, no queda otra opción que continuar hacia las profundidades del Tártaro.
+
+Makoto and Yukari are intrigued by the Phantom Thieves. Wonder decides that it's time to share what he knows...=A Makoto y Yukari les intrigan los Ladrones Fantasma. Wonder decide que es hora de compartir lo que sabe.
+
+The deeper the search, the more Makoto and Yukari seem to feel something is off. This isn't quite the Tartarus they know.=Cuanto más profunda es la búsqueda, más parecen sentir Makoto y Yukari que algo anda mal. Este no es del todo el Tártaro que conocen.
+
+Though Wonder is still recovering his strength, the battle persists. He has no choice but to depend on Makoto and Yukari.=Aunque Wonder aún está recuperando sus fuerzas, la batalla persiste. No tiene más remedio que depender de Makoto y Yukari.
+
+Despite having just met Yukari and Makoto, Wonder finds himself in good coordination with the duo. At this rate, progress through Tartarus seems like it will be simple...=A pesar de haber conocido recién a Yukari y Makoto, Wonder se siente bien coordinado con el dúo. A este ritmo, avanzar por Tártaro parece que será fácil...
+
+Even before a mighty enemy, Makoto remains composed. Yukari holds deep respect for him as the leader.=Incluso ante un enemigo poderoso, Makoto mantiene la compostura. Yukari siente un profundo respeto por él como líder.
+
+Wonder's search for his missing allies and the key to escape appear to be as endless as the tower he's stuck in...=La búsqueda de Wonder de sus aliados desaparecidos y la clave para escapar parecen ser tan interminables como la torre en la que está atrapado...
+
+A perilous threat stands in Wonder's way, and he has no choice but to fight...=Una amenaza peligrosa se interpone en el camino de Wonder, y no le queda otra que luchar...
+
+Having dispelled the threat, the trio's only path forward is up. But where is the exit...?=Habiendo disipado la amenaza, el único camino que le queda al trío es ir hacia arriba. Pero, ¿dónde está la salida...?
+
+The higher they climb, the stronger the Shadows become. But there's no turning back now.=Cuanto más suben, más fuertes se vuelven las Sombras. Pero ya no hay vuelta atrás.
+
+The group finds a mysterious blue door. With no other way to go, Wonder pushes it open...=El grupo se encuentra con una misteriosa puerta azul. Al no haber otra salida, Wonder la empuja y la abre...
+
 #Tártaro
 Yukari Takeba=Yukari Takeba
 Akihiko Sanada=Akihiko Sanada
@@ -1123,8 +1047,6 @@ Tarnished Silver Coin\nA valuable currency found in Tartarus. Can be used to enh
 Old Gemstone=Piedra Preciosa Antigua
 A valuable currency that can be found after 3 runs of Tartarus. Can be used to enhance Mastery, and is gained after exploration is finished.=Valuable moneda encontrada al completar 3 exploraciones en el Tártaro. Se puede usar para mejorar Maestrías, se obtiene al completar la exploración.
 Old Gemstone\nA valuable currency that can be found after 3 runs of Tartarus. Can be used to enhance Mastery, and is gained after exploration is finished.=Piedra Preciosa Antigua\nValuable moneda encontrada al completar 3 exploraciones en el Tártaro. Se puede usar para mejorar Maestrías, se obtiene al completar la exploración.
-A valuable currency that can be found in Tartarus on difficulty 3 or higher. Can be used to enhance Mastery, and is gained after exploration is finished.=Valuable moneda encontrada al completar el Tártaro en dificultad 3 o superior. Se puede usar para mejorar Maestrías, se obtiene al completar la exploración.
-Old Gemstone\nA valuable currency that can be found in Tartarus on difficulty 3 or higher. Can be used to enhance Mastery, and is gained after exploration is finished.=Piedra Preciosa Antigua\nValuable moneda encontrada al completar el Tártaro en dificultad 3 o superior. Se puede usar para mejorar Maestrías, se obtiene al completar la exploración.
 
 Soul Fragment=Fragmento de Alma
 A valuable currency found in Tartarus. Can be used to unlock Phantom Thieves for party deployment, and is gained after exploration is finished.=Valuable moneda encontrada en el Tártaro. Se puede usar para desbloquear Ladrones Fantasma, se obtiene al completar la exploración.
@@ -1172,56 +1094,56 @@ The antique Exquisite Oil Painting has been set.=La antigüedad Pintura al Óleo
 Antique Vase=Florero Antiguo
 r:"^Antique Vase Level ([0-9]+)$"="Florero Antiguo Nivel $1"
 r:"^Increase Clock Gears gained from battles, chests, and search objects by <color\=#3DE594>([0-9]+)%</color>\.$"="Aumenta los Engranajes de Reloj obtenidos en batallas, cofres y objetos destruibles en <color\=#3DE594>$1%</color>."
-Do you want to spend Tarnished Gold Coin x2 to unlock the antique Antique Vase?=¿Quieres gastar 2 Monedas de Oro Deslustradas para desbloquear el Florero Antiguo?
+Do you want to spend Tarnished Gold Coin x2 to unlock the antique Antique Vase?=¿Quieres gastar 2 Moneda de Oro Deslustrada para desbloquear el Florero Antiguo?
 The antique Exquisite Oil Painting has been unlocked.=La antigüedad Pintura al Óleo Exquisita ha sido desbloqueada.
 The antique Exquisite Oil Painting has been set.=La antigüedad Pintura al Óleo Exquisita ha sido seleccionada.
 
 Ornamental Bird=Ave Ornamental
 r:"^Ornamental Bird Level ([0-9]+)$"="Ave Ornamental Nivel $1"
 r:"^Increase Tarnished Silver Coins gained from battles and chests by <color\=#3DE594>([0-9]+)%</color>\.$"="Aumenta las Monedas de Plata Deslustradas obtenidos en batallas y cofres en <color\=#3DE594>$1%</color>."
-Do you want to spend Tarnished Gold Coin x2 to unlock the antique Ornamental Bird?=¿Quieres gastar 2 Monedas de Oro Deslustradas para desbloquear el Ave Ornamental?
+Do you want to spend Tarnished Gold Coin x2 to unlock the antique Ornamental Bird?=¿Quieres gastar 2 Moneda de Oro Deslustrada para desbloquear el Ave Ornamental?
 The antique Ornamental Bird has been unlocked.=La antigüedad Ave Ornamental ha sido desbloqueada.
 The antique Ornamental Bird has been set.=La antigüedad Ave Ornamental ha sido seleccionada.
 
 Silver Recorder=Flauta de Plata
 r:"^Silver Recorder Level ([0-9]+)$"="Flauta de Plata Nivel $1"
 r:"^When starting Tartarus exploration, select <color\=#3DE594>([0-9]+) more ally</color>\.$"="Al comenzar la exploración del Tártaro, selecciona <color\=#3DE594>$1 aliado más</color>."
-Do you want to spend Tarnished Gold Coin x2 to unlock the antique Silver Recorder?=¿Quieres gastar 2 Monedas de Oro Deslustradas para desbloquear la Flauta de Plata?
+Do you want to spend Tarnished Gold Coin x2 to unlock the antique Silver Recorder?=¿Quieres gastar 2 Moneda de Oro Deslustrada para desbloquear la Flauta de Plata?
 The antique Silver Recorder has been unlocked.=La antigüedad Flauta de Plata ha sido desbloqueada.
 The antique Silver Recorder has been set.=La antigüedad Flauta de Plata ha sido seleccionada.
 
 Vintage Perfume Bottle=Botella de Perfume Vintage
 r:"^Vintage Perfume Bottle Level ([0-9]+)$"="Botella de Perfume Vintage Nivel $1"
 r:"^When starting Tartarus exploration, increase Will by <color\=#3DE594>([0-9]+)</color>, and decrease Will consumed after battle by <color\=#3DE594>([0-9]+)</color>\.$"="Al comenzar la exploración del Tártaro, aumentas la Voluntad en <color\=#3DE594>$1</color>, y reduces la Voluntad consumida después de una batalla en <color\=#3DE594>$2</color>."
-Do you want to spend Tarnished Gold Coin x3 to unlock the antique Vintage Perfume Bottle?=¿Quieres gastar 3 Monedas de Oro Deslustradas para desbloquear la Botella de Perfume Vintage?
+Do you want to spend Tarnished Gold Coin x3 to unlock the antique Vintage Perfume Bottle?=¿Quieres gastar 3 Moneda de Oro Deslustrada para desbloquear la Botella de Perfume Vintage?
 The antique Vintage Perfume Bottle has been unlocked.=La antigüedad Botella de Perfume Vintage ha sido desbloqueada.
 The antique Vintage Perfume Bottle has been set.=La antigüedad Botella de Perfume Vintage ha sido seleccionada.
 
 Wooden Tarot Cards=Cartas del Tarot de Madera
 r:"^Wooden Tarot Cards Level ([0-9]+)$"="Cartas del Tarot de Madera Nivel $1"
 r:"^When starting Tartarus exploration, decrease Will by <color\=#3DE594>([0-9]+)</color>, but gain <color\=#3DE594>([0-9]+) Major Arcana card</color> from the start\.$"="Al comenzar la exploración del Tártaro, reduces la Voluntad en <color\=#3DE594>$1</color>, pero ganas <color\=#3DE594>$2 carta de Arcana Mayor</color> desde el comienzo."
-Do you want to spend Tarnished Gold Coin x3 to unlock the antique Wooden Tarot Cards?=¿Quieres gastar 3 Monedas de Oro Deslustradas para desbloquear las Cartas del Tarot de Madera?
+Do you want to spend Tarnished Gold Coin x3 to unlock the antique Wooden Tarot Cards?=¿Quieres gastar 3 Moneda de Oro Deslustrada para desbloquear las Cartas del Tarot de Madera?
 The antique Wooden Tarot Cards has been unlocked.=La antigüedad Cartas del Tarot de Madera ha sido desbloqueada.
 The antique Wooden Tarot Cards has been set.=La antigüedad Cartas del Tarot de Madera ha sido seleccionada.
 
 Bronze Incense Burner=Quemador de Incienso de Bronce
 r:"^Bronze Incense Burner Level ([0-9]+)$"="Quemador de Incienso de Bronce Nivel $1"
 r:"^When selecting cards from Shuffle Time: Normal or Shuffle Time: Rare, increase options by <color\=#3DE594>([0-9]+) card</color>\.$"="Cuando seleccionas cartas en una Hora de Barajar: Normal y Hora de Barajar: Raro, incrementa las opciones en <color\=#3DE594>$1 carta</color>."
-Do you want to spend Tarnished Gold Coin x3 to unlock the antique Bronze Incense Burner?=¿Quieres gastar 3 Monedas de Oro Deslustradas para desbloquear el Quemador de Incienso de Bronce?
+Do you want to spend Tarnished Gold Coin x3 to unlock the antique Bronze Incense Burner?=¿Quieres gastar 3 Moneda de Oro Deslustrada para desbloquear el Quemador de Incienso de Bronce?
 The antique Bronze Incense Burner has been unlocked.=La antigüedad Quemador de Incienso de Bronce ha sido desbloqueada.
 The antique Bronze Incense Burner has been set.=La antigüedad Quemador de Incienso de Bronce ha sido seleccionada.
 
 Wealth Charm=Amuleto de Riqueza
 r:"^Wealth Charm Level ([0-9]+)$"="Amuleto de Riqueza Nivel $1"
 r:"^Increase rate of finding treasure chests, and increase Clock Gears gained from chests by <color\=#3DE594>([0-9]+)%</color>\.$"="Incrementa el ratio de encontrar cofres del tesoro, e incrementa los Engranajes de Reloj obtenidos de cofres en un <color\=#3DE594>$1%</color>."
-Do you want to spend Tarnished Gold Coin x3 to unlock the antique Wealth Charm?=¿Quieres gastar 3 Monedas de Oro Deslustradas para desbloquear el Amuleto de Riqueza?
+Do you want to spend Tarnished Gold Coin x3 to unlock the antique Wealth Charm?=¿Quieres gastar 3 Moneda de Oro Deslustrada para desbloquear el Amuleto de Riqueza?
 The antique Wealth Charm has been unlocked.=La antigüedad Amuleto de Riqueza ha sido desbloqueada.
 The antique Wealth Charm has been set.=La antigüedad Amuleto de Riqueza ha sido seleccionada.
 
 Antique Compass=Brújula Antigua
 r:"^Antique Compass Level ([0-9]+)$"="Brújula Antigua Nivel $1"
 r:"^Increase rate of finding search objects, and increase Clock Gears gained from search objects by <color\=#3DE594>([0-9]+)%</color>\.$"="Incrementa el ratio de encontrar objetos destruibles, e incrementa los Engranajes de Reloj obtenidos de objetos destruibles en un <color\=#3DE594>$1%</color>."
-Do you want to spend Tarnished Gold Coin x3 to unlock the antique Antique Compass?=¿Quieres gastar 3 Monedas de Oro Deslustradas para desbloquear la Brújula Antigua?
+Do you want to spend Tarnished Gold Coin x3 to unlock the antique Antique Compass?=¿Quieres gastar 3 Moneda de Oro Deslustrada para desbloquear la Brújula Antigua?
 The antique Antique Compass has been unlocked.=La antigüedad Brújula Antigua ha sido desbloqueada.
 The antique Antique Compass has been set.=La antigüedad Brújula Antigua ha sido seleccionada.
 
@@ -1229,29 +1151,19 @@ Ancient Pot=Olla Antigua
 r:"^Ancient Pot Level ([0-9]+)$"="Olla Antigua Nivel $1"
 r:"^When starting Tartarus exploration, gain <color\=#3DE594>([0-9]+)</color> Dawn Fragment\.$"="Al comenzar la exploración del Tártaro, obtienes <color\=#3DE594>$1</color> Fragmento del Amanecer."
 r:"^When starting Tartarus exploration, gain <color\=#3DE594>([0-9]+)</color> Dawn Fragments\.$"="Al comenzar la exploración del Tártaro, obtienes <color\=#3DE594>$1</color> Fragmentos del Amanecer."
-Do you want to spend Tarnished Gold Coin x2 to unlock the antique Ancient Pot?=¿Quieres gastar 2 Monedas de Oro Deslustradas para desbloquear la Olla Antigua?
+Do you want to spend Tarnished Gold Coin x2 to unlock the antique Ancient Pot?=¿Quieres gastar 2 Moneda de Oro Deslustrada para desbloquear la Olla Antigua?
 The antique Ancient Pot has been unlocked.=La antigüedad Olla Antigua ha sido desbloqueada.
 The antique Ancient Pot has been set.=La antigüedad Olla Antigua ha sido seleccionada.
-
-Vintage Necklace=Collar Vintage
-r:"^Vintage Necklace Level ([0-9]+)$"="Collar Vintage Nivel $1"
-Monad Doors will appear more often. Entering the Monad Door will not require <color\=#3DE594>Dawn Fragments</color>.=Las Puertas Monad aparecen con más frecuencia. Para entrar a la Puerta Monad no necesitas <color\=#3DE594>Fragmentos del Amanecer</color>.
-Do you want to spend Tarnished Gold Coin x5 to unlock the antique Vintage Necklace?=¿Quieres gastar 5 Monedas de Oro Deslustradas para desbloquear el Collar Vintage?
-The antique Vintage Necklace has been unlocked.=La antigüedad Collar Vintage ha sido desbloqueada.
-The antique Vintage Necklace has been set.=La antigüedad Collar Vintage ha sido seleccionada.
 
 Dream Item=Objeto de Sueño
 Umiushi Beef Bowl=Tazón de Carne de Umiushi
 Potent Medicine=Medicina Potente
 Pretty Seashell=Concha Preciosa
-Chilled Taiyaki=Taiyaki Enfriado
-Student Handbook=Manual de Estudiante
-Poinsettia=Poinsettia
 Used to unlock {{A}}'s character story.=Se usa para desbloquear la historia de personaje de {{A}}.
 
 #Mastery
 Mastery=Maestría
-<color\=#FFD145>Overview</color>\nIn Mastery, you can spend Tarnished Silver Coins and Old Gemstones to enhance your basic abilities and exploration skills in each panel.\nExplore Tartarus to obtain Tarnished Silver Coins. Old Gemstones can be obtained while exploring Tartarus on difficulty 3 or higher.=<color\=#FFD145>Resumen general</color>\nEn Maestría, puedes usar Monedas de Plata Deslustradas y Piedras Preciosas Antiguas para mejorar tus habilidades básicas y de exploración en cada panel.\nExplora el Tártaro para obtener Monedas de Plata Deslustradas.\nLas Piedras Preciosas Antiguas se pueden obtener al explorar el Tártaro en dificultad 3 o superior.
+<color\=#FFD145>Overview</color>\nIn Mastery, you can spend Tarnished Silver Coins and Old Gemstones to enhance your basic abilities and exploration skills in each panel.\nExplore Tartarus to obtain Tarnished Silver Coins. Old Gemstones can be obtained after exploring Tartarus three times.=<color\=#FFD145>Resumen general</color>\nEn Maestría, puedes usar Monedas de Plata Deslustradas y Piedras Preciosas Antiguas para mejorar tus habilidades básicas y de exploración en cada panel.\nExplora el Tártaro para obtener Monedas de Plata Deslustradas.\nLas Piedras Preciosas Antiguas se pueden obtener al explorar el Tártaro tres veces.
 In <color\=#FF3838>Mastery</color>, you can spend <color\=#FF690A>Tarnished Silver Coins</color> and <color\=#FF690A>Old Gemstones</color> to enhance your stats.\nStrengthen your abilities and acquire skills to explore Tartarus more effectively.=En la <color\=#FF3838>Maestría</color>, puedes gastar <color\=#FF690A>Monedas de Plata Deslustradas</color> y <color\=#FF690A>Piedras Preciosas Antiguas</color> para mejorar tus estadísticas.\nFortalece tus habilidades y adquiere destrezas para explorar el Tártaro de forma más efectiva.
 Do you want to reset Mastery?\nIf reset, all Tarnished Silver Coins and Old Gemstones you spent will be returned.=¿Quieres restablecer la Maestría?\nSi se reinicia, se devolverán todas las Monedas de Plata Deslustradas y las Piedras Preciosas Antiguas que se utilizaron.
 Tartarus: Mastery=Tártaro: Maestría
@@ -1273,11 +1185,6 @@ r:"^Increase the number of cards that can be selected at the Great Clock by ([0-
 r:"^Decrease Clock Gears needed to refresh cards at the Great Clock by ([0-9]+)%\.$"="Reduce el coste de Engranajes de Reloj al actualizar cartas en el Gran Reloj en $1%."
 Enhance allies' attributes.=Mejora los atributos de los aliados.
 Increase insta-kill level.=Mejora el nivel de muerte Instantánea.
-r:"^Increase damage bonus by ([0-9]+)%\.$"="Aumenta la Bonificación de Daño en un $1%." 
-Increase movement speed.=Aumenta la velocidad de movimiento.
-After defeating a Rare Shadow, Shuffle Time: Normal becomes Shuffle Time: Rare.=Al derrotar una Sombra Rara, la Hora de Barajar: Normal se convierte en una Hora de Barajar: Raro.
-r:"^When entering battle against Formidable Shadows or Sentinels, increase all foes' final damage taken by ([0-9]+)%\.$"="Cuando entras en batalla contra Sombras Formidables o Centinelas, incrementa el daño final que reciben los enemigos en un $1%."
-
 
 Weapon Forging=Forja de Armas
 Ally Buff=Mejora de Aliado
@@ -1288,60 +1195,53 @@ Exploration Skill=Habilidad de exploración
 Get Item=Obtener Objeto
 Enhance Great Clock=Mejorar el Gran Reloj
 Insta-kill Level=Nivel de Muerte Instantánea
-Movement Speed=Velocidad de Movimiento
-Shuffle Time Buff=Mejora de Hora de Barajar
-Strong Enemy Debuff=Debuff de Enemigo Fuerte
-Purchase Cards=Comprar Cartas
 
 
 #Misiones
 Mission Info=Información de la Misión
 
 r:"^Tower of Darkness Run #([0-9]+)$"="Exploración de la Torre de la Oscuridad #$1"
-Complete 1 run of Tower of Darkness on any difficulty.=Completa 1 exploracion en la Torre de la Oscuridad en cualquier dificultad.
-r:"^Complete ([0-9]+) runs of Tower of Darkness on any difficulty\.$"="Completa $1 exploraciones en la Torre de la Oscuridad en cualquier dificultad."
+Complete 1 run of Tower of Darkness=Completa 1 exploracion en la Torre de la Oscuridad
+r:"^Complete ([0-9]+) runs of Tower of Darkness$"="Completa $1 exploraciones en la Torre de la Oscuridad"
 
 r:"^Ally Assembly #([0-9]+)$"="Reune Aliados #$1"
-r:"^Unlock ([0-9]+) teammates during Tower of Darkness exploration\.$"="Desbloquea $1 aliados durante la exploración de la Torre de la Oscuridad."
+r:"^Unlock ([0-9]+) teammates during Tower of Darkness exploration$"="Desbloquea $1 aliados durante la exploración de la Torre de la Oscuridad"
 
 r:"^Mastery #([0-9]+)$"="Maestría #$1"
-r:"^Unlock ([0-9]+) unique attributes, stat skills or weapon forging in Mastery\.$"="Desbloquea $1 atributos únicos, habilidades de estadísticas o forjas de arma en Maestrías."
-r:"^Unlock ([0-9]+) exploration skills in Mastery\.$"="Desbloquea $1 habilidades de exploración en Maestrías."
-r:"^Unlock ([0-9]+) basic attributes in Mastery\.$"="Desbloquea $1 atributos básicos en Maestrías."
+r:"^Unlock ([0-9]+) unique attributes, stat skills or weapon forging in Mastery$"="Desbloquea $1 atributos únicos, habilidades de estadísticas o forjas de arma en Maestrías"
+r:"^Unlock ([0-9]+) exploration skills in Mastery$"="Desbloquea $1 habilidades de exploración en Maestrías"
 
 r:"^Will #([0-9]+)$"="Voluntad #$1"
-r:"^Clear Tower of Darkness 1 time with Will below -([0-9]+)\.$"="Completa una exploración de la Torre de la Oscuridad teniendo la Voluntad en -$1."
+r:"^Clear Tower of Darkness 1 time with Will below -([0-9]+)$"="Completa una exploración de la Torre de la Oscuridad teniendo la Voluntad en -$1"
 
 r:"^Tartarus Exploration #([0-9]+)$"="Exploración del Tártaro #$1"
-r:"^Reach a total number of ([0-9]+) floors in Tower of Darkness\.$"="Alcanza un total de $1 pisos en la Torre de la Oscuridad."
+r:"^Reach a total number of ([0-9]+) floors in Tower of Darkness$"="Alcanza un total de $1 pisos en la Torre de la Oscuridad"
 
 r:"^Tower of Darkness #([0-9]+)$"="Torre de la Oscuridad #$1"
 Complete any run of Tower of Darkness 1 time=Completa exploraciones en la Torre de la Oscuridad 1 vez
 r:"^Complete any run of Tower of Darkness ([0-9]+) times$"="Completa exploraciones en la Torre de la Oscuridad $1 veces"
-Complete 1 run of Tower of Darkness on any difficulty.=Completa 1 exploración en la Torre de la Oscuridad en cualquier dificultad.
-r:"^Complete ([0-9]) runs of Tower of Darkness on any difficulty\.$"="Completa $1 exploraciones en la Torre de la Oscuridad en cualquier dificultad."
 
 r:"^Defeat Sentinels #([0-9]+)$"="Derrota Centinelas #$1"
-Defeat 1 Sentinel in Tower of Darkness.=Derrota 1 Centinela en la Torre de la Oscuridad.
-r:"^Defeat ([0-9]+) Sentinels in Tower of Darkness\.$"="Derrota $1 Centinelas en la Torre de la Oscuridad."
+Defeat 1 Sentinel in Tower of Darkness=Derrota 1 Centinela en la Torre de la Oscuridad
+r:"^Defeat ([0-9]+) Sentinels in Tower of Darkness$"="Derrota $1 Centinelas en la Torre de la Oscuridad"
 
 r:"^Defeat Rare Shadows #([0-9]+)$"="Derrota Sombras Raras #$1"
-Defeat 1 Rare Shadow in Tower of Darkness.=Derrota 1 Sombra Rara en la Torre de la Oscuridad.
-r:"^Defeat ([0-9]+) Rare Shadows in Tower of Darkness\.$"="Derrota $1 Sombras Raras en la Torre de la Oscuridad."
+Defeat 1 Rare Shadow in Tower of Darkness=Derrota 1 Sombra Rara en la Torre de la Oscuridad
+r:"^Defeat ([0-9]+) Rare Shadows in Tower of Darkness$"="Derrota $1 Sombras Raras en la Torre de la Oscuridad"
 
 r:"^Break Search Objects #([0-9]+)$"="Rompe Objetos Destruibles #$1"
-r:"^Destroy ([0-9]+) search objects in Tower of Darkness\.$"="Destruye $1 objetos destruibles en la Torre de la Oscuridad."
-r:"^Destroy ([0-9]+) rare search objects in Tower of Darkness\.$"="Destruye $1 objetos destruibles raros en la Torre de la Oscuridad."
+r:"^Destroy ([0-9]+) search objects in Tower of Darkness$"="Destruye $1 objetos destruibles en la Torre de la Oscuridad"
+r:"^Destroy ([0-9]+) rare search objects in Tower of Darkness$"="Destruye $1 objetos destruibles raros en la Torre de la Oscuridad"
 
 r:"^Monad Doors #([0-9]+)$"="Puertas Monad #$1"
-Clear 1 Monad Door in Tower of Darkness.=Completa 1 Puerta Monad en la Torre de la Oscuridad.
-r:"^Clear ([0-9]+) Monad Doors in Tower of Darkness\.$"="Completa $1 Puertas Monad en la Torre de la Oscuridad."
+Clear 1 Monad Door in Tower of Darkness=Completa 1 Puerta Monad en la Torre de la Oscuridad
+r:"^Clear ([0-9]+) Monad Doors in Tower of Darkness$"="Completa $1 Puertas Monad en la Torre de la Oscuridad"
 
 r:"^Purchase Cards #([0-9]+)$"="Comprar Cartas #$1"
-r:"^Purchase ([0-9]+) cards at the Great Clock in Tower of Darkness\.$"="Compra $1 cartas en el Gran Reloj en la Torre de la Oscuridad."
+r:"^Purchase ([0-9]+) cards at the Great Clock in Tower of Darkness$"="Compra $1 cartas en el Gran Reloj en la Torre de la Oscuridad"
 
 r:"^Obtain Dawn Fragments #([0-9]+)$"="Consigue Fragmentos del Amanecer #$1"
-r:"^Obtain ([0-9]+) Dawn Fragments in Tower of Darkness\.$"="Consigue $1 Fragmentos del Amanecer en la Torre de la Oscuridad."
+r:"^Obtain ([0-9]+) Dawn Fragments in Tower of Darkness$"="Consigue $1 Fragmentos del Amanecer en la Torre de la Oscuridad"
 
 r:"^1st Complete Exploration #([0-9]+)$"="Completar Exploración por Primera Vez #$1"
 r:"^2nd Complete Exploration #([0-9]+)$"="Completar Exploración por Segunda Vez #$1"
@@ -1349,34 +1249,20 @@ r:"^3rd Complete Exploration #([0-9]+)$"="Completar Exploración por Tercera Vez
 r:"^Reach the ([0-9]+)([A-Za-z]+) floor in Tartarus 1 time$"="Alcanza el piso $1 del Tártaro 1 vez."
 r:"^Reach the ([0-9]+)([A-Za-z]+) floor in Tartarus ([0-9]+) times$"="Alcanza el piso $1 del Tártaro $3 veces."
 
-r:"^(.*?)'s Awareness$"="Conciencia de $1"
-r:"^With (.*?) at Awareness 6, complete 1 run of Tower of Darkness on any difficulty\.$"="Con la Conciencia de $1 al 6, completa una exploración en la Torre de la Oscuridad en cualquier dificultad."
+r:"^([A-Za-z]+) ([A-Za-z]+)'s Awareness$"="Conciencia de $1 $2"
+r:"^With ([A-Za-z]+) ([A-Za-z]+) at Awareness 6, complete any run of Tower of Darkness 1 time$"="Con la Conciencia de $1 $2 al 6, completa una exploración en la Torre de la Oscuridad 1 vez"
+r:"^{{A}}'s Awareness$"="Conciencia de {{A}}"
+r:"^With {{A}} at Awareness 6, complete any run of Tower of Darkness 1 time$"="Con la Conciencia de {{A}} al 6, completa una exploración en la Torre de la Oscuridad 1 vez"
 
 r:"^Explore with {{A}} #([0-9]+)$"="Explora con {{A}} #$1"
-With {{A}} in the party, complete any run of Tower of Darkness 1 time.=Con {{A}} en el equipo, completa una exploración en la Torre de la Oscuridad 1 vez.
-With {{A}} in the party, complete any run of Tower of Darkness 2 times.=Con {{A}} en el equipo, completa una exploración en la Torre de la Oscuridad 2 veces.
-With {{A}} at Transcended Awareness, complete 1 run of Tower of Darkness.=Con {{A}} con la Conciencia Trascendida, completa 1 exploración en la Torre de la Oscuridad.
-With {{A}} at Transcended Awareness, complete 1 run of Tower of Darkness.=Con {{A}} con la Conciencia Trascendida, completa 1 exploración en la Torre de la Oscuridad.
-r:"^With {{A}} in the party, reach the ([0-9]+)th floor in Tower of Darkness on any difficulty\.$"="Con {{A}} en el equipo, alcanza el Piso $1 en la Torre de la Oscuridad en cualquier dificultad."
-r:"^With {{A}} in the party, reach the ([0-9]+)th floor of Tower of Darkness on any difficulty\.$"="Con {{A}} en el equipo, alcanza el Piso $1 en la Torre de la Oscuridad en cualquier dificultad."
-With {{A}} at Transcended Awareness, complete 1 run of Tower of Darkness on any difficulty.=Con {{A}} con la Conciencia Trascendida, completa 1 exploración en la Torre de la Oscuridad en cualquier dificultad.
-With {{A}} in the party, complete 1 run of Tower of Darkness on any difficulty.=Con {{A}} en el equipo, completa 1 exploración en la Torre de la Oscuridad en cualquier dificultad.
-r:"^With {{A}} in the party, complete ([0-9]+) runs of Tower of Darkness on any difficulty\.$"="Con {{A}} en el equipo, completa $1 exploraciones en la Torre de la Oscuridad en cualquier dificultad."
+With {{A}} in the party, complete any run of Tower of Darkness 1 time=Con {{A}} en el equipo, completa una exploración en la Torre de la Oscuridad 1 vez
+With {{A}} in the party, complete any run of Tower of Darkness 2 times=Con {{A}} en el equipo, completa una exploración en la Torre de la Oscuridad 2 veces
+With {{A}} at Transcended Awareness, complete 1 run of Tower of Darkness=Con {{A}} con la Conciencia Trascendida, completa 1 exploración en la Torre de la Oscuridad
 
-
-r:"^Tower of Darkness: Difficulty ([0-9]+)$"="Torre de la Oscuridad: Dificultad $1"
-r:"^Complete Tower of Darkness on Difficulty ([0-9]+)\."="Completa la Torre de la Oscuridad en Dificultad $1."
-
-r:"^Old Gemstones Galore #([0-9]+)$"="Piedra Preciosa Antigua en Abundancia #1"
-r:"^Use ([0-9]+) Old Gemstones in Mastery\.$"="Usa $1 Piedras Preciosas Antiguas en Maestría."
-
-r:"^Floor Explorer Difficulty ([0-9]+) #([0-9]+)$"="Explorador de Pisos en Dificultad $1 #$2"
-r:"^Reach ([0-9]+)F in Tower of Darkness on Difficulty ([0-9]+)\.$"="Alcanza el piso $1 en Torre de la Oscuridad en Dificultad $2."
-
-Do you want to go to Tatsumi East Police Station to check the missing persons missions?=¿Quieres ir a la Comisaría de Tatsumi Este para comprobar las misiones de personas desaparecidas?
+Do you want to go to Tatsumi East Police Station to check the missing person missions?=¿Quieres ir a la Comisaría de Tatsumi Este para comprobar las misiones de personas desaparecidas?
 r:"^Find Missing Persons #([0-9]+)$"="Encontrar Personas Desaparecidas #$1"
-r:"^Find 1 missing person in Tower of Darkness\. \(([0-1])/([0-1])\)$"="Encuentra 1 persona desaparecida en la Torre de la Oscuridad. ($1/$2)"
-r:"^Find ([0-9]+) missing persons in Tower of Darkness\. \(([0-9]+)/([0-9]+)\)$"="Encuentra $1 personas desaparecidas en la Torre de la Oscuridad. ($2/$3)"
+r:"^Find 1 missing person in Tower of Darkness\(([0-1])/([0-1])\)$"="Encuentra 1 persona desaparecida en la Torre de la Oscuridad ($1/$2)"
+r:"^Find ([0-9]+) missing persons in Tower of Darkness\(([0-9]+)/([0-9]+)\)$"="Encuentra $1 personas desaparecidas en la Torre de la Oscuridad ($2/$3)"
 
 
 #Exploracion
@@ -1393,6 +1279,7 @@ Exploration Items=Objetos de exploración
 Effect ended.=El efecto terminó.
 First Clear=Primera Vez Completado
 Purchased=Comprado
+Sentinel=Centinela
 
 Select which antiques to bring into Tartarus. Antique effects remain active throughout your exploration.=Selecciona cual antigüedad traer al Tártaro.\nLos efectos de las antigüedades permanecen activos durante toda la exploración.
 Select Dream Fragments to collect.=Selecciona Fragmentos de Sueño para recolectar.
@@ -1404,8 +1291,6 @@ Teammates will join your active team via Shuffle Time.=Los compañeros de equipo
 Team has been saved.\nSelect "Enter" from the Tartarus Entrance to begin exploring.=El Equipo a sido guardado.\nSelecciona "Entrar" desde la Entrada del Tártaro para comenzar la exploración.
 Reached new floor=Nuevo piso alcanzado
 r:"^<color\=#67FCFC>Until ([0-9]+)-([0-9]+)-([0-9]+) ([0-9]+):([0-9]+):([0-9]+), {{A}} gains an attribute bonus\.</color>\n<color\=#FFFFFF>Attack, Defense, and max HP are increased by ([0-9]+)%, and final damage is increased by ([0-9]+)%\.</color>$"="<color\=#3DE594>Hasta el $3-$2-$1 $4:$5:$6, {{A}} gana una mejora de atributos.</color>\n<color\=#FFFFFF>El Ataque, Defensa y HP máximos incrementan en un $7%, y el Daño Final incrementa en un $8%.</color>"
-r:"^<color\=#67FCFC>Until ([0-9]+)-([0-9]+)-([0-9]+) ([0-9]+):([0-9]+):([0-9]+), Seaside Tomoko gains an attribute bonus\.</color>\n<color\=#FFFFFF>Attack, Defense, and max HP are increased by ([0-9]+)%, and final damage is increased by ([0-9]+)%\.</color>$"="<color\=#3DE594>Hasta el $3-$2-$1 $4:$5:$6, Tomoko Veraniega gana una mejora de atributos.</color>\n<color\=#FFFFFF>El Ataque, Defensa y HP máximos incrementan en un $7%, y el Daño Final incrementa en un $8%.</color>"
-r:"^<color\=#67FCFC>Until ([0-9]+)-([0-9]+)-([0-9]+) ([0-9]+):([0-9]+):([0-9]+), Tropical Motoha gains an attribute bonus\.</color>\n<color\=#FFFFFF>Attack, Defense, and max HP are increased by ([0-9]+)%, and final damage is increased by ([0-9]+)%\.</color>$"="<color\=#3DE594>Hasta el $3-$2-$1 $4:$5:$6, Motoha Tropical gana una mejora de atributos.</color>\n<color\=#FFFFFF>El Ataque, Defensa y HP máximos incrementan en un $7%, y el Daño Final incrementa en un $8%.</color>"
 
 r:"^Under the leadership of {{A}}, the exploration was ended in ([0-9A-Za-z .]+)Duration: ([0-9]+) m([0-9]+) s on ([0-9]+)\.([0-9]+)\.([0-9]+)\. Your exploration results are as follows:$"="Bajo el liderazgo de {{A}}, la exploración se completo.\nDuración: $1h $2m $3s el $6/$5/$4. Los resultados de exploración son los siguientes:"
 
@@ -1434,7 +1319,9 @@ Infiltrate Tartarus=Infiltrarse al Tártaro
 
 Tartarus: Team=Tártaro: Equipo
 Obtain: {{A}}=Obtener a: {{A}}
+Obtain: Yumi Shiina=Obtener a: Yumi Shiina
 
+#Mirar
 r:"^Do you want to spend ([0-9]+) Soul Fragments to unlock this teammate in Tartarus?$"="¿Quieres usar $1 Fragmentos de Alma para desbloquear este aliado en el Tártaro?"
 Do you want to spend 500 Soul Fragments to unlock this teammate in Tartarus?=¿Quieres gastar 500 fragmentos de alma para desbloquear a este compañero de equipo en Tartarus?
 Do you want to spend 700 Soul Fragments to unlock this teammate in Tartarus?=¿Quieres gastar 700 fragmentos de alma para desbloquear a este compañero de equipo en Tartarus?
@@ -1507,8 +1394,19 @@ Bronze Dice=Dado de Bronce
 Dancing Hand=Mano Bailarina
 Grand Magus=Gran Mago
 Magical Magus=Mago Mágico
-Stasis Giant=Gigante de Estasis
 Conviction Sword=Espada de Convicción
+Wild Beast=Bestia Salvaje
+Enslaved Beast=Bestia Esclavizada
+Adamant Beetle=Escarabajo Adamantio
+
+Musha's Gathering=Reunión de Musha
+Ghastly Wail=Aullido Espantoso
+Kaiden Musha=Kaiden Musha
+Musha=Musha
+1. When Kaiden Musha uses certain skills, it gains Warrior's Way, and spends Warrior's Way to strengthen Zangetsu Flash.\nWarrior's Way: Increase Shadow's Attack by 10%, critical rate by 5%, and final damage taken by 3% per stack. Stacks up to 5 times.\n2. At the start of battle, Kaiden Musha uses Musha's Gathering to summon Musha. While Musha are present, Kaiden Musha's final damage taken is decreased.\n3. At the end of a Musha's turn, Kaiden Musha has a 50% chance to gain 1 Warrior's Way stack. If it doesn't, the Musha will enter Counter Form for 1 turn. If it is attacked while in this form, it will counterattack, dealing Physical damage, and grant 1 Warrior's Way stack to Kaiden Musha.\n4. At the start of the second phase, Kaiden Musha enters State of Carnage, doubling its rate of gaining Warrior's Way. At 5 Warrior's Way stacks, its final damage taken increases by 25% more.=1. Cuando Kaiden Musha usa ciertas habilidades, obtiene El Camino del Guerrero y consume El Camino del Guerrero para potenciar Destello de Zangetsu.\nEl Camino del Guerrero: Aumenta el Ataque de la Sombra en un 10%, la probabilidad de crítico en un 5% y el daño final recibido en un 3% por acumulación. Se acumula hasta 5 veces.\n2. Al inicio de la batalla, Kaiden Musha usa Reunión de Musha para invocar a Musha. Mientras haya Musha presentes, el daño final recibido de Kaiden Musha disminuye.\n3. Al final del turno de un Musha, Kaiden Musha tiene un 50% de probabilidad de ganar 1 acumulación de El Camino del Guerrero. Si no lo hace, el Musha entrará en Forma de contraataque durante 1 turno. Si es atacado mientras está en esta forma, contraatacará, infligiendo daño Físico, y otorgará 1 acumulación de El Camino del Guerrero a Kaiden Musha.\n4. Al inicio de la segunda fase, Kaiden Musha entra en Estado de carnicería, duplicando su velocidad para ganar El Camino del Guerrero. Con 5 acumulaciones de El Camino del Guerrero, su daño final recibido aumenta en un 25% más.
+
+Stasis Giant=Gigante de Estasis
+1. At the start of battle, Stasis Giant will summon 2 Conviction Swords. Stasis Giant will buff summoned Shadows, allowing them to use additional skills.\n2. At the start of the second phase, all Conviction Swords present will be destroyed, and 4 new Conviction Swords will be summoned.\n3. At the start of the turn, when the number of Conviction Swords destroyed reaches 2 or more for the first time, World Balance will be summoned. World Balance's damage taken is increased by 40%, and Stasis Giant is in the Soul Link state. World Balance will continuously summon Conviction Sword every odd-numbered turn.=1. Al inicio de la batalla, el Gigante del éxtasis invocará 2 Espadas de la convicción. El Gigante del éxtasis potenciará a las Sombras invocadas, permitiéndoles usar habilidades adicionales.\n2. Al inicio de la batalla, el Gigante del éxtasis invocará 2 Espadas de la convicción. El Gigante del éxtasis potenciará a las Sombras invocadas, permitiéndoles usar habilidades adicionales.\n3. Al inicio del turno, cuando el número de Espadas de la convicción destruidas llegue a 2 o más por primera vez, se invocará el Equilibrio del Mundo. El daño recibido del Equilibrio del Mundo aumenta en un 40% y el Gigante del éxtasis entra en estado de Enlace de alma. El Equilibrio del Mundo invocará continuamente una Espada de la convicción cada turno impar.
 
 Avenger Knight=Caballero Vengador
 1. Avenger Knight will continuously summon Shadows, and grants Steel Pride. For every 1 Steel Pride stack, Defense increases by 5%.\n2. Avenger Knight and summoned Shadows gain 1 Steel Pride at the end of their turn.\n3. When a summoned Shadow is defeated, all Steel Pride stacks from that Shadow are removed.\n4. Avenger Knight will spend Steel Pride granted to Shadows to enhance the effect of Condemnation of Pride.=1. El Caballero Vengador invocara Sombras continuamente y les otorgara Orgullo de Acero. Por cada acumulación de Orgullo de Acero, incrementa la Defensa en 5%.\n2. El Caballero Vengador y las Sombras invocadas obtienen 1 Orgullo de Acero al terminar su turno.\n3. Cuando una Sombra invocada es derrotada, todas las acumulaciones de Orgullo de Acero de esa Sombra son eliminadas.\n4. El Caballero Vengador usará los Orgullos de Acero otorgados a las Sombras para mejorar los efectos de Condenación del Orgullo.
@@ -1558,6 +1456,7 @@ State of Supremacy=Estado de Supremacía
 S<color\=#000000>t</color>ate of Supremacy=E<color\=#000000>s</color>tado de Supremacía
 Enter State of Supremacy. In this state, gain 1 Warrior's Way stack every turn (when other allies are defeated, gain 2 stacks every turn), but at 5 Warrior's Way stacks, increase final damage taken by 25% more.=Entra en el Estado de Supremacía. En este estado, gana 1 acumulación de Camino del Guerrero cada turno (cuando todos los aliados sean derrotados, gana 2 stacks por turno), pero con 5 acumulaciones de Camino del Guerrero, incrementa el daño final recibido un 25% más.
 Gain 1 Warrior's Way stack every turn, and if user is the last survivor, gain 2 stacks. When Warrior's Way reaches 5 stacks, increase final damage taken by 25% more.=Gana 1 acumulación de Camino del Guerrero cada turno, si es el último superviviente, gana 2 acumulaciones. Cuando alcanza 5 acumulaciones de Camino del Guerrero, incrementa el daño final recibido un 25% más.
+r:"^Doubles rate of gaining Warrior's Way, but when (\d+) stacks are gained, increase final dmg taken by an additional (\d+)%\.$"="Duplica la velocidad para ganar Camino del Guerrero, pero al ganar $1 acumulaciones, aumenta el Daño Final recibido en un $2% adicional."
 
 Sky Balance=Balance del Cielo
 Heat Balance=Balance de Calor
@@ -1571,37 +1470,14 @@ Changed to Ice Form...=Cambiado a Forma de Hielo...
 I<color\=#000000>c</color>e Form=F<color\=#000000>o</color>rma de Hielo
 When defeated, remove all Warrior's Way stacks from Hakurou Musha.=Cuando es derrotado, elimina todas las acumulaciones de Camino del Guerrero de Hakurou Musha.
 
-Lascivious Lady=Dama Lasciva
-1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color\=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks.=1. Cada cierto número de turnos, Dama Lasciva usa Tentación, inflingiendo a todos los Ladrones Fantasma con Amor Ciego. Pierde 1 acumulación de Amor Ciego cuando una curación es recibida.\n2. Al comienzo del turno de Dama Lasciva, si cualquier Ladrón Fantasma alcanzo 5, 10 o 15 acumulaciones de Amor Ciego en total por primera vez, elige uno de ellos y gasta 5 acumulaciones de Amor Ciego del objetivo para usar Espiral de Deseo.\nEspiral de Deseo: Se vuelve incapaz de actuar por 2 turnos. Este estado cuenta como una <color\=#FF3838>Dolencia Espiritual</color>.\n3. Cada cierto número de turnos, Dama Lasciva inflinge Mirada Apasionada a los Ladrones Fantasma, después usa Impulso Apasionado en el siguiente turno para hacer daño de Psicoquinesis. Incrementa el daño en base al total de acumulaciones de Amor Ciego del objetivo.
-1. At the start of battle, Lascivious Lady inflicts all Phantom Thieves with 3 Infatuation stacks. Also, each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color\=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks.\n4. Lascivious Lady uses Garden of Paradise each turn, increasing final damage and decreasing final damage taken.=1. Al comienzo de la batalla, Dama Lasciva inflinge a todos los Ladrones Fantasma con 3 acumulaciones de Amor Ciego. También, cada cierto número de turnos, Dama Lasciva usa Tentación, inflingiendo a todos los Ladrones Fantasma con Amor Ciego. Pierde 1 acumulación de Amor Ciego cuando una curación es recibida.\n2. Al comienzo del turno de Dama Lasciva, si cualquier Ladrón Fantasma alcanzo 5, 10 o 15 acumulaciones de Amor Ciego en total por primera vez, elige uno de ellos y gasta 5 acumulaciones de Amor Ciego del objetivo para usar Espiral de Deseo.\nEspiral de Deseo: Se vuelve incapaz de actuar por 2 turnos. Este estado cuenta como una <color\=#FF3838>Dolencia Espiritual</color>.\n3. Cada cierto número de turnos, Dama Lasciva inflinge Mirada Apasionada a los Ladrones Fantasma, después usa Impulso Apasionado en el siguiente turno para hacer daño de Psicoquinesis. Incrementa el daño en base al total de acumulaciones de Amor Ciego del objetivo.\n4. Dama Lasciva usa Jardín del Paraíso cada turno, incrementando su daño final y reduciendo el daño final recibido.
-1. At the start of battle, Lascivious Lady inflicts all Phantom Thieves with 3 Infatuation stacks. Also, each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color\=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks.\n4. Lascivious Lady uses Garden of Paradise=a
-Temptation=Tentación
-Inflict 1 Infatuation stack on all foes.=Inflige 1 acumulación de Amor Ciego a todos los enemigos.
-Infatuation=Amor Ciego
-I<color\=#000000>n</color>fatuation=A<color\=#000000>m</color>or Ciego
-Inflicted with Infatuation...=Infligido con Amor Ciego...
-Lose 1 stack when healing is received.=Pierde 1 acumulación cuando se recibe curación.
-Spiral of Desire=Espiral de Deseo
-S<color\=#000000>p</color>iral of Desire=E<color\=#000000>s</color>piral de Deseo
-Inflicted with Infatuation...=Infligido con Espiral de Deseo...
-Recovered from Spiral of Desire!=¡Recuperado de Espiral de Deseo!
-At the start of turn, if any foes have reached 5, 10 or 15 total Infatuation stacks for the first time, spend 5 Infatuation stacks of one of the foes that meet the conditions to inflict them with Spiral of Desire for 2 turns. When this ailment is active, the target is unable to act.=Al comienzo del turno, si cualquier enemigo alcanzo 5, 10 o 15 acumulaciones totales de Amor Ciego, gasta 5 acumulaciones de Amor Ciego de uno de los enemigos que cumplen las condiciones y les inflinge Espiral de Deseo por 2 turnos. Cuando esta dolencia está activa, el objetivo es incapaz de actuar.
-Painful Pleasure=Placer Doloroso
-Deal Psychokinesis damage to all foes, and inflict 1 foe with Passionate Gaze.=Inflige daño de Psicoquinesis a todos los enemigos e inflige a 1 enemigo Mirada Apasionada.
-Passionate Gaze=Mirada Apasionada
-P<color\=#000000>a</color>ssionate Gaze=M<color\=#000000>i</color>rada Apasionada
-Targeted by Lascivious Lady.=Apuntado por la Dama Lasciva.
-Passionate Impulse=Impulso Apasionado
-Deal Psychokinesis damage to foes inflicted with Passionate Gaze. For every Infatuation stack inflicted on the target, increase damage dealt by 20%.=Inflige daño de Psicoquinesis a los enemigos infligidos con Mirada Apasionada.\nPor cada acumulación de Amor Ciego infligido al objetivo, aumenta el daño infligido en un 20%.
-Garden of Paradise=Jardín del Paraíso
-Gain 2 Garden of Paradise stacks for 2 turns, increasing final damage dealt.=Gana 2 acumulaciones de Jardín del Paraíso durante 2 turnos, aumentando el Daño Final infligido.
 
-Percentage Damage Taken Down=Porcentaje de Daño Reducido
-Greatly decrease percentage damage taken based on percentage of user's max HP.=Disminuye considerablemente el porcentaje de daño recibido según el porcentaje de los PS máximos del usuario.
-
-Equipo recovers HP when Cowardly Maya is defeated.=El equipo recupera PS cuando Maya Cobarde es derrotado.
-Activates when defeated, restoring a set amount of all foes' HP.=Se activa cuando es derrotado y restaura una cantidad determinada de PS a todos los enemigos.
-
+C<color\=#000000>o</color>unter Form=F<color\=#000000>o</color>rma de Contraataque
+S<color\=#000000>t</color>ate of Carnage=E<color\=#000000>s</color>tado de Carnicería
+B<color\=#000000>a</color>rrier Form=F<color\=#000000>o</color>rma de Barrera
+Changed to Counter Form...=Cambiado a Forma de Contraataque...
+Changed to Barrier Form...=Cambiado a Forma de Barrera...
+Lost Barrier Form!=¡Forma de Barrera Perdida!
+State of Carnage=Estado de Carnicería
 
 #Personas perdidas/eventos
 r:"^Spend ([0-9]+) Will to clear the fog\.$"="Gasta $1 de Voluntad para despejar la niebla."
@@ -1622,7 +1498,8 @@ r:"^Gain ([0-9]+)-([0-9]+) Soul Fragments\.$"="Obtienes $1-$2 Fragmentos de Alma
 r:"^Gain ([0-9]+)-([0-9]+) Clock Gears\.$"="Obtienes $1-$2 Engranajes de Reloj."
 Go closer=Acercarse
 r:"^Gain ([0-9]+)-([0-9]+) Tarnished Silver Coins\.$"="Obtienes $1-$2 Monedas de Plata Deslustradas."
-Enter=Entrar en
+r:"Gain (\d+) Tarnished Gold Coin\."="Obtén $1 Moneda de Oro Deslustrada."
+Enter=Entrar
 Receive nothing.=No recibir nada.
 
 Great Clock=Gran Reloj
@@ -1681,6 +1558,7 @@ If you have any, please send them my way!\nI'll give you this stone in return.=S
 I have loads.=Tengo montones.
 r:"^Spend ([0-9]+) Clock Gears to gain ([0-9]+) Dawn Fragments\.$"="Gastar $1 Engranajes de Reloj para obtener $2 Fragmentos del Amanecer."
 Music to my ears! Thank you so very much!=¡Música para mis oidos! ¡Muchas gracias, de verdad!
+Thank you so much, you saved me!=¡Muchas gracias, me salvaste!
 I have quite a few.=Tengo unos cuantos.
 I have some.=Tengo algunos.
 r:"^Spend ([0-9]+) Clock Gears to gain ([0-9]+) Dawn Fragment\.$"="Gastar $1 Engranajes de Reloj para obtener $2 Fragmento del Amanecer."
@@ -1721,9 +1599,11 @@ r:"^Spend ([0-9]+) Major Arcana card\. ([0-9]+)% chance to gain ([0-9]+) Major A
 Yeah... I really could do with my mom's cream\nstew right now...=Sí... Realmente me vendría bien el guiso de crema de mi madre ahora mismo...
 You should talk to your friends.=Deberías hablar con tus amigos.
 r:"^Spend ([0-9]+) Major Arcana card, and gain ([0-9]+) random Major Arcana card\.$"="Gasta $1 carta de Arcana Mayor, para ganar $2 carta de Arcana Mayor al azar."
+Well, I am supposed to go shopping with my\nfriends tomorrow...=Bueno, se supone que debo ir de compras con mis amigos mañana...
 You can't give up on yourself.=No puedes rendirte en ti mismo.
 r:"^([0-9]+)% chance to gain ([0-9]+) random Major Arcana card\.$"="$1% de ganar $2 carta de Arcana Mayor al azar."
 As if I don't already know that! A little\nunderstanding would really go a long way, you\nknow...=¡Como si no supiera eso ya!\nUn poco de comprensión realmente ayudaría mucho, ¿sabes?
+You don't know anything about me! Don't talk\nto me ever again!=¡No sabes nada de mí! ¡No me vuelvas a hablar nunca más!
 
 My mom threw out the manga I drew again.=Mi madre volvió a tirar el manga que dibujé.
 "Don't waste your precious study time on\nthis," she said.="No pierdas tu valioso tiempo de estudio en esto", dijo.
@@ -1744,6 +1624,7 @@ I'm feeling curry.=Tengo ganas de curry.
 r:"^Gain ([0-9]+)-([0-9]+) rare Minor Arcana Swords cards\.$"="Gana $1-$2 cartas raras de Espadas del Arcano Menor."
 What about ramen?=¿Qué tal ramen?
 r:"^Gain ([0-9]+)-([0-9]+) Minor Arcana Swords cards\.$"="Gana $1-$2 cartas de Espadas del Arcano Menor."
+In the mood for noodles, huh. What should I\ndo for the broth?=Con antojo de fideos, ¿eh? ¿Qué debería hacer para el caldo?
 
 Sad Girl=Chica Triste
 He loves me, he loves me not... Loves me...\nLoves me not...=Él me ama, él no me ama...\nMe ama...\nNo me ama...
@@ -2042,6 +1923,7 @@ r:"^Swords: Increase allies' damage to knocked down foes by ([0-9]+)%\.$"="Espad
 r:"^When {{A}} has taken (\d+) actions \(excluding extra actions\), gain an extra action\.$"="Cuando {{A}} haya realizado $1 acciones (excluyendo acciones extra), obtiene una acción extra."
 r:"^Swords: When {{A}} has taken (\d+) actions \(excluding extra actions\), gain an extra action\.$"="Espadas: Cuando {{A}} haya realizado $1 acciones (excluyendo acciones extra), obtiene una acción extra."
 
+
 +---------------------------------
 Wands=Bastos
 
@@ -2220,149 +2102,84 @@ Raise Minami Miyashita to Awareness 5.\nAwareness 5 Effect: Increase the skill l
 Raise Minami Miyashita to Awareness 6.\nAwareness 6 Effect: Restore a KO'd ally's HP equal to 40% of Minami's max HP + 1200. This effect can be activated once per battle.=Aumenta la Conciencia de Minami Miyashita a 6.\nEfecto de Conciencia 6: Restaura los PS de un aliado fuera de combate en una cantidad equivalente al 40% de los PS máx. de Minami + 1200. Este efecto puede activarse una vez por batalla.
 
 #Yui
-Raise Yui to Awareness 1.\nAwareness 1 Effect: Increase critical rate of follow-up attacks by 20%. Increase critical rate by 10% after landing a follow-up attack on <link\="s|104"><u>Shocked</u></link> foes.=Aumenta la Conciencia de Yui a 1.\nEfecto de Conciencia 1: Aumenta la probabilidad de crítico de los ataques adicionales en un 20%. Aumenta la probabilidad de crítico en un 10% tras asestar un ataque adicional a enemigos <link\="s|104"><u>Electrocución</u></link>.
-Raise Yui to Awareness 2.\nAwareness 2 Effect: After performing a follow-up attack on a foe, increase Attack of Yui and allies with Player 2 by 10% for 2 turns. Stacks up to 3 times.=Aumenta la Conciencia de Yui a 2.\nEfecto de Conciencia 2: Después de realizar un ataque adicional a un enemigo, aumenta el Ataque de Yui y de los aliados con Jugador 2 en un 10% durante 2 turnos. Se acumula hasta 3 veces.
-Raise Yui to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Sparky Surprise and Thief Tactics by 3.=Aumenta la Conciencia de Yui a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Sorpresa Chispeante y Tácticas de Ladrón en 3.
-Raise Yui to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: Increase critical damage of follow-up attacks by 40% for 2 turns.=Aumenta la Conciencia de Yui a 4.\nEfecto de Conciencia 4: Highlight Mejorado: Aumenta el daño crítico de los ataque adicional en un 40% durante 2 turnos.
-Raise Yui to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Electric Bomb and Meta Dynamite by 3.=Aumenta la Conciencia de Yui a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Bomba Eléctrica y Dinamita Meta en 3.
-Raise Yui to Awareness 6.\nAwareness 6 Effect: If only 1 foe is present, increase Yui's follow-up attack by 110% of Attack. Follow-up attack deals damage equal to 25% of Attack to all other foes.=Aumenta la Conciencia de Yui a 6.\nEfecto de Conciencia 6: Si solo hay 1 enemigo presente, aumenta el ataque adicional de Yui en un 110% del Ataque. El ataque adicional inflige daño equivalente al 25% del Ataque a todos los demás enemigos.
+Raise {{A}} to Awareness 1.\nAwareness 1 Effect: Increase critical rate of follow-up attacks by 20%. Increase critical rate by 10% after landing a follow-up attack on <link\="s|104"><u>Shocked</u></link> foes.=Aumenta la Conciencia de {{A}} a 1.\nEfecto de Conciencia 1: Aumenta la probabilidad de crítico de los ataques adicionales en un 20%. Aumenta la probabilidad de crítico en un 10% tras asestar un ataque adicional a enemigos <link\="s|104"><u>Electrocución</u></link>.
+Raise {{A}} to Awareness 2.\nAwareness 2 Effect: After performing a follow-up attack on a foe, increase Attack of Yui and allies with Player 2 by 10% for 2 turns. Stacks up to 3 times.=Aumenta la Conciencia de {{A}} a 2.\nEfecto de Conciencia 2: Después de realizar un ataque adicional a un enemigo, aumenta el Ataque de Yui y de los aliados con Jugador 2 en un 10% durante 2 turnos. Se acumula hasta 3 veces.
+Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Sparky Surprise and Thief Tactics by 3.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Sorpresa Chispeante y Tácticas de Ladrón en 3.
+Raise {{A}} to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: Increase critical damage of follow-up attacks by 40% for 2 turns.=Aumenta la Conciencia de {{A}} a 4.\nEfecto de Conciencia 4: Highlight Mejorado: Aumenta el daño crítico de los ataque adicional en un 40% durante 2 turnos.
+Raise {{A}} to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Electric Bomb and Meta Dynamite by 3.=Aumenta la Conciencia de {{A}} a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Bomba Eléctrica y Dinamita Meta en 3.
+Raise {{A}} to Awareness 6.\nAwareness 6 Effect: If only 1 foe is present, increase Yui's follow-up attack by 110% of Attack. Follow-up attack deals damage equal to 25% of Attack to all other foes.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Si solo hay 1 enemigo presente, aumenta el ataque adicional de Yui en un 110% del Ataque. El ataque adicional inflige daño equivalente al 25% del Ataque a todos los demás enemigos.
 
 #Fox
-Raise Yusuke Kitagawa to Awareness 1.\nAwareness 1 Effect: Every 2 times Keen Eye is used, activate <link\="s|172"><u>Imagination</u></link> 1 time as a follow-up. Counterattacks activated by this effect deal 70% of the original damage.=Aumenta la Conciencia de Yusuke Kitagawa a 1.\nEfecto de Conciencia 1: Cada 2 veces que se use Ojo Agudo, activa <link\="s|172"><u>Imaginación</u></link> 1 vez como ataque adicional. Los contraataques activados por este efecto infligen el 70% del daño original.
-Raise Yusuke Kitagawa to Awareness 2.\nAwareness 2 Effect: When Yusuke's HP is above 70%, increase counterattack damage dealt to foes by 35%.=Aumenta la Conciencia de Yusuke Kitagawa a 2.\nEfecto de Conciencia 2: Cuando los PS de Yusuke estén por encima del 70%, aumenta el daño de contraataque infligido a los enemigos en un 35%.
-Raise Yusuke Kitagawa to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Keen Eye and Thief Tactics by 3.=Aumenta la Conciencia de Yusuke Kitagawa a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Ojo Agudo y Tácticas de Ladrón en 3.
-Raise Yusuke Kitagawa to Awareness 4.\nAwareness 4 Effect: <nobr>Highlight Enhanced: After using a Highlight, increase counterattack damage by 30% for 3 turns.=Aumenta la Conciencia de Yusuke Kitagawa a 4.\nEfecto de Conciencia 4: <nobr>Highlight Mejorado: Después de usar un Highlight, aumenta el daño de contraataque en un 30% durante 3 turnos.
-Raise Yusuke Kitagawa to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Frozen Presence and Bone-Chilling Cold by 3.=Aumenta la Conciencia de Yusuke Kitagawa a 5.\nEfecto de Conciencia 5: Aumenta los niveles de Presencia Congelada y Frío Escalofriante en 3.
-Raise Yusuke Kitagawa to Awareness 6.\nAwareness 6 Effect: <nobr>Evolve the effects of <link\="s|123"><u>Inspiration</u></link> and <link\="s|172"><u>Imagination</u></link> to <link\="s|173"><u>Vision & Emotion</u></link> and <link\="s|174"><u>Creation</u></link>.\nEach counterattack becomes 2 consecutive attacks, each dealing 90% of the original attack's damage. Also increase counterattack pierce rate by 30%.=Aumenta la Conciencia de Yusuke Kitagawa a 6.\nEfecto de Conciencia 6: <nobr>Evoluciona los efectos de <link\="s|123"><u>Inspiración</u></link> e <link\="s|172"><u>Imaginación</u></link> a <link\="s|173"><u>Visión y Emoción</u></link> y <link\="s|174"><u>Creación</u></link>.\nCada contraataque se convierte en 2 ataques consecutivos, infligiendo cada uno el 90% del daño del ataque original. También aumenta la tasa de perforación del contraataque en un 30%.
+Raise {{A}} to Awareness 1.\nAwareness 1 Effect: Every 2 times Keen Eye is used, activate <link\="s|172"><u>Imagination</u></link> 1 time as a follow-up. Counterattacks activated by this effect deal 70% of the original damage.=Aumenta la Conciencia de {{A}} a 1.\nEfecto de Conciencia 1: Cada 2 veces que se use Ojo Agudo, activa <link\="s|172"><u>Imaginación</u></link> 1 vez como ataque adicional. Los contraataques activados por este efecto infligen el 70% del daño original.
+Raise {{A}} to Awareness 2.\nAwareness 2 Effect: When Yusuke's HP is above 70%, increase counterattack damage dealt to foes by 35%.=Aumenta la Conciencia de {{A}} a 2.\nEfecto de Conciencia 2: Cuando los PS de Yusuke estén por encima del 70%, aumenta el daño de contraataque infligido a los enemigos en un 35%.
+Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Keen Eye and Thief Tactics by 3.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Ojo Agudo y Tácticas de Ladrón en 3.
+Raise {{A}} to Awareness 4.\nAwareness 4 Effect: <nobr>Highlight Enhanced: After using a Highlight, increase counterattack damage by 30% for 3 turns.=Aumenta la Conciencia de {{A}} a 4.\nEfecto de Conciencia 4: <nobr>Highlight Mejorado: Después de usar un Highlight, aumenta el daño de contraataque en un 30% durante 3 turnos.
+Raise {{A}} to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Frozen Presence and Bone-Chilling Cold by 3.=Aumenta la Conciencia de {{A}} a 5.\nEfecto de Conciencia 5: Aumenta los niveles de Presencia Congelada y Frío Escalofriante en 3.
+Raise {{A}} to Awareness 6.\nAwareness 6 Effect: <nobr>Evolve the effects of <link\="s|123"><u>Inspiration</u></link> and <link\="s|172"><u>Imagination</u></link> to <link\="s|173"><u>Vision & Emotion</u></link> and <link\="s|174"><u>Creation</u></link>.\nEach counterattack becomes 2 consecutive attacks, each dealing 90% of the original attack's damage. Also increase counterattack pierce rate by 30%.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: <nobr>Evoluciona los efectos de <link\="s|123"><u>Inspiración</u></link> e <link\="s|172"><u>Imaginación</u></link> a <link\="s|173"><u>Visión y Emoción</u></link> y <link\="s|174"><u>Creación</u></link>.\nCada contraataque se convierte en 2 ataques consecutivos, infligiendo cada uno el 90% del daño del ataque original. También aumenta la tasa de perforación del contraataque en un 30%.
 
 #queen 
-Raise Makoto Niijima to Awareness 1.\nAwareness 1 Effect: At the start of battle, gain 5 <link\="s|177"><u>Tenacity</u></link> stacks, allowing Makoto to activate <link\="s|178"><u>Crash Out</u></link>.\nWhen Crash Out is active, increase Attack by 50% more and damage by 35%.=Aumenta la Conciencia de Makoto Niijima a 1.\nEfecto de Conciencia 1: Al inicio de la batalla, gana 5 <link\="s|177"><u>Tenacidad</u></link> permitiendo a Makoto activar <link\="s|178"><u>Estallido</u></link>. Cuando Estallido está activo, aumenta el Ataque un 50% más y el daño un 35%.
-Raise Makoto Niijima to Awareness 2.\nAwareness 2 Effect: When <link\="s|178"><u>Crash Out</u></link> is active, inflict random elemental ailments on foes, and for each different type of elemental ailment, increase Makoto's pierce rate by 6%.=Aumenta la Conciencia de Makoto Niijima a 2.\nEfecto de Conciencia 2: Cuando <link\="s|178"><u>Crash Out</u></link> está activo, inflige dolencias elementales aleatorias a los enemigos y, por cada tipo diferente de dolencia elemental, aumenta el índice de perforación de Makoto un 6%.
-Raise Makoto Niijima to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Sanctioned Drift and Nuclear Fury by 3.=Aumenta la Conciencia de Makoto Niijima a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Deriva sancionada y Furia Nuclear en 3.
-Raise Makoto Niijima to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: Increase maximum Frenzied Voltage stacks to 4. Inflict up to 4 elemental ailments on foes, and increase skill damage up to 4 times.=Aumenta la Conciencia de Makoto Niijima a 4.\nEfecto de Conciencia 4: Highlight Mejorado: Aumenta las acumulaciones máximas de Voltaje Frenético a 4. Inflige hasta 4 dolencias elementales a los enemigos y aumenta el daño de habilidad hasta 4 veces.
-Raise Makoto Niijima to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of President's Prowess and Thief Tactics by 3.=Aumenta la Conciencia de Makoto Niijima a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Proeza del Presidente y Tácticas de ladrón en 3.
-Raise Makoto Niijima to Awareness 6.\nAwareness 6 Effect: When <link\="s|178"><u>Crash Out</u></link> is active, Makoto can gain an extra action. (These extra actions do not affect the duration of effects with turn limits.)\nAlso decrease the SP cost of Thermonuclear Fury by 33%.=Aumenta la Conciencia de Makoto Niijima a 6.\nEfecto de Conciencia 6: Cuando <link\="s|178"><u>Estallido</u></link> esté activo, Makoto puede obtener una acción adicional. (Estas acciones adicionales no afectan la duración de los efectos con límites de turno).\nTambién reduce el coste de PE de Furia Termonuclear en un 33%.
+Raise {{A}} to Awareness 1.\nAwareness 1 Effect: At the start of battle, gain 5 <link\="s|177"><u>Tenacity</u></link> stacks, allowing Makoto to activate <link\="s|178"><u>Crash Out</u></link>.\nWhen Crash Out is active, increase Attack by 50% more and damage by 35%.=Aumenta la Conciencia de {{A}} a 1.\nEfecto de Conciencia 1: Al inicio de la batalla, gana 5 <link\="s|177"><u>Tenacidad</u></link> permitiendo a Makoto activar <link\="s|178"><u>Estallido</u></link>. Cuando Estallido está activo, aumenta el Ataque un 50% más y el daño un 35%.
+Raise {{A}} to Awareness 2.\nAwareness 2 Effect: When <link\="s|178"><u>Crash Out</u></link> is active, inflict random elemental ailments on foes, and for each different type of elemental ailment, increase Makoto's pierce rate by 6%.=Aumenta la Conciencia de {{A}} a 2.\nEfecto de Conciencia 2: Cuando <link\="s|178"><u>Crash Out</u></link> está activo, inflige dolencias elementales aleatorias a los enemigos y, por cada tipo diferente de dolencia elemental, aumenta el índice de perforación de Makoto un 6%.
+Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Sanctioned Drift and Nuclear Fury by 3.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Deriva sancionada y Furia Nuclear en 3.
+Raise {{A}} to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: Increase maximum Frenzied Voltage stacks to 4. Inflict up to 4 elemental ailments on foes, and increase skill damage up to 4 times.=Aumenta la Conciencia de {{A}} a 4.\nEfecto de Conciencia 4: Highlight Mejorado: Aumenta las acumulaciones máximas de Voltaje Frenético a 4. Inflige hasta 4 dolencias elementales a los enemigos y aumenta el daño de habilidad hasta 4 veces.
+Raise {{A}} to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of President's Prowess and Thief Tactics by 3.=Aumenta la Conciencia de {{A}} a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Proeza del Presidente y Tácticas de ladrón en 3.
+Raise {{A}} to Awareness 6.\nAwareness 6 Effect: When <link\="s|178"><u>Crash Out</u></link> is active, Makoto can gain an extra action. (These extra actions do not affect the duration of effects with turn limits.)\nAlso decrease the SP cost of Thermonuclear Fury by 33%.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Cuando <link\="s|178"><u>Estallido</u></link> esté activo, Makoto puede obtener una acción adicional. (Estas acciones adicionales no afectan la duración de los efectos con límites de turno).\nTambién reduce el coste de PE de Furia Termonuclear en un 33%.
 
 #Joker
-Raise Ren Amamiya to Awareness 1.\nAwareness 1 Effect: Increase skill damage to the main target by 30%, and increase skill damage to other targets by 10%.=Aumenta la Conciencia de Ren Amamiya a 1.\nEfecto de Conciencia 1: Aumenta el daño de habilidad al objetivo principal en un 30% y el daño de habilidad a otros objetivos en un 10%.
-Raise Ren Amamiya to Awareness 2.\nAwareness 2 Effect: On an extra action, decrease SP cost of skills by 80%. When Ren's SP is above 60%, increase Attack by 50%.=Aumenta la Conciencia de Ren Amamiya a 2.\nEfecto de Conciencia 2: En una acción extra, reduce el coste de PE de las habilidades en un 80%. Cuando los PE de Ren superan el 60%, aumenta el Ataque un 50%.
-Raise Ren Amamiya to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Arsène's Chains and Thief Tactics by 3.=Aumenta la Conciencia de Ren Amamiya a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Cadenas de Arsène y Tácticas de Ladrón en 3.
-Raise Ren Amamiya to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: Increase number of <link\="s|124"><u>Will of Rebellion</u></link> stacks gained to 3.=Aumenta la Conciencia de Ren Amamiya a 4.\nEfecto de Conciencia 4: Highlight Mejorado: Aumenta el número de <link\="s|124"><u>Voluntad de Rebelión</u></link> acumulaciones ganadas a 3.
-Raise Ren Amamiya to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Trickster's Plunder and Phantom Omen by 3.=Aumenta la Conciencia de Ren Amamiya a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Botín del Trickster y Presagio Fantasma en 3.
-Raise Ren Amamiya to Awareness 6.\nAwareness 6 Effect: After taking an extra action, if there are foes with below 25% HP, deal damage to those foes equal to up to 250% of Ren's Attack (once per enemy per battle).\nAfter using a skill on an extra action, deal Curse damage equal to 50% of Attack to all foes.=Aumenta la Conciencia de Ren Amamiya a 6.\nEfecto de Conciencia 6: Después de realizar una acción adicional, si hay enemigos con menos del 25% de PS, les inflige un daño equivalente a hasta el 250% del Ataque de Ren (una vez por enemigo por batalla).\nTras usar una habilidad en una acción adicional, inflige daño de Maldición equivalente al 50% del Ataque a todos los enemigos.
+Raise {{A}} to Awareness 1.\nAwareness 1 Effect: Increase skill damage to the main target by 30%, and increase skill damage to other targets by 10%.=Aumenta la Conciencia de {{A}} a 1.\nEfecto de Conciencia 1: Aumenta el daño de habilidad al objetivo principal en un 30% y el daño de habilidad a otros objetivos en un 10%.
+Raise {{A}} to Awareness 2.\nAwareness 2 Effect: On an extra action, decrease SP cost of skills by 80%. When Ren's SP is above 60%, increase Attack by 50%.=Aumenta la Conciencia de {{A}} a 2.\nEfecto de Conciencia 2: En una acción extra, reduce el coste de PE de las habilidades en un 80%. Cuando los PE de Ren superan el 60%, aumenta el Ataque un 50%.
+Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of {{A}}'s Chains and Thief Tactics by 3.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Cadenas de {{A}} y Tácticas de Ladrón en 3.
+Raise {{A}} to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: Increase number of <link\="s|124"><u>Will of Rebellion</u></link> stacks gained to 3.=Aumenta la Conciencia de {{A}} a 4.\nEfecto de Conciencia 4: Highlight Mejorado: Aumenta el número de <link\="s|124"><u>Voluntad de Rebelión</u></link> acumulaciones ganadas a 3.
+Raise {{A}} to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Trickster's Plunder and Phantom Omen by 3.=Aumenta la Conciencia de {{A}} a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Botín del Trickster y Presagio Fantasma en 3.
+Raise {{A}} to Awareness 6.\nAwareness 6 Effect: After taking an extra action, if there are foes with below 25% HP, deal damage to those foes equal to up to 250% of Ren's Attack (once per enemy per battle).\nAfter using a skill on an extra action, deal Curse damage equal to 50% of Attack to all foes.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Después de realizar una acción adicional, si hay enemigos con menos del 25% de PS, les inflige un daño equivalente a hasta el 250% del Ataque de Ren (una vez por enemigo por batalla).\nTras usar una habilidad en una acción adicional, inflige daño de Maldición equivalente al 50% del Ataque a todos los enemigos.
 
 #Skull
-Raise Ryuji Sakamoto to Awareness 1.\nAwareness 1 Effect: Increase damage of God Hand Burst by 20%. When in the Changing Gears state, decrease damage taken by 20%.=Aumenta la Conciencia de Ryuji Sakamoto a 1.\nEfecto de Conciencia 1: Aumenta el daño de Explosión de Mano Divina en un 20%. Cuando estés en el estado Cambio de Marcha, reduce el daño recibido en un 20%.
-Raise Ryuji Sakamoto to Awareness 2.\nAwareness 2 Effect: When dealing critical damage with a skill, ignore 35% of target's Defense.=Aumenta la Conciencia de Ryuji Sakamoto a 2.\nEfecto de Conciencia 2: Al infligir daño crítico con una habilidad, ignora el 35% de la Defensa del objetivo.
-Raise Ryuji Sakamoto to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of God Hand Burst and Thief Tactics by 3.=Aumenta la Conciencia de Ryuji Sakamoto a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Explosión de Mano Divina y Tácticas de Ladrón en 3.
-Raise Ryuji Sakamoto to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: Increase the next skill's damage by 30%, and increase critical damage by 75%.=Aumenta la Conciencia de Ryuji Sakamoto a 4.\nEfecto de Conciencia 4: Highlight Mejorado: Aumenta el daño de la siguiente habilidad un 30% y aumenta el daño crítico un 75%.
-Raise Ryuji Sakamoto to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Pirate Tactics and Thunderbolt by 3.=Aumenta la Conciencia de Ryuji Sakamoto a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Tácticas Piratas y Rayo en 3.
-Raise Ryuji Sakamoto to Awareness 6.\nAwareness 6 Effect: During battle, survive fatal damage 1 time and recover 25% of HP.\nAfter damaging a foe with God Hand Burst, inflict Cower on the target.\nCower: Increase next skill damage taken from Ryuji by 60%.=Aumenta la Conciencia de Ryuji Sakamoto a 6.\nEfecto de Conciencia 6: Durante la batalla, sobrevive al daño letal 1 vez y recupera el 25% de los PS.\nDespués de infligir daño a un enemigo con Explosión de Mano Divina, inflige Intimidación al objetivo.\nIntimidación: aumenta el daño de la siguiente habilidad recibida de Ryuji en un 60%.
+Raise {{A}} to Awareness 1.\nAwareness 1 Effect: Increase damage of God Hand Burst by 20%. When in the Changing Gears state, decrease damage taken by 20%.=Aumenta la Conciencia de {{A}} a 1.\nEfecto de Conciencia 1: Aumenta el daño de Explosión de Mano Divina en un 20%. Cuando estés en el estado Cambio de Marcha, reduce el daño recibido en un 20%.
+Raise {{A}} to Awareness 2.\nAwareness 2 Effect: When dealing critical damage with a skill, ignore 35% of target's Defense.=Aumenta la Conciencia de {{A}} a 2.\nEfecto de Conciencia 2: Al infligir daño crítico con una habilidad, ignora el 35% de la Defensa del objetivo.
+Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of God Hand Burst and Thief Tactics by 3.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Explosión de Mano Divina y Tácticas de Ladrón en 3.
+Raise {{A}} to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: Increase the next skill's damage by 30%, and increase critical damage by 75%.=Aumenta la Conciencia de {{A}} a 4.\nEfecto de Conciencia 4: Highlight Mejorado: Aumenta el daño de la siguiente habilidad un 30% y aumenta el daño crítico un 75%.
+Raise {{A}} to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Pirate Tactics and Thunderbolt by 3.=Aumenta la Conciencia de {{A}} a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Tácticas Piratas y Rayo en 3.
+Raise {{A}} to Awareness 6.\nAwareness 6 Effect: During battle, survive fatal damage 1 time and recover 25% of HP.\nAfter damaging a foe with God Hand Burst, inflict Cower on the target.\nCower: Increase next skill damage taken from Ryuji by 60%.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Durante la batalla, sobrevive al daño letal 1 vez y recupera el 25% de los PS.\nDespués de infligir daño a un enemigo con Explosión de Mano Divina, inflige Intimidación al objetivo.\nIntimidación: aumenta el daño de la siguiente habilidad recibida de Ryuji en un 60%.
 
 #morgana
-Raise Morgana to Awareness 1.\nAwareness 1 Effect: Add the following effect to <link\="s|150"><u>Chivalry</u></link>: Restore HP of allies with less than 50% HP remaining by 30% of Morgana's Attack.=Aumenta la Conciencia de Morgana a 1.\nEfecto de Conciencia 1: Agrega el siguiente efecto a <link\="s|150"><u>Caballería</u></link> restaura los PS de los aliados que tengan menos del 50% de PS en un 30% del Ataque de Morgana.
-Raise Morgana to Awareness 2.\nAwareness 2 Effect: When using Healing Breeze, increase HP recovery for main target by 33%.=Aumenta la Conciencia de Morgana a 2.\nEfecto de Conciencia 2: Al usar Brisa Curativa, aumenta la recuperación de PS del objetivo principal en un 33%.
-Raise Morgana to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Healing Breeze and Thief Tactics by 3.=Aumenta la Conciencia de Morgana a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Brisa Curativa y Tácticas de Ladrón en 3.
-Raise Morgana to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: When KO'd allies are revived, restore bonus HP equal to 60% of Morgana's Attack + 800.=Aumenta la Conciencia de Morgana a 4.\nEfecto de Conciencia 4: Highlight Mejorado: cuando los aliados debilitados sean revividos, restauran PS adicionales equivalentes al 60% del Ataque de Morgana + 800.
-Raise Morgana to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Missile Whirlwind and Gentle Fist by 3.=Aumenta la Conciencia de Morgana a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Torbellino de Misiles y Puño Suave en 3.
-Raise Morgana to Awareness 6.\nAwareness 6 Effect: Remove Gentle Fist's decreased accuracy effect. Increase target's damage taken by 15% for 2 turns.=Aumenta la Conciencia de Morgana a 6.\nEfecto de Conciencia 6: Elimina el efecto de precisión reducida de Puño Suave. Aumenta el daño recibido del objetivo en un 15% durante 2 turnos.
+Raise {{A}} to Awareness 1.\nAwareness 1 Effect: Add the following effect to <link\="s|150"><u>Chivalry</u></link>: Restore HP of allies with less than 50% HP remaining by 30% of Morgana's Attack.=Aumenta la Conciencia de {{A}} a 1.\nEfecto de Conciencia 1: Agrega el siguiente efecto a <link\="s|150"><u>Caballería</u></link> restaura los PS de los aliados que tengan menos del 50% de PS en un 30% del Ataque de Morgana.
+Raise {{A}} to Awareness 2.\nAwareness 2 Effect: When using Healing Breeze, increase HP recovery for main target by 33%.=Aumenta la Conciencia de {{A}} a 2.\nEfecto de Conciencia 2: Al usar Brisa Curativa, aumenta la recuperación de PS del objetivo principal en un 33%.
+Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Healing Breeze and Thief Tactics by 3.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Brisa Curativa y Tácticas de Ladrón en 3.
+Raise {{A}} to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: When KO'd allies are revived, restore bonus HP equal to 60% of Morgana's Attack + 800.=Aumenta la Conciencia de {{A}} a 4.\nEfecto de Conciencia 4: Highlight Mejorado: cuando los aliados debilitados sean revividos, restauran PS adicionales equivalentes al 60% del Ataque de Morgana + 800.
+Raise {{A}} to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Missile Whirlwind and Gentle Fist by 3.=Aumenta la Conciencia de {{A}} a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Torbellino de Misiles y Puño Suave en 3.
+Raise {{A}} to Awareness 6.\nAwareness 6 Effect: Remove Gentle Fist's decreased accuracy effect. Increase target's damage taken by 15% for 2 turns.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Elimina el efecto de precisión reducida de Puño Suave. Aumenta el daño recibido del objetivo en un 15% durante 2 turnos.
 
 #yaoling
-Raise Yaoling Li to Awareness 1.\nAwareness 1 Effect: At the start of battle, gain 1 <link\="s|127"><u>Meng Po Soup</u></link> stack.=Aumenta la Conciencia de Yaoling Li a 1.\nEfecto de Conciencia 1: Al comenzar la batalla, obtén 1 acumulación de <link\="s|127"><u>Sopa Meng Po</u></link>.
-Raise Yaoling Li to Awareness 2.\nAwareness 2 Effect: Increase Attack by 10% for each debuff inflicted on foes for 2 turns. Stacks up to 5 times.=Aumenta la Conciencia de Yaoling Li a 2.\nEfecto de Conciencia 2: Aumenta el Ataque en un 10% por cada debuff infligido a los enemigos durante 2 turnos. Se acumula hasta 5 veces.
-Raise Yaoling Li to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Lion Dance of Oblivion and Thief Tactics by 3.=Aumenta la Conciencia de Yaoling Li a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Danza del León del Olvido y Tácticas de Ladrón en 3.
-Raise Yaoling Li to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: Increase damage taken effect by 20%. Inflict <link\="s|112"><u>Curse</u></link> on all foes for 2 turns.=Aumenta la Conciencia de Yaoling Li a 4.\nEfecto de Conciencia 4: Highlight Mejorado: Aumenta el efecto de daño recibido en un 20%. Al infligir <link\="s|112"><u>Maldición</u></link> a todos los enemigos durante 2 turnos.
-Raise Yaoling Li to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Underworld Ferry and Flowers of Naihe by 3.=Aumenta la Conciencia de Yaoling Li a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Ferry del Inframundo y Flores de Naihe en 3.
-Raise Yaoling Li to Awareness 6.\nAwareness 6 Effect: When spending <link\="s|127"><u>Meng Po Soup</u></link>, increase party's Curse damage by 20% for 1 turn. Also, 60% chance to gain 1 Meng Po Soup stack. This effect won't activate again on the next turn.=Aumenta la Conciencia de Yaoling Li a 6.\nEfecto de Conciencia 6: Al consumir Sopa de Meng Po, aumenta el daño de Maldición del equipo en un 20% durante 1 turno. Además, hay un 60% de probabilidad de obtener 1 acumulación de <link\="s|127"><u>Sopa Meng Po</u></link>. Este efecto no se activará de nuevo en el siguiente turno.
+Raise {{A}} to Awareness 1.\nAwareness 1 Effect: At the start of battle, gain 1 <link\="s|127"><u>Meng Po Soup</u></link> stack.=Aumenta la Conciencia de {{A}} a 1.\nEfecto de Conciencia 1: Al comenzar la batalla, obtén 1 acumulación de <link\="s|127"><u>Sopa Meng Po</u></link>.
+Raise {{A}} to Awareness 2.\nAwareness 2 Effect: Increase Attack by 10% for each debuff inflicted on foes for 2 turns. Stacks up to 5 times.=Aumenta la Conciencia de {{A}} a 2.\nEfecto de Conciencia 2: Aumenta el Ataque en un 10% por cada debuff infligido a los enemigos durante 2 turnos. Se acumula hasta 5 veces.
+Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Lion Dance of Oblivion and Thief Tactics by 3.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Danza del León del Olvido y Tácticas de Ladrón en 3.
+Raise {{A}} to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: Increase damage taken effect by 20%. Inflict <link\="s|112"><u>Curse</u></link> on all foes for 2 turns.=Aumenta la Conciencia de {{A}} a 4.\nEfecto de Conciencia 4: Highlight Mejorado: Aumenta el efecto de daño recibido en un 20%. Al infligir <link\="s|112"><u>Maldición</u></link> a todos los enemigos durante 2 turnos.
+Raise {{A}} to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Underworld Ferry and Flowers of Naihe by 3.=Aumenta la Conciencia de {{A}} a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Ferry del Inframundo y Flores de Naihe en 3.
+Raise {{A}} to Awareness 6.\nAwareness 6 Effect: When spending <link\="s|127"><u>Meng Po Soup</u></link>, increase party's Curse damage by 20% for 1 turn. Also, 60% chance to gain 1 Meng Po Soup stack. This effect won't activate again on the next turn.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Al consumir Sopa de Meng Po, aumenta el daño de Maldición del equipo en un 20% durante 1 turno. Además, hay un 60% de probabilidad de obtener 1 acumulación de <link\="s|127"><u>Sopa Meng Po</u></link>. Este efecto no se activará de nuevo en el siguiente turno.
 
 #panther
-Raise Ann Takamaki to Awareness 1.\nAwareness 1 Effect: When <link\="s|113"><u>La Vie en Rose</u></link> is active, increase the party's Attack by 25% for 1 turn.=Aumenta la Conciencia de Ann Takamaki a 1.\nEfecto de Conciencia 1: Cuando <link\="s|113"><u>La Vie en Rose</u></link> está activo, aumenta el Ataque del grupo en un 25% durante 1 turno.
-Raise Ann Takamaki to Awareness 2.\nAwareness 2 Effect: When <link\="s|113"><u>La Vie en Rose</u></link> ends, activate 2 follow-up attacks, dealing Fire damage equal to 66% of Ann's Attack to random foes.=Aumenta la Conciencia de Ann Takamaki a 2.\nEfecto de Conciencia 2: Cuando <link\="s|113"><u>La Vie en Rose</u></link> termina, activa 2 ataque adicional, infligiendo un daño de Fuego igual al 66% del Ataque de Ann a enemigos aleatorios.
-Raise Ann Takamaki to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Falling Sun and Thief Tactics by 3.=Aumenta la Conciencia de Ann Takamaki a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Sol Caído y Tácticas de Ladrón en 3.
-Raise Ann Takamaki to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: When Ann uses a Highlight, increase her Attack by 100% for 1 turn.=Aumenta la Conciencia de Ann Takamaki a 4.\nEfecto de Conciencia 4: Highlight Mejorado: Cuando Ann usa un Highlight, aumenta su Ataque un 100% durante 1 turno.
-Raise Ann Takamaki to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Crimson Rose and Trifire by 3.=Aumenta la Conciencia de Ann Takamaki a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de de Rosa Carmesí y Trifuego en 3.
-Raise Ann Takamaki to Awareness 6.\nAwareness 6 Effect: When attacking foes with Fire skills, 60% chance to gain 1 Passion stack.\nWhen <link\="s|113"><u>La Vie en Rose</u></link> is active, increase Fire damage by 11% per Passion stack spent (up to 110%).=Aumenta la Conciencia de Ann Takamaki a 6.\nEfecto de Conciencia 6: Al atacar enemigos con habilidades de fuego, hay un 60% de probabilidad de obtener 1 acumulación de Pasión.\nCuando <link\="s|113">La Vie en Rose está activa, aumenta el daño de fuego en un 11% por cada acumulación de Pasión consumida (hasta un 110%).
+Raise {{A}} to Awareness 1.\nAwareness 1 Effect: When <link\="s|113"><u>La Vie en Rose</u></link> is active, increase the party's Attack by 25% for 1 turn.=Aumenta la Conciencia de {{A}} a 1.\nEfecto de Conciencia 1: Cuando <link\="s|113"><u>La Vie en Rose</u></link> está activo, aumenta el Ataque del grupo en un 25% durante 1 turno.
+Raise {{A}} to Awareness 2.\nAwareness 2 Effect: When <link\="s|113"><u>La Vie en Rose</u></link> ends, activate 2 follow-up attacks, dealing Fire damage equal to 66% of Ann's Attack to random foes.=Aumenta la Conciencia de {{A}} a 2.\nEfecto de Conciencia 2: Cuando <link\="s|113"><u>La Vie en Rose</u></link> termina, activa 2 ataque adicional, infligiendo un daño de Fuego igual al 66% del Ataque de Ann a enemigos aleatorios.
+Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Falling Sun and Thief Tactics by 3.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Sol Caído y Tácticas de Ladrón en 3.
+Raise {{A}} to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: When Ann uses a Highlight, increase her Attack by 100% for 1 turn.=Aumenta la Conciencia de {{A}} a 4.\nEfecto de Conciencia 4: Highlight Mejorado: Cuando Ann usa un Highlight, aumenta su Ataque un 100% durante 1 turno.
+Raise {{A}} to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Crimson Rose and Trifire by 3.=Aumenta la Conciencia de {{A}} a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de de Rosa Carmesí y Trifuego en 3.
+Raise {{A}} to Awareness 6.\nAwareness 6 Effect: When attacking foes with Fire skills, 60% chance to gain 1 Passion stack.\nWhen <link\="s|113"><u>La Vie en Rose</u></link> is active, increase Fire damage by 11% per Passion stack spent (up to 110%).=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Al atacar enemigos con habilidades de fuego, hay un 60% de probabilidad de obtener 1 acumulación de Pasión.\nCuando <link\="s|113">La Vie en Rose está activa, aumenta el daño de fuego en un 11% por cada acumulación de Pasión consumida (hasta un 110%).
 
 #riddle
-Raise Haruna Nishimori to Awareness 1.\nAwareness 1 Effect: When an ally deals damage with a skill, increase Haruna's Attack by 20%. Stacks up to 3 times. This effect ends when Haruna uses a skill.\nAlso, when Haruna's Attack is increased 2 times, increase party's damage by 15% for 1 turn.=Aumenta la Conciencia de Haruna Nishimori a 1.\nEfecto de Conciencia 1: Cuando un aliado inflige daño con una habilidad, aumenta el Ataque de Haruna en un 20%. Se puede acumular hasta 3 veces. Este efecto termina cuando Haruna usa una habilidad.\nAdemás, cuando el Ataque de Haruna ha aumentado 2 veces, aumenta el daño del grupo en un 15% durante 1 turno.
-Raise Haruna Nishimori to Awareness 2.\nAwareness 2 Effect: Let's Hold Hands increases the chance of gaining <link\="s|164"><u>Childish Heart</u></link> by 20%.\nWhen using Courageous Campaign and <link\="s|164"><u>Childish Heart</u></link> stacks are at maximum, increase Attack and critical damage by 24% for 2 turns.=Aumenta la Conciencia de Haruna Nishimori a 2.\nEfecto de Conciencia 2: Tomemos las Manos aumenta la probabilidad de obtener <link\="s|164"><u>Corazón Infantil</u></link> en un 20%.\nAl usar Campaña valerosa cuando las acumulaciones de <link\="s|164"><u>Corazón Infantil</u></link> estén al máximo, aumenta el Ataque y el daño crítico en un 24% durante 2 turnos.
-Raise Haruna Nishimori to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Courageous Campaign and Thief Tactics by 3.=Aumenta la Conciencia de Haruna Nishimori a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Campaña Valiente y Tácticas de Ladrón en 3.
-Raise Haruna Nishimori to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: Extend damage increase duration by 2 turns.=Aumenta la Conciencia de Haruna Nishimori a 4.\nEfecto de Conciencia 4: Highlight Mejorado: Extiende la duración del aumento de daño por 2 turnos.
-Raise Haruna Nishimori to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Surprise Squad and Ready for Adventure by 3.=Aumenta la Conciencia de Haruna Nishimori a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Escuadrón Sorpresa y Listo para la Aventura en 3.
-Raise Haruna Nishimori to Awareness 6.\nAwareness 6 Effect: When <link\="s|164"><u>Childish Heart</u></link> reaches 5 stacks, gain Curiosity.\nCuriosity: When Haruna deals damage with a skill, increase damage by 75%. This effect ends after dealing skill damage to foes.=Aumenta la Conciencia de Haruna Nishimori a 6.\nEfecto de Conciencia 6: Cuando <link\="s|164"><u>Corazón Infantil</u></link> alcanza 5 acumulaciones, obtiene Curiosidad.\nCuriosidad: cuando Haruna inflige daño con una habilidad, aumenta el daño en un 75%. Este efecto termina después de infligir daño de habilidad a los enemigos.
+Raise {{A}} to Awareness 1.\nAwareness 1 Effect: When an ally deals damage with a skill, increase Haruna's Attack by 20%. Stacks up to 3 times. This effect ends when Haruna uses a skill.\nAlso, when Haruna's Attack is increased 2 times, increase party's damage by 15% for 1 turn.=Aumenta la Conciencia de {{A}} a 1.\nEfecto de Conciencia 1: Cuando un aliado inflige daño con una habilidad, aumenta el Ataque de Haruna en un 20%. Se puede acumular hasta 3 veces. Este efecto termina cuando Haruna usa una habilidad.\nAdemás, cuando el Ataque de Haruna ha aumentado 2 veces, aumenta el daño del grupo en un 15% durante 1 turno.
+Raise {{A}} to Awareness 2.\nAwareness 2 Effect: Let's Hold Hands increases the chance of gaining <link\="s|164"><u>Childish Heart</u></link> by 20%.\nWhen using Courageous Campaign and <link\="s|164"><u>Childish Heart</u></link> stacks are at maximum, increase Attack and critical damage by 24% for 2 turns.=Aumenta la Conciencia de {{A}} a 2.\nEfecto de Conciencia 2: Tomemos las Manos aumenta la probabilidad de obtener <link\="s|164"><u>Corazón Infantil</u></link> en un 20%.\nAl usar Campaña valerosa cuando las acumulaciones de <link\="s|164"><u>Corazón Infantil</u></link> estén al máximo, aumenta el Ataque y el daño crítico en un 24% durante 2 turnos.
+Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Courageous Campaign and Thief Tactics by 3.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Campaña Valiente y Tácticas de Ladrón en 3.
+Raise {{A}} to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: Extend damage increase duration by 2 turns.=Aumenta la Conciencia de {{A}} a 4.\nEfecto de Conciencia 4: Highlight Mejorado: Extiende la duración del aumento de daño por 2 turnos.
+Raise {{A}} to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Surprise Squad and Ready for Adventure by 3.=Aumenta la Conciencia de {{A}} a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Escuadrón Sorpresa y Listo para la Aventura en 3.
+Raise {{A}} to Awareness 6.\nAwareness 6 Effect: When <link\="s|164"><u>Childish Heart</u></link> reaches 5 stacks, gain Curiosity.\nCuriosity: When Haruna deals damage with a skill, increase damage by 75%. This effect ends after dealing skill damage to foes.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Cuando <link\="s|164"><u>Corazón Infantil</u></link> alcanza 5 acumulaciones, obtiene Curiosidad.\nCuriosidad: cuando Haruna inflige daño con una habilidad, aumenta el daño en un 75%. Este efecto termina después de infligir daño de habilidad a los enemigos.
 
 #Yumi shiina
-Raise Yumi Shiina to Awareness 1.\nAwareness 1 Effect: When gaining a <link\="s|180"><u>Cocktail</u></link>, randomly gain 1 <link\="s|181"><u>Mixer</u></link> stack of the attributes spent.\nWhen activating Tempting Build or Invigorating Blend, spend 1 <link\="s|184"><u>Basic</u></link> or <link\="s|183"><u>Standard</u></link> Cocktail to gain 1 Standard or <link\="s|182"><u>Tailor-Made</u></link> Cocktail.=Aumenta la Conciencia de Yumi Shiina a 1.\nEfecto de Conciencia 1: Al ganar un <link\="s|180"><u>Cóctel</u></link>, gana de forma aleatoria 1 acumulación de <link\="s|181"><u>Mezclador</u></link> de los atributos gastados.\nAl activar Combinación Tentadora o Mezcla Vigorizante, gasta 1 Cóctel <link\="s|184"><u>Básico</u></link> o <link\="s|183"><u>Estándar</u></link> para ganar 1 Cóctel Estándar o <link\="s|182"><u>Hecho a Medida</u></link>.
-Raise Yumi Shiina to Awareness 2.\nAwareness 2 Effect: When gaining a <link\="s|180"><u>Cocktail</u></link>, increase the party's damage by 16% for 2 turns.=Aumenta la Conciencia de Yumi Shiina a 2.\nEfecto de Conciencia 2: Al ganar un <link\="s|180"><u>Cóctel</u></link>, aumenta el daño del grupo en un 16% durante 2 turnos.
-Raise Yumi Shiina to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Enchanting Stir and Invigorating Blend by 3.=Aumenta la Conciencia de Yumi Shiina a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Mezcla Encantadora y Mezcla Revitalizante en 3.
-Raise Yumi Shiina to Awareness 4.\nAwareness 4 Effect: When an ally uses Highlight or Theurgy, increase their Attack by 10% for 1 turn. Also, gain 1 <link\="s|182"><u>Tailor-Made</u></link> Cocktail.=Aumenta la Conciencia de Yumi Shiina a 4.\nEfecto de Conciencia 4: Cuando un aliado usa un Highlight o Teúrgia, aumenta su Ataque en un 10% durante 1 turno. Además, obtiene 1 Cóctel <link\="s|182"><u>Hecho a Medida</u></link>.
-Raise Yumi Shiina to Awareness 5.\nAwareness 5 Effect: Increase the skill level of Tempting Build by 3.=Aumenta la Conciencia de Yumi Shiina a 5.\nEfecto de Conciencia 5: Aumenta el nivel de Combinación Tentadora en 3.
-Raise Yumi Shiina to Awareness 6.\nAwareness 6 Effect: The maximum number of <link\="s|180"><u>Cocktail</u></link> stacks increases to 4.\nAt the start of battle, gain 1 <link\="s|182"><u>Tailor-Made</u></link> Cocktail. After every 3 Cocktails gained, gain 1 more Tailor-Made Cocktail.\nWhen spending a Tailor-Made, <link\="s|183"><u>Standard</u></link>, or <link\="s|184"><u>Basic</u></link> Cocktail to activate a skill, increase the skill effect from 120%/100%/50% up to 135%/120%/75% (includes Tempting Build, Invigorating Blend, and Moonlit Banquet).=Aumenta la Conciencia de Yumi Shiina a 6.\nEfecto de Conciencia 6: El número máximo de acumulaciones de <link\="s|180"><u>Cóctel</u></link> aumenta a 4.\nAl comienzo de la batalla, gana 1 Cóctel <link\="s|182"><u>Hecho a Medida</u></link>. Después de cada 3 Cócteles ganados, gana 1 Cóctel A medida más.\nCuando se gasta un Cóctel A medida, <link\="s|183"><u>Estándar</u></link> o <link\="s|184"><u>Básico</u></link> para activar una habilidad, aumenta el efecto de la habilidad del 120%/100%/50% hasta el 135%/120%/75% (incluye Combinación Tentadora, Mezcla Vigorizante y Banquete a la Luz de la Luna).
-
-#Tropical Motoha
-Raise Tropical Motoha to Awareness 1.\nAwareness 1 Effect: When <link\="s|192"><u>Summer Hype</u></link> is active, increase critical rate by 10% and critical damage by 25%.\nOn Tropical Motoha's action, increase Tropical Heart's healing counter by 1 and gain 1 <link\="s|111"><u>Blessing</u></link>.=Aumenta la Conciencia de Motoha Tropical a 1.\nEfecto de Conciencia 1: Cuando <link\="s|192"><u>Fiebre de Verano</u></link> está activo, aumenta la probabilidad crítica en un 10% y el daño crítico en un 25%. En el turno de acción de Motoha Tropical, aumenta el contador de curación de Corazón Tropical en 1 y obtiene 1 <link\="s|111"><u>Bendición</u></link>.
-Raise Tropical Motoha to Awareness 2.\nAwareness 2 Effect: When Tropical Motoha recieves healing, increase critical damage by 20% for 2 turns. Stacks up to 2 times.\nDuring battle, increase her max HP by 1200.=Aumenta la Conciencia de Motoha Tropical a 2.\nEfecto de Conciencia 2: Cuando Tropical Motoha recibe una curación, aumenta el daño crítico en un 20% durante 2 turnos. Se acumula hasta 2 veces. Durante la batalla, aumenta su PS máximo en 1200.
-Raise Tropical Motoha to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Summer 'Splosion and Surf 'n' Shine by 3.=Aumenta la Conciencia de Motoha Tropical a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Explosión Veraniega y Surf y Brillo en 3.
-Raise Tropical Motoha to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: After using a Highlight, increase the next Surf 'n' Shine's damage by 80%.=Aumenta la Conciencia de Motoha Tropical a 4.\nEfecto de Conciencia 4: Highlight Mejorado: Después de usar un Highlight, aumenta el daño del próximo Surf y Brillo en un 80%.
-Raise Tropical Motoha to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Blue Sunrise and Thief Tactics by 3.=Aumenta la Conciencia de Motoha Tropical a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Amanecer Azul y Tácticas de Ladrón en 3.
-Raise Tropical Motoha to Awareness 6.\nAwareness 6 Effect: Tropical Heart will not be spent after using Surf 'n' Shine.\n<link\="s|192"><u>Summer Hype</u></link> is enhanced to Summer Blowout. When Summer Blowout is active, the bonus damage of Blue Sunrise activates 3 times. Summer 'Splosion recovers 20% more of Tropical Motoha's max HP. Increase the skill multiplier of Surf 'n' Shine by 50%.=Aumenta la Conciencia de Motoha Tropical a 6.\nEfecto de Conciencia 6: Corazón Tropical no se consumirá tras usar Surf y Brillo.\n<link\="s|192"><u>Fiebre de Verano</u></link> se mejora a Gran Fiesta de Verano. Cuando Gran Fiesta de Verano está activo, el daño adicional de Amanecer Azul se activa 3 veces. Explosión Veraniega recupera un 20% más de los PS máximos de Motoha Tropical. Aumenta el multiplicador de habilidad de Surf y Brillo en un 50%.
-
-#Seaside tomoko
-Raise Seaside Tomoko to Awareness 1.\nAwareness 1 Effect: Each time a foe receives a <link\="s|194"><u>Summer Reminiscence</u></link> effect, decrease the foe's Defense by 15% for 3 turns. Stacks up to 3 times.\nHale Summer Days healing effects apply to all allies.=Aumenta la Conciencia de Tomoko Veraniega a 1.\nEfecto de Conciencia 1: Cada vez que un enemigo recibe un efecto de <link\="s|194"><u>Recuerdos del Verano</u></link>, reduce la Defensa del enemigo en un 15% durante 3 turnos. Se acumula hasta 3 veces.\nLos efectos de curación de Días de Verano en Hale se aplican a todos los aliados.
-Raise Seaside Tomoko to Awareness 2.\nAwareness 2 Effect: Every 2 times a <link\="s|194"><u>Summer Reminiscence</u></link> effect is activated, inflict 1 <link\="s|193"><u>Sparks</u></link> stack on 1 random foe.\nEach time Sparks is inflicted on a foe, permanently increase party's Attack by 2%. Stacks up to 15 times.=Aumenta la Conciencia de Tomoko Veraniega a 2.\nEfecto de Conciencia 2: Cada 2 veces que se activa un efecto de <link\="s|194"><u>Recuerdos del Verano</u></link>, inflige 1 acumulación de <link\="s|193"><u>Chispas</u></link>  a 1 enemigo al azar. Cada vez que se inflige Chispas a un enemigo, aumenta permanentemente el Ataque del equipo en un 2%. Se acumula hasta 15 veces.
-Raise Seaside Tomoko to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Have a Cold Drink and Hale Summer Days by 3.=Aumenta la Conciencia de Tomoko Veraniega a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Tome una Bebida Fría y Días de Verano en Hale en 3.
-Raise Seaside Tomoko to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: Deal bonus damage (2 hits) and inflict 1 <link\="s|193"><u>Sparks</u></link> stack per hit.=Aumenta la Conciencia de Tomoko Veraniega a 4.\nEfecto de Conciencia 4: Highlight Mejorado: Inflige daño adicional (2 golpes) e inflige 1 acumulación de <link\="s|193"><u>Chispas</u></link> por cada golpe.
-Raise Seaside Tomoko to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Sparkling Memories and Thief Tactics by 3.=Aumenta la Conciencia de Tomoko Veraniega a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Recuerdos Chispeantes y Tácticas de Ladrón en 3.
-Raise Seaside Tomoko to Awareness 6.\nAwareness 6 Effect: <link\="s|194"><u>Summer Reminiscence</u></link> gains the following effects.\nWhen dealing damage with Summer Reminiscence, increase critical rate by 35%. Each time a foe takes a Summer Reminiscence effect, permanently increase damage taken by 5%. This effect stacks up to 3 times. At the maximum stack, increase critical damage taken by 20% more.=Aumenta la Conciencia de Tomoko Veraniega a 6.\nEfecto de Conciencia 6: <link\="s|194"><u>Recuerdos del Verano</u></link> obtiene los siguientes efectos.\nAl infligir daño con Recuerdos del Verano, aumenta la probabilidad de crítico en un 35%. Cada vez que un enemigo recibe un efecto de Recuerdos del Verano, aumenta permanentemente el daño recibido en un 5%. Este efecto se acumula hasta 3 veces. Con el máximo de acumulaciones, aumenta el daño crítico recibido en un 20% adicional.
-
-#Noir
-Raise Haru Okumura to Awareness 1.\nAwareness 1 Effect: After a new foe appears, activate Extrasensory Aim for that foe at the start of Haru's next turn.\nBased on Haru's <link\="s|114"><u>Target Audience</u></link> stacks, increase Attack by 8% (up to 24%) and ranged attack critical rate by 6% (up to 18%).=Aumenta la Conciencia de Haru Okumura a 1.\nEfecto de Conciencia 1: Cuando aparezca un nuevo enemigo, activa Objetivo Extrasensorial para ese enemigo al inicio del siguiente turno de Haru. Basado en el <link\="s|114"><u>Público Objetivo</u></link> aumenta el ataque en un 8% (hasta un 24%) y el probabilidad de críticos de ataque a distancia en un 6% (hasta un 18%).
-Raise Haru Okumura to Awareness 2.\nAwareness 2 Effect: When Haru has 1+ <link\="s|114"><u>Target Audience</u></link> stacks, decrease damage taken by 25%. When at 3+ Target Audience stacks, increase Psychokinesis damage by 60%.=Aumenta la Conciencia de Haru Okumura a 2.\nEfecto de Conciencia 2: Cuando Haru tiene 1 o más <link\="s|114"><u>Público Objetivo</u></link> disminuye el daño recibido un 25%. Con más de 3 acumulaciones de Público Objetivo, aumenta el daño de Psicoquinesis un 60%.
-Raise Haru Okumura to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Mindful Release and Thief Tactics by 3.=Aumenta la Conciencia de Haru Okumura a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Liberación Consciente y Tácticas de Ladrón en 3.
-Raise Haru Okumura to Awareness 4.\nAwareness 4 Effect: Overload Round Enhanced: When using a ranged attack, increase critical damage by 30%.=Aumenta la Conciencia de Haru Okumura a 4.\nEfecto de Conciencia 4: Proyectil de Sobrecarga Mejorado: Al usar un ataque a distancia, aumenta el daño crítico en un 30%.
-Raise Haru Okumura to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Extrasensory Aim and Precise Volley by 3.=Aumenta la Conciencia de Haru Okumura a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Objetivo Extrasensorial y Volea Precisa en 3.
-Raise Haru Okumura to Awareness 6.\nAwareness 6 Effect: When at 2+ Thoughtful Round stacks, evolve Haru's ranged attacks to Resonating Shots. Also, deal a ranged attack that activates all Thoughtful Round effects once. This additional attack's damage is 70% of the original attack. At 2+ Thoughtful Round stacks, activate the following effects for Thoughtful Round gained from skills.\nFocused Round: When using a ranged attack, also decrease the foe's ailment resistance by 27% for 2 turns.\nPainpoint Round: When using a ranged attack and Haru has <link\="s|114"><u>Target Audience</u></link>, increase pierce rate by 12%.\nSpillover Round: When using a ranged attack and Haru has Target Audience, increase critical rate by 20% and critical damage by 20%.=Aumenta la Conciencia de Haru Okumura a 6.\nEfecto de Conciencia 6: Cuando tiene 2 o más acumulaciones de Proyectil Reflexivo, evoluciona los ataques a distancia de Haru a Disparos Resonantes. Además, realiza un ataque a distancia que activa todos los efectos de Proyectil Reflexivo una vez. El daño de este ataque adicional es el 70% del ataque original. Con 2 o más acumulaciones de Proyectil Reflexivo, activa los siguientes efectos para la Proyectil Reflexivo obtenida de las habilidades.\nProyectil Enfocado: Al usar un ataque a distancia, también reduce la resistencia a estados alterados del enemigo en un 27% durante 2 turnos.\nProyectil de Punto Débil: Al usar un ataque a distancia y Haru tiene <link\="s|114"><u>Público Objetivo</u></link>, aumenta la tasa de perforación en un 12%.\nProyectil de Dispersión: Al usar un ataque a distancia y Haru tiene Público Objetivo, aumenta la probabilidad crítica en un 20% y el daño crítico en un 20%.
-
-#Messa
-Raise Kira Kitazato to Awareness 1.\nAwareness 1 Effect: In <link\="s|198"><u>Doctor</u></link> mode, the first time skill damage is dealt to each foe, inflict 5 more <link\="s|196"><u>Bleed</u></link> stacks on the target.\nIn <link\="s|199"><u>Ripper</u></link> mode, when using a skill on a foe, increase that skill's damage based on the number of debuffs on the target. When they are inflicted with 10 or more debuffs, maximize this effect and increase skill damage up to 80%. Also, multiply Bleed's Almighty damage by 1.5.=Aumenta la Conciencia de Kira Kitazato a 1.\nEfecto de Conciencia 1: En modo <link\="s|198"><u>Doctor</u></link>, la primera vez que se inflige daño de habilidad a cada enemigo, inflige 5 acumulaciones más de <link\="s|196"><u>Sangrado</u></link>  al objetivo.\nEn modo <link\="s|199"><u>Destripador</u></link>, al usar una habilidad sobre un enemigo, aumenta el daño de esa habilidad en función del número de perjuicios que tenga el objetivo. Cuando tiene 10 o más perjuicios, maximiza este efecto y aumenta el daño de habilidad hasta en un 80%. Además, multiplica el daño Todopoderoso de Sangrado x1,5.
-#Mirar
-Raise Kira Kitazato to Awareness 2.\nAwareness 2 Effect: =Aumenta la Conciencia de Kira Kitazato a 2.\nEfecto de Conciencia 2: 
-Raise Kira Kitazato to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Crimson Operation / Pathology and Nightfall by 3.=Aumenta la Conciencia de Kira Kitazato a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Operación Carmesí / Patología y Anochecer en 3.
-Raise Kira Kitazato to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: Increase Highlight damage by 8% for each <link\="s|196"><u>Bleed</u></link> stack inflicted on the target.=Aumenta la Conciencia de Kira Kitazato a 4.\nEfecto de Conciencia 4: Highlight Mejorado: Aumenta el daño de Highlight en un 8% por cada acumulación de <link\="s|196"><u>Sangrado</u></link> infligida al objetivo.
-Raise Kira Kitazato to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Moonlit Scalpel / Midnight Surgery and Thief Tactics by 3.=Aumenta la Conciencia de Kira Kitazato a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Bisturí Lunar / Cirugía Nocturna y Tácticas de Ladrón en 3.
-Raise Kira Kitazato to Awareness 6.\nAwareness 6 Effect: Increase the maximum stacks of <link\="s|196"><u>Bleed</u></link> to 13. Also, each foe will always be inflicted with 3 stacks of Bleed.\nWhen using Midnight Surgery in <link\="s|199"><u>Ripper</u></link> mode, do not remove the target's Bleed stacks. Also evolve <link\="s|197"><u>Rending</u></link> effects to Killing Frenzy, increase damage by 100%, and deal 50% damage to all other foes. Killing Frenzy can activate effects from Rending with all skills.=Aumenta la Conciencia de Kira Kitazato a 6.\nEfecto de Conciencia 6: Aumenta las acumulaciones máximas de <link\="s|196"><u>Sangrado</u></link> a 13. Además, cada enemigo siempre sufrirá 3 acumulaciones de Sangrado.\nAl usar Cirugía de Medianoche en modo <link\="s|199"><u>Destripador</u></link>, no elimina las acumulaciones de Sangrado del objetivo. Además, evoluciona los efectos de <link\="s|197"><u>Desgarro</u></link> a Frenesí Asesino, aumenta el daño en un 100% e inflige un 50% de daño a todos los demás enemigos. Frenesí Asesino puede activar los efectos de Desgarro con todas las habilidades.
-
-#Chord
-Raise Ayaka Sakai to Awareness 1.\nAwareness 1 Effect: At the start of battle, grant <link\="s|190"><u>Costar</u></link> to the ally with the highest Attack for 3 turns (prioritizing Assassins and Sweepers).\nIncrease that ally's critical rate by 15%.=Aumenta la Conciencia de Ayaka Sakai a 1.\nEfecto de Conciencia 1: Al comienzo de la batalla, otorga <link\="s|190">Costar</u></link> al aliado con el Ataque más alto durante 3 turnos (priorizando Asesinos y Barrendero). Aumenta la probabilidad de crítico de ese aliado en un 15%.
-Raise Ayaka Sakai to Awareness 2.\nAwareness 2 Effect: When using Catchy Hook, increase targeted ally's damage by 30% for 2 turns.=Aumenta la Conciencia de Ayaka Sakai a 2.\nEfecto de Conciencia 2: Al usar Gancho Pegadizo aumenta el daño del aliado objetivo en un 30% durante 2 turnos.
-Raise Ayaka Sakai to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Distortion and Catchy Hook by 3.=Aumenta la Conciencia de Ayaka Sakai a 3.\nEfecto de Conciencia 3: Aumenta el nivel de habilidad de Distorsión y Gancho Pegadizo en 3.
-Raise Ayaka Sakai to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: Increase effect duration to 6 ally actions.\nFill the Highlight gauge to 60%, and decrease Highlight activation cooldown for all other allies by 1 turn.=Aumenta la Conciencia de Ayaka Sakai a 4.\nEfecto de Conciencia 4: Highlight Mejorado: aumenta la duración del efecto a 6 acciones de aliado. Llena el indicador de Highlight al 60% y reduce el tiempo de enfriamiento de activación de Highlight de todos los demás aliados en 1 turno.
-Raise Ayaka Sakai to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Unison Notes and Thief Tactics by 3.=Aumenta la Conciencia de Ayaka Sakai a 5.\nEfecto de Conciencia 5: Aumenta el nivel de habilidad de Notas al Unísono y Tácticas de ladrón en 3.
-Raise Ayaka Sakai to Awareness 6.\nAwareness 6 Effect: At the start of battle, Catchy Hook can be used immediately. Cooldown time is permanently decreased to 1 turn and won't increase.\nEvery time Catchy Hook is used, increase the party's damage by 20% (up to 2 stacks).=Aumenta la Conciencia de Ayaka Sakai a 6.\nEfecto de Conciencia 6: Al inicio de la batalla, se puede usar Gancho Pegadizo inmediatamente. El tiempo de enfriamiento se reduce permanentemente a 1 turno y no aumentará.\nCada vez que se use Gancho Pegadizo, el daño del equipo aumenta en un 20% (hasta 2 acumulaciones).
-
-#cherish
-Raise Masaki Ashiya to Awareness 1.\nAwareness 1 Effect: At the start of battle, gain 3 Heroism stacks. <link\="s|202"><u>Garden of Promises</u></link> requires 3 Heroism stacks to activate.\nIncrease party's pierce rate by 20%.=Aumenta la Conciencia de Masaki Ashiya a 1.\nEfecto de Conciencia 1: Al comienzo de la batalla, gana 3 acumulaciones de Heroísmo. <link\="s|202"><u>Jardín de Promesas</u></link> requiere 3 acumulaciones de Heroísmo para activarse.\nAumenta la tasa de perforación del grupo en un 20%.
-Raise Masaki Ashiya to Awareness 2.\nAwareness 2 Effect: Increase Defense by 15%, damage dealt by 15%, and critical damage by 10% for every <link\="s|201"><u>Knight's Protection</u></link> shield. This effect can stack up to 2 times.\nWhen the effect of Knight's Protection ends, restore the targeted ally's HP by 20% of remaining shield.=Aumenta la Conciencia de Masaki Ashiya a 2.\nEfecto de Conciencia 2: Aumenta la Defensa en un 15%, el daño infligido en un 15% y el daño crítico en un 10% por cada escudo de <link\="s|201"><u>Protección del Caballero</u></link>. Este efecto se puede acumular hasta 2 veces.\nCuando el efecto de Protección del caballero termina, restaura los PS del aliado objetivo en un 20% del escudo restante.
-Raise Masaki Ashiya to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Frost Vines and Winter Fortress by 3.=Aumenta la Conciencia de Masaki Ashiya a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de las Enredaderas Gélidas y la Fortaleza Invernal en 3.
-Raise Masaki Ashiya to Awareness 4.\nAwareness 4 Effect: Highlight Enhanced: Increase shield granted to party by 30% (lasts for 2 turns).=Aumenta la Conciencia de Masaki Ashiya a 4.\nEfecto de Conciencia 4: Highlight Mejorado: Aumenta el escudo otorgado al grupo en un 30% (dura 2 turnos).
-Raise Masaki Ashiya to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Hoarfrost Vow and Thief Tactics by 3.=Aumenta la Conciencia de Masaki Ashiya a 5.\nEfecto de Conciencia 5: Aumenta los niveles de Juramento de Escarcha y Tácticas de Ladrón en 3.
-Raise Masaki Ashiya to Awareness 6.\nAwareness 6 Effect: When gaining <link\="s|202"><u>Garden of Promises</u></link>, gain Poise for 3 turns.\nPoise: Increase the party's critical rate by 15%.=Aumenta la Conciencia de Masaki Ashiya a 6.\nEfecto de Conciencia 6: Al ganar <link\="s|202"><u>Jardín de Promesas</u></link>, gana Compostura durante 3 turnos.\nCompostura: Aumenta la probabilidad crítica del grupo en un 15%.
-
-#twins
-Raise Justine & Caroline to Awareness 1.\nAwareness 1 Effect: At the start of battle, depending on the selected Personas, gain 2 types of <link\="s|273"><u>Facade</u></link>.\nAt the start of Justine & Caroline's turn or end of their action, if they have 2 types of Facade, automatically activate Two Masks as One on a random target 1 time (prioritizing the target of the previous skill attack used).=Aumenta la Conciencia de Justine & Caroline a 1.\nEfecto de Conciencia 1: Al comienzo de la batalla, dependiendo de las Personas seleccionadas, obtiene 2 tipos de <link\="s|273"><u>Fachada</u></link>.\nAl comienzo del turno de Justine y Caroline o al final de su acción, si tienen 2 tipos de Fachada, activa automáticamente Dos Máscaras en Una en un objetivo aleatorio 1 vez (priorizando al objetivo del ataque de habilidad anterior utilizado).
-Raise Justine & Caroline to Awareness 2.\nAwareness 2 Effect: When a <link\="s|273"><u>Facade</u></link> is gained, gain the following buff based on the type of Facade:\nFacade of Mischief & Innocence: Increase party's Attack by 30% for 2 turns.\nFacade of Service & Admonition: Decrease party's damage taken by 20% for 2 turns.\nFacade of Absurdity & Nonsense: Increase critical damage of the Assassin or Sweeper ally with the highest Attack by 20% for 2 turns.\nFacade of Luck & Loss: Increase Justine & Caroline's skill damage by 10% for 2 turns.=Aumenta la Conciencia de Justine & Caroline a 2.\nEfecto de Conciencia 2: Cuando se obtiene una <link\="s|273"><u>Fachada</u></link>, se obtiene la siguiente mejora según el tipo de Fachada:\nFachada de Travesura e Inocencia: Aumenta el Ataque del equipo en un 30% durante 2 turnos.\nFachada de Servicio y Amonestación: Reduce el daño recibido por el equipo en un 20% durante 2 turnos.\nFachada de Absurdo y Sinsentido: Aumenta el daño crítico del aliado Asesino o Barrendero con el Ataque más alto en un 20% durante 2 turnos.\nFachada de Suerte y Pérdida: Aumenta el daño de habilidad de Justine y Caroline en un 10% durante 2 turnos.
-Raise Justine & Caroline to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Selected Skill 1 and Two Masks as One by 3.=Aumenta la Conciencia de Justine & Caroline a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Habilidad seleccionada 1 y de Dos Máscaras en Una en 3.
-Raise Justine & Caroline to Awareness 4.\nAwareness 4 Effect: When Justine & Caroline activate their Highlight, increase their Attack by 40%, damage dealt by 20%, and grant 50% of these effects to other allies for 2 turns.=Aumenta la Conciencia de Justine & Caroline a 4.\nEfecto de Conciencia 4: Cuando Justine y Caroline activan su Highlight, aumenta su Ataque en un 40% y su daño infligido en un 20%, y otorga el 50% de estos efectos a los demás aliados durante 2 turnos.
-Raise Justine & Caroline to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Selected Skill 2 and Thief Tactics by 3.=Aumenta la Conciencia de Justine & Caroline a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Habilidad seleccionada 2 y Tácticas de ladrón en 3.
-Raise Justine & Caroline to Awareness 6.\nAwareness 6 Effect: When this Awareness is unlocked, during battle, increase Wonder's skill and Thief Tactics levels by 1 (takes effect even when Justine & Caroline are not in battle). Also, increase <link\="s|271"><u>Desire Level</u></link> by 20%.\nAt the start of battle, gain True Desire.\nAfterwards, regain True Desire every 8 actions if it has been spent.\nAt the start of Justine & Caroline's turn, they can spend 1 True Desire stack to enhance the next activated Two Masks as One.\nEnhanced effect: Activate all <link\="s|273"><u>Facade</u></link> effects for Two Masks as One. Also, deal bonus damage to the main target equal to 40% of Attack (8 hits. Increase this skill's effect by 1% for every 1 point of Desire Level. These bonus hits deal 1 hit of Fire, Ice, Electric, Wind, Psychokinesis, Nuclear, Bless, and Curse damage each.)=Aumenta la Conciencia de Justine & Caroline a 6.\nEfecto de Conciencia 6: Al desbloquear esta Conciencia, durante la batalla, aumenta el nivel de habilidad de Wonder y de Tácticas de ladrón en 1 (hace efecto incluso cuando Justine y Caroline no están en batalla). Además, aumenta el <link\="s|271"><u>Nivel de Deseo</u></link> en un 20%.\nAl comienzo de la batalla, obtiene Deseo verdadero.\nDespués, vuelve a ganar Deseo Verdadero cada 8 acciones si se ha consumido.\nAl comienzo del turno de Justine y Caroline, pueden consumir 1 acumulación de Deseo verdadero para potenciar el próximo Dos Máscaras en Una que se active.\nEfecto Potenciado: Activa todos los efectos de <link\="s|273"><u>Fachada</u></link> para Dos Máscaras en Una. Además, inflige daño adicional al objetivo principal igual al 40% del Ataque (8 golpes. Aumenta el efecto de esta habilidad en un 1% por cada 1 punto de Nivel de deseo. Estos golpes adicionales infligen 1 golpe de daño de Fuego, Hielo, Eléctrico, Viento, Psicoquinesis, Nuclear, Bendición y Maldición cada uno).
-
-#navi
-Raise Futaba Sakura to Awareness 1.\nAwareness 1 Effect: When Futaba's Analysis Progress reaches 100% or when Data Storm is active, increase allies' critical rate by 12%.=Aumenta la Conciencia de Futaba Sakura a 1.\nEfecto de Conciencia 1: Cuando el Progreso de análisis de Futaba alcanza el 100% o cuando Tormenta de datos está activa, aumenta el probabilidad de críticos de los aliados un 12%.
-Raise Futaba Sakura to Awareness 2.\nAwareness 2 Effect: When an ally attacks a foe that has been debuffed by Futaba, increase Attack by 25%.\nAlso, if any ally takes damage that would KO them, survive the attack with 1 HP and grant a shield to all allies for 3 turns equal to 20% of Futaba's Attack. This effect activates once per battle.=Aumenta la Conciencia de Futaba Sakura a 2.\nEfecto de Conciencia 2: Cuando un aliado ataca a un enemigo que ha sido debilitado por Futaba, aumenta el Ataque en un 25%.\nAdemás, si algún aliado recibe un daño que lo derrotaría, sobrevivirá al ataque con 1 PS y otorgará un escudo a todos los aliados durante 3 turnos equivalente al 20% del Ataque de Futaba. Este efecto se activa una vez por batalla.
-Raise Futaba Sakura to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Data Link Established! and Vulnerability Found! by 3.=Aumenta la Conciencia de Futaba Sakura a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de ¡Enlace de Datos Establecido! y ¡Vulnerabilidad Encontrada! en 3.
-Raise Futaba Sakura to Awareness 4.\nAwareness 4 Effect: When an ally uses a Highlight or Theurgy, Futaba gains 1 Security Flaw stack. Stacks up to 2 times.\nWhen Futaba uses Pentest Complete! or Vulnerability Found!, spend all Security Flaw stacks to increase the effect by 8% for each stack.=Aumenta la Conciencia de Futaba Sakura a 4.\nEfecto de Conciencia 4: Cuando un aliado usa un Highlight o Teúrgia, Futaba obtiene 1 acumulación de Falla de Seguridad. Se acumula hasta 2 veces.\nCuando Futaba usa ¡Prueba Completado! o ¡Vulnerabilidad Encontrada!, consume todas las acumulaciones de Falla de Seguridad para aumentar el efecto en un 8% por cada acumulación.
-Raise Futaba Sakura to Awareness 5.\nAwareness 5 Effect: Increase the skill level of Pentest Complete! by 3.=Aumenta la Conciencia de Futaba Sakura a 5.\nEfecto de Conciencia 5: Aumenta el nivel de habilidad de ¡Prueba Completado! en 3.
-Raise Futaba Sakura to Awareness 6.\nAwareness 6 Effect: When Futaba uses Data Link Established!, target all allies, and also inflict Virus on all foes corresponding to an ally's attribute (Viruses of the same attribute do not stack).\nIncrease the duration of Data Storm to 3 turns, and increase allies' weakness damage by 10%, and damage dealt by 25%.=Aumenta la Conciencia de Futaba Sakura a 6.\nEfecto de Conciencia 6: Cuando Futaba usa ¡Enlace de Datos Establecido!, afecta a todos los aliados y también inflige Virus a todos los enemigos según el atributo de un aliado (los Virus del mismo atributo no se acumulan).\nAumenta la duración de Tormenta de datos a 3 turnos, aumenta el daño de debilidad de los aliados en un 10% y el daño infligido en un 25%.
+Raise {{A}} to Awareness 1.\nAwareness 1 Effect: When gaining a <link\="s|180"><u>Cocktail</u></link>, randomly gain 1 <link\="s|181"><u>Mixer</u></link> stack of the attributes spent.\nWhen activating Tempting Build or Invigorating Blend, spend 1 <link\="s|184"><u>Basic</u></link> or <link\="s|183"><u>Standard</u></link> Cocktail to gain 1 Standard or <link\="s|182"><u>Tailor-Made</u></link> Cocktail.=Aumenta la Conciencia de {{A}} a 1.\nEfecto de Conciencia 1: Al ganar un <link\="s|180"><u>Cóctel</u></link>, gana de forma aleatoria 1 acumulación de <link\="s|181"><u>Mezclador</u></link> de los atributos gastados.\nAl activar Combinación Tentadora o Mezcla Vigorizante, gasta 1 Cóctel <link\="s|184"><u>Básico</u></link> o <link\="s|183"><u>Estándar</u></link> para ganar 1 Cóctel Estándar o <link\="s|182"><u>Hecho a Medida</u></link>.
+Raise {{A}} to Awareness 2.\nAwareness 2 Effect: When gaining a <link\="s|180"><u>Cocktail</u></link>, increase the party's damage by 16% for 2 turns.=Aumenta la Conciencia de {{A}} a 2.\nEfecto de Conciencia 2: Al ganar un <link\="s|180"><u>Cóctel</u></link>, aumenta el daño del grupo en un 16% durante 2 turnos.
+Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Enchanting Stir and Invigorating Blend by 3.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Mezcla Encantadora y Mezcla Revitalizante en 3.
+Raise {{A}} to Awareness 4.\nAwareness 4 Effect: When an ally uses Highlight or Theurgy, increase their Attack by 10% for 1 turn. Also, gain 1 <link\="s|182"><u>Tailor-Made</u></link> Cocktail.=Aumenta la Conciencia de {{A}} a 4.\nEfecto de Conciencia 4: Cuando un aliado usa un Highlight o Teúrgia, aumenta su Ataque en un 10% durante 1 turno. Además, obtiene 1 Cóctel <link\="s|182"><u>Hecho a Medida</u></link>.
+Raise {{A}} to Awareness 5.\nAwareness 5 Effect: Increase the skill level of Tempting Build by 3.=Aumenta la Conciencia de {{A}} a 5.\nEfecto de Conciencia 5: Aumenta el nivel de Combinación Tentadora en 3.
+Raise {{A}} to Awareness 6.\nAwareness 6 Effect: The maximum number of <link\="s|180"><u>Cocktail</u></link> stacks increases to 4.\nAt the start of battle, gain 1 <link\="s|182"><u>Tailor-Made</u></link> Cocktail. After every 3 Cocktails gained, gain 1 more Tailor-Made Cocktail.\nWhen spending a Tailor-Made, <link\="s|183"><u>Standard</u></link>, or <link\="s|184"><u>Basic</u></link> Cocktail to activate a skill, increase the skill effect from 120%/100%/50% up to 135%/120%/75% (includes Tempting Build, Invigorating Blend, and Moonlit Banquet).=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: El número máximo de acumulaciones de <link\="s|180"><u>Cóctel</u></link> aumenta a 4.\nAl comienzo de la batalla, gana 1 Cóctel <link\="s|182"><u>Hecho a Medida</u></link>. Después de cada 3 Cócteles ganados, gana 1 Cóctel A medida más.\nCuando se gasta un Cóctel A medida, <link\="s|183"><u>Estándar</u></link> o <link\="s|184"><u>Básico</u></link> para activar una habilidad, aumenta el efecto de la habilidad del 120%/100%/50% hasta el 135%/120%/75% (incluye Combinación Tentadora, Mezcla Vigorizante y Banquete a la Luz de la Luna).
 
 #Blanco
 #Raise {{A}} to Awareness 1.\nAwareness 1 Effect: =Aumenta la Conciencia de {{A}} a 1.\nEfecto de Conciencia 1: 
@@ -2373,36 +2190,36 @@ Raise Futaba Sakura to Awareness 6.\nAwareness 6 Effect: When Futaba uses Data L
 #Raise {{A}} to Awareness 6.\nAwareness 6 Effect: =Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: 
 
 #Yukimi Fujikawa
-Raise Yukimi Fujikawa to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Sword of Condemnation and Sacral Glow by 2.=Aumenta la Conciencia de Yukimi Fujikawa a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Espada de Condena y Brillo Sacro en 2.
+Raise Yukimi Fujikawa to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Sword of Condemnation and Sacral Glow by 2.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Espada de Condena y Brillo Sacro en 2.
 Raise Yukimi Fujikawa to Awareness 6.\nAwareness 6 Effect: Increase damage by 10% for Yukimi and allies with <link\="s|121"><u>Oath</u></link>. Increase Bless damage by 2% for each <link\="s|111"><u>Blessing</u></link> stack on Yukimi and allies with Oath (up to 20%).=Aumenta la Conciencia de Yukimi Fujikawa a 6.\nEfecto de Conciencia 6: Aumenta el daño en un 10% para Yukimi y los aliados con <link\="s|121"><u>Juramento</u></link>. Aumenta el daño de Bendición en un 2% por cada acumulación de <link\="s|111"><u>Bendición</u></link> en Yukimi y los aliados con Juramento (hasta un 20%).
 
 #shun kano
-Raise Shun Kano to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Icicle Hatchet and Smash Hit by 2.=Aumenta la Conciencia de Shun Kano a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Hacha de Carámbano y Golpe Certero en 2.
-Raise Shun Kano to Awareness 6.\nAwareness 6 Effect: When attacking a foe while <link\="s|151"><u>Desperado</u></link> is active, deal bonus damage equal to 10% of Shun's max HP, and restore HP equal to damage dealt.=Aumenta la Conciencia de Shun Kano a 6.\nEfecto de Conciencia 6: Al atacar a un enemigo mientras <link\="s|151"><u>Forajido</u></link> está activo, inflige daño adicional igual al 10% del PS máximo de Shun y restaura PS según el daño infligido.
+Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Icicle Hatchet and Smash Hit by 2.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Hacha de Carámbano y Golpe Certero en 2.
+Raise {{A}} to Awareness 6.\nAwareness 6 Effect: When attacking a foe while <link\="s|151"><u>Desperado</u></link> is active, deal bonus damage equal to 10% of Shun's max HP, and restore HP equal to damage dealt.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Al atacar a un enemigo mientras <link\="s|151"><u>Forajido</u></link> está activo, inflige daño adicional igual al 10% del PS máximo de Shun y restaura PS según el daño infligido.
 
 #leo kamiyama
-Raise Leo Kamiyama to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Atomic Smash and Justice Barrier by 2.=Aumenta la Conciencia de Leo Kamiyama a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Golpe atómico y Barrera de Justicia en 2.
-Raise Leo Kamiyama to Awareness 6.\nAwareness 6 Effect: When using a skill on an ally with HP below 60%, increase critical damage by 25% for 1 turn.=Aumenta la Conciencia de Leo Kamiyama a 6.\nEfecto de Conciencia 6: Al usar una habilidad sobre un aliado con menos del 60% de PS, aumenta el daño crítico un 25% durante 1 turno.
+Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Atomic Smash and Justice Barrier by 2.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Golpe atómico y Barrera de Justicia en 2.
+Raise {{A}} to Awareness 6.\nAwareness 6 Effect: When using a skill on an ally with HP below 60%, increase critical damage by 25% for 1 turn.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Al usar una habilidad sobre un aliado con menos del 60% de PS, aumenta el daño crítico un 25% durante 1 turno.
 
 #kiyoshi kurotani
-Raise Kiyoshi Kurotani to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Ring of Fire and Cleansing Flame by 2.=Aumenta la Conciencia de Kiyoshi Kurotani a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Anillo de Fuego y Llama Purificadora en 2.
-Raise Kiyoshi Kurotani to Awareness 6.\nAwareness 6 Effect: Increase the party's Fire damage by 30% for every 10 <link\="s|135"><u>Chosen One</u></link> stacks gained for 2 turns.=Aumenta la Conciencia de Kiyoshi Kurotani a 6.\nEfecto de Conciencia 6: Aumenta el daño de Fuego del equipo en un 30% por cada 10 acumulaciones de <link\="s|135"><u>Elegido</u></link> obtenidas durante 2 turnos.
+Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Ring of Fire and Cleansing Flame by 2.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Anillo de Fuego y Llama Purificadora en 2.
+Raise {{A}} to Awareness 6.\nAwareness 6 Effect: Increase the party's Fire damage by 30% for every 10 <link\="s|135"><u>Chosen One</u></link> stacks gained for 2 turns.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Aumenta el daño de Fuego del equipo en un 30% por cada 10 acumulaciones de <link\="s|135"><u>Elegido</u></link> obtenidas durante 2 turnos.
 
 #riko tanemura
-Raise Riko Tanemura to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Scattered Plum Blossoms and Dreams in the Mist by 2.=Aumenta la Conciencia de Riko Tanemura a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Ciruelos en flor y Sueños en la niebla en 2.
-Raise Riko Tanemura to Awareness 6.\nAwareness 6 Effect: If Riko's Speed is 100 or more, when using Verngale Petals, decrease cooldown time for every 15 points of Speed over 100, up to 4 actions.=Aumenta la Conciencia de Riko Tanemura a 6.\nEfecto de Conciencia 6: Si la Velocidad de Riko es 100 o más, al usar Pétalos de Verngale, disminuye el tiempo de reutilización por cada 15 puntos de Velocidad por encima de 100, hasta 4 acciones.
+Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Scattered Plum Blossoms and Dreams in the Mist by 2.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Ciruelos en flor y Sueños en la niebla en 2.
+Raise {{A}} to Awareness 6.\nAwareness 6 Effect: If Riko's Speed is 100 or more, when using Verngale Petals, decrease cooldown time for every 15 points of Speed over 100, up to 4 actions.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Si la Velocidad de Riko es 100 o más, al usar Pétalos de Verngale, disminuye el tiempo de reutilización por cada 15 puntos de Velocidad por encima de 100, hasta 4 acciones.
 
 #seiji shiratori
-Raise Seiji Shiratori to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Blustering Épée and Graceful Gale by 2.=Aumenta la Conciencia de Seiji Shiratori a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Épée Tempestuosa y Ráfaga Gale en 2.
-Raise Seiji Shiratori to Awareness 6.\nAwareness 6 Effect: Increase chance to gain <link\="s|118"><u>Right to Strike</u></link> by 20%.\nWhen Seiji has 5 Right to Strike stacks, Blustering Épée, Graceful Gale, and Saber Surge deal 1 more hit.=Aumenta la Conciencia de Seiji Shiratori a 6.\nEfecto de Conciencia 6: Aumenta la probabilidad de obtener <link\="s|118"><u>Derecho a Atacar</u></link> en un 20%. Cuando Seiji tiene 5 acumulaciones de Derecho a Atacar, Épée Tempestuosa, Ráfaga Gale y Oleada de Sable infligen 1 golpe más.
+Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Blustering Épée and Graceful Gale by 2.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Épée Tempestuosa y Ráfaga Gale en 2.
+Raise {{A}} to Awareness 6.\nAwareness 6 Effect: Increase chance to gain <link\="s|118"><u>Right to Strike</u></link> by 20%.\nWhen Seiji has 5 Right to Strike stacks, Blustering Épée, Graceful Gale, and Saber Surge deal 1 more hit.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Aumenta la probabilidad de obtener <link\="s|118"><u>Derecho a Atacar</u></link> en un 20%. Cuando Seiji tiene 5 acumulaciones de Derecho a Atacar, Épée Tempestuosa, Ráfaga Gale y Oleada de Sable infligen 1 golpe más.
 
 #Motoha Arai
-Raise Motoha Arai to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Wrathful Thunder and Blitz Mine by 2.=Aumenta la Conciencia de Motoha Arai a 3.\nEfecto de Conciencia 3: Aumenta en 2 los niveles de habilidad de Trueno Iracundo y Mina Relámpago.
-Raise Motoha Arai to Awareness 6.\nAwareness 6 Effect: Increase <link\="s|104"><u>Shocked</u></link> foes' Electric damage taken by 20%, and increase Electric critical damage taken by 20%.=Aumenta la Conciencia de Motoha Arai a 6.\nEfecto de Conciencia 6: Aumenta el daño Eléctrico recibido por los enemigos con <link\="s|104"><u>Electrocución</u></link> en un 20%, y aumenta el daño crítico Eléctrico recibido en un 20%.
+Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Wrathful Thunder and Blitz Mine by 2.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta en 2 los niveles de habilidad de Trueno Iracundo y Mina Relámpago.
+Raise {{A}} to Awareness 6.\nAwareness 6 Effect: Increase <link\="s|104"><u>Shocked</u></link> foes' Electric damage taken by 20%, and increase Electric critical damage taken by 20%.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Aumenta el daño Eléctrico recibido por los enemigos con <link\="s|104"><u>Electrocución</u></link> en un 20%, y aumenta el daño crítico Eléctrico recibido en un 20%.
 
 #Kotone Montagne
-Raise Kotone Montagne to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Frost Lily and Winter Storm by 2.=Aumenta la Conciencia de Kotone Montagne a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Lirio de Escarcha y Tormenta Invernal en 2.
-Raise Kotone Montagne to Awareness 6.\nAwareness 6 Effect: At the start of battle, gain 4 <link\="s|119"><u>Ice Crystal</u></link> stacks. Increase the maximum number of <link\="s|119"><u>Ice Crystal</u></link> stacks to 15.=Aumenta la Conciencia de Kotone Montagne a 6.\nEfecto de Conciencia 6: Al comienzo de la batalla, obtiene 4 acumulaciones de <link\="s|119"><u>Cristal de Hielo</u></link>. Aumenta el número máximo de acumulaciones de <link\="s|119"><u>Cristal de Hielo</u></link> a 15.
+Raise {{A}} to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Frost Lily and Winter Storm by 2.=Aumenta la Conciencia de {{A}} a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Lirio de Escarcha y Tormenta Invernal en 2.
+Raise {{A}} to Awareness 6.\nAwareness 6 Effect: At the start of battle, gain 4 <link\="s|119"><u>Ice Crystal</u></link> stacks. Increase the maximum number of <link\="s|119"><u>Ice Crystal</u></link> stacks to 15.=Aumenta la Conciencia de {{A}} a 6.\nEfecto de Conciencia 6: Al comienzo de la batalla, obtiene 4 acumulaciones de <link\="s|119"><u>Cristal de Hielo</u></link>. Aumenta el número máximo de acumulaciones de <link\="s|119"><u>Cristal de Hielo</u></link> a 15.
 
 #Tomoko Noge
 Raise Tomoko Noge to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Psyche Melody and Cheering You On by 2.=Aumenta la Conciencia de Tomoko Noge a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Melodía Psíquica y Animándote en 2.
@@ -2465,6 +2282,39 @@ r:"^Fortune: Increase allies' max HP by ([0-9]+)%\. When a skill heals beyond ma
 
 r:"^Increase the number of cards that can be selected in Shuffle Time by ([0-9]+)\.$"="Aumenta en $1 el número de cartas que se pueden seleccionar en Hora de Barajar."
 r:"^Justice: Increase the number of cards that can be selected in Shuffle Time by ([0-9]+)\.$"="Justicia: Aumenta en $1 el número de cartas que se pueden seleccionar en Hora de Barajar."
+
+#Buffs
+r:"^All foes' max HP is increased by (\d+)%\.$"="Los PS máximos de todos los enemigos aumenta un $1%."
+r:"^For every ally not in the current party, increase party's damage dealt by (\d+)%\.$"="Por cada aliado que no esté en el equipo actual, aumenta el daño infligido del equipo en un $1%."
+r:"^Increase allies' damage dealt by (\d+)% per current Exploration Level\. At Exploration Level (\d+), also increase final damage by (\d+)%\.$"="Aumenta el daño infligido de los aliados en un $1% por cada nivel de exploración actual. Al nivel de exploración $2, también aumenta el daño final en un $3%."
+r:"^For every search object destroyed during the current exploration, increase damage dealt by (\d+(?:\.\d+)?)%\.$"="Por cada objeto de búsqueda destruido durante la exploración actual, aumenta el daño infligido en un $1%."
+r:"^Increase {{A}}'s Attack by (\d+)%\. When the Major Arcana Card Tower is obtained, increase piece rate by (\d+)% more\.$"="Aumenta el Ataque de {{A}} en un $1%. Cuando se obtenga la carta de Arcano Mayor de La Torre, aumenta la Tasa de Perforación en un $2% más."
+r:"^Increase {{A}}'s critical rate by (\d+)%\. When the Major Arcana Card Tower is obtained, increase {{A}}'s critical damage by (\d+)% more\.$"="Aumenta la Probabilidad Crítica de {{A}} en un $1%. Cuando se obtenga la carta de Arcano Mayor de La Torre, aumenta el Daño Crítico de {{A}} en un $2% más."
+r:"^After an Elucidator ally uses a skill, fill the Highlight gauge by (\d+)%\.$"="Después de que un aliado Elucidador use una habilidad, llena la barra de Highlight en un $1%."
+r:"^After an Elucidator ally uses a skill, permanently increase the party's damage by (\d+)%\. Stacks up to (\d+) times\.$"="Después de que un aliado Elucidador use una habilidad, aumenta permanentemente el daño del equipo en un $1%. Se acumula hasta $2 veces."
+r:"^Increase allies' final normal attack damage by (\d+)%\.$"="Aumenta el Daño Final del Ataque Normal de los aliados en un $1%."
+r:"^Sweeper and Assassin allies' damage is increased by (\d+)% and critical rate is increased by (\d+)%\.$"="El daño de los aliados Barrendores y Asesinos aumenta un $1% y la Probabilidad Crítica aumenta un $2%."
+r:"^Elucidator characters' Attack, Defense, and max HP are increased by (\d+)%\.$"="El Ataque, la Defensa y los PS máximos de los personajes Elucidator aumentan un $1%."
+r:"^When an ally's current HP is high, critical rate is increased\. When HP is at (\d+)%, gain maximum critical rate bonus of (\d+)%\.$"="Cuando los PS actuales de un aliado son altos, aumenta la Probabilidad Crítica. Cuando los PS están al $1%, obtiene un bono máximo de Probabilidad Crítica del $2%."
+r:"^Each time damage is dealt to a foe, their damage taken is increased by (\d+)% for (\d+) turns\. Stacks up to (\d+) times\.$"="Cada vez que se inflige daño a un enemigo, su daño recibido aumenta en un $1% durante $2 turnos. Se acumula hasta $3 veces."
+r:"^Foes' damage taken is increased by (\d+)% for each debuff they are inflicted with, up to (\d+)%\.$"="El daño recibido de los enemigos aumenta en un $1% por cada estado negativo (debuff) que tengan, hasta un $2%."
+r:"^Allies' Attack is increased by (\d+)%\.$"="El Ataque de los aliados aumenta un $1%."
+r:"^Allies' Defense is increased by (\d+(?:\.\d+)?)%\.$"="La Defensa de los aliados aumenta un $1%."
+r:"^Allies' max HP is increased by (\d+)%\.$"="Los PS máximos de los aliados aumenta un $1%."
+r:"^Allies' Fire, Ice, Electric, and Wind damage is increased by (\d+)%\.$"="El daño de Fuego, Hielo, Eléctrico y Viento de los aliados aumenta un $1%."
+r:"^Allies' Psychokinesis, Nuclear, Bless, and Curse damage is increased by (\d+)%\.$"="El daño de Psicoquinesis, Nuclear, Bendición y Maldición de los aliados aumenta un $1%."
+r:"^Allies' critical rate is increased by (\d+)%\.$"="La Probabilidad Crítica de los aliados aumenta un $1%."
+r:"^Allies' critical damage is increased by (\d+)%\.$"="El Daño Crítico de los aliados aumenta un $1%."
+r:"^Allies' final damage taken is decreased by (\d+)%\.$"="El Daño Final recibido por los aliados se reduce en un $1%."
+r:"^Allies' critical rate is increased by (\d+)%, and critical damage is increased by (\d+)%\.$"="La Probabilidad Crítica de los aliados aumenta un $1% y el Daño Crítico aumenta un $2%."
+r:"^Change all allies' affinities to Null for (\d+) turns\.$"="Cambia las Afinidades de todos los aliados a Nulifica durante $1 turnos."
+r:"^Allies' final damage is increased by (\d+)%\.$"="El Daño Final de los aliados aumenta un $1%."
+Will: Strong=Voluntad: Fuerte
+Unfettered Faith=Fe sin ataduras
+r:"^Allies' Attack, Defense, max HP, and final damage is increased by (\d+)%\.$"="El Ataque, la Defensa, los PS máximos y el Daño Final de los aliados aumentan un $1%."
+r:"^At the start of each turn, Theurgy gauge is restored by an additional (\d+)\. When damage is dealt with a skill (\d+) or more times, final damage is increased by (\d+)%\.$"="Al inicio de cada turno, la barra de Teúrgia se restaura en un $1 adicional. Cuando se inflige daño con una habilidad $2 o más veces, el daño final aumenta un $3%."
+
+
 
 #Historias
 Dream Chapters=Capítulos de Sueños
@@ -2762,6 +2612,8 @@ They don't work well together?=¿No trabajan bien juntos?
 I wouldn't go that far. I think it's just a\nmatter of improving their coordination.=No iria tan lejos como eso.\nCreo que es solo cuestión de mejorar su coordinación.
 I think we could all stand to get stronger.=Creo que a todos nos vendría bien fortalecernos.
 
+#C2
+Everything okay?=¿Todo bien?
 ...Sorry.=...Lo siento.
 I wouldn't want you to get involved, so I\ncan't say much, but...=No me gustaría que te involucraras, así que no puedo decir mucho, pero...
 Do you remember how Yukari was wary of you\nthe first time we met?=¿Recuerdas cómo Yukari desconfiaba de ti la primera vez que nos conocimos?
@@ -3311,65 +3163,4 @@ Me too! I'm always asking him for help with\nall sorts of things!=¡Yo también!
 I see. I'd like to hear more about him, I\nthink...=Ya veo.\nMe gustaría saber más sobre él, creo...
 Kotone, Miyu and Makoto had a\nlively back-and-forth\nconversation...=Kotone, Miyu y Makoto tuvieron\nuna animada conversación\nde ida y vuelta...
 I feel like I know a lot more\nabout both of them and Makoto\nnow...=Siento que ahora sé mucho\nmás sobre ambas y sobre Makoto...
-
-+----- Yukari Takeba ------+
-
-#Historia 1
-
-
-#Historia 2
-
-
-#Historia 3
-
-
-#Historia 4
-
-
-#Historia 5
-
-
-#Historia 6
-
-
-#Historia 7
-Obtain Chilled Taiyaki to unlock=Obtén el Taiyaki Enfriado para desbloquear
-
-
-#Historia 8
-Obtain Student Handbook to unlock=Obtén el Manual de Estudiante para desbloquear
-
-#Historia 9
-Obtain Poinsettia to unlock=Obtén la Poinsettia para desbloquear
-
-
-+----- a ------+
-
-#Historia 1
-
-#Historia 2
-
-#Historia 3
-
-#Historia 4
-
-#Historia 5
-
-#Historia 6
-
-#Historia 7
-#Obtain  to unlock=Obtén el  para desbloquear
-
-#Historia 8
-#Obtain  to unlock=Obtén  para desbloquear
-
-#Historia 9
-#Obtain  to unlock=Obtén la  para desbloquear
-
-
-
-
-
-
-
 
