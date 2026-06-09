@@ -307,6 +307,8 @@ r:"^Unlock at Den Level (\d+)$"="Requiere Guarida nivel $1"
 r:"^<color\=#737373>Visitor EXP (\d+): Obtain P Medal\*(\d+)</color>$"="<color\=#737373>EXP de visitante $1: Obtén Medalla P * $2</color>"
 r:"^<color\=#737373>Visitor EXP (\d+): Unlock New Dialogue Event</color>$"="<color\=#737373>EXP de visitante $1: Desbloquea un nuevo evento de diálogo</color>"
 r:"^Cut-In: (.+)$"="Aparición especial: $1"
+r:"^(.+) Cut-In$"="Aparición especial de $1"
+{{A}} Cut-In=Aparición especial de {{A}}
 r:"^(.+) cut-in that displays during an All-Out Attack\.\n<color\=#FFD145>Increases \1's Defense by ([\d.]+)\s*\(takes effect in battle\)\.</color>$"="Animación de $1 que se despliega durante un Ataque Combinado.\n<color\=#FFD145>Aumenta la Defensa de $1 en $2 (En combate).</color>"
 r:"^All-Out Attack \((.+)\)$"="Ataque Combinado ($1)"
 r:"^· Increases part-time earnings by 5%\.\n· Increases part-time earnings by 3%\.\n· Increases part-time earnings by 2%\.\n$"="- Aumenta un 5% los ingresos a tiempo parcial.\n- Aumenta los ingresos a tiempo parcial en un 3%.\n- Aumenta los ingresos a tiempo parcial en un 2%.\n"
@@ -368,6 +370,8 @@ P5R Special Event Pt. 2<alpha\=#00>____<alpha\=#FF>P5R Special Event Pt. 2<alpha
 The illustration used for Crossroads of Fate: Laboratory Arc Part 1.\n<color\=#FFD145>Increases Kasumi's Attack by 1% (takes effect in battle).</color>=La ilustración usada para Encrucijada del Destino: Arco del Laboratorio - Parte 1.\n<color\=#FFD145>Aumenta el Ataque de Kasumi un 1% (En combate).</color>
 
 r:"^Image of (.+) that displays after an All-Out Attack finisher\.\n<color\=#FFD145>Increases (.+)'s Attack by (\d+) \(takes effect in battle\)\.</color>$"="Imagen de $1 que aparece tras un Remate de Ataque Combinado.\n<color\=#FFD145>Aumenta el Ataque de $2 en $3 (En combate).</color>"
+
+Image of Motoha that displays after an All-Out Attack finisher.\n<color\=#FFD145>Increase Tropical Motoha's Attack by 10 (takes effect in battle).</color>=Imagen de Motoha que aparece tras un Remate de Ataque Combinado.\n<color\=#FFD145>Aumenta el Ataque de Motoha Tropical en 10 (En combate).</color>
 
 r:"^• Clear (\d+) purple or red Stellae in Trial of the Astrolabe\((\d+)\/(\d+)\)$"="• Completa $1 estrellas púrpura o roja en Prueba del Astrolabio ($2/$3)"
 
@@ -502,7 +506,7 @@ r:"^\(Paid:\s+(\d+)\)$"="(Pagado: $1)"
 r:"^Unlocks at Lv\\. (\\d+)$"="Se desbloquea en Nv. $1"
 r:"^Lv\\.(\\d+)$"="Nv.$1"
 r:"^EXP:\s+(\d+)\s*$"="EXP: $1"
-r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.6.0\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
+r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.6.1\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
 r:"^Fusion\s+will\s+produce\s+(\d+)\s+<color\=#FF423F>(.+?)'s\s+Seal</color>\.\s*$"="La fusión producirá $1 <color\=#FF423F>Sello de $2</color>."
 r:"^Phantom Thief level cap increased to \\n<color\=#FFF000>Lv\\. (\\d+)</color>\\.$"="El límite de nivel de Ladrones Fantasma ha aumentado a \n<color\=#FFF000>Lv. $1</color>."
 Meta Jewels will be spent.=Se gastarán las Meta gemas.
@@ -782,7 +786,7 @@ r:"Customize a Revelation Card in Cycle of Fate \((\d+)/(\d+)\)"="Personaliza un
 r:"Sounds like ([\w\s\-']+) wants to\nmeet up\. I should head\nover now\.\.\."="Parece que $1 quiere\nquedar\. Debería ir\nahora mismo..."
 r:"Sounds like {{A}} wants to\nmeet up\. I should head\nover now\.\.\."="Parece que {{A}} quiere\nquedar. Debería ir\nahora mismo..."
 r:"This skill is unlocked at nivel (\d+)\."="Esta habilidad se desbloquea en el nivel $1."
-r:"Refresh all available tasks\?\\n<color\=#FF423F>\(Limited tasks and in-progress tasks won't be updated\.\)</color>\\nCost: \[Task Refresh Ticket\]\*(\d+)"="¿Refrescar todas las tareas disponibles?\\n<color\=#FF423F>(Las tareas limitadas y las tareas en curso no se actualizarán).</color>\\nCosto: [Boleto de Actualización de Tarea]*$1"
+r:"Refresh all available tasks\?\n<color\=#FF423F>\(Limited tasks and in-progress tasks won't be updated\.\)</color>\nCost: \[Task Refresh Ticket\]\*(\d+)"="¿Refrescar todas las tareas disponibles?\n<color\=#FF423F>(Las tareas limitadas y las tareas en curso no se actualizarán).</color>\nCosto: [Boleto de Actualización de Tarea]*$1"
 r:"Unlocks at level (\d+)"="Se desbloquea al nivel $1"
 r:"Can enhance more at Lv\. (\d+)"="Puedes mejorar más en Nv. $1"
 r:"^Collected: (\d+)/(\d+)$"="Recolectado: $1/$2"
@@ -1695,6 +1699,7 @@ With powerful <color\=#FF423F>offensive capabilities</color>, Firecracker Yaolin
 
 1. Makoto specializes in <color\=#FF423F>single-target attacks</color>. He can deal powerful fire damage to foes with multi-hit attacks.\n2. He possesses <color\=#FF423F>two Theurgies</color>, Cadenza or Ardhanari, and can freely select and activate them during battle.\n3. Activating <color\=#FF423F>Cadenza</color> significantly enhances the attack capabilities of all allies.=1. Makoto se especializa en <color\=#FF423F>ataques a un solo objetivo</color>. Puede infligir un poderoso daño de fuego a los enemigos con ataques de múltiples golpes.\n2. Posee <color\=#FF423F>dos Teúrgia</color>, Cadenza o Ardhanari, y puede seleccionarlas y activarlas libremente durante la batalla.\n3. Activar <color\=#FF423F>Cadenza</color> mejora significativamente las capacidades de ataque de todos los aliados.
 
+1. Yukari specializes in <color\=#FF423F>healing</color> and <color\=#FF423F>buffing</color> allies. She also has the power to increase allies' Theurgy gauge.\n2. She can increase the party's <color\=#FF423F>Attack</color> and <color\=#FF423F>damage dealt</color>, greatly enhancing their attack capabilities in battle.\n3. She can use Cyclone Arrow to <color\=#FF423F>remove buffs from foes</color> and her Assist can <color\=#FF423F>remove debuffs from allies</color>, making her helpful in a variety of situations.=1. Yukari se especializa en <color\=#FF423F>curar</color> y <color\=#FF423F>potenciar</color> a los aliados. También tiene el poder de aumentar el indicador de Teurgia de su equipo.\n2. Puede aumentar el <color\=#FF423F>Ataque</color> y el <color\=#FF423F>daño infligido</color> por el grupo, lo que mejora considerablemente sus capacidades ofensivas en combate.\n3. Puede usar Flecha de Ciclón para <color\=#FF423F>eliminar las mejoras de los enemigos</color>, y su Asistencia puede <color\=#FF423F>eliminar efectos negativos (debuffs) de los aliados</color>, lo que la hace útil en una gran variedad de situaciones.
 
 ++-------------Tutoriales Eventos-----------------++
 r:"(?s)<color\=#FFD145>Collecting Keywords</color>\n• In the mission Answer Sheet, join (.+?) to solve puzzles.*?• Drag the keywords to the correct place and complete the puzzle\."="<color\=#FFD145>Recopilación de palabras clave</color>\n• En la misión Hoja de respuestas, únete a $1 para resolver acertijos en una búsqueda del tesoro que pondrá a prueba tu ingenio. Durante el evento, puedes consultar tu hoja de respuestas para ver las palabras clave que has recopilado.\n• Puedes reunir las palabras clave en cualquier orden, pero solo puedes aceptar una misión de palabra clave a la vez.\n• Habrá más historia disponible cuando hayas reunido 3, 6 y 9 palabras clave. No podrás recolectar la siguiente palabra clave hasta que hayas completado la nueva historia.\n• Recibirás inmediatamente las recompensas por recopilar palabras clave tras completar cada misión. No es necesario volver a la hoja de respuestas para reclamarlas.\n\n<color\=#FFD145>Completar el acertijo</color>\n• Tras recopilar todas las palabras clave, deberás ponerlas en el orden correcto para formar una oración.\n• Arrastra las palabras clave al lugar correcto y completa el acertijo."
@@ -2451,6 +2456,14 @@ r:"^Targeted by (.+)\.$"="Fijado por $1."
 
 Targeted by {{A}}.=Fijado por {{A}}.
 
+r:"^When activating a Highlight or Theurgy, increase dmg dealt by ([\d\.]+)\%\.$"="Al activar un Highlight o una Teúrgia, aumenta el daño infligido en un $1%."
+
+Spend Arrow of Life when it is used to recover the Theurgy gauge of the selected target.=Gasta Flecha de la Vida cuando se use para recuperar el medidor de Teurgía del objetivo seleccionado.
+
+r:"^Increase dmg to knocked down foes by ([\d\.]+)\%\.$"="Aumenta el daño a enemigos derribados en un $1%."
+
+Critical Damage Up=Aumento de Daño Crítico
+
 +--Stats--+
 Critical Rate=Probabilidad Crítica
 Critical Damage=Daño Crítico
@@ -2476,7 +2489,6 @@ Can be used to select and obtain Joy Medal x600 or certain weapon enhancement ma
 Qualia Lv.=Qualia Nv.
 Exclusive Outfit, Profile Frame & Profile Design=Conjunto exclusivo, marco de perfil y diseño de perfil
 Press and hold a Phantom Thief to view Persona details.=Mantén presionado a un Ladrón Fantasma para ver los detalles de la Persona.
-Sarnga=Sarnga
 Do you want to use the following to perform Shot Through the Heart 1 times?=¿Quieres usar lo siguiente para realizar Flechazo al Corazón 1 vez?
 Do you want to use the following to perform Shot Through the Heart 10 times?=¿Quieres usar lo siguiente para realizar Flechazo al Corazón 10 vez?
 ...I wonder what kind of\n<sprite\=5><color\=#e6b625>Charm</color> others see in me.=...Me pregunto qué tipo de\n<sprite\=5><color\=#e6b625>Encanto</color> ven los demás en mí.
@@ -2495,6 +2507,9 @@ A special material used to forge 5★ weapons.=Un material especial usado para f
 Celestial Cage=Jaula Celestial
 Awarded for playing The Masks We Wear: Phase 1 in chapter 4 of the main story.=Se otorga por jugar Las Máscaras que Vestimos: Fase 1 en el capítulo 4 de la historia principal.
 Shadow Katayama completely distorted by desire. Having lost all sense of self, she can no longer maintain a human form.=Sombra Katayama completamente distorsionada por el deseo. Al haber perdido todo sentido de la identidad, ya no puede mantener una forma humana.
+Master of Shadow -Reload-=Maestro de Sombras -Reload-
+Clear 4 Metaverse Exploration missions to receive rewards.=Llega a nivel 4 en las misiones de Exploración del Metaverso para recibir recompensas.
+
 
 Pieza de Orden del Mod del Artesano=Pieza de Orden del Mod del Artesano
 r:"^Spend: <color\=#FFDE00>Artisan's Mod Order Piece x(\d+)</color>\nCraft: <color\=#FFDE00>Artisan's Mod Order x(\d+)</color>\nDo you want to confirm\?$"="Gastar: <color\=#FFDE00>Pieza de Orden de Mod del Artesano x$1</color>.\nFabricar: <color\=#FFDE00>Orden de Mod del Artesano x$2</color>.\n¿Quieres confirmarlo?"

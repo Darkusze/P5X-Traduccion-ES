@@ -145,7 +145,12 @@ Until next time, then! Woof! Woof! Hooray!=¡Hasta la próxima, entonces! ¡Guau
 2303466(textId) error=2303466(textId) error
 2303283(textId) error=2303283(textId) error
 2303382(textId) error=2303382(textId) error
-Comrade's Protection=Protección del camarada
+2303899(textId) error=2303899(textId) error
+2303900(textId) error=2303900(textId) error
+2303938(textId) error=error 2303938(textId)
+2303092(textId) error=2303092(textId) error
+2303421(textId) error=2303421(textId) error
+Comrade's Protection=Protección de Camarada
 Kageuchi=Kageuchi
 Zangetsu Flash=Zangetsu Destello
 意识·新岛真 X1=Conciencia: Makoto Niijima x1
@@ -161,18 +166,17 @@ Am I glad to see you! We could really use\nyour help right now.=¡Qué alegría 
 We're packed with customers today, so it's\na bit hectic...=Estamos llenos de clientes hoy, así que está un poco caótico...
 I'll focus on the kitchen, so I'll leave\nall the customer orders to you.=Me encargaré de la cocina, así que dejaré todos los pedidos de los clientes a tu cargo.
 I made the rounds in\nthe crowded shop...=Di las vueltas por\nla tienda abarrotada...
-
 Y<color\=#ff0000ff>u</color>kari Takeba & Motoha Arai=Y<color\=#ff0000ff>u</color>kari Takeba y Motoha Arai
 ...And for foundation, it's better to blend\nit in with a sponge, like this.=...Y para la base de maquillaje, es mejor difuminarla con una esponja, justo así.
 Wait, really!? I had no idea...!=¡¿En serio?! ¡No tenía la menor idea...!
 Foundation...?=¿Base de maquillaje...?
-Ah, Kamisiro-kun.=Ah, Kamisiro-kun.
+Ah, {{A}}-kun.=Ah, {{A}}-kun.
 Hey there! We were just getting in some\ngirl talk, is all.=¡Hola! Solo estábamos en una charla de chicas, eso es todo.
 I was giving Motoha some makeup suggestions.\nAlso, some easy application techniques\nand the like.=Le estaba dando a Motoha algunos consejos de maquillaje, además de técnicas de aplicación sencillas y cosas por el estilo.
 Yukari's so stylish and on point with her\nmakeup, so it got me pumped to try my\nbest, too!=¡Yukari tiene tanto estilo y su maquillaje es tan impecable que me dieron muchísimas ganas de esforzarme a mí también!
 Are you on a diet or anything like that?\nOr maybe a special workout plan?=¿Estás a dieta o algo parecido? ¿O tal vez sigues una rutina especial de ejercicio?
 I don't do anything special really. Besides,\nyour style is really cute, Motoha.=En realidad no hago nada del otro mundo. Además, tu estilo es muy lindo, Motoha.
-Hey, is there anything you tend to focus\non, Kamisiro?=Oye, ¿y hay algo en lo que tú suelas enfocarte, Kamisiro?
+Hey, is there anything you tend to focus\non, {{A}}?=Oye, ¿y hay algo en lo que tú suelas enfocarte, {{A}}?
 Aahaha, me too! Tasty food is definitely\nimportant!=¡Ajajaja, yo también! ¡Comer algo sabroso es definitivamente muy importante!
 I'll be more careful, too.=Yo también tendré más cuidado.
 Hey, wanna go grab a bit together? I have\ntons more I want to ask you!=Oye, ¿vamos a comer algo juntas? ¡Tengo un montón de cosas más que quiero preguntarte!
@@ -182,7 +186,7 @@ Besides, if you burn off what you eat, it all\nworks out!=Además, si quemas tod
 Getting good rest and eating well.=Descansar de forma adecuada y comer bien.
 My health, I guess?=¿Mi salud, supongo?
 Ehehe, thanks! Hmm... What I usually do is...=¡Jeje, gracias! Mmm... Lo que suelo hacer es...
-Sounds good to me! Wanna come, Kamisiro-kun?=¡Por mí suena genial! ¿Quieres venir con nosotros, Kamisiro-kun?
+Sounds good to me! Wanna come, {{A}}-kun?=¡Por mí suena genial! ¿Quieres venir con nosotros, {{A}}-kun?
 *sigh* All this talk about food is making me\nhungry...!=*suspira* ¡Tanto hablar de comida ya me abrió el apetito...!
 Motoha, Yukari and I had a\nlively discussion about\nbeauty and diets...=Motoha, Yukari y yo tuvimos\nuna conversación muy animada sobre\nla belleza y las dietas...
 Y<color\=#ff0000ff>u</color>kari Takeba & Riko Tanemura=Y<color\=#ff0000ff>u</color>kari Takeba y Riko Tanemura
@@ -197,7 +201,7 @@ A-Anyway, do you have any favorite sweets,\nTanemura-san?=C-Como sea... ¿tienes
 Hm, let me think...=Mmm, déjame pensar...
 Now I want strawberry daifuku.=Ahora se me antojó un daifuku de fresa.
 I like sweets too.=<size\=28>A mí también me gustan los dulces.</size>
-Ahaha, you too, Kamisiro-kun?=¡Ajajaja! ¿Tú también, Kamisiro-kun?
+Ahaha, you too, {{A}}-kun?=¡Ajajaja! ¿Tú también, {{A}}-kun?
 Very well. Perhaps I'll treat the both of you\nto one of my favorites next time.=Muy bien. Quizás la próxima vez les invite a los dos uno de mis favoritos.
 Wait, for real? You don't have to go\nthat far...=Espera, ¿en serio? No tienes que molestarte tanto...
 It's no trouble at all. Sharing things that\nyou like with friends makes for even\nmore fun.=No es ninguna molestia. Compartir las cosas que te gustan con tus amigos lo hace todavía más divertido.
@@ -207,50 +211,139 @@ Ah, nice idea. I'll bring my favorite sweets\ntoo. That'd only be fair, right?=�
 Hehe, I suppose so... Maybe we can invite\neveryone else to share as well.=Jeje, supongo que sí... Tal vez podamos invitar a los demás para que también compartan.
 Ah, that sounds perfect! The more the merrier\nwith these kinds of things.=¡Ah, suena perfecto! Entre más seamos, mejor la pasaremos con este tipo de cosas.
 Time to rally the crew.=Es hora de reunir al grupo.
-Nagisa, let's go and talk to everyone\nright now.=Nagisa, vamos a hablar con todos ahora mismo.
+{{A}}, let's go and talk to everyone\nright now.={{A}}, vamos a hablar con todos ahora mismo.
 I'll check everyone's plans on our side, too!=¡Yo revisaré los planes de los demás por nuestro lado!
 A sweets party it is.=<size\=28>¡Que comience la fiesta de dulces!</size>
 I get the feeling that this\nsweets party will turn out\nto be something special...!=¡Tengo el presentimiento de que esta\nfiesta de dulces va a terminar siendo\nalgo muy especial...!
-
 Ah, {{A}}-kun! Hey, do you want to hang\nout for a little today?=¡Ah, {{A}}-kun! Oye, ¿quieres pasar el rato un poco hoy?
 I found out where one of the former\nShichi-kuns might be!=¡Descubrí dónde podría estar uno de los antiguos Shichi-kuns!
+Male Pedestrian=Chico Transeúnte
+Female Pedestrian=Chica Transeúnte
+Are you free to stick around and watch?=¿Tienes tiempo para quedarte a ver?
+Oh, I see... Don't worry about it then.\nJoin me another time, okay?=Ah, entiendo... No te preocupes entonces. ¡Me acompañas en otra ocasión, ¿de acuerdo?!
+{{A}}-kun, I think I'm going to try\nbusking today!=¡{{A}}-kun, creo que hoy voy a intentar dar un show callejero!
+All right... Today's the day!=Muy bien... ¡Hoy es el día!
+Oh, y-yeah!=¡Ah, s-sí!
+R-Ready, set, go!?=¡¿L-Listos, en sus marcas, fuera?!
+Hehe... Hahaha! That was a pretty poor cheer.=Jeje... ¡jajaja! Ese grito de ánimo dio bastante lástima.
+Still, thanks. That really broke the tension.\nI... I really think I can do it today.=Aun así, gracias. Eso de verdad ayudó a romper la tensión. Siento... siento que hoy sí podré lograrlo.
+And you'll be watching, I hope?=Y espero que te quedes a verme, ¿eh?
+I have a trick up my sleeve...=Tengo un truco bajo la manga...
+Guess what I brought.=Adivina qué traje.
+A trick?=¿Un truco?
+A tambourine...?=¿Un pandereta...?
+Let's jam!=¡Vamos a tocar con todo!
+I borrowed it from school.=Lo pedí prestado en la escuela.
+Oh, what's going on here?=Vaya, ¿qué está pasando aquí?
+Is someone performing?=¿Alguien va a dar un espectáculo?
+Wait, that's right! Rhythm!=¡Un momento, es verdad! ¡El ritmo!
+I'll set the rhythm.=Yo marcaré el ritmo.
+Is this good?=¿Así está bien?
+Well that explains the tambourine...=Bueno, eso explica la pandereta...
+{{A}}-kun.={{A}}-kun.
+Um... Do you think you could keep doing\nthat, but calmer? I want the lead-in to be\nsuper gentle.=Oye... ¿crees que podrías seguir tocando así, pero más tranquilo? Quiero que la introducción sea súper suave.
+I'm gonna do the song I played for you in\nthe park.=Voy a cantar la canción que te toqué en el parque.
+And do you think you could lay a beat in\nas a fill after the first verse? Then after\nthat...=¿Y crees que podrías meter un remate de ritmo después de la primera estrofa? Y luego...
+Just like we discussed, okay?=Justo como lo platicamos, ¿de acuerdo?
+All right, let's do this!=Muy bien... ¡vamos a darle!
+A busker? I didn't think people did that\naround here.=¿Un músico callejero? No sabía que la gente hacía eso por aquí.
+I walk by every day, but I never noticed...=Paso por aquí todos los días, pero nunca me había dado cuenta...
+That girl's actually pretty good.=Esa chica en realidad es bastante buena.
+The atmosphere really changed\nonce Ayaka started singing!=¡El ambiente cambió por\ncompleto en cuanto Ayaka\nempezó a cantar!
+But she's so absorbed in\nthe song, I can't tell if\nshe's noticed...=Pero está tan metida en la\ncanción que no sé si se\nhaya dado cuenta...
+Oh my god! Your voice is amaaaazing!=¡Ay, por Dios! ¡Tu voz es incréíiiible!
+Everything's been kind of... dull lately, but\nyour song really moved me.=Todo ha estado un poco... apagado últimamente, pero tu canción de verdad me llegó al corazón.
+Do you have an agent yet? You could be a\nreal hit, kid!=¿Ya tienes representante? ¡Podrías ser todo un éxito, jovencita!
+O-Oh, um... Thank you all very much!=¡A-Ah, este...! ¡Muchísimas gracias a todos!
+Isn't that Ayaka's friend? How\nlong has she been here?=¿Ese de ahí no es el amigo de Ayaka?\n¿Cuánto tiempo lleva aquí parado?
+{{A}}-kun! I did it! I sang!=¡{{A}}-kun! ¡Lo logré! ¡Pude cantar!
+You really did!=¡De verdad lo hiciste!
+It was a good song.=Estuvo buena la canción.
+Y-You really think so? Thank you...=¡¿D-De verdad lo crees?! Muchas gracias...
+But... I'm just so...=Es solo que... me siento tan...
+Hey, did you write that song yourself? Do you\nhave others?=Oye, ¿tú misma compusiste esa canción? ¿Tienes más canciones?
+I-I made it with some friends, so I guess I\nwrote it myself, in a way?=L-La compuse con unos amigos, así que supongo que sí la escribí yo de alguna manera... ¿Supongo?
+Let's hear another song!=¡Queremos escuchar otra canción!
+Um, uh...?=Este... ¿eh...?
+What's the next song?=¿Cuál es la siguiente canción?
+I want to hear another too.=También quiero escuchar otra.
+Uh... Well, in that case...=Este... bueno, en ese caso...
+Ayaka's voice reverberated\nthroughout Shibuya Station\nSquare...=La voz de Ayaka resonó por toda la\nPlaza de la Estación de Shibuya...
+I never expected that you'd show up with a\ntambourine of all things!=¡Jamás me imaginé que aparecerías con una pandereta de entre todas las cosas!
+But thanks to that little surprise, I finally\nmanaged to sing my song.=Pero gracias a esa pequeña sorpresa, por fin pude armarme de valor y cantar mi canción.
+It's like I can still feel that beat you laid\ndown thumping inside me...=Es como si todavía pudiera sentir ese ritmo que marcaste retumbando dentro de mí...
+I know I'll be able to sing from now on,\neven on my own.=Sé que de ahora en adelante podré cantar, incluso si tengo que hacerlo sola.
+Thank you, {{A}}-kun. This was an\nincredible day.=Muchas gracias, {{A}}-kun. Hoy fue un día increíble.
+U-Um, so...=Este... verás...
+Now that I've pulled off a performance, I'm a\nbit hungry to do more. You see...=Ahora que logré dar un espectáculo, me quedaron muchísimas ganas de seguir haciéndolo. Es que...
+Eventually... I want to sing an original that\nI've made from scratch.=Algún día... quiero cantar una canción original que haya compuesto completamente desde cero.
+I've never written lyrics or anything before,\nso I don't know how long it'll take.=Nunca antes he escrito una letra ni nada por el estilo, así que no sé cuánto tiempo me vaya a tomar.
+But if I do manage to write one...=Pero si de verdad lo logro...
+Play it next time you busk!=<size\=23>¡Tienes que cantarla la próxima vez que des un show callejero!</size>
+Huh!? I-I didn't mean right away...=¡¿Eh...?! ¡N-No me refería a hacerlo ahora mismo...!
+Hmm, but...=Mmm, pero...
+I do kinda feel like I could do anything\nright now...=Aunque la verdad... siento que en este momento podría lograr lo que sea...
+I'll give it a shot. Let's see what kind of\nsong I can write.=Le echaré ganas. A ver qué tipo de canción logro componer.
+Thank you so much for today. I'll message\nyou later.=Muchísimas gracias por lo de hoy. Te escribo más tarde.
+When you listened to me sing in the park...=Cuando me escuchaste\ncantar en el parque...
+That first time you listened\nto me sing in the park=Esa primera vez que me escuchaste cantar en el parque...
+I thought my heart was gonna\npop out of my chest.=Sentía que el corazón se me iba a salir del pecho.
+But it ended up being\nreally fun!=¡Pero al final resultó ser muy divertido!
+It reminded me of the first\ntime I sung with my band.=Me recordó a la primera vez que canté con mi banda.
+Looking forward to next time!=¡Ya quiero que sea la próxima vez!
+Thanks for the show.=Gracias por el espectáculo.
+No, thank you for stopping by!=¡No, gracias a ti por venir!
+Speaking of the park=Hablando del parque...
+we should go to there again\nsometime!=¡deberíamos volver a ir algún día!
+Yukari specializes in <color\=#FFFC40>healing</color> and <color\=#FFFC40>buffing</color> allies. She also has the power to increase allies' Theurgy gauge.=Yukari se especializa en <color\=#FFFC40>curar</color> y <color\=#FFFC40>potenciar</color> a los aliados. También tiene el poder de aumentar el indicador de Teurgia de su equipo.
+She can increase the party's <color\=#FFFC40>Attack</color> and <color\=#FFFC40>damage dealt</color>, greatly enhancing their attack capabilities in battle.=Puede aumentar el <color\=#FFFC40>Ataque</color> y el <color\=#FFFC40>daño infligido</color> por el grupo, lo que mejora considerablemente sus capacidades ofensivas en combate.
+She can use Cyclone Arrow to <color\=#FFFC40>remove buffs from foes</color> and her Assist can <color\=#FFFC40>remove debuffs from allies</color>, making her helpful in a variety of situations.=Puede usar Flecha de Ciclón para <color\=#FFFC40>eliminar las mejoras de los enemigos</color>, y su Asistencia puede <color\=#FFFC40>eliminar efectos negativos (debuffs) de los aliados</color>, lo que la hace útil en una gran variedad de situaciones.
+Io=Io
+Yukari=Yukari
+Gale Burst=Ráfaga de Viento
+Tailwind's Breath=Aliento de Viento a Favor
+Arrow of Life=Flecha de la Vida
+Tailwind's Air=Aura de Viento a Favor
+Archer's Courage=Valor de un Arquero
+Whisperwind=Susurro del Viento
+Cyclone Arrow=Flecha de Ciclón
+Unforgettable Feeling=Sentimiento Inolvidable
+Pull the Trigger=Apretar el Gatillo
+Sign of the Lovers=Emblema de los Amantes
+Girl Clad in Pink=Jovencita de Rosa
+Healing Mastery=Maestría de Curación
+Pursuit of Doubt=Búsqueda de la Duda
+Spring Day's Meeting=Encuentro de Primavera
+SEES Longbow=Arco Largo de SEES
+[Storm Wind Arrow]=[Flecha de Vendaval]
+Storm Wind Arrow=Flecha de Vendaval
+Magic Bow=Arco Mágico
+[Mystic Wind Arrow]=[Flecha de Viento Místico]
+Mystic Wind Arrow=Flecha de Viento Místico
+Kishin Bow=Arco de Kishin
+[Fierce Wind Arrow]=[Flecha de Viento Feroz]
+Fierce Wind Arrow=Flecha de Viento Feroz
+Sarnga=Sarnga
+[Crisp Wind Arrow]=[Flecha de Brisa Fresca]
+Crisp Wind Arrow=Flecha de Brisa Fresca
+A<color\=#000000>r</color>cher's Courage=V<color\=#000000>a</color>lor de un Arquero
+T<color\=#000000>a</color>ilwind's Air=A<color\=#000000>u</color>ra de Viento a Favor
+E<color\=#000000>r</color>osion=E<color\=#000000>r</color>osion
+W<color\=#000000>h</color>isperwind=S<color\=#000000>u</color>surro del Viento
+C<color\=#000000>y</color>clone Arrow=F<color\=#000000>l</color>echa de Ciclón
+I<color\=#000000>n</color>tegrity & Ruin=I<color\=#000000>n</color>tegridad y Ruina
+C<color\=#000000>r</color>isp Wind Arrow=F<color\=#000000>l</color>echa de Brisa Fresca
+F<color\=#000000>i</color>erce Wind Arrow=F<color\=#000000>l</color>echa de Viento Feroz
+M<color\=#000000>y</color>stic Wind Arrow=F<color\=#000000>l</color>echa de Viento Místico
+S<color\=#000000>t</color>orm Wind Arrow=F<color\=#000000>l</color>echa de Vendaval
+A<color\=#000000>r</color>row of Life=F<color\=#000000>l</color>echa de la Vida
+T<color\=#000000>a</color>ilwind's Breath=A<color\=#000000>l</color>iento de Viento a Favor
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Vecta Satou: [Eat...=Vecta Satou: [Come...
+Vecta Satou: El t...=Vecta Satou: El t...
 

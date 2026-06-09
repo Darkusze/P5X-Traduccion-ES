@@ -487,6 +487,18 @@ r:"Can be activated when Theurgy gauge is at (\d+)\. Increase party's Atk ([\d\.
 
 r:"^Increase (\d+) ally's Atk (\d+)% \((\d+) turn\)\.$"="Aumenta el Ataque de $1 aliado en un $2% ($3 turno)."
 
+++-------------Yukari Takeba-----------------++
+
+r:"^Wind dmg to 1 foe \(([\d\.]+)% Atk\)\. Also, inflict Windswept and Erosion \((\d+) turns\)\. Multiple foes cannot be inflicted with Erosion at same time\. When foe with Erosion is defeated, Erosion is transferred to foe with highest HP\.\nPassive: When ally attacks with skill, if any target is inflicted with Erosion, increase that skill's Atk ([\d\.]+)% \+ ([\d\.]+)% per (\d+) of Yukari's Atk \(max ([\d\.]+)%\)\.$"="Daño de Viento a 1 enemigo ($1% Ataque). Además, inflige Azotado por el Viento y Erosión ($2 turnos). No se puede infligir Erosión a múltiples enemigos al mismo tiempo. Cuando un enemigo con Erosión es derrotado, Erosión se transfiere al enemigo con los PS más altos.\nPasiva: Cuando un aliado ataca con una habilidad, si algún objetivo está bajo el efecto de Erosión, aumenta el Ataque de esa habilidad en un $3% + $4% por cada $5 de Ataque de Yukari (máx. $6%)."
+
+r:"^Decrease party's dmg taken ([\d\.]+)% \((\d+) turns\)\.\nAlso, increase main target's Atk ([\d\.]+)% \+ ([\d\.]+)% per (\d+) of Yukari's Atk \(max ([\d\.]+)%, (\d+) turns\), and increase dmg ([\d\.]+)% per (\d+) of Yukari's Atk \(max ([\d\.]+)%, (\d+) turns\)\.$"="Reduce el daño recibido del equipo un $1% ($2 turnos).\nAdemás, aumenta el Ataque del objetivo principal un $3% + $4% por cada $5 de Ataque de Yukari (máx. $6%, $7 turnos), y aumenta el daño un $8% por cada $9 de Ataque de Yukari (máx. $10%, $11 turnos)."
+
+r:"^Restore HP to all allies \(([\d\.]+)% of Yukari's Atk \+ ([\d]+)\)\.\nSpend all Whisperwind, and increase main target's Theurgy gauge ([\d\.]+) per stack, and after next time target activates Theurgy, increase Atk ([\d\.]+)% \((\d+) turns, max (\d+) stacks\)\. If Theurgy gauge is increased above max, extra amount is temporarily reserved, and returned after Theurgy is activated \((\d+) turns\)\.\nIf main target has a Highlight, the next time they activate a Highlight, increase final dmg amplification ([\d\.]+)% per Whisperwind spent\.$"="Restaura los PS de todos los aliados ($1% del Ataque de Yukari + $2).\nConsume todo Susurro del Viento y aumenta el indicador de Teúrgia del objetivo principal en $3 por acumulación, y la próxima vez que el objetivo active una Teúrgia, aumenta el Ataque en un $4% ($5 turnos, máx. $6 acumulaciones). Si el indicador de Teúrgia aumenta por encima del máximo, la cantidad excedente se reserva temporalmente y se devuelve después de activar la Teúrgia ($7 turnos).\nSi el objetivo principal tiene un Highlight, la próxima vez que active un Highlight, aumenta la amplificación de daño final en un $8% por cada Susurro del Viento consumido."
+
+r:"^Can be activated when Theurgy gauge is at (\d+)\. Wind dmg to (\d+) foe \(([\d\.]+)% Atk\)\. Also, remove (\d+) buffs from target, and inflict Windswept and Erosion\.\nAlso, increase party's dmg ([\d\.]+)% per (\d+) of Yukari's Attack \(max ([\d\.]+)%, (\d+) turns\)\.$"="Se puede activar cuando el indicador de Teúrgia está en $1. Daño de viento a $2 enemigo ($3% Atk). Además, elimina $4 estados positivos (buff) del objetivo e inflige Azotado por el Viento y Erosión.\nAdemás, aumenta el daño del grupo en un $5% por cada $6 de Ataque de Yukari (máx. $7%, $8 turnos)."
+
+Remove 1 debuff from 1 ally.=Elimina 1 efecto negativo (debuff) de 1 aliado.
+
 ++-------------Persona for Protagonist-----------------++
 
 r:"Phys dmg to (\d+) foe \(([\d\.]+)% Atk\)\. ([\d\.]+)% chance to inflict Rage \((\d+) turns\)\."="Daño físico a $1 enemigo ($2% ATQ). $3% de probabilidad de infligir Ira ($4 turnos)."
