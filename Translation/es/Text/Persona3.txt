@@ -588,7 +588,7 @@ I told them nothing appeared\nto be different...=Les dije que nada parecía ser 
 Maybe we should try asking around for now. We\nmight find out something.=Quizás deberíamos intentar preguntar por ahí por ahora.\nPodríamos descubrir algo.
 Oh, our clothes... Well, there's not much we\ncan do about that. Let's just hide our\nweapons.=Oh, nuestra ropa... Bueno, no hay mucho que podamos hacer al respecto.\nEscondamos nuestras armas.
 Coffee Shop=Cafetería
-This is Chagall Café. We come here all the\ntime. Yuki-kun picks up shifts here\nsometimes, too.=Éste es el Café Chagall.\nVenimos aquí todo el tiempo.\nYuki-kun a veces también hace turnos aquí.
+This is Chagall Café. We come here all the\ntime. Yuki-kun picks up shifts here\nsometimes, too.=Éste es la Cafetería Chagall.\nVenimos aquí todo el tiempo.\nYuki-kun a veces también hace turnos aquí.
 Doesn't look like anything's out of the\nordinary.=No parece que haya nada fuera de lo normal.
 All the customers seem normal, too. Nobody's\nbeen transmogrified...=Todos los clientes también parecen normales.\nNadie ha sido transformado...
 
@@ -601,7 +601,7 @@ Since we're out of Tartarus?=¿Desde que salimos del Tártaro?
 That would seem to be the case.=Ese parece ser el caso.
 Things just keep getting weirder...=Las cosas se vuelven cada vez más raras...
 Excuse me, we'd like to order...=Disculpe, nos gustaría ordenar...
-Chagall Café Employee=Empleado del Café Chagall
+Chagall Café Employee=Empleado de la Cafetería Chagall
 Uh, hello?=¿Hola?
 She's just ignoring me?=¿Ella simplemente me está ignorando?
 Something's off.=Algo anda mal.
@@ -653,6 +653,8 @@ This machine's still working. Doesn't seem\nany different from usual...=Esta má
 #C1
 Want to play?=¿Quieres jugar?
 
+All the time.=Todo el tiempo.
+
 #C2
 Gonna give it a shot?=¿Vas a intentarlo?
 
@@ -665,7 +667,8 @@ A-Are you okay...!?=¿¡E-Estás bien...!?
 
 Well, I guess with things like this, it's\nhard to know when to stop.=Bueno, supongo que con cosas como ésta, es difícil saber cuándo parar.
 I suppose it gets to a point where you've gone\nso far, you can't just back out now.=Supongo que llega un punto en el que has llegado tan lejos que no puedes simplemente dar marcha atrás.
-It's kinda dangerous, isn't it?=Es un poco peligroso, ¿no? 
+It's kinda dangerous, isn't it?=Es un poco peligroso, ¿no?
+It's... kinda dangerous, isn't it?=Es... algo peligroso, ¿no?
 I'll just put a coin in, and...=Pondré una moneda y...
 Works just fine. So it's really not the Dark\nHour then...?=Funciona bien.\n¿Entonces realmente no es la Hora Oscura...?
 Seems that way...=Así parece...
@@ -681,6 +684,9 @@ Mm. I guess I just felt like I wanted you\nto have it, for some reason.=Mmm.\nSu
 I'll take good care of it.=Lo cuidaré bien.
 #C2
 I'll put it somewhere special.=Lo pondré en algún lugar especial.
+
+This is just for you!=¡Esto es solo para ti!
+So... how was that?=Entonces... ¿cómo estuvo?
 
 Make sure you put it where you'll always see\nit, yeah?=Asegúrate de ponerlo donde siempre lo veas, ¿sí?
 Where you'll always see it... Where would\nthat be?=Donde siempre lo veas... ¿Dónde sería eso?
@@ -708,7 +714,7 @@ We've been all over the mall, but we still\nhaven't found any clues to explain w
 Not to mention we can't get out. What the\nheck is going on here?=Sin mencionar que no podemos salir.\n¿Qué diablos está pasando aquí?
 
 #C1
-Where are we, anyway?=¿Dónde estamos, de todos modos?
+Where are we, anyway?=<size\=28>¿Dónde estamos, de todos modos?</size>
 It's... Paulownia Mall, isn't it?=Es... el centro comercial Paulownia, ¿no?
 
 #C2
@@ -777,6 +783,8 @@ Stay calm.=Mantén la calma.
 #C2
 Let's take it down!=¡Derribémoslo!
 
+Yeah. We can't let them stop us here.=Sí. No podemos dejar que nos detengan aquí.
+
 Yeah. Let's not get careless.=Sí.\nNo nos descuidemos.
 
 
@@ -834,6 +842,7 @@ Riko was...=Riko era...
 I get it. You'd expect that Tanemura-san\nwould be surprised to see her mom again...=Lo entiendo.\nUno esperaría que Tanemura-san se sorprendiera al ver a su madre otra vez...
 While I don't know Tanemura-san's\nsituation...=Aunque no conozco la situación de Tanemura-san...
 ...I think I kind of understand.=...Creo que en cierto modo lo entiendo.
+Yukari...=Yukari...
 I'm okay, Yuki-kun.=Estoy bien, Yuki-kun.
 My dad... He also died when I was really\nyoung.=Mi padre... Él también murió cuando yo era muy joven.
 When I was a kid, my dad... he... got into an\naccident.=Cuando era una niña, mi padre... él... tuvo un accidente.
@@ -846,6 +855,7 @@ But I'm just talking about myself here.=Pero sólo estoy hablando de mí aquí.
 I just thought maybe Tanemura-san would feel\nthe same way, that's all.=Sólo pensé que tal vez Tanemura-san sentiría lo mismo, eso es todo.
 Whether she understands it's impossible or\nnot, it might not matter to her...=Si ella entiende que es imposible o no, puede que no le importe...
 {{A}}-kun, when we find Tanemura-san,\nmaybe we should try talking to her first.={{A}}-kun, cuando encontremos a Tanemura-san, tal vez deberíamos intentar hablar con ella primero.
+{{A}}-kun, when we find {{B}},\nmaybe we should try talking to her first.={{A}}-kun, cuando encontremos a {{B}}, tal vez deberíamos intentar hablar con ella primero.
 We're here to help, so let's do this\ntogether.=Estamos aquí para ayudar, así que hagamos esto juntos.
 Yuki-kun? What's wrong? Did you notice\nsomething?=¿Yuki-kun? ¿Qué ocurre?\n¿Notaste algo?
 ...No, it's nothing.=...No, no es nada.
@@ -1028,6 +1038,7 @@ Sanada-senpai has joined us on\nour exploration of Tartarus!=¡Sanada-senpai se 
 
 
 So this Riko Tanemura is the head of the\ndisciplinary committee at your school,\nright, {{A}}?=Entonces esta Riko Tanemura es la presidenta del comité disciplinario de tu escuela, ¿verdad, {{A}}?
+So this {{A}} is the head of the\ndisciplinary committee at your school,\nright, {{B}}?=Entonces esta {{A}} es la presidenta del comité disciplinario de tu escuela, ¿verdad, {{B}}?
 Mitsuru's our school council president, so I\nthink they'd get along.=Mitsuru es nuestra presidente del consejo escolar, así que creo que se llevarán bien.
 There aren't any girls her age in our group,\nso she might appreciate Riko as a friend...=No hay chicas de su edad en nuestro grupo, por lo que quizás aprecie a Riko como amiga...
 Ah, I guess so. While she talks to Fuuka and\nI, it's not quite the same since we're her\njuniors.=Ah, supongo que sí.\nAunque ella habla con Fuuka y conmigo, no es lo mismo ya que somos sus juniors.
@@ -1057,6 +1068,7 @@ All right, let's keep going.=Muy bien, sigamos.
 It feels like we've been climbing forever,\nbut just like Sanada-senpai said, we haven't\nrun into any Gatekeepers.=Parece que hemos estado subiendo desde siempre, pero tal como dijo Sanada-senpai, no nos hemos topado con ningún Guardián.
 It's better if we can keep moving without\nhaving to fight, though.=Aunque es mejor si podemos seguir moviéndonos sin tener que luchar.
 You think so? Without any tough Shadows,\nthere just isn't any challenge.=¿Así lo piensas?\nSin Sombras duras, simplemente no hay ningún desafío.
+I dunno about that...=No sé de eso...
 Ah, so you agree, then?=Ah, ¿entonces estás de acuerdo?
 Since we've got you here, it seemed like a\ngreat chance to try out some new strategies.=Ya que te tenemos aquí, me pareció una gran oportunidad para probar algunas estrategias nuevas.
 I take it he really\nlikes fighting...?=¿Supongo que a él realmente\nle gusta pelear...?
@@ -1143,6 +1155,7 @@ For now, let's look around and see what it's\nlike this time.=Por ahora, miremos
 Now that Senpai's here, that makes four of\nus. How about we split up to try and save\ntime?=Ahora que Senpai está aquí, somos cuatro.\n¿Qué tal si nos separamos para intentar ahorrar tiempo?
 Then, let's see... The teams will be...=Entonces, veamos... Los equipos serán...
 How about I go with {{A}}? I wouldn't\nrecognize Tanemura if I saw her.=¿Qué tal si voy con {{A}}?\nNo reconocería a Tanemura si la viera.
+How about I go with {{A}}? I wouldn't\nrecognize {{B}} if I saw her.=¿Qué tal si voy con {{A}}?\nNo reconocería a {{B}} si la viera.
 Yeah, that sounds like a good idea. Then I'll\ncheck over on the other side with Yuki-kun.=Sí, parece una buena idea.\nEntonces comprobaré el otro lado con Yuki-kun.
 
 #C1
@@ -1417,76 +1430,7 @@ The goal of Tartarus exploration is not always to clear the level, but to get st
 
 #Misiones port island
 
-
-
-#Misiones
-Floor ???  =Piso ???  
-Go to Tartarus=Ir al Tártaro
-Clear the mission to unlock Tartarus=Completa la misión para desbloquear el Tártaro.
-Let's head to Tartarus and meet up with Makoto.=Vayamos al Tártaro y encontrémonos con Makoto.
-
-Head to a New Location=Dirígete a una Nueva Ubicación
-Check your messages=Revisa tus mensajes
-
-Luminous Island=Isla Luminosa
-r:"^Clear Chapter ([0-9]+) of Luminous Island$"="Completa el capítulo $1 de la Isla Luminosa"
-r:"^Open ([0-9]+) treasure chests$"="Abre $1 cofres del tesoro"
-Open all treasure chests=Abre todos los cofres del tesoro.
-
-Pierce the Night Sky=Perfora el Cielo Nocturno
-r:"^Clear Chapter ([0-9]+) of any P3R special event$"="Completa el capítulo $1 de cualquier evento especial de P3R."
-
-Tartarus=Tártaro
-r:"^Defeat ([0-9]+) Shadow$"="Derrota a $1 sombra"
-r:"^Unlock ([0-9]+) of {{A}}\'s Dream Chapters$"="Desbloquea $1 de los Capítulos de los Sueños de {{A}}"
-r:"^Unlock ([0-9]+) teammate during Tartarus exploration$"="Desbloquea $1 compañero durante la exploración del Tártaro"
-r:"^Unlock ([0-9]+) unique attributes, schema skill, or weapon forging in Tartarus Mastery$"="Desbloquea $1 atributos únicos, habilidad de esquema o forja de armas en la Maestría del Tártaro"
-r:"^Unlock ([0-9]+) Antique at Mayoido Antiques$"="Desbloquea $1 antigüedad en Antigüedades Mayoido"
-
-r:"^Clear Barbaric Beast Wheel on difficulty ([0-9]+)$"="Derrota la Rueda de Bestia Barbárica en dificultad $1"
-r:"^Clear Lascivious Lady on difficulty ([0-9]+)$"="Derrota a la Dama Lasciva en dificultad $1"
-
-r:"^Defeat ([0-9]+) Intersected Shadow$"="Derrota a $1 Sombra de Intersección"
-Unlock the Vintage Necklace at Mayoido Antiques=Desbloquea el Collar Vintage en Antigüedades Mayoido
-
-#Objetos
-Twilight Fragment=Fragmentos Crepusculares
-Obtain a Twilight Fragment=Obtén Fragmentos Crepusculares
-
-{{A}}'s Dream Fragment=Fragmento de Sueño de {{A}}
-Dream Fragment=Fragmento de Sueño
-Obtained from Tartarus. Can be used to unlock {{A}}'s side story.=Obtenido del Tártaro.\nSe puede utilizar para desbloquear la historia secundaria de {{A}}.
-
-Wheel of Time: New Moon=Rueda del Tiempo: Luna Nueva
-Can be gained by participating in the Luminous Island event, and can be exchanged for items in the event shop.=Se obtiene participando en el evento Isla Luminosa y se puede canjear por artículos en la tienda del evento.
-Wheel of Time: New Moon\nCan be gained by participating in the Luminous Island event, and can be exchanged for items in the event shop.=Rueda del Tiempo: Luna Nueva\nSe obtiene participando en el evento Isla Luminosa y se puede canjear por artículos en la tienda del evento.
-
-Wheel of Time: Crescent Moon=Rueda del Tiempo: Luna Creciente
-Can be gained by participating in the Pierce the Night Sky event, and can be exchanged for items in the event exchange shop.=Se obtiene participando en el evento Perfora el Cielo Nocturno y se puede canjear por artículos en la tienda del evento.
-Wheel of Time: Crescent Moon\nCan be gained by participating in the Pierce the Night Sky event, and can be exchanged for items in the event exchange shop.=Rueda del Tiempo: Luna Creciente\nSe obtiene participando en el evento Perfora el Cielo Nocturno y se puede canjear por artículos en la tienda del evento.
-
-Barbaric Beast Wheel: New Moon=Rueda de Bestia Barbárica: Luna Nueva
-Barbaric Beast Wheel: Crescent Moon=Rueda de Bestia Barbárica: Luna Creciente
-Barbaric Beast Wheel: Half Moon=Rueda de Bestia Barbárica: Luna Media
-Barbaric Beast Wheel: Full Moon=Rueda de Bestia Barbárica: Luna Llena
-r:"^Awarded for clearing Recollections Under Moonlight on difficulty ([0-9]+) in Luminous Island\.$"="Otorgado por completar Recuerdos Bajo la Luz de la Luna en dificultad $1 en Isla Luminosa."
-
-New Moon of the Dark Hour=Luna Nueva de la Hora Oscura
-Awarded for playing Met by Moonlight: Luminous Island.=Otorgada por participar en Encontrado por la Luz de la Luna: Ciudad Luminosa.
-
-Moonhaze Island=Isla de Neblina Lunar
-Awarded for playing Met by Moonlight: Pierce the Night Sky.=Otorgada por participar en Encontrado por la Luz de la Luna: Perfora el Cielo Nocturno.
-
-Tartarus: Arbiter=Tártaro: Árbitro
-The highest floor you've reached during Tartarus exploration will be recorded.=Se registrará el piso más alto que hayas alcanzado durante la exploración del Tártaro.
-
-Lascivious Lady: New Moon=Dama Lasciva: Luna Nueva
-Lascivious Lady: Crescent Moon=Dama lasciva: Luna Creciente
-Lascivious Lady: Half Moon=Dama Lasciva: Luna Media
-Lascivious Lady: Full Moon=Dama Lasciva: Luna Llena
-r:"^Awarded for clearing Recollections Under Moonlight on difficulty ([0-9]+) in Pierce the Night Sky\.$"="Otorgado por completar Recuerdos Bajo la Luz de la Luna en dificultad $1 en Perfora el Cielo Nocturno."
-
-+-Morepe Paulownia--+ 
++-Merope Paulownia--+ 
 A place where strong\ndesires gather...=Un lugar donde se\nconcentran fuertes deseos...
 Forgive the sudden message. A\nplace where strong desires\ngather appears to have opened.=Disculpa el mensaje repentino. Parece que\nse ha abierto un lugar donde se reúnen\nlos deseos más intensos.
 How do I get there?=¿Cómo llego ahí?
@@ -1521,17 +1465,267 @@ I had been informed that this was a friendly\nway to say farewell. Is there some
 Merope left with a puzzled\nlook on her face...=Merope se marchó con una\nxpresión de total desconcierto\nen el rostro...
 Anyway, let's take a look\naround Paulownia Mall...!=En fin, ¡vamos a echar un vistazo\nal Centro Comercial Paulownia!
 
-+--Lugares y Acciones --+
-P3 RELOAD=P3 RELOAD
-Chagall Café=Café Chagall
+Head to Port Island=Dirígete a la Isla Puerto
+
+Unlock "Work at Chagall café" in City Life=Desbloquea "Trabajar en el Cafetería Chagall" en Vida Urbana
+Unlock "Make a wish at the fountain" in City Life=Desbloquea "Pide un deseo en la fuente" en Vida Urbana
+Unlock "Help out at Aohige Pharmacy" in City Life=Desbloquea "Ayuda en la Farmacia Aohige" en Vida Urbana
+Unlock "Help out at the police station" in City Life=Desbloquea "Ayuda en la Comisaría" en Vida Urbana
+Unlock the Attraction Charm at Mayoido Antiques=Desbloquea el Talismán de atracción en Antigüedades Mayoido
+Complete 5 City Life activities in Paulownia Mall=Completa 5 actividades de Vida Urbana en el centro comercial Paulownia
+Win 5 prizes from crane games=Gana 5 premios de Maquinas de Gancho.
+Find Be Blue V=Encuentra el Be Blue V
+Find Mandragora=Encuentra el Mandrágora
+Find Club Escapade=Encuentra el Club Escapade
+Enter the Alleyway=Entra al Callejón
+
 Aohige Pharmacy=Farmacia Aohige
-METRO=METRO
-MALL=CENTRO COMERCIAL
-Paulownia Mall=Centro comercial Paulownia
-SELECT MAP=SELECCIONAR MAPA
-TOWNMAP=MAPA DE LA CIUDAD
-Daytime=Día
-Go to Chagall Café=Ir al Café Chagall
+Go to Aohige Pharmacy=Ir a la Farmacia Aohige
+There's a highly-rated pharmacy in Paulownia Mall.\nI should go check it out when I have time.=Hay una farmacia altamente calificada en el centro Comercial Paulownia.\nDebería ir a verla cuando tenga tiempo.
+Clear the mission to unlock the City Life activity Help out at Aohige Pharmacy.=Completa la misión para desbloquear la actividad de Vida Urbana "Ayudar en la Farmacia Aohige".
+It's <color\=#FF3838>Aohige Pharmacy</color>,\nthe drug store with\nthe distinct sign...=Es la <color\=#FF3838>Farmacia Aohige</color>,\nla farmacia con la señal distintita...
+Maybe I should go in...=Quizás debería entrar...
+Aohige Pharmacy Owner=Propietario de la Farmacia Aohige
+Competition among pharmacies is just as stiff\nnow as it was when I first started.=La competencia entre las farmacias es tan dura ahora como cuando comencé.
+But thanks to our specialty aojiru, business\nis booming... I'm very grateful.=Pero gracias a nuestra especialidad, el aojiru, el negocio está en auge... Estoy muy agradecido.
+Ah, yes... I've developed my own aojiru, and\nit's become a customer favorite. It's an\noriginal recipe.=Ah, sí... He desarrollado mi propio aojiru y se ha convertido en el favorito de los clientes.\nEs una receta original.
+I've also made a variety of new flavors. Each\nflavor has its own use.=También he hecho una variedad de sabores nuevos.\nCada sabor tiene su propio uso.
+But... don't go using it for some kind of\ndare or challenge or something. You should\nnever waste food.=Pero... no lo uses para algún tipo de apuesta, desafío o algo así.\nNunca debes desperdiciar comida.
+You know, something about your face reminds\nme of one of our regular customers.=Sabes, algo en tu cara me recuerda a uno de nuestros clientes habituales.
+I bet you're not the type to make waste,\neither. I hope you'll give our specialty\naojiru a try!=Apuesto a que tampoco eres del tipo que desperdicia.\n¡Espero que pruebes nuestra especialidad, el aojiru!
+Come back any time.=Vuelve cuando quieras.
+You unlocked the City Life activity <color\=#ffc000>Help out at Aohige Pharmacy</color>. There is a chance for it to appear each day.=Has desbloqueado la actividad de Vida Urbana <color\=#ffc000>Ayudar en la Farmacia Aohige</color>. Existe la posibilidad de que aparezca cada día.
+Buy aojiru=Comprar aojiru
+Beauty Aojiru=Aojiru Estético
+Drink to increase Charm by 1 point.=Bébelo para aumentar el Encanto en 1 punto.
+Vitality Aojiru=Aojiru Vigorizante
+Drink to increase Proficiency by 1 point.=Bébelo para aumentar la Destreza en 1 punto.
+Nasty Aojiru=Aojiru Amargo
+Drink to increase Guts by 1 point.=Bébelo para aumentar el Coraje en 1 punto.
+Onsen Aojiru=Aojiru de Onsen
+Drink to increase Kindness by 1 point.=Bébelo para aumentar la Amabilidad en 1 punto.
+Seafood Aojiru=Aojiru de Mariscos
+Drink to increase Knowledge by 1 point.=Bébelo para aumentar el Conocimiento en 1 punto.
+Aohige Pharamcy=Farmacia Aohige
+INFO:=INFO:
+What will you buy?=¿Qué comprarás?
+Restocks in 1 day=Reabastece en 1 día
+r:"^Restocks in ([0-9]+) days$"="Reabastece en 4 días"
+
+Help out at Aohige Pharmacy=Ayudar en la farmacia Aohige
+I could go try the new aojiru at Aohige Pharmacy in Paulownia Mall...=Podría ir a probar el nuevo aojiru en la farmacia Aohige en el centro comercial Paulownia...
+I'm testing out a new flavor of aojiru today.=Hoy estoy probando un nuevo sabor de aojiru.
+It might be a bit strong, but would you like\nto try some?=Puede que sea un poco fuerte, pero ¿te gustaría probar un poco?
+I readied myself and decided\nto take a sip...=Me preparé y decidí\ntomar un sorbo...
+It's an extremely intense\nflavor... I feel like I might\npass out...!=Es un sabor sumamente intenso...\n¡Siento que me voy a desmayar...!
+Before I knew it,\nI'd drank the whole lot...=Antes de darme cuenta,\nme lo había bebido todo...
+Pretty stimulating taste, huh? What'd you\nthink? Give me your honest opinion.=Un sabor bastante estimulante, ¿eh?\n¿Qué pensaste? Dame tu sincera opinión.
+I gave a detailed report\nof the taste...=Di un informe detallado\ndel sabor...
+I see... It seems there's still room for\nimprovement.=Ya veo...\nParece que todavía hay margen de mejora.
+Thank you for your valuable feedback. This is\nfor all your help.=Gracias por tus valiosos comentarios.\nEsto es por tu ayuda.
+Come again, yeah?=Ven de nuevo, ¿sí?
+I feel like my mind is clearer\nas a result of drinking\nthat aojiru...=Siento que mi mente está\nmás clara como resultado\nde beber ese aojiru...
+
+
+Chagall Café=Cafetería Chagall
+Go to Chagall Café=Ir al Cafetería Chagall
+There's a café in Paulownia Mall that's hiring.\nI should check it out when I have time.=Hay una cafetería en el centro comercial Paulownia que está contratando.\nDebería comprobarlo cuando tenga tiempo.
+Clear the mission to unlock the City Life activity Work at Chagall Café.=Completa la misión para desbloquear la actividad de Vida Urbana "Trabajar en la Cafetería Chagall".
+It's <color\=#ff0000>Chagall Café</color>...\nThe staff are busy working...=Es la <color\=#ff0000>Cafetería Chagall</color>...\nEl personal está muy ocupado trabajando...
+Maybe I could\nwork part-time here...=Tal vez podría trabajar a tiempo parcial aquí...
+Go in=Entrar
+Welcome! What can I get for you?=¡Bienvenido! ¿Qué te puedo ofrecer?
+I told the staff member that I\nwas looking for work...=Le dije al miembro del personal\nque estaba buscando trabajo...
+A part-time job, huh? We would love to have\nyou!=¡¿Un trabajo de medio tiempo?! ¡Por supuesto, nos encantaría tenerte con nosotros!
+Just wait one moment while I call the manager\nover.=Espera un momento mientras llamo al gerente.
+Hello, I'm the manager here.=Hola, yo soy el gerente de este lugar.
+I'm glad you're interested in working\npart-time. We're pretty short-staffed at the\nmoment...=Me alegra que estés interesado en trabajar a tiempo parcial. Estamos bastante cortos de personal en estos momentos...
+If I may ask, do you have any previous work\nexperience?=Si puedo preguntar, ¿tiene alguna experiencia laboral previa?
+Don't worry, we're just like any other\nrestaurant. You'll be taking orders, serving\nfood, and helping mop up.=No te preocupes, somos como cualquier otro restaurante. Estarás tomando pedidos, sirviendo comida y ayudando a limpiar.
+I'd say it's a pretty simple job, so I think\nyou'll get used to it quickly.=Yo diría que es un trabajo bastante sencillo, así que creo que te acostumbrarás rápidamente.
+You'll get paid extra if we have a lot of\ncustomers... We could really use the help, so\ncome by when you can.=Te pagaremos más si tenemos muchos clientes... Nos vendría muy bien la ayuda, así que ven cuando puedas.
+I guess that settles things. Looking forward\nto working with you!=Supongo que eso arregla las cosas.\n¡Esperamos trabajar con usted!
+You unlocked the City Life activity <color\=#ffc000>Work at Chagall Café</color>. There is a chance for it to appear each day.=Has desbloqueado la actividad de Vida Urbana <color\=#ffc000>Trabajar en la Cafetería Chagall</color>. Existe la posibilidad de que aparezca cada día.
+
+Do you want to work here?=¿Te gustaría trabajar aquí?
+I think I'll pass.=Creo que paso por esta vez.
+There are more customers than\nusual today... I'll need to\nput in some extra effort...=Hay más clientes de lo habitual hoy...\nTendré que poner un esfuerzo extra...
+I expertly handled a situation\nwith a staff member who\nmessed up an order...=Logré resolver con maestría la\nsituación de un compañero que se\nhabía equivocado con un pedido...
+I used my wits to mediate\na dispute between\ntwo customers...=Usé mi ingenio para mediar en\nuna disputa entre dos clientes...
+Phew, what a day... You were a huge help.\nHere's your paycheck, with a little extra\nthrown in.=Uf, qué día... Fuiste de gran ayuda. Aquí tienes tu paga, con un pequeño extra incluido.
+Hope you can come back to help out again\nsometime. Thanks again.=Espero que puedas volver a ayudarnos pronto.\n¡Gracias de nuevo!
+Though it was busy, it seems you had a\nfulfilling experience. You have a bright and cheerful\nexpression on your face.=Aunque el lugar estuvo lleno, parece que fue una experiencia muy gratificante. Irradias una expresión bastante alegre y radiante.
+Let's take a breather, then get going...=Vamos a tomar un respiro y\nluego nos ponemos en marcha...
+
+Police Station=Comisaría de Policía
+Go to Tatsumi East Police Station=Ir a la Comisaría de policía de Tatsumi Este
+Something's going on at the police station in Paulownia Mall.\nI should look into it when I have time.=Algo está pasando en la comisaría del centro comercial Paulownia.\nDebería investigarlo cuando tenga tiempo.
+Clear the mission to unlock the City Life activity Help out at Tatsumi East Police Station.=Completa la misión para desbloquear la actividad de Vida Urbana "Ayuda en la Comisaría de Tatsumi Este".
+<color\=#FF423F>Officer Kurosawa</color>\nis working silently...=El <color\=#FF423F>Oficial Kurosawa</color>\nestá\ntrabajando en silencio...
+I could offer to help him\nwith his work...=Podría ofrecerle ayudar\ncon su trabajo...
+Help out=Ayudar
+I've seen that look before...=He visto esa mirada antes...
+It might be my imagination, but you look like\nyou've seen some things.=Puede que sea mi imaginación, pero parece que has visto algunas cosas.
+Didn't mean to scare you. It was just a\nhunch. I won't pry any further.=No quise asustarte.\nFue sólo una corazonada.\nNo me entrometeré más.
+I told him that I wanted to\nhelp out in some way...=Le dije que quería ayudar\nde alguna manera...
+Is that so...? My job is to maintain the\npeace in this city.=¿Es eso así...?\nMi trabajo es mantener la paz en esta ciudad.
+I'll do whatever it takes to help make the\nstreets safer, even just a little.=Haré lo que sea necesario para ayudar a que las calles sean más seguras, aunque sea un poco.
+Stop by if you have time. I have a lot that I\nneed help with.=Pasa por aquí si tienes tiempo.\nTengo muchas cosas con las que necesito ayuda.
+If you think you can handle it, that is.=Si crees que puedes manejarlo, claro está.
+You unlocked the City Life activity <color\=#ffc000>Help out at the police station</color>. There is a chance for it to appear each day.=Has desbloqueado la actividad de Vida Urbana <color\=#ffc000>Ayudar en la Comisaría.</color>. Existe la posibilidad de que aparezca cada día.
+Check missing persons=Revisar Personas Desaparecidas
+POLICE=POLICÍA
+
+Help out at the police station=Ayudar en la estación de policia
+I could go help out at the police station in Paulownia Mall...=Podría ir a ayudar a la estación de policia del centro comercial Paulownia...
+I helped organize\nsome documents...=Ayudé a organizar algunos documentos...
+I helped organize the\nwarehouse... It's looking\nmuch cleaner now...=Ayudé a organizar el almacén...\nAhora se ve mucho más limpio...
+I helped organized some\nnotices... I guided people who\ncame looking for lost items...=Ayudé a organizar algunos avisos...\nGuié a las personas que venían\nbuscando objetos perdidos...
+Thank you for your help today. Here,\nthis is for your hard work.=Gracias por tu ayuda hoy.\nToma, esto es por tu arduo trabajo.
+Feel free to stop by again sometime. I could\nalways do with the help.=No dudes en volver en algún momento.\nSiempre me viene bien la ayuda.
+Fine work. I'm glad you had the courage to\noffer your assistance.=Buen trabajo.\nMe alegro que hayas tenido el coraje de ofrecer tu ayuda.
+Now, then. Shall we get going?=Ahora bien. ¿Nos vamos?
+
+
+Fountain in the Square=Fuente en la Plaza
+Check the fountain=Revisa la Fuente
+There's a rumor that the fountain in Paulownia Mall grants wishes.\nI should try it out.=Corre el rumor de que la fuente del centro comercial Paulownia concede deseos.\nDebería probarlo.
+Clear the mission to unlock the City Life activity Wish at the Fountain.=Completa la misión para desbloquear la actividad de Vida Urbana "Deseo en la Fuente".
+Fountain=Fuente
+It's a beautiful fountain...=Es una hermosa fuente...
+Is there something scattered\ndown at the bottom...?=¿Hay algo esparcido en el fondo...?
+Take a look=Echar un Vistazo
+Back away=Retroceder
+Piles of coins sit submerged\nin the water. A lot of people\nseem to make wishes here...=Montones de monedas se encuentran\nsumergidas en el agua.\nMucha gente parece pedir deseos aquí...
+Oh, did you hear the rumors, too? People say\nthis fountain brings good fortune.=Oh, ¿también escuchaste los rumores?\nLa gente dice que esta fuente trae buena suerte.
+But... from what I heard, if you don't have\nenough coins, the fountain spirit won't grant\nyour wish.=Pero... por lo que escuché, si no tienes suficientes monedas, el espíritu de la fuente no te concederá tu deseo.
+Man on a Bench=Hombre en un Banco
+No idea who first said it, but that's how the\nlegend goes, I guess.=No tengo idea de quién lo dijo primero, pero supongo que así es como dice la leyenda.
+That's why... I decided to throw in\neverything I earned today from my part-time\njob.=Por eso... decidí lanzar todo lo que gané hoy con mi trabajo de medio tiempo.
+Oh, after you've tossed in your coins, just\nclose your eyes and repeat your wish over and\nover in your head.=Oh, después de haber tirado las monedas, simplemente cierra los ojos y repite tu deseo una y otra vez en tu cabeza.
+No idea who said this one, either, but I feel\nlike I can tell you about this little\ntrick...=Tampoco tengo idea de quién dijo esto, pero siento que puedo contarte sobre este pequeño truco...
+A lot of people come by this fountain, right?=Viene mucha gente por esta fuente, ¿verdad?
+So you need to find a way for the fountain\nspirit to remember you.=Entonces necesitas encontrar una manera para que el espíritu de la fuente te recuerde.
+Though... for some reason, I get the\nimpression the spirit would take a liking\nto someone like you.=Aunque... por alguna razón, tengo la impresión de que al espíritu le gustará alguien como tú.
+Damn, I wish I had that kinda aura, too...=Maldita sea, desearía tener ese tipo de aura también...
+You unlocked the City Life activity <color\=#ffc000>Wish at the Fountain</color>. There is a chance for it to appear each day.=Has desbloqueado la actividad de Vida Urbana <color\=#ffc000>Deseo en la Fuente</color>. Existe la posibilidad de que aparezca cada día.
+
+Make a wish at the fountain=Pide un deseo en la fuente
+I could go make a wish at the fountain in Paulownia Mall...=Podría ir a pedir un deseo a la fuente del centro comercial Paulownia...
+I wished I could become\na more courageous person...=Desearía poder convertirme en\nuna persona más valiente...
+I suddenly have a craving for\nsuper spicy ramen...=De repente tengo ganas de\ncomer ramen súper picante...
+I feel like I could finish\neven the spiciest of dishes\nright now...!=¡Siento que podría terminar incluso\nel plato más picante ahora mismo...!
+I guess I'll leave it here\nfor today...=Supongo que lo dejaré\naquí por hoy...
+
+Should I make a wish?=¿Debería pedir un deseo?
+I wished that I could\nacquire more knowledge...=Pedí el deseo de poder\nadquirir más conocimientos...
+I suddenly had a flash of\ninspiration for a solution to\na difficult homework problem...=De repente tuve un destello de\ninspiración para resolver un\nproblema difícil de la tarea...
+Does this mean my wish\nhas been granted...?=¿Significa esto que mi deseo\nse ha cumplido...?
+In any case, it feels like\nI've gained more knowledge...=Como sea, siento que ahora\ntengo más conocimientos...
+
+I suddenly became curious as\nto the total value of coins\nin the fountain...=De repente me dio curiosidad\nsaber cuál sería el valor total\nde las monedas en la fuente...
+I tried to devise a formula\nto calculate the value...=Intenté diseñar una fórmula\npara calcular el valor...
+
+I wished that I could become\na kinder person...=Pedí el deseo de poder\nconvertirme en una persona\nmás amable...
+I remembered that\nI need to water the\nplants in my garden...=De pronto recordé que\nnecesito regar las\nplantas de mi jardín...
+A strong urge to help them\ngrow healthy and strong is\nwelling up inside me...=Un fuerte impulso por ayudarlas\na crecer sanas y fuertes comenzó\na brotar desde mi interior...
+I feel a wave of kindness\nwash over my whole body...=Siento cómo una ola de amabilidad\nrecorre todo mi cuerpo...
+I guess I'll leave it here\nfor today...=Lo dejaré aquí por hoy...
+
+I wished that I could become\na more charming person...=Pedí el deseo de poder\nconvertirme en una persona\nmás encantador...
+I suddenly had an idea for a\nstylish way to throw a coin\ninto the fountain...!=¡De repente se me ocurrió una\nforma muy sofisticada de lanzar\nuna moneda a la fuente...!
+It needs some work,\nbut it's bound to\ncatch people's eye...=Aún debo perfeccionarla,\npero estoy seguro de que\nllamará la atención de todos...
+I'll have to practice it\nbefore coming here\nagain next time...=Tendré que practicarlo antes\nde regresar por aquí la\npróxima vez...
+
+Port Island  Paulownia Mall=Isla Puerto  Centro Comercial Paulownia
+
+Looks like the\nstudent dormitory\nis closed right now...=Parece que la residencia de estudiantes\nestá cerrada ahora mismo...
+
+Medium Crane Game=Máquina de Gancho Mediana
+Game Parade: Tatsumi Store=Game Parade: Tienda de Tatsumi
+It looks like a\npretty nice arcade...=Parece un arcade bastante bonito...
+Kenneth Arnold=Kenneth Arnold
+I don't have a reason to go in\nhere right now... Maybe I'll\ncome back another time...=No tengo ninguna razón para\nentrar aquí ahora mismo...\nTal vez vuelva en otro momento...
+Look at antiques=Mirar Antigüedades
+Mandragora=Mandrágora
+Looks like a good place to\npractice singing. They seem to\nbe closed right now...=Parece un buen lugar para practicar canto.\nParece que ahora mismo están cerrados...
+Club Escapade=Club Escapade
+The door is locked. Guess\nthey're closed right now...=La puerta está cerrada.\nSupongo que ahora mismo están cerrados...
+Be Blue V=Be Blue V
+Back Alley=Callejón Trasero
+It's just an empty alley, but\nfor some reason, it feels\nominous...=Es sólo un callejón vacío,\npero por alguna razón,\nse siente siniestro...
+Nothing's Back Here=No hay nada aquí detrás
+
+
+#Misiones
+Floor ???  =Piso ???  
+Go to Tartarus=Ir al Tártaro
+Clear the mission to unlock Tartarus=Completa la misión para desbloquear el Tártaro.
+Let's head to Tartarus and meet up with Makoto.=Vayamos al Tártaro y encontrémonos con Makoto.
+
+Head to a New Location=Dirígete a una Nueva Ubicación
+Check your messages=Revisa tus mensajes
+
+Luminous Island=Isla Luminosa
+r:"^Clear Chapter ([0-9]+) of Luminous Island$"="Completa el capítulo $1 de la Isla Luminosa"
+r:"^Open ([0-9]+) treasure chests$"="Abre $1 cofres del tesoro"
+Open all treasure chests=Abre todos los cofres del tesoro.
+
+Pierce the Night Sky=Perfora el Cielo Nocturno
+r:"^Clear Chapter ([0-9]+) of any P3R special event$"="Completa el capítulo $1 de cualquier evento especial de P3R."
+
+Tartarus=Tártaro
+r:"^Defeat ([0-9]+) Shadow$"="Derrota a $1 sombra"
+r:"^Unlock ([0-9]+) of {{A}}\'s Dream Chapters$"="Desbloquea $1 de los Capítulos de los Sueños de {{A}}"
+r:"^Unlock ([0-9]+) teammate during Tartarus exploration$"="Desbloquea $1 compañero durante la exploración del Tártaro"
+r:"^Unlock ([0-9]+) unique attributes, schema skill, or weapon forging in Tartarus Mastery$"="Desbloquea $1 atributos únicos, habilidad de esquema o forja de armas en la Maestría del Tártaro"
+r:"^Unlock ([0-9]+) Antique at Mayoido Antiques$"="Desbloquea $1 antigüedad en Antigüedades Mayoido"
+
+r:"^Clear Barbaric Beast Wheel on difficulty ([0-9]+)$"="Derrota la Rueda de Bestia Barbárica en dificultad $1"
+r:"^Clear Lascivious Lady on difficulty ([0-9]+)$"="Derrota a la Dama Lasciva en dificultad $1"
+r:"^Clear Priestess of Desire on difficulty (\d+)$"="Derrota a la Suma Sacerdotisa del Deseo en dificultad $1."
+
+r:"^Defeat ([0-9]+) Intersected Shadow$"="Derrota a $1 Sombra de Intersección"
+Unlock the Vintage Necklace at Mayoido Antiques=Desbloquea el Collar Vintage en Antigüedades Mayoido
+
+#Objetos
+Twilight Fragment=Fragmentos Crepusculares
+Obtain a Twilight Fragment=Obtén Fragmentos Crepusculares
+
+{{A}}'s Dream Fragment=Fragmento de Sueño de {{A}}
+Dream Fragment=Fragmento de Sueño
+Obtained from Tartarus. Can be used to unlock {{A}}'s side story.=Obtenido del Tártaro.\nSe puede utilizar para desbloquear la historia secundaria de {{A}}.
+
+Wheel of Time: New Moon=Rueda del Tiempo: Luna Nueva
+Can be gained by participating in the Luminous Island event, and can be exchanged for items in the event shop.=Se obtiene participando en el evento Isla Luminosa y se puede canjear por artículos en la tienda del evento.
+Wheel of Time: New Moon\nCan be gained by participating in the Luminous Island event, and can be exchanged for items in the event shop.=Rueda del Tiempo: Luna Nueva\nSe obtiene participando en el evento Isla Luminosa y se puede canjear por artículos en la tienda del evento.
+You do not have enough Wheel of Time: New Moon to purchase this product.=No tienes suficiente Rueda del Tiempo: Luna Nueva para comprar este producto.
+
+Wheel of Time: Crescent Moon=Rueda del Tiempo: Luna Creciente
+Can be gained by participating in the Pierce the Night Sky event, and can be exchanged for items in the event exchange shop.=Se obtiene participando en el evento Perfora el Cielo Nocturno y se puede canjear por artículos en la tienda del evento.
+Wheel of Time: Crescent Moon\nCan be gained by participating in the Pierce the Night Sky event, and can be exchanged for items in the event exchange shop.=Rueda del Tiempo: Luna Creciente\nSe obtiene participando en el evento Perfora el Cielo Nocturno y se puede canjear por artículos en la tienda del evento.
+You do not have enough Wheel of Time: Crescent Moon to purchase this product.=No tienes suficiente Rueda del Tiempo: Luna Creciente para comprar este producto.
+
+Barbaric Beast Wheel: New Moon=Rueda de Bestia Barbárica: Luna Nueva
+Barbaric Beast Wheel: Crescent Moon=Rueda de Bestia Barbárica: Luna Creciente
+Barbaric Beast Wheel: Half Moon=Rueda de Bestia Barbárica: Luna Media
+Barbaric Beast Wheel: Full Moon=Rueda de Bestia Barbárica: Luna Llena
+r:"^Awarded for clearing Recollections Under Moonlight on difficulty ([0-9]+) in Luminous Island\.$"="Otorgado por completar Recuerdos Bajo la Luz de la Luna en dificultad $1 en Isla Luminosa."
+
+New Moon of the Dark Hour=Luna Nueva de la Hora Oscura
+Awarded for playing Met by Moonlight: Luminous Island.=Otorgada por participar en Encontrado por la Luz de la Luna: Ciudad Luminosa.
+
+Moonhaze Island=Isla de Neblina Lunar
+Awarded for playing Met by Moonlight: Pierce the Night Sky.=Otorgada por participar en Encontrado por la Luz de la Luna: Perfora el Cielo Nocturno.
+
+Tartarus: Arbiter=Tártaro: Árbitro
+The highest floor you've reached during Tartarus exploration will be recorded.=Se registrará el piso más alto que hayas alcanzado durante la exploración del Tártaro.
+
+Lascivious Lady: New Moon=Dama Lasciva: Luna Nueva
+Lascivious Lady: Crescent Moon=Dama lasciva: Luna Creciente
+Lascivious Lady: Half Moon=Dama Lasciva: Luna Media
+Lascivious Lady: Full Moon=Dama Lasciva: Luna Llena
+r:"^Awarded for clearing Recollections Under Moonlight on difficulty ([0-9]+) in Pierce the Night Sky\.$"="Otorgado por completar Recuerdos Bajo la Luz de la Luna en dificultad $1 en Perfora el Cielo Nocturno."
 
 
 #UI
@@ -1629,14 +1823,25 @@ Unlocks after clearing Head to a New Location.=Se desbloquea después de complet
 New Missions=Nuevas Misiones
 You don't have enough Old Gemstones to enhance this.=No tienes suficientes Piedras Preciosas Antiguas para mejorar esto.
 Enemy Party=Equipo Enemigo
-Enemy Equipo=Equipo Enemigo
 METRO=METRO
+Daytime=Día
+Evening=Tarde
 After School=Después de Clases
+Night=Noche
 TOWNMAP=MAPA DE LA CIUDAD
 MALL=CENTRO COMERCIAL
 Paulownia Mall=Centro Comercial Paulownia
 SELECT MAP=SELECCIONAR MAPA
 Actions Left:=Acciones Restantes:
+Challenge Attempts Left=Intentos de desafío restantes
+Defeated=Derrotado
+Go Elsewhere=Ir a otra parte
+When you reset, the locked party will be unlocked, the challenge attempts will be restored, and the boss HP will be reset.\nThe highest score will not change.\nDo you want to reset?=Cuando reinicies, se desbloqueará el grupo bloqueado, se restaurarán los intentos de desafío y se restablecerá los PS del jefe.\nLa puntuación más alta no cambiará.\n¿Quieres reiniciarlo?
+P3 RELOAD=P3 RELOAD
+Chagall Café is not unlocked. Do you want to track it?=La Cafetería Chagall no está desbloqueado. ¿Quieres rastrearlo?
+Aohige Pharmacy is not unlocked. Do you want to track it?=La Farmacia Aohige no está desbloqueada. ¿Quieres rastrearlo?
+Police Station is not unlocked. Do you want to track it?=La Estación de Policía no está desbloqueada. ¿Quieres rastrearlo?
+Clear the mission Pierce the Night Sky to unlock <color\=#ffc000>Paulownia Mall</color>.=Completa la misión Perfora el Cielo Nocturno para desbloquear<color\=#ffc000>Centro Comercial Paulownia</color>.
 
 r:"^Enemy Strength: +([0-9]+)$"="Fuerza del Enemigo: +$1"
 Exploration Difficulty: =Dific. de exploración: 
@@ -1649,13 +1854,18 @@ r:"^Refresh cards at the Great Clock up to ([0-9]+) times\.\nIncrease {{A}}'s mo
 r:"^Decrease Will by ([0-9]+) at the start of exploration\.\nRefresh cards at the Great Clock up to ([0-9]+) times\.\nIncrease {{A}}'s movement speed\.\nIncrease the range for destroying search objects\.\n$"="Disminuye la Voluntad en $1 al inicio de la exploración.\nPuedes actualizar cartas en el Gran Reloj hasta $2 veces.\nAumenta la velocidad de movimiento de {{A}}.\nAmplia el rango de destrucción de Objetos Destruibles.\n"
 r:"^Decrease Will by ([0-9]+) at the start of exploration\.\nIncrease damage taken from all foes based on the number of turns passed in battle\.\nRefresh cards at the Great Clock up to ([0-9]+) times\.\nIncrease {{A}}'s movement speed\.\nIncrease the range for destroying search objects\.\n$"="Disminuye la Voluntad en $1 al inicio de la exploración.\nIncrementa el daño recibido de todos los enemigos en base al número de turnos pasados en batalla.\nPuedes actualizar cartas en el Gran Reloj hasta $2 veces.\nAumenta la velocidad de movimiento de {{A}}.\nAmplia el rango de destrucción de Objetos Destruibles.\n"
 r:"^Decrease Will by ([0-9]+) at the start of exploration\.\nIncrease damage taken from all foes based on the number of turns passed in battle\.\nRefresh cards at the Great Clock up to ([0-9]+) times\.\nIncrease Clock Gears needed to purchase Arcana cards at the Great Clock by ([0-9]+)%\.\nIncrease {{A}}'s movement speed\.\nIncrease the range for destroying search objects\.\n$"="Disminuye la Voluntad en $1 al inicio de la exploración.\nIncrementa el daño recibido de todos los enemigos en base al número de turnos pasados en batalla.\nPuedes actualizar cartas en el Gran Reloj hasta $2 veces.\nIncrementa el coste de Engranajes de Reloj necesarios para comprar cartas de Arcana en el Gran Reloj en un $3%.\nAumenta la velocidad de movimiento de {{A}}.\nAmplia el rango de destrucción de Objetos Destruibles.\n"
+r:"^Decrease Will by ([0-9]+) at the start of exploration\.\nIncrease damage taken from all foes based on the number of turns passed in battle\.\nRefresh cards at the Great Clock up to ([0-9]+) times\.\nIncrease Clock Gears needed to purchase Arcana cards at the Great Clock by ([0-9]+)%\.\nAll battles consume ([0-9]+) additional Will\.\nIncrease {{A}}'s movement speed\.\nIncrease the range for destroying search objects\.\n$"="Disminuye la Voluntad en $1 al inicio de la exploración.\nIncrementa el daño recibido de todos los enemigos en base al número de turnos pasados en batalla.\nPuedes actualizar cartas en el Gran Reloj hasta $2 veces.\nIncrementa el coste de Engranajes de Reloj necesarios para comprar cartas de Arcana en el Gran Reloj en un $3%.\nTodas las batallas consumen $4 de Voluntad adicional.\nAumenta la velocidad de movimiento de {{A}}.\nAmplia el rango de destrucción de Objetos Destruibles.\n"
 r:"^All foes' max HP is increased by ([0-9]+)%\.\nIncrease {{A}}'s movement speed\.\nIncrease the range for destroying search objects\.\n$"="Los PS máximos de todos los enemigos aumentan en un $1%.\nAumenta la velocidad de movimiento de {{A}}.\nAmplia el rango de destrucción de Objetos Destruibles.\n"
-r:"^Base Collection Bonus: x([0-9]+)\.([0-9]+)$"="Bono de Colección Base: x$1,$2"
+
 r:"^Base Collection Bonus: x([0-9]+)$"="Bono de Colección Base: x$1"
-r:"^Basic Training Material Bonus x([0-9]+)\.([0-9]+)\nYou cannot collect Old Gemstones on this difficulty\.$"="Bono de Colección Base: x$1,$2.\nNo puedes obtener Gemas Preciosas Antiguas en esta dificultad."
+r:"^Base Collection Bonus: x([0-9]+)\.([0-9]+)$"="Bono de Colección Base: x$1,$2"
+
 r:"^Basic Training Material Bonus x([0-9]+)\nYou cannot collect Old Gemstones on this difficulty\.$"="Bono de Colección Base: x$1.\nNo puedes obtener Gemas Preciosas Antiguas en esta dificultad."
-r:"^Basic Training Material Bonus x([0-9]+)\.([0-9]+)\nOld Gemstone Collection Bonus x([0-9]+)\.([0-9]+)$"="Bonificación de Material de Entrenamiento Básico x$1,$2\nBonificación de Colección de Piedra Preciosa Antigua x$3,4."
-r:"^Basic Training Material Bonus x([0-9]+)\nOld Gemstone Collection Bonus x([0-9]+)$"="Bonificación de Material de Entrenamiento Básico x$1\nBonificación de Colección de Piedra Preciosa Antigua x$3."
+r:"^Basic Training Material Bonus x([0-9]+)\.([0-9]+)\nYou cannot collect Old Gemstones on this difficulty\.$"="Bono de Colección Base: x$1,$2.\nNo puedes obtener Gemas Preciosas Antiguas en esta dificultad."
+r:"^Basic Training Material Bonus x([0-9]+)\nOld Gemstone Collection Bonus x([0-9]+)$"="Bonificación de Material de Entrenamiento Básico x$1\nBonificación de Colección de Piedra Preciosa Antigua x$2"
+r:"^Basic Training Material Bonus x([0-9]+)\.([0-9]+)\nOld Gemstone Collection Bonus x([0-9]+)$"="Bonificación de Material de Entrenamiento Básico x$1,$2\nBonificación de Colección de Piedra Preciosa Antigua x$3"
+r:"^Basic Training Material Bonus x([0-9]+)\nOld Gemstone Collection Bonus x([0-9]+)\.([0-9]+)$"="Bonificación de Material de Entrenamiento Básico x$1\nBonificación de Colección de Piedra Preciosa Antigua x$2,$3"
+r:"^Basic Training Material Bonus x([0-9]+)\.([0-9]+)\nOld Gemstone Collection Bonus x([0-9]+)\.([0-9]+)$"="Bonificación de Material de Entrenamiento Básico x$1,$2\nBonificación de Colección de Piedra Preciosa Antigua x$3,$4"
 
 For every 1 Infatuation, decrease final damage dealt by 4%.=Por cada 1 acumulación de Amor Ciego, disminuye el daño final infligido en un 4%.
 Spiral of Desire is not removed over time. Also, decrease Defense of targets inflicted with Spiral of Desire for 2 turns.=Espiral de Deseo no se elimina con el tiempo.\nAdemás, disminuye la defensa de los objetivos infligidos con Espiral de Deseo durante 2 turnos.
@@ -1863,6 +2073,7 @@ PUPPET-Summer=PUPPET-Summer
 MARIAN-Summer=MARIAN-Summer
 BERRY=BERRY
 AKIHIKO=AKIHIKO
+SANADA=SANADA
 
 #Tártaro
 Yukari Takeba=Yukari Takeba
@@ -2106,6 +2317,7 @@ Complete 1 run of Tower of Darkness on any difficulty.=Completa 1 exploración e
 r:"^Complete ([0-9]) runs of Tower of Darkness on any difficulty\.$"="Completa $1 exploraciones en la Torre de la Oscuridad en cualquier dificultad."
 
 r:"^Defeat Sentinels #([0-9]+)$"="Derrota Centinelas #$1"
+r:"^Defeat (\d+) Sentinels?$"="Derrota a $1 Centinela"
 Defeat 1 Sentinel in Tower of Darkness.=Derrota 1 Centinela en la Torre de la Oscuridad.
 r:"^Defeat ([0-9]+) Sentinels in Tower of Darkness\.$"="Derrota $1 Centinelas en la Torre de la Oscuridad."
 
@@ -2162,18 +2374,6 @@ r:"^Find Missing Persons #([0-9]+)$"="Encontrar Personas Desaparecidas #$1"
 r:"^Find 1 missing person in Tower of Darkness\. \(([0-1])/([0-1])\)$"="Encuentra 1 persona desaparecida en la Torre de la Oscuridad. ($1/$2)"
 r:"^Find ([0-9]+) missing persons in Tower of Darkness\. \(([0-9]+)/([0-9]+)\)$"="Encuentra $1 personas desaparecidas en la Torre de la Oscuridad. ($2/$3)"
 
-#Misiones Paulownia
-Head to Port Island=Ir al Isla del Puerto
-Find Be Blue V=Encontrar Ser azul V
-r:"^Win (\d+) prizes from crane games$"="Gana $1 premios en los máquinas de gancho"
-r:"^Complete (\d+) City Life activities in Paulownia Mall$"="Completa $1 actividades de Vida Urbana en Centro Comercial Paulownia"
-Unlock "Help out at the police station" in City Life=Desbloquear "Ayudar en la estación de policía" en Vida Urbana
-Unlock "Help out at Aohige Pharmacy" in City Life=Desbloquear "Ayudar en la Farmacia Aohige" en Vida Urbana
-Unlock "Make a wish at the fountain" in City Life=Desbloquear "Pide un deseo en la fuente" en Vida Urbana
-Unlock "Work at Chagall café" in City Life=Desbloquear "Trabajar en la Cafetería Chagall" en Vida Urbana
-Find Mandragora=Encuentrar Mandragora
-Enter the Alleyway=Entrar al callejón
-Find Club Escapade=Encontrar Club Escapade
 
 #Exploracion
 Will=Voluntad
@@ -2339,6 +2539,22 @@ After 2 turns, use Wild Assault.=Después de 2 turnos, usa Asalto salvaje.
 
 Weaknesses and resistances are different than normal.\nA Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.=Las Debilidades y Resistencias son diferentes de lo normal.\nUna Sombra que deambula por los pasillos del Tártaro.\nAtaca a cualquier humano que entre en sus dominios.
 
+Priestess of Desire=Sacerdotisa del Deseo
+Ice Storm=Tormenta de Hielo
+Invitation to Chaos=Invitación al Caos
+Writhing Tiara=Tiara Serpenteante
+r:"^Will escape after (\d+) turns\.\.\.$"="Escapará en $1 turnos..."
+r:"^Will escape after (\d+) turn\.\.\.$"="Escapará en $1 turno..."
+Time has been extended!=¡Tiempo aumentado!
+1. At the start of battle, Priestess of Desire imposes a time limit on the battle. When the time runs out, the battle is lost.\n2. Each time Priestess of Desire uses Invitation to Chaos, the remaining time is significantly reduced. Also, Priestess of Desire summons multiple Shadows, then becomes untargetable. When all of the summoned Shadows have either escaped or been defeated, Priestess of Desire will no longer be untargetable.\n3. After a summoned Shadow runs away, Priestess of Desire will start using Dogmatic Judgment every turn. Dogmatic Judgment's damage increases based on how many Shadows have run away.=1. Al inicio del combate, la Sacerdotisa del Deseo establece un límite de tiempo para la batalla. Si el tiempo se agota, la partida se dará por perdida.\n2. Cada vez que la Sacerdotisa del Deseo utiliza Invitación al Caos, el tiempo restante se reduce considerablemente. Además, invoca a varias Sombras y se vuelve inmune a ser seleccionada como objetivo. Cuando todas las Sombras invocadas huyan o sean derrotadas, la Sacerdotisa del Deseo volverá a ser vulnerable.\n3. Si una Sombra invocada huye, la Sacerdotisa del Deseo comenzará a usar Juicio Dogmático en cada turno. El daño de Juicio Dogmático aumenta según la cantidad de Sombras que hayan escapado.
+1. At the start of battle, Priestess of Desire imposes a time limit on the battle. When the time runs out, the battle is lost.\n2. Each time Priestess of Desire uses Invitation to Chaos, the remaining time is significantly reduced. Also, Priestess of Desire summons multiple Shadows, then becomes untargetable. When all of the summoned Shadows have either escaped or been defeated, Priestess of Desire will no longer be untargetable.\n3. After a summoned Shadow has been defeated, the time limit is extended, but some remaining Shadows will escape after a certain number of turns.\n4. After a summoned Shadow runs away, Priestess of Desire will start using Dogmatic Judgment every turn. Dogmatic Judgment's damage increases based on how many Shadows have run away.=1. Al inicio del combate, la Sacerdotisa del Deseo establece un límite de tiempo para la batalla. Si el tiempo se agota, la partida se dará por perdida.\n2. Cada vez que la Sacerdotisa del Deseo utiliza Invitación al Caos, el tiempo restante se reduce considerablemente. Además, invoca a varias Sombras y se vuelve inmune a ser seleccionada como objetivo. Cuando todas las Sombras invocadas huyan o sean derrotadas, la Sacerdotisa del Deseo volverá a ser vulnerable.\n3. Al derrotar a una Sombra invocada, el límite de tiempo se extenderá, pero algunas de las Sombras restantes escaparán tras un determinado número de turnos.\n4. Si una Sombra invocada huye, la Sacerdotisa del Deseo comenzará a usar Juicio Dogmático en cada turno. El daño de Juicio Dogmático aumenta según la cantidad de Sombras que hayan escapado.
+The healing effect of Media is increased by 30%, and each time it is used, the target's Defense is increased by a fixed amount.=El efecto de curación de Media aumenta en un 30%, y cada vez que se usa, la defensa del objetivo aumenta en una cantidad fija.
+The time limit imposed at the start of battle is reduced by 3 minutes.=El límite de tiempo establecido al inicio del combate se reduce en 3 minutos.
+The remaining time limit, which increases each time a summoned Shadow is defeated, is reduced.=El límite de tiempo restante, que aumenta cada vez que un Sombra invocado es derrotado, se reduce.
+When Dogmatic Judgment is used, the damage increase effect is enhanced for each Shadow that has escaped.=Cuando se usa Juicio dogmático, el efecto de aumento de daño se potencia por cada Sombra que haya escapado.
+When Invitation to Chaos is used, the remaining time limit will be reduced more.=Cuando se usa Invitación al Caos, el límite de tiempo restante se reducirá aún más.
+
+
 Grave Beetle=Escarabajo de Tumba
 Precious Hand=Mano Preciosa
 Magic Hand=Mano Mágica
@@ -2370,6 +2586,11 @@ Bestial Wheel=Rueda Bestial
 Phantom Mage=Mago Fantasma
 Wild Beast=Bestia Salvaje
 Venus Eagle=Águila Venus
+
+High Priestess: Waning Crescent=Suma Sacerdotisa: Luna Menguante
+High Priestess: New Moon=Suma Sacerdotisa: Luna nueva
+High Priestess: Waxing Crescent=Suma Sacerdotisa: Luna Creciente
+Wheel of Time: Waxing Gibbous=Rueda del tiempo: Luna Gibosa Creciente
 
 Avenger Knight=Caballero Vengador
 1. Avenger Knight will continuously summon Shadows, and grants Steel Pride. For every 1 Steel Pride stack, Defense increases by 5%.\n2. Avenger Knight and summoned Shadows gain 1 Steel Pride at the end of their turn.\n3. When a summoned Shadow is defeated, all Steel Pride stacks from that Shadow are removed.\n4. Avenger Knight will spend Steel Pride granted to Shadows to enhance the effect of Condemnation of Pride.=1. El Caballero Vengador invocara Sombras continuamente y les otorgara Orgullo de Acero. Por cada acumulación de Orgullo de Acero, incrementa la Defensa en 5%.\n2. El Caballero Vengador y las Sombras invocadas obtienen 1 Orgullo de Acero al terminar su turno.\n3. Cuando una Sombra invocada es derrotada, todas las acumulaciones de Orgullo de Acero de esa Sombra son eliminadas.\n4. El Caballero Vengador usará los Orgullos de Acero otorgados a las Sombras para mejorar los efectos de Condenación del Orgullo.
@@ -2445,7 +2666,7 @@ Inflicted with Infatuation...=Infligido con Amor Ciego...
 Lose 1 stack when healing is received.=Pierde 1 acumulación cuando se recibe curación.
 Spiral of Desire=Espiral de Deseo
 S<color\=#000000>p</color>iral of Desire=E<color\=#000000>s</color>piral de Deseo
-Inflicted with Infatuation...=Infligido con Espiral de Deseo...
+Inflicted with Spiral of Desire...=Infligido con Espiral de Deseo...
 Recovered from Spiral of Desire!=¡Recuperado de Espiral de Deseo!
 At the start of turn, if any foes have reached 5, 10 or 15 total Infatuation stacks for the first time, spend 5 Infatuation stacks of one of the foes that meet the conditions to inflict them with Spiral of Desire for 2 turns. When this ailment is active, the target is unable to act.=Al comienzo del turno, si cualquier enemigo alcanzo 5, 10 o 15 acumulaciones totales de Amor Ciego, gasta 5 acumulaciones de Amor Ciego de uno de los enemigos que cumplen las condiciones y les inflinge Espiral de Deseo por 2 turnos. Cuando esta dolencia está activa, el objetivo es incapaz de actuar.
 Painful Pleasure=Placer Doloroso
@@ -3205,14 +3426,22 @@ Makoto Yuki reached Transcended Awareness.\nTranscended Awareness Effect: At the
 Transcended Awareness: At the start of each turn, Theurgy gauge is restored by an additional 15. When damage is dealt with a skill 3 or more times, final damage is increased by 30%.=Conciencia Trascendida: Al comienzo de cada turno, la barra de Teúrgia se restaura adicionalmente en 15. Cuando se hace daño 3 o más veces con una habilidad, el daño final incrementa en 30%.
 
 #Yukari Takeba
-Raise Yukari Takeba to Awareness 1.\nAwareness 1 Effect: At the start of battle, gain up to the maximum number of Whisperwind stacks, and fill Theurgy gauge by 70. If the Theurgy gauge is increased above the maximum on the first turn, up to 35 above the maximum can be reserved.\nAlso, when using a skill on an ally, increase the main target's pierce rate by 20% more for 2 turns. If using Tailwind's Breath, restore 1200 more HP to all allies, and restore 30% more HP to the main target.=Aumenta la Conciencia de Yukari Takeba a 1.\nEfecto de Conciencia 1: Al inicio de la batalla, obtiene hasta el número máximo de acumulaciones de Susurro del Viento y llena el indicador de Teúrgia en 70. Si el indicador de Teúrgia aumenta por encima del máximo en el primer turno, se pueden reservar hasta 35 por encima del máximo.\nAdemás, al usar una habilidad en un aliado, aumenta la tasa de perforación del objetivo principal en un 20% más durante 2 turnos. Si usa Aliento de Viento a Favor, restaura 1200 más de PS a todos los aliados y restaura un 30% más de PS al objetivo principal.
-Raise Yukari Takeba to Awareness 2.\nAwareness 2 Effect: When activating a Theurgy, nullify spiritual ailments on Yukari, and also increase party's critical damage by 30%. Lasts for 2 turns.=Aumenta la Conciencia de Yukari Takeba a 2.\nEfecto de Conciencia 2: Al activar una Teúrgia, anula las dolencias espirituales de Yukari y también aumenta el daño crítico del grupo en un 30%. Dura 2 turnos.
-Raise Yukari Takeba to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Gale Burst and Arrow of Life by 3.=Aumenta la Conciencia de Yukari Takeba a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Ráfaga de Viento y Flecha de la Vida en 3.
-Raise Yukari Takeba to Awareness 4.\nAwareness 4 Effect: When using a Theurgy, also restore HP to the ally with the lowest HP by 5% of Yukari's Attack + 500, and also increase party's damage by 10% for 2 turns.=Aumenta la Conciencia de Yukari Takeba a 4.\nEfecto de Conciencia 4: Al usar una Teúrgia, también restaura PS al aliado con los PS más bajos en una cantidad igual al 5% del Ataque de Yukari + 500, y también aumenta el daño del grupo en un 10% durante 2 turnos.
-Raise Yukari Takeba to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Tailwind's Breath and Combat Tactics by 3.=Aumenta la Conciencia de Yukari Takeba a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Aliento de Viento a Favor y Tácticas de Combate en 3.
-Raise Yukari Takeba to Awareness 6.\nAwareness 6 Effect: Double the Theurgy gauge increase from Arrow of Life.\nAlso, when an ally uses a Theurgy, increase critical damage by 30% for 2 turns.=Aumenta la Conciencia de Yukari Takeba a 6.\nEfecto de Conciencia 6: Duplica el aumento del indicador de Teúrgia de Flecha de la Vida.\nAdemás, cuando un aliado usa una Teúrgia, aumenta el daño crítico en un 30% durante 2 turnos.
-Yukari Takeba reached Transcended Awareness.\nTranscended Awareness Effect: When Whisperwind stacks are spent from Arrow of Life, the target of the additional effect changes to all allies.=Yukari Takeba alcanza la Conciencia Trascendida.\nEfectos de la Conciencia Trascendida: Cuando se gastan las acumulaciones de Susurro del Viento al usar Flecha de la Vida, el objetivo de los efectos adicionales cambia a todos los aliados.
-Transcended Awareness: When Whisperwind stacks are spent from Arrow of Life, the target of the additional effect changes to all allies.=Conciencia Trascendida: Cuando se gastan las acumulaciones de Susurro del Viento al usar Flecha de la Vida, el objetivo de los efectos adicionales cambia a todos los aliados.
+Raise Yukari Takeba to Awareness 1.\nAwareness 1 Effect: At the start of battle, gain up to the maximum number of Whisperwind stacks, and fill Theurgy gauge by 70. If the Theurgy gauge is increased above the maximum on the first turn, up to 35 above the maximum can be reserved. Also, when using a skill on an ally, increase the main target's pierce rate by 20% more for 2 turns. If using Tailwind's Breath, restore 1200 more HP to all allies, and restore 30% more HP to the main target.=Aumenta la Conciencia de Yukari Takeba a 1.\nEfecto de Conciencia 1: Al comienzo de la batalla, obtienes el máximo número de acumulaciones de Susurro del Viento, y llena la barra de Teúrgia en 70. Si la barra de Teúrgia se llena por encima del límite en el primer turno, se puede reservar hasta 35 puntos extra. También, al usar una habilidad en un aliado, incrementa la Tasa de Perforación del objetivo principal en un 20% más por 2 turnos. Si usas Aliento del Viento de Cola, restaura 1200 de PS más a todos los aliados, y recupera un 30% más al objetivo principal.
+Raise Yukari Takeba to Awareness 2.\nAwareness 2 Effect: When activating a Theurgy, nullify spiritual ailments on Yukari, and also increase party's critical damage by 30%. Lasts for 2 turns.=Aumenta la Conciencia de Yukari Takeba a 2.\nEfecto de Conciencia 2: Cuando se activa una Teúrgia, nulifica las Dolencias Espirituales en Yukari, y además incrementa el Daño Crítico del equipo en un 30%. Dura por 2 turnos.
+Raise Yukari Takeba to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Gale Burst and Arrow of Life by 3.=Aumenta la Conciencia de Yukari Takeba a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Explosión de Vendaval y Flecha de Vida en 3.
+Raise Yukari Takeba to Awareness 4.\nAwareness 4 Effect: When using a Theurgy, also restore HP to the ally with the lowest HP by 5% of Yukari's Attack + 500, and also increase party's damage by 10% for 2 turns.=Aumenta la Conciencia de Yukari Takeba a 4.\nEfecto de Conciencia 4: Cuando usas una Teúrgia, también curas al aliado con los PS más bajos por un 5% del Ataque de Yukari + 500, y además incrementas el daño del equipo en un 10% por 2 turnos.
+Raise Yukari Takeba to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Tailwind's Breath and Combat Tactics by 3.=Aumenta la Conciencia de Yukari Takeba a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Aliento del Viento de Cola y Tácticas de Combate en 3.
+Raise Yukari Takeba to Awareness 6.\nAwareness 6 Effect: Double the Theurgy gauge increase from Arrow of Life.\nAlso, when an ally uses a Theurgy, increase critical damage by 30% for 2 turns.=Aumenta la Conciencia de Yukari Takeba a 6.\nEfecto de Conciencia 6: Duplica la cantidad de barra de Teúrgia otorgada por Flecha de Vida. Además, cuando un aliado usa una Teurgia, aumenta el Daño Crítico en un 30% durante 2 turnos.
+Yukari Takeba reached Transcended Awareness.\nTranscended Awareness Effect: When Whisperwind stacks are spent from Arrow of Life, the target of the additional effect changes to all allies.=Yukari Takeba alcanza la Conciencia Trascendida.\nEfectos de la Conciencia Trascendida: Cuando se gastan las acumulaciones de Susurro del Viento al usar Flecha de Vida, el objetivo de los efectos adicionales cambia a todos los aliados.
+Transcended Awareness: When Whisperwind stacks are spent from Arrow of Life, the target of the additional effect changes to all allies.=Conciencia Trascendida: Cuando se gastan las acumulaciones de Susurro del Viento al usar Flecha de Vida, el objetivo de los efectos adicionales cambia a todos los aliados.
+
+#Akihiko Sanada
+Raise Akihiko Sanada to Awareness 1.\nAwareness 1 Effect: At the start of battle, increase the Theurgy gauge by 70.\nWhen gaining Grit stacks, increase critical rate by 20%.=Aumenta la Conciencia de Akihiko Sanada a 1.\nEfecto de Conciencia 1: Al comienzo de la batalla, aumenta el indicador de Teúrgia en 70.\nAl obtener acumulaciones de Determinación, aumenta la probabilidad crítica en un 20%.
+Raise Akihiko Sanada to Awareness 2.\nAwareness 2 Effect: When dealing damage to downed foes, increase <link\="s|243"><u>Down Bonus</u></link> by 10%.\nAfter spending Mettle stacks to activate Flash Blow, increase Sanada's damage by 30% for 3 turns.=Aumenta la Conciencia de Akihiko Sanada a 2.\nEfecto de Conciencia 2: Al infligir daño a enemigos derribados, aumenta el <link\="s|243">Bono de Derribo</u></link> en un 10%.\nDespués de gastar acumulaciones de Bravura para activar Golpe Relámpago, aumenta el daño de Sanada en un 30% durante 3 turnos.
+Raise Akihiko Sanada to Awareness 3.\nAwareness 3 Effect: Increase the skill levels of Spark Impact and Lightning Fist by 3.=Aumenta la Conciencia de Akihiko Sanada a 3.\nEfecto de Conciencia 3: Aumenta los niveles de habilidad de Impacto Eléctrico y Puño Relámpago en 3.
+Raise Akihiko Sanada to Awareness 4.\nAwareness 4 Effect: When activating a Theurgy, increase critical damage by 50% (between a minimum of 300% and maximum of 400%).=Aumenta la Conciencia de Akihiko Sanada a 4.\nEfecto de Conciencia 4: Al activar una Teúrgia, aumenta el daño crítico en un 50% (entre un mínimo de 300% y un máximo de 400%).
+Raise Akihiko Sanada to Awareness 5.\nAwareness 5 Effect: Increase the skill levels of Blitzkrieg and Combat Tactics by 3.=Aumenta la Conciencia de Akihiko Sanada a 5.\nEfecto de Conciencia 5: Aumenta los niveles de habilidad de Guerra Relámpago y Táctica de Combate en 3.
+Raise Akihiko Sanada to Awareness 6.\nAwareness 6 Effect: At the start of battle, gain 6 Mettle stacks. The maximum number of Mettle stacks is increased to 18. Also, for each Grit stack gained, increase Sanada's damage by 8%. The maximum number of Grit stacks is increased to 4.\nWhen spending Grit to use Lightning Fist, also activate Finishing Blow 1 time.\nFinishing Blow: Based on the number of Grit stacks spent during Sanada's turn, deal Electric damage to all foes equal to 13.5% of Attack for each stack, with <link\="s|244"><u>Ignore Defense</u></link>. This skill is counted as a Resonance, and is guaranteed to activate a critical. Also, gain 1 Grit stack.=Aumenta la Conciencia de Akihiko Sanada a 6.\nEfecto de Conciencia 6: Al comienzo de la batalla, obtienes 6 acumulaciones de Bravura. El número máximo de acumulaciones de Bravura aumenta a 18. Además, por cada acumulación de Determinación obtenida, aumenta el daño de Sanada en un 8%. El número máximo de acumulaciones de Determinación aumenta a 4.\nAl gastar Determinación para usar Puño relámpago, también se activa Golpe de Gracia 1 vez.\nGolpe de Gracia: Según la cantidad de acumulaciones de Determinación gastadas durante el turno de Sanada, inflige daño eléctrico a todos los enemigos equivalente al 13.5% del Ataque por cada acumulación, con <link\="s|244">Ignorar Defensa</u></link>. Esta habilidad se considera una Resonancia, y se garantiza que active un golpe crítico. Además, obtienes 1 acumulación de Determinación.
 
 #Minami Miyasita
 Raise Minami Miyashita to Awareness 1.\nAwareness 1 Effect: When healing allies above max HP, increase target's pierce rate by 20% for 2 turns.=Aumenta la Conciencia de Minami Miyashita a 1.\nEfecto de Conciencia 1: Al curar aliados por encima de sus PS máx., aumenta la tasa de perforación del objetivo en un 20% durante 2 turnos.

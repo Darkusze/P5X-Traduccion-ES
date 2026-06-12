@@ -148,6 +148,8 @@ r:"^Resets after\s+(\d+) h$"="Se reinicia después de $1 h"
 
 r:"^Resets after\s+(\d+) h (\d+) m$"="Se reinicia después de $1 h $2 m"
 
+r:"^Available after\s+(\d+)\s+d\s+(\d+)\s+h$"="Disponible en $1 d y $2 h"
+
 ++-------------VA Character----------------++
 
 r:"^VA:\\s+(.+)$"="VA: $1"
@@ -159,6 +161,8 @@ r:"^VA:\\s+(.+)$"="VA: $1"
 r:"^Lv(\d+) Thieves Den EXP Credit increased by (\d+)\nLv(\d+) Increases all allies' Defense by (\d+) \(takes effect in battle\)\.$"="Nv. $1 Crédito de EXP de la Guarida de Ladrones aumentado en $2\nNv. $3 Aumenta la Defensa de todos los aliados en $4 (En combate)."
 r:"^Lv(\d+) Increases all allies' Defense by (\d+) \(takes effect in battle\)\.\nNv(\d+) Increases damage in Gates of the Nightmare Catcher by ([\d.]+)% \(takes effect in battle\)\.$"="Nv. $1 Aumenta la Defensa de todos los aliados en $2 (En combate).\nNv. $3 Aumenta el daño en El Portal del Cazapesadillas en un $4% (En combate)."
 r:"^Lv(\d+) Increases Physical and Gun damage by ([\d.]+)% \(takes effect in battle\)\.\nNv(\d+) Grants (\d+) extra Konpaku Gems when you play Pursuit of Treasure\.$"="Nv. $1 Aumenta el daño Físico y de Arma a Distancia en un $2% (En combate).\nNv. $3 Otorga $4 Gemas Konpaku adicionales al jugar Persecución de Tesoros."
+r:"^Lv(\d+) Increases Fire and Psychokinesis damage by ([\d\.]+)% \(takes effect in battle\)\.\nLv(\d+) Increases ally damage dealt in the Realm of Repression by ([\d\.]+)% \(takes effect in battle\)\.$"="Nv$1 Aumenta el daño de Fuego y Psicoquinesis en un $2% (se aplica en combate).\nNv$3 Aumenta el daño infligido por los aliados en el Reino de la Represión en un $4% (se aplica en combate)."
+
 
 # ==========================================
 # VARIANTES GENERALES (LvX / NvX)
@@ -272,6 +276,8 @@ r:"{{A}}'s Almighty damage is increased by (\d+)%\."="El daño de Todopoderoso d
 
 ++------------Mail-----------------++
 r:"^Your\s+current\s+star\s+level\s+in\s+the\s+Velvet\s+Trials\s+is\s+(\d+)\.\\nYour\s+(\d+)\s+days\s+of\s+unclaimed\s+rewards\s+have\s+been\s+delivered\s+to\s+you\s+via\s+this\s+message\.$"="Tu nivel actual en las Pruebas del Terciopelo es $1. Te hemos enviado $2 día(s) de recompensas no reclamadas a través de este mensaje."
+Met by Moonlight: Pierce the Night Sky Ending Soon=Encontrado por la Luz de la Luna: Perfora el Cielo Nocturno, finaliza pronto
+The Masks We Wear: Phase 1 Ending Soon=Las Máscaras que llevamos: parte 1 Termina Pronto
 
 ++------------Fechas-----------------++
 r:"^Date\s+received:\s+Jan\s+(\d+),\s+(\d+)$"="Fecha de recepción: $1 de enero de $2"
@@ -506,7 +512,7 @@ r:"^\(Paid:\s+(\d+)\)$"="(Pagado: $1)"
 r:"^Unlocks at Lv\\. (\\d+)$"="Se desbloquea en Nv. $1"
 r:"^Lv\\.(\\d+)$"="Nv.$1"
 r:"^EXP:\s+(\d+)\s*$"="EXP: $1"
-r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.6.1\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
+r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.6.3\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
 r:"^Fusion\s+will\s+produce\s+(\d+)\s+<color\=#FF423F>(.+?)'s\s+Seal</color>\.\s*$"="La fusión producirá $1 <color\=#FF423F>Sello de $2</color>."
 r:"^Phantom Thief level cap increased to \\n<color\=#FFF000>Lv\\. (\\d+)</color>\\.$"="El límite de nivel de Ladrones Fantasma ha aumentado a \n<color\=#FFF000>Lv. $1</color>."
 Meta Jewels will be spent.=Se gastarán las Meta gemas.
@@ -809,6 +815,11 @@ r:"Insight raised to Lv\. (\d+)\."="Perspicacia subida al Nv. $1."
 r:"^Path Of Kaitul Area (\d+)$"="Camino de Kaitul Área $1"
 r:"^Explore (.+)'s Palace$"="Explora el Palacio de $1"
 r:"^Next Talent: {{A}} Lv\. (\d+)$"="Siguiente Talento: {{A}} Nv. $1"
+T<color\=#ff0000ff>h</color>e Velvet Trials=L<color\=#ff0000ff>a</color>s Pruebas de Terciopelo
+A special crystal used to forge Sipario.=Un cristal especial usado para forjar Sipario.
+This dish can only be eaten in the Metaverse.=Este plato solo se puede comer en el Metaverso.
+Dauntless was changed to Lionhearted=Valiente se cambió a Corazón de León
+
 
 ++----Metro----++
 r:"Clear Difficulty (\d+) with (?:a|an) <link\=(.+?)><u>Curse Formation</u></link>"="Completa la dificultad $1 con una <link\=$2><u>Formación de Maldición</u></link>"
@@ -860,7 +871,23 @@ r:"Sale Ends: Nov (\d+), (\d+) ([\d:]+)"="Fin de la venta: $1 de noviembre de $2
 r:"Sale Ends: Dec (\d+), (\d+) ([\d:]+)"="Fin de la venta: $1 de diciembre de $2 $3"
 r:"Sales End:\s+(\d+) h (\d+) m"="Ventas finalizan: $1 h $2 m"
 
-
++--Mementos--+
+S<color\=#ff0000ff>h</color>imotsuna's Palace=P<color\=#ff0000ff>a</color>lacio de Shimotsuna
+You can now quick travel to the\n<color\=#ff3b37>Path of Kaitul Area 1</color>.=Ahora puedes usar el viaje rápido al\n<color\=#ff3b37>Camino de Kaitul Área 1</color>.
+You can now quick travel to the\n<color\=#ff3b37>Path of Kaitul Area 2</color>.=Ahora puedes usar el viaje rápido al\n<color\=#ff3b37>Camino de Kaitul Área 2</color>.
+You can now quick travel to the\n<color\=#ff3b37>Path of Kaitul Area 3</color>.=Ahora puedes usar el viaje rápido al\n<color\=#ff3b37>Camino de Kaitul Área 3</color>.
+You can now quick travel to the\n<color\=#ff3b37>Path of Kaitul Area 4</color>.=Ahora puedes usar el viaje rápido al\n<color\=#ff3b37>Camino de Kaitul Área 4</color>.
+You can now quick travel to the\n<color\=#ff3b37>Path of Kaitul Area 5</color>.=Ahora puedes usar el viaje rápido al\n<color\=#ff3b37>Camino de Kaitul Área 5</color>.
+You can now quick travel to the\n<color\=#ff3b37>Path of Kaitul Area 6</color>.=Ahora puedes usar el viaje rápido al\n<color\=#ff3b37>Camino de Kaitul Área 6</color>.
+Kaitul Ticket=Boleto Kaitul
+r:"^Kaitul Ticket x(\d+) submitted\.$"="Ticket Kaitul x$1 enviado."
+The Path to Virtue=El Camino a la Virtud
+Go Up=Subir
+Taking the High Road=Tomando el Camino Alto
+r:"^It seems this area will be unlocked at Path of Kaitul Ticket Lv\. (\d+)\. We should submit more tickets in the Fare Machine\.$"="Parece que esta zona se desbloqueará en el nivel $1 del Billete del Camino de Kaitul. Deberíamos enviar más tickets en la maquinaria de viaje."
+On the Road to Righteousness=En el Camino de la Rectitud
+Virtue Off the Beaten Path=Virtud en el Camino Menos Transitado
+Also known as the Stone of Destiny, it is a stone used in the coronations of Scotland's monarchs. Legends say the stone is linked to angels.=También conocida como la Piedra del Destino, es una piedra utilizada en las coronaciones de los monarcas escoceses. Leyendas afirman que la piedra está ligada a los ángeles.
 
 
 +--Canjeo de cajas--+
@@ -894,7 +921,7 @@ Do you want to advance time until it's Clear and Night to start the mission?=¿Q
 
 ++----Wp For----++
 Ryuji Only=Sólo Para Ryuji
-Nagisa Only=Sólo Para Nagisa
+{{A}} Only=Sólo Para {{A}}
 Ann Only=Sólo Para Ann
 Tomoko Only=Sólo Para Tomoko
 Ren Only=Sólo Para Ren
@@ -932,6 +959,10 @@ Akechi Only=Sólo para Akechi
 Manaka Only=Sólo Para Manaka
 Yukari Only=Sólo Para Yukari
 Akihiko Only=Sólo Para Akihiko
+Sanada Only=Sólo Para Sanada
+Ichigo Only=Sólo Para Ichigo
+Katayama Only=Sólo Para Katayama
+Kirijo Only=Sólo Para Kirijo
 
 ++----Efecto de Armonía (Composiciones de Equipos)----++
 
@@ -983,6 +1014,8 @@ r:"Play against ([^ ]+) and become Tycoon\. \((\d+)/(\d+)\)"="Juega contra $1 y 
 r:"Play a pair (\d+) times\. \((\d+)/(\d+)\)"="Juega un par $1 veces. ($2/$3)"
 
 On days 2 and 3 of the event, the daily Tycoon Medal Cap is raised by 600 each day.\nIf you play 1 Round, you will receive 80 Tycoon Medals when rewards are tallied.\nIf you play 3 Rounds, you will receive 200 Tycoon Medals when rewards are tallied.\nIf you play in Ranked Match, you will receive 200 Tycoon Medals when rewards are tallied.=En los días 2 y 3 del evento, el límite diario de Medallas de Tycoon aumenta en 600 cada día.\nSi juegas 1 ronda, recibirás 80 Medallas de Tycoon cuando se contabilicen las recompensas.\nSi juegas 3 rondas, recibirás 200 Medallas de Tycoon cuando se contabilicen las recompensas.\nSi juegas en una Partida Clasificatoria, recibirás 200 medallas Tycoon cuando se calculen las recompensas.
+
+Tycoon is a 4-player card game.\nTo win the game, you must get rid of all your cards before the other players.\n\n<color\=#FFD145>Arena Mode</color>\nIn Solo Mode, you can play against a CPU with a customizable difficulty and choose to play either 1 or 3 games for each match.\n\n In Ranked Match, play against other players, with every match consisting of three games.=Tycoon es un juego de cartas de 4 jugadores.\nPara ganar la partida, debes deshacerte de todas tus cartas antes que los demás jugadores.\n\n<color\=#FFD145>Modo Arena</color>\nEn el Modo en solitario, puedes jugar contra la CPU con una dificultad personalizable y elegir jugar 1 o 3 partidas por cada encuentro.\n\n En la Partida de clasificación, juegas contra otros jugadores, y cada encuentro consta de tres partidas.
 
 ++-------------UI Habitación Terciopelo-----------------++
 r:"^Fuse\s+(\d+)\s+Rank\s+(.+?)\s+Persona\s+of\s+(\d+).?\s*rarity\s*$"="Fusiona $1 Persona de rango $2 con rareza de $3★."
@@ -1077,6 +1110,8 @@ r:"^Increase\\s+HP\\s+by\\s+(\\d+)\\.\\nIncrease\\s+Attack\\s+by\\s+(\\d+)\\.$"=
 r:"^Increase\\s+HP\\s+by\\s+(\\d+)\\.\\nIncrease\\s+Attack\\s+by\\s+(\\d+)\\.\\nIncrease\\s+Defense\\s+by\\s+(\\d+)\\.$"="Aumenta los PS en $1.\nAumenta el Ataque en $2.\nAumenta la Defensa en $3."
 
 ++-------------Logros-----------------++
+Nothing's Back Here=Aquí no hay nada
+Wishing Fountain=Fuente de los Deseos
 r:"Unlock all of ([\w\s]+)'s voice lines\."="Desbloquea todas las líneas de voz de $1."
 r:"Ask for backup support from Support Phantom Thieves (\d+) times\. <size\=30>\((\d+)/(\d+)\)</size>"="Solicita apoyo de los Ladrones Fantasma de soporte $1 veces. <size\=30>($2/$3)</size>"
 r:"Deal over ([\d,]+) damage during battle\. <size\=30>\(([\d,]+)/([\d,]+)\)</size>"="Inflige más de $1 de daño durante la batalla. <size\=30>($2/$3)</size>"
@@ -1199,6 +1234,32 @@ Unlock the event Met by Moonlight: Luminous Island. =Desbloquea el evento Encont
 To the Moon and Back=De ida y Vuelta a la Luna
 The Real Homewrecker=El Verdadero Rompehogares
 La vita ardente!=¡La vita ardiente!
+Clear the event Met by Moonlight: Pierce the Night Sky.=Completa el evento Encuentro a la Luz de la Luna: Perfora el Cielo Nocturno
+Road Without Markers=Camino sin Señales.
+Begin the event Met by Moonlight: Pierce the Night Sky.=Comienza el evento Encuentro a la Luz de la Luna: Perfora el Cielo Nocturno.
+Witness the fourth Phantom Thief's awakening. =Sé testigo del despertar del cuarto Ladrón Fantasma
+Help uncover the truth behind Shoki's Mother's absence. =Ayuda a descubrir la verdad detrás de la ausencia de la madre de Shoki.
+Enjoy a bowl of delicious ramen with Shoki Ikenami.=Disfruta de un gyudon delicioso con Shoki Ikenami.
+Go with Aran to Shubunsha to gather information. =Ve con Aran a Shubunsha para averiguar información.
+r:"^Begin the event Met by Moonlight: Strike like Lightning\.<size\=30>\((\d+)\/(\d+)\)</size>$"="Comienza el evento Encuentro a la Luz de la Luna: Golpea como un Rayo.<size\=30>($1/$2)</size>"
+r:"^Clear the event Met by Moonlight: Strike like Lightning\.<size\=30>\((\d+)\/(\d+)\)</size>$"="Completa el evento Encuentro a la Luz de la Luna: Golpea como un Rayo.<size\=30>($1/$2)</size>"
+I Will Find You=Te encontraré.
+Explore the back alley in Paulownia Mall.=Explora el callejón trasero en el Centro Comercial Paulownia.
+Check the fountain in Paulownia Mall.=Revisa la fuente en el centro comercial Paulownia.
+Open 50 treasure chests in the fourth Palace. =Abre 50 Demonios del Tesoro en el cuarto Palacio.
+Submit 100 tickets in the Path Of Kaitul. =Entrega 100 boletos en el Camino de Kaitul.
+r:"^Destroy (\d+) search objects in the second half of the third Palace\. <size\=30>\((\d+)\/(\d+)\)</size>$"="Destruye $1 objetos de búsqueda en la segunda mitad del tercer Palacio.<size\=30>($2/$3)</size>"
+Submit 2,000 tickets in the Path Of Kaitul. =Entrega 2,000 boletos en el Camino de Kaitul.
+Drive 10,000 m in the Cattlemobile. =Conduce 10.000 m en el Cattlemóvil.
+Drive 1,000 m in the Cattlemobile. =Conduce 1000 m en el Cattlemóvil.
+Student Driver=Conductor Novato
+Submit 5,000 tickets in the Path Of Kaitul. =Entrega 5,000 boletos en el Camino de Kaitul.
+Submit 10,000 tickets in the Path Of Kaitul. =Entrega 10,000 boletos en el Camino de Kaitul.
+Open a treasure chest in the fourth Palace. =Abre un cofre del tesoro en el cuarto Palacio.
+Open 20 treasure chests in the fourth Palace. =Abre 20 cofres del tesoro en el cuarto Palacio.
+
+
+
 
 ++-------------Eventos-----------------++
 r:"^Raise\s+Justine\s+&\s+Caroline\s+to\s+Lv\.\s+(\d+)\.$"="Sube a Justine y Caroline a Nv. $1."
@@ -1578,6 +1639,8 @@ r:"Defeat (\d+) Savage Shadows in the fourth Palace \((\d+)/(\d+)\)"="Derrota a 
 r:"Clear (\d+) City Adventure missions \((\d+)/(\d+)\)"="Completa $1 misiones de Aventura en la Ciudad ($2/$3)"
 r:"^Clear (\d+) Visions of Ruin missions \((\d+)/(\d+)\)$"="Completa $1 misiones de Visiones de la Ruina ($2/$3)"
 r:"^Defeat an Agitated Shadow in Path of Kaitul \((\d+)/(\d+)\)$"="Derrota a una Sombra Agitada en el Camino de Kaitul ($1/$2)"
+r:"^Clear Priestess of Desire on difficulty (\d+) \((\d+)\/(\d+)\)$"="Completar Sacerdotisa del Deseo en dificultad $1 ($2/$3)"
+r:"^Clear Chapter (\d+) of Met by Moonlight: Strike like Lightning \((\d+)\/(\d+)\)$"="Completar el capítulo $1 de Encontrado por la Luz de la Luna: Golpea como un Rayo ($2/$3)"
 
 +--Marcos--+
 r:"^Phantom Pass season (\d+) Premium\+ reward\.$"="Recompensa de Pase Fantasma Premium+ de la temporada $1."
@@ -1701,6 +1764,8 @@ With powerful <color\=#FF423F>offensive capabilities</color>, Firecracker Yaolin
 
 1. Yukari specializes in <color\=#FF423F>healing</color> and <color\=#FF423F>buffing</color> allies. She also has the power to increase allies' Theurgy gauge.\n2. She can increase the party's <color\=#FF423F>Attack</color> and <color\=#FF423F>damage dealt</color>, greatly enhancing their attack capabilities in battle.\n3. She can use Cyclone Arrow to <color\=#FF423F>remove buffs from foes</color> and her Assist can <color\=#FF423F>remove debuffs from allies</color>, making her helpful in a variety of situations.=1. Yukari se especializa en <color\=#FF423F>curar</color> y <color\=#FF423F>potenciar</color> a los aliados. También tiene el poder de aumentar el indicador de Teurgia de su equipo.\n2. Puede aumentar el <color\=#FF423F>Ataque</color> y el <color\=#FF423F>daño infligido</color> por el grupo, lo que mejora considerablemente sus capacidades ofensivas en combate.\n3. Puede usar Flecha de Ciclón para <color\=#FF423F>eliminar las mejoras de los enemigos</color>, y su Asistencia puede <color\=#FF423F>eliminar efectos negativos (debuffs) de los aliados</color>, lo que la hace útil en una gran variedad de situaciones.
 
+1. Sanada has excellent <color\=#FF423F>offensive capabilities</color>, and can deal both <color\=#FF423F>Electric</color> and <color\=#FF423F>Physical damage</color>. Also, when dealing damage to downed foes, his <color\=#FF423F>damage is increased</color>.\n2. Sanada possesses a high <color\=#FF423F>critical rate</color> and <color\=#FF423F>critical damage</color>. His Theurgy can also inflict critical hits, allowing him to deal even higher damage.\n3. During battle, Sanada can spend Mettle stacks to unleash a <color\=#FF423F>Resonance</color> dealing Physical damage to foes. This can also effectively reduce foes' Down Points.=1. Sanada cuenta con excelentes <color\=#FF423F>capacidades ofensivas</color> y puede infligir tanto <color\=#FF423F>daño eléctrico</color> como <color\=#FF423F>daño físico</color>. Además, al atacar a enemigos derribados, su <color\=#FF423F>daño aumenta</color>.\n2. Sanada posee una alta <color\=#FF423F>probabilidad de crítico</color> y un gran <color\=#FF423F>daño crítico</color>. Su Teurgia también garantiza golpes críticos, lo que le permite infligir un daño aún mayor.\n3. En combate, Sanada puede gastar acumulaciones de Bravura para desatar una <color\=#FF423F>Resonancia</color> que inflige daño físico. Esto también reduce con eficacia los <color\=#FF423F>puntos de derribo</color> de los enemigos.
+
 ++-------------Tutoriales Eventos-----------------++
 r:"(?s)<color\=#FFD145>Collecting Keywords</color>\n• In the mission Answer Sheet, join (.+?) to solve puzzles.*?• Drag the keywords to the correct place and complete the puzzle\."="<color\=#FFD145>Recopilación de palabras clave</color>\n• En la misión Hoja de respuestas, únete a $1 para resolver acertijos en una búsqueda del tesoro que pondrá a prueba tu ingenio. Durante el evento, puedes consultar tu hoja de respuestas para ver las palabras clave que has recopilado.\n• Puedes reunir las palabras clave en cualquier orden, pero solo puedes aceptar una misión de palabra clave a la vez.\n• Habrá más historia disponible cuando hayas reunido 3, 6 y 9 palabras clave. No podrás recolectar la siguiente palabra clave hasta que hayas completado la nueva historia.\n• Recibirás inmediatamente las recompensas por recopilar palabras clave tras completar cada misión. No es necesario volver a la hoja de respuestas para reclamarlas.\n\n<color\=#FFD145>Completar el acertijo</color>\n• Tras recopilar todas las palabras clave, deberás ponerlas en el orden correcto para formar una oración.\n• Arrastra las palabras clave al lugar correcto y completa el acertijo."
 
@@ -1727,6 +1792,11 @@ r:"<color\=#FFD145>Basic\s+Rules</color>\s+Progress\s+through\s+Mementos\s+and\s
 During the event, when you participate in Ranked Match or Solo Mode of Tycoon, you can obtain Tycoon Medals, and earn rewards for obtaining certain amounts.\nThere is a limit to how many Tycoon Medals you can obtain. On days 2 and 3 of the event, the daily Tycoon Medal Cap is raised by 600 each day.=Durante el evento, al participar en Partida igualada o Modo solitario de Tycoon, puedes obtener Medallas de Tycoon y ganar recompensas al obtener ciertas cantidades.\nExiste un límite en la cantidad de Medallas de Tycoon que puedes obtener. En los días 2 y 3 del evento, el límite diario de Medallas de Tycoon aumenta en 600 cada día.
 
 <color\=#FFD145>Event Introduction</color>\nThe first new Persona 3 Reload special event Luminous Island includes 6 sub-events: Luminous Island, Tartarus, Recollections Under Moonlight, Login Bonus, Missions, and Exchange Shop.\n\n<color\=#FFD145>Event Duration</color>\nThis is a limited-time event.\nWhen the event is over, Luminous Island can still be played in Past Events.\n\n<color\=#FFD145>Tartarus</color>\nYou can earn rewards for exploring Tartarus. Tartarus is a permanent event and can still be played after the event ends.\n\n<color\=#FFD145>Recollections Under Moonlight</color>\nDefeat the boss to earn rewards.\n\n<color\=#FFD145>Login Bonus</color>\nLog in daily to claim login bonuses. Rewards will be unlocked sequentially according to your cumulative login days, and rewards for the day will refresh at 8 PM UTC.\n\n<color\=#FFD145>Missions</color>\nComplete set goals to earn a variety of rewards.\n\n<color\=#FFD145>Exchange Shop</color>\nTrade Wheels of Time: New Moon for a variety of items.\nWhen the event ends, the Exchange Shop will be closed and all unused Wheels of Time: New Moon will be converted into Konpaku Gems.=<color\=#FFD145>Introducción del evento</color>\nEl primer nuevo evento especial de Persona 3 Reload, Isla Luminosa, incluye 6 subeventos: Isla Luminosa, Tártaro, Recuerdos Bajo La Luz de la Luna, Bonificación de Inicio de Sesión, Misiones y Tienda de intercambio.\n\n<color\=#FFD145>Duración del evento</color>\nEste es un evento de tiempo limitado.\nCuando el evento termine, Isla Luminosa se podrá seguir jugando en Eventos pasados.\n\n<color\=#FFD145>Tártaro</color>\nPuedes obtener recompensas por explorar el Tártaro. El Tártaro es un evento permanente y se podrá seguir jugando después de que termine el evento.\n\n<color\=#FFD145>Recuerdos Bajo La Luz De La Luna</color>\nDerrota al jefe para obtener recompensas.\n\n<color\=#FFD145>Bonificación de inicio de sesión</color>\nInicia sesión diariamente para reclamar las bonificaciones de inicio de sesión. Las recompensas se desbloquearán secuencialmente según tus días de inicio de sesión acumulados, y las recompensas del día se actualizarán a las 8 PM UTC.\n\n<color\=#FFD145>Misiones</color>\nCompleta los objetivos establecidos para obtener una variedad de recompensas.\n\n<color\=#FFD145>Tienda de Intercambio</color>\nCanjea Ruedas del Tiempo: Luna nueva por una variedad de objetos.\nCuando el evento termine, la Tienda de intercambio se cerrará y todas las Ruedas del Tiempo: Luna nueva que no hayas usado se convertirán en Gemas Konpaku.
+
+Special Gift=Regalo Especial
+<color\=#FFD145>Event Rules</color>\nIn this event, you will be able to receive rewards based on the total number of days you logged in over the past year.\nLogin days are counted until June 26, 2026, and you will be able to start collecting rewards starting on that day.=<color\=#FFD145>Reglas del evento</color>\nEn este evento, podrás recibir recompensas según el número total de días que hayas iniciado sesión durante el último año. Se cuentan los días de inicio de sesión hasta el 26 de junio de 2026 y podrás empezar a recolectar las recompensas ese mismo día.
+
+<color\=#FFD145>Event Rules</color>\nLog in to the game every day to receive that day's rewards.=<color\=#FFD145>Reglas del evento</color>\nInicia sesión en el juego cada día para recibir las recompensas del día.
 
 ++-------------Combates enemigos-----------------++
 
@@ -1769,6 +1839,32 @@ Shadows have different weaknesses and resistances than normal.\n1. At the start 
 <color\=#FFD145>Event Rules</color>\n• Log in to the game every day to receive that day's rewards. =<color\=#FFD145>Reglas del evento</color>\n• Inicia sesión en el juego todos los días para recibir las recompensas del día. 
 
 <color\=#FFD145>Event Rules</color>\n• Log in to the game every day to receive that day's rewards.\n\n<color\=#FFD145>Event Rewards</color>\n• Rewards will be unlocked sequentially based on the total number of login days.\nDaily rewards are unlocked at 8 PM UTC.=<color\=#FFD145>Reglas del evento</color>\n• Inicia sesión en el juego todos los días para recibir las recompensas del día.\n\n<color\=#FFD145>Recompensas del evento</color>\n• Las recompensas se desbloquearán secuencialmente según el total de días de inicio de sesión. Las recompensas diarias se desbloquean a las 8 p. m. UTC.
+
+1. Principality randomly grants 1 of the following buffs to all Shadows except itself: Fully restore HP, nullify damage 1 time, or change affinities to Resist.\n2. At the start of its turn, Principality uses a skill with an affinity corresponding to other Shadows present.\n3. 1 turn after a summoned Shadow is defeated, Principality will resummon that Shadow at the end of its own turn.=Principado otorga aleatoriamente 1 de las siguientes mejoras a todas las Sombras excepto a sí mismo: restaurar por completo los PS, anular el daño 1 vez o cambiar las afinidades a Resiste.\n2. Al inicio de su turno, Principado usa una habilidad con una afinidad correspondiente a las otras Sombras presentes.\n3. 1 turno después de que una Sombra invocada sea derrotada, Principado volverá a invocar a esa Sombra al final de su propio turno.
+A general term for familiars used by Judeo-Christian magicians, they are usually sealed away in bottles, rings, or talismans. They torment the target selected by the conjuror.=Un término general utilizado por los magos judío-cristianos para referirse a sus familiarizadas, usualmente selladas en botellas, anillos o amuletos. Las atormentan al objetivo seleccionado por el conjurador.
+
+1. If summoned Shadows are present, Principality will use a skill with an affinity corresponding to them.\nIf Jack Frost is present, it will use <color\=#FF423F>Ice Age</color>.\nIf Jack-o'-Lantern is present, it will use <color\=#FF423F>Blazing Hell</color>.\nIf Agathion is present, it will use <color\=#FF423F>Wild Thunder</color>.\n2. When a summoned Shadow is defeated, Principality will resummon that Shadow after 1 turn.\n3. <color\=#FF423F>Seraph's Gift</color> grants 1 of 3 random <color\=#FF423F>buffs</color> to summoned Shadows: Fully restore HP, nullify damage 1 time, or change affinities to Resist.=1. Si hay Sombras invocadas presentes, Principado usará una habilidad con la afinidad correspondiente a ellas.\nSi Jack Frost está presente, usará Edad de Hielo.\nSi Jack-o'-Lantern está presente, usará <color\=#FF423F>Infierno Ardiente</color>.\nSi Agathion está presente, usará <color\=#FF423F>Trueno Salvaje</color>.\n2. Cuando una Sombra invocada es derrotada, Principado volverá a invocar a esa Sombra después de 1 turno.\n3. <color\=#FF423F>Regalo de Serafín</color> otorga 1 de 3 <color\=#FF423F>mejoras (buffs)</color> aleatorias a las Sombras invocadas: restaurar por completo los PS, anular el daño 1 vez o cambiar las afinidades a Resiste.
+S<color\=#000000>e</color>cond Blessing: Righteous Law=S<color\=#000000>e</color>gunda Bendición: Ley Justa
+Seraph's Gift=Regalo del Serafín
+
+When Lilim is defeated, it will be resummoned at the beginning of Lilith's turn.=Cuando Lilim sea derrotada, será invocada de nuevo al comienzo del turno de Lilith.
+1. Lilith summons Lilim at the start of battle. Also, it will use <color\=#FF423F>Spirit Leech</color> to drain SP from Phantom Thieves.\n2. Every 2 turns, Lilith deals damage with <color\=#FF423F>Forbidden Incantation</color>. Phantom Thieves take more damage based on how low their SP is.\n3. When a Phantom Thief defeats Lilim, restore 50 SP. When Lilim is defeated, it will be resummoned at the beginning of Lilith's turn.=Lilith invoca a Lilim al inicio de la batalla. Además, usará <color\=#FF423F>Sifón de Espíritu</color> para drenar los PE de los Ladrones Fantasma.\n2. Cada 2 turnos, Lilith inflige daño con <color\=#FF423F>Conjuro Prohibido</color>. Los Ladrones Fantasma reciben más daño cuanto más bajos sean sus PE.\n3. Cuando un Ladrón Fantasma derrota a Lilim, restaura 50 PE. Cuando Lilim sea derrotada, será invocada de nuevo al comienzo del turno de Lilith.
+Spirit Leech=Sifón de Espíritu
+
+1. When Lilim is defeated, Lilith will resummon Lilim.\n2. When using a skill that absorbs SP, Lilith gains <color\=#FF423F>Devouring Vortex</color> and increases damage dealt by 10%. This effect stacks.=1. Cuando Lilim sea derrotada, Lilith volverá a invocar a Lilim.\n2. Al usar una habilidad que absorbe PE, Lilith obtiene <color\=#FF423F>Vórtice Devorador</color> y aumenta el daño infligido en un 10%. Este efecto se acumula.
+1. At the start of battle, Lilith will summon Lamia and Lilim. Also, it will use <color\=#FF423F>Spirit Leech</color> to drain Phantom Thieves' SP.\n2. When using a skill that absorbs SP, gain 1 <color\=#FF423F>Devouring Vortex</color> stack.\nDevouring Vortex: Increase damage dealt by 10% for each stack.\n3. Every 2 turns, Lilith deals damage with <color\=#FF423F>Forbidden Incantation</color>. Phantom Thieves take more damage based on how low their SP is.\n4. Lamia's skills deal continuous damage to Phantom Thieves.\n5. When a Phantom Thief defeats Lilim, restore 50 SP. When Lilim is defeated, Lilith will re-summon Lilim at the start of its next turn.=1. Al inicio de la batalla, Lilith invocará a Lamia y a Lilim. Además, usará <color\=#FF423F>Sifón de Espíritu</color> para drenar los PE de los Ladrones Fantasma.\n2. Al usar una habilidad que absorbe PE, obtiene 1 acumulación de <color\=#FF423F>Vórtice Devorador</color>.\nVórtice Devorador: Aumenta el daño infligido en un 10% por cada acumulación.\n3. Cada 2 turnos, Lilith inflige daño con <color\=#FF423F>Conjuro Prohibido</color>. Los Ladrones Fantasma reciben más daño cuanto más bajos sean sus PE.\n4. Las habilidades de Lamia infligen daño continuo a los Ladrones Fantasma.\n5. Cuando un Ladrón Fantasma derrota a Lilim, restaura 50 PE. Cuando Lilim sea derrotada, Lilith volverá a invocar a Lilim al comienzo de su siguiente turno.
+D<color\=#000000>e</color>vouring Vortex=V<color\=#000000>ó</color>rtice Devorador
+Devouring Vortex=Vórtice Devorador
+Azure Brand=Marca azur
+A<color\=#000000>z</color>ure Brand=M<color\=#000000>a</color>rca Azur
+1. When using a skill that absorbs SP, gain <color\=#FF423F>Devouring Vortex</color> and increase damage dealt by 10%.\n2. When Lamia and Succubus are defeated, Lilith will spend Devouring Vortex stacks to summon them again at the end of its turn.\n3. When Lilith takes <color\=#FF423F>fatal damage</color>, it survives with 1 HP, gains 3 Devouring Vortex stacks, and summons Succubus. If Lilim and Lamia are not present, Lilith spends Devouring Vortex stacks to summon them. During this stage, Shadows will not be KO'd and will no longer gain Devouring Vortex, and 1 Devouring Vortex stack is removed each turn. When all Devouring Vortex stacks are removed, you will win the battle.=1. Al usar una habilidad que absorbe PE, obtiene <color\=#FF423F>Vórtice Devorador</color> y aumenta el daño infligido en un 10%.\n2. Cuando Lamia y Súcubo sean derrotadas, Lilith consumirá acumulaciones de Vórtice Devorador para volver a invocarlas al final de su turno.\n3. Cuando Lilith recibe <color\=#FF423F>daño letal</color>, sobrevive con 1 PS, obtiene 3 acumulaciones de Vórtice Devorador y convoca a Súcubo. Si Lilim y Lamia no están presentes, Lilith consumirá acumulaciones de Vórtice Devorador para invocarlas. Durante esta fase, las Sombras no serán derrotadas y ya no obtendrán Vórtice Devorador, y se eliminará 1 acumulación de Vórtice Devorador cada turno. Cuando se eliminen todas las acumulaciones de Vórtice Devorador, ganarás la batalla.
+1. At the start of battle, Lilith will summon Lamia and Lilim. Also, it will use <color\=#FF423F>Spirit Leech</color> to drain a Phantom Thief's SP.\n2. When using a skill that absorbs SP, Lilith will gain 1 <color\=#FF423F>Devouring Vortex</color> stack.\nDevouring Vortex: Increase damage dealt by 10% for each stack. Each time a Shadow is defeated, Lilith will spend 1 stack at the end of its turn to re-summon them.\n3. Every 2 turns, Lilith deals damage with <color\=#FF423F>Forbidden Incantation</color>. Phantom Thieves take more damage based on how low their SP is.\n4. When a Phantom Thief defeats Lilim, they restore 50 SP.\n 5. Lamia's skills deal continuous damage to Phantom Thieves.\n6. When Lilith takes <color\=#FF423F>fatal damage</color>, it survives with 1 HP, gains 3 Devouring Vortex stacks, and summons Succubus. If Lilim and Lamia are not present, it will spend Devouring Vortex stacks to summon them. During this stage, Shadows will not be KO'd and will no longer gain Devouring Vortex, and 1 Devouring Vortex stack is removed each turn. When all Devouring Vortex stacks are removed, you will win the battle.=1. Al inicio de la batalla, Lilith invocará a Lamia y a Lilim. Además, usará <color\=#FF423F>Sifón de Espíritu</color> para drenar los PE de un Ladrón Fantasma.\n2. Al usar una habilidad que absorbe PE, Lilith obtendrá 1 acumulación de <color\=#FF423F>Vórtice Devorador</color>.\nVórtice Devorador: Aumenta el daño infligido en un 10% por cada acumulación. Cada vez que una Sombra sea derrotada, Lilith consumirá 1 acumulación al final de su turno para volver a invocarla.\n3. Cada 2 turnos, Lilith inflige daño con <color\=#FF423F>Conjuro Prohibido</color>. Los Ladrones Fantasma reciben más daño cuanto más bajos sean sus PE.\n4. Cuando un Ladrón Fantasma derrota a Lilim, restaura 50 PE.\n5. Las habilidades de Lamia infligen daño continuo a los Ladrones Fantasma.\n6. Cuando Lilith recibe <color\=#FF423F>daño letal</color>, sobrevive con 1 PS, obtiene 3 acumulaciones de Vórtice Devorador y convoca a Súcubo. Si Lilim y Lamia no están presentes, consumirá acumulaciones de Vórtice Devorador para invocarlas. Durante esta fase, las Sombras no serán derrotadas y ya no obtendrán Vórtice Devorador, y se eliminará 1 acumulación de Vórtice Devorador cada turno. Cuando se eliminen todas las acumulaciones de Vórtice Devorador, ganarás la batalla.
+r:"^(\d+) Devouring Vortex stack was removed\.\.\.$"="Se ha eliminado $1 acumulación de Vórtice Devorador..."
+Dream Eater=Devorador de Sueños
+Forbidden Incantation=Conjuro Prohibido
+
+1. Every turn, Hell Biker will inflict Hellscorched on 2 random Phantom Thieves.\nHellscorched: Lose a significant amount of HP at the end of each turn. Stacks up to 3 times. Can be removed after taking <color\=#FF423F>Ice</color> damage.\n2. Victory is achieved when Hell Biker is defeated.=1. Cada turno, Hell Biker infligirá Calcinación Infernal a 2 Ladrones Fantasma al azar.\nCalcinación Infernal: Pierde una cantidad significativa de PS al final de cada turno. Se acumula hasta 3 veces. Se puede eliminar tras recibir daño de <color\=#FF423F>Hielo</color>.\n2. La victoria se logra cuando Hell Biker es derrotado.
+Hellscorched=Calcinación Infernal
 
 ++-------------Enemigos EndGame-----------------++
 r:"Shadows have different weaknesses and resistances than normal.\n1. At the start of battle, Vishnu summons 4 servants. Vishnu and all servants are in the <color\=(.+?)>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. When Vishnu and its servants take skill damage, they gain Guardian's Preservation based on the attribute, and that affinity is changed to Resist. This effect lasts for 2 turns."="Las Sombras tienen debilidades y resistencias diferentes a las habituales.\n1. Al comienzo de la batalla, Vishnu invoca a 4 sirvientes. Vishnu y todos los sirvientes están en estado de <color\=$1>Vínculo de alma</color>.\nVínculo de alma: Distribuye todo el daño recibido entre todas las Sombras que comparten esta condición, según el porcentaje de su HP actual.\n2. Cuando Vishnu y sus sirvientes reciben daño de habilidad, obtienen Preservación del guardián según el atributo, y esa afinidad cambia a Resistir. Este efecto dura 2 turnos."
@@ -2464,6 +2560,21 @@ r:"^Increase dmg to knocked down foes by ([\d\.]+)\%\.$"="Aumenta el daño a ene
 
 Critical Damage Up=Aumento de Daño Crítico
 
+r:"^(.+?) can't move\.\.\.$"="$1 no puede moverse..."
+
+Change all affinities to Resist.=Cambia todas las afinidades a Resistencia.
+Second Blessing: Righteous Law=Segunda Bendición: Ley Justa
+
+Lose HP after acting...=Pierde PS después de actuar...
+
+At 6 stacks, activate Flash Blow.=Con 6 acumulaciones, activa Golpe Relámpago.
+
+r:"^Increase Elec dmg by (\d+)%\.$"="Aumenta el daño Eléctrico en un $1%."
+
+After taking skill damage, all Phantom Thieves recover HP=Después de recibir daño por habilidad, todos los Ladrones Fantasma recuperan PS
+
+After activating a Theurgy, increase Atk.=Después de activar una Teúrgia, aumenta el ATQ.
+
 +--Stats--+
 Critical Rate=Probabilidad Crítica
 Critical Damage=Daño Crítico
@@ -2473,6 +2584,21 @@ Curse Mult. +=Mult. de Maldición +
 Attack Mult. +=Mult. de Ataque +
 Psy Mult. +=Mult. de Psicoquinesis +
 Total Mult. +=Mult. total +
+
++--Ventajas Pruebas del Mar de las Almas--+
+Each time a Theurgy is activated, all allies gain 4 Celestial Fragment stacks. Also, each time an ally defeats a foe, the ally gains 2 Celestial Fragment stacks.\nCelestial Fragment: Increase final damage dealt by 2.5% per stack for 2 turns. Stacks up to 16 times.=Cada vez que se activa una Teúrgia, todos los aliados obtienen 4 acumulaciones de Fragmento Celestial. Además, cada vez que un aliado derrota a un enemigo, dicho aliado obtiene 2 acumulaciones de Fragmento Celestial.\nFragmento Celestial: Aumenta el daño final infligido en un 2.5% por acumulación durante 2 turnos. Se acumula hasta 16 veces.
+
+Each time foes' Down Points are reduced, gain 1 Rhythm of Imbalance stack.\nRhythm of Imbalance: Increase final damage by 2% per stack for 2 turns. Stacks up to 20 times.=Cada vez que se reducen los Puntos de derribo de los enemigos, obtienes 1 acumulación de Ritmo del Desequilibrio.\nRitmo del Desequilibrio: Aumenta el daño final en un 2% por acumulación durante 2 turnos. Se acumula hasta 20 veces.
+
+Ally Electric Attack Score=Puntuación de Ataque Eléctrico Aliado
+
+
++--Ventajas Prueba del Astrolabio--+
+
+After an ally uses a <color\=#FFFC40>Theurgy</color>, increase final damage by 60% for 2 turns.=Después de que un aliado use una <color\=#FFFC40>Teúrgia</color>, aumenta el daño final en un 60% durante 2 turnos.
+
+Allies from the <color\=#FF423F>Phantom Thieves of Hearts</color> (Ren, Morgana, Ryuji, Ann, Yusuke, Makoto, Futaba, Haru) deal 60% increased final damage.=Los aliados de los <color\=#FF423F>Ladrones Fantasma de Corazones</color> (Ren, Morgana, Ryuji, Ann, Yusuke, Makoto, Futaba, Haru) infligen un 60% más de daño final.
+
 
 +--Misiones--+
 Clear the mission to unlock the City Life activity Talk to Hiyori.=Completa la misión para desbloquear la actividad Vida Urbana. Habla con Hiyori.
@@ -2509,9 +2635,67 @@ Awarded for playing The Masks We Wear: Phase 1 in chapter 4 of the main story.=S
 Shadow Katayama completely distorted by desire. Having lost all sense of self, she can no longer maintain a human form.=Sombra Katayama completamente distorsionada por el deseo. Al haber perdido todo sentido de la identidad, ya no puede mantener una forma humana.
 Master of Shadow -Reload-=Maestro de Sombras -Reload-
 Clear 4 Metaverse Exploration missions to receive rewards.=Llega a nivel 4 en las misiones de Exploración del Metaverso para recibir recompensas.
+Do you want to use Sipario Shard and forge?=¿Quieres usar Fragmento de Sipario y forjar?
+Only the Arc Knife Shard can be used as material.=Sólo el Fragmento de Cuchillo Arco puede ser utilizado como material.
+Burning Bell=Campana Ardiente
+Shadows have different weaknesses and resistances than normal.\n1. Sraosha will summon Shadows during the battle.\n2. Sraosha will restore all Phantom Thieves' SP each turn.\n3. When a summoned Shadow's Down Points are decreased, all Phantom Thieves' damage is increased by 15% for 1 turn.=Las Sombras tienen debilidades y resistencias diferentes a las normales.\n1. Sraosha invocará Sombras durante la batalla.\n2. Sraosha restaurará todos los PE de los Ladrones Fantasma cada turno.\n3. Cuando los Puntos de Derribo de una Sombra invocada disminuyen, el daño de todos los Ladrones Fantasma aumenta en un 15% durante 1 turno.
+Allies' <color\=#FFFC40>Theurgy</color> damage is increased by 30%. After using a Theurgy, user's damage is increased by 30% more for 3 turns.=El daño de <color\=#FFFC40>Teúrgia</color> de los aliados aumenta en un 30%. Después de usar una Teúrgia, el daño del usuario aumenta un 30% más durante 3 turnos.
+Ground Howl=Aullido Terrestre
+C<color\=#000000>e</color>lestial Fragment=F<color\=#000000>r</color>agmento Celestial
+Gained Celestial Fragment!=¡Has obtenido Fragmento celestial!
+Purchase at Aohige Pharmacy=Comprar en Farmacia Aohige
+Tycoon Season 6=Temporada 6 de Tycoon
+Will be used in order of Platinum Ticket、Meta Jewels=Se usarán en orden de Boleto Platino, Joyas Meta.
+Do you want to use the following to perform Fists of Thunder 10 times?=¿Quieres usar esto para realizar Puños de Trueno 10 veces?
+Do you want to use the following to perform Fists of Thunder 1 times?=¿Quieres usar esto para realizar Puños de Trueno 1 veces?
+The Masks We Wear: Phase 1 Coin Delivery=Las Máscaras que llevamos: parte 1 Entrega de Monedas
+The new Jun 11, 2026 Phantom Pass has started.\nAs you cleared 4 daily missions in the previous pass, the new pass has been adjusted and rewards have been delivered to you via this message.=El nuevo Pase Fantasma del 11 de junio de 2026 ha comenzado. Como completaste 4 misiones diarias en el pase anterior, este nuevo pase se ha ajustado y las recompensas te han sido entregadas a través de este mensaje.
+Shining Badge=Insignia Brillante
+The event The Masks We Wear: Phase 1 has ended.\nYour unused coins have been delivered to you, and can be found in your bag.=El evento Máscaras que llevamos: parte 1 ha terminado. Tus monedas sin usar han sido entregadas y las puedes encontrar en tu inventario.
+This season of Tycoon has ended, and your rank was Somewhat Poor.\nThe rank rewards have been delivered via this message.=Esta temporada de Tycoon ha terminado y tu rango fue Pobre. Las recompensas del rango han sido entregadas a través de este mensaje.
+Single Line=Una línea
+Small=Pequeño
+Large=Grande
+Season 6 <size\=40>on Now</size>!=Temporada 6<size\=40>Ya disponible</size>!
+Words of Secrecy=Palabras de Confidencialidad
+Stage Cleared: =Etapa completada:
+Time to start the show!=¡Es hora de empezar el espectáculo!
+Mad Bull=Mad Bull
+Cielo Mist=Cielo Mist
+
+
+r:"^A Birthday Gift for (.+?)$"="Un regalo de cumpleaños para $1"
+Thank you for playing Persona5: The Phantom X.\n\nJun 12 is Haruna Nishimori’s birthday!\nTo celebrate, we’re sending you the Recommended Set: Poder Revelation - Orange.\n\nWe hope you continue to enjoy Persona5: The Phantom X.=Gracias por jugar a Persona5: The Phantom X.\n\n¡El 12 de junio es el cumpleaños de Haruna Nishimori!\nPara celebrarlo, te enviamos el Conjunto recomendado: Revelación de Poder - Naranja.\n\nEsperamos que sigas disfrutando de Persona5: The Phantom X.
 
 
 Pieza de Orden del Mod del Artesano=Pieza de Orden del Mod del Artesano
 r:"^Spend: <color\=#FFDE00>Artisan's Mod Order Piece x(\d+)</color>\nCraft: <color\=#FFDE00>Artisan's Mod Order x(\d+)</color>\nDo you want to confirm\?$"="Gastar: <color\=#FFDE00>Pieza de Orden de Mod del Artesano x$1</color>.\nFabricar: <color\=#FFDE00>Orden de Mod del Artesano x$2</color>.\n¿Quieres confirmarlo?"
 #Revisar
 Spend: <color\=#FFDE00>Artisan's Mod Order Piece x60</color>.\nCraft: <color\=#FFDE00>Artisan's Mod Order x1</color>.\nDo you want to confirm?=Gastar: <color\=#FFDE00>Pieza de Orden de Mod del Artesano x60</color>.\nFabricar: <color\=#FFDE00>Orden de Mod del Artesano x1</color>. ¿Quieres confirmarlo?
+
++--Vida Urbana P3--+
+I could work at Chagall Café in Paulownia Mall...=Podría trabajar en el Cafetería Chagall del Centro Comercial Paulownia...
+Work at Chagall Café=Trabajar en el Cafetería Chagall
+
+
++--Noticias de nuevo actu--+
+
+<color\=#0F69CA><size\=36>Tycoon Season Updates</size></color>\n\nCoinciding with the new season of Tycoon, season 6 of the Tycoon Typhoon event has also begun!\nPlay Tycoon during the event to obtain Tycoon Points as well as Tycoon Medals.\n\nBased on the number of Tycoon Medals you've collected, you can obtain up to 10,000 Tycoon Points!\nTycoon Points can be traded for fantastic rewards like Vicissitude Ink and Platinum Milicoins. To exchange them, go to the Tycoon screen and then Exchange.=<color\=#0F69CA><size\=36>Actualizaciones de temporada de Tycoon</size></color>\n\n¡Coincidiendo con la nueva temporada de Tycoon, también ha comenzado la temporada 6 del evento Tifón de Tycoon!\nJuega a Tycoon durante el evento para obtener Puntos de Tycoon así como Medallas de Tycoon.\n\n¡Según la cantidad de Medallas de Tycoon que hayas recolectado, puedes obtener hasta 10,000 Puntos de Tycoon!\nLos Puntos de Tycoon se pueden canjear por fantásticas recompensas como Tinta Vicisitud y Milimonedas de platino. Para canjearlos, ve a la pantalla de Tycoon y luego a Canje.
+
+<color\=#0F69CA><size\=36>Met by Moonlight: Strike like Lightning</size></color>\n\n<color\=#FFD145>Original Story</color>\nEnjoy a new story featuring characters from P3R and P5X. Complete the story to obtain rewards such as Meta Jewels and Wheels of Time: Waxing Gibbous. Set foot into the labyrinthine dungeon known as Tartarus, obtain items that will aid you in your exploration, and earn rewards such as Meta Jewels and Gold Tickets.\n\n<color\=#FFD145>Boss Battle</color>\nDefeat the boss at certain levels to obtain rewards such as Joy Medals and Wheels of Time: Waxing Gibbous.\n\n<color\=#FFD145>Exchange Shop</color>\nYou can exchange Wheels of Time: Waxing Gibbous obtained in the Met by Moonlight: Strike like Lightning story and Boss Battles for fantastic rewards such as Platinum Milicoins, Retrograde Cards, and training materials.=<color\=#0F69CA><size\=36>Encontrado por la Luz de la Luna: Golpea como un Rayo</size></color>\n\n<color\=#FFD145>Historia original</color>\n¡Disfruta de una nueva historia con los personajes de P3R y P5X! Completa la historia para obtener recompensas como Joyas del Metaverso y Ruedas del tiempo: Luna gibosa creciente. Adéntrate en el laberíntico calabozo conocido como el Tártaro, consigue objetos que te ayudarán en tu exploración y gana premios como Joyas del Metaverso y Boletos dorados.\n\n<color\=#FFD145>Batallas de jefe</color>\nDerrota a los jefes en ciertos niveles para obtener recompensas como Medallas de la alegría y Ruedas del tiempo: Luna gibosa creciente.\n\n<color\=#FFD145>Tienda de intercambio</color>\nPuedes cambiar las Ruedas del tiempo: Luna gibosa creciente obtenidas en la historia y en las batallas de jefe del evento "Encontrado por la Luz de la Luna: Golpea como un Rayo" por fantásticas recompensas como Milimonedas de platino, Cartas retrógradas y materiales de mejora.
+
+
++--Primer aniversario--+
+
+r:"^To members of the Phantom Thieves:\nSince the service launched, you've logged in for a total of <color\=#0F69CA>(\d+)</color> days\. To show our appreciation for your continued support, we will send out special anniversary rewards based on the number of days you have logged in as of June 26, 2026\. We hope you continue to enjoy exploring the Metaverse\.$"="A los miembros de los Ladrones Fantasma:\nDesde el lanzamiento del servicio, has iniciado sesión un total de <color\=#0F69CA>$1</color> días. Para mostrar nuestro agradecimiento por tu apoyo continuo, enviaremos recompensas especiales de aniversario basadas en el número de días que hayas iniciado sesión a partir del 26 de junio de 2026. Esperamos que sigas disfrutando de la exploración del Metaverso."
+
+Shadow of Sandy Hearts=Sombra de Corazones de Arena
+
+As special thanks for your long-term support, we have sent you additional rewards.=Como agradecimiento especial por tu apoyo constante, te enviamos recompensas adicionales.
+
+The Path We Walk Together=El camino que recorremos juntos
+
+Familiar Wingbeat=Aleteo familiar
+
+Collect rewards from this page after 8:00 PM (UTC) on the day of the 1st Anniversary.=Reclama las recompensas de esta página después de las 8:00 PM (UTC) del día del primer aniversario.
+

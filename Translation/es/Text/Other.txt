@@ -53,6 +53,10 @@ Let's just take a deep\nbreath! In... and out...!=¡Solo respiremos hondo! ¡Inh
 Everyone, let's do what we\ncan to protect Wonder!=¡Todos, hagamos lo que podamos para proteger a Wonder!
 Here we are. So, where next?=Aquí estamos. Entonces, ¿hacia dónde ahora?
 Time to start the show.=Es hora de iniciar el espectáculo.
+Looks like we're here.=Parece que ya llegamos.
+T-This is serious!\nWe need help, quick!=¡E-Esto es grave!\n¡Necesitamos ayuda, rápido!
+Wonder, you're incredible...!=¡Wonder, eres increíble...!
+This looks like the place.=Parece que este es el lugar.
 Combat Gear=Equipo de combate
 A<color\=#000000>t</color>tack Down=A<color\=#000000>t</color>aque Bajo
 M<color\=#ff0000ff>a</color>koto Yuki & Shun=M<color\=#ff0000ff>a</color>koto Yuki y Shun
@@ -295,6 +299,7 @@ Thanks for the show.=Gracias por el espectáculo.
 No, thank you for stopping by!=¡No, gracias a ti por venir!
 Speaking of the park=Hablando del parque...
 we should go to there again\nsometime!=¡deberíamos volver a ir algún día!
+
 Yukari specializes in <color\=#FFFC40>healing</color> and <color\=#FFFC40>buffing</color> allies. She also has the power to increase allies' Theurgy gauge.=Yukari se especializa en <color\=#FFFC40>curar</color> y <color\=#FFFC40>potenciar</color> a los aliados. También tiene el poder de aumentar el indicador de Teurgia de su equipo.
 She can increase the party's <color\=#FFFC40>Attack</color> and <color\=#FFFC40>damage dealt</color>, greatly enhancing their attack capabilities in battle.=Puede aumentar el <color\=#FFFC40>Ataque</color> y el <color\=#FFFC40>daño infligido</color> por el grupo, lo que mejora considerablemente sus capacidades ofensivas en combate.
 She can use Cyclone Arrow to <color\=#FFFC40>remove buffs from foes</color> and her Assist can <color\=#FFFC40>remove debuffs from allies</color>, making her helpful in a variety of situations.=Puede usar Flecha de Ciclón para <color\=#FFFC40>eliminar las mejoras de los enemigos</color>, y su Asistencia puede <color\=#FFFC40>eliminar efectos negativos (debuffs) de los aliados</color>, lo que la hace útil en una gran variedad de situaciones.
@@ -339,11 +344,181 @@ S<color\=#000000>t</color>orm Wind Arrow=F<color\=#000000>l</color>echa de Venda
 A<color\=#000000>r</color>row of Life=F<color\=#000000>l</color>echa de la Vida
 T<color\=#000000>a</color>ilwind's Breath=A<color\=#000000>l</color>iento de Viento a Favor
 
+Sanada has excellent <color\=#FFFC40>offensive capabilities</color>, and can deal both <color\=#FFFC40>Electric</color> and <color\=#FFFC40>Physical</color> damage. Also, when dealing damage to downed foes, his <color\=#FFFC40>damage is increased</color>.=Sanada tiene excelentes <color\=#FFFC40>capacidades ofensivas</color>, y puede infligir tanto daño <color\=#FFFC40>eléctrico</color> como <color\=#FFFC40>físico</color>. Además, al infligir daño a enemigos derribados, su <color\=#FFFC40>daño aumenta</color>.
+Sanada possesses a high <color\=#FFFC40>critical rate</color> and <color\=#FFFC40>critical damage</color>. His Theurgy can also inflict critical hits, allowing him to deal even higher damage.=Sanada posee una alta <color\=#FFFC40>probabilidad crítica</color> y un alto <color\=#FFFC40>daño crítico</color>. Su Teúrgia también puede infligir golpes críticos, lo que le permite causar un daño aún mayor.
+During battle, Sanada can spend Mettle stacks to unleash a <color\=#FFFC40>Resonance</color>, dealing Physical damage to foes. This can also effectively reduce foes' Down Points.=Durante la batalla, Sanada puede gastar acumulaciones de Bravura para desatar una <color\=#FFFC40>Resonancia</color>, lo que inflige daño físico a los enemigos. Esto también puede reducir de manera eficaz los Puntos de derribo de los enemigos.
+Akihiko=Akihiko
+Sanada=Sanada
+Polydeuces=Polideuces
+Blitzkrieg=Guerra Relámpago
+Spark Impact=Impacto Eléctrico
+Lightning Fist=Puño de Rayo
+No Rules=Sin Reglas
+Rough Combo=Combo Brutal
+Boxing Team Captain=Capitán del Equipo de Boxeo
+Reason to Fight=Motivo para Luchar
+Guardian Fist=Puño Guardián
+Stoic Heart=Corazón Estoico
+Results of Training=Frutos del Entrenamiento
+Buried Emotions=Emociones Ocultas
+Striving for Poder=Búsqueda del poder
+Mettle=Bravura
+Grit=Determinación
+Lightning Spike=Púa de Rayo
+Flash Blow=Golpe Relámpago
+Perseverance & Change=Perseverancia y Cambio
+
+[Solid Punch]=[Puñetazo Sólido]
+Solid Punch=Puñetazo Sólido
+SEES Knuckles=Puños de SEES
+[Mega Punch]=[Megapuñetazo]
+Mega Punch=Megapuñetazo
+Fists of Fury=Puños de Furia
+[Giga Punch]=[Gigapuñetazo]
+Giga Punch=Gigapuñetazo
+Wicked Cestus=Cesto Maligno
+[Knockout Punch]=[Puñetazo de K.O.]
+Knockout Punch=Puñetazo de K.O.
+Sabazios=Sabazios
+
+C<color\=#000000>h</color>ange=C<color\=#000000>a</color>mbio
+M<color\=#000000>e</color>ttle=B<color\=#000000>r</color>avura
+G<color\=#000000>r</color>it=D<color\=#000000>e</color>terminación
+B<color\=#000000>l</color>itzkrieg=G<color\=#000000>u</color>erra Relámpago
+R<color\=#000000>o</color>ugh Combo=C<color\=#000000>o</color>mbo Brutal
+
+It's particularly quiet today.=Hoy está particularmente tranquilo todo por aquí.
+I'm surrounded by silence...=Estoy rodeado de un profundo silencio...
+My mind feels clearer\nthan usual.=Siento que tengo la mente\nmás despejada que de costumbre.
+Come to think of it,\nthat horror movie had a place\njust like this...=Ahora que lo pienso, en esa película\nde terror salía un escenario idéntico\na este...
+Hoo!? What is it? You suddenly grew pale.=¡¿Hoo?! ¿Qué pasa? Te pusiste pálido de repente.
+That's a scary thought...=Vaya, qué pensamiento tan espeluznante...
+Still, I feel like I have some\nmore <sprite\=6><color\=#e6b625>Guts</color> now...=Aun así, siento que ahora tengo un poco\nmás de <sprite\=6><color\=#e6b625>Coraje</color>...
+Hoom... For some reason, you're aglow with a\nsense of triumph.=Hoom... Por alguna razón, irradias una gran sensación de triunfo.
+It looks as if you've conquered a fear.\nWell, shall we call it a day?=Parece que has logrado vencer uno de tus miedos. Bueno, ¿damos por terminado el día?
+
+
+U-Um... {{A}}-san, are you free later?=Este... {{A}}-san, ¿estás libre más tarde?
+I was thinking, there's this place I'd love\nto go to with you...=Es que estaba pensando... que hay un lugar al que me encantaría ir contigo.
+Would you like to spend time with Manaka?=¿Te gustaría pasar tiempo conmigo?
+That's a shame... Maybe next time, then?=Qué lástima... Quizás para la próxima, entonces...
+Oh, that's great, thanks!=¡Ah, qué genial! ¡Muchas gracias!
+I agreed to hang out with\nManaka...=Acepté pasar el rato con\nManaka...
+Sorry for making you serve me,  {{A}}-san.=Lamento haber dejado que me sirvieras tú,  {{A}}-san.
+There were just so many people, I didn't know\nwhen to go...=Había tanta gente que de verdad no sabía en qué momento irme...
+Thank you. I'm sorry for putting you out like\nthat.=Muchas gracias. Y una disculpa por haberte causado tantas molestias.
+Um... C-Could I ask you something?=Este... ¿P-Podría preguntarte algo?
+That's quite a lot of food on your plate. Is\nthat... all for you?=Hay bastante comida en tu plato. ¿De verdad... te vas a comer todo eso tú solo?
+Of course it is.=Por supuesto que sí.
+I know, I held back.=Lo sé, y eso que me contuve.
+Huh? You mean you are capable of eating even\nmore than that?=¿Eh? ¿Quieres decir que eres capaz de comer todavía más que eso?
+Th-That's amazing!=¡E-Eso es increíble!
+For the longest time in my life, it's just\nbeen me and Grandma.=Durante la mayor parte de mi vida, solo hemos sido mi abuela y yo.
+I've never seen anyone pile their plate so\nhigh!=¡Jamás había visto a nadie apilar la comida tan alto en su plato!
+It's plates full of variety, and everything's\nso neatly placed too... It's like...=Tiene tanta variedad y todo está acomodado de forma tan ordenada... Es como...
+If the entire buffet was shrunk down to one\nsingle plate!=¡Como si todo el buffet se hubiera reducido a un solo plato!
+Um,  {{A}}-san. Sorry for the strange\nrequest, but...=Este...  {{A}}-san. Lamento pedirte algo tan extraño, pero...
+Would it be okay if I watched you eat\neverything?=¿Te molestaría si me quedo a ver cómo te comes todo eso?
+I'm actually a huge fan of food challenge\nvideos!=¡Es que en realidad soy una gran fanática de los videos de retos de comida!
+
+Sorry for springing this on\nyou, but are you free today?=Disculpa que te lo pida tan\nde repente, pero ¿estás libre hoy?
+There's a place I'd love to go\nwith you.=Hay un lugar al que me\nencantaría ir contigo.
+All right, then.=Entendido, entonces...
+Sorry, I have plans.=Lo lamento, ya tengo planes.
+Oh, really? That's great! I'll\nbe ready in a jiffy.=¿Ah, en serio? ¡Qué genial!\nEstaré lista en un pestañeo.
+I should go meet with\nManaka...=Debería ir a encontrarme\ncon Manaka...
+Today, I made sure to get a small portion of\nrice. Bring on the buffet!=Hoy me aseguré de servirme una porción pequeña de arroz. ¡Que venga el banquete!
+Manaka and I went to a buffet.\nI tried a new drink each time\nI went up...=Manaka y yo fuimos a un bufé.\nProbé una bebida diferente cada vez\nque me levantaba a servirme...
+
+Oh, {{A}}-san!=¡Oh, {{A}}-san!
+Are you free now? I thought maybe we could\nhang out...=¿Estás libre ahora? Pensé que tal vez podríamos pasar el rato...
+Oh, that's fine! Sorry, I'll let you get back\nto it.=¡Ah, no te preocupes! Una disculpa, te dejo para que sigas con lo tuyo.
+See you 'round, {{A}}-kun.=¡Nos vemos luego, {{A}}-kun!
+We're just here on a little excursion. This\narea's actually pretty close to where we\nlive.=Solo vinimos a dar un pequeño paseo. De hecho, esta zona queda bastante cerca de donde vivimos.
+Yeah, plus the sidewalk's wide enough to fit\nmy wheelchair. I could probably even get here\non my own.=Sí, además la banqueta es lo suficientemente ancha para mi silla de ruedas. Hasta creo que podría venir yo sola.
+Now, don't go overexerting yourself, sweetie.\n{{A}}-kun, you mind pushing Manaka?=Tampoco te vayas a sobrepasar, mi cielo. {{A}}-kun, ¿te molestaría empujar a Manaka?
+Ah!?=¡¿Ah?!
+Did your leg get caught?=¿Se te atoró la pierna?
+I'm sorry. This old bat can barely see the\nground she's walking on...=Lo siento. Esta vieja distraída ya casi ni puede ver el suelo por donde camina...
+Think my eyes ain't workin' too well...\nSorry, {{A}}-kun.=Creo que mis ojos ya no funcionan muy bien...\nPerdóname, {{A}}-kun.
+Grandma, please don't overdo it.=Abuela, por favor, no te vayas a sobreesforzar.
+Hmmm... You're right. I should go home and\nrest.=Mmm... Tienes razón. Será mejor que regrese a casa a descansar.
+Sorry, {{A}}-kun, but could I ask you to\ncontinue the walk with Manaka? Just call me\nif anything happens.=Perdóname, {{A}}-kun, ¿pero podría pedirte que continúes el paseo con Manaka? Solo llámame si pasa cualquier cosa.
+Get home safe, Grandma!=¡Que te vaya muy bien, abuela! ¡Ve con cuidado!
+I'll be fine. You have fun now, Manaka!=Estaré bien. ¡Diviértete mucho, Manaka!
+Um... Thank you for doing this.=Este... muchas gracias por aceptar esto.
+Everything okay?=¿Todo bien?
+S-Sorry! I mean... I'm not tired or\nanything...=¡D-Disculpa! O sea... no es que esté cansada ni nada por el estilo...
+I was just thinking, if I wasn't in this\nchair, I could've saved my grandma from\ntripping...=Solo estaba pensando que... si no estuviera en esta silla, habría podido evitar que mi abuela tropezara...
+I can't do anything for her in return... I\nhave to get back on my own two feet as soon\nas I can.=No puedo hacer nada por ella para compensarla... Tengo que volver a ponerme de pie por mi cuenta lo antes posible.
+How's physical therapy going?=¿Cómo va la terapia física?
+Did you practice walking today?=¿Has practicado caminata hoy?
+Well... I went to the clinic for my walking\nexercises, but...=Bueno... Fui a la clínica para hacer mis ejercicios de caminata, pero...
+Since I can't get there by myself at this\nstage, I had to have Grandma take me.=Como todavía no puedo ir yo sola en esta etapa, mi abuela tuvo que llevarme.
+And I can't help but feel guilty for eating\nup her precious time like this...=Y no puedo evitar sentirme culpable por quitarle su valioso tiempo de esta manera...
+She takes me to the clinic, she helps me with\nmy stretches...=Me acompaña a la clínica, me ayuda con mis estiramientos...
+Meanwhile, her sight's getting worse, but she\nhas no time to go to the optometrist...=Y mientras tanto, su vista sigue empeorando, pero no tiene tiempo ni de ir al oculista...
+...all because of me.=...y todo por mi culpa.
+She just loves you that much.=Es porque te ama muchísimo.
+You're not an inconvenience.=No eres ninguna molestia.
+That doesn't change the fact that I'm a drain\non her life.=Eso no cambia el hecho de que soy una carga para ella.
+Me trying to... Me jumping caused her enough\nof a burden on its own...=El haber intentado... Mi salto ya fue un peso demasiado grande para ella...
+But then there's hospital bills, physical\ntherapy, even the housework... She's had to\ndeal with everything because of me.=A eso súmale los gastos del hospital, la terapia física, incluso los deberes de la casa... Ella ha tenido que encargarse de todo por mi culpa.
+She does it because she loves you.=Lo hace porque te ama.
+Don't hate on yourself like that.=No te odies así.
+I can't stop the thoughts once they start...\nThey just kind of spiral...=No puedo detener estos pensamientos una vez que empiezan...\nEs como si cayeran en una espiral sin fin...
+Y-Youre right. Sorry. I...=T-Tienes razón. Lo siento... Yo...
+It was the same before. Hate comments would\ntake up all the space in my head until I\ncouldn't think about anything else.=Antes me pasaba igual. Los comentarios de odio se apoderaban de mi mente hasta que no podía pensar en nada más.
+It was so awful hearing people say how much\nthey hated me and wanted me to disappear...=Era horrible escuchar a la gente decir cuánto me odiaba y que deseaba que desapareciera...
+But the scariest thing was when someone said\nthey knew where I went to school.=Pero lo más aterrador fue cuando alguien dijo que sabía a qué escuela asistía.
+If they really did know, they'd be able to\nfind out where I live, too... If they found\nme while I was at school, I...=Si de verdad lo sabían, también podrían averiguar dónde vivo... Si me encontraban mientras estaba en la escuela, yo...
+What's more, Grandma would be in danger\nbecause of me, too.=Y lo peor es que mi abuela también estaría en peligro por mi culpa.
+Things have calmed down since then, and I've\nbeen able to think more clearly.=Las cosas se han calmado desde entonces y he podido pensar con más claridad.
+But back then, I was so paranoid. Like, what\nif someone from school recognized my voice?\nStuff like that.=Pero en ese entonces estaba muy paranoica. Pensaba cosas como, ¿Y si alguien de la escuela reconoce mi voz?
+Those fears stopped me from going to school\nmost days.=Esos temores me impedían ir a la escuela la mayoría de los días.
+In the end, I couldn't step foot out of the\nhouse anymore. Just another way I burdened\nGrandma.=Al final, ya ni siquiera podía salir de casa. Otra forma más de ser una carga para mi abuela.
+What about now?=<size\=28>¿Y cómo te sientes ahora?</size>
+Still scared of going to school?=¿Todavía tienes miedo de ir a la escuela?
+If I'm honest, school still makes me anxious.=Si soy sincera, la escuela todavía me da mucha ansiedad.
+That guy you met wasn't the only one\nharassing me... There's probably people from\nschool too.=Ese tipo que conociste no fue el único que me acosaba... Probablemente también haya gente de la escuela implicada.
+I've been managing to attend classes anyway.\nBut it's hard being in this chair.=Aun así, me las he arreglado para asistir a clases. Pero es difícil estar en esta silla.
+And I think everyone in my class knows about\nthe incident because they're all trying to\navoid me.=Y creo que todos en mi salón saben lo del incidente, porque intentan evadirme a como dé lugar.
+They act like I'm made of glass that'll\nshatter from so much as a glance. No one\ntalks to me unless they have to.=Actúan como si fuera de cristal y me fuera a romper con una mirada. Nadie me habla a menos que sea estrictamente necesario.
+I get how they're feeling. If I was in their\nposition, I'd have no clue how to approach\nme...=Entiendo cómo se sienten. Si yo estuviera en su lugar, tampoco tendría idea de cómo acercarme a alguien como yo...
+Oh! But...=¡Ah! Pero...
+It's not as tough as I thought it would be!=¡No es tan difícil como pensé que sería!
+I'm tired of running away from everything.=Ya me cansé de estar huyendo de todo.
+But I do feel like it would be a whole lot\neasier if we were at the same school.=Aunque siento que todo sería muchísimo más fácil si estuviéramos en la misma escuela.
+That would be awesome.=Eso sería increíble.
+Yeah. Friends bring confidence.=Sí, los amigos te dan seguridad.
+Y-You mean it? Hehe...=¿D-De verdad lo dices en serio? Jeje...
+I'm glad you feel the same way,\n{{A}}-san.=Me alegra mucho que sientas lo mismo,\n{{A}}-san.
+I feel bad for saying this, but...=Me siento un poco mal por decir esto, pero...
+I'm really glad my grandma asked you to take\nme for a walk like this, Nagisa-san.=Me alegra tanto que mi abuela te haya pedido que me acompañaras a pasear, Nagisa-san.
+I can only imagine how much more fun it would\nbe if I could walk on my own feet.=Solo de imaginarlo... sé que sería muchísimo más divertido si pudiera caminar por mi cuenta.
+Imagine you, me, and Grandma... The three of\nus walking side by side...=Imagina que fuéramos tú, mi abuela y yo... Los tres caminando juntos, uno al lado del otro...
+I'm gonna do my best to get better!=¡Voy a dar mi mejor esfuerzo para recuperarme!
+I dropped off Manaka at her\nhouse, then went home...=Dejé a Manaka en su casa\ny luego regresé a la mía...
+About Grandma recently...=Sobre mi abuela últimamente...
+My grandma's been talking\nabout you all the time lately.=Mi abuela ha estado hablando\nde ti todo el tiempo...
+She's always asking when we're\nnext gonna see you.=A cada rato me pregunta cuándo\nte vamos a volver a ver.
+I won't keep you guys waiting=No las haré esperar.
+Tomorrow soon enough?=¿Te parece bien si nos vemos mañana?
+Grandma will be over the moon\nwhen she hears that.=Mi abuela se va a poner feliz\nen cuanto se lo diga.
+I'll let her know!=¡Se lo haré saber！
 
 
 
 
 
-Vecta Satou: [Eat...=Vecta Satou: [Come...
-Vecta Satou: El t...=Vecta Satou: El t...
+
+
+
+
+
+
+
+
+
+
 

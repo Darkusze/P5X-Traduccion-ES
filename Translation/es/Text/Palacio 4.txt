@@ -2817,6 +2817,9 @@ Treasure Account-ant=Conta-hormiga del Tesoro
 Instant Ramen Bros=Hermanos del ramen instantáneo
 King of the Ant Hill=Rey del Hormiguero
 
++--Sombras--+
+Shadow Soldier Ant=Sombra Soldado Hormiga
+
 
 +--Sombras Fuertes--+
 When Cerberus ends its turn, it is replaced by Orthrus.=Cuando Cerberus termina su turno, es reemplazado por Orthrus.

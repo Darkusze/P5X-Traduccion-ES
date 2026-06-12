@@ -499,6 +499,19 @@ r:"^Can be activated when Theurgy gauge is at (\d+)\. Wind dmg to (\d+) foe \(([
 
 Remove 1 debuff from 1 ally.=Elimina 1 efecto negativo (debuff) de 1 aliado.
 
+++-------------Akihiko Sanada-----------------++
+r:"^Gain (\d+) Grit\. Elec dmg to all foes \(([\d\.]+)% of Atk\)\.\nAlso, increase Sanada's crit dmg ([\d\.]+)% \((\d+) turns\)\.$"="Obtiene $1 de Determinación. Daño Eléctrico a todos los enemigos ($2% del Ataque).\nAdemás, aumenta el daño crítico de Sanada en un $3% ($4 turnos)."
+
+r:"^Gain (\d+) Grit\. Deal Elec dmg to all foes \(([\d\.]+)% of Atk\)\. Also, gain (\d+) Mettle\.$"="Obtiene $1 de Determinación. Inflige daño Eléctrico a todos los enemigos ($2% del Ataque). Además, obtiene $3 de Bravura."
+
+r:"^Elec dmg to all foes \(([\d\.]+)% of Atk\)\.\nIf Grit is at (\d+)\+ stacks, spend all Grit, and increase skill's multiplier ([\d\.]+)% per stack\.$"="Daño Eléctrico a todos los enemigos ($1% del Ataque).\nSi la Determinación tiene $2 o más acumulaciones, consume toda la Determinación y aumenta el multiplicador de la habilidad en un $3% por acumulación."
+
+r:"^Can be activated when Theurgy gauge is (\d+)\. Elec dmg to all foes \(([\d\.]+)% of Atk\)\. This Theurgy is guaranteed to activate a crit hit, and crit dmg will be between (\d+)-(\d+)%\.$"="Se puede activar cuando la barra de Teúrgia está en $1. Daño Eléctrico a todos los enemigos ($2% del Ataque). Se garantiza que esta Teúrgia activará un golpe crítico y el daño crítico estará entre el $3 y el $4%."
+
+r:"^Spend (\d+) Mettle\. Phys dmg to all foes \(([\d\.]+)% of Atk\) and increase downed foes' dmg taken (\d+)% \((\d+) turn\)\. Also, gain (\d+) Grit\.$"="Consume $1 de Bravura. Daño Físico a todos los enemigos ($2% del Ataque) y aumenta el daño recibido por los enemigos derribados en un $3% ($4 turno). Además, obtiene $5 de Determinación."
+
+r:"^Increase (\d+) ally's crit dmg (\d+)% \((\d+) turn\)\.$"="Aumenta el daño crítico de $1 aliado en un $2% ($3 turno)."
+
 ++-------------Persona for Protagonist-----------------++
 
 r:"Phys dmg to (\d+) foe \(([\d\.]+)% Atk\)\. ([\d\.]+)% chance to inflict Rage \((\d+) turns\)\."="Daño físico a $1 enemigo ($2% ATQ). $3% de probabilidad de infligir Ira ($4 turnos)."

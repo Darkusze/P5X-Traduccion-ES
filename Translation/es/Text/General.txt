@@ -10310,7 +10310,7 @@ Cavalry Saber=Sable de caballería
 You won't be able to change these <color\=#FF423F>Thieves, Personas, and Revelations</color>. Proceed?=No podrás cambiar estos <color\=#FF423F>Ladrones, Personas y Revelaciones</color>. ¿Deseas continuar?
 Weakened Bonus Points x=Puntos de bonificación debilitados x
 Total Score: =Puntuación total:
-Blazing Hell=Infierno Abrasador
+Blazing Hell=Infierno Ardiente
 R<color\=#000000>a</color>gnarok=R<color\=#000000>a</color>gnarok
 Gigantomachia=Gigantomachia
 P<color\=#000000>a</color>rhelion=P<color\=#000000>a</color>rhelion
@@ -10878,7 +10878,7 @@ So the Subway Slammer Menace... was him?=¿Entonces la amenaza del "Embestidor d
 It appears the change of heart was successful.=Parece que el cambio de corazón fue exitoso.
 So... he turned himself in because we changed his heart?=Entonces... ¿se entregó porque le cambiamos el corazón?
 Yes. Only the memories of his crimes remain. He'll likely confess to everything, including his misdeeds as the Subway Slammer.=Sí. Solo quedan los recuerdos de sus crímenes. Probablemente confiese todo, incluidas sus fechorías como el Embestidor de las Vías.
-That took guts.=Eso requirió valor.
+That took guts.=Eso requirió coraje.
 That's the least he can do.=Es lo mínimo que puede hacer.
 I was thinking... I mean, of course his actions were unforgivable, but...=Estaba pensando... quiero decir, claro que sus acciones fueron imperdonables, pero...
 I'm just glad it didn't go any further than it did, you know?=Me alegra que no haya ido más allá de lo que hizo, ¿sabes?
@@ -20441,6 +20441,7 @@ Wow, it looks really\ndelicious in\nthe photo.=Vaya, se ve realmente delicioso e
 Can I get you to help with cooking today?=¿Puedes ayudarme a cocinar hoy?
 Certainly.=Desde luego.
 Alright, thanks. I'm counting on you!=Muy bien, gracias. Cuento contigo.
+All right, thanks. I'm counting on you!=¡Muy bien, gracias! ¡Cuento contigo!
 One choco banana, please!=¡Un plátano choco, por favor!
 Hoomph. According to the procedure, you just\nput in the filling and wrap it up. Take it\neasy and you should have no problem.=Hoomph. Según el procedimiento, sólo tienes que poner el relleno y envolverlo. Tómatelo con calma y no deberías tener ningún problema.
 The crêpe is ready\nfor toppings...=La crepe está lista para los ingredientes...
@@ -20448,7 +20449,8 @@ The banana goes in first. Then, the only\ningredient left is...=El plátano va p
 Add fried octopus=Añadir pulpo frito
 Add strawberries=Añadir fresas
 Drizzle some chocolate=Rociar un poco de chocolate
-Store Manager=Director de tienda
+Store Manager=Gerente de la tienda
+All right, looks like you're finished.=De acuerdo, parece que ya terminaste.
 Alright, looks like you're finished.=Muy bien, parece que has terminado.
 Thanks again for your help today!=Gracias de nuevo por tu ayuda hoy.
 Hope to see you again!=Espero volver a verle.
@@ -25340,14 +25342,13 @@ Cluster Whirlwinds=Torbellinos de racimos
 In certain areas of Mementos, <color\=#FF423F>Cluster Whirlwinds</color> have formed. Pick them up to gain a <color\=#FF423F>Drivewind</color>.=En ciertas zonas de Mementos, <color\=#FF423F>Torbellinos de racimos</color> se han formado. Recójalas para obtener una <color\=#FF423F>Drivewind</color>.
 Use <color\=#FF423F>Drivewinds</color> to significantly boost the Cattlemobile's <color\=#FF423F>speed</color> for a short period of time.=Usar <color\=#FF423F>Drivewinds</color> de Cattlemóvil. <color\=#FF423F>velocidad</color> durante un breve periodo de tiempo.
 After <color\=#FF423F>Cluster Whirlwinds</color> disappear, they will reappear after a short time, and you can pick them up again.=En <color\=#FF423F>Torbellinos de racimos</color> desaparecen, reaparecerán al cabo de poco tiempo y podrás recogerlos de nuevo.
-T<color\=#ff0000ff>h</color>e Velvet Trials=T<color\=#ff0000ff>h</color>e Velvet Trials
 It looks like there's a treasure chest...\nI'll leave the decision to you, {{A}}.=Parece que hay un cofre del tesoro... Te dejo la decisión a ti, {{A}}.
 {{A}}(3)={{A}}(3)
 If I'm attacked, I'll hit ya right back! Hee-ho!=¡Si me atacan, te devolveré el golpe! ¡Hee-ho!
 Hmm... Maybe we can make use of\nthat Shadow's cold air somehow.=Hmm... Tal vez podamos hacer uso de ese aire frío de la Sombra de alguna manera.
-H<color\=#000000>e</color>llscorched=H<color\=#000000>e</color>llscorched
-1. At the end of each turn, Hell Biker will inflict <color\=#FF423F>Hellscorched</color> on a random Phantom Thief.\nHellscorched: Lose a large amount of HP at the end of each turn.\nCan be removed after taking <color\=#FF423F>Ice</color> damage.\nStacks up to 3 times.\n2. Jack Frost will not attack unprovoked and cannot be defeated.\nWhen damaged, he will immediately use <color\=#FF423F>Bufu</color> on the attacker, dealing a small amount of <color\=#FF423F>Ice</color> damage.\n3. When Hell Biker is defeated, you win the battle.=1. Al final de cada turno, Hell Biker infligirá <color\=#FF423F>Hellscorched</color> en un Phantom Thief al azar. Hellscorched: Pierde una gran cantidad de PS al final de cada turno. Puede eliminarse tras recibir <color\=#FF423F>Hielo</color> Daño. Se acumula hasta 3 veces. 2. Jack Frost no atacará sin ser provocado y no puede ser derrotado. Cuando reciba daño, utilizará inmediatamente <color\=#FF423F>Bufu</color> sobre el atacante, infligiendo una pequeña cantidad de <color\=#FF423F>Hielo</color> daños. 3. Cuando Hell Biker es derrotado, ganas la batalla.
-Recovered from Hellscorched...=Recuperado de Hellscorched...
+H<color\=#000000>e</color>llscorched=C<color\=#000000>a</color>lcinación Infernal
+1. At the end of each turn, Hell Biker will inflict <color\=#FF423F>Hellscorched</color> on a random Phantom Thief.\nHellscorched: Lose a large amount of HP at the end of each turn.\nCan be removed after taking <color\=#FF423F>Ice</color> damage.\nStacks up to 3 times.\n2. Jack Frost will not attack unprovoked and cannot be defeated.\nWhen damaged, he will immediately use <color\=#FF423F>Bufu</color> on the attacker, dealing a small amount of <color\=#FF423F>Ice</color> damage.\n3. When Hell Biker is defeated, you win the battle.=1. Al final de cada turno, Hell Biker infligirá <color\=#FF423F>Calcinación Infernal</color> en un Phantom Thief al azar. Calcinación Infernal: Pierde una gran cantidad de PS al final de cada turno. Puede eliminarse tras recibir <color\=#FF423F>Hielo</color> Daño. Se acumula hasta 3 veces. 2. Jack Frost no atacará sin ser provocado y no puede ser derrotado. Cuando reciba daño, utilizará inmediatamente <color\=#FF423F>Bufu</color> sobre el atacante, infligiendo una pequeña cantidad de <color\=#FF423F>Hielo</color> daños. 3. Cuando Hell Biker es derrotado, ganas la batalla.
+Recovered from Hellscorched...=Recuperado de Calcinación Infernal...
 It seems this area will be unlocked at\nPath of Chemdah Ticket {{A}}. 1. We should\nsubmit more tickets in the Fare Machine.=Parece que esta zona se desbloqueará en Path of Chemdah Ticket {{A}}. 1. Deberíamos presentar más entradas en la Máquina de Tarifas.
 Chemdah Ticket=Billete Chemdah
 Path of Chemdah=Camino de Chemdah
@@ -40940,7 +40941,7 @@ Impact=Impacto
 <color\=#FFFC40>Assassin</color> allies' final damage is increased by 60%.=<color\=#FFFC40>Asesino</color> el daño final de los aliados aumenta un 60%.
 Guardian Stella=<size\=60>Estrella Guardiana</size>
 Allies from the <color\=#ff381d>Phantom Thieves of Hearts</color> deal 60% increased final damage.=Aliados de <color\=#ff381d>Ladrones Fantasma de Corazones</color> infligir un 60% más de daño final.
-Lord Stella=<size\=80>Señor Estrella</size>
+Lord Stella=<size\=50>Señor Estrella</size>
 When an ally does not deal damage for 1 turn, their final damage is increased by 50%. This effect lasts for 1 turn.=Cuando un aliado no inflige daño durante 1 turno, su daño final aumenta un 50%. Este efecto dura 1 turno.
 <color\=#FFFC40>Wonder</color>'s final damage is increased by 100%.=El daño final de <color\=#FFFC40>Wonder</color> aumenta en un 100%.
 When the party has 2/3/4 allies of the <color\=#FFFC40>same attribute</color>, all allies' final damage is increased by 20%/40%/60%.=Cuando el grupo tiene 2/3/4 aliados del <color\=#FFFC40>mismo atributo</color>, el daño final de todos los aliados aumenta en un 20%/40%/60%.
@@ -52733,6 +52734,7 @@ Checkered Flag=Bandera a Cuadros
 [The Flag of Victors]=[La Bandera de los Vencedores]
 Victory Flag=Bandera de la Victoria
 [The Spear of Breakthroughs]=[Lanza de las Rupturas]
+The Spear of Breakthroughs=Lanza de las Rupturas
 Formula Pennant=Banderín de Fórmula
 [The Spear of Triumph]=[La Lanza del Triunfo]
 Increase all allies' damage to enemies with <link\="s|232"><u>technical ailments</u></link> by <color\=#2899ff>10%</color>. This effect won't activate if stacked.=Aumenta el daño de todos los aliados a enemigos con <link\="s|232"><u>dolencias técnicas</u></link> en <color\=#2899ff>10%</color>. Este efecto no se activará si ya está acumulado.
