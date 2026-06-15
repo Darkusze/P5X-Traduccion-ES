@@ -233,9 +233,18 @@ namespace P5XTESPatcher
 
             // Sin versión en ninguna fuente: comprobar si el componente existe en disco
             string rutaFisica = Path.Combine(rutaRaiz, rutaRelativa);
+
+            // Para texturas comprobar también Texture2D (nombre alternativo en BepInEx)
+            string rutaFisicaAlt = rutaRelativa.EndsWith("Texture", StringComparison.OrdinalIgnoreCase)
+                ? Path.Combine(rutaRaiz, rutaRelativa + "2D")
+                : "";
+
+            bool TieneArchivos(string ruta) =>
+                Directory.Exists(ruta) && Directory.EnumerateFiles(ruta, "*", SearchOption.AllDirectories).Any();
+
             bool existeEnDisco = rutaRelativa == "BepInEx"
                 ? Directory.Exists(rutaFisica)
-                : Directory.Exists(rutaFisica) && Directory.EnumerateFiles(rutaFisica).Any();
+                : TieneArchivos(rutaFisica) || (!string.IsNullOrEmpty(rutaFisicaAlt) && TieneArchivos(rutaFisicaAlt));
 
             // Existe en disco pero la versión es desconocida → no la guardamos en el ini
             // para no bloquear futuras detecciones. La UI mostrará "—" y el dot en gris.
@@ -441,6 +450,7 @@ namespace P5XTESPatcher
                 LimpiarDirectorio(Path.Combine(rutaRaiz, @"BepInEx\Translation\es\Text"));
             else if (tipo == "TEXTURA")
                 LimpiarDirectorio(Path.Combine(rutaRaiz, @"BepInEx\Translation\es\Texture"));
+            LimpiarDirectorio(Path.Combine(rutaRaiz, @"BepInEx\Translation\es\Texture2D"));
 
             try
             {
@@ -647,6 +657,10 @@ namespace P5XTESPatcher
             if (string.IsNullOrEmpty(nNuevo) || string.IsNullOrEmpty(aNuevo))
             { MsgError("Introduce un nombre y apellido válidos."); return; }
 
+            // Bloquear si el usuario introduce exactamente el nombre por defecto
+            if (nNuevo == NombreBase && aNuevo == ApellidoBase)
+            { MsgError($"\"{NombreBase} {ApellidoBase}\" es el nombre por defecto y ya está aplicado.\nIntroduce un nombre diferente."); return; }
+
             string generalTxt = Path.Combine(RutaMod, "General.txt");
             if (!File.Exists(generalTxt))
             { MsgError($"No se encontró General.txt en:\n{RutaMod}\n\nInstala los textos primero."); return; }
@@ -686,11 +700,11 @@ namespace P5XTESPatcher
 
                 // ── _Substitutions.txt ─────────────────────────
                 // Inserta las lineas de nombre justo despues del marcador
-                // ++--------Nombre Protagonista------+
+                // +---Nombre Protagonista Personalizado---+
                 // Formato: Nombre Apellido=NombreNuevo ApellidoNuevo
                 if (File.Exists(substitutionsTxt))
                 {
-                    const string marcador = "++--------Nombre Protagonista------+";
+                    const string marcador = "+---Nombre Protagonista Personalizado---+";
                     string sub = File.ReadAllText(substitutionsTxt, Utf8NoBom);
 
                     int idxMarcador = sub.IndexOf(marcador, StringComparison.Ordinal);
@@ -716,9 +730,18 @@ namespace P5XTESPatcher
                         }
                         else
                         {
-                            lineas = $"\r\n{nAnterior} {aAnterior}={nNuevo} {aNuevo}\r\n"
-                                   + $"{nAnterior}={nNuevo}\r\n"
-                                   + $"{aAnterior}={aNuevo}\r\n";
+                            // Omitir partes que ya cubre la seccion Por Defecto:
+                            // - Si nNuevo == NombreBase ("Nagisa") -> no escribir linea de nombre
+                            // - Si aNuevo == ApellidoBase ("Kamisiro") -> no escribir linea de apellido
+                            // - El nombre completo siempre se escribe (es combinacion unica)
+                            var sb = new System.Text.StringBuilder();
+                            sb.Append("\r\n");
+                            sb.Append($"{nNuevo} {aNuevo}={nNuevo} {aNuevo}\r\n");
+                            if (nNuevo != NombreBase)
+                                sb.Append($"{nNuevo}={nNuevo}\r\n");
+                            if (aNuevo != ApellidoBase)
+                                sb.Append($"{aNuevo}={aNuevo}\r\n");
+                            lineas = sb.ToString();
                         }
 
                         File.WriteAllText(substitutionsTxt,
