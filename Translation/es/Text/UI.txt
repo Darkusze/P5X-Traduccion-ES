@@ -512,7 +512,7 @@ r:"^\(Paid:\s+(\d+)\)$"="(Pagado: $1)"
 r:"^Unlocks at Lv\\. (\\d+)$"="Se desbloquea en Nv. $1"
 r:"^Lv\\.(\\d+)$"="Nv.$1"
 r:"^EXP:\s+(\d+)\s*$"="EXP: $1"
-r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.6.3\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
+r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.6.4\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
 r:"^Fusion\s+will\s+produce\s+(\d+)\s+<color\=#FF423F>(.+?)'s\s+Seal</color>\.\s*$"="La fusión producirá $1 <color\=#FF423F>Sello de $2</color>."
 r:"^Phantom Thief level cap increased to \\n<color\=#FFF000>Lv\\. (\\d+)</color>\\.$"="El límite de nivel de Ladrones Fantasma ha aumentado a \n<color\=#FFF000>Lv. $1</color>."
 Meta Jewels will be spent.=Se gastarán las Meta gemas.
@@ -1766,6 +1766,9 @@ With powerful <color\=#FF423F>offensive capabilities</color>, Firecracker Yaolin
 
 1. Sanada has excellent <color\=#FF423F>offensive capabilities</color>, and can deal both <color\=#FF423F>Electric</color> and <color\=#FF423F>Physical damage</color>. Also, when dealing damage to downed foes, his <color\=#FF423F>damage is increased</color>.\n2. Sanada possesses a high <color\=#FF423F>critical rate</color> and <color\=#FF423F>critical damage</color>. His Theurgy can also inflict critical hits, allowing him to deal even higher damage.\n3. During battle, Sanada can spend Mettle stacks to unleash a <color\=#FF423F>Resonance</color> dealing Physical damage to foes. This can also effectively reduce foes' Down Points.=1. Sanada cuenta con excelentes <color\=#FF423F>capacidades ofensivas</color> y puede infligir tanto <color\=#FF423F>daño eléctrico</color> como <color\=#FF423F>daño físico</color>. Además, al atacar a enemigos derribados, su <color\=#FF423F>daño aumenta</color>.\n2. Sanada posee una alta <color\=#FF423F>probabilidad de crítico</color> y un gran <color\=#FF423F>daño crítico</color>. Su Teurgia también garantiza golpes críticos, lo que le permite infligir un daño aún mayor.\n3. En combate, Sanada puede gastar acumulaciones de Bravura para desatar una <color\=#FF423F>Resonancia</color> que inflige daño físico. Esto también reduce con eficacia los <color\=#FF423F>puntos de derribo</color> de los enemigos.
 
+<color\=#FFD145>Basic Rules</color>\nYou can obtain rewards from Marthym when you <color\=#FF423F>dispatch Thieves</color> on <color\=#FF423F>tasks</color> according to each task's requirements.\nYou can get more rewards by meeting <color\=#FF423F>bonus</color> conditions.\n\n<color\=#FFD145>Types of Tasks</color>\n<color\=#FF423F>Regular</color>: These tasks are refreshed automatically upon completion.\n<color\=#FF423F>Weekly</color>/<color\=#FF423F>Daily</color>: These tasks can be refreshed once within their respective periods.\n<color\=#FF423F>Limited</color>: These tasks appear when certain conditions are met.\n\n<color\=#FFD145>Refreshing Tasks</color>\nYou can use Task Refresh Tickets to refresh your unclaimed, non-limited tasks.\n<color\=#FF423F>The first refresh each day is free</color>.\n<color\=#FF423F>Limited</color> tasks cannot be refreshed.\nTasks can be refreshed up to 200 times in 1 day.\n\n<color\=#FFD145>Task Level</color>\nCompleting tasks will accumulate task experience points, increasing your Task Level.\nWhen your level increases, the number of tasks you can claim simultaneously will increase, as well as the amount of regular tasks that appear at once.=<color\=#FFD145>Reglas básicas</color>\nPuedes obtener recompensas de Marthym cuando <color\=#FF423F>envíes Ladrones</color> en <color\=#FF423F>tareas</color> según los requisitos de cada tarea.\nPuedes conseguir más recompensas al cumplir las condiciones de <color\=#FF423F>bonificación</color>.\n\n<color\=#FFD145>Tipos de tareas</color>\n<color\=#FF423F>Regulares</color>: Estas tareas se actualizan automáticamente al completarse.\n<color\=#FF423F>Semanales</color>/<color\=#FF423F>Diarias</color>: Estas tareas se pueden actualizar una vez dentro de sus respectivos periodos.\n<color\=#FF423F>Limitadas</color>: Estas tareas aparecen cuando se cumplen ciertas condiciones.\n\n<color\=#FFD145>Actualizar tareas\nPuedes usar Boletos de actualización de tarea para actualizar tus tareas no reclamadas y no limitadas.\n<color\=#FF423F>La primera actualización de cada día es gratuita.</color>\nLas tareas <color\=#FF423F>limitadas</color> no se pueden actualizar.\nLas tareas se pueden actualizar hasta 200 veces en 1 día.\n\n<color\=#FFD145>Nivel de tarea</color>\nCompletar tareas acumulará puntos de experiencia de tarea, lo que aumentará tu Nivel de tarea.\nCuando tu nivel aumente, la cantidad de tareas que puedes reclamar simultáneamente aumentará, así como la cantidad de tareas regulares que aparecen a la vez.
+
+
 ++-------------Tutoriales Eventos-----------------++
 r:"(?s)<color\=#FFD145>Collecting Keywords</color>\n• In the mission Answer Sheet, join (.+?) to solve puzzles.*?• Drag the keywords to the correct place and complete the puzzle\."="<color\=#FFD145>Recopilación de palabras clave</color>\n• En la misión Hoja de respuestas, únete a $1 para resolver acertijos en una búsqueda del tesoro que pondrá a prueba tu ingenio. Durante el evento, puedes consultar tu hoja de respuestas para ver las palabras clave que has recopilado.\n• Puedes reunir las palabras clave en cualquier orden, pero solo puedes aceptar una misión de palabra clave a la vez.\n• Habrá más historia disponible cuando hayas reunido 3, 6 y 9 palabras clave. No podrás recolectar la siguiente palabra clave hasta que hayas completado la nueva historia.\n• Recibirás inmediatamente las recompensas por recopilar palabras clave tras completar cada misión. No es necesario volver a la hoja de respuestas para reclamarlas.\n\n<color\=#FFD145>Completar el acertijo</color>\n• Tras recopilar todas las palabras clave, deberás ponerlas en el orden correcto para formar una oración.\n• Arrastra las palabras clave al lugar correcto y completa el acertijo."
 
@@ -2575,6 +2578,8 @@ After taking skill damage, all Phantom Thieves recover HP=Después de recibir da
 
 After activating a Theurgy, increase Atk.=Después de activar una Teúrgia, aumenta el ATQ.
 
+r:"^Knocked down! Increase dmg taken by (\d+)%\.$"="¡Derribo! Daño recibido aumentado en un $1%."
+
 +--Stats--+
 Critical Rate=Probabilidad Crítica
 Critical Damage=Daño Crítico
@@ -2662,6 +2667,14 @@ Stage Cleared: =Etapa completada:
 Time to start the show!=¡Es hora de empezar el espectáculo!
 Mad Bull=Mad Bull
 Cielo Mist=Cielo Mist
+Cyclotron=Ciclotrón
+No surviving Phantom Thieves remaining.=No quedan Ladrones Fantasma en combate.
+Trains and Tribulations=Trenes y Tribulaciones
+Achieve 100% exploration progress in Strike like Lightning. =Completa el 100% de progreso de exploración en Golpea como un Rayo.
+Only the Pheromone Sting Shard can be used as material.=Solo el Fragmento de Picadura de Feromona puede usarse como material.
+Do you want to use Pheromone Sting Shard and forge?=¿Quieres usar el Fragmento de Picadura de Feromona y forjar?
+Only the Cyclotron Shard can be used as material.=Solo el Fragmento del Ciclotrón puede usarse como material.
+Do you want to use Cyclotron Shard and forge?=¿Quieres usar el Fragmento de Ciclotrón y forjar?
 
 
 r:"^A Birthday Gift for (.+?)$"="Un regalo de cumpleaños para $1"

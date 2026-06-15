@@ -730,3 +730,5 @@ r:"^Increase max HP ([\d\.]+)%\. After healing, restore HP to target \(([\d\.]+)
 r:"^Fire dmg to 1 foe \(([\d\.]+)%% Atk\)\.$"="Daño de Fuego a 1 enemigo ($1% ATQ)."
 
 r:"^Fire dmg to 1 foe \(([\d\.]+)% Atk, (\d+) hits\), and inflict Ascetic Ordeals \((\d+) turns\)\.\\nAscetic Ordeals: Increase critl dmg taken (\d+)% per 1 hit of Fire dmg taken \((\d+) turns, max (\d+) stacks\)\.$"="Daño de Fuego a 1 enemigo ($1% ATQ, $2 golpes) e inflige Tribulaciones Ascéticas ($3 turnos).\nTribulaciones Ascéticas: aumenta el daño crítico recibido un $4% por cada golpe de daño de Fuego recibido ($5 turnos, máx. $6 acumulaciones)."
+
+r:"^Elec dmg to all foes \(([\d\.]+)% Atk\)\. At (\d+) Thunder Lord's Majesty, (\d+)% chance to inflict Shock on all foes \((\d+) turns\)\.$"="Daño Eléctrico a todos los enemigos ($1% del Ataque). Con $2 de Majestad del Señor del Trueno, tiene un $3% de probabilidad de infligir Electrocución a todos los enemigos ($4 turnos)."

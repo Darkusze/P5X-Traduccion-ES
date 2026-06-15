@@ -2656,7 +2656,7 @@ Remove the thorns=Elimina las espinas
 Become an ant and enter the tunnel=Transformarse en hormiga y entrar al túnel
 
 
-Increase ailment accuracy by <color\=#2899FF>34.0%</color>, and increase the user's chance of inflicting elemental or spiritual ailments on foes by <color\=#2899FF>12.5%</color>.\nAlso, when a foe is inflicted with any elemental or spiritual ailment, also inflict Infestation, and increase the target's damage taken by <color\=#2899FF>10.0%</color> for 3 turns.\nWhen a foe with Infestation is present, increase ailment accuracy by <color\=#2899FF>4.0%</color> and Attack by <color\=#2899FF>7.0%</color>.=Aumenta la precisión de dolencias en <color\=#2899FF>34.0%</color>, y aumenta la probabilidad del usuario de infligir dolencias elementales o espirituales a los enemigos en <color\=#2899FF>12.5%</color>. Además, cuando un enemigo sufra alguna dolencia elemental o espiritual, también inflige Infestación y aumenta el daño recibido del objetivo en <color\=#2899FF>10.0%</color> por 3 turnos. Cuando haya un enemigo con Infestación, aumenta la precisión de dolencias en <color\=#2899FF>4.0%</color> y Ataque por <color\=#2899FF>7.0%</color>.
+
 
 Let us search for another point of ingress.=Busquemos otra otro acceso.
 It looks to be an overgrown\ngarden.=Parece un jardín repleto de maleza.

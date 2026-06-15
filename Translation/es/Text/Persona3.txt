@@ -110,7 +110,7 @@ Even still, there are many retail facilities,\nso it doesn't really have that ol
 
 #C1
 It's because of the monorail.=Es por el monorraíl.
-Good point. I suppose monorails do have a\nmore novel, modern feeling to them.=Buen punto.\nSupongo que los monorrieles tienen una sensación más novedosa y moderna.
+Good point. I suppose monorails do have a\nmore novel, modern feeling to them.=Buen punto.\nSupongo que los monorraíles tienen una sensación más novedosa y moderna.
 #C2
 It's because of the mall.=Es por el centro comercial.
 Good point. I did notice quite a few\nhigh school students there on their way\nhome from school.=Buen punto.\nNoté que allí había bastantes estudiantes de secundaria de camino a casa desde la escuela.
@@ -1297,6 +1297,827 @@ Seems like that's as good an invitation as\nany.=Parece que es una invitación t
 Like moths to a flame... But we don't have\nany other way forward, do we?=Como polillas hacia la luz... Pero no tenemos otro camino a seguir, ¿verdad?
 Face Reality=Enfrentar la realidad
 
+#MHistoria Akihiko Evento
+
+Tartarus is pretty much the same as before,\nhuh?=El Tártaro sigue siendo prácticamente el mismo de antes, ¿no?
+When we first entered that door in Paulownia\nMall, we came out on a different kind of\nfloor than before...=Cuando cruzamos por primera vez esa puerta en el Centro Comercial Paulownia, aparecemos en un piso muy diferente al anterior...
+So I thought the next floor might be\nsomething different this time, too.=Por eso pensé que esta vez el siguiente piso también tendría un aspecto distinto.
+Is there some kind of pattern we haven't\nnoticed, or is it just purely random?=¿Habrá algún tipo de patrón que no hayamos notado, o será puro azar?
+In any case, if the scenery's all the same, I\nget the feeling that we're not making any\nprogress.=Como sea, si el paisaje no cambia nada, me da la impresión de que no estamos avanzando.
+
+#C1
+
+Yeah, but if we had a proper navigator, it\nmight be a different story...=Sí, aunque si tuviéramos a alguien a cargo de la navegación, otra historia sería...
+
+#C2
+It's all the same...=Todo sigue igual...
+Yeah, right? I mean, I wouldn't mind if it\nmeant the Shadows didn't get any stronger...=A que sí. Digo, a mí no me importaría siempre y cuando las Sombras no se vuelvan más fuertes...
+
+
+#C3
+My eyes are getting tired...=Se me está cansando la vista...
+Yeah, when it's dark like this, it's harder\nto spot enemies.=Sí, cuando está tan oscuro como ahora, cuesta más trabajo ver a los enemigos.
+There's a lot of places with poor visibility\nin Tartarus, so we have to be careful.=Hay muchos puntos con poca visibilidad en el Tártaro, así que debemos tener cuidado.
+
+Then again, it's the Dark Hour, so I guess\nit'd be weird to find Shadows in a place\nthat's brightly lit.=Aunque claro, estamos en la Hora Oscura, así que supongo que sería extraño toparse con Sombras en un sitio muy iluminado.
+Fair point...=Buen punto...
+A brightly lit and safe Tartarus...=Un Tártaro seguro y bien iluminado...
+That probably wouldn't be very scary... or be\nthe kind of place where Shadows would appear.=De seguro no daría nada de miedo... ni sería la clase de lugar donde aparecerían las Sombras.
+Maybe it's the other way around, and it's the Shadows that give this place its dark and dreary atmosphere.=Tal vez sea al revés, y son las propias Sombras las que le dan a este mapa su atmósfera tan oscura y lúgubre.
+This is seriously veering into chicken-or-egg\nterritory...=Esto ya se está convirtiendo en el dilema del huevo o la gallina...
+You know, I've always wondered why Shadows\nlook the way they do...=Oigan, siempre me he preguntado por qué las Sombras tienen ese aspecto...
+Really...? I couldn't care less... Besides, I\ncan't even imagine a bright-looking Shadow.=¿En serio...? Eso me tiene sin cuidado. Además, ni siquiera me imagino a una Sombra que se vea resplandeciente.
+
+#C1
+I know, right? It's hard to even picture\nit...=¿Verdad? Cuesta bastante trabajo siquiera imaginarlo...
+
+
+#C2
+Might be hard to defeat.=Podrían ser difíciles de derrotar.
+Yeah. the dark atmosphere puts you in the\nright mindset for battle... I can see that.=Sí, esta atmósfera tan lúgubre te mentaliza para el combate... Tiene sentido.
+
+#C3
+I've seen some extravagant Shadows.=<size\=28>He visto algunas Sombras bastante extravagantes.</size>
+
+Huh? You have?=¿eh? ¿En serio?
+Now I'm curious. What were they like?=Ya me dio curiosidad. ¿Cómo eran?
+There was this game show...=Había un programa de concursos...
+We got along pretty well...=Nos llevamos bastante bien...
+I-I definitely can't imagine that!=¡D-Definitivamente no me lo puedo imaginar!
+
+Anyways, let's forget about that! We need to\ndefeat this guy and keep moving.=En fin, ¡olviden eso! Hay que derrotar a este tipo para seguir adelante.
+I'm ready as always. Let's do this!=¡Estoy listo, como siempre! ¡Hagámoslo!
+I feel like I'm getting used\nto fighting with this team...=Siento que me estoy\nacostumbrando a luchar con\neste equipo...
+
+#C2
+Look over there!=¡Miren allá!
+
+It's another door. We found it much quicker\nthis time around.=Es otra puerta. Esta vez la encontramos muchísimo más rápido.
+I'm happy we found it and all, but is it just\ngoing to send us back to Paulownia Mall\nagain...?=Me alegra que la hayamos visto, pero ¿no nos irá a regresar otra vez al Centro Comercial Paulownia?
+There's only one way to find out.=Solo hay una forma de averiguarlo.
+We can't stick around here forever. We've got\nto keep moving.=No podemos quedarnos aquí atrapados para siempre. Tenemos que avanzar.
+I guess you've got a point...=Supongo que tienes razón...
+{{A}}, would you do the honors?={{A}}, ¿nos haces los honores?
+Wherever this leads, I really\nhope we find Riko this time...=Siquiera espero que adonde sea que\nnos lleve esto, por fin podamos\nencontrar a Riko...
+
+
+Paulownia Mall... And it seems like it's a\ndifferent time of day again. This time it\nlooks like early afternoon.=El Centro Comercial Paulownia... Y parece que volvió a cambiar la hora del día. Esta vez parece como si fuera temprano por la tarde.
+Day or night, it's still very suspicious.\nIt's connected to Tartarus, after all.=Sea de día o de noche, sigue siendo muy sospechoso. Después de todo, está conectado con el Tártaro.
+
+#C1
+It's very weird.=Es muy extraño.
+You're right. The fact that it's so normal is\nthe most suspicious thing of all.=Tienes razón. Que todo se vea tan normal es lo más sospechoso de todo.
+
+#C2
+Nothing but strangeness.=No es más que una anomalía.
+
+
+You've got that right...=En eso tienes toda la razón...
+So, what's our plan? Frankly, I don't think\nanything has changed, but... should we take a\nlook around?=Entonces, ¿cuál es el plan? Sinceramente, no creo que nada haya cambiado, pero... ¿deberíamos echar un vistazo?
+Yeah, let's split up into two groups again...=Sí, dividámonos en dos grupos otra vez...
+Since we came all the way here, why don't we\ngo to that shop we talked about before?=Ya que nos tomamos la molestia de venir,\n¿por qué no vamos a esa tienda de la que hablamos antes?
+You know, the ramen shop Motoha told me\nabout. I looked it up, and I think I found\nthe place...=Ya saben, la tienda de ramen de la que me habló Motoha. Estuve investigando y creo que ya encontré el lugar...
+Her mother's with her...!=¡Su mamá está con ella...!
+Riko...!=¡Riko...!
+Go talk to her, {{A}}-kun!=¡Anda a hablar con ella, {{A}}-kun!
+Oh, {{A}}. What a coincidence meeting you\nhere.=¡Ah, {{A}}! Qué coincidencia encontrarte por aquí.
+That's a Kokatsu uniform... Is this a friend\nof yours, Riko?=Ese es el uniforme de la Academia Kokatsu...\n¿Es un amigo tuyo, Riko?
+Yes, that's right. He's a junior of mine, and\nhe's helped me on numerous occasions.=Sí, así es. Es un compañero de un año menor que yo, y me ha ayudado en muchas ocasiones.
+{{A}}, this is my mother. We were just on\nour way back from a guidance meeting.={{A}}, ella es mi mamá. Veníamos de regreso\nde una sesión de orientación escolar.
+I think I've mentioned this to you before,\nbut there's a confectionary shop around here\nthat my mother really likes.=Creo que ya te lo había mencionado, pero cerca de aquí hay una tienda de dulces tradicionales que le gusta mucho a mi mamá.
+Riko's Mother=Madre de Riko
+It's nice to meet you. I'm Riko's mother.=Mucho gusto. Soy la madre de Riko.
+{{A}}-kun, are you also in the\ndisciplinary committee?={{A}}-kun, ¿tú también formas parte del comité de disciplina?
+
+#C1
+I'm just her junior...=Solo soy un año menor que ella...
+
+#C2
+Actually, I'm not.=En realidad, no.
+
+No, he's not. He isn't a member...=No, no lo es. Él no forma parte...
+He's...=Él es...
+Riko seems to be at\na loss for words...=Riko parece haberse quedado\nsin palabras...
+She sounds normal enough, but... something\nfeels off, doesn't it?=Su voz suena bastante normal, pero...\nhay algo que no cuadra, ¿verdad?
+Perhaps it's the contradiction.=Quizá se deba a la contradicción.
+For example...=Por ejemplo...
+Let's assume that Takeba had ended up in the\nsame situation as Tanemura, and believed her\nfather was still alive.=Supongamos que Takeba hubiera terminado en la misma situación que Tanemura, creyendo que su padre seguía con vida.
+If her father was still alive, then that\nwould mean the accident never happened.=Si su padre estuviera vivo, significaría que aquel accidente jamás ocurrió.
+And... if that were the case, then Yukari...=Y...\nsi ese fuera el caso, entonces Yukari...
+Right, she would've had no reason to join\nSEES. In fact, our club probably wouldn't\neven exist at all.=Exacto, no habría tenido motivos para unirse a SEES. De hecho, es probable que nuestro club ni siquiera existiera.
+And that'd also mean that Takeba's connection to\nus would be much weaker.=Y eso también significaría que el vínculo de Takeba con nosotros sería mucho más débil.
+And yet, we somehow live in the same\ndorm, go out together, and have study\ngroups...=Y sin embargo, de algún modo compartimos el mismo dormitorio, salimos juntos y tenemos grupos de estudio...
+Hence the contradiction...=De ahí nace la contradicción...
+Yuki-kun would just be a classmate to me, and\nI'd probably have no reason to talk to\nSanada-senpai.=Yuki-kun solo sería un compañero de clase para mí, y yo probablemente no tendría motivos para hablar con Sanada-senpai.
+So when Riko tries to talk about\n{{A}}-kun...=Por eso, cuando Riko intenta hablar de {{A}}-kun...
+Without their Personas, they don't have much\nin common.=Sin sus Personas, no tendrían mucho en común.
+Yeah. There's the contradiction.=Sí. Ahí está la contradicción.
+She can't understand why she'd be so close to\n{{A}}.=No logra comprender por qué sería tan cercana a {{A}}.
+So, if Riko's mother was still\nalive, then...=Entonces, si la madre de\nRiko siguiera viva...
+Riko wouldn't have any\nconnection to the Phantom\nThieves...=Riko no tendría ninguna\nconexión con los Ladrones\nFantasma...
+
+#C1
+I know how you must feel.=<size\=24>Comprendo muy bien cómo debes sentirte.</size>
+
+#C2
+I know you love your mother.=Sé que amas a tu madre.
+
+#C1
+It's a precious moment for you...=Sé que este es un momento muy valioso para ti...
+
+#C2
+But this isn't real.=Pero esto no es real.
+
+{{A}}...? What are you...=¿{{A}}...? ¿De qué estás...?
+
+#C1
+I don't want to ruin this...=No quiero arruinar esto...
+
+#C2
+I want to respect your feelings...=Quiero respetar lo que sientes...
+
+But... your mother is...=Pero... tu madre ya...
+
+#C1
+Wake up, Riko.=Despierta, Riko.
+
+
+#C2
+Open your eyes, Riko.=Abre los ojos, Riko.
+
+
+If you could reunite with someone you lost, I\nknow just how happy that would make you.=Si pudieras reencontrarte con alguien que perdiste, sé perfectamente lo feliz que te haría.
+But... this isn't right.=Pero... esto no es correcto.
+Yeah. There's so much I'd want to do if I\ncould see Miki... my little sister... one\nmore time.=Sí. Hay tanto que me gustaría hacer si pudiera ver a Miki... a mi hermanita... una vez más.
+I'd make up for my mistakes. I'd buy her all\nthe things she wanted, we'd have her favorite\nfood...=Compensaría todos mis errores. Le compraría todo lo que siempre quiso, comeríamos su comida favorita...
+But... that's not reality. We can't get back\nthe time we lost.=Pero... esa no es la realidad. No hay forma de recuperar el tiempo perdido.
+You're...=Tú eres...
+Wha—?=¿Qué...?
+Ah... Ngh... Aaaahhh!=¡Ah...! ¡Ngh...! ¡Aaaahhh!
+
+#C2
+Keep it together!=¡Resiste!
+
+*gasp* *pant* M-Mother...=*Jadeo* *Respiración agitada* M-Mamá...
+Mother...?=¿Mamá...?
+No. You're not...=No... Tú no eres...
+My mother... is gone... I...=Mi mamá ya no está... Yo...
+I wanted to tell her... so much...=Tenía tantas cosas... que quería decirte...
+Mother...=Mamá...
+Shadows!? Here!?=¡¿Sombras?! ¡¿Aquí?!
+Aaaaaaaahhhh!=¡Aaaaaaaahhhh!
+This is bad...!=¡Esto está muy mal...!
+Ah... Ngh... Aaaaagh!=¡Ah...! ¡Ngh...! ¡Aaaaagh!
+No... No, no, no, no!=No... ¡No, no, no, no!
+Mother is... She's...!=¡Mi mamá...! ¡Ella...!
+My mother... can't be dead!=¡Mi mamá... no puede estar muerta!
+She's not responding. I don't think we can\nget through to her like this. What's the\nplan?=No responde. No creo que podamos hacerla reaccionar en este estado. ¿Cuál es el plan?
+I don't think Tanemura-san intends to\nfight... but something's not right about her.=No creo que Tanemura-san tenga intenciones de pelear...\npero algo no anda bien con ella.
+If we take out that Shadow, she might return\nto her senses. {{A}}, are you ready?=Si acabamos con esa Sombra, quizá recupere el sentido. {{A}}, ¿estás listo?
+We have to help Tanemura-san!=¡Tenemos que ayudar a Tanemura-san!
+...! Ngh... Aahhhh!=¡...! ¡Ngh...! ¡Aahhhh!
+*huff* *huff* That's right... My... mother\nis...=*Jadeo* *Jadeo* Es verdad...\nMi... mamá ya no...
+I... think I understand what she wanted to\nsay to me now.=Creo... creo que ahora entiendo lo que ella quería decirme.
+I'm sorry, Mother. I have to go.=Lo siento, mamá. Tengo que irme.
+I'm sorry I couldn't introduce you properly.=Lamento no haberte podido presentar como es debido.
+{{A}} is... a wonderful junior of mine,\nand a dear friend.={{A}} es... un gran compañero de un año menor que yo, y un amigo muy querido.
+If it wasn't for him, I never would have been\nable to change...=Si no fuera por él, jamás habría sido capaz de cambiar...
+Thank you, Mother. Going shopping with you\nwas so much fun!=¡Gracias, mamá!\n¡Fue muy divertido ir de compras contigo!
+I'll be sure to get some more of those snacks\nto take back home, too.=Me aseguraré de comprar más de esos dulces para llevar a casa también.
+Father and I will share them, even if you\ncan't be there...=Papá y yo los compartiremos, aunque tú ya no puedas estar ahí...
+Thank you, Riko...!=¡Gracias, Riko...!
+Hang on, I'll help her...!=¡Espera, voy a ayudarla...!
+Wait... What's going on!?=Espera... ¡¿Qué está pasando?!
+
+#C1
+It's like a Palace is collapsing!=<size\=28>¡Es como si un Palacio se estuviera derrumbando!</size>
+
+#C2
+Everything's falling apart!=¡Todo se está viniendo abajo!
+
+
+Tch... There's no other way out!=Tch... ¡No hay otra salida!
+Gotta take our chances. Into that door!=¡Tenemos que aprovechar la oportunidad!\n¡Crucemos esa puerta!
+I've got Tanemura-san!=¡Yo me encargo de Tanemura-san!
+This pattern...=Este patrón...
+No time to think about that... Damn it!=No hay tiempo para pensar en eso... ¡Maldita sea!
+
+
+All right. I think she'll be okay.=De acuerdo. Creo que se pondrá bien.
+Got it. I'll keep watch for any enemies until\nshe's able to move.=Entendido. Me mantendré alerta por si aparecen enemigos hasta que ella pueda moverse.
+I don't sense any enemies nearby.=No detecto la presencia de enemigos cerca.
+Can you tell?=¿Lo notas?
+Yes, I believe so... This place feels similar\nto a Palace, so I think my powers are working\nto some extent.=Sí, creo que sí... Este lugar se siente similar a un Palacio, así que mis poderes deberían estar\nfuncionando hasta cierto punto.
+Thank you for your assistance... Um...=Muchas gracias por su ayuda... Este...
+I'm Takeba, Yukari Takeba. I'm a second-year,\nso I'm one grade below you.=Soy Yukari Takeba. Voy en segundo año, así que soy un curso menor que tú.
+Takeba-san, then. I'm Riko Tanemura.=Entonces te diré Takeba-san. Yo soy Riko Tanemura.
+I suppose {{A}} must have told you about\nme...=Supongo que {{A}} ya te habrá hablado de mí...
+Ah, that's right. We've been with him,\nlooking all over for you.=Ah, es verdad. Hemos estado con él buscándote por todas partes.
+If you say there's no enemies nearby, I guess\nwe can do introductions and explain what's\ngoing on.=Si dices que no hay enemigos cerca, supongo que podemos presentarnos y explicarte lo que está pasando.
+Akihiko Sanada. Pleased to meet you.=Akihiko Sanada. Mucho gusto.
+Yuki-kun and Sanada-kun... I'm sorry for\ncausing you both trouble.=Yuki-kun, Sanada-kun... Lamento mucho haberles causado tantos problemas.
+Don't worry about it. We're just glad you're\nsafe.=No te preocupes por eso. Nos alegra mucho que estés a salvo.
+Between what just happened, and wherever we\nare now... I suppose I have a lot to catch up\non.=Entre lo que acaba de pasar y donde sea que estemos ahora... supongo que tengo mucho por entender.
+Um, where do we even start...? I guess from\nwhen Yuki-kun and I ran into {{A}}-kun...=Mmm, ¿por dónde empezamos siquiera...? Supongo que desde que Yuki-kun y yo nos topamos con {{A}}-kun...
+I see. So that's what happened.=Ya veo. Con que eso fue lo que pasó.
+Once again, I really owe you my thanks for\nopening my eyes back there.=De nuevo, te agradezco de corazón por haberme hecho abrir los ojos allá atrás.
+
+#C1
+Good to have you back.=Qué bueno tenerte de vuelta.
+It's because of what you all said that I was\nable to return to my senses.=Fue gracias a lo que dijeron que pude recuperar la cordura.
+I'll do my best to make up for all the\ntrouble I've caused.=Daré mi mejor esfuerzo para compensar todos los problemas que causé.
+
+#C2
+Sorry about what happened...=Lamento mucho todo lo que pasó...
+I'd be lying if I said I wasn't happy... but\nit was all just a dream.=Mentiría si dijera que no me hizo feliz...\npero todo fue solo un sueño.
+I had to wake up sooner or later... I'll be\nsure to make up for all the trouble I've\ncaused.=Tarde o temprano tenía que despertar... Me aseguraré de compensar todos los problemas que causé.
+
+
+Well, that's our side of the story... but\nwhat happened to you, Tanemura?=Bueno, esa es nuestra versión de la historia...\nPero ¿qué te pasó a ti, Tanemura?
+Yeah, like, what happened since you and\n{{A}} came to Port Island?=Sí, por ejemplo, ¿qué pasó desde que tú y {{A}} llegaron a Isla del Puerto?
+Let's see... We rode the monorail together,\nand got off at Iwatodai Station...=A ver... Subimos juntos al monorraíl y nos bajamos en la estación Iwatodai...
+I'm sorry, I can't seem to remember...\nEverything after we left the monorail is a\nblur.=Lo siento, no logro recordar... Todo lo que pasó después de bajar del monorraíl es muy difuso.
+After that, I must have lost consciousness\nsomehow... The next thing I knew, I was\nwith Mother...=Debí haber perdido el conocimiento de algún modo...\nCuando volví en mí, ya estaba con mi mamá...
+I don't think I realized anything was strange\nabout her being there. I simply accepted it\nas the way things were.=No me pareció extraño que estuviera ahí.\nSimplemente lo acepté como si fuera lo normal.
+So that's it, then...=Con que eso fue lo que pasó...
+As soon as Riko and I got off\nthe monorail, that's when the\nDark Hour started...=En cuanto Riko y yo nos bajamos\ndel monorraíl, fue cuando comenzó\nla Hora Oscura...
+Something must have happened\nto her when she entered the\nDark Hour...=Algo debió haberle pasado en el momento\nen que entró a la Hora Oscura...
+{{A}}? Did you think of something?=¿{{A}}? ¿Se te ocurrió algo?
+
+#C1
+Could it be...=¿Podría ser...?
+
+#C2
+Is it because of the Dark Hour?=¿Tendrá que ver con la Hora Oscura?
+
+Entering the Dark Hour must have something to\ndo with what happened to Tanemura-san.=Entrar a la Hora Oscura debe tener algo que ver con lo que le pasó a Tanemura-san.
+And chances are Lufel-san's in a similar\nsituation.=Y lo más probable es que Lufel-san esté en una situación parecida.
+Yes. We need to find Lufel quickly.=Sí. Tenemos que encontrar a Lufel rápido.
+My headache has subsided, and I don't feel\nany major lingering side effects...=Mi dolor de cabeza ya disminuyó y no siento ningún efecto secundario grave...
+Just a bit of fatigue, perhaps. I'm... not\ncertain I'm able to use my Persona as\neffectively.=Quizá solo un poco de fatiga. Aunque... no estoy segura de poder usar a mi Persona con la misma eficacia.
+{{A}} was the same.=A {{A}} le pasó lo mismo.
+I can still vaguely sense some enemy\nreadings, so I don't believe I'll hinder your\nfighting capability.=Aún logro detectar algunas lecturas de enemigos, así que no creo ser un estorbo para su capacidad de combate.
+Even so, that's still much better than having\nno navigator at all. Would you be okay taking\non that duty?=Aun así, es mucho mejor que estar sin apoyo de navegación. ¿Estarías dispuesta a asumir ese rol?
+Yes, of course. This place may be unfamiliar,\nbut I'll do my best to guide you.=Sí, por supuesto. Puede que no conozca este lugar, pero daré mi mejor esfuerzo para guiarlos.
+I hope there's an opponent on\nthis floor worth fighting.=Espero que en este piso haya un oponente\nque valga la pena enfrentar.
+Wait a moment. There's a... fairly strong\nShadow, just up ahead.=Espera un momento. Hay una Sombra... bastante fuerte, justo aquí adelante.
+Is it a Gatekeeper?=¿Es un Guardián de la zona?
+No... It doesn't seem to be as powerful as\nthe ones you described. I believe the four of\nyou will be able to handle it.=No... No parece tan poderosa como los que me describieron. Creo que ustedes cuatro podrán encargarse de ella sin problemas.
+That so? Still, we can't afford to be\ncareless. Let's stay on guard.=¿Ah, sí? Aun así, no podemos permitirnos ser descuidados. Mantengámonos alerta.
+Yeah. Thank you very much, Tanemura-san.=Sí. Muchas gracias, Tanemura-san.
+I'm honored if I can help even a little.=Es un honor para mí poder ayudar aunque sea un poco.
+You're always helping us out.=Siempre nos estás echando una mano.
+As humble as ever.=Tan humilde como siempre.
+Where should I go?=¿Hacia dónde debería ir?
+Oh please... You flatter me too much.=Ay, por favor... Me halagas demasiado.
+But if we keep up this pace, we should be\nable to find Lufel, as well as the others'\ncompanions.=Si mantenemos este ritmo, deberíamos ser capaces\nde encontrar a Lufel y a los compañeros\nde los demás.
+At the moment, I'm not sensing any other\nfoes... but I'll be sure to let you know if\nI do.=Por ahora no detecto a ningún otro enemigo...\npero les avisaré de inmediato en cuanto sienta alguno.
+All right. Let me take the lead!=¡De acuerdo! ¡Déjenme ir al frente!
+I'm not picking up any others. Good work,\neveryone.=Ya no detecto ninguna otra cosa. Buen trabajo, a todos.
+
+#C1
+Same to you, Riko.=Igualmente para ti, Riko.
+Yes, thank you. If anyone's injured, be sure\nto let us know.=Sí, gracias. Si alguien llega a salir herido, no duden en avisarnos.
+
+#C2
+That was an easy fight.=Esa pelea fue pan comido.
+Really? That's good to hear. But I think it\njust goes to show how coordinated you all\nare.=¿En serio? Me alegra oírlo. Pero creo que solo demuestra la gran coordinación que tienen todos ustedes.
+
+#C3
+What would we do without you?=¿Qué haríamos sin ti?
+{{A}}, could it be that you were feeling\nlonely without me?={{A}}, ¿será que te sentías un poco solo sin mí?
+You've been complimenting me so much.=Me has estado halagándome tanto.
+Hehe, I'm only kidding... But hearing you\nsay things like that does make me happy.=Jeje, es solo una broma... Pero escuchar esas cosas de tu parte me hace muy feliz.
+
+How are you holding up, Tanemura-san? If\nyou're still feeling tired, we can always\ntake a break...=¿Cómo te encuentras, Tanemura-san? Si todavía te sientes cansada, siempre podemos tomarnos un descanso...
+Thank you, but I'm fine. That feeling of\nfatigue wasn't exactly the same as physical\nexhaustion...=Gracias, pero estoy bien. Esa sensación de fatiga no era exactamente igual al agotamiento físico...
+That said, I'll be careful. If I do need a\nquick rest, I'll let you know.=Dicho esto, tendré cuidado. Si llego a necesitar un respiro, se los haré saber.
+She really does remind me of Kirijo-senpai a\nbit.=De verdad me recuerda un poco a Kirijo-senpai.
+You mean that sense of efficiency?=¿Te refieres a ese aire de eficiencia que transmite?
+Hm... Something like that.=Mmm... Algo así.
+
+
+#C2
+Is it an enemy?=¿Es un enemigo?
+
+I sense a strong Shadow. I think this one may\nbe one of the Gatekeepers you mentioned.=Detecto una Sombra poderosa. Creo que esta podría ser uno de los Guardianes que mencionaron.
+But sure enough, I can't tell what its weak\npoint would be from here... Let's proceed\nwith caution.=Pero, como era de esperarse, no puedo descifrar su punto débil desde aquí... Avancemos con precaución.
+We went up the stairs...=Subimos por las escaleras...
+Just as I thought. This is a Shadow we've\nfought before.=Tal como sospechaba. A esta Sombra ya la hemos enfrentado antes.
+Sure is...=Así es...
+But it's highly likely that this one is\nstronger than usual as well. Tanemura, I'll\nleave the analysis to you!=Pero es muy probable que esta sea más fuerte de lo normal. ¡Tanemura, te encargo el análisis del enemigo!
+Yes. Be careful, everyone!=Sí. ¡Tengan mucho cuidado, todos!
+That seems to be all of them. The battle's\nover. Good work.=Parece que ya fueron todos. La batalla terminó.\n¡Buen trabajo!
+*sigh* I'm beat! That thing was definitely\nstronger than last time...=*Suspiro* ¡Estoy agotada! Esa cosa era definitivamente más fuerte que la última vez...
+Not so strong that we couldn't beat it, but\nif this keeps up, things might get tough,\ndepending on our elemental matchups...=No tanto como para no poder vencerla, pero si esto sigue así, la situación podría ponerse difícil según nuestras afinidades elementales...
+Fortunately Yuki and {{A}} can cover a\nwide range in that regard.=Por fortuna, Yuki y {{A}} pueden cubrir un amplio abanico en ese aspecto.
+I wonder if the others are even higher\nup...=Me pregunto si los demás estarán todavía más arriba...
+They might be. But right now, Tartarus is so\ndifferent from how it usually is...=Es una posibilidad. Pero ahora mismo, el Tártaro es muy diferente a como suele ser...
+Tanemura. Are you able to scan all of\nTartarus, or even just a few floors ahead?=Tanemura, ¿puedes escanear todo el Tártaro o al menos unos cuantos pisos hacia adelante?
+If your Persona is back to its usual\nstrength, we could use the insight.=Si tu Persona recuperó su fuerza habitual, nos vendría muy bien esa información.
+I'll see what I can do.=Veré qué puedo hacer.
+Sorry... It seems I'm not quite back to full\nform...=Lo siento... Parece que mi condición todavía no está al cien por ciento...
+All I can tell is that it seems to be an\nunimaginably vast space.=Lo único que alcanzo a percibir es que parece ser un espacio inmenso.
+
+#C1
+What exactly is this place...?=¿Qué clase de lugar es este en realidad...?
+You mentioned earlier that this place is only\nsupposed to appear during the Dark Hour...=Mencionaste antes que se supone que este sitio solo aparece durante la Hora Oscura...
+It's different from what we're used to. The\nGatekeepers are much farther apart, for one\nthing.=Es muy diferente a lo que conocemos. Para empezar, los Guardianes están mucho más alejados entre sí.
+
+#C2
+How does this place exist...?=¿Cómo es posible que exista un lugar así...?
+It seems similar to the Palaces we're\nfamiliar with, so I suppose it could be its\nown kind of Metaverse...=Me parece similar a los Palacios que conocemos, así que supongo que podría ser una especie de Metaverso propio…
+There's a lot we don't know, like why it's\nconnected to Paulownia Mall for some reason.=Hay muchas cosas que no sabemos, como por qué está conectado con el centro comercial Paulownia por alguna razón.
+
+It's always been full of mysteries, but I\ndon't even know if this can still be\nconsidered Tartarus anymore.=Siempre ha estado lleno de misterios, pero ya ni siquiera sé si esto se pueda seguir considerando el Tártaro.
+Tanemura, when you called it a "vast space",\nwere you referring to the number of floors?=Tanemura, cuando dijiste que era un "espacio inmenso", ¿te referías a la cantidad de pisos?
+No, it's... It's hard to explain, but it's\nlike there's this vast space, and Tartarus is\nall that exists within it.=No, es... Es difícil de explicar, pero es como si hubiera un espacio inmenso, y el Tártaro fuera lo único que existe dentro de él.
+I can sense Tartarus's existence, and that it\ngoes on for many floors, but nothing more\nthan that...=Puedo percibir la presencia del Tártaro y que se extiende por muchísimos pisos, pero nada más allá de eso...
+I don't know what exists outside of Tartarus.=No tengo idea de qué hay afuera del Tártaro.
+I can't sense whether or not there are any\nother structures, or where it all ends...=No logro detectar si existen otras estructuras o en dónde termina todo esto...
+
+#C1
+Is it like Mementos?=¿Será similar a Mementos?
+Well... In that it's a vast, unknowable\nspace, I suppose it could be considered\nsimilar to Mementos.=Bueno... En el sentido de que es un espacio inmenso e indescifrable, supongo que sí podría considerarse similar a Mementos.
+
+#C2
+Is it part of something bigger?=¿Será parte de algo más grande?
+Perhaps... Similar to how there are also\nPalaces connected to Mementos.=Quizás… algo así como los Palacios conectados a Mementos también.
+Oh, right... Mementos and Palaces are places\nwhere our group typically fights.=Ah, claro… Los Mementos y los Palacios son lugares donde nuestro grupo suele pelear.
+Huh... So there're similar places out there.\nBut that being said...=Hum… Con que hay lugares parecidos por ahí. Pero, habiendo dicho eso…
+
+#C3
+I don't get it...=No lo entiendo...
+Well, that's fair. I myself can only get a\nvague sense of our current situation.=Está bien, eso es razonable. Yo misma solo tengo una idea vaga de nuestra situación actual.
+
+There's definitely something creepy about all\nthis...=Definitivamente hay algo muy perturbador en todo esto...
+The Tartarus we know is definitely connected\nto the outside world...=El Tártaro que conocemos está conectado por completo con el mundo exterior...
+Right. It's not like everything else just\ndisappears during the Dark Hour.=Exacto. No es como si el resto del mundo simplemente desapareciera durante la Hora Oscura.
+If Tanemura had been able to inspect\nPaulownia Mall, maybe we could've learned a\nbit more...=Si Tanemura hubiera podido inspeccionar\nel Centro Comercial Paulownia, tal vez habríamos averiguado un poco más...
+You were the last one to go through the door,\nright? What happened to Paulownia Mall?=Fuiste el último en cruzar la puerta, ¿verdad?\n¿Qué le pasó al Centro Comercial Paulownia?
+I suppose it... collapsed. That would be the\nbest way to describe it.=Supongo que... se derrumbó. Esa sería la mejor forma de describirlo.
+It was like the ground cracked open and\neverything got pulled into it.=Fue como si el suelo se hubiera agrietado y todo fuera absorbido por el vacío.
+I hope nothing bad actually happened to the\nreal Paulownia Mall...=Espero que no le haya pasado nada malo al Centro Comercial Paulownia del mundo real...
+Yeah. Hopefully it's nothing...=Sí. Ojalá no sea nada grave...
+Then should we keep moving forward? Tanemura-san\ncan scan ahead for us as we\nprogress.=Entonces, ¿seguimos avanzando? Tanemura-san puede ir escaneando el camino a medida que progresamos.
+Right. I'll be on the lookout for any safe\nareas or things that seem unusual.=De acuerdo. Estaré atenta a cualquier zona segura o anomalía que detecte en el camino.
+
+#C1
+On to the next floor.=Al siguiente piso.
+
+#C2
+
+
+
+So this is Tartarus... I must say, it feels\nsomewhat strange.=Con que este es el Tártaro... Debo decir que se siente bastante extraño.
+Perhaps it's due to the lack of light coming\nin? It's pretty dark, so we'll need to\nmaneuver carefully.=¿Quizá se deba a la falta de luz? Está bastante oscuro, así que tendremos que movernos con cuidado.
+Ah, that changes on other floors, too. There\nare actually some pretty flashy areas in\nhere.=Ah, eso cambia en otros pisos. De hecho, hay algunas zonas bastante llamativas aquí dentro.
+Last time we went through that door, the area\nchanged... Guess that wasn't in the cards\nthis time.=La última vez que cruzamos esa puerta, la zona cambió... Supongo que esta vez la suerte no estaba de nuestro lado.
+
+#C1
+I'm curious to see other areas.=Me da curiosidad ver otras zonas.
+
+
+#C2
+It'd be nice if it changed again...=Estaría bien que cambiara otra vez...
+
+
+This is different to the Tartarus we know...\nbut we might come across that area\neventually.=Este lugar es diferente al Tártaro que conocemos...\npero es probable que nos topemos con esa zona\nmás adelante.
+It's hard to predict what'll be on each\nfloor, so we'll be relying on you to\nnavigate, Tanemura-san.=Es difícil predecir qué habrá en cada piso,\nasí que confiaremos en tu navegación,\nTanemura-san.
+
+
+
+
+You're a third year like me, right, {{A}}?\nHow do you usually interact with {{B}} and\nthe others in your group?=Eres de tercer año como yo, ¿verdad, {{A}}?\n¿Cómo sueles relacionarte con {{B}} y los demás de tu grupo?
+Nothing too formal. I consider them all my\ndependable friends, so we're all quite casual\naround each other.=Nada demasiado formal. Los considero a todos amigos muy confiables, así que nos tratamos con mucha naturalidad.
+That said... I do sometimes find myself\nplaying the role of senpai without realizing.=Aunque... a veces me descubro asumiendo el rol de senpai sin darme cuenta.
+
+#C1
+We're always relying on her.=Siempre estamos dependiendo de ella.
+
+#C2
+Classic Riko.=La típica Riko.
+
+I can tell how much you all must care about\nTanemura-san.=Se nota muchísimo lo mucho que les importa Tanemura-san a todos.
+So can I.=Yo también.
+
+
+Yukari-san, may I ask you something? I was\ncurious about what kind of person this...\nKirijo-san is.=Yukari-san, ¿puedo preguntarte algo? Tenía curiosidad por saber qué clase de persona es... Kirijo-san.
+Kirijo-senpai? Well... she's our student\ncouncil president, and she's always very calm\nand collected.=¿Krijo-senpai? Bueno... es la presidenta de nuestro consejo estudiantil, y siempre está muy tranquila y controlada.
+Before we met up, we were talking about how\nwe thought you two would get along, actually.=Antes de vernos, estábamos hablando de cómo pensábamos que ustedes dos se llevarían bien, la verdad.
+I see. In that case, I look forward to\nmeeting her.=Ya veo. En ese caso, ojalá tenga la oportunidad de conocerla.
+Let's do our best to ensure that opportunity\ncomes sooner rather than later.=Demos nuestro mejor esfuerzo para asegurarnos de que ese momento llegue lo más pronto posible.
+
+Keep your eyes peeled moving\nforward!=¡Mantengan los ojos bien abiertos\nde aquí en adelante!
+
+Allow me to scope out the\narea...=Déjenme escanear la zona por un momento...
+Now that we have Tanemura-san with us,\nexploration has been a breeze.=Ahora que tenemos a Tanemura-san con nosotros, la exploración ha sido un paseo.
+Right? The difference between having a\nnavigator is like night and day.=¿Verdad? La diferencia de contar con apoyo de navegación es como el día y la noche.
+You must have someone with similar abilities\non your team as well, correct?=Ustedes también deben tener a alguien con habilidades similares en su equipo, ¿correcto?
+Yeah, that'd be Yamagishi. Normally, she\nprovides support from the entrance of\nTartarus, but...=Sí, se trata de Yamagishi. Normalmente nos da soporte desde la entrada del Tártaro, pero...
+
+#C1
+Hope we can meet up with her soon.=Ojalá podamos reunirnos con ella pronto.
+
+#C2
+It'd be nice to get back there...=Estaría bien poder regresar...
+
+For sure. Let's keep moving forward with\nTanemura-san as our expert navigator!=.Por supuesto. ¡Sigamos avanzando con Tanemura-san como nuestra experta en navegación!
+
+Strong Shadow=Sombra poderosa
+
+Is everyone ready?=¿Están listos?
+Man... That last Shadow was pretty tough.\nHow's everybody holding up?=Vaya... Esa última Sombra estuvo bastante dura. ¿Cómo se encuentran todos?
+I'm okay. If anyone's hurt, let me know.=Yo estoy bien. Si alguien está herido, avíseme.
+
+#C1
+Reliable as always.=Tan confiable como siempre.
+
+#C2
+Thanks, Yukari.=Gracias, Yukari.
+
+Indeed... Still, the same goes for you,\nYukari-san. We can't have you overexerting\nyourself, either.=Es verdad... Aun así, lo mismo va para ti, Yukari-san. Tampoco podemos dejar que tenexcedas.
+Thanks, I appreciate it!=¡Gracias, te lo agradezco!
+
+
+This floor seems pretty vast. It may be\ndifficult for me to fully scan the area.=Este piso parece bastante extenso. Creo que me costará un poco escanear toda la zona a fondo.
+The size of floors can vary quite a bit...\nYou'll probably see the further up we go.=El tamaño de los pisos varía bastante...\nYa lo irás descubriendo a medida que subamos.
+Thank you. I'll keep that in mind going\nforward so I can adapt accordingly.=Gracias. Lo tendré en cuenta de aquí en adelante para ir adaptándome.
+
+#C1
+So will I.=Yo también.
+
+#C2
+That's good to know.=Es bueno saberlo.
+
+
+Right. We can't rely on Tanemura-san and\nFuuka for everything.=Es verdad. No podemos depender de Tanemura-san y Fuuka para todo.
+Yeah. We never know if we'll be split up\nagain in here somehow.=Sí. Nunca sabemos si nos terminaremos separando de nuevo en este lugar por alguna razón.
+Sharing information is important in case\nanything happens.=Compartir información es vital en caso de que llegue a ocurrir algo.
+I agree... If I sense anything new, I'll make\nsure to share it with everyone right away.=Estoy de acuerdo... Si detecto algo nuevo, se los haré saber a todos de inmediato.
+
+
+
+It's just like the door we went through...=Es justo como la puerta por la que cruzamos...
+But if Paulownia Mall collapsed, then where\ndoes this one lead to?=Pero si el Centro Comercial Paulownia se derrumbó, ¿adónde nos conducirá esta entonces?
+It might take us back to Paulownia Mall\nbefore it collapsed.=Podría transportarnos de vuelta al Centro Comercial Paulownia antes de que colapsara.
+Hmm... It's nice to return to somewhere\nfamiliar, but I really don't want to keep\ninvestigating around there...=Mmm... Es agradable volver a un sitio conocido, pero la verdad no tengo ganas de seguir investigando por ahí...
+I'll try searching this floor...=Intentaré rastrear este piso...
+I'm not sensing any stairs. This door may be\nour only way forward.=No detecto ninguna escalera. Esta puerta debe ser nuestro único camino para avanzar.
+
+#C2
+That saves us some trouble.=Eso nos ahorra un dolor de cabeza.
+
+I'm glad I could be of help. Well, then...\nshould we go through this door?=Me alegra haber sido de ayuda. Bueno, entonces...\n¿deberíamos cruzar esta puerta?
+If it's the same as before, there probably\naren't any other leads to follow around here...=Si es igual que antes, probablemente no haya más pistas que podamos seguir por aquí...
+Take it away, {{A}}-kun!=¡Haz los honores, {{A}}-kun!
+Inside, it seems...=Por dentro, parece...
+Ah, it's no use. We won't know anything until\nwe go inside.=Ah, de nada sirve pensarlo. No sabremos nada hasta que entremos.
+Is something on your mind, Sanada-senpai?=¿Pasa algo malo, Sanada-senpai?
+There's something about the pattern on this\ndoor... Am I imagining things?=Hay algo extraño en el diseño de esta puerta...\n¿O serán solo imaginaciones mías?
+
+#C1
+What's strange about it?=¿Qué tiene de raro?
+
+#C2
+It's the same as the others we saw.=Es idéntico al de las otras que vimos.
+
+
+I can't say what it is for sure. If I figure\nit out, I'll be sure to let you all know.=No sabría decirles con certeza qué es. Si logro descubrirlo, no duden que se los haré saber.
+Well, who knows what's on the other side...\nbut let's head in and find out.=En fin, quién sabe qué nos espere del otro lado...\nCrucemos de una vez para averiguarlo.
+We were in such a rush when we left Paulownia\nMall that I forgot...=Salimos con tanta prisa del Centro Comercial Paulownia por completo que se me olvidó...
+But we didn't hold hands. I hope we still end\nup in the same place as\nSanada-senpai...=Pero no nos tomamos de las manos. Espero que aparezcamos en el mismo lugar\nque Sanada-senpai...
+Huh. You're right...=Es verdad, tienes razón...
+In that case, the rest of us should try\nholding hands...=Si es así, los que nos quedamos aquí deberíamos intentar tomarnos de las manos...
+And if we do end up in the same place as\nSanada-kun, then perhaps it doesn't matter\nafter all.=Y si resulta que aparecemos en el mismo sitio que Sanada-kun, significaría que la regla no importa después de todo.
+Good point.=Buen punto.
+If we do need to hold hands, then by the time\nwe've reunited with\neveryone...=Si de verdad es obligatorio tomarse de las manos, para cuando nos hayamos reunido con todos...
+...that's going to be a pretty long chain.=...eso se va a convertir en una cadena gigante.
+
+#C1
+That's a surreal image...=Qué imagen tan surrealista...
+
+#C2
+Might be tough in an emergency...=<size\=28>Sería muy difícil de manejar en una emergencia...</size>
+
+Y-Yes, certainly... I just hope we make it to\nthe same location...=S-Sí, por supuesto… solo espero que lleguemos al mismo lugar…
+Sanada-senpai is probably waiting for us, so\nwe'd better get moving.=Probablemente Sanada-senpai nos esté esperando, así que más vale que nos pongamos en marcha.
+The four of us held hands, and\nstepped through the door...=Los cuatro nos tomamos de\nlas manos y atravesamos la puerta…
+
+
+Investigate the tracks=Investigar las vías
+Overhead Bridge=Puente Peatonal
+Looks like we've ended up in a different\nplace.=Parece que terminamos en un lugar muy diferente.
+We're outside... and there's train tracks...=Estamos afuera... y hay vías de tren...
+Don't tell me... we're standing on the\nmonorail tracks!?=¡No me digas que... estamos parados sobre las vías del monorraíl!
+Fortunately, it's the Dark Hour, so the\nmonorail won't be running.=Por fortuna, estamos en la Hora Oscura, así que el monorraíl no estará en servicio.
+The Dark Hour, and the monorail... This\nreminds me of the big Shadow we fought back\nin May.=La Hora Oscura y el monorraíl... Esto me recuerda a la Sombra gigante que enfrentamos en mayo.
+We've fought a few big Shadows like that\nsince then, and one of them was right here.=Hemos luchado contra varias Sombras gigantes desde entonces, y una de ellas apareció justo aquí.
+Man, that was a pretty tough one... I thought\nwe were gonna die!=Cielos, esa fue una batalla durísima...\n¡De verdad pensé que íbamos a morir!
+I wasn't there for that operation... Was\nthat the one where you fought on a monorail?=Yo no estuve en esa operación... ¿Fue en la que pelearon sobre un monorraíl?
+Right. That Shadow took control of one of the\ntrains that stopped during the Dark Hour.=Exacto. Esa Sombra tomó el control de uno de los trenes que se detuvieron durante la Hora Oscura.
+If we hadn't defeated it, it would've caused\na huge crash. I'm glad nothing ended up\nhappening...=Si no la hubiéramos derrotado, habría provocado un choque catastrófico. Menos mal que no pasó a mayores...
+All of the Shadows we've seen in Tartarus\nhave been ones we fought before.=Todas las Sombras que hemos visto en el Tártaro han sido copias de las que ya enfrentamos antes.
+Which means the same thing could happen here.=Lo que significa que aquí podría repetirse lo mismo.
+You mean the large Shadow that Takeba-san\nmentioned?=¿Te refieres a la Sombra gigante que mencionó Takeba-san?
+The possibility seems likely. Tanemura, can\nyou search the area for us?=Es muy probable. Tanemura, ¿podrías rastrear la zona por nosotros?
+I found it. It seems that the monorail is\nstopped just a little further ahead.=Ya lo localicé. Parece que el monorraíl está detenido un poco más adelante.
+I can sense an enemy inside... but I can't\ntell how strong it is, or how many there are.=Detecto un enemigo en el interior... pero no logro descifrar qué tan fuerte es ni cuántos hay.
+
+#C1
+Can you detect any people?=¿Logras detectar la presencia de alguien?
+I don't think there are any people here\nbesides us.=No creo que haya nadie más aquí, aparte de nosotros.
+
+#C2
+Is Lufel there?=¿Lufel está ahí?
+I'm not sensing Lufel here... and I don't\nthink there are any people besides us.=No detecto a Lufel aquí... y tampoco creo que haya nadie más aparte de nosotros.
+
+But just to confirm, you said that monorail\nwon't move, right?=Pero solo para confirmar, dijiste que ese monorraíl no se moverá, ¿verdad?
+Right. Machines don't work during the Dark\nHour. Just like our cell phones, it should be\nnonoperational...=Exacto. Los aparatos eléctricos no funcionan durante la Hora Oscura. Al igual que nuestros teléfonos, deberían estar inoperables...
+Back when we fought that Shadow, it was able\nto make the train move.=Sin embargo, cuando enfrentamos a aquella Sombra, esta fue capaz de hacer que el tren avanzara.
+Which means it could do this time, too...=Lo que significa que podría volver a pasar esta vez...
+Thanks. In that case... we should try to get\nclose to the train before it starts moving\nand observe the situation.=Gracias. En ese caso... deberíamos intentar acercarnos al tren antes de que empiece a moverse para evaluar la situación.
+Does that sound good to you, {{A}}? The\ncloser we are, the better understanding we\nshould be able to gain...=¿Te parece bien el plan, {{A}}? Entre más cerca estemos, tendremos una mejor perspectiva de lo que ocurre...
+
+#C1
+It's bigger than I realized...=Es más grande de lo que imaginé…
+Yeah, it looks a lot bigger from the outside.=Sí, se ve mucho más grande desde afuera.
+
+#C2
+I've never seen it from the track.=Nunca lo había visto desde las vías.
+Well, ordinarily you'd have no reason to...=Bueno, en circunstancias normales no tendrías motivos para hacerlo...
+
+
+I'm feeling the same kind of creepy vibe we\ngot back at Paulownia Mall...=Siento la misma vibra inquietante que percibimos en el Centro Comercial Paulownia...
+Maybe the monorail's just giving me déjà vu,\nsince it looks just like the place where we\nactually fought...=Quizá el monorraíl solo me esté dando un déjà vu, porque luce idéntico al lugar exacto donde peleamos aquella vez...
+It's like it's the same train, stopped\nexactly where it was...=Es como si fuera el mismísimo tren, detenido justo en el mismo punto...
+Yeah, I know what you mean... Tanemura-san,\ncan you search the inside for us?=Sí, entiendo a qué te refieres... Tanemura-san,\n¿podrías rastrear el interior por nosotros?
+Of course. Let me take a look...=Por supuesto. Déjenme revisar...
+So that big Shadow is here, like we thought?=¿Entonces esa Sombra gigante sí está aquí, como sospechábamos?
+Yes... I believe it's at the front of the\ntrain. But there's other Shadow readings, as\nwell.=Sí... Creo que está en el vagón frontal del tren.\nPero también detecto otras lecturas de Sombras.
+I don't think they're in this car, but\npossibly further inside.=No parece que estén en este vagón, sino más adelante, en el interior.
+It seems we'll have to fight them if we wish\nto defeat the larger Shadow.=Tal parece que tendremos que abrirnos paso si queremos derrotar a la Sombra gigante.
+I had a feeling it wouldn't be that\neasy...=Ya me imaginaba que no sería tan fácil...
+
+#C1
+Let's go take down those Shadows.=Hay que acabar con esas Sombras de una vez.
+Yes. I think a systematic approach would be\nbest.=Sí. Creo que avanzar de forma sistemática es la mejor opción.
+
+#C2
+Let's just go up to the front car.=Vayamos directo al vagón delantero.
+I don't think that's a good idea.=No creo que sea una buena idea.
+I'm sensing a swarm of Shadows up that way.\nWe'd get ourselves surrounded.=Detecto una horda de Sombras en esa dirección.\nSi avanzamos, nos rodearán.
+It seems like working our way up the train\nwould allow us to systematically eliminate\nthe Shadows in the process.=Parece que avanzar vagón por vagón nos permitirá eliminar a las Sombras de manera sistemática en el proceso.
+
+I'm not picking up any other readings, so I\nthink we should investigate inside the\nmonorail.=Ya no detecto ninguna otra señal, así que opino\nque deberíamos inspeccionar el interior del monorraíl.
+Here we go again...=Aquí vamos de nuevo...
+But if we don't have any other leads, then\nthere's no other choice, Yukari.=Pero si no tenemos más pistas, no nos queda otra alternativa, Yukari.
+Ugh... You're right. Mm, okay. I can do this!=Ugh... Tienes razón. Mmm, de acuerdo.\n¡Yo puedo con esto!
+What will you do, Tanemura? Are you coming\nwith us? Usually Mitsuru and Yamagishi choose\nto wait outside.=¿Tú qué harás, Tanemura? ¿Vienes con nosotros?\nNormalmente Mitsuru y Yamagishi prefieren esperar afuera.
+No... I'll accompany you. If I were attacked\nby Shadow while on my own, it would be less\nthan ideal...=No... Iré con ustedes. Si una Sombra me atacara estando a solas, la situación se complicaría bastante...
+There's no telling what could happen out\nhere, so I think it would be best to come\nwith you.=Nunca se sabe qué podría pasar aquí afuera,\nasí que lo mejor será que los acompañe.
+
+#C1
+We'll keep you safe, Riko.=Nosotros te protegeremos, Riko.
+
+#C2
+Just stay behind us.=Quédate detrás de nosotros.
+
+Heh, thank you. I'll be counting on you,\n{{A}}.=Je, gracias. Contaré contigo, {{A}}.
+Okay. Now that the plan's settled, let's go\ninside.=Bien. Ahora que el plan está listo, entremos.
+We'll go first, so could you bring up the\nrear, Takeba?=Nosotros iremos primero, ¿podrías ir detrás, Takeba?
+Huh? Oh, sure.=¿Eh? Ah, claro.
+We entered the monorail...=Caminamos hacia el monorraíl…
+
+
+Investigate the monorail=Investiga el monorraíl.
+Light Rail Car Interior=Interior del Vagón
+I didn't think I'd ever end up in a monorail\nlike this again...=No creí que volvería a estar dentro de un monorraíl como este...
+It's a once-in-a-lifetime experience for\nsure.=Sin duda es una experiencia única en la vida.
+Ugh, I wish it was only once...=Uf, ojalá hubiera sido una sola vez...
+
+#C1
+Riko, do you sense anything?=Riko, ¿logras percibir algo?
+
+
+#C2
+What's the status on the Shadows?=¿Cuál es la situación con las Sombras?
+
+
+I'm picking up a large reading from the front\ncar... and I sense that the regular Shadows\nare advancing towards us.=Percibo una lectura de gran magnitud en el vagón delantero... y noto que las Sombras comunes se aproximan hacia nosotros.
+Sure enough, we have no choice but to fight.\nStay on guard. Takeba-san, if anybody gets\ninjured, please take care of them.=Como era de esperarse, no nos queda de otra más que pelear. Manténganse alerta. Takeba-san, si alguien sale herido, por favor esfuérzate en curarlo.
+Just like before, let's move forward—=Al igual que antes, sigamos avanzando—
+The monorail doors closed...!=¡Las puertas del monorraíl se cerraron...!
+Shoot... Maybe we should've propped them\nopen...=Maldición... Quizá debimos haber colocado algo para mantenerlas abiertas...
+Yep, this is just like what happened last\ntime...=Sí, es exactamente igual a lo que ocurrió la última vez...
+I don't see a problem. No matter what, we're\nnot getting off until we take down that\nShadow.=No le veo inconveniente. Pase lo que pase, no nos bajaremos de aquí hasta acabar con esa Sombra.
+
+#C2
+Let's take it down.=Vamos a eliminarlo.
+
+
+Yeah. It's a tight space to fight in though,\nso be careful.=Sí. Aunque es un espacio muy reducido para combatir, así que tengan cuidado.
+Coffin=Ataúd
+What is this coffin...?=¿Qué significa este ataúd...?
+It's... a passenger.=Se trata de... un pasajero.
+During the Dark Hour, people without the\npotential turn into this.=Durante la Hora Oscura, las personas que no tienen el potencial se transforman en esto.
+
+#C1
+Are they conscious?=¿Se encuentran conscientes?
+
+#C2
+Do they remember anything?=¿Recuerdan algo de lo que pasa?
+
+No, they aren't aware of their "situation" so\nto speak. A blessing, I'd say.=No, no son conscientes de su "situación",\npor así decirlo. Yo diría que es una bendición.
+
+Let's break through!=¡Hay que abrirnos paso!
+Fighting our way to the front of the train...\nYep, this is just like last time.=Abrirnos paso hasta el vagón delantero...\nSí, es exactamente igual a la última vez.
+So, when we get to the front, we'll have to\nfight that huge Shadow again, too, huh...?=O sea que cuando lleguemos al frente, ¿tendremos que enfrentar a esa Sombra gigante otra vez...?
+
+#C1
+It might cause something to happen.=Eso podría desencadenar algún evento.
+
+
+#C2
+It sounds like it'll be tough...=Suena a que será una batalla complicada...
+
+Um, we have to beat it... right?=Esto... tenemos que destruirla... ¿verdad?
+Yeah. If it's like the large Shadows we've\nfought before, then we're better off\ndefeating them.=Sí. Si es como las Sombras gigantes que hemos enfrentado antes, lo mejor es acabar con ellas.
+As our leader mentioned, we've fought a\nnumber of those large Shadows up until now.=Como mencionó nuestro líder, hemos luchado contra varias de esas Sombras gigantes hasta ahora.
+As we defeat more of them, the number of\nApathy Syndrome cases seems to go down, so\nthere must be some connection... but...=A medida que las derrotamos, el número de casos del Síndrome de Apatía disminuye, así que debe haber una conexión... pero...
+We don't have any other leads, so I think\ndefeating them is our best option.=No tenemos más pistas, así que creo que acabar con ellas es nuestra mejor opción.
+Sound good?=¿Les parece bien?
+If there's no other options, then I agree\nthat seems best.=Si no hay más alternativas, estoy de acuerdo en que es lo más adecuado.
+The fact that we're retracing our steps from\nthe past must have some kind of significance,\nright?=Que estemos repitiendo nuestros pasos del pasado debe tener algún tipo de significado, ¿no creen?
+And if this is like before, then pretty soon—=Y si esto es como la última vez, entonces pronto—
+Of course! I knew this was going to happen!=¡Lo que faltaba! ¡Sabía que esto iba a pasar!
+We need to hurry and get to the front of the\ntrain.=¡Tenemos que darnos prisa y llegar al vagón frontal del tren!
+Right. The Shadow at the front of the train\nis probably what's making the monorail move.=Exacto. La Sombra del frente debe ser la que está haciendo avanzar al monorraíl.
+
+#C2
+What happens if it's moving?=¿Qué pasa si el tren avanza?
+
+The monorail ahead of us will be stopped due\nto the Dark Hour.=El monorraíl que está más adelante se encuentra detenido debido a la Hora Oscura.
+Nobody will be able to get it moving, which\nmeans that this train will crash right into\nit.=Nadie podrá ponerlo en marcha, lo que significa que nuestro tren chocará de frente contra él.
+We've picked up a lot of speed... If this\nkeeps up, we'll end up colliding in a few\nminutes. We won't stand a chance.=Estamos ganando mucha velocidad... Si esto sigue así, colisionaremos en unos minutos y no tendremos escapatoria.
+Tanemura-san, aren't you way too calm about\nthis!? Well, we managed to stop it last\ntime...=¡¿Tanemura-san, no estás demasiado tranquila para la gravedad de la situación?! Bueno, logramos detenerlo la última vez...
+And we've got Sanada-senpai and {{A}} with\nus now, too.=Y ahora también contamos con Sanada-senpai y {{A}} de nuestro lado.
+
+#C1
+Let's defeat it before we crash!=¡Hay que destruirla antes del impacto!
+
+
+#C2
+We've got to stop this train!=¡Tenemos que detener este tren!
+
+Yes. Let's run!=¡Sí! ¡Hay que correr!
+
+
+There's a coffin here too...=Hay un ataúd aquí también...
+If the monorail crashes, these people could\nbe in danger...=Si el monorraíl se estrella, estas personas podrían estar en un grave peligro...
+If that's the case, there's no time to waste.\nWe need to get to the front immediately!=Si ese es el caso, no hay tiempo que perder.\n¡Debemos llegar al vagón frontal de inmediato!
+We gotta stop this thing!=¡Tenemos que detener esto!
+Yeah, let's go!=¡Sí, vamos!
+
+
+Light Rail Front Car=Vagón Delantero del Monorraíl
+*huff* *huff* We made it...! But we don't\nhave much time, do we?=*Jadeo* *Respiración agitada* ¡Lo logramos...!\nPero no nos queda mucho tiempo, ¿verdad?
+Right. If we don't stop this train soon, it\ncould be bad... but I doubt they'll let us do\nthat so easily.=Exacto. Si no detenemos este tren pronto, la situación se pondrá muy fea... Aunque dudo que nos lo dejen tan fácil.
+What the...!=¡¿Pero qué...?!
+It's as creepy as before... But wait,\nsomething seems... different?=Es tan aterradora como antes... Pero un momento,\n¿no les parece que hay algo... diferente?
+It's a different color.=Es de un color distinto.
+Yeah, that's it! It's an even more sickening\ncolor than last time!=¡Sí, exacto! ¡Tiene un tono todavía más repugnante que la última vez!
+No matter what color it is, there's just one\nthing to do. I'm ready to go anytime.=Sin importar el color que tenga, solo hay una cosa por hacer. Estoy listo cuando quieran.
+
+#C2
+Let's take it down fast!=¡Hay que derrotarla rápido!
+
+Yeah. Let's stop this monorail!=¡Sí! ¡Hay que frenar este monorraíl!
+Tanemura-san, give us an analysis, please!=¡Tanemura-san, analízalo por favor!
+Of course. Leave it to me.=Por supuesto. Déjenmelo a mí.
+Until she's finished her analysis, let's do\nas much damage as we can!=¡Mientras termina su análisis, hay que causarle todo el daño que podamos!
+Ahh! Did the monorail just start going\nfaster...!?=¡Ahh! ¡¿El monorraíl acaba de acelerar...?!
+That means we don't have much time.=Eso significa que el tiempo se agota.
+That's exactly why we need to remain calm.\nIts weakness is Fire!=Por eso mismo debemos mantener la calma.\n¡Su debilidad es el fuego!
+Okay! Sounds like you're up, Leader and\n{{A}}!=¡De acuerdo! ¡Les toca a ustedes, Líder y {{A}}!
+The enemy is staggered! Now, press the attack!=¡El enemigo está vulnerable! ¡Ahora, ataquen con todo!
+Got it! Help me, Io!=¡Entendido! ¡Ayúdame, Io!
+Polydeuces!=¡Polideuces!
+Now, you two! Finish it off!=¡Ahora ustedes dos! ¡Acaben con ella!
+I'm not picking anything else up. Good work,\nthe enemy is defeated.=Ya no detecto ninguna otra señal. ¡Buen trabajo, el enemigo fue derrotado!
+Huh? What's going on...!?=¿Eh? ¡¿Qué está pasando...?!
+Y-Yes...=S-Sí...
+
+
+#C1
+We can talk about it later.=Podemos hablar de eso más tarde.
+
+
+#C2
+Stop the monorail first!=¡Primero detengan el monorraíl!
+
+
+R-Right! If it's like before, there should\nbe a brake lever near the conductor's seat!=¡A-Así es! Si es como la última vez, ¡debería haber una palanca de freno cerca del asiento del conductor!
+Gotta find the brake...!=¡Tengo que encontrar el freno...!
+This one, right?=¿Es este, verdad?
+We seem to have stopped...=Parece que ya nos detuvimos...
+Thank goodness...!=¡Qué alivio...!
+Well done, you two. But... how did you know\nwhich one was the brake?=Bien hecho, ustedes dos. Pero... ¿cómo supieron cuál era el freno?
+Our leader's been through this twice now. The\nfirst time was a lucky guess, but this time\nyou knew for sure, right?=Nuestro líder ya ha pasado por esto dos veces.\nLa primera vez fue un golpe de suerte, pero esta vez lo sabías con certeza, ¿no?
+Something like that...=Algo así...
+Seriously...?=¿En serio...?
+
+#C1
+I just guessed, too...=Yo también lo adiviné...
+
+
+#C2
+I wasn't even thinking...=Ni siquiera lo pensé...
+
+
+Well, we managed to stop in time, at least.\nThat's good enough.=Bueno, al menos logramos detenernos a tiempo.\nCon eso es más que suficiente.
+Oh yeah, so why were you two glowing before?\nAre you okay?=Es verdad, ¿y por qué estaban brillando hace un momento? ¿Se encuentran bien?
+Yes. I was surprised to see it as well,\nbut... I think some of my power has returned.=Sí. A mí también me tomó por sorpresa, pero...\ncreo que una parte de mi poder ha regresado.
+So that's it...=Con que era eso...
+
+#C2
+But I don't think we're at 100%.=Pero no creo que estemos al 100%.
+
+
+As long as you're not as exhausted as before.\nYou should have an easier time fighting, at\nleast.=Mientras no termines con el mismo agotamiento de antes. Al menos así les será más fácil combatir.
+Yes. I feel like Chiyome's scanning ability\nhas increased... or, more specifically, that\nit's approaching its usual level.=Sí. Siento que la capacidad de análisis de Chiyome aumentó... o, mejor dicho, que se está acercando a su nivel habitual.
+If that makes searching for Lufel and the\nothers a bit easier, then I'm glad.=Si eso facilita un poco la búsqueda de Lufel y de los demás, me alegra mucho.
+Now... there are a few things I'd like to\nconfirm.=Ahora... hay algunas cosas que me gustaría confirmar.
+You said the Shadow we just defeated was a\nlarge one... and there are others like it,\ncorrect?=Dijiste que la Sombra que acabamos de derrotar era una de las gigantes... y que hay más como esa, ¿correcto?
+That was the one we defeated in May... Since\ then, we've fought about one Shadow like that\nevery month or so.=Esa fue la que vencimos en mayo... Desde entonces, nos hemos enfrentado a una Sombra así más o menos cada mes.
+It's not always just one at a time, either.\nOnce we fought two at the same time.=Y tampoco aparecen siempre de una en una.\nEn una ocasión luchamos contra dos a la vez.
+I see. So perhaps that's the strong power\nthat Chiyome is detecting...=Ya veo. Entonces, quizá esa sea la poderosa\npresencia que Chiyome está detectando...
+Could the other large Shadows also have\nrevived...?=¿Será posible que las otras Sombras gigantes también hayan regresado...?
+Can you tell where it is, and what kind of\nShadow?=¿Logras descifrar en dónde está y qué clase de Sombra es?
+I'm sorry. That's as much as I can tell...=Lo siento. Es todo lo que alcanzo a percibir...
+Also, this is merely conjecture on my part,\nbut...=Además, esto es solo una conjetura mía, pero...
+Defeating that large Shadow may be what\ncaused {{A}}'s and my power to return.=Derrotar a esa Sombra gigante pudo ser lo que hizo que los poderes de {{A}} y los míos regresaran.
+The moment that I felt Chiyome's power\nreturn, it was the same instant that the\nShadow disappeared.=En el instante en que sentí volver el poder de Chiyome, fue el mismo momento en que la Sombra desapareció.
+So while it's still unclear if defeating them\nwill allow us to escape this world, I believe\nthere's still value in doing so.=Así que, aunque no sea seguro que vencerlas nos deje escapar de este mundo, creo que sigue valiendo la pena hacerlo.
+Right. Without any other clear indicators of\nour progress, defeating those Shadows seems\nlike...=Exacto. Sin otra señal clara de nuestro avance, acabar con esas Sombras parece...
+
+#C1
+Sanada-senpai?=¿Sanada-senpai?
+
+
+Ah, no, it's nothing. Probably just imagining\nit...=Ah, no, no es nada. Tal vez solo sean imaginaciones mías...
+For now, I think we should make defeating the\nlarge Shadows our top priority.=Por lo pronto, creo que nuestra prioridad absoluta debe ser derrotar a las Sombras gigantes.
+Sounds good to me. Maybe while we're\nsearching for the Shadows, we'll find the\nothers along the way.=Me parece una buena idea. Quizá mientras las buscamos nos topemos con los demás en el camino.
+Thank you. Although I still wish we knew why\nsomething like this was happening during the\nDark Hour...=Gracias. Aunque ojalá supiéramos por qué está ocurriendo una anomalía así durante la Hora Oscura...
+It'd be nice to figure that out, too.=Estaría muy bien descifrar eso también.
+Then our next move is settled. Let's move\nout.=Entonces ya quedó decidido nuestro siguiente paso.\n¡En marcha!
+
+
+
+Mmmmm... Ah, that fresh air feels so good!=Mmmmm… Ah, ¡qué bien se siente este aire fresco!
+The door... It's like it was waiting for us.=La puerta… es como si nos estuviera esperando.
+
+#C1
+Kinda creepy...=Qué espeluznante…
+
+#C2
+Seems too convenient...=Demasiado conveniente…
+
+
+At least it saves us the trouble of looking\nfor it.=Al menos nos ahorra la molestia de buscarla.
+So it changed after all.=Con que cambió después de todo.
+Here, look at this.=Vengan, miren esto.
+This... pattern, or whatever it's supposed to\nbe. What about it?=Este... diseño, o lo que sea que se supone que sea. ¿Qué tiene de raro?
+The first time we passed through this door,\nall of these marks were fully lit up.=La primera vez que cruzamos por esta puerta, todas estas marcas estaban completamente iluminadas.
+But now, two of them have gone out.=Pero ahora, dos de ellas se apagaron.
+I only saw it for a second, so I could be\nmistaken, but the first time I noticed\nsomething was odd...=Solo lo vi por un segundo, así que podría equivocarme, pero la primera vez que noté que algo andaba mal...
+It was right after we helped Tanemura and\nescaped from Paulownia Mall.=Fue justo después de ayudar a Tanemura y escapar del Centro Comercial Paulownia.
+At that time, one of the lights on the door\nwas out, and now two of them are...=En ese momento, una de las luces de la puerta estaba apagada, y ahora son dos...
+After you all helped me... Oh, then that\nwould mean...!=Después de que me ayudaron... ¡Ah, entonces eso significaría...!
+When you defeated that Shadow, it caused one\nof the symbols on this door to go out?=Cuando derrotaron a esa Sombra, ¿provocó que uno de los símbolos de esta puerta se apagara?
+Right. I think that's the case.=Exacto. Creo que eso es lo que pasa.
+First was the Shadow that appeared with\nTanemura. Second was the one we fought just\nnow.=Primero fue la Sombra que apareció con Tanemura.\nEl segundo fue el que acabamos de enfrentar.
+When we defeated them, the lights must have\ngone out, right?=Al derrotarlas, las luces debieron apagarse,\n¿no es así?
+So now there are nine symbols left, which\nmeans we've got nine more Shadows?=O sea que ahora quedan nueve símbolos,\n¿lo que significa que nos faltan nueve Sombras\nmás?
+That's different from the number of Shadows\nwe know about, but in this strange place,\nI guess things aren't always the same...=Es una cantidad distinta a las Sombras que\nconocemos, pero en este sitio tan extraño\nsupongo que las reglas no siempre son iguales...
+So that's what we're up against...=Con que a eso es a lo que nos enfrentamos...
+Sounds like we have a goal, then.=Parece que ya tenemos un objetivo claro.
+Yep. We don't know what lies ahead, but I\nguess we'll be going through something like\nbefore nine more times...=Sí. No sabemos qué nos espera, pero supongo que pasaremos por situaciones similares nueve veces más...
+Ah, but if we end up fighting two at once\nagain, it might not really be nine times...=Aunque si terminamos peleando contra dos a la vez otra vez, es posible que no sean exactamente nueve combates...
+You could be right.=Podrías tener razón.
+The next time one of those large Shadows\nappears, we should make sure to check the\ndoor to see how the patterns change.=La próxima vez que aparezca una de esas Sombras gigantes, deberíamos revisar la puerta para ver cómo cambia el diseño.
+Well, I guess we'd better go through the\ndoor... but I have a feeling it'll lead back\nto Tartarus.=Bueno, supongo que lo mejor será cruzar esta puerta... Aunque me da la impresión de que nos llevará de vuelta al Tártaro.
+Before we go through the door, there's one\nother thing I'd like to tell you.=Antes de cruzar la puerta, hay algo más que me gustaría decirles.
+I mentioned that Chiyome's power had\nreturned. And I think, because of that...=Mencioné que el poder de Chiyome había regresado. Y creo que, debido a eso...
+There's another reading I hadn't noticed\nbefore we got on the monorail... No, four of\nthem.=Hay otras señales que no había detectado antes de subir al monorraíl... No, de hecho son cuatro.
+Four...?=¿Cuatro...?
+There's no mistaking it... It's not just you,\nme, and Lufel I'm sensing...=No hay duda... No son solo tú, yo y Lufel a quienes logro percibir...
+Motoha, and Shun, and Shoki as well... I\nsense they're somewhere in this world too.=Motoha, Shun e incluso Shoki... Siento que ellos también se encuentran en algún lugar de este mundo.
+
+
+
+
+
 
 
 
@@ -1375,7 +2196,7 @@ Recollections Under Moonlight=Recuerdos Bajo la Luz de la Luna
 Met by Moonlight: Luminous Island=Encontrado por la Luz de la Luna: Isla Luminosa
 Clear event missions and earn rewards!=¡Completa las misiones de eventos y gana recompensas!
 Enemy Team=Grupo de Enemigos
-
+Enemy Equipo=Grupo de Enemigos
 Met by Moonlight: Pierce the Night Sky=Encontrado por la Luz de la Luna: Perfora el Cielo Nocturno
 #Mirar
 <color\=#FFD145>Event Introduction</color>\nThe second Persona 3 Reload special event Pierce the Night Sky includes 7 sub-events: Pierce the Night Sky, Tartarus, Recollections Under Moonlight, Paulownia Mall, Login Bonus, Missions, and Exchange Shop.\n\n<color\=#FFD145>Event duration</color>\nThis is a limited-time event.\nWhen the event is over, Pierce the Night Sky can still be played in Past Events.\n\n<color\=#FFD145>Tartarus</color>\nYou can earn rewards for exploring Tartarus. Tartarus is a permanent event and can still be played after the event ends.\n\n<color\=#FFD145>Recollections Under Moonlight</color>\nDefeat the boss to earn rewards.\n\n<color\=#FFD145>Paulownia Mall</color>\nComplete goals related to Paulownia Mall to earn rewards.\n\n<color\=#FFD145>Login Bonus</color>\nLog in daily to claim login bonuses. Rewards will be unlocked sequentially according to your cumulative login days, and rewards for the day will refresh at 8 PM UTC.\n\n<color\=#FFD145>Missions</color>\nComplete set goals to earn a variety of rewards.\n\n<color\=#FFD145>Exchange Shop</color>Trade Wheels of Time: Crescent Moon for a variety of items.\nWhen the event ends, the Exchange Shop will be closed and all unused Wheel of Time: Crescent Moon will be converted into Konpaku Gems.=<color\=#FFD145>Introducción del Evento</color>\nEl segundo evento especial de Persona 3 Reload Perfora el Cielo Nocturno incluye 7 sub-eventos: Perfora el Cielo Nocturno, Tártaro, Recolecciones Bajo la Luz de la Luna, Centro Comercial Paulownia, Bonificación de Inicio de Sesión, Misiones, y Tienda de Intercambio.\n\n<color\=#FFD145>Duración del Evento</color>\nEste es un evento de tiempo limitado.\nCuando el evento termine, Perfora el Cielo Nocturno se podrá seguir jugando en Eventos Pasados.\n\n<color\=#FFD145>Tártaro</color>\nPuedes obtener recompensas al explorar el Tártaro. El Tártaro es un evento permanente y se puede seguir jugando después del evento.\n\n<color\=#FFD145>Recolecciones Bajo la Luz de la Luna</color>\nDerrota al jefe para conseguir recompensas.\n\n<color\=#FFD145>Centro Comercial Paulownia</color>\nCompleta metas relacionadas al centro comercial Paulownia para conseguir recompensas.\n\n<color\=#FFD145>Bonificación de Inicio de Sesión</color>\nInicia sesión diariamente para reclamar bonificaciones. Las recompensas se desbloquean secuencialmente de acuerdo a tus días iniciando sesión, y las recompensas del día se actualizan a las 8 PM UTC.\n\n<color\=#FFD145>Misiones</color>\nCompleta metas para conseguir una variedad de recompensas.\n\n<color\=#FFD145>Tienda de Intercambio</color>\nIntercambia Rueda del Timepo: Luna Creciente por una variedad de objetos.\nCuando el evento termine, la Tienda de Intercambio se cerrará y las Ruedas del Tiempo: Luna Creciente sin usar se convertirán en Gemas Konpaku.
@@ -1514,6 +2335,8 @@ r:"^Restocks in ([0-9]+) days$"="Reabastece en 4 días"
 
 Help out at Aohige Pharmacy=Ayudar en la farmacia Aohige
 I could go try the new aojiru at Aohige Pharmacy in Paulownia Mall...=Podría ir a probar el nuevo aojiru en la farmacia Aohige en el centro comercial Paulownia...
+Would you like to help out with the aojiru\nsamples?=¿Te gustaría ayudar con las muestras de aojiru?
+Sure=Claro
 I'm testing out a new flavor of aojiru today.=Hoy estoy probando un nuevo sabor de aojiru.
 It might be a bit strong, but would you like\nto try some?=Puede que sea un poco fuerte, pero ¿te gustaría probar un poco?
 I readied myself and decided\nto take a sip...=Me preparé y decidí\ntomar un sorbo...
@@ -1885,7 +2708,7 @@ HP Left=PS restante
 #Niveles historia
 #Resumen Historia
 By the Light of the Moon=A la Luz de la Luna
-After school, Riko extends an invitation to visit the man-made marvel, Tatsumi Port Island. On their way back, the monorail comes to a sudden halt...=Después de clase, Riko te invita a visitar la maravilla artificial de la Isla Puerto Tatsumi. En el camino de vuelta, el monorriel se detiene de repente...
+After school, Riko extends an invitation to visit the man-made marvel, Tatsumi Port Island. On their way back, the monorail comes to a sudden halt...=Después de clase, Riko te invita a visitar la maravilla artificial de la Isla Puerto Tatsumi. En el camino de vuelta, el monorraíl se detiene de repente...
 
 Midnight Madness=Locura de Medianoche
 Something strange happens after midnight at Iwatodai Station. When the hour is nigh, otherworldly creatures come to life...=Algo extraño sucede después de la medianoche en la estación de Iwatodai. Cuando la hora se acerca, criaturas de otro mundo cobran vida...
@@ -1989,6 +2812,67 @@ The door leads to Paulownia Mall, but there's something off about it. The group 
 
 Overcoming the Pain=Superando el Dolor
 A Shadow suddenly appears at Paulownia Mall and attacks Yukari. Her subsequent behavior is unexpected, strange, and concerning...=Una Sombra aparece de repente en el centro comercial Paulownia y ataca a Yukari. Su comportamiento posterior es inesperado, extraño y preocupante...
+
+
+Shadows and Tartarus=Sombras y el Tártaro
+As the group continues forward, they discuss Tartarus and the Shadows within. Various opinions are shared about the current situation.=A medida que el grupo avanza, hablan sobre el Tártaro y las Sombras que alberga. Se comparten varias opiniones sobre la situación actual.
+
+False Happiness=Falsa Felicidad
+Riko is happily spending time with her mother, even though she's supposed to be dead... Wonder considers whether or not to confront her with the truth.=Riko está pasando un momento feliz con su madre, a pesar de que se supone que está muerta... Wonder considera si confrontarla o no con la verdad.
+
+Vague Memories=Recuerdos Difusos
+Wonder briefly speaks with the recovered Riko, but it doesn't seem like she remembers much after getting off the monorail...=Wonder conversa brevemente con Riko ya recuperada, pero tal parece que ella no recuerda casi nada de lo sucedido tras bajarse del monorraíl...
+
+A Familiar Sight=Una Vista Familiar
+With Riko as the navigator, the group explores Tartarus once again. This time, it doesn't seem like they've been transported to a new area.=Con Riko a cargo de la navegación, el grupo vuelve a explorar el Tártaro. Esta vez no parece que hayan sido transportados a una zona nueva.
+
+
+Reliable Senpai=Un Senpai Confiable
+As a fellow third-year student, it seems Akihiko has something he wants to ask Riko.=Como compañero de tercer año, parece que Akihiko tiene algo que preguntarle a Riko.
+
+
+Toward Reunion=Hacia el Reencuentro
+Riko seems curious about Mitsuru Kirijo, Makoto and Yukari’s senpai...=Riko parece tener curiosidad sobre Mitsuru Kirijo, la senpai de Makoto y Yukari...
+
+Exploration Continues=La Exploración Continúa
+Wonder and the group keep talking to a minimum as they focus on exploring Tartarus.=Wonder y el grupo limitan sus conversaciones al mínimo para concentrarse en la exploración del Tártaro.
+
+Navigator=Navegación
+Thanks to Riko, exploration is progressing smoothly. Apparently, there's someone in Makoto's group that has abilities similar to hers.=Gracias a Riko, la exploración progresa sin contratiempos. Al parecer, en el grupo de Makoto también hay alguien con habilidades similares a las de ella.
+
+
+A Fierce Fight=Una Batalla Feroz
+Riko senses the presence of a Gatekeeper. Though defeating it will be no easy task, the chances are better now that they have more allies on their side.=Riko detecta la presencia de un Guardián. Aunque derrotarlo no será una tarea fácil, las probabilidades de éxito son mayores ahora que cuentan con más aliados de su lado.
+
+Exploration Continues On=La Exploración Sigue en Marcha
+Tartarus seems infinite... Will Wonder and the group be able to reach the top if they keep it up...?=El Tártaro parece infinito... ¿Podrán Wonder y el grupo llegar a la cima si continúan a este ritmo...?
+
+
+A Brutal Battle=Una Batalla Brutal
+Another powerful Gatekeeper stands in their way. There seems to be no end to their numbers...=Otro poderoso Guardián se interpone en su camino. Parece que su cantidad es interminable...
+
+What's Behind the Door?=¿Qué hay Detrás de la Puerta?
+Another mysterious door appears, its destination unknown to the group...=Aparece otra puerta misteriosa, con un destino totalmente desconocido para el grupo...
+
+Monorail Under Moonlight=Monorraíl Bajo La Luz De La Luna
+Beyond the door lie monorail tracks. Makoto and the rest of SEES seem to recognize this place...=Tras la puerta se extienden las vías de un monorraíl. Parece que Makoto y el resto de SEES reconocen este lugar...
+
+Dangerous Invitation=Una Invitación Peligrosa
+Dangers lurk inside the stopped monorail. Regardless, the group sees no other option but to push onward.=Los peligros acechan dentro del monorraíl detenido. Aun así, el grupo no ve otra opción más que seguir avanzando.
+
+
+Hurry!=¡Date prisa!
+The monorail suddenly starts moving. The only way to stop it lies in the front car—but time is of the essence.=El monorraíl comienza a moverse de repente. La única forma de detenerlo está en el vagón delantero, pero el tiempo corre en su contra...
+
+
+Race Against Time=Carrera Contra el Tiempo
+Just as Makoto and the others predicted, a large Shadow awaits them at the front car. If they wish to stop the monorail, they have no choice but to fight.=Tal como predijeron Makoto y los demás, una Sombra gigante los espera en el vagón delantero. Si quieren detener el monorraíl, no tienen otra opción más que pelear.
+
+
+The Door=La Puerta
+After defeating the Shadow, a mysterious door appears once again. Akihiko notices that the pattern on the door seems to have changed...=Tras derrotar a la Sombra, una puerta misteriosa vuelve a manifestarse. Akihiko nota que el diseño de la puerta parece haber cambiado...
+
+
 
 
 
@@ -2586,6 +3470,12 @@ Bestial Wheel=Rueda Bestial
 Phantom Mage=Mago Fantasma
 Wild Beast=Bestia Salvaje
 Venus Eagle=Águila Venus
+Maniacal Book=Libro Maníaco
+Fleetfooted Cavalry=Caballería de Pies Ligeros
+Lustful Snake=Serpiente Lujuriosa
+
+
+
 
 High Priestess: Waning Crescent=Suma Sacerdotisa: Luna Menguante
 High Priestess: New Moon=Suma Sacerdotisa: Luna nueva
