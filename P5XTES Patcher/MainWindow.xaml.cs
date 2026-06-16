@@ -38,9 +38,15 @@ namespace P5XTESPatcher
             "P5XTESPatcher", "config_P5XTES.ini");
         string RutaMod => Path.Combine(rutaRaiz, @"BepInEx\Translation\es\Text");
         // Launcher: sube dos niveles desde \P5X\client\pc → \P5X, luego entra en P5XLaunch
-        string RutaLauncher => Path.Combine(
-            Directory.GetParent(Directory.GetParent(rutaRaiz)!.FullName)!.FullName,
-            "P5XLaunch", "P5XLauncher.exe");
+        string RutaLauncher
+        {
+            get
+            {
+                // Sube dos niveles desde client/pc → P5X
+                var p5xDir = Directory.GetParent(Directory.GetParent(rutaRaiz)!.FullName)!.FullName;
+                return Path.Combine(p5xDir, "P5XLaunch", "P5XLauncher.exe");
+            }
+        }
 
         // Nombre guardado EN MEMORIA (lo que está aplicado actualmente en los archivos)
         string nActual = NombreBase;
@@ -97,17 +103,18 @@ namespace P5XTESPatcher
         }
 
         // ─── Verificación de ruta ─────────────────────────────────────────────────
-        // Comprueba que la ruta del juego existe Y termina en \P5X\client\pc
+        // Comprueba que la ruta del juego existe Y termina en \P5X\client\pc o /P5X/client/pc
         // (sin importar la unidad ni las carpetas intermedias).
         // Devuelve true si es válida, false si no (y muestra aviso).
         bool VerificarRutaJuego(bool silencioso = false)
         {
-            // Normalizar separadores para la comparación
-            string ruta = rutaRaiz.TrimEnd('\\', '/');
-            string rutaNorm = ruta.Replace('/', '\\').ToLowerInvariant();
-            const string sufijo = @"\p5x\client\pc";
+            string rutaNorm = rutaRaiz.TrimEnd('\\', '/')
+                                      .Replace('\\', '/')
+                                      .ToLowerInvariant();
 
-            bool rutaCorrecta = rutaNorm.EndsWith(sufijo, StringComparison.OrdinalIgnoreCase);
+            bool rutaCorrecta = rutaNorm.EndsWith("/p5x/client/pc", StringComparison.OrdinalIgnoreCase)
+                             || rutaNorm.EndsWith(@"\p5x\client\pc", StringComparison.OrdinalIgnoreCase);
+
             bool existe = Directory.Exists(rutaRaiz);
 
             if (rutaCorrecta && existe) return true;
@@ -657,16 +664,15 @@ namespace P5XTESPatcher
             if (string.IsNullOrEmpty(nNuevo) || string.IsNullOrEmpty(aNuevo))
             { MsgError("Introduce un nombre y apellido válidos."); return; }
 
-            // Bloquear si el usuario introduce exactamente el nombre por defecto
-            if (nNuevo == NombreBase && aNuevo == ApellidoBase)
-            { MsgError($"\"{NombreBase} {ApellidoBase}\" es el nombre por defecto y ya está aplicado.\nIntroduce un nombre diferente."); return; }
+            // ── FIX: Bloquear solo si el nombre introducido ya es el nombre actual.
+            // Permite volver a "Nagisa Kamisiro" desde un nombre personalizado. ──
+            if (nNuevo == nActual && aNuevo == aActual)
+            { MsgError($"\"{nNuevo} {aNuevo}\" ya es el nombre actual.\nNo hay nada que cambiar."); return; }
 
             string generalTxt = Path.Combine(RutaMod, "General.txt");
             if (!File.Exists(generalTxt))
             { MsgError($"No se encontró General.txt en:\n{RutaMod}\n\nInstala los textos primero."); return; }
 
-            // Si el nombre nuevo es igual al actual, igual lo aplicamos
-            // (permite "corregir" si se instalaron textos nuevos sin reaplicar)
             string nAnterior = nActual;
             string aAnterior = aActual;
 
@@ -831,12 +837,18 @@ namespace P5XTESPatcher
                 return;
             }
 
-            // Validar que termina en \P5X\client\pc antes de aceptar
-            string nuevaNorm = nuevaRuta.TrimEnd('\\', '/').Replace('/', '\\').ToLowerInvariant();
-            if (!nuevaNorm.EndsWith(@"\p5x\client\pc", StringComparison.OrdinalIgnoreCase))
+            // Normalizar separadores multiplataforma
+            string nuevaNorm = nuevaRuta.TrimEnd('/', '\\')
+                                        .Replace('\\', '/')
+                                        .ToLowerInvariant();
+
+            bool rutaValida = nuevaNorm.EndsWith("/p5x/client/pc", StringComparison.OrdinalIgnoreCase)
+                           || nuevaNorm.EndsWith(@"\p5x\client\pc", StringComparison.OrdinalIgnoreCase);
+
+            if (!rutaValida)
             {
                 MsgError($"La ruta seleccionada no es válida:\n{nuevaRuta}\n\n" +
-                         "Debe terminar en ...\\P5X\\client\\pc");
+                         "Debe terminar en .../P5X/client/pc");
                 return;
             }
 
