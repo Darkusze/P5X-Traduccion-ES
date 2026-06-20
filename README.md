@@ -49,7 +49,7 @@ Para ello solamente tendrias que volver a reinstalar los mods desde el Launcher 
 
 Y listo, vuelves al launcher de P5XTES Patcher y le das al botón Actualizar/Descargar todo.
 
-Versión Ultima Publicado [Aquí 2.0.2](https://github.com/Darkusze/P5XTES/releases/tag/a2.0.2)
+Versión Ultima Publicado [Aquí 2.1.0](https://github.com/Darkusze/P5XTES/releases/tag/a2.1.0)
 
 ## Advertencia Legal
 
