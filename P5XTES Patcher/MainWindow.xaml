@@ -291,7 +291,7 @@
                     <StackPanel VerticalAlignment="Center">
                         <TextBlock Text="P5XTES PATCHER" FontWeight="SemiBold"
                                    FontSize="13" Foreground="#e8b4b8"/>
-                        <TextBlock Text="v2.0.5"
+                        <TextBlock Text="v2.1.0"
                                    FontSize="10" Foreground="#555"/>
                     </StackPanel>
                 </StackPanel>
