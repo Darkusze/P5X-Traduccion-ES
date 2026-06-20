@@ -1,6 +1,6 @@
 # P5XTES Patcher
 
-Patcher para Persona 5 XTES. Compatible con distribuciones Linux de 64 bits.
+Patcher para Persona 5 X. Compatible con distribuciones Linux de 64 bits.
 
 ---
 
