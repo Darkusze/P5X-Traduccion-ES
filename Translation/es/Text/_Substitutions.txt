@@ -6,6 +6,7 @@ Closer=Closer
 Cattle=Cattle
 Ends in =Termina en 
 Time Left: =Tiempo Restante: 
+
 ++--------Nombres de personajes--------+
 Ren Amamiya=Ren Amamiya
 Morgana=Morgana
@@ -20,7 +21,6 @@ Goro Akechi=Goro Akechi
 Yaoling Li=Yaoling Li
 Yaoling=Yaoling
 Hina Nishimori=Hina Nishimori
-Ruferu=Ruferu
 Motoha Arai=Motoha Arai
 Motoha=Motoha
 Arai=Arai

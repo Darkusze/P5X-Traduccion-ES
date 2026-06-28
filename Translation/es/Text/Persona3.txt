@@ -2398,6 +2398,8 @@ If you think you can handle it, that is.=Si crees que puedes manejarlo, claro es
 You unlocked the City Life activity <color\=#ffc000>Help out at the police station</color>. There is a chance for it to appear each day.=Has desbloqueado la actividad de Vida Urbana <color\=#ffc000>Ayudar en la Comisaría.</color>. Existe la posibilidad de que aparezca cada día.
 Check missing persons=Revisar Personas Desaparecidas
 POLICE=POLICÍA
+There's a lot going on at the police station in Paulownia Mall today...=Hoy hay mucho movimiento en la comisaría del Centro Comercial Paulownia...
+
 
 Help out at the police station=Ayudar en la estación de policia
 I could go help out at the police station in Paulownia Mall...=Podría ir a ayudar a la estación de policia del centro comercial Paulownia...
@@ -2409,6 +2411,14 @@ Feel free to stop by again sometime. I could\nalways do with the help.=No dudes 
 Fine work. I'm glad you had the courage to\noffer your assistance.=Buen trabajo.\nMe alegro que hayas tenido el coraje de ofrecer tu ayuda.
 Now, then. Shall we get going?=Ahora bien. ¿Nos vamos?
 
+Would you like to help at the police station?=¿Te gustaría ayudar en la comisaría?
+There's a lot more than usual\nto do today... I should lock in\nand get to work...=Hay mucho más trabajo de\nlo habitual... Debería concentrarme\ny ponerme a trabajar...
+I sorted through the lost and\nfound items that were sitting\nin the warehouse...=Clasifiqué los objetos perdidos que\nestaban acumulándose en el\nalmacén...
+I guided a tourist who was\nasking for directions\non a map...=Le di indicaciones a un turista\nque estaba buscando una dirección\nen un mapa...
+You were a big help today. This city is\nlooking a little better now.=Fuiste de gran ayuda hoy. Gracias a ti, esta ciudad es un lugar un poco mejor.
+Feel free to stop by again if you ever have\ntime. I could always use the help.=Eres libre de volver cuando tengas tiempo.\nTu ayuda siempre me vendrá muy bien.
+Looks like you had quite the fulfilling day.=Parece que tuviste un día bastante productivo.
+I should gather up my\nbelongings and get going...=Debería recoger mis\ncosas y marcharme…
 
 Fountain in the Square=Fuente en la Plaza
 Check the fountain=Revisa la Fuente
@@ -2441,6 +2451,7 @@ I feel like I could finish\neven the spiciest of dishes\nright now...!=¡Siento 
 I guess I'll leave it here\nfor today...=Supongo que lo dejaré\naquí por hoy...
 
 Should I make a wish?=¿Debería pedir un deseo?
+Make a wish=Pide un deseo
 I wished that I could\nacquire more knowledge...=Pedí el deseo de poder\nadquirir más conocimientos...
 I suddenly had a flash of\ninspiration for a solution to\na difficult homework problem...=De repente tuve un destello de\ninspiración para resolver un\nproblema difícil de la tarea...
 Does this mean my wish\nhas been granted...?=¿Significa esto que mi deseo\nse ha cumplido...?
@@ -2454,6 +2465,9 @@ I remembered that\nI need to water the\nplants in my garden...=De pronto record�
 A strong urge to help them\ngrow healthy and strong is\nwelling up inside me...=Un fuerte impulso por ayudarlas\na crecer sanas y fuertes comenzó\na brotar desde mi interior...
 I feel a wave of kindness\nwash over my whole body...=Siento cómo una ola de amabilidad\nrecorre todo mi cuerpo...
 I guess I'll leave it here\nfor today...=Lo dejaré aquí por hoy...
+
+I recalled a scene from a\ntouching movie I saw. A gentle\nwarmth filled my heart...=Recordé una escena de una película muy\nconmovedora. Una agradable calidez inundó\nmi corazón...
+In any case, it feels like\nI've gained more Kindness...=En cualquier caso, siento que mi Amabilidad\nha aumentado...
 
 I wished that I could become\na more charming person...=Pedí el deseo de poder\nconvertirme en una persona\nmás encantador...
 I suddenly had an idea for a\nstylish way to throw a coin\ninto the fountain...!=¡De repente se me ocurrió una\nforma muy sofisticada de lanzar\nuna moneda a la fuente...!
@@ -2489,6 +2503,12 @@ Let's head to Tartarus and meet up with Makoto.=Vayamos al Tártaro y encontrém
 Head to a New Location=Dirígete a una Nueva Ubicación
 Check your messages=Revisa tus mensajes
 
+
+A Brief Respite=Un Breve Respiro
+Head to Paulownia Mall=Dirígete al Centro Comercial Paulownia.
+Let's go to Paulownia Mall.=Vamos al Centro comercial Paulownia.
+
+
 Luminous Island=Isla Luminosa
 r:"^Clear Chapter ([0-9]+) of Luminous Island$"="Completa el capítulo $1 de la Isla Luminosa"
 r:"^Open ([0-9]+) treasure chests$"="Abre $1 cofres del tesoro"
@@ -2515,7 +2535,7 @@ Unlock the Vintage Necklace at Mayoido Antiques=Desbloquea el Collar Vintage en 
 Twilight Fragment=Fragmentos Crepusculares
 Obtain a Twilight Fragment=Obtén Fragmentos Crepusculares
 
-{{A}}'s Dream Fragment=Fragmento de Sueño de {{A}}
+r:"^(.+?)'s Dream Fragment$"="Fragmento de Sueño de $1"
 Dream Fragment=Fragmento de Sueño
 Obtained from Tartarus. Can be used to unlock {{A}}'s side story.=Obtenido del Tártaro.\nSe puede utilizar para desbloquear la historia secundaria de {{A}}.
 
@@ -2557,6 +2577,8 @@ Play Next Stage=Jugar siguiente\netapa
 By the Light of the Silvery Moon=A la Luz de la Luna Plateada
 EXPLORE=EXPLORAR
 STORY=HISTORIA
+INFORMATION=INFORMACIÓN
+TALK=HABLAR
 Replay=Repetir
 STRENGTHEN=FORTALECER
 Item Details=Detalles del Objeto
@@ -2665,6 +2687,9 @@ Chagall Café is not unlocked. Do you want to track it?=La Cafetería Chagall no
 Aohige Pharmacy is not unlocked. Do you want to track it?=La Farmacia Aohige no está desbloqueada. ¿Quieres rastrearlo?
 Police Station is not unlocked. Do you want to track it?=La Estación de Policía no está desbloqueada. ¿Quieres rastrearlo?
 Clear the mission Pierce the Night Sky to unlock <color\=#ffc000>Paulownia Mall</color>.=Completa la misión Perfora el Cielo Nocturno para desbloquear<color\=#ffc000>Centro Comercial Paulownia</color>.
+joined the exploration team.=se unió al equipo de exploración.
+You do not have enough Soul Fragments to unlock this. Find more by exploring Tartarus.=No tienes suficientes fragmentos de alma para desbloquear esto. Consigue más explorando el Tártaro.
+You don't have enough Clock Gears to purchase this.=No tienes suficientes Engranajes de Reloj para comprar esto.
 
 r:"^Enemy Strength: +([0-9]+)$"="Fuerza del Enemigo: +$1"
 Exploration Difficulty: =Dific. de exploración: 
@@ -3020,6 +3045,12 @@ A valuable currency found in Tartarus. Resets after each challenge.=Valuable mon
 A currency found in Tartarus. Resets after each challenge.=Moneda encontrada en el Tártaro.\nSe reinicia después de cada desafío.
 <color\=#67FCFC>Clock Gears</color>\nCan be used to manifest cards at the Great Clock. Resets at the end of exploration.=<color\=#67FCFC>Engranajes de Reloj</color>\nSe puede utilizar para manifestar cartas en el Gran Reloj.\nSe reinicia al terminar la exploración.
 Clock Gears\nA currency found in Tartarus. Resets after each challenge.=Engranajes de Reloj\nValuable moneda encontrada en el Tártaro.\nSe reinicia después de cada desafío.
+
+Luck Charm=Amuleto de la Suerte
+Attraction Charm=Amuleto de Atracción
+
+
+Increased chance of Formidable Shadows appearing. Experience gained <color\=#3DE594>increases by 5%</color>.=Mayor probabilidad de que aparezcan Sombras Formidables. La experiencia obtenida <color\=#3DE594>aumenta un 5%</color>.
 
 
 #Mayoido
@@ -3473,6 +3504,12 @@ Venus Eagle=Águila Venus
 Maniacal Book=Libro Maníaco
 Fleetfooted Cavalry=Caballería de Pies Ligeros
 Lustful Snake=Serpiente Lujuriosa
+Slaughter Drive=Matanza
+Scarlet Turret=Torre Escarlata
+
+
+Scarlet Turret can't move!=¡La Torre Escarlata no puede moverse!
+Slaughter Drive can't move!=¡Matanza no puede moverse!
 
 
 
@@ -4724,6 +4761,10 @@ Something feels off about Tartarus... Let's\nbe careful as we search each floor.
 I gotta admit, I had my doubts about how this\nwas gonna pan out...=Tengo que admitirlo, tenía mis dudas acerca de como iba a resultar esto...
 But thanks to you, I think that things will\nbe all right after all.=Pero gracias a ti, creo que las cosas estarán bien después de todo.
 
+#Akihiko Sanada
+A different Tartarus than the one we know...=Un Tártaro diferente al que conocemos...
+Probably some tough Shadows in there... this is gonna be fun!=De seguro habrá Sombras muy duras ahí dentro...\n¡Esto se va a poner divertido!
+
 +----- Makoto Yuki ------+
 r:"^Do you want to spend (.*?)'s Dream Fragment x(\d+) to unlock the story\?$"="¿Quieres gastar Fragmento de Sueño de $1 x$2 para desbloquear la historia?"
 Unlocked after watching the prologue.=Se desbloquea después de ver el prólogo.
@@ -4994,7 +5035,7 @@ Yeah, that's a good way of doing it.=Sí, esa es una buena manera de hacerlo.
 If you work too much, you won't have any time\nfor yourself, after all.=Después de todo, si trabajas demasiado, no tendrás tiempo para ti.
 
 #C2
-I love part-time jobs.=Me encantan los trabajos a tiempo parcial.
+I love part-time jobs.=<size\=24>Me encantan los trabajos a tiempo parcial.</size>
 I told him about the jobs I've\nworked so far...=Le hablé de los trabajos que\nhe trabajado hasta ahora...
 Whoa... I didn't know that you were so\ndedicated.=Vaya... no sabía que eras tan dedicado.
 Maybe I should work harder?=¿Quizás debería trabajar más duro?
@@ -5240,6 +5281,7 @@ Huh, so it's that popular? I'd like to go\nsometime.=¿Eh, entonces es tan popul
 Makoto seems curious about the\nShibuya beef bowl\nrestaurant...=Makoto parece tener curiosidad\npor el restaurante de tazones\nde carne de Shibuya...
 It might be fun to take him\nthere...=Podría ser divertido llevarlo allí...
 Just like with that fragment,\nI feel like I've ended up in\nsome strange world...=Al igual que con ese fragmento,\nsiento como si hubiera terminado\nen algún mundo extraño...
+Just like with the fragment,\nwe seem to have been transported\nto that strange dimension...=Al igual que con el fragmento, tal parece\nque fuimos transportados a esa extraña\ndimisión...
 I see. This is the beef bowl restaurant you\ntold me about.=Ya veo.\nEste es el restaurante de tazones de carne del que me hablaste.
 It's as crowded as you said, but it smells\ngood. I'd like to get some...=Está tan lleno como dijiste, pero huele bien.\nMe gustaría conseguir algunos...
 Oh, {{A}}-kun?=Oh, ¿{{A}}-kun?

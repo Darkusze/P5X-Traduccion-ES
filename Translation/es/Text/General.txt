@@ -472,7 +472,7 @@ Defense=Defensa
 Buy Weapons at the Airsoft Shop=Compra armas en la tienda de Airsoft
 Forge Details=Detalles de forja
 Armory=Armería
-Change=Cambiar
+Change=Cambio
 Enhance=Mejorar
 Swapped weapons keep the previous weapon's level.=Las armas intercambiadas conservan el nivel del arma anterior.
 Boosted Rewards Left Today:=Recompensas mejoradas restantes hoy:
@@ -2211,6 +2211,7 @@ HI=HOLA
 PEQ ADRIAN=Peq Adrian
 veridis quoth=veridis quoth
 The Fish Whisperer=El susurrador de peces
+There's a rumor floating around Shinjuku about someone called the Fish Whisperer.\nI should try to find out more.=Circula un rumor en Shinjuku sobre alguien llamado el Susurrador de Peces. Debería tratar de averiguar más al respecto.
 Pro Thief=Ladrón profesional
 Did you see a cat go by here?=¿Viste pasar un gato por aquí?
 Can be obtained after completing a Daily Pass.=Se puede obtener tras completar un Pase Diario.
@@ -3816,7 +3817,7 @@ Obtain <color\=#ffD145>[Support] Kayo Tomiyama</color>!=Obtén a <color\=#ffD145
 Weekly Cumulative Rewards:=Recompensas semanales:
 Choose the path of the train, and resolve incidents as you aim for the final stop! Chance to earn Route Tickets during the event.=Elige la ruta del tren y resuelve los incidentes mientras avanzas hacia la parada final. ¡Oportunidad de ganar boletos de ruta durante el evento!
 New route unlocked=Nueva ruta desbloqueada
-{{A}} the Eastern Construction Site={{A}} en el sitio de construcción del este
+Clear the Eastern Construction Site=Completa el sitio de Construcción del Este
 Obtain the weapon <color\=#ffd145>Shadow Crowns</color>!=Obtén el arma <color\=#ffd145>Coronas de sombra</color>!
 Awaken the second Phantom Thief(0/1)=Despierta al segundo Ladrón Fantasma (0/1)
 {{A}}ed=Completado
@@ -10351,7 +10352,7 @@ If you retreat, points will not be recorded.\nRetreat?=Si te retiras, los puntos
 H<color\=#000000>P</color> Up=A<color\=#000000>u</color>mento de PS
 D<color\=#000000>a</color>mage Reduction Up=A<color\=#000000>u</color>mento de reducción de Daño
 Ragnarok=Ragnarok
-Challenge Difficulty: EaSY=Dificultad del desafío: FaCIL
+Challenge Difficulty: EaSY=Dificultad del desafío: FáCIL
 {{A}}.12={{A}}.12
 Stat down! Oh snap!=¡Estadísticas reducidas!\n¡Rayos!
 Cannot use during cooldown.=No se puede usar durante el tiempo de recarga.
@@ -17612,7 +17613,7 @@ Three {{A}}. 30 Thieves=Tres {{A}}. 30 Ladrones
 I got this!=¡Lo tengo!
 Okay, I’ll take care of it.=Vale, yo me encargo.
 Cognition Crystals\nCan be used for Contracts, Arms Deals, and recovering stamina.=Cristales Cognitivos Se pueden utilizar para Contratos, Tratos de Armas y para recuperar resistencia.
-Meta Jewels\nCan be used for Contracts, Arms Deals, and recovering stamina.=Meta Joyas pueden usarse para Contratos, Tratos de armas y recuperar resistencia.
+Meta Jewels\nCan be used for Contracts, Arms Deals, and recovering stamina.=Meta Gemas pueden usarse para Contratos, Tratos de armas y recuperar resistencia.
 I went to the izakaya\nwith Minami...=Fui al izakaya con Minami...
 Hey there Nagisa-kun.=Hola Nagisa-kun.
 Minami-chan! You're back!=¡Minami-chan! ¡Has vuelto!
@@ -24194,8 +24195,8 @@ Complete a song=Completar una canción
 Band Badge=Insignia de la banda
 Band club practice has been unlocked.=Se ha desbloqueado la práctica del club de la banda.
 R<color\=#ff0000ff>i</color>tsuka Takanashi=R<color\=#ff0000ff>i</color>tsuka Takanashi
-HaRD=HaRD
-EaSY=EaSY
+HaRD=DiFÍCIL
+EaSY=FáCIL
 Difficulty: =Dificultad: 
 BPM：=BPM：
 Pro=Pro
@@ -42295,6 +42296,45 @@ Seems she hasn't noticed me...=Parece que no me ha notado...
 Leave her be=Déjala en paz.
 Say something=Decir algo
 I decided not to interrupt\ntheir fun...=Decidí no interrumpir su diversión...
+You're right, kitty cat, the weather is nice\ntoday. Perfect for a nap.=Tienes razón, gatito, el clima está hermoso hoy. Es perfecto para una siesta.
+My name's Hiyori by the way!=Por cierto, ¡me llamo Hiyori!
+Meow, meow?=¿Miau, miau?
+Meow—!=¡Miau—!
+You were listening this whole time!?=¡¿Estabas escuchando todo este tiempo?!
+Um— Uhhh... Can I help you?=Esto... este... ¿Te puedo ayudar en algo?
+Who were you talking to?=¿Con quién estabas hablando?
+I um... Well, I...=Este... bueno, yo...
+Um, there was um... This kitty was here so...=Es que... había un... un gatito estaba aquí, así que...
+Giirl Called Hiyori=Chica llamada Hiyori
+I was just... talking... to it...=Yo solo... estaba... hablando... con él...
+I like kitties... So when I see one... I\nalways talk to it...=Me encantan los gatitos... Así que cuando veo uno... siempre le hablo...
+She's pretty shy...=Es bastante tímida...
+Um... Ummm...=Esto... Ummm...
+Cats are cute.=<size\=28>Los gatos son muy lindos.</size>
+I like cats too.=<size\=28>A mí también me gustan los gatos.</size>
+*gasp* Really!?=*jadeo* ¡¿En serio?!
+Anyone who likes kitties... must be a good\nperson. I think. Probably.=Quienquiera que ame a los gatitos... debe ser una buena persona. Creo. Lo más seguro.
+You know, when I was little... A kitty\nrescued me once.=Sabes, cuando era pequeña... Un gatito me rescató una vez.
+I got lost and I was crying, but then a kitty\ncat showed up... It seemed like it was\nsaying "Follow me!" So I did...=Me había perdido y estaba llorando, pero apareció un gato... Parecía que me decía "¡Sígueme!".\nY así lo hice...
+I followed after it, and it led me straight\nhome! I've been grateful to kitties\never since.=¡Lo siguí y me llevó directo a mi casa!\nDesde entonces les tengo una enorme gratitud a los gatitos.
+That's why, um, I wanna repay my debt to\nkitties. I even raise money by the train\nstation.=Por eso, este... quiero saldar mi deuda con ellos.\nIncluso organizo colectas cerca de la estación de tren.
+It's a feline fund. For kitties in need! But\nit's hard striking up conversations with\npeople.=Es un fondo felino. ¡Para los gatitos desamparados!\nPero me cuesta muchísimo trabajo iniciar una conversación con las personas.
+Even though it's so easy talking\nto kitties...=A pesar de que hablar con los gatitos\nes lo más fácil del mundo...
+She doesn't seem to be having\ntrouble talking now, though...=Aunque tal parece que a ella ahora mismo\nno le cuesta nada de trabajo hablar...
+Maybe cats are the only topic\nshe can handle...=Quizá los gatos sean el único\ntema con el que ella se\npueda desenvolver...
+Can I lend a hand?=¿Te puedo echar una mano?
+Let me help.=Déjame ayudarte.
+Huh!? You would...?=¡¿Eh?! ¡¿De verdad lo harías...?!
+Having you with me will help... I think.=Que me acompañes me servirá de ayuda... creo.
+I wanna gather lots of funds. For my feline\nfriends...=Quiero juntar muchos fondos... para mis amigos felinos...
+Oh. Wait. I didn't tell you my name...=Ah, espera. Si todavía no te he dicho mi nombre...
+I'm <color\=#FF423F>Hiyori Koide</color>. It's nice to... meet you.=Soy <color\=#FF423F>Hiyori Koide</color>. Es un... un placerconocerte.
+I always do my fundraising in front of the\nstation. If you want to, we could...=Siempre hago las colectas frente a la estación.\nSi estás de acuerdo, podríamos...
+I'll try to help out.=<size\=28>Intentaré ayudar en lo que pueda.</size>
+Yeah! Let's do our best!=¡Sí! ¡Demos nuestro mejor esfuerzo!
+I helped Hiyori collect\nsome money...=Ayudé a Hiyori a recolectar\nalgo de dinero...
+I'll try to say hi again the\nnext time I see her...=Intentaré pasar a saludarla la próxima\nvez que la vea...
+You unlocked the City Life activity\n<color\=#ffc000>Talk to Hiyori</color>.\nThere is a chance for it to appear each day.=Desbloqueaste la actividad de vida urbana\n<color\=#ffc000>Hablar con Hiyori</color>.\nTendrá una probabilidad de aparecer cada día.
 {{A}} and I chatted at the\nplanetarium. She taught me\nabout the zodiac.={{A}} y yo charlamos en el\nplanetario. Ella me enseñó\nsobre el zodiaco.
 I like us meeting here. It really feels like\nwe're in Tokyo, y'know?=Me gusta que nos encontremos aquí. Realmente siente como si estuviéramos en Tokio, ¿sabes?
 Shiina and I hung out\nin Shibuya. We gushed over a\nband shown on the jumbotron.=Shiina y yo nos reunimos en\nShibuya. Nos entusiasmamos con una\nbanda que se mostraba en la pantalla gigante.
@@ -55226,6 +55266,8 @@ A skill card that can teach the skill Battle Acumen III to a Persona.  \nMaximum
 A skill card that can teach the skill Fire Boost III to a Persona.  \nMaximum Level Effect: Increase Fire damage by 8.7%.=Una carta de habilidad que puede enseñar la habilidad Aumento de Fuego III a una Persona.  \nEfecto al nivel máximo: Incrementa el daño de Fuego en 8.7%.
 A skill card that can teach the skill Rebellion to a Persona.  \nMaximum Level Effect: Increase 1 ally's critical rate by 9.3%. For every 10% of the user's critical rate, increase the target's critical rate by 1.6% more, up to 6.4%. Lasts for 3 turns.=Una tarjeta de habilidad que puede enseñar la habilidad Rebelión a una Persona.  \nEfecto de Nivel Máximo: Aumenta la probabilidad de crítico de 1 aliado en un 9.3%. Por cada 10% de la probabilidad de crítico del usuario, aumenta la probabilidad de crítico del objetivo en un 1.6% adicional, hasta un máximo de 6.4%. Dura 3 turnos.
 A skill card that can teach the skill Rakunda to a Persona.  \nMaximum Level Effect: Decrease 1 foe's Defense by 38.8% for 3 turns.=Una carta de habilidad que puede enseñar la habilidad Rakunda a una Persona.  \nEfecto al nivel máximo: Reduce la Defensa de 1 enemigo en un 38.8% durante 3 turnos.
+Universal Theoria=Teoría Universal
+A skill card that can teach the skill "Universal Theoria" to a Persona.\nMaximum Level Effect: Increase party's Attack by 30.0%, and also increase the main target's damage by 20.0% for 2 turns.=Una carta de habilidad que enseña "Teoría Universal" a una Persona.\nEfecto en nivel máximo: Aumenta el Ataque del equipo en un 30.0% e incrementa el daño que recibe el objetivo principal en un 20.0% durante 2 turnos.
 Change Message Frame=Cambiar Marco de Mensaje
 S<color\=#ff0000ff>h</color>oki Ikenami=S<color\=#ff0000ff>h</color>oki Ikenami
 Nagisa, do you ever find it frightening to be a phantom thief?=Nagisa, ¿alguna vez te resulta aterrador ser un Ladrón Fantasma?
@@ -55456,7 +55498,7 @@ Sparkling Summer Night=Noche de Verano Brillante
 Lingering Glow=Resplandor Persistente
 Sentimental Seabreeze=Brisa Marina Sentimental	
 When the party deals <color\=#FFFC40>Almighty dmg</color>, increase dmg by 25%, and critical dmg by 25%.=Cuando el equipo inflige <color\=#FFFC40>Daño Todopoderoso</color>, aumenta el daño en un 25%, y el daño crítico en un 25%.
-Only the Purgatory Shard can be used as material.=Solo el Purgatory Shard puede usarse como material.
+Only the Purgatory Shard can be used as material.=Solo el Fragmento del Purgatorio puede usarse como material.
 Do you want to use Purgatory Shard and forge?=¿Quieres usar Fragmento del Purgatorio y forjar?
 G<color\=#000000>u</color>n Damage Taken Up=D<color\=#000000>a</color>ño de Arma a Distancia Recibido Aumentado
 Rave Review=Reseña entusiasta
@@ -56468,3 +56510,22 @@ C<color\=#000000>u</color>rse Weakness=D<color\=#000000>e</color>bilidad a Maldi
 Curse affinity changed to Weak!=¡La afinidad de Maldición cambió a Débil!
 Curse Weakness=Debilidad a Maldición
 Change Curse affinity to Weak.=Cambia la afinidad de Maldición a Débil.
+
+Perseverance & Sorrow=Perseverancia y Dolor
+For each foe on the field, increase Electric damage by <color\=#2899ff>8%</color>. Maximum of <color\=#2899ff>32%</color>.=Por cada enemigo en el campo, aumenta el daño Eléctrico en un <color\=#2899ff>8%</color>. Máximo de un <color\=#2899ff>32%</color>.
+Sorrow=Dolor
+[Sorrow]=[Dolor]
+Sorrow: Sun=Dolor: Sol
+Sorrow: Moon=Dolor: Luna
+Sorrow: Star=Dolor: Estrella
+Sorrow: Sky=Dolor: Cielo
+4 Set Effect：Increase damage by <color\=#2899ff>20%</color> for 3 turns. After activating a Highlight, gain the same effect again.=4 Piezas: Aumenta el daño en un <color\=#2899ff>20%</color> durante 3 turnos. Tras activar un Highlight, obtienes el mismo efecto de nuevo.
+
+[Change]=[Cambio]
+Perseverance & Change=Perseverancia y Cambio
+Increase continuous damage effect by <color\=#2899ff>16%</color>.=Aumenta el efecto de daño continuo en un <color\=#2899ff>16%</color>.
+Change: Sun=Cambio: Sol
+Change: Moon=Cambio: Luna
+Change: Star=Cambio: Estrella
+Change: Sky=Cambio: Cielo
+4 Set Effect：Increase Attack by <color\=#2899ff>25%</color> for 2 turns. After activating a critical, gain the same effect again.=4 piezas: Aumenta el Ataque en un <color\=#2899ff>25%</color> durante 2 turnos. Tras activar un crítico, obtienes el mismo efecto de nuevo.
