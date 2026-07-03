@@ -15072,7 +15072,7 @@ Hey, big bro...\nPlease, wake up!=Oye, hermano mayor... ¡Por favor, despierta!
 {{A}}'s Gun damage is increased by 20%.=El daño de Arma a Distancia de {{A}} aumenta un 20%.
 The boss' affinities change, and the party's <color\=#FFFC40>weakness damage</color> is increased by 50%.=Las afinidades del jefe cambian, y las del partido <color\=#FFFC40>daño por debilidad</color> aumenta un 50%.
 Calm down,\nlet's heal up first.=Cálmate, vamos a curarnos primero.
-Psycho Force=Fuerza psicológica
+Psycho Force=Fuerza Psico
 C<color\=#000000>r</color>itical Rate Up=A<color\=#000000>u</color>mento de Probabilidad Crítica
 G<color\=#000000>e</color>nbu's Might=P<color\=#000000>o</color>der de Genbu
 S<color\=#000000>u</color>zaku's Might=P<color\=#000000>o</color>der de Suzaku
@@ -25066,7 +25066,6 @@ The new teacher\nseems pretty good.=El nuevo profesor parece bastante bueno.
 I don't really like\nthat new teacher...=No me gusta mucho ese nuevo profesor...
 Do you think the\nclass rep is, uh,\nsingle?=¿Crees que el delegado de clase está soltero?
 The new teacher is\nso hot... Should I\ntalk to him?=El nuevo profesor está tan bueno... ¿Debería hablar con él?
-F<color\=#ff0000ff>i</color>re Hydrant=H<color\=#ff0000ff>i</color>drante
 It's not the biggest beach,\nbut it's still one of the best\nplaces to enjoy the summer.=No es la playa más grande, pero sigue\n siendo uno de los mejores lugares\n para disfrutar del verano.
 H<color\=#ff0000ff>e</color>ritage Kitchen=H<color\=#ff0000ff>e</color>ritage Kitchen
 You unlocked the City Life activity\n<color\=#ffc000>Work at Heritage Kitchen</color>.\nThere is a chance for it to appear each day.=Has desbloqueado la actividad Vida Urbana\n<color\=#ffc000>Trabajar en Heritage Kitchen</color>. Existe la posibilidad de que aparezca cada día.
@@ -41747,16 +41746,16 @@ Practicing every day is essential.\nJoin practice and improve your soccer skills
 Amate<color\=#ffff00ff>u</color>r=Afici<color\=#ffff00ff>o</color>nado
 Sc<color\=#ffff00ff>r</color>immager=Co<color\=#ffff00ff>n</color>tendiente
 L<color\=#ffff00ff>i</color>ghtning Fast=R<color\=#ffff00ff>e</color>lampagueante
-Benchwarmer {{A}}.1=Suplente {{A}}.
-Amateur {{A}}.2=Aficionado {{A}}.2
-Scrimmager {{A}}.3=Contendiente {{A}}.3
-Move Master {{A}}.4=Movimiento Maestro {{A}}.4
-Cool Kicker {{A}}.5=Pateador con Estilo {{A}}.5
-Control Tower {{A}}.6=Torre de Control {{A}}.6
-Lightning Fast {{A}}.7=Relampagueante {{A}}.7
-Pivot Player {{A}}.8=Jugador Pivote {{A}}.8
-Varsity MVP {{A}}.9=MVP de la Selección {{A}}.9
-Soccer Star {{A}}.10=Estrella del Fútbol {{A}}.10
+Benchwarmer Lv.1=Suplente Nv.1
+Amateur Lv.2=Aficionado Nv.2
+Scrimmager Lv.3=Contendiente Nv.3
+Move Master Lv.4=Movimiento Maestro Nv.4
+Cool Kicker Lv.5=Pateador con Estilo Nv.5
+Control Tower Lv.6=Torre de Control Nv.6
+Lightning Fast Lv.7=Relampagueante Nv.7
+Pivot Player Lv.8=Jugador Pivote Nv.8
+Varsity MVP Lv.9=MVP de la Selección Nv.9
+Soccer Star Lv.10=Estrella del Fútbol Nv.10
 Benchwarmer =Suplente 
 Amateur =Aficionado 
 Scrimmager =Contendiente 
@@ -41767,6 +41766,8 @@ Lightning Fast =Relampagueante
 Pivot Player =Jugador Pivote 
 Varsity MVP =MVP de la Selección 
 Soccer Star =Estrella del Fútbol 
+As the soccer team grows stronger, Kokatsu turns to improving the team's leadership skills. Cultivating a sense of responsibility, the team sets their sights ever higher.=A medida que el equipo de fútbol se fortalece, Kokatsu comienza a mejorar sus habilidades de liderazgo. Al cultivar un sentido de responsabilidad, el equipo apunta cada vez más alto.
+Pi<color\=#ffff00ff>v</color>ot Player=Ju<color\=#ffff00ff>g</color>ador Pivote
 The goalkeeper's <color\=#FF3B37>top-left side</color> looks open. Spot weaknesses at <color\=#FF3B37>Insight {{A}}. 2</color>.=El lado <color\=#FF3B37>superior izquierdo</color> del portero parece abierto. Detecta debilidades con <color\=#FF3B37>Perspicacia {{A}}. 2</color>.
 You still lack the insight to find your\nopponent's weaknesses. You need practice.=Todavía te falta la perspicacia para encontrar las debilidades de tu oponente. Necesitas practicar.
 That goalkeeper is more than you can handle\nat present. Better practice more and\ntry again.=Ese portero está más allá de lo que puedes manejar en este momento. Practica más y vuelve a intentarlo.
@@ -43192,7 +43193,7 @@ Maybe it's actually a famous actor...\nI'd love to talk to them sometime.=Tal ve
 But, even as an aspiring costumed stuntman,\nI can't just talk to them if they're on\nthe job.=Pero, incluso siendo un aspirante a especialista disfrazado, no puedo simplemente hablar con ellos si están trabajando.
 So if you ever hear anything about\n{{A}}'s actor, fill me in, okay?=Así que si escuchas algo sobre el actor de {{A}}, avísame ¿sí?
 Kamiyama told me his theories\nabout the person playing\n{{A}}...=Kamiyama me contó sus teorías\nsobre la persona que actua\na {{A}}...
-The Beautiful Game: Part 2=El Hermoso Juego: Parte 2
+The Beautiful Game: Part 2=El Juego Hermoso: Parte 2
 Hey, how's it goin'? Feel like hitting the\nbatting cages?=Hey, ¿cómo va todo? ¿Te apuntas a ir a la zona de bateo?
 Oh, okay. Lemme know when you're around!=Oh, está bien. ¡Avísame cuando estés por aquí!
 Cool! Let's change and head over!=¡Genial! ¡Cambiémonos y vamos para allá!
@@ -55198,6 +55199,7 @@ W<color\=#000000>i</color>nged Canon=C<color\=#000000>a</color>non Alado
 M<color\=#000000>e</color>lody of Steps=M<color\=#000000>e</color>lodía de Pasos
 C<color\=#000000>r</color>escendo=C<color\=#000000>r</color>escendor
 D<color\=#000000>a</color> Capo=D<color\=#000000>a</color> Capo
+A<color\=#000000>l</color>legro=A<color\=#000000>l</color>legro
 <color\=#72C5FF>Final Damage Amplification</color>=<color\=#72C5FF>Amplificación de Daño Final</color>
 [Count] Enhance Melody of Steps, or use to reduce cooldown time after using Prayer Refrain.=[Cargas] Mejora la Melodía de Pasos, o úsalo para reducir el tiempo de enfriamiento tras usar Estribillo de Oración.
 An effect that increases final damage. This effect is calculated independently.=Un efecto que aumenta el daño final. Este efecto se calcula de forma independiente.
@@ -56529,3 +56531,319 @@ Change: Moon=Cambio: Luna
 Change: Star=Cambio: Estrella
 Change: Sky=Cambio: Cielo
 4 Set Effect：Increase Attack by <color\=#2899ff>25%</color> for 2 turns. After activating a critical, gain the same effect again.=4 piezas: Aumenta el Ataque en un <color\=#2899ff>25%</color> durante 2 turnos. Tras activar un crítico, obtienes el mismo efecto de nuevo.
+
+Perseverance Revelation - Blue=Revelación de Perseverancia - Azul
+
+W<color\=#ff0000ff>e</color>ll-Informed Girl=C<color\=#ff0000ff>h</color>ica Bien Informada
+Well-Informed Girl=Chica Bien Informada
+Did you hear? A new shop opened up near\nPaulownia Mall!=¿Escuchaste? ¡Abrió una tienda nueva cerca del Centro Comercial Paulownia!
+Huh, first I heard of it...=¿Eh?, recién lo escucho…
+Ugh, maybe if you weren't so busy with club\nstuff...!=Uf, ¡quizás si estuvieras menos ocupado con lo del club...!
+I know! We should go together! There's a\nreally good café nearby too!=¡Lo sé! ¡Deberíamos ir juntos! Hay una cafetería muy buena cerca también.
+Okay... As long as my schedule's clear.=De acuerdo... siempre y cuando mi horario esté libre.
+
+F<color\=#ff0000ff>i</color>re Hydrant=B<color\=#ff0000ff>o</color>ca de Incendios
+It's a fire hydrant.=Es una boca de incendios.
+
+My, my... Your focus\nis lacking.=Vaya, vaya... Te hace falta\nmucha concentración.
+The goalkeeper's <color\=#FF3B37>top-left side</color> looks open. Spot weaknesses at <color\=#FF3B37>Insight Lv. 2</color>.=El lado <color\=#FF3B37>superior izquierdo</color> del portero parece abierto. Detecta debilidades con <color\=#FF3B37>Percepción Nv. 2</color>.
+The goalkeeper's <color\=#FF3B37>right side</color> looks open. Spot weaknesses at <color\=#FF3B37>Insight Lv. 3</color>.=El lado <color\=#FF3B37>derecho</color> del portero parece abierto. Detecta debilidades con <color\=#FF3B37>Discernimiento Nv. 3</color>.
+Experience gained from playing with the soccer team. Can be used to raise your Soccer Team Level.=Experiencia obtenida al jugar con el equipo de fútbol. Se utiliza para subir el Nivel del Equipo de Fútbol.
+The goalkeeper's <color\=#FF3B37>left side</color> looks open. Spot weaknesses at <color\=#FF3B37>Insight Lv. 1</color>.=El lado <color\=#FF3B37>lado izquierdo</color> del portero parece abierto. Detecta debilidades con <color\=#FF3B37>Perspicacia Nv. 1</color>.
+The goalkeeper's <color\=#FF3B37>bottom-right side</color> looks open. Spot weaknesses at <color\=#FF3B37>Insight Lv. 4</color>.=El lado <color\=#FF3B37>esquina inferior derecha</color> del portero parece abierto. Detecta debilidades con <color\=#FF3B37>Perspicacia Nv. 4</color>.
+
+
+Glad to hear it! Let's head straight to the\nfield, then!=¡Me alegra oírlo!\n¡Entonces vayamos directamente al campo!
+*huff* *huff* It's finally over.=*Jadeo* *Jadeo* Ya se acabó por fin.
+That was exhausting...=Estuvo agotador...
+Let's get out of here. I've got some TV to\nwatch.=Ya vámonos de aquí. Tengo un programa que ver en la tele.
+The balls are still\nscattered around...=Las pelotas todavía siguen\ntodas tiradas por ahí...
+And we haven't done\nfield maintenance.=Y ni siquiera hemos\nlimpiado la cancha.
+Shouldn't we pick up the balls?=¿No deberíamos recoger las pelotas primero?
+Should we clean up the field?=¿Deberíamos limpiar la cancha?
+Huh? If you wanna do it, go ahead.=¿Eh? Si quieres hacerlo, adelante.
+We're too tired for that. Catch you later.=Estamos demasiado cansados para eso. Hasta luego.
+Huh? Where did everyone go?=¿Eh? ¿A dónde se fueron todos?
+I explained that everyone\nbailed on cleanup duty.=Les expliqué que todos\nse dieron de baja del\nturno de limpieza.
+Ugh, not again...=Ugh, otra vez…
+Sorry, {{A}}. That's no way for them to\ntreat our newest member.=Lo siento, {{A}}. No es así como debían tratar a nuestro nuevo miembro.
+Remember how I told you a lot of our players\nlost interest and quit all of a sudden?=¿Recuerdas cuando te dije que muchos de nuestros jugadores perdieron el interés y se dieron por vencidos de repente?
+It really took a toll on morale for the ones\nwho stuck around.=Realmente afectó la moral de quienes se quedaron.
+They're just barely participating in club\nactivities as it is.=Ya apenas participan en las actividades del club.
+Things like tending to the field and\npost-practice cleanup fall by the wayside.=Cosas como cuidar la cancha y limpiar después del entrenamiento se dejan de lado.
+But that's just the way it goes, so I usually\ntake care of it all myself.=Pero así son las cosas, así que normalmente me encargo de todo yo mismo.
+I wanna do something to change the attitude\naround here.=Quiero hacer algo para cambiar el ambiente de aquí.
+That's why I was recruiting players, trying\nto make it so we have the minimum needed to\nplay.=Por eso estaba reclutando jugadores, intentando asegurar que tengamos el mínimo necesario para jugar.
+Then you came along and agreed to join. Can\nyou imagine how thrilled I was?=Y luego llegaste tú y aceptaste unirte. ¿Te imaginas lo feliz que estaba?
+I'm definitely going to change things around\nhere, so just hold out till then, okay?=Definitivamente voy a cambiar las cosas por aquí, así que resiste un poco más, ¿de acuerdo?
+Thanks again. It's a huge relief having\nyou around.=Gracias de nuevo. Es un alivio enorme tenerte cerca.
+I know! Why don't we practice a bit before\ncleaning up?=¡Lo sé! ¿Por qué no practicamos un poco antes de limpiar todo?
+You're skilled, but you've only just joined.\nYou're struggling to make team plays, right?=Tienes talento, pero te acabas de unir.\nTe cuesta trabajo jugar en equipo, ¿verdad?
+That's why I'm thinking we should practice\nmaking plays between the two of us first.=Por eso estoy pensando que deberíamos practicar haciendo jugadas solo los dos primero.
+If the other guys see us cooperating, they'll\nprobably start thinking of doing the same\nwith you.=Si los demás nos ven cooperando, probablemente empezarán a pensar en hacer lo mismo contigo.
+Basically, I'm saying we should get some\nsecret training in by ourselves. What do\nyou say?=Básicamente, estoy diciendo que deberíamos entrenarnos en secreto solos. ¿Qué dices?
+Complete Kurosawa's secret training=Completa el entrenamiento secreto de Kurosawa.
+I should take part in Kurosawa's secret training.=Debería participar en el entrenamiento secreto de Kurosawa.
+I trained in secret\nwith Kurosawa...=Entrené en secreto con Kurosawa...
+After training, the two of\nus cleaned up together=Después del entrenamiento,\nnos pusimos a limpiar\nlos dos juntos...
+All right! Done cleaning. Thanks for\nhelping out.=¡Muy bien! Terminamos de limpiar.\n¡Gracias por la ayuda!
+Good work today. Ready to head out?=Buen trabajo hoy. ¿Listo para irnos?
+Oh, you know what!? We should stop for curry\non the way home!=¡Ah, ¿saben qué?! ¡Deberíamos pasar por un curry de camino a casa!
+Why not ramen?=¿Y por qué no ramen?
+Are you paying?=¿Tú vas a pagar?
+Of course! I know it's a little late, but we\nshould celebrate you joining the team.=¡Por supuesto! Sé que es un poco tarde, pero tenemos que celebrar tu llegada al equipo.
+There's a curry shop I visit often. I'll take\nyou there.=Hay un restaurante de curry al que voy seguido.\nYo invito.
+I ate curry with Kurosawa\nand returned home.=Comí curry con Kurosawa\ny regresé a casa...
+Go have curry with Kurosawa=Ve a comer curry con Kurosawa.
+The Beautiful Game: Part 3=El Juego Hermoso: Parte 3
+We're going to split into two teams and do a\nscrimmage!=¡Nos dividiremos en dos equipos y jugaremos un partido de práctica!
+We don't have enough for full teams, so it'll\nbe five on five.=No tenemos suficientes jugadores para formar equipos completos, así que será cinco contra cinco.
+I'll be the referee. That leaves exactly five\non each team.=Yo seré el árbitro. Eso deja exactamente a cinco en cada equipo.
+No fair! I wanna sit around and watch as\nthe ref.=¡No es justo! Yo quería quedarme sentado haciéndola de árbitro.
+Sorry, man. I called it.=Lo siento, amigo. Yo lo pedí primero.
+Okay, let's split the remaining members into\ntwo even teams.=Muy bien, dividamos a los demás en dos equipos equilibrados.
+I ended up on\nKurosawa's team...=Terminé en el equipo de Kurosawa...
+All right. Time to show them all how much our\nsecret training has paid off!=¡Excelente! ¡Es hora de demostrarles a todos cuánto ha valido la pena nuestro entrenamiento secreto!
+Our teamwork is going to blow everyone out of\nthe water!=¡Nuestro trabajo en equipo los va a dejar a todos con la boca abierta!
+Hey. This looks like it'll be an interesting\nmatch.=Oigan, parece que este partido se va a poner bastante interesante.
+Kadota, you're on the other team, right?\nGo easy on us, will you?=Kadota, estás en el equipo rival, ¿verdad?\nNo te vayas a pasar de la raya con nosotros.
+Nah, not gonna happen.=No lo creo, eso no va a pasar.
+I'm gonna get revenge for the penalty\nshootout the other day, {{A}}.=Me voy a cobrar la revancha de la tanda de penales del otro día, {{A}}.
+You and Kurosawa aren't going to get a single\nshot in. That's all I came to say.=Ni tú ni Kurosawa van a poder tirar a gol ni una sola vez. Eso es todo lo que vine a decir.
+Looks like he's starting to see you as a\nrival.=Por lo visto, ya empezó a verte como un rival.
+Does he hate me?=¿Me odia?
+Today's rival is tomorrow's friend.=<size\=28>Los rivales de hoy son los amigos del mañana.</size>
+Exactly! You know, Kadota's been pretty\nunmotivated lately, but...=¡Exacto! Sabes, Kadota ha estado bastante desanimado últimamente, pero...
+You must've lit a fire under him!=¡Se ve que le picaste el orgullo!
+Now we just need to stoke it!=¡Ahora solo nos queda mantenerlo motivado!
+{{A}}! Here comes a pass!=¡{{A}}! ¡Ahí va el pase!
+Taking the shot!=¡Tiro a gol!
+Nice pass!=¡Buen pase!
+Crap, they're right in front of the goal!=¡Rayos! ¡Están justo frente a la portería!
+Where did all this team play come from!?=¡¿De dónde rayos salió ese juego en equipo?!
+Damn it! I gotta stop him!=¡Maldita sea! ¡Tengo que detenerlo!
+Foul!=¡Falta!
+You okay, {{A}}? Can you make the kick?=¿Estás bien, {{A}}? ¿Puedes tirar tú?
+A one-on-one shootout against Kadota... It's\njust like the day you joined.=Un duelo mano a mano contra Kadota... Es justo como el día en que te uniste.
+Kadota is more motivated than he was\nback then...=Kadota está muchísimo más motivado que en ese entonces...
+But so are you. Show them where all that\nsecret training got you!=Pero tú también. ¡Demuéstrales a dónde te llevó todo ese entrenamiento secreto!
+Come at me. I'll stop you for sure this time!=¡Ven con todo! ¡Esta vez te voy a detener sin falta!
+Score the penalty kick=Anota el penal
+Way to go, {{A}}!=¡Así se hace, {{A}}!
+Nice shot, {{A}}! Looks like last time wasn't\na fluke!=¡Buen tiro, {{A}}!\n¡Parece que la última vez no fue una casualidad!
+Teammate=Compañero de Equipo
+I never doubted you from the start!=¡Nunca dudé de ti desde el principio!
+Energetic Member=Miembro Enérgico
+Damn it! I lost again!=¡Maldita sea! ¡Otra vez perdí!
+The penalty kick changed\nthe flow of the game...=El tiro penal cambió por completo\nel rumbo del partido...
+Our team won!=¡Nuestro equipo ganó!
+We won! All that training paid off!=¡Ganamos! ¡Todo ese entrenamiento valió la pena!
+All thanks to your assist.=<size\=28>Todo fue gracias a tu asistencia.</size>
+Were you setting me up to score?=¿Me la pusiste ahí para que anotara?
+Right? That was one fine pass if I do say\nso myself.=¿Verdad? Fue un pase perfecto,\nsi me lo permiten presumir.
+I need to talk to you.=Necesito hablar contigo.
+Got something to say?=¿Tienes algo que decirme?
+Don't look so scared. I'm not here to\ncomplain or anything.=No me mires con esa cara de susto.\nNo vine a reclamarte nada.
+The opposite, actually. I may have lost, but\nthat was a great match.=Al contrario, de hecho. Habré perdido, pero fue un partidazo.
+Your kicks awakened something in me.\nSomething I lost sight of lately.=Tus patadas despertaron algo dentro de mí.\nAlgo que había perdido de vista últimamente.
+My passion for soccer. I can feel it starting\nto come back to me.=Mi pasión por el fútbol. Siento que ya está empezando a volver.
+That's great, Kadota! You played one hell of\na game too!=¡Eso es genial, Kadota! ¡Tú también te jugaste un partidazo tremendo!
+Hey, umm ... {{A}}. Sorry about fouling you\nearlier.=Oye, este... {{A}}. Una disculpa por la falta de hace rato.
+Playing soccer with you got me fired up.=Jugar al fútbol contigo me motivó mucho.
+I haven't felt this way in forever. I guess\nyour spirit's rubbing off on me.=Hacía siglos que no me sentía así. Creo que tu entusiasmo se me está contagiando.
+Just as I'd hoped. You're proving to be a real positive influence on the team.=Justo como lo esperaba. Estás demostrando ser una influencia muy positiva para el equipo.
+This might be the perfect time to step things up a\nnotch!=¡Este podría ser el momento perfecto para exigirnos\nun poco más!
+Kurosawa and I celebrated\nour victory at the curry shop.=Kurosawa y yo celebramos nuestra\nvictoria en el restaurante\nde curry.
+
+The Beautiful Game: Part 4=El Juego Hermoso: Parte 4
+It's time for soccer practice.\nI should look for Kurosawa if I'm going to take part.=Es hora de practicar fútbol. Debería buscar a Kurosawa si quiero participar.
+I want to make an announcement before we\nstart today.=Quiero hacer un anuncio antes de que empecemos hoy.
+We're going to have a scrimmage against a\nteam from another school.=Vamos a hacer un partido de entrenamiento contra un equipo de otra escuela.
+Whoa, seriously?=¡Vaya, en serio?
+We haven't done that in a while. Who are\nwe playing?=No hacemos eso hace un buen rato. ¿Con quién vamos a jugaremos?
+Our opponent will be Nanjo Academy!=¡Nuestro oponente será la Academia Nanjo!
+Ugh... Not them.=Ugh... No ellos.
+Right? I'm sick of losing to those guys.=¿Verdad? Estoy harto de perder contra esos tipos.
+Nanjo Academy?=¿Academia Nanjo?
+Are they good?=¿Son buenos?
+We have a long history with them. You could\nsay they're our rivals.=Tenemos una larga historia con ellos. Podríamos decir que son nuestros rivales.
+Recently we've had a bad losing streak\nagainst them, and everyone's feeling pretty\nbitter about it.=Recientemente hemos tenido una mala racha perdiendo contra ellos, y todos se sienten bastante amargados por eso.
+That might be true, but it's not like they're\nbetter than us. We can beat them!=Eso podría ser cierto, pero no es que sean mejores que nosotros. ¡Podemos ganarlos!
+And then, we'll ride that momentum all the\nway to the upcoming tournament!=¡Y luego, aprovecharemos ese impulso hasta el torneo que se acerca!
+That sounds like a nice plan and all...=Eso suena como un buen plan y todo...
+But if we lose, I don't know if we'll ever\nrecover our confidence.=Pero si perdemos, no sé si alguna vez recuperaremos nuestra confianza.
+Teamwork will win the day.=El trabajo en equipo nos dara la victoria.
+Leave scoring to me.=Dejen los goles en mis manos.
+Sure, it's easy to say that, but what if\nwe lose!?=Claro, ¡es facil decirlo! Pero... ¡¿y qué pasa si perdemos?!
+As long as Kamisiro scores, and I don't let\nthem score back, the win is ours.=Con que Kamisiro anote un gol y yo no deje que nos metan ninguno, la victoria será nuestra.
+Hey! Not you too, Kadota...=¡Oye! No me digas que tú también, Kadota...
+Hold it, Kadota! What about your steel-willed\nstriker, Yota Kurosawa!?=¡Momento, Kadota! ¡¿Qué hay de tu delantero con voluntad de acero, Yota Kurosawa?!
+Oh, yeah. Forgot about you.=Ah, es cierto. Ya me había olvidado de ti.
+What do you mean you forgot!?=¡¿Cómo que te olvidaste de mí?!
+But soccer's an eleven-person game. Kadota\nand I can't win on our own.=Pero el fútbol es un juego de once jugadores.\nKadota y yo solos no podemos ganar.
+That's why we've got to win this as a team!\nRight guys!?=¡Por eso tenemos que ganar esto unidos como equipo!\n¡¿Verdad, muchachos?!
+All right. Let's show 'em what we're made of!=¡Muy bien! ¡Hay que demostrarles de qué estamos hechos!
+Having so many members quit was a bummer.\nBut we can't mope about it forever!=Que renunciaran tantos miembros fue un golpe duro.\n¡Pero no podemos quedarnos lamentándonos para siempre!
+I won't lose to a new member like Kamisiro.\nAnd I won't lose to Nanjo either!=No voy a perder ante un novato como Kamisiro.\n¡Y tampoco pienso perder contra Nanjo!
+Yeah. I think I've been pretending I didn't\ncare just to cope with everything. But not\nanymore.=Sí. Creo que fingía que no me importaba nada solo para poder sobrellevar la situación.\n¡Pero eso se acabó!
+Whoa, why's everyone so motivated all of a\nsudden? I guess I wanna win too then!=¡Guau! ¿Por qué de pronto todos están tan motivados?\n¡En ese caso, yo también quiero ganar!
+You guys...! Thank you!=¡Muchachos...! ¡Gracias!
+I felt our team members unite\nin determination before the\ncoming match.=Sentí cómo los miembros del equipo se\nunían con una gran determinación\nantes de comenzar el partido.
+Practice resumes...=La práctica se reanuda...
+Yes! Again!=¡Sí! ¡Una vez más!
+Haha. Feels like we're taking things\nseriously for the first time in forever!=Jaja. ¡Se siente que nos estamos tomando las cosas en serio por primera vez en siglos!
+Look, Kamisiro. Everyone's practicing harder\nthan ever.=Mira, Kamisiro. Todos están entrenando más duro que nunca.
+This is what I've been wanting to see.\nI forgot how good this feels...=Esto es justo lo que quería ver.\nYa había olvidado lo bien que se siente...
+This is all thanks to you, Kamisiro.=Todo esto es gracias a ti, Kamisiro.
+Sorry, Kurosawa! You okay?=¡Disculpa, Kurosawa! ¿Estás bien?
+Y-Yeah, I'm fine.=S-Sí, estoy bien.
+Whoa! Are you hurt?=¡Guau! ¿Te lastimaste?
+Heh, gotcha!=Je... ¡Te la creiste!
+Dude! Don't scare me like that.=¡Oye! No me asustes así, hermano.
+That was a close one though. I could have\nbeen seriously hurt. Be more careful, all\nright?=Estuvo cerca, de verdad me pude haber lastimado en serio. Ten más cuidado, ¿sí?
+Sorry. I was just chasing the ball and...=Perdón, es que solo estaba siguiendo el balón y...
+It's fine. Don't worry about it. Let's get\nback to practice.=No pasa nada, no te preocupes. Vamos a seguir entrenando.
+Did you hit your head?=¿Te golpeaste la cabeza?
+Huh? Oh, it's nothing!=¿Eh? ¡Ah, no es nada!
+Let's get back to practice! We have to\nstay focused!=¡Vamos a seguir entrenando! ¡Hay que mantener la concentración!
+Practice penalty kicks=Practica los tiros penales
+Haaah, finally done.=¡Auuuf! Por fin terminamos.
+Everyone's more motivated than ever today.=Hoy todos están más motivados que nunca.
+Well, we wanna beat Nanjo, right? Gotta keep\nworkin' hard.=Y cómo no, si queremos ganarle a Nanjo, ¿o no?\n¡Hay que seguir dándolo todo!
+I don't see Kurosawa\nanywhere... Where could he\nhave gone?=No veo a Kurosawa por\nningún lado... ¿A dónde\nse habrá metido?
+I decided to go look for him.=Decidí ir a buscarlo.
+Nngh!=¡Ugh!
+Ack! Haha, bad timing.=¡Ay! Jaja, mal momento.
+Are you hurt?=¿Estás herido?
+Your leg...=Tu pierna...
+I don't think it's broken. Might just be a\nlight sprain.=No creo que esté rota. Quizá solo sea un esguince leve.
+Let's get you to the hospital.=Hay que llevarte al hospital.
+Let's go to the nurse's office.=Vamos a la enfermería.
+It's fine! It'll heal if I just stay off it.=¡No pasa nada! Sanará si no la apoyo por ahora.
+Could you keep quiet about this?=¿Podrías no decirle nada a los demás?
+Everyone's finally motivated. I don't want to\ndampen the mood.=Por fin todos están motivados. No quiero arruinarles el ánimo.
+Plus, we don't have bench players. Without\nme, we can't play in the scrimmage.=Además, no tenemos banca. Sin mí, no podremos jugar el partido de práctica.
+The last thing I want to do is make\neveryone anxious.=Lo último que quiero es preocupar a todo el mundo.
+It'll be fine. There's still a few days until\nthe scrimmage.=Estaré bien. Todavía faltan unos días para el partido de práctica.
+I can still come to practice, and I'm sure\nit'll heal on its own by the game. So don't\nworry, okay?=Aún puedo venir a entrenar y seguro sanará sola para el día del partido. Así que no te preocupes, ¿de acuerdo?
+Is he really okay...?=¿De verdad estará bien...?
+I understand how Kurosawa\nfeels. I guess I'll trust him\nfor now.=Entiendo cómo se siente Kurosawa.\nSupongo que confiaré en\nél por ahora.
+I know! Let's get some curry on the way home.\nCurry and some sleep might just fix me up.=¡Ya sé! Pasemos por un curry de camino a casa.\n¡Un buen curry y dormir un rato me dejarán como nuevo!
+A limping Kurosawa and I\nvisited the curry shop before\nheading home...=Kurosawa venía cojeando, pero\naun así fuimos al restaurante de\ncurry antes de regresar a casa...
+Go have curry=Ve a comer curry
+
+
+Have you heard about the Fish Whisperer at\nIchigaya Fishing Pond?=¿Has oído hablar del Susurrador de Peces del estanque de pesca de Ichigaya?
+What's that? Some weird old guy who talks to\nfish?=¡¿Qué es eso?! ¿Un viejo raro que habla con los peces?
+No, it's actually a young guy! He's a regular\nthere, and apparently some kind of master\nfisherman.=¡No, de hecho es un muchacho joven! Es un cliente habitual y dicen que es un maestro de la pesca.
+He says the fish come right to him. I heard\nthat one time he caught a huge sucker without\neven using a hook...!=Dice que los peces van directo hacia él. ¡Escuché que una vez atrapó a un pez gigante sin siquiera usar un anzuelo...!
+No way that's real. It's probably just some\nrumor spun out of control.=No hay forma de que eso sea real. Seguro es solo un rumor que se salió de control.
+Yeah, spun like his fishing reel! Hahaha!=¡Sí, se salió de control como el carrete de su caña! ¡Jajaja!
+He's probably there right now. Should we go\nsee?=Debe estar ahí justo ahora. ¿Deberíamos ir a echar un vistazo?
+Hey, we're still on the clock here! Come on,\nlet's get back to work.=¡Oigan, recuerden que seguimos en horas de trabajo!\n¡Ya, volvamos a lo nuestro!
+Hoom... A fish whisperer? Intriguing. I think\nthis rumor warrants checking out, don't you\nagree?=Hoom... ¿Un Susurrador de Peces? Intrigante.\nCreo que este rumor merece ser investigado,\n¿no crees?
+I went to the fishing pond to\nlook for the Fish Whisperer...=Fui al estanque de pesca\na buscar al legendario\nSusurrador de Peces...
+Welcome, welcome. Ah, you're lookin' for the\nFish Whisperer?=Bienvenido, bienvenido. ¿Ah, estás buscando al Susurrador de peces?
+He's here all right! It's the long-haired guy\nsittin' just over there.=Él está aquí, de verdad. Es el chico de pelo largo sentado justo allí.
+Let's see if the rumors are\ntrue...=Veamos si los rumores son ciertos...
+The Fish Whisperer is baiting\nhis hook. I wonder if there's\nsome special trick to it...=El Susurrador de Peces está poniendo su\nanzuelo. Me pregunto si hay algún\ntruco especial detrás...
+Ngh... This bait just won't stay on...=Ugh... Este cebo no se queda fija...
+Look at the surface of the water...!=¡Mira la superficie del agua...!
+Without even doing anything,\nthe fish are gathering around\nhim...!=Sin siquiera hacer nada,\n¡los peces se están reuniendo\na su alrededor...!
+So impatient! Haha, I haven't even cast my\nline yet.=¡Qué impaciente! Jaja, ni siquiera he lanzado el anzuelo.
+It's as if the fish want to be caught by him.=Es como si los peces se\nestuvieran muriendo por que\nél los atrape.
+Maybe he has influence on other beings'\ndesires as well... Shall we continue\nobserving him for a while?=Quizá también tenga la capacidad de influir en los deseos de otros seres... ¿Lo seguimos observando un rato más?
+All right, come and get it!=¡Muy bien! ¡Vengan por lo suyo!
+Oh, here we go.=Oh, aquí vamos.
+He caught two fish on\none hook...!?=¡¿Atrapó dos peces con un solo anzuelo...?!
+Haha, off to a good start.=Jaja, empezamos con el pie derecho.
+This isn't just skill...=Esto no es solo habilidad...
+Oh, hello. Did you need something?=Oh, hola. ¿Se les ofrece algo?
+I want to be your student.=Quiero ser tu aprendiz.
+Please be my mentor.=<size\=28>Por favor, conviértete en mi mentor.</size>
+So now I'm a Fishermentor? Haha! Nobody's\never asked me to teach them before.=¿Así que ahora soy un Metor Pescador?\n¡Jajaja! Nunca nadie me había pedido que le enseñara antes.
+The secret to fishing? I don't really know,\nto be honest.=¿El secreto de la pesca? Para ser sincero, la verdad es que no lo sé.
+I used to come here when I was feeling\nblocked. I'd clear my head, toss a line in\nthe water, and then...=Solía venir aquí cuando me sentía bloqueado.\nDespejaba la mente, lanzaba el anzuelo al agua y entonces...
+Fish started chomping right away. The rest is\nhistory.=Los peces empezaban a morder de inmediato.\nEl resto es historia.
+I always wondered why, and I honestly still\ndon't know.=Siempre me he preguntado el porqué, y la verdad es que sigo sin tener idea.
+So even if you become my student, there's not\nmuch I can teach you.=Así que, aunque te conviertas en mi aprendiz, no hay mucho que pueda enseñarte.
+If you're okay with that, then... sure.=Si no tienes problema con eso... por mí está bien.
+I became a student of the Fish\nWhisperer...=Me convertí en el aprendiz\ndel Susurrador de peces...
+Thanks...!=¡Muchas gracias...!
+Looking forward to it!=¡Lo estoy deseando!
+Oh right. If I'm going to be your mentor, I\nshould introduce myself.=Ah, es cierto. Ya que seré tu mentor, tengo que presentarme.
+I'm <color=#FF423F>Toshiya Sumi</color>. I'm pretty much here every\nday, but if not, I'm probably in Shinjuku?=Me llamo <color\=#FF423F>Toshiya Sumi</color>. Casi siempre estoy aquí metido, y si no, ¿probablemente estoy por Shinjuku?
+I introduced myself...=Me presenté...
+Nagisa-kun, huh? Nice name. Well, let's get\nfishing.=¿Conque Nagisa-kun? Buen nombre. Muy bien,\n¡manos a la obra y a pescar!
+Doing nothing is important when you're\nfishing. The same goes for life.=No hacer nada es crucial cuando estás pescando.\nY lo mismo aplica para la vida.
+Work, school, romance... everything. You'll\nwear yourself out if you're just plowing\nahead all the time.=El trabajo, la escuela, el romance... todo.\nTe vas a fundir si te la pasas presionándote\nsin parar todo el tiempo.
+I guess he has a point...=Supongo que tiene un buen punto...
+You just need enough money to get by. No need\nto push yourself too hard at work.=Solo necesitas el dinero suficiente para sobrevivir.\nNo hay necesidad de matarse trabajando.
+Whenever my bank account reaches zero, that's\nwhen I find work.=Cada vez que mi cuenta de banco llega a cero,\nahí es cuando me pongo a buscar chamba.
+I'm having second thoughts\nabout the quality of my\neducation...=Me está empezando a preocupar\nseriadadmente la calidad de la educación\nque voy a recibir...
+Look, you got one.=Mira, picó uno
+I've never caught a fish\nthis big...!=¡Jamás había atrapado un pez\nasí de grande...!
+Well, look at that. Someone's got a knack for\nthis!=Vaya, pero mira nada más. ¡Alguien tiene un talento natural para esto!
+Well, "Teach a man to fish..."=<size\=22>Como dicen, "Enséñale a pescar y lo alimentarás para toda la vida"</size>
+Thanks to you.=Todo fue gracias a ti.
+Someone's well read! But really, you might be\na better fisherman than me.=¡Vaya, alguien vino bien informado! Pero en serio, puede que seas mejor pescador que yo.
+I mean, that advice I just gave you? I just\nmade that up off the top of my head.=Quiero decir, ¿el consejo que te acabo de dar?\nLo inventé en el momento con lo primero que me vino a la mente.
+And then you went and caught a huge fish.\nYou're amazing!=Y vas y atrapas un pez gigante.\n¡De verdad eres increíble!
+Sumi seems to be laid-back to\na fault...=Sumi parece ser un tipo muy relajado...
+Ah, sorry! Did that sound sarcastic? I didn't\nmean it to.=¡Ah, disculpa! ¿Sonó sarcástico?\nNo era mi intención para nada.
+You came all the way here, so I just didn't\nwant you to leave feeling bad.=Viniste hasta aquí, así que simplemente no quería que te fueras sintiéndote mal.
+It's nice if you catch something, but fishing\nis still fun even if you don't. It's a nice\nway to spend time.=Es agradable si pescas algo, pero la pesca sigue siendo divertida aunque no lo hagas. Es una manera agradable de pasar el tiempo.
+And the things I'm teaching you aren't\ncompletely random, just so you know.=Y las cosas que te estoy enseñando no son completamente al azar, solo por si lo sabías.
+Still, the fact that you improved so much\nfrom my abstract advice is pretty darn\nimpressive.=Aun así, el hecho de que hayas mejorado tanto con mi consejo abstracto es bastante impresionante.
+Hm. Maybe I should get a little more serious\nwith my advice then.=Hm. Quizás debería ponerme un poco más serio con mis consejos entonces.
+Cherish your friends!=¡Valora a tus amigos!
+Find someone who'll pay for your meals!=¡Busca a alguien que pague tus comidas!
+Never refuse a gift!=¡Nunca rechaces un regalo!
+And one more thing... Hmm... I forgot. I'll\ntell you later.=Y una cosa más... Hm... Se me olvidó. Te lo cuento más tarde.
+He's a genius when it comes to\nfishing, but maybe that's the\nextent of it...=Es un genio cuando se\ntrata de pescar, pero\nquizás eso es todo...
+Toshiya! Thanks for your help the other day.=¡Toshiya! Gracias por tu ayuda el otro día.
+Misaki-chan? Is it safe for you to be out and\nabout right now?=¿Misaki-chan? ¿No es peligroso que andes aquí afuera en este momento?
+I'll be fine if it's just for a second!\nThere's no way he knows I'm here.=¡Estaré bien si es solo un momento!\nNo hay forma de que sepa que estoy aquí.
+You should be more careful. He's really\npushy, isn't he?=Deberías tener más cuidado. Ese tipo es realmente acosador, ¿no crees?
+I mean, yeah... He showed up at my job and\nthrew a fit right there in the store.=O sea, sí... Se apareció en mi trabajo y armó un tremendo berrinche en plena tienda.
+He threw a fit at your job?=¿Armó un berrinche en tu trabajo?
+Who's pushy?=¿Quién es el acosador?
+Some guy who works as a host has been trying\nto get more and more money out of her, to the\npoint that he's threatening violence.=Un sujeto que trabaja como afritrión en un bar nocturno ha estado intentando sacarle cada vez más dinero, al grado de llegar a las amenazas de violencia.
+Toshiya found a place that would shelter me,\nso I'm hiding out there now.=Toshiya encontró un lugar que me sirvió de refugio, así que ahora me estoy escondiendo ahí.
+Shouldn't you be getting back there? They'll\nworry about you.=¿No deberías regresar de inmediato? Se van a preocupar por ti si no te ven.
+I knowww. Well, see you later!=¡Ya séee! En fin, ¡nos vemos luego!
+One day Misaki-chan was here at the fishing\npond crying. I asked her was wrong and she\ntold me about that guy.=Un día Misaki-chan estaba aquí en el estanque de pesca llorando. Le pregunté qué le pasaba y me contó todo lo de ese tipo.
+Hearing that, who wouldn't try to help?=Al escuchar una historia así, ¿quién no intentaría ayudar?
+Sumi seems like a considerate\nguy who looks out for\npeople...=Sumi resultó ser un chico muy\nconsiderado que de verdad se\npreocupa por los demás...
+What's wrong, Ueda-san? You look beat.=¿Qué pasa, Ueda-san? Te ves agotado.
+Remember how we talked about my confectionery\nshop?=¿Te acuerdas de que te hablé sobre mi pastelería tradicional?
+Of course. That dango you gave me before was\nreally good.=Claro. Ese dango que me diste antes estaba muy delicioso.
+Well, I made a terrible mistake today.=Pues, hoy cometí un error terrible.
+What kind of mistake?=¿Qué clase de error?
+I took an order for 100 manju, but somehow I\nthought they said 1,000.=Tomé un pedido de 100 manju, pero de alguna manera pensé que dijeron 1,000.
+It said 100 right there on the order form, so\nI don't know how I messed it up...=En la nota del pedido decía claramente 100, así que no tengo idea de cómo pude meter tanto la pata...
+We managed to make all 1,000 manju, but when\nI went to deliver them, I realized my\nmistake.=Logramos cocinar los 1,000 manju, pero cuando fui a entregarlos, me di cuenta de mi error.
+So now I have 900 left over... What should I\ndo?=Así que ahora me sobraron 900... ¿Qué debería hacer?
+That's a pretty big problem. If only there\nwas something I could do...=Eso es un problema bastante grande. Si tan solo hubiera algo que pudiera hacer...
+I think 900 manju is way too many for me to\nfinish...=900 manjus son demasiados como para que me los acabe yo solo...
+There must be some way to solve this.=Debe haber alguna forma de solucionar esto.
+No, it's okay! It's my mistake after all.=¡No, no te preocupes! Al fin y al cabo, la culpa es mía.
+I just felt like I needed to talk about it,\nso naturally I came to you.=Solo sentía la necesidad de desahogarme con alguien y por eso vine a buscarte de inmediato.
+Hey, Nagisa-kun. Got any idea what to do\nabout this?=Oye, Nagisa-kun. ¿A ti se te ocurre algo que podamos hacer al respecto?
+Use social media.=Usa las redes sociales.
+Post about it online.=Publícalo en internet.
+Ah... so we should get people online to help\nhim out? Not a bad idea!=Ah... entonces ¿deberíamos hacer que la gente se conecte a internet para ayudarlo? ¡No es mala idea!
+Ueda-san, could you tell me the name and\nlocation of your shop?=Ueda-san, ¿podrías decirme el nombre y la ubicación de tu tienda?
+I think I can help.=Creo que puedo ayudar.
+Thanks. The shop's name is...=Gracias. El nombre de la tienda es...
+Okay... I wrote the shop name, location, and\nexplained the situation. Let's hope this\nworks...=De acuerdo... Escribí el nombre de la tienda, la ubicación y expliqué la situación. Esperemos que esto funcione...
+Sumi posted about the manju on\nsocial media...=Sumi publicó sobre el manju\nen las redes sociales...
+Talking to you really calmed me down,\nSumi-kun. I'm gonna head back to work and\napologize to everyone.=Hablar contigo me tranquilizó muchísimo, Sumi-kun. Voy a volver al trabajo y a disculparme con todos.
+Bye. Oh, and thanks for your help too, kid.=Adiós. Ah, y gracias por tu ayuda también, joven.
+I hope things turn out okay for him...=Espero que las cosas salgan bien para él...
+Sumi may be a slacker, but\njust like fish, people seem\ndrawn to him...=Sumi puede ser un holgazán,\npero al igual que los peces,\nla gente parece sentirse\natraída por él...
+Thanks, by the way. That was a good idea. So,\nshould we get back to fishing?=Gracias, por cierto. Fue una buena idea. Entonces, ¿deberíamos volver a pescar?
+I enjoyed fishing with Sumi...=Disfruté pescando con Sumi...
+Catch a fish=Pescar un pez
+I should spend some time at the fishing pond.=Debería pasar un tiempo en el estanque de pesca.
+

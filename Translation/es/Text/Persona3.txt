@@ -3005,6 +3005,7 @@ DIRECTORY=DIRECTORIO
 INFOMATION=INFORMACIÓN
 LEAVE=SALIR
 MAPSELECT=SELECCIÓN DE MAPAS
+r:"^Awareness Enhanced to (\d+)$"="Conciencia mejorada a $1"
 Where will you go?=¿A dónde irás?
 
 You don't have enough required items to unlock this.=No tienes los objetos necesarios para desbloquearlo.
@@ -3706,6 +3707,7 @@ But I took a wrong turn somewhere and now I'm exhausted...=Pero he girado mal en
 If I keep going like this, I'm gonna get\nlost. What should I do...?=Si sigo yendo así, terminaré perdido.\n¿Qué debería hacer...?
 The only way is forward.=El único camino es hacia delante.
 r:"^Spend ([0-9]+) Will\. ([0-9]+)% chance to restore ([0-9]+) Will\. ([0-9]+)% chance to receive nothing\.$"="Gasta $1 Voluntad. $2% de restaurar $3 de Voluntad. $4% de recibir nada."
+You're right... I need to try hard for my\nsenpai who is always encouraging me!=Tienes razón... ¡Necesito esforzarme mucho por mi senpai que siempre me anima!
 You're right...! If I just keep going, I\nshould eventually reach my house!=¡Tienes razón...!\n¡Si sigo adelante, eventualmente llegaré a mi casa!
 You should turn back.=Deberías darte la vuelta.
 Maybe someone can help you?=¿Tal vez alguien pueda ayudarte?
@@ -3837,6 +3839,9 @@ Homebound Shopper=Comprador Casero
 Nervous Businessman=Empresario Nervioso
 
 #Efectos de cartas
+
+Hierophant=Hierofante
+r:"^When an ally uses a single-target attack skill, deal damage to all other foes equal to (\d+)% of the damage dealt to the target\. When activating a single-target Resonance, Highlight or Theurgy, deal damage to all other foes equal to (\d+)% of the damage dealt to the target\.$"="Cuando un aliado usa una habilidad de ataque de un solo objetivo, inflige daño a todos los demás enemigos igual al $1% del daño infligido al objetivo. Al activar una Resonancia, Highlight o Teúrgia de un solo objetivo, inflige daño a todos los demás enemigos igual al $2% del daño infligido al objetivo."
 
 +---------------------------------
 Coins=Oros
