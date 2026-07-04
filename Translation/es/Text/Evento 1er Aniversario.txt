@@ -364,6 +364,9 @@ Do you want to trade Anni 5★ Thief Select Ticket x1 for Tropical Motoha x1?=¿
 Do you want to trade Anni 5★ Thief Select Ticket x1 for Frostgale Kotone x1?=¿Quieres intercambiar el Ticket de selección de Ladrón de 5★ de Aniversario x1 Kotone Vientogélido x1?
 Hoohoo! I didn't expect to see such a brilliant performance!=¡No esperaba ver una actuación tan brillante!
 Scratch-Off Packs=Paquetes de Rasca y Gana
+Available for a limited time!=¡Por tiempo limitado!
+r:"^1st Anniversary Countdown:  (\d+) d (\d+) h$"="Cuenta regresiva para el 1.º aniversario:  $1 d $2 h"
+
 
 +--Tutoriales--+
 
@@ -448,8 +451,21 @@ I love Hatsune\nMiku too!=¡Hatsune Miku es mi viejaaa!
 Just passed by a\ngirl who looks like\nHatsune Miku.=Acabo de pasar junto a una chica\nque se parece muchísimo a Hatsune Miku.
 My daughter loves\nMiku! She showed me\nher new song.=A mi hija le fascina Miku.\nMe enseñó su nueva canción.
 I know this song!\nHatsune Miku,\nright?=¡Conozco esta canción!\nEs de Hatsune Miku, ¿verdad?
-
-
+People are already\ncosplaying Miku's\nnew outfit.=La gente ya está haciendo cosplay del nuevo atuendo de Miku.
+The limited-edition\nMiku figure already\nsold out...=La figura Miku de edición limitada ya se agotó...
+I decorated my bag\nwith Miku merch!\nIt's perfect!=¡Decoré mi bolso con cosas de Miku! ¡Es perfecto!
+I saw vans painted\nlike Miku and took\nsome pics!=¡Vi unas furgonetas pintadas como Miku y saqué fotos!
+Miku-chan's\nsoooo cute!=Miku-chan es súper linda.
+Did you see Miku's\nnew outfit? She is\ntoo cute!=¡¿Viste el nuevo atuendo de Miku?!\n¡Está hermosísima!
+I saw Miku on the\njumbo-screen! It\nwas awesome!=¡Vi a Miku en la pantalla gigante!\n¡Estuvo increíble!
+I love seeing Miku\nposters everywhere!=¡Me encanta ver pósters de Miku\npor todos lados!
+They were playing a\nMiku song in that\nshop!=¡Estaban poniendo una canción de Miku\nen esa tienda!
+I get so excited\nhearing Miku songs\naround town!=¡Me emociono muchísimo al escuchar canciones\nde Miku por toda la ciudad!
+You know that\nnew hit song?\nMiku sings that.=¿Conoces ese nuevo éxito del que todos hablan?\n¡Miku es quien lo canta!
+She's like\nrealer than real.\nSo cool...=Es como si fuera más real que la realidad misma.\n¡Qué genial!
+That concert? Best\nthing I've ever\nseen. Period.=¡¿Ese concierto?! Lo mejor que he visto\nen toda mi vida. Y punto.
+I watch Miku dance\nvideos for hours\non loop.=Me la paso viendo videos de Miku bailando\npor horas en bucle.
+I'm so jelly.\nI wanna see Miku in\nconcert too!=¡Qué envidia! ¡Yo también quiero ver\na Miku en concierto!
 
 
 
@@ -578,8 +594,12 @@ r:"^Play Play-With-Fire on HaRD difficulty \((\d+)/(\d+)\)$"="Toca Play-With-Fir
 r:"^Play all songs from Play That Future Sound on HaRD difficulty \((\d+)/(\d+)\)$"="Toca todas las canciones de Reproduce Ese Sonido Del Futuro en dificultad DiFÍCIL ($1/$2)"
 r:"^Play Marionette Dancer on HaRD difficulty \((\d+)/(\d+)\)$"="Toca Marionette Dancer en dificultad DiFÍCIL ($1/$2)"
 r:"^Score ([A-Z]) or higher for Marionette Dancer on EaSY difficulty \((\d+)/(\d+)\)$"="Obtén un rango $1 o superior en Marionette Dancer en dificultad FáCIL ($2/$3)"
+r:"^Score ([A-Z]) or higher for (.+?) on EaSY difficulty \((\d+)/(\d+)\)$"="Consigue un puntaje $1 o superior para $2 en dificultad FáCIL ($3/$4)"
+r:"^Play (.+?) on HaRD difficulty \((\d+)/(\d+)\)$"="Toca $1 en dificultad DiFÍCIL ($2/$3)"
+r:"^Achieve ([A-Z]) rating on previous difficulty level to unlock\.$"="Consigue una calificación $1 en el nivel de dificultad anterior para desbloquear."
 r:"^Clear Boss Battle on difficulty (\d+) \((\d+)/(\d+)\)$"="Completa la batalla de jefe en dificultad $1 ($2/$3)"
 r:"^Awarded for clearing Boss Battle on difficulty (\d+) in Miracle Concert\.$"="Se otorga por completar la batalla de jefe en dificultad $1 en Concierto Milagroso."
+
 r:"^Miracle Concert (\d+)$"="Concierto Milagroso $1"
 r:"^Lyrics: (.+?) Music: (.+?)$"="Letra: $1 | Música: $2"
 r:"^Music: (.+?)$"="Música: $1"

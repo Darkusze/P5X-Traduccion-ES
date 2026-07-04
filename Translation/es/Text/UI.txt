@@ -301,6 +301,19 @@ r:"^Date\s+received:\s+Oct\s+(\d+),\s+(\d+)$"="Fecha de recepción: $1 de octubr
 r:"^Date\s+received:\s+Nov\s+(\d+),\s+(\d+)$"="Fecha de recepción: $1 de noviembre de $2"
 r:"^Date\s+received:\s+Dec\s+(\d+),\s+(\d+)$"="Fecha de recepción: $1 de diciembre de $2"
 
+r:"^Added to your collection on: Jan (\d+), (\d+) (\d+:\d+:\d+ [AP]M)$"="Añadido a tu colección el: $1 de enero de $2 $3"
+r:"^Added to your collection on: Feb (\d+), (\d+) (\d+:\d+:\d+ [AP]M)$"="Añadido a tu colección el: $1 de febrero de $2 $3"
+r:"^Added to your collection on: Mar (\d+), (\d+) (\d+:\d+:\d+ [AP]M)$"="Añadido a tu colección el: $1 de marzo de $2 $3"
+r:"^Added to your collection on: Apr (\d+), (\d+) (\d+:\d+:\d+ [AP]M)$"="Añadido a tu colección el: $1 de abril de $2 $3"
+r:"^Added to your collection on: May (\d+), (\d+) (\d+:\d+:\d+ [AP]M)$"="Añadido a tu colección el: $1 de mayo de $2 $3"
+r:"^Added to your collection on: Jun (\d+), (\d+) (\d+:\d+:\d+ [AP]M)$"="Añadido a tu colección el: $1 de junio de $2 $3"
+r:"^Added to your collection on: Jul (\d+), (\d+) (\d+:\d+:\d+ [AP]M)$"="Añadido a tu colección el: $1 de julio de $2 $3"
+r:"^Added to your collection on: Aug (\d+), (\d+) (\d+:\d+:\d+ [AP]M)$"="Añadido a tu colección el: $1 de agosto de $2 $3"
+r:"^Added to your collection on: Sep (\d+), (\d+) (\d+:\d+:\d+ [AP]M)$"="Añadido a tu colección el: $1 de septiembre de $2 $3"
+r:"^Added to your collection on: Oct (\d+), (\d+) (\d+:\d+:\d+ [AP]M)$"="Añadido a tu colección el: $1 de octubre de $2 $3"
+r:"^Added to your collection on: Nov (\d+), (\d+) (\d+:\d+:\d+ [AP]M)$"="Añadido a tu colección el: $1 de noviembre de $2 $3"
+r:"^Added to your collection on: Dec (\d+), (\d+) (\d+:\d+:\d+ [AP]M)$"="Añadido a tu colección el: $1 de diciembre de $2 $3"
+
 ++-------------Guarida de ladrones-----------------++
 Den Maker=Creador de guaridas.
 r:"^You can place that here once your Den Level reaches (\d+)\.$"="Puedes colocar eso aquí una vez que tu Nivel de Guarida llegue al $1."
@@ -522,7 +535,7 @@ r:"^\(Paid:\s+(\d+)\)$"="(Pagado: $1)"
 r:"^Unlocks at Lv\\. (\\d+)$"="Se desbloquea en Nv. $1"
 r:"^Lv\\.(\\d+)$"="Nv.$1"
 r:"^EXP:\s+(\d+)\s*$"="EXP: $1"
-r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.7.1\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
+r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.7.2\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
 r:"^Fusion\s+will\s+produce\s+(\d+)\s+<color\=#FF423F>(.+?)'s\s+Seal</color>\.\s*$"="La fusión producirá $1 <color\=#FF423F>Sello de $2</color>."
 r:"^Phantom Thief level cap increased to \\n<color\=#FFF000>Lv\\. (\\d+)</color>\\.$"="El límite de Nivel de Ladrones Fantasma ha aumentado a \n<color\=#FFF000>Lv. $1</color>."
 Meta Jewels will be spent.=Se gastarán las Meta gemas.
@@ -849,6 +862,8 @@ Will be used in order of Platinum Milicoin、Meta Jewels、Cognition Crystals=Se
 Will be used in order of Platinum Milicoin、Meta Jewels=Se consumirán en el siguiente orden de Monedas Platino Milicoin, Metales gemas
 r:"^New messages: (\d+)$"="Nuevos mensajes: $1"
 r:"^The necessary resources have not been downloaded\. Do you want to download them now\? \(Resources: Chapter (\d+)\. This will take a few minutes to complete\.\)$"="No se han descargado los recursos necesarios. ¿Quieres descargarlos ahora? (Recursos: Chapter $1. Esto tardará unos minutos en completarse)."
+Tapping is too fast.=Estás pulsando demasiado rápido.
+Clear rewards already acquired=Recompensas ya adquiridas
 
 ++----Metro----++
 r:"Clear Difficulty (\d+) with (?:a|an) <link\=(.+?)><u>Curse Formation</u></link>"="Completa la dificultad $1 con una <link\=$2><u>Formación de Maldición</u></link>"
@@ -935,7 +950,7 @@ r:"Do you want to trade Gift 5★ Thief Select Ticket x1 for ([\w\s\-']+) x1\?"=
 Do you want to trade Novice 5★ Weapon of Your Choice x1 for Rosethorn x1?=¿Quieres intercambiar un Arma de Principiante 5★ de tu elección x1 por un Rosethorn x1?
 Do you want to trade Novice 5★ Weapon of Your Choice x1 for Golden Legacy x1?=¿Quieres intercambiar un Arma de Principiante 5★ de tu elección x1 por un Legado Dorado x1?
 Do you want to trade Novice 5★ Weapon of Your Choice x1 for Revenge Axe x1?=¿Quieres intercambiar un Arma de Principiante 5★ de tu elección x1 por una Hacha de Venganza x1?
-Do you want to trade Special 5★ Weapon Case x1 for Golden Legacy x1?=¿Quieres cambiar Caja de Arma 5★ Especial x1 por Legado dorado x1?
+Do you want to trade Special 5★ Weapon Case x1 for Golden Legacy x1?=¿Quieres cambiar Caja de Arma 5★ Especial x1 por Legado Dorado x1?
 Do you want to trade Special 5★ Weapon Case x1 for Revenge Axe x1?=¿Quieres cambiar Caja de Arma 5★ Especial x1 por Hacha de venganza x1?
 Do you want to trade Special 5★ Weapon Case x1 for Rosethorn x1?=¿Quieres cambiar Caja de Arma 5★ Especial x1 por Rosethorn x1?
 Do you want to trade Special 5★ Weapon Case x1 for Infinite Moment x1?=¿Quieres cambiar Caja de Arma 5★ Especialx1 por Momento infinito x1?
@@ -949,11 +964,30 @@ Do you want to trade Special 5★ Weapon Case x1 for Baptism by Fire x1?=¿Quier
 Do you want to trade Special 5★ Weapon Case x1 for Karmic Cycle x1?=¿Quieres cambiar Caja de Arma 5★ Especial x1 por Ciclo Kármico x1?
 Do you want to trade Special 5★ Weapon Case x1 for Venus Sunrise x1?=¿Quieres cambiar Funda Arma Especial 5★ x1 por Amanecer de Venus x1?
 Do you want to trade Special 5★ Weapon Case x1 for Babel's Verdict x1?=¿Quieres cambiar Caja de Arma 5★ Especial x1 por Veredicto de Babel x1?
-Do you want to trade Special 5★ Weapon Case x1 for Queen of Winter x1?=¿Quieres cambiar Caja de Arma 5★ Especial x1 por Reina del invierno x1?
+Do you want to trade Special 5★ Weapon Case x1 for Queen of Winter x1?=¿Quieres cambiar Caja de Arma 5★ Especial x1 por Reina del Invierno x1?
 Do you want to trade Special 5★ Weapon Case x1 for Ephemerality x1?=¿Quieres cambiar Caja de Arma 5★ Especial x1 por Efímera x1?
-Do you want to trade Special 5★ Weapon Case x1 for Jolting Pulse x1?=¿Quieres cambiar Caja de Arma 5★ Especial x1 por Pulso de sacudida x1?
+Do you want to trade Special 5★ Weapon Case x1 for Jolting Pulse x1?=¿Quieres cambiar Caja de Arma 5★ Especial x1 por Pulso de Sacudido x1?
 Do you want to trade 4★ Weapon Case x1 for Sunstaff x1?=¿Quieres intercambiar 4 ★ Caso de arma X1 por Bastón Solar X1?
 Do you want to trade 4★ Weapon Case x1 for Submarine Sonar x1?=¿Quieres cambiar Caja de Armas 4★ x1 por Sonar Submarino x1?
+
+Do you want to trade Weapon Gift Box x1 for Golden Legacy x1?=¿Quieres cambiar la Caja de Regalo de Armas x1 por Legado Dorado x1?
+Do you want to trade Weapon Gift Box x1 for Revenge Axe x1?=¿Quieres cambiar la Caja de Regalo de Armas x1 por Hacha de venganza x1?
+Do you want to trade Weapon Gift Box x1 for Rosethorn x1?=¿Quieres cambiar la Caja de Regalo de Armas x1 por Espina de Rosa x1?
+Do you want to trade Weapon Gift Box x1 for Infinite Moment x1?=¿Quieres cambiar Caja de Arma 5★ Especialx1 por Momento infinito x1?
+Do you want to trade Weapon Gift Box x1 for Sweet Pickaxe x1?=¿Quieres cambiar la Caja de Regalo de Armas x1 por Piqueta dulce x1?
+Do you want to trade Weapon Gift Box x1 for Quasar x1?=¿Quieres cambiar la Caja de Regalo de Armas x1 por Quasar x1?
+Do you want to trade Weapon Gift Box x1 for Permafrost x1?=¿Quieres cambiar la Caja de Regalo de Armas x1 por Permafrost x1?
+Do you want to trade Weapon Gift Box x1 for Final Buster x1?=¿Quieres cambiar la Caja de Regalo de Armas x1 por Golpe final x1?
+Do you want to trade Weapon Gift Box x1 for Retro Disco Style x1?=¿Quieres cambiar la Caja de Regalo de Armas x1 por Retro Disco Style x1?
+Do you want to trade Weapon Gift Box x1 for Dream and Nightmare x1?=¿Quieres cambiar Caja de Arma 5★ Especialx1 por Sueño y Pesadilla x1?
+Do you want to trade Weapon Gift Box x1 for Baptism by Fire x1?=¿Quieres cambiar Caja de Arma 5★ Especialx1 por Bautismo de fuego x1?
+Do you want to trade Weapon Gift Box x1 for Karmic Cycle x1?=¿Quieres cambiar la Caja de Regalo de Armas x1 por Ciclo Kármico x1?
+Do you want to trade Weapon Gift Box x1 for Venus Sunrise x1?=¿Quieres cambiar Funda Arma Especial 5★ x1 por Amanecer de Venus x1?
+Do you want to trade Weapon Gift Box x1 for Babel's Verdict x1?=¿Quieres cambiar la Caja de Regalo de Armas x1 por Veredicto de Babel x1?
+Do you want to trade Weapon Gift Box x1 for Queen of Winter x1?=¿Quieres cambiar la Caja de Regalo de Armas x1 por Reina del Invierno x1?
+Do you want to trade Weapon Gift Box x1 for Ephemerality x1?=¿Quieres cambiar la Caja de Regalo de Armas x1 por Efímera x1?
+Do you want to trade Weapon Gift Box x1 for Jolting Pulse x1?=¿Quieres cambiar la Caja de Regalo de Armas x1 por Pulso de Sacudido x1?
+
 
 +--días despejados--+
 Do you want to advance time until it's Clear and Night to start the mission?=¿Quieres avanzar el tiempo hasta que esté despejado y sea de noche para iniciar la misión?
@@ -2487,6 +2521,9 @@ Yanhua Slash: Increase Atk.=Tajo Yanhua: Aumenta ATQ.
 
 r:"Yanhua Slash: Increase dmg by ([\d.]+)%\."="Tajo Yanhua: Aumenta el daño en $1%."
 
+Year-End Flames=Llamas de Fin de Año
+r:"^Yanhua Slash: (\d+)% chance to inflict (\d+) Year-End Flames stack\.$"="Tajo Yanhua: $1% de probabilidad de infligir $2 acumulación de Llamas de Fin de Año."
+
 r:"Increase Ice damage by ([\d.,]+)%\."="Aumenta el daño de Hielo en un $1%."
 
 r:"Increase critical damage by ([\d.,]+)%\."="Aumenta el daño crítico un $1%."
@@ -2647,6 +2684,7 @@ r:"^Increase Atk ([\d\.]+)%\. Increase Shock accuracy (\d+)% on foes below (\d+)
 
 Please select a song.=Por favor, selecciona una canción.
 
+r:"^Current Song: (.+)$"="Canción actual: $1"
 
 
 +--Stats--+
@@ -2830,7 +2868,37 @@ DEN LV. =GUARÍDA NV.
 Color Your Night=Color Your Night
 When The Moon's Reaching Out Stars -Reload-=When The Moon's Reaching Out Stars -Reload-
 Masterful was changed to Transcendent=Maestría fue cambiado a Trascendente
-
+Change Wallpaper=Cambiar Fondo de Pantalla
+Change Chat Bubble=Cambiar Burbuja de Chat
+Receive from Special Gift.=Se recibe del Regalo Especial.
+Purchase the Anni Theme Set.=Comprar el conjunto Temático del Aniversario.
+Crane game machines at the arcade in Akihabara. It has prizes you can't find anywhere else.=Máquinas de gancho en la arcade de Akihabara. Tienen premios que no encuentras en ningún otro sitio.
+Princess Shroom=Princesa Hongo
+Fungi Fantasy=Fantasía Fúngica
+Phantom Thief Anniversary=Aniversario de Ladrón Fantasma
+Akihabara Capsule Machine=Gachapon de Akihabara
+A capsule series called "Phantom Thief Anniversary." These commemorative figurines represent days spent meeting new friends and adventuring through the Metaverse together, and provide a special festive atmosphere.=Una serie de cápsulas llamada "Aniversario de Ladrón Fantasma". Estas figuras conmemorativas representan los días que pasaron conociendo nuevos amigos y aventurándonos juntos por el Metaverso, y crean un ambiente festivo especial.
+Colorful confetti flutters down. It's time for the party to get started!\nObtained from an Akihabara-exclusive capsule machine.=Confeti colorido cae a plumas. ¡Es hora de que la fiesta empiece! Obtenido de un Gachapon exclusivo de Akihabara.
+r:"^Guaranteed to get a super rare within <color\=(.+?)>(\d+) draws</color>!$"="¡Garantizado obtener un súper raro en menos de <color\=$1>$2 giros</color>!"
+Celebration Time=Hora de Celebrar
+Passionate Dash=Arremetida Apasionada
+Regal Attire=Atuendo Regio
+Start the {{A}}=Que Empiece la Fiesta
+Venue Decor=Decoración del lugar
+Marthym=Marthym
+Plain=Sencillo
+As thanks for purchasing the (Store-exclusive) Store Bonus Set, please accept this special gift from Marthym's Shop. You can find it attached below.=Como agradecimiento por comprar el conjunto de bonificación de tienda (exclusivo de la tienda), acepte este regalo especial de Tienda de Marthym.\nPuede encontrarlo adjunto a continuación.
+Special Bonus from Marthym's Shop=Bonus Especial de la Tienda Marthym
+Default chat bubble. Unlocks automatically.=Burbuja de chat por defecto. Se desbloquea automáticamente.
+How to Get: Default smartphone wallpaper. Unlocks automatically.=Cómo conseguirlo: Fondo de pantalla de telefono por defecto. Se desbloquea automáticamente.
+Standard Wallpaper=Fondo de Pantalla Estándar
+How to Get: Purchase the Miku Theme Set.=Cómo conseguirlo: Compra el Conjunto Temático Miku.
+How to Get: Awarded from the limited-time event Let the Sound Resound.=Cómo conseguirlo: Otorgado en el evento por tiempo limitado Que el Sonido Resuene.
+As thanks for purchasing the Milicoin Set, please accept this special gift from Marthym's Shop. You can find it attached below.=Como agradecimiento por comprar el conjunto de Milimonedas, acepta este regalo especial de la Tienda de Marthym. Lo encuentras adjunto abajo.
+How to Get: Purchase the Anni Theme Set.=Cómo conseguirlo: Compra el Conjunto Temático del Aniversario.
+Sorrow Revelation - Orange=Revelación del Dolor - Naranja
+The gift list is empty.=La lista de regalos está vacía.
+Entry to the Expert Pond costs <color\=#FF423F>700</color> yen. Do you want to buy a ticket?=Entrar al Estanque de Expertos cuesta <color\=#FF423F>700</color> yen. ¿Quieres comprar un billete?
 
 r:"^A Birthday Gift for (.+?)$"="Un regalo de cumpleaños para $1"
 Thank you for playing Persona5: The Phantom X.\n\nJun 12 is Haruna Nishimori’s birthday!\nTo celebrate, we’re sending you the Recommended Set: Poder Revelation - Orange.\n\nWe hope you continue to enjoy Persona5: The Phantom X.=Gracias por jugar a Persona5: The Phantom X.\n\n¡El 12 de junio es el cumpleaños de Haruna Nishimori!\nPara celebrarlo, te enviamos el Conjunto Recomendado: Revelación de Poder - Naranja.\n\nEsperamos que sigas disfrutando de Persona5: The Phantom X.
@@ -2890,3 +2958,71 @@ Familiar Wingbeat=Aleteo familiar
 
 Collect rewards from this page after 8:00 PM (UTC) on the day of the 1st AnNversary.=Reclama las recompensas de esta página después de las 8:00 PM (UTC) del día del primer aNversario.
 
++--Pesca--+
+
+Hmm... We could try changing\nspots.=Mmm... ¿Qué tal si cambiamos de sitio?
+Still no bites?=¿Todavía no pica ninguno?
+Here are five medium boilies. With them,\nyou should be able to catch the small and\nmedium-sized fish.=Aquí hay cinco boilies medianos. Con estos, deberías poder pescar los peces pequeños y medianos.
+With this weather... rare kinds of fish might\nshow up today.=Con este clima... tal vez salgan peces raros hoy.
+You're not going to lure any\nfish if you just sit there.=Si solo te sientas ahí, no vas a pescar ni un pez.
+Now, it's time to cast your\nrod. Ready?=Ahora es el momento de lanzar tu caña.\n¿Listo?
+You caught a Great Barbel Steed! \nIt seems you've reached Fishing Lv. 4 .\n<color\=#f1b500>Expert Pond</color> was also unlocked!=¡Has capturado un Gran Corcel Barbo! Parece que has llegado al Nivel 4 de Pesca.<color\=#f1b500>Estanque Experto</color> 
+
+Black Carp Log=Registro de Carpas Negras
+You caught a Best Black Carp! \n=¡Has capturado un Carpa Negra Supremo! \n
+Char Log=Registro de Salvelinos
+Prime Char=Salvelino de Primera
+Best Char=Salvelino Supremo
+Great Char=Gran Salvelino
+Good Char=Buen Salvelino
+Basic Char=Salvelino Básico
+You caught a Prime Char! \n=¡Has Capturado un Salvelino de Primera! \n
+You caught a Best Char! \n= ¡Has Capturado un Salvelino Supremo! \n
+You caught a Great Char! \n=¡Has Capturado un Gran Salvelino! \n
+You caught a Good Char! \n=¡Has Capturado un Buen Salvelino! \n
+You caught a Basic Char! \n=¡Has Capturado un Salvelino Básico! \n
+Crane Prawn Log=Registro de Camarón Grulla
+Prime Crane Prawn=Camarón Grulla de Primera
+Best Crane Prawn=Camarón Grulla Supremo
+Great Crane Prawn=Gran Camarón Grulla
+Good Crane Prawn=Buen Camarón Grulla
+Basic Crane Prawn=Camarón Grulla Básico
+You caught a Prime Crane Prawn! \n=¡Has Capturado un Camarón Grulla de Primera! \n
+You caught a Best Crane Prawn! \n= ¡Has Capturado un Camarón Grulla Supremo! \n
+You caught a Great Crane Prawn! \n=¡Has Capturado un Gran Camarón Grulla! \n
+You caught a Good Crane Prawn! \n=¡Has Capturado un Buen Camarón Grulla! \n
+You caught a Basic Crane Prawn! \n=¡Has Capturado un Camarón Grulla Básico! \n
+Bluegill Log=Registro de Pez Sol
+Prime Bluegill=Pez Sol de Primera
+Best Bluegill=Pez Sol Supremo
+Great Bluegill=Gran Pez Sol
+Good Bluegill=Buen Pez Sol
+Basic Bluegill=Pez Sol Básico
+You caught a Prime Bluegill! \n=¡Has Capturado un Pez Sol de Primera! \n
+You caught a Best Bluegill! \n= ¡Has Capturado un Pez Sol Supremo! \n
+You caught a Great Bluegill! \n=¡Has Capturado un Gran Pez Sol! \n
+You caught a Good Bluegill! \n=¡Has Capturado un Buen Pez Sol! \n
+You caught a Basic Bluegill! \n=¡Has Capturado un Pez Sol Básico! \n
+Crucian Carp Log=Registro de Carpas Crucianas
+Crucian Carp=Carpa Cruciana
+Prime Crucian Carp=Carpa Cruciana de Primera
+Best Crucian Carp=Carpa Cruciana Supremo
+Great Crucian Carp=Gran Carpa Cruciana
+Good Crucian Carp=Buen Carpa Cruciana
+Basic Crucian Carp=Carpa Cruciana Básico
+You caught a Prime Crucian Carp! \n=¡Has Capturado un Carpa Cruciana de Primera! \n
+You caught a Best Crucian Carp! \n= ¡Has Capturado un Carpa Cruciana Supremo! \n
+You caught a Great Crucian Carp! \n=¡Has Capturado un Gran Carpa Cruciana! \n
+You caught a Good Crucian Carp! \n=¡Has Capturado un Buen Carpa Cruciana! \n
+You caught a Basic Crucian Carp! \n=¡Has Capturado un Carpa Cruciana Básico! \n
+Prawn Log=Registro de Camarones
+Prime Prawn=Camarones de Primera
+Best Prawn=Camarones Supremo
+Great Prawn=Gran Camarones
+Good Prawn=Buen Camarones
+Basic Prawn=Camarones Básico
+You caught a Prime Prawn! \n=¡Has Capturado un Camarones de Primera! \n
+You caught a Best Prawn! \n= ¡Has Capturado un Camarones Supremo! \n
+You caught a Great Prawn! \n=¡Has Capturado un Gran Camarones! \n
+You caught a Good Prawn! \n=¡Has Capturado un Buen Camarones! \n
+You caught a Basic Prawn! \n=¡Has Capturado un Camarones Básico! \n

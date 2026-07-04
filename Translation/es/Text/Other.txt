@@ -780,6 +780,7 @@ Virtual Concert=Concierto Virtual
 Heaven(ATOLS Remix)=Heaven(ATOLS Remix)
 Ghost Rule=Ghost Rule
 Play-With-Fire=Play-With-Fire
+Heaven=Heaven
 Spring Storm=Spring Storm
 Marionette Dancer=Marionette Dancer
 Virtual Stage=Escenario Virtual
@@ -837,15 +838,6 @@ I'm sorry... If only I\ncould've helped more...=Lo siento mucho... Si tan solo h
 Our friend is down! Watch out!=¡Nuestro amigo ha caído!\n¡Cuidado!
 H<color\=#ff0000ff>a</color>tsune Miku=H<color\=#ff0000ff>a</color>tsune Miku
 Miku's song resounds through\nthe halls. I stop and listen\nto her sing for a while...=La canción de Miku resuena por los pasillos.\nMe detengo y la escucho cantar un rato...
-
-
-
-
-
-
-
-
-
 
 
 Hello, {{A}}-san. What brings you here?=Hola, {{A}}-san. ¿Qué te trae por aquí?
@@ -1001,4 +993,6 @@ Huh? Are you saying you've got a thing\nfor maids, Nagisa-kun?=¿Eh? ¿Me estás
 Wait, does that mean there's demand for it?\nMaybe a full-on maid bar could work...=Espera, ¿eso significa que hay mercado para eso?\n¡Quizá un bar temático de "maids" completo podría funcionar!
 No! That's not gonna happen! Get your mind\nout of the gutter!=¡Claro que no! ¡Ni lo pienses! ¡Deja de tener esas ideas tan cochinas!
 It took a while to clear up\nShiina's misunderstanding...=Me tomó un buen rato aclarar\nel malentendido con Shiina...
+
+
 
