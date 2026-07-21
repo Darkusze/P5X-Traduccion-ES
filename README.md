@@ -45,6 +45,8 @@ Sabemos que la versión Global del juego presenta barreras idiomáticas y técni
 <img width="65%" alt="Interfaz del Patcher" src="https://github.com/user-attachments/assets/833bcc03-fd3b-442c-92be-31ce62b98900" />
 </div>
 
+[Novedades de ultima versión](https://github.com/Darkusze/P5XTES/releases/tag/a3.0.0)
+
 ---
 
 ## 💬 Comunidad y Soporte
