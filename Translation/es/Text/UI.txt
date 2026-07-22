@@ -314,6 +314,19 @@ r:"^Added to your collection on: Oct (\d+), (\d+) (\d+:\d+:\d+ [AP]M)$"="Añadid
 r:"^Added to your collection on: Nov (\d+), (\d+) (\d+:\d+:\d+ [AP]M)$"="Añadido a tu colección el: $1 de noviembre de $2 $3"
 r:"^Added to your collection on: Dec (\d+), (\d+) (\d+:\d+:\d+ [AP]M)$"="Añadido a tu colección el: $1 de diciembre de $2 $3"
 
+r:"^Valid until: (Jan) (\d+), (\d+), (\d{2}:\d{2} [AP]M)$"="Válido hasta: $2 de enero de $3, $4"
+r:"^Valid until: (Feb) (\d+), (\d+), (\d{2}:\d{2} [AP]M)$"="Válido hasta: $2 de febrero de $3, $4"
+r:"^Valid until: (Mar) (\d+), (\d+), (\d{2}:\d{2} [AP]M)$"="Válido hasta: $2 de marzo de $3, $4"
+r:"^Valid until: (Apr) (\d+), (\d+), (\d{2}:\d{2} [AP]M)$"="Válido hasta: $2 de abril de $3, $4"
+r:"^Valid until: (May) (\d+), (\d+), (\d{2}:\d{2} [AP]M)$"="Válido hasta: $2 de mayo de $3, $4"
+r:"^Valid until: (Jun) (\d+), (\d+), (\d{2}:\d{2} [AP]M)$"="Válido hasta: $2 de junio de $3, $4"
+r:"^Valid until: (Jul) (\d+), (\d+), (\d{2}:\d{2} [AP]M)$"="Válido hasta: $2 de julio de $3, $4"
+r:"^Valid until: (Aug) (\d+), (\d+), (\d{2}:\d{2} [AP]M)$"="Válido hasta: $2 de agosto de $3, $4"
+r:"^Valid until: (Sep) (\d+), (\d+), (\d{2}:\d{2} [AP]M)$"="Válido hasta: $2 de septiembre de $3, $4"
+r:"^Valid until: (Oct) (\d+), (\d+), (\d{2}:\d{2} [AP]M)$"="Válido hasta: $2 de octubre de $3, $4"
+r:"^Valid until: (Nov) (\d+), (\d+), (\d{2}:\d{2} [AP]M)$"="Válido hasta: $2 de noviembre de $3, $4"
+r:"^Valid until: (Dec) (\d+), (\d+), (\d{2}:\d{2} [AP]M)$"="Válido hasta: $2 de diciembre de $3, $4"
+
 ++-------------Guarida de ladrones-----------------++
 Den Maker=Creador de guaridas.
 r:"^You can place that here once your Den Level reaches (\d+)\.$"="Puedes colocar eso aquí una vez que tu Nivel de Guarida llegue al $1."
@@ -494,8 +507,8 @@ Spend: <color\=#FFDE00>Orange Fortune Revelation x1</color>.\nTrade: <color\=#FF
 Spend: <color\=#FFDE00>Orange Fortune Revelation x1</color>.\nTrade: <color\=#FFDE00>Space Revelation Integrity x1</color>.\nDo you want to confirm?=Gastar: <color\=#FFDE00>Revelación de la Fortuna Naranja x1</color>.\nIntercambiar: <color\=#FFDE00>Revelación Espacial Integridad x1</color>.\n¿Quieres confirmar?
 Spend: <color\=#FFDE00>Orange Fortune Revelation x1</color>.\nTrade: <color\=#FFDE00>Space Revelation Freedom x1</color>.\nDo you want to confirm?=Gastar: <color\=#FFDE00>Revelación de la Fortuna Naranja x1</color>.\nIntercambiar: <color\=#FFDE00>Revelación Espacial Libertad x1</color>.\n¿Quieres confirmar?
 Spend: <color\=#FFDE00>Orange Fortune Revelation x1</color>.\nTrade: <color\=#FFDE00>Space Revelation Creation x1</color>.\nDo you want to confirm?=Gastar: <color\=#FFDE00>Revelación de la Fortuna Naranja x1</color>.\nIntercambiar: <color\=#FFDE00>Creación de Revelación Espacial x1</color>. ¿Quieres confirmarlo?
-Spend: <color=#FFDE00>Orange Fortune Revelation x1</color>.\nTrade: <color=#FFDE00>Space Revelation Perseverance x1</color>.\nDo you want to confirm?=Gastar: <color=#FFDE00>Revelación de la Fortuna Naranja x1</color>.\nIntercambiar: <color=#FFDE00>Perseverancia de Revelación Espacial x1</color>.\n¿Quieres confirmar?
-Spend: <color=#FFDE00>Orange Fortune Revelation x1</color>.\nTrade: <color=#FFDE00>Space Revelation Hope x1</color>.\nDo you want to confirm?=Gastar: <color=#FFDE00>Revelación de la Fortuna Naranja x1</color>.\nIntercambiar: <color=#FFDE00>Esperanza de Revelación Espacial x1</color>.\n¿Quieres confirmar?
+Spend: <color\=#FFDE00>Orange Fortune Revelation x1</color>.\nTrade: <color\=#FFDE00>Space Revelation Perseverance x1</color>.\nDo you want to confirm?=Gastar: <color\=#FFDE00>Revelación de la Fortuna Naranja x1</color>.\nIntercambiar: <color\=#FFDE00>Perseverancia de Revelación Espacial x1</color>.\n¿Quieres confirmar?
+Spend: <color\=#FFDE00>Orange Fortune Revelation x1</color>.\nTrade: <color\=#FFDE00>Space Revelation Hope x1</color>.\nDo you want to confirm?=Gastar: <color\=#FFDE00>Revelación de la Fortuna Naranja x1</color>.\nIntercambiar: <color\=#FFDE00>Esperanza de Revelación Espacial x1</color>.\n¿Quieres confirmar?
 This is currently equipped to Lufel. Do you want to change that?=Esto está equipado actualmente a Lufel.\n¿Quieres confirmar?
 
 ++-------------Sistema Goals-----------------++
@@ -532,10 +545,11 @@ r:"^ID:(\d+)$"="ID:$1"
 r:"^Out\s+of\s+Stock\s+(\d+)$"="Sin stock: $1"
 r:"^Info\s+(\d+)\s*$"="Info. $1"
 r:"^\(Paid:\s+(\d+)\)$"="(Pagado: $1)"
-r:"^Unlocks at Lv\\. (\\d+)$"="Se desbloquea en Nv. $1"
+r:"^Unlocks at Lv\\. (\\d+)$"="Desbloquea a Nv. $1"
 r:"^Lv\\.(\\d+)$"="Nv.$1"
 r:"^EXP:\s+(\d+)\s*$"="EXP: $1"
-r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.7.2\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
+r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.7.3\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
+r:"^©Perfect World Adapted from Persona5 ©ATLUS\. ©SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: (.*)$"="©Perfect World Adaptado de Persona5 ©ATLUS. ©SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.7.3\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
 r:"^Fusion\s+will\s+produce\s+(\d+)\s+<color\=#FF423F>(.+?)'s\s+Seal</color>\.\s*$"="La fusión producirá $1 <color\=#FF423F>Sello de $2</color>."
 r:"^Phantom Thief level cap increased to \\n<color\=#FFF000>Lv\\. (\\d+)</color>\\.$"="El límite de Nivel de Ladrones Fantasma ha aumentado a \n<color\=#FFF000>Lv. $1</color>."
 Meta Jewels will be spent.=Se gastarán las Meta gemas.
@@ -864,6 +878,17 @@ r:"^New messages: (\d+)$"="Nuevos mensajes: $1"
 r:"^The necessary resources have not been downloaded\. Do you want to download them now\? \(Resources: Chapter (\d+)\. This will take a few minutes to complete\.\)$"="No se han descargado los recursos necesarios. ¿Quieres descargarlos ahora? (Recursos: Chapter $1. Esto tardará unos minutos en completarse)."
 Tapping is too fast.=Estás pulsando demasiado rápido.
 Clear rewards already acquired=Recompensas ya adquiridas
+<color\=#FFC000>This Phantom Thief</color> is currently locked. They cannot be removed from the party or changed until you reset the challenge.=<color\=#FFC000>Este Ladrón Fantasma</color> está bloqueado actualmente. No se puede eliminar del grupo ni cambiar hasta que reinicies el desafío.
+Do you want to forget Elec Boost IV?\n<color\=#FF423F>This can't be undone.</color>=¿Quieres olvidar Aumento Eléctrico IV?<color\=#FF423F>Esta acción no se puede deshacer.</color>
+Forgot the skill Elec Boost IV.=Olvidó la habilidad Aumento Eléctrico IV.
+Crystal Cognigem=Cognigema de Cristal
+<color\=#FFC000>Evening Clear</color> added to playlist.=<color\=#FFC000>Atardecer Despejado</color> se agregó a la lista de reproducción.
+<color\=#FFC000>Evening Clear</color> removed from playlist.=<color\=#FFC000>Atardecer Despejado</color> se eliminó de la lista de reproducción.
+<color\=#FFC000>After School Clear</color> added to playlist.=<color\=#FFC000>Después de Clases Despejado</color> se agregó a la lista de reproducción.
+<color\=#FFC000>After School Clear</color> removed from playlist.=<color\=#FFC000>Después de Clases Despejado</color> se eliminó de la lista de reproducción.
+<color\=#FFC000>Night Clear</color> added to playlist.=<color\=#FFC000>Noche Desejada</color> se agregó a la lista de reproducción.
+<color\=#FFC000>Night Clear</color> removed from playlist.=<color\=#FFC000>Noche Desejada</color> se eliminó de la lista de reproducción.
+
 
 ++----Metro----++
 r:"Clear Difficulty (\d+) with (?:a|an) <link\=(.+?)><u>Curse Formation</u></link>"="Completa la dificultad $1 con una <link\=$2><u>Formación de Maldición</u></link>"
@@ -914,6 +939,32 @@ r:"Sale Ends: Oct (\d+), (\d+) ([\d:]+)"="Fin de la venta: $1 de octubre de $2 $
 r:"Sale Ends: Nov (\d+), (\d+) ([\d:]+)"="Fin de la venta: $1 de noviembre de $2 $3"
 r:"Sale Ends: Dec (\d+), (\d+) ([\d:]+)"="Fin de la venta: $1 de diciembre de $2 $3"
 r:"Sales End:\s+(\d+) h (\d+) m"="Ventas finalizan: $1 h $2 m"
+
+r:"^On Jan (\d+), (\d+), you had some unclaimed rewards from Puzzle\. They have been delivered directly to you via this message\.$"="El $1 de enero de $2, tenías algunas recompensas sin reclamar de Puzzle. Se te han entregado directamente a través de este mensaje."
+r:"^On Feb (\d+), (\d+), you had some unclaimed rewards from Puzzle\. They have been delivered directly to you via this message\.$"="El $1 de febrero de $2, tenías algunas recompensas sin reclamar de Puzzle. Se te han entregado directamente a través de este mensaje."
+r:"^On Mar (\d+), (\d+), you had some unclaimed rewards from Puzzle\. They have been delivered directly to you via this message\.$"="El $1 de marzo de $2, tenías algunas recompensas sin reclamar de Puzzle. Se te han entregado directamente a través de este mensaje."
+r:"^On Apr (\d+), (\d+), you had some unclaimed rewards from Puzzle\. They have been delivered directly to you via this message\.$"="El $1 de abril de $2, tenías algunas recompensas sin reclamar de Puzzle. Se te han entregado directamente a través de este mensaje."
+r:"^On May (\d+), (\d+), you had some unclaimed rewards from Puzzle\. They have been delivered directly to you via this message\.$"="El $1 de mayo de $2, tenías algunas recompensas sin reclamar de Puzzle. Se te han entregado directamente a través de este mensaje."
+r:"^On Jun (\d+), (\d+), you had some unclaimed rewards from Puzzle\. They have been delivered directly to you via this message\.$"="El $1 de junio de $2, tenías algunas recompensas sin reclamar de Puzzle. Se te han entregado directamente a través de este mensaje."
+r:"^On Jul (\d+), (\d+), you had some unclaimed rewards from Puzzle\. They have been delivered directly to you via this message\.$"="El $1 de julio de $2, tenías algunas recompensas sin reclamar de Puzzle. Se te han entregado directamente a través de este mensaje."
+r:"^On Aug (\d+), (\d+), you had some unclaimed rewards from Puzzle\. They have been delivered directly to you via this message\.$"="El $1 de agosto de $2, tenías algunas recompensas sin reclamar de Puzzle. Se te han entregado directamente a través de este mensaje."
+r:"^On Sep (\d+), (\d+), you had some unclaimed rewards from Puzzle\. They have been delivered directly to you via this message\.$"="El $1 de septiembre de $2, tenías algunas recompensas sin reclamar de Puzzle. Se te han entregado directamente a través de este mensaje."
+r:"^On Oct (\d+), (\d+), you had some unclaimed rewards from Puzzle\. They have been delivered directly to you via this message\.$"="El $1 de octubre de $2, tenías algunas recompensas sin reclamar de Puzzle. Se te han entregado directamente a través de este mensaje."
+r:"^On Nov (\d+), (\d+), you had some unclaimed rewards from Puzzle\. They have been delivered directly to you via this message\.$"="El $1 de noviembre de $2, tenías algunas recompensas sin reclamar de Puzzle. Se te han entregado directamente a través de este mensaje."
+r:"^On Dec (\d+), (\d+), you had some unclaimed rewards from Puzzle\. They have been delivered directly to you via this message\.$"="El $1 de diciembre de $2, tenías algunas recompensas sin reclamar de Puzzle. Se te han entregado directamente a través de este mensaje."
+
+r:"^On Jan (\d+), (\d+), you had some unclaimed rewards from Cycle of Fate\. They have been delivered directly to you via this message\.$"="El $1 de enero de $2, tenías algunas recompensas sin reclamar de Ciclo del destino. Se te han entregado directamente a través de este mensaje."
+r:"^On Feb (\d+), (\d+), you had some unclaimed rewards from Cycle of Fate\. They have been delivered directly to you via this message\.$"="El $1 de febrero de $2, tenías algunas recompensas sin reclamar de Ciclo del destino. Se te han entregado directamente a través de este mensaje."
+r:"^On Mar (\d+), (\d+), you had some unclaimed rewards from Cycle of Fate\. They have been delivered directly to you via this message\.$"="El $1 de marzo de $2, tenías algunas recompensas sin reclamar de Ciclo del destino. Se te han entregado directamente a través de este mensaje."
+r:"^On Apr (\d+), (\d+), you had some unclaimed rewards from Cycle of Fate\. They have been delivered directly to you via this message\.$"="El $1 de abril de $2, tenías algunas recompensas sin reclamar de Ciclo del destino. Se te han entregado directamente a través de este mensaje."
+r:"^On May (\d+), (\d+), you had some unclaimed rewards from Cycle of Fate\. They have been delivered directly to you via this message\.$"="El $1 de mayo de $2, tenías algunas recompensas sin reclamar de Ciclo del destino. Se te han entregado directamente a través de este mensaje."
+r:"^On Jun (\d+), (\d+), you had some unclaimed rewards from Cycle of Fate\. They have been delivered directly to you via this message\.$"="El $1 de junio de $2, tenías algunas recompensas sin reclamar de Ciclo del destino. Se te han entregado directamente a través de este mensaje."
+r:"^On Jul (\d+), (\d+), you had some unclaimed rewards from Cycle of Fate\. They have been delivered directly to you via this message\.$"="El $1 de julio de $2, tenías algunas recompensas sin reclamar de Ciclo del destino. Se te han entregado directamente a través de este mensaje."
+r:"^On Aug (\d+), (\d+), you had some unclaimed rewards from Cycle of Fate\. They have been delivered directly to you via this message\.$"="El $1 de agosto de $2, tenías algunas recompensas sin reclamar de Ciclo del destino. Se te han entregado directamente a través de este mensaje."
+r:"^On Sep (\d+), (\d+), you had some unclaimed rewards from Cycle of Fate\. They have been delivered directly to you via this message\.$"="El $1 de septiembre de $2, tenías algunas recompensas sin reclamar de Ciclo del destino. Se te han entregado directamente a través de este mensaje."
+r:"^On Oct (\d+), (\d+), you had some unclaimed rewards from Cycle of Fate\. They have been delivered directly to you via this message\.$"="El $1 de octubre de $2, tenías algunas recompensas sin reclamar de Ciclo del destino. Se te han entregado directamente a través de este mensaje."
+r:"^On Nov (\d+), (\d+), you had some unclaimed rewards from Cycle of Fate\. They have been delivered directly to you via this message\.$"="El $1 de noviembre de $2, tenías algunas recompensas sin reclamar de Ciclo del destino. Se te han entregado directamente a través de este mensaje."
+r:"^On Dec (\d+), (\d+), you had some unclaimed rewards from Cycle of Fate\. They have been delivered directly to you via this message\.$"="El $1 de diciembre de $2, tenías algunas recompensas sin reclamar de Ciclo del destino. Se te han entregado directamente a través de este mensaje."
 
 Unclaimed Trial of the Astrolabe Goal Rewards=Recompesas sin reclamar de las Pruebas del Astrolabio
 The goal rewards for the Trial of the Astrolabe were not claimed. They have been delivered to your mailbox, so please check them.=Las recompensas de la prueba del Astrolabio no fueron reclamadas. Han sido entregadas en tu buzón, así que por favor revísalas.
@@ -988,6 +1039,15 @@ Do you want to trade Weapon Gift Box x1 for Queen of Winter x1?=¿Quieres cambia
 Do you want to trade Weapon Gift Box x1 for Ephemerality x1?=¿Quieres cambiar la Caja de Regalo de Armas x1 por Efímera x1?
 Do you want to trade Weapon Gift Box x1 for Jolting Pulse x1?=¿Quieres cambiar la Caja de Regalo de Armas x1 por Pulso de Sacudido x1?
 
+Custom Revelation Cards Expansion Gift=Regalo de expansión de Cartas de Revelación Personalizadas
+Miracle Concert Coin Delivery=Entrega de Monedas de Concierto Milagroso
+
+r:"^Wingbeat Coins Gift: Day (\d+)$"="Regalo de Monedas Aleteo: Día $1"
+r:"^Thank you for playing Persona5: The Phantom X\.\n\nPlease enjoy the enclosed gift for Day (\d+) of the Wingbeat Coins giveaway\.\n\nWe hope you continue to enjoy Persona5: The Phantom X\.$"="Gracias por jugar Persona5: The Phantom X.\n\nDisfruta del regalo adjunto por el Día $1 del sorteo de monedas Aleteo.\n\nEsperamos que sigas disfrutando de Persona5: The Phantom X."
+
+Thank you for playing Persona5: The Phantom X.\n\nPlease enjoy the enclosed gift to celebrate our expansion of the Custom Revelation Card system.\n\nWe hope you continue to enjoy Persona5: The Phantom X.=Gracias por jugar Persona 5: The Phantom X.\n\nPor favor, disfruta del regalo adjunto por la expansión del sistema de Cartas de Revelación Personalizadas.\n\nEsperamos que sigas disfrutando de Persona 5: The Phantom X.
+
+
 
 +--días despejados--+
 Do you want to advance time until it's Clear and Night to start the mission?=¿Quieres avanzar el tiempo hasta que esté despejado y sea de noche para iniciar la misión?
@@ -1005,6 +1065,7 @@ Sumi Only=Sólo Para Sumi
 Kurotani Only=Sólo Para Kurotani
 Kamiyama Only=Sólo Para Kamiyama
 Minami Only=Sólo Para Minami
+Beachflower Minami Only=Sólo para Minami Flor Costera
 Yukimi Only=Sólo Para Yukimi
 Tomiyama Only=Sólo Para Tomiyama
 Haruna Only=Sólo Para Haruna
@@ -1798,6 +1859,9 @@ r:"(?s)<color\=#FFD145>Graphics\s+Settings</color>.*?Configure\s+various\s+graph
 
 <color\=#FFD145>Skills</color>\nPersonas' unique active skills can be levelled up to increase their effects.\nLevelling up requires skill materials and special drop materials from Shadows.\nSkill items can be gained in Realm of Repression: Enlightenment.\nIn addition to skills, Personas also have the following abilities.\nTalent: Unlocked and enhanced as your party members level up.\nAwareness: As Awareness level increases, effects are strengthened.\nResonance: Effects that activate when certain conditions occur in battle.\nHighlight: The Highlight gauge fills after each ally action, and can be used at any time when it reaches its maximum.\nTheurgy: At the start of the turn, the Theurgy gauge fills by 35. Each Theurgy can be used when its gauge reaches its maximum.\n\n<color\=#FFD145>Affinities</color>\nOn the Skill screen, the Persona's affinity information is displayed.\nAffinities can display Wk, Dr, Str, Rpl, or Nul, corresponding to Weak, Drain, Strong, Repel, or Null.\n\nWeak: Target takes 20% increased damage.\nDrain: Damage is nullified, and target restores HP equal to 20% of the damage.\nStrong: Target takes 50% decreased damage.\nRepel: Damage to target is nullified, and the attacker takes 20% of the damage.\nNull: Damage to target is nullified.=<color\=#FFD145>Habilidades</color>\nLas habilidades activas únicas de las Personas se pueden subir de Nivel para aumentar sus efectos.\nMejorarlas requiere materiales de habilidad y objetos especiales que dejan caer las Sombras.\nLos materiales de habilidad se obtienen en el Espacio de represión: Iluminación.\nAdemás de las habilidades, las Personas poseen las siguientes capacidades:\nTalento: Se desbloquea y mejora a medida que tus compañeros de equipo suben de Nivel.\nConciencia: Al aumentar el Nivel de Conciencia, se fortalecen sus efectos.\nResonancia: Efectos que se activan cuando ocurren ciertas condiciones en el combate.\nHighlight: La barra de Highlight se llena tras cada acción de un aliado y se puede usar en cualquier momento al alcanzar su máximo.\nTeúrgia: Al inicio del turno, la barra de Teúrgia se llena 35 puntos. Cada habilidad de Teúrgia se puede utilizar cuando su barra esté al máximo.\n\n<color\=#FFD145>Afinidades</color>\nEn la pantalla de habilidades se despliega la información de las afinidades elementales de la Persona.\nEstas debilidades y resistencias muestran las siglas Déb, Abs, Res, Ref o Nul, que corresponden a Débil, Absorber, Resistir, Reflejo o Nulo.\n\nDébil: El objetivo recibe un 20% más de daño.\nAbsorber: El daño se anula y el objetivo restaura tantos PS como el 20% del daño recibido.\nResistir: El objetivo recibe un 50% menos de daño.\nReflejo: El daño al objetivo se anula y el atacante recibe el 20% de dicho daño.\nNulo: El daño al objetivo se neutraliza por completo.
 
+<color\=#FFD145>About Weapons</color>\nEach Phantom Thief has certain weapon types they can use.\nThe higher the rarity and base ability of the weapon, the stronger it can become.\n\n<color\=#FFD145>Enhancement</color>\nWhen a weapon is enhanced, its base ability is increased.\nThe enhancement level cannot exceed the current overclock level of the weapon.\nWeapon enhancement level will be inherited when replacing weapons.\nEnhancement items include metal parts, silver parts, and gold parts.\nYou can obtain these from clearing Realm of Repression: Pursuit of Parts.\nWeapons that you no longer need can be used as enhancement materials.\n\n<color\=#FFD145>Overclock</color>\nWhen overclocked, a weapon's base ability can be greatly enhanced.\nWeapon overclocking corresponds to Phantom Thief level.\nOverclock level is transferred between equipped weapons.\nOverclocking requires weapon overclock items.\nOverclock items consist of Blue Crystals, Purple Crystals, and Yellow Crystals.\nOverclock items can be obtained from Realm of Repression: Gear Forging.\n\n<color\=#FFD145>Forging</color>\nYou can forge a weapon to strengthen its effects.\nForge levels 1, 3, and 5 require weapons of the same name, while 2, 4, and 6 require weapons of the same star level.\n\n<color\=#FFD145>Scrapping Weapons</color>\n4★ weapons can be scrapped for 2 Gecko Coins if they aren't forged.\nForged 4★ weapons will grant extra Gecko Coins based on their forge level.\nNote: 5★ weapons that can be forged with shards, like Sennight Inferno, cannot be scrapped.=<color\=#FFD145>Acerca de las armas</color>\nCada Ladrón Fantasma puede usar ciertos tipos de armas.\nCuanto mayores sean la rareza y la estadística base de un arma, más fuerte podrá llegar a ser.\n\n<color\=#FFD145>Mejora</color>\nAl mejorar un arma, su estadística base aumenta.\nEl nivel de mejora no puede superar el nivel de sobrecarga actual del arma.\nEl nivel de mejora se heredará de forma automática al cambiar de arma.\nLos materiales de mejora incluyen piezas de metal, piezas de plata y piezas de oro.\nPuedes obtenerlos al completar el Reino de la represión: Caza de piezas.\nLas armas que ya no necesites se pueden usar como materiales de mejora.\n\n<color\=#FFD145>Sobrecarga</color>\nAl sobrecargar un arma, su estadística base aumenta considerablemente.\nEl límite de sobrecarga depende del nivel del Ladrón Fantasma.\nEl nivel de sobrecarga se transfiere entre las armas equipadas.\nLa sobrecarga requiere objetos específicos de sobrecarga.\nEstos consisten en cristales azules, cristales morados y cristales amarillos.\nPuedes conseguirlos en el Reino de la represión: Forja de equipo.\n\n<color\=#FFD145>Forja</color>\nPuedes forjar un arma para potenciar sus efectos pasivos.\nLos niveles de forja 1, 3 y 5 requieren armas del mismo nombre, mientras que los niveles 2, 4 y 6 requieren armas con el mismo rango de estrellas.\n\n<color\=#FFD145>Desguace de armas</color>\nLas armas de 4★ se pueden desguazar para obtener 2 monedas Gecko si no están forjadas.\nLas armas de 4★ forjadas otorgarán monedas Gecko adicionales según su nivel de forja.\nNota: Las armas de 5★ que se forjan con fragmentos, como Infierno de Siete Noches, no se pueden desguazar.
+
+
 
 ++-------------Pruebas Pjs-----------------++
 
@@ -1853,7 +1917,11 @@ Hatsune Miku's Skills=Habilidades de Hatsune Miku
 <color\=#FF423F>Feel the Beat</color>\nBased on the current song playing, Hatsune Miku can provide\nvarious buffs to allies, then gains a corresponding <color\=#FF423F>Track</color>.=<color\=#FF423F>Siente el Ritmo</color>\nSegún la canción que se esté reproduciendo,\nHatsune Miku puede proporcionar varias mejoras (buffs)\na los aliados, y luego obtiene la <color\=#FF423F>Pista</color> correspondiente.
 <color\=#FF423F>Virtual Concert</color>\nGrants allies extra turns without increasing\nthe total action count for 2 turns.=<color\=#FF423F>Concierto Virtual</color>\nOtorga turnos adicionales a los aliados sin aumentar\nel recuento total de acciones durante 2 turnos.
 
-
+Beachflower Minami's Skills=Habilidades de Minami Flor Costera
+1. Beachflower Minami has excellent <color\=#FF423F>single-target buff capability</color>. She can greatly increase the critical rate and critical damage of an ally, and also boost their Attack and damage.\n2. During battle, when certain conditions are met, she can use medicine <color\=#FF423F>without spending a turn</color>, and also greatly strengthen the effects of certain medicine.\n3. She has Everyday Medicine that is <color\=#FF423F>not consumed upon use</color>, and her Synergy ability unlocks <color\=#FF423F>Potent Medicine</color> for purchase.=1. Minami Flor Costera tiene una excelente <color\=#FF423F>capacidad de mejora (buff) a un solo objetivo</color>. Puede aumentar enormemente la probabilidad crítica y el daño crítico de un aliado, además de potenciar su Ataque y daño.\n2. Durante la batalla, cuando se cumplen ciertas condiciones, puede usar medicina <color\=#FF423F>sin consumir un turno</color>, y también potenciar enormemente los efectos de cierta medicina.\n3. Tiene Medicina Diaria que <color\=#FF423F>no se consume con el uso</color>, y su habilidad de Sinergia desbloquea la <color\=#FF423F>Medicina Potente</color> para su compra.
+Use the skill <color\=#FF423F>Gentle Sea Breeze</color>\nto buff an individual ally and gain\n1 <color\=#FF423F>Midsummer Prescription</color> stack.=Usa la habilidad <color\=#FF423F>Brisa Marina Suave</color>\npara mejorar a un aliado individual y ganar\n1 acumulación de <color\=#FF423F>Receta de Pleno Verano</color>.
+Select Makoto Yuki.=Selecciona a Makoto Yuki.
+At the start of the turn, spend 1 <color\=#FF423F>Midsummer\nPrescription</color> to gain <color\=#FF423F>Flower Basket Pharmacy</color>\nand use medicine without spending the turn.=Al comienzo del turno, consume 1 <color\=#FF423F>Receta de Pleno\nVerano</color> para obtener <color\=#FF423F>Farmacia de la Canasta de Flores</color>\ny usa medicina sin consumir el turno.
 
 ++-------------Tutoriales Eventos-----------------++
 r:"(?s)<color\=#FFD145>Collecting Keywords</color>\n• In the mission Answer Sheet, join (.+?) to solve puzzles.*?• Drag the keywords to the correct place and complete the puzzle\."="<color\=#FFD145>Recopilación de palabras clave</color>\n• En la misión Hoja de respuestas, únete a $1 para resolver acertijos en una búsqueda del tesoro que pondrá a prueba tu ingenio. Durante el evento, puedes consultar tu hoja de respuestas para ver las palabras clave que has recopilado.\n• Puedes reunir las palabras clave en cualquier orden, pero solo puedes aceptar una misión de palabra clave a la vez.\n• Habrá más historia disponible cuando hayas reunido 3, 6 y 9 palabras clave. No podrás recolectar la siguiente palabra clave hasta que hayas completado la nueva historia.\n• Recibirás inmediatamente las recompensas por recopilar palabras clave tras completar cada misión. No es necesario volver a la hoja de respuestas para reclamarlas.\n\n<color\=#FFD145>Completar el acertijo</color>\n• Tras recopilar todas las palabras clave, deberás ponerlas en el orden correcto para formar una oración.\n• Arrastra las palabras clave al lugar correcto y completa el acertijo."
@@ -1886,6 +1954,9 @@ Special Gift=Regalo Especial
 <color\=#FFD145>Event Rules</color>\nIn this event, you will be able to receive rewards based on the total number of days you logged in over the past year.\nLogin days are counted until June 26, 2026, and you will be able to start collecting rewards starting on that day.=<color\=#FFD145>Reglas del evento</color>\nEn este evento, podrás recibir recompensas según el número total de días que hayas iniciado sesión durante el último año. Se cuentan los días de inicio de sesión hasta el 26 de junio de 2026 y podrás empezar a recolectar las recompensas ese mismo día.
 
 <color\=#FFD145>Event Rules</color>\nLog in to the game every day to receive that day's rewards.=<color\=#FFD145>Reglas del evento</color>\nInicia sesión en el juego cada día para recibir las recompensas del día.
+
+You can customize your own city life soundtrack with the <color\=#FF423F>Music Player</color>.\nUp to 5 different songs can be chosen for each situation, based on the <color\=#FF423F>weather</color> and <color\=#FF423F>time</color>.=Puedes personalizar la banda sonora de tu vida urbana con el <color=#FF423F>Reproductor de música</color>.\nSe pueden elegir hasta 5 canciones distintas para cada situación según el <color=#FF423F>clima</color> y el <color=#FF423F>momento del día</color>.
+
 
 ++-------------Combates enemigos-----------------++
 
@@ -2082,6 +2153,10 @@ r:"^Pass\s+a\s+Fate\s+Stella\s+\((\d+)\/(\d+)\)$"="Supera una Estrella del Desti
 r:"^Pass\s+all\s+Stellae\s+\((\d+)\/(\d+)\)$"="Supera todas las Estrellas ($1/$2)"
 r:"^Use\s+(\d+)\s+Willpower\s+to\s+pass\s+all\s+Stellae\s*\((\d+)\/(\d+)\)$"="Usa $1 de Fuerza de Voluntad para superar todas las Estrellas ($2/$3)"
 
+Clear Recollections once =Completa Recuerdo una vez
+Pass any Stella in Trial of the Astrolabe =Supera cualquier estrella en la Prueba del Astrolabio
+r:"^Complete (\d+) tasks \((\d+)\/(\d+)\)$"="Completa $1 tareas ($2/$3)"
+r:"^Clear Recollections once \((\d+)\/(\d+)\)$"="Completa Recuerdos una vez ($1/$2)"
 
 
 ++-------------Combate-----------------++
@@ -2552,7 +2627,10 @@ r:"Increase damage to knocked down foes by (\d+)%\."="Aumenta el daño a enemigo
 
 r:"When on an extra action, increase damage by (\d+)%\."="Al realizar una acción extra, aumenta el daño en un $1%."
 
-r:"Increase Speed by (\d+)\."="Aumenta la Velocidad en $1."
+r:"^Increase Speed by (\d+)\.$"="Aumenta la Velocidad en $1."
+r:"^Increase Speed by (\d+)\. Decrease Defense by (\d+)%\.$"="Aumenta la Velocidad en $1. Reduce la Defensa en un $2%."
+
+r:"^Decrease critical hit taken rate by ([\d.]+)%\.$"="Reduce la probabilidad de críticos recibidos en un $1%."
 
 r:"Decrease Defense by ([\d.]+)% when taking Bless dmg\."="Reduce la Defensa en un $1% al recibir daño de Bendición."
 
@@ -2686,6 +2764,21 @@ Please select a song.=Por favor, selecciona una canción.
 
 r:"^Current Song: (.+)$"="Canción actual: $1"
 
+r:"^Increase weakness damage by ([\d.]+)%\.$"="Aumenta el daño de debilidad en un $1%."
+
+r:"^Increase Electric damage by ([\d.]+)%\.$"="Aumenta el daño Eléctrico un $1%."
+
+r:"^Decrease Curse damage taken by ([\d.]+)%\.$"="Reduce el daño recibido por Maldición un $1%."
+
+r:"^Finish battle in (\d+) actions with no allies defeated\.$"="Termina la batalla en $1 acciones sin derrotar a ningún aliado."
+
+r:"^Decreases damage taken by ([\d.]+)% when it rains\.$"="Reduce el daño recibido un $1% cuando llueve."
+
+r:"^(.*) is being protected by Yukimi\.\.\.$"="$1 está siendo protegido por Yukimi..."
+
+r:"^(.*) is being protected by Ashiya\.\.\.$"="$1 está siendo protegido por Ashiya..."
+
+You don't have enough medicine.=No tienes suficiente medicina.
 
 +--Stats--+
 Critical Rate=Probabilidad Crítica
@@ -2697,7 +2790,7 @@ Attack Mult. +=Mult. de Ataque +
 Psy Mult. +=Mult. de Psicoquinesis +
 Total Mult. +=Mult. total +
 
-+--Ventajas Pruebas del Mar de Almas--+
++--Pruebas del Mar de Almas--+
 Each time a Theurgy is activated, all allies gain 4 Celestial Fragment stacks. Also, each time an ally defeats a foe, the ally gains 2 Celestial Fragment stacks.\nCelestial Fragment: Increase final damage dealt by 2.5% per stack for 2 turns. Stacks up to 16 times.=Cada vez que se activa una Teúrgia, todos los aliados obtienen 4 acumulaciones de Fragmento Celestial. Además, cada vez que un aliado derrota a un enemigo, dicho aliado obtiene 2 acumulaciones de Fragmento Celestial.\nFragmento Celestial: Aumenta el daño final infligido en un 2.5% por acumulación durante 2 turnos. Se acumula hasta 16 veces.
 
 Each time foes' Down Points are reduced, gain 1 Rhythm of Imbalance stack.\nRhythm of Imbalance: Increase final damage by 2% per stack for 2 turns. Stacks up to 20 times.=Cada vez que se reducen los Puntos de derribo de los enemigos, obtienes 1 acumulación de Ritmo del Desequilibrio.\nRitmo del Desequilibrio: Aumenta el daño final en un 2% por acumulación durante 2 turnos. Se acumula hasta 20 veces.
@@ -2706,12 +2799,23 @@ Ally Electric Attack Score=Puntuación de Ataque Eléctrico Aliado
 
 At the start of the user's turn, inflict Corrosive Blood on all foes.\nCorrosive Blood: Increase final damage taken by 5% for 1 turn. Stacks up to 8 times.=Al inicio del turno del usuario, inflige Sangre Corrosiva a todos los enemigos.\nSangre Corrosiva: Aumenta el daño final recibido en un 5% por 1 turno. Acumulado hasta 8 veces.
 
-+--Ventajas Prueba del Astrolabio--+
+Season Summary=Resumen de la Temporada
+When using medicine on allies, grant 1 Exalted Torrent stack to the main target.\nExalted Torrent: Increase final damage by 20% for 3 turns. Stacks up to 2 times.=Al usar medicina en aliados, otorga 1 acumulación de Torrente Exaltado al objetivo principal. Torrente Exaltado: Aumenta el daño final en un 20% durante 3 turnos. Se puede acumular hasta 2 veces.
+When allies deal damage with skills or Resonances, standard critical damage calculations are not carried out (regardless of whether or not a critical hit occurs), but deal increased <color\=#FFFC40>final damage</color> from skills and Resonances. This increase is equal to critical hit rate x (critical damage - 100%). (Max critical hit rate in this calculation is 100%).=Cuando los aliados infligen daño con habilidades o Resonancias, no se realizarán los cálculos estándar de daño crítico (sin importar si ocurre o no un golpe crítico), pero infligirán más<color\=#FFFC40>daño final</color> aumentado con habilidades y Resonancias.\nEste aumento equivale a la probabilidad de golpe crítico × (daño crítico - 100%).\n(La probabilidad máxima de golpe crítico en este cálculo es del 100%).
+
+R<color\=#000000>e</color>quiem Guidance=G<color\=#000000>u</color>ía Réquiem
+C<color\=#000000>o</color>rrosive Blood=S<color\=#000000>a</color>ngre Corrosiva
+
+
++--Prueba del Astrolabio--+
 
 After an ally uses a <color\=#FFFC40>Theurgy</color>, increase final damage by 60% for 2 turns.=Después de que un aliado use una <color\=#FFFC40>Teúrgia</color>, aumenta el daño final en un 60% durante 2 turnos.
 
 Allies from the <color\=#FF423F>Phantom Thieves of Hearts</color> (Ren, Morgana, Ryuji, Ann, Yusuke, Makoto, Futaba, Haru) deal 60% increased final damage.=Los aliados de los <color\=#FF423F>Ladrones Fantasma de Corazones</color> (Ren, Morgana, Ryuji, Ann, Yusuke, Makoto, Futaba, Haru) infligen un 60% más de daño final.
 
+Clear <color\=#ff0000>6 Stellae</color> to unlock=Completa <color\=#ff0000>6 Estrellas</color> para desbloquear.
+
+Pass a Fate Stella in Trial of the Astrolabe within 1 season.
 
 +--Misiones--+
 Clear the mission to unlock the City Life activity Talk to Hiyori.=Completa la misión para desbloquear la actividad Vida Urbana. Habla con Hiyori.
@@ -2720,7 +2824,7 @@ Clear the mission to unlock the activity Camerawork with Rikuto Shimizu.=Complet
 
 +--Random--+
 
-Shock Boost III Electric Reduction III Raindrop Barrier III Agility Master III=Impulso de Electrocución III Reducción Eléctrica III Barrera Gota de Lluvia III Agility Maestro III
+Shock Boost III Electric Reduction III Raindrop Barrier III Agility Master III=Impulso de Electrocución III Reducción Eléctrica III Barrera Gota de Lluvia III Maestro de Agilidad III
 Ankh of Abundance I=Ankh de Abundancia I
 Dia Lv.7=Dia Nv.7
 Since only one skill of the same type can be selected, Healing Boost II has been changed to Healing Boost I.=Como solo se puede seleccionar una habilidad del mismo tipo, Impulso de Curación II se ha cambiado a Impulso de Curación I.
@@ -2801,9 +2905,11 @@ The necessary resources have not been downloaded. Do you want to download them n
 An exclusive 5★ weapon for <color\=#FF423F>Hatsune Miku</color> is now available! Select which weapons are in your 5★ weapon lineup. Press [Info] for more details.=Un arma 5★ exclusiva para <color\=#FF423F>Hatsune Miku</color> ¡Ya está disponible! Selecciona qué armas formarán parte de tu alineación de armas 5★. Presiona [Info] para más detalles.
 You can select three Most Wanted 5★ Phantom Thieves, and draw Most Wanted Idol Contracts for each of the selected Phantom Thieves. Press [Info] for more details.=Puedes seleccionar tres Ladrones Fantasma de 5★ destacados y realizar Contratos de Ídolos más buscados para cada uno de ellos. Presiona [Info] para más detalles.
 5★ Hatsune Miku is in the Most Wanted lineup! Press [Info] for more details.=¡Hatsune Miku de 5★ ya está disponible en está en la lista Más Buscados! Presiona [Info] para más detalles.
-r:"^(\d+)★ (.+?) is in the Most Wanted lineup! Press \[Info\] for more details\.$"="¡$1★ $2 está en la lista Más Buscados! Presiona [Info] para más detalles."
+r:"^(\d+)★ Hatsune Miku is in the Most Wanted lineup! Press \[Info\] for more details\.$"="¡$1★ Hatsune Miku está en la lista Más Buscados! Presiona [Info] para más detalles."
 Do you want to use the following to perform The First Sound from the Future 1 times?=¿Quieres usar los siguientes objetos para realizar 1 invocación en El Primer Sonido Del Futuro?
 Do you want to use the following to perform The First Sound from the Future 10 times?=¿Quieres usar los siguientes objetos para realizar 10 invocación en El Primer Sonido Del Futuro?
+Do you want to use the following to perform Blossoms in the Sea Breeze 1 times?=¿Quieres usar lo siguiente para realizar Flores en la Brisa Marina 1 vez?
+Do you want to use the following to perform Blossoms in the Sea Breeze 10 times?=¿Quieres usar lo siguiente para realizar Flores en la Brisa Marina 10 vez?
 Beast Guardian Statue=Estatua del Guardián Bestial
 P5X 1st AnNversary Gift=Regalo del 1er aNversario de P5X
 Anni 5★ Thief Select Ticket=Boleto de selección de Ladrón de 5★ de aNversario
@@ -2896,16 +3002,66 @@ How to Get: Purchase the Miku Theme Set.=Cómo conseguirlo: Compra el Conjunto T
 How to Get: Awarded from the limited-time event Let the Sound Resound.=Cómo conseguirlo: Otorgado en el evento por tiempo limitado Que el Sonido Resuene.
 As thanks for purchasing the Milicoin Set, please accept this special gift from Marthym's Shop. You can find it attached below.=Como agradecimiento por comprar el conjunto de Milimonedas, acepta este regalo especial de la Tienda de Marthym. Lo encuentras adjunto abajo.
 How to Get: Purchase the Anni Theme Set.=Cómo conseguirlo: Compra el Conjunto Temático del Aniversario.
-Sorrow Revelation - Orange=Revelación del Dolor - Naranja
+Sorrow Revelation - Orange=Revelación del Pena - Naranja
 The gift list is empty.=La lista de regalos está vacía.
+Miracle Concert Ending Soon=El Concierto Milagroso Termina Pronto
+Milicoin Set II=Conjunto de Milimonedas II
+Unlocked after obtaining Universal Theoria=Se desbloquea tras obtener Teoria Universal
+Sandalphon's Seal=Sello de Sandalphon
+Highlight: Fire Dmg Increase=Highlight: Aumento de Daño de Fuego
+[Flash in the Night]=[Destello en la Noche]
+r:"^Expires in (\d+) h (\d+) m\.$"="Expira en $1 h $2 m."
+r:"^Characters: (\d+)/(\d+)$"="Personajes: $1/$2"
+Venus: Rainbow=Venus: Arcoíris
+Trade at Exchange Shop=Canjear en la Tienda de Intercambio
+Premium Pass Rewards=Recompensas del Pase Premium
+Prophetic Ink=Tinta Profética
+Elysian Ink=Tinta Elísea
+Used to set sub-attributes for a Revelation Card.=Usado para configurar sub-atributos de una Carta de Revelación.
+Used to create sub-attributes for a Revelation Card.=Usado para crear sub-atributos de una Carta de Revelación.
+Affixes a main attribute to a Moon, Star, or Sky Revelation Card.=Añade un atributo principal a una Carta de Revelación de Luna, Estrella o Cielo.
+An exclusive 5★ weapon for <color\=#FF423F>Beachflower Minami</color> is now available! Select which weapons are in your 5★ weapon lineup. Press [Info] for more details.=Un arma 5★ exclusiva para <color\=#FF423F>Minami Flor Costera</color> ¡Ya está disponible! Selecciona qué armas formarán parte de tu alineación de armas 5★. Presiona [Info] para más detalles.
+5★ Phantom Idol Beachflower Minami is in the Most Wanted lineup! Press [Info] for more details.=¡La Ídolo Fantasma de 5★, Minami Flor Costera, ya está disponible en la lista de Más Buscados! Selecciona [Info] para conocer los detalles.
+r:"^(\d+)★ Phantom Idol (.+?) is in the Most Wanted lineup! Press \[Info\] for more details\.$"="¡El Ídolo Fantasma de $1★ $2 ya está en la lista de Más Buscados! Selecciona [Info] para ver más detalles."
+Marian's Special Missions=Misiones Especiales de Marian
+During Limited-Time Stages, bringing along a designated Phantom Thief will grant bonus rewards. Bring along more designated Phantom Thieves to earn even more bonus rewards. Bonus clear rewards will be converted into lower-rarity items based on item conversion.=Durante las etapas por tiempo limitado, llevar contigo a un Ladrón Fantasma designado otorgará recompensas de bonificación. Lleva más Ladrones Fantasmas designados para obtener aún más recompensas de bonificación. Las recompensas de bonificación por despejar se convertirán en objetos de menor rareza según la conversión de objetos.
+Harness Beachflower Minami's strengths to take down Shadows, complete challenges, and earn special rewards.=Aprovecha las fortalezas de Minami Flor Costera para derrotar Sombras, completar retos y ganar recompensas especiales.
+• Purchase the Anni Theme Set.=•Comprar el Conjunto de Temático de Aniversario.
+<color\=#FFFF00>Increases Manaka's Attack by 1% (takes effect in battle).</color>=<color\=#FFFF00>Aumenta el Ataque de Manaka en un 1% (entra en vigor en batalla).</color>
+This item cannot be purchased online.\n Would you like to go to <color\=#FFC000>Pharmacy</color> in <color\=#FFC000>Zoshigaya</color> and purchase it offline?\n(Unlocks at Synergy Rank <color\=#ff3b37>5</color> with <color\=#ff3b37>Mio Natsukawa</color>)=Este artículo no está disponible para compra en línea.\n¿Quieres ir a la <color\=#FFC000>Farmacia</color> en <color\=#FFC000>Zoshigaya</color> para adquirirlo de forma presencial?\n(Se desbloquea al alcanzar el rango de sinergia <color\=#ff3b37>5</color> con <color\=#ff3b37>Mio Natsukawa</color>)
+Total Meta Jewels Earned=Total de Meta Gemas del Metaverso Obtenidas
+Will be used in order of Platinum Ticket、Meta Jewels、Cognition Crystals=Se usarán en orden: Ticket de Platino, Meta, Cristales de Cognición
+You're Not Alone=No Estás Solo
+M<color\=#ff0000ff>e</color>dium Crane Game=M<color\=#ff0000ff>á</color>quina de Gancho Mediana
+S<color\=#ff0000ff>m</color>all Crane Game=M<color\=#ff0000ff>á</color>quina de Gancho Pequeña
+Now featuring a chance to win the super-rare mini Narcissus plushie!=¡Ahora hay oportunidad de ganar el peluche mini Narcissus súper raro!
+
+
+Ghost Rule (Lyrics: DECO*27, Music: DECO*27)=Ghost Rule (Letra: DECO*27, Música: DECO*27)
+Ghost Rule (Lyrics: DECO*27, Music: DECO*27)<alpha\=#00>____<alpha\=#FF>Ghost Rule (Lyrics: DECO*27, Music: DECO*27)<alpha\=#00>____<alpha\=#FF>=Ghost Rule (Letra: DECO*27, Música: DECO*27)<alpha\=#00>____<alpha\=#FF>Ghost Rule (Letra: DECO*27, Música: DECO*27)<alpha\=#00>____<alpha\=#FF>
+Spring Storm (Lyrics: john, Music: john)=Spring Storm (Letra: john, Música: john)
+Sanity Krush (Lyrics: STEAKA, Music: STEAKA)=Sanity Krush (Letra: STEAKA, Música: STEAKA)
+Heaven feat. Hatsune Miku (ATOLS Remix) (Lyrics: Reiko Tanaka, Music: Shoji Meguro)=Heaven feat. Hatsune Miku (ATOLS Remix) (Letra: Reiko Tanaka, Música: Shoji Meguro)
+Marionette Dancer (Lyrics: Hiragi, Music: Hiragi)=Marionette Dancer (Letra: Hiragi, Música: Hiragi)
+Play-With-Fire (Lyrics: Camellia, Music: Camellia)=Play-With-Fire (Letra: Camellia, Música: Camellia)
+Broken Arrow -another version-=Broken Arrow -otra versión-
+Freedom and Peace=Libertad y Paz
+Phantom=Fantasma
+Action -intro-=Acción -introducción-
+
+Unlocks at Minami Miyashita rank 1=Se desbloquea en el rango 1 de Minami Miyashita.
+Can be gifted to accomplices to raise Synergy. Made with daisies and simple packaging at the workbench.=Se puede regalar a los cómplices para aumentar la Sinergia. Se hace con margaritas y un empacado sencillo en el mesa de trabajo.
+r:"^Restores 1 ally's HP by (\d+)\.\nRestores ([\d.]+)% of max HP to party\. \(When used\.\)$"="Restaura $1 puntos de PS a un aliado. Restaura el $2% de la PS máxima del equipo. (Al usarse)."
+Do you want to track the mission Sales Girl Sorrows?=¿Quieres rastrear la misión Las Penas de una Dependienta?
+
 Entry to the Expert Pond costs <color\=#FF423F>700</color> yen. Do you want to buy a ticket?=Entrar al Estanque de Expertos cuesta <color\=#FF423F>700</color> yen. ¿Quieres comprar un billete?
 
 r:"^A Birthday Gift for (.+?)$"="Un regalo de cumpleaños para $1"
 Thank you for playing Persona5: The Phantom X.\n\nJun 12 is Haruna Nishimori’s birthday!\nTo celebrate, we’re sending you the Recommended Set: Poder Revelation - Orange.\n\nWe hope you continue to enjoy Persona5: The Phantom X.=Gracias por jugar a Persona5: The Phantom X.\n\n¡El 12 de junio es el cumpleaños de Haruna Nishimori!\nPara celebrarlo, te enviamos el Conjunto Recomendado: Revelación de Poder - Naranja.\n\nEsperamos que sigas disfrutando de Persona5: The Phantom X.
-Thank you for playing Persona5: The Phantom X.\n\nJun 21 is Yumi Shiina’s birthday!\nTo celebrate, we’re sending you the Recommended Set: Labor Revelation - Orange.\n\nWe hope you continue to enjoy Persona5: The Phantom X.=Gracias por jugar Persona5: The Phantom X.\n\n¡El 21 de junio es el cumpleaños de Yumi Shiina!\nPara celebrarlo, te enviamos el Conjunto Recomendado: Revelación Trabajo - Naranja.\n\nEsperamos que sigas disfrutando de Persona5: The Phantom X.
+Thank you for playing Persona5: The Phantom X.\n\nJun 21 is Yumi Shiina’s birthday!\nTo celebrate, we’re sending you the Recommended Set: Labor Revelation - Orange.\n\nWe hope you continue to enjoy Persona5: The Phantom X.=Gracias por jugar Persona5: The Phantom X.\n\n¡El 21 de junio es el cumpleaños de Yumi Shiina!\nPara celebrarlo, te enviamos el Conjunto Recomendado: Revelación de Trabajo - Naranja.\n\nEsperamos que sigas disfrutando de Persona5: The Phantom X.
 As thanks for your long-term support, we have sent you additional rewards.=Como agradecimiento por tu apoyo incondicional, te enviamos recompensas adicionales.
-
-
+Thank you for playing Persona5: The Phantom X.\n\nJuly 11 is Shun Kano's birthday!\nTo celebrate, we’re sending you a set of Control Revelation - Orange cards from his Recommended Set.\n\nWe hope you continue to enjoy Persona5: The Phantom X.=Gracias por jugar Persona5: The Phantom X.\n\n¡El 11 de julio es el cumpleaños de Shun Kano!\nPara celebrarlo, te enviamos el Conjunto Recomendado: Revelación de Control - Naranja.\n\nEsperamos que sigas disfrutando de Persona5: The Phantom X.
+Thank you for playing Persona5: The Phantom X.\n\nJuly 17 is Masaki Ashiya's birthday!\nTo celebrate, we're sending you a set of Peace Revelation - Orange cards from his Recommended Set.\n\nWe hope you continue to enjoy Persona5: The Phantom X.=Gracias por jugar Persona 5: The Phantom X.\n\n¡El 17 de julio es el cumpleaños de Masaki Ashiya!\nPara celebrarlo, tte enviamos el Conjunto Recomendado: Revelación de Paz - Naranja\n\nEsperamos que sigas disfrutando de Persona5: The Phantom X.
 
 Pieza de Orden del Mod del Artesano=Pieza de Orden del Mod del Artesano
 r:"^Spend: <color\=#FFDE00>Artisan's Mod Order Piece x(\d+)</color>\nCraft: <color\=#FFDE00>Artisan's Mod Order x(\d+)</color>\nDo you want to confirm\?$"="Gastar: <color\=#FFDE00>Pieza de Orden de Mod del Artesano x$1</color>.\nFabricar: <color\=#FFDE00>Orden de Mod del Artesano x$2</color>.\n¿Quieres confirmarlo?"
@@ -2938,7 +3094,24 @@ For <color\=#FFFC40>Silent Pistol</color> contracts, you use Platinum Milicoins 
 Firecracker Yaoling Returns=Firecracker Yaoling Regresa
 Matoi Returns=Matoi Regresa
 
-+--Primer aNversario--+
+Summer Riko=Riko Veraniega
+Summer Riko Set=Conjunto de Riko Veraniega
+Summer Riko Avatar=Avatar de Riko Veraniega
+Summer Parasol=Sombrilla Veraniega
+Banana Boat=Bote Banana
+New Plushies=Peluches Nuevos
+
+<color\=#0F69CA><size\=36>Most Wanted Phantom Idol Contract: Blossoms in the Sea Breeze</size></color>\n\nThis is your chance to get the exclusive 5★ Phantom Thief Beachflower Minami!\nYou can also get her exclusive 5★ weapon Everlasting Garden in Silent Pistol Arms Deals!\n\nBeachflower Minami is a 5★ Bless Strategist.\n\nShe specializes in buffing the offensive potential of individual allies, boosting their Attack, critical rate, and critical damage.\n\nAlso, under certain conditions, she's capable of using medicine to buff allies even further without spending a turn.\n\nWhen equipped with her 5★ weapon, the effects of her medicine grow even stronger, granting additional critical damage and Attack buffs.\n\nLeverage Beachflower Minami's first-aid expertise to buff the frontline Assassin or Sweeper in your party, and raise their Attack to new heights.=<color\=#0F69CA><size\=36>Contrato de Ídolo Fantasma Más Buscado: Flores en la Brisa Marina</size></color>\n\n¡Esta es tu oportunidad de conseguir a la exclusiva 5 estrellas Ladrón Fantasma Minami Flores Playeras!\n¡También puedes conseguir su arma exclusiva de 5★ Jardín eterno en Oferta de armas: Pistola silenciosa!\n\nMinami Flores Playeras es una Estratega de elemento Bendición de 5★.\n\nSe especializa en potenciar el potencial ofensivo de aliados individuales, aumentando su Ataque, probabilidad de crítico y daño crítico.\n\nAdemás, bajo ciertas condiciones, es capaz de usar medicina para potenciar (buff) aún más a los aliados sin gastar un turno.\n\nAl equipar su arma de 5★, los efectos de su medicina se vuelven aún más fuertes, otorgando mejoras (buffs) adicionales de daño crítico y de Ataque.\n\nAprovecha la experiencia en primeros auxilios de Minami Flores Playeras para potenciar al Asesino o Barrendero de vanguardia en tu grupo, y eleva su Ataque a niveles altos.
+
+<color\=#0F69CA><size\=36>Haunted Beach Shack: The Curse of Shirosato Beach</size></color>\n\nEveryone's in swimsuits for this thrilling beachside event! Featuring a spinetingling mystery and an exclusive minigame centered on Minami and friends as they try to save her family's beachfront business!\nPlay through the minigame to receive Rare Conch Shells, Meta Jewels, and more!\nCollect Rare Conch Shells to exchange for a Shun-exclusive outfit, Vicissitude Ink, and other marvelous rewards!\nClear event missions to receive Meta Jewels, Rare Conch Shells, and more!=<color\=#0F69CA><size\=36>La Cabaña Playera Embrujada: La Maldición de la Playa de Shirosato</size></color>\n\n¡Todos se ponen sus trajes de baño para este emocionante evento costero! ¡Disfruta de un misterio electrizante y un minijuego exclusivo centrado en Minami y sus amigos mientras intentan salvar el negocio familiar en la costa!\n¡Participa en el minijuego para obtener caracoles marinos raros, meta gemas y mucho más!\n¡Reúne caracoles marinos raros para canjearlos por un atuendo exclusivo de Shun, tinta de vicisitud y otras recompensas maravillosas!\n¡Completa las misiones del evento para recibir meta gemas, caracoles marinos raros y más premios!
+
+<color\=#0F69CA><size\=36>New Outfit for 5★ Tempest Riko</size></color>\n\nA new outfit set can be purchased in the Shop! It's also currently discounted for a limited time!\n*For more details on the discount period, head to Shop > Goods > Other.\n\nAfter the discount period ends, it will be available in the Shop at its regular price.=<color\=#0F69CA><size\=36>Nuevo atuendo para Riko (Tormenta) 5★</size></color>\n\n¡Ya puedes comprar un nuevo conjunto de atuendo en la tienda! ¡Además, cuenta con un descuento especial por tiempo limitado!\n*Para conocer los detalles sobre el periodo de oferta, ve a Tienda > Artículos > Otros.\n\nUna vez que termine el periodo de descuento, estará disponible en la tienda a su precio regular.
+
+<color\=#0F69CA><size\=36>Thieves' Secrets: Marian's Special Missions</size></color>\n\nTake down the enemy party to earn rewards in this event.\nThe first time you clear a stage, you can earn Meta Jewels, Joy Medals, and other rewards.\nAlso, take on the limited-time stages to earn the special event item Secret Tickets, which can be exchanged for Stardust Bells, Fortune Revelations, and other training materials.\nCheck in-game for more information on limited-time stage rewards.=<color\=#0F69CA><size\=36>Secretos de Ladrones: Misiones especiales de Marian</size></color>\n\nDerrota al grupo enemigo para obtener grandes recompensas en este evento.\nLa primera vez que completes una fase, podrás conseguir Meta Gemas, Medallas de Alegría y otros premios.\nAdemás, participa en las fases por tiempo limitado para conseguir el objeto especial del evento, los Boletos Secretos, que podrás canjear por Campanas de Polvo Estelar, Revelaciones de Fortuna y otros materiales de mejora.\nConsulta los detalles dentro del juego para conocer más sobre las recompensas de las fases de tiempo limitado.
+
+<color\=#0F69CA><size\=36>New Limited-Time Plushies in Crane Games!</size></color>\n\nSee if you can score Lamia and Mini Narcissus!\n*For more details on the availability of limited-time plushies, go to Akihabara>Arcade>Crane Game.=<color\=#0F69CA><size\=36>¡Nuevos peluches por tiempo limitado en los Maquinas de Gancho!</size></color>\n\n¡Ven a probar tu suerte para conseguir a Lamia y Mini Narcissus!\n*Para conocer los detalles sobre la disponibilidad de los peluches por tiempo limitado, ve a Akihabara > Arcade > Máquina de Gancho.
+
++--Primer aniversario--+
 
 r:"^To members of the Phantom Thieves:\nSince the service launched, you've logged in for a total of <color\=#0F69CA>(\d+)</color> days\. To show our appreciation for your continued support, we will send out special anNversary rewards based on the number of days you have logged in as of June 26, 2026\. We hope you continue to enjoy exploring the Metaverse\.$"="A los miembros de los Ladrones Fantasma:\nDesde el lanzamiento del servicio, has iniciado sesión un total de <color\=#0F69CA>$1</color> días. Para mostrar nuestro agradecimiento por tu apoyo continuo, enviaremos recompensas especiales de aNversario basadas en el número de días que hayas iniciado sesión a partir del 26 de junio de 2026. Esperamos que sigas disfrutando de la exploración del Metaverso."
 
@@ -3026,3 +3199,18 @@ You caught a Best Prawn! \n= ¡Has Capturado un Camarones Supremo! \n
 You caught a Great Prawn! \n=¡Has Capturado un Gran Camarones! \n
 You caught a Good Prawn! \n=¡Has Capturado un Buen Camarones! \n
 You caught a Basic Prawn! \n=¡Has Capturado un Camarones Básico! \n
+
++--Comida--+
+Miso Ramen=Miso Ramen
+Curry with Rice=Curry con Arroz
+Croquette=Croqueta
+Matcha Ice Cream=Helado de Matcha
+Sukiyaki=Sukiyaki
+Salmon Sashimi=Sashimi de Salmón
+Caramel Flan=Flan de Caramelo
+Eel Rice Bowl=Tazón de Arroz con Anguila
+Tricolored Dango=Dango Tricolor
+A dish featuring juicy pork covered with crispy batter. Pour some sauce over it and add as much rice as you want for the perfect bite.=Un plato con cerdo jugoso cubierto de una capa crujiente. Vierte salsa por encima y añade todo el arroz que quieras para el bocado perfecto.
+r:"^Restores (\d+)% of max HP to party\. \(When used\.\)$"="Restaura el $1% de la vida máxima del grupo. (Al usar.)"
+r:"^For (\d+) battles, restores party's HP by ([\d.]+)% at the start of each turn\. \(When used\.\)$"="Durante $1 combates, restaura el $2% de los PS del grupo al comienzo de cada turno. (Al usar.)"
+r:"^For (\d+) battles, fills the Highlight gauge by (\d+)% at the start of each battle\.\\n\*Amount increased may vary based on how many battles have occurred\. \(When used\.\)$"="Durante $1 combates, llena el indicador de Highlight en un $2% al comienzo de cada combate.\n*La cantidad aumentada puede variar según cuántos combates hayan transcurrido. (Al usar.)"

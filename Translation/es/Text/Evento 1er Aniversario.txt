@@ -366,7 +366,9 @@ Hoohoo! I didn't expect to see such a brilliant performance!=¡No esperaba ver u
 Scratch-Off Packs=Paquetes de Rasca y Gana
 Available for a limited time!=¡Por tiempo limitado!
 r:"^1st Anniversary Countdown:  (\d+) d (\d+) h$"="Cuenta regresiva para el 1.º aniversario:  $1 d $2 h"
-
+Take the Cake=Toma el Pastel
+Receive the anniversary cake with the current customizations?=¿Recibir el pastel de aniversario con las personalizaciones actuales?
+The 1st Anniversary Cake will be created using the current design.\nAfter creating your cake, it can be placed in the Thieves Den.\nPlease note, you can only create one cake during the event.=El pastel del primer aniversario se creará con el diseño actual. Después de hacer tu pastel, lo puedes poner en la Guarida de los Ladrones. Ojo, solo puedes hacer un pastel durante el evento.
 
 +--Tutoriales--+
 
@@ -530,6 +532,8 @@ Radiant Future=Futuro Radiante
 Colored Star Garland=Guirnalda de Estrellas de Color
 Wonder & Ren=Wonder y Ren
 No Topper=No Topper
+Strawberry Macaron=Macaron de Fresa
+
 
 +--Rasca y Gana--+
 Immediately earn a scratch<sprite\=15 tint\=1>off!=¡Consigue un rasca y gana<sprite\=15 tint\=1> al instante!
@@ -642,4 +646,5 @@ r:"^Increase Theurgy final dmg amplification by (\d+)%\.$"="Aumenta la amplifica
 Ame-no-Uzume and summoned Ame-no-Uzume have increased max HP.=Ame-no-Uzume y las invocaciones de Ame-no-Uzume tienen un máximo de PS aumentado.
 When Ame-no-Uzume is Frenzied, damage taken from Phantom Thieves without Kagura Dancer is reflected.=Cuando Ame-no-Uzume tiene el estado Frenesí, se refleja el daño recibido por los Ladrones Fantasma que no posean el efecto Bailarina Kagura.
 When summoned Ame-no-Uzume is present, final damage taken is decreased.=Cuando se invoca Ame-no-Uzume, el daño final recibido se reduce.
-When Ame-no-Uzume is Frenzied and takes damage from Phantom Thieves without Kagura Dancer, its final damage is increased. Stacks up to 5 times.=Cuando Ame-no-Uzume tiene el estado Frenesí y recibe daño de Ladrones Fantasma que no posean el efecto Bailarina kagura, el daño final que recibe aumenta. Se acumula hasta 5 veces.
+When Ame-no-Uzume is Frenzied and takes damage from Phantom Thieves without Kagura Dancer, its final damage is increased. Stacks up to 5 times.=Cuando Ame-no-Uzume tiene el estado Frenesí y recibe daño de Ladrones Fantasma que no posean el efecto Bailarina Kagura, el daño final que recibe aumenta. Se acumula hasta 5 veces.
+At the start of turn 4 when Ame-no-Uzume is Frenzied, Kagura Dancer is removed from all Phantom Thieves.=Al inicio del turno 4, si Ame-no-Uzume está bajo estado Frenesí, se elimina Bailarina Kagura de todos los ladrones Fantasma. 

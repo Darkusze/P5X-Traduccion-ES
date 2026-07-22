@@ -353,8 +353,8 @@ Manage Visitors=Gestionar
 Training Sets=Sets de entrenamiento
 
 ++---Nombre Protagonista por Defecto----+
+Nagisa Kamisiro=Nagisa Kamisiro
 Nagisa=Nagisa
 Kamisiro=Kamisiro
-Nagisa Kamisiro=Nagisa Kamisiro
 
 ++---Nombre Protagonista Personalizado---+

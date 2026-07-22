@@ -2623,12 +2623,6 @@ The Phantom Thieves continue deeper into the Palace, as they consider what to do
 What sort of enemy awaits ahead...?=¿Qué clase de enemigo los estará esperando más adelante?
 
 
-
-
-
-
-
-
 +--En Palacio--+
 Fountain in the Square=Fuente de la Plaza
 Shimotsuna's Palace=Palacio de Shimotsuna
@@ -2654,7 +2648,8 @@ Absorb Orange Pheromones=Absorber Feromonas Naranjas
 Find a way to remove the thorns=Encuentra una forma de eliminar las espinas
 Remove the thorns=Elimina las espinas
 Become an ant and enter the tunnel=Transformarse en hormiga y entrar al túnel
-
+Slums=Barrios marginales
+Anthill Underground=Nido subterráneo
 
 
 

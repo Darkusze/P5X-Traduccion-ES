@@ -401,3 +401,10 @@ r:"^Increase Attack by <color\=#2899FF>([\d.]+)%<color\=#FFD145>→([\d.]+)%</co
 
 r:"^Increase Attack by <color\=#2899FF>([\d.]+)%</color>\.\nWhen gaining a <link\="s\|301"><u>Track</u></link>, increase Miku's Attack by <color\=#2899FF>([\d.]+)%<color\=#FFD145>→([\d.]+)%</color></color>\.$"="Aumenta el Ataque en un <color\=#2899FF>$1%</color>.\nAl obtener una <link\="s|301"><u>Pista</u></link>, aumenta el Ataque de Miku en un <color\=#2899FF>$2%<color\=#FFD145>→$3%</color></color>."
 
++--Minami Flor Costera--+
+
+r:"^When using medicine, increase Beachflower Minami's max HP by <color\=#2899FF>([\d.]+)%</color> for (\d+) turns\.$"="Al usar medicina, aumenta los PS máximos de Minami Flor Costera en un <color\=#2899FF>$1%</color> durante $2 turnos."
+
+r:"^Increase max HP by <color\=#2899FF>([\d.]+)%</color>\. When using a skill on an ally, increase Beachflower Minami's critical multiplier by <color\=#2899FF>([\d.]+)%</color>\.$"="Aumenta los PS máximos en un <color\=#2899FF>$1%</color>. Al usar una habilidad en un aliado, aumenta el multiplicador crítico de Minami Flor Costera en un <color\=#2899FF>$2%</color>."
+
+r:"^Increase medicine effects by <color\=#2899FF>([\d.]+)%</color>\. Also, when using medicine on an ally, also increase the main target's critical damage by <color\=#2899FF>([\d.]+)%</color> for (\d+) turns\.\nWhen using a skill on an ally, increase the main target's Attack by <color\=#2899FF>([\d.]+)%</color> for (\d+) turns\.$"="Aumenta los efectos de la medicina en un <color\=#2899FF>$1%</color>. Además, al usar medicina en un aliado, también aumenta el daño crítico del objetivo principal en un <color\=#2899FF>$2%</color> durante $3 turnos.\nAl usar una habilidad en un aliado, aumenta el Ataque del objetivo principal en un <color\=#2899FF>$4%</color> durante $5 turnos."

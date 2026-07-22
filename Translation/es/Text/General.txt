@@ -15,7 +15,7 @@ Training Hall=Sala de entrenamiento
 Get=Conseguir
 Palace Progress at =Progreso del palacio en
 Rewards: =<size\=21>Recompensas: </size>
-Sennight Inferno=Infierno de una Semana
+Sennight Inferno=Infierno de Siete Noche
 Southern Rooftop=Azotea del Sur
 {{A}} Palace=Palacio {{A}}
 T=T
@@ -1727,7 +1727,7 @@ Pursuit of Honor Challenge=Desafío de Búsqueda del Honor
 Grants 1,000 EXP to an ally.=Otorga 1,000 EXP a un aliado.
 Pursuit of Parts Challenge=Desafío de Búsqueda de Piezas
 Grants 500 EXP to a weapon.=Otorga 500 EXP a un arma.
-Wingbeat Coin=Moneda de aleteo
+Wingbeat Coin=Moneda de Aleteo
 Pursuit of {{A}} Challenge=Desafío de Búsqueda de {{A}}
 Grants 500 EXP to one {{A}}.=Otorga 500 EXP a un {{A}}.
 Realm of Repression: Revelations=Reino de la Represión: Revelaciones
@@ -2960,9 +2960,9 @@ Excellent climbing!=¡Excelente escalada!
 Club 2F=Club 2F
 You can now quick travel to the\n<color\=#FF423F>Club 2F: VIP Area East Side</color>.=Ahora puedes viajar rápidamente a la\n<color\=#FF423F>Club 2F: Área VIP - Lado Este</color>.
 Phew, we can finally take a breather...=Uf, por fin podemos tomar un respiro...
-Only Sennight Inferno Shard can be used as materials.=Solo se puede usar Fragmento de Infierno de una Semana como material.
-Sennight Inferno Shard=Fragmento de Sennight Inferno
-Do you want to use Sennight Inferno Shard and forge?=¿Quieres usar Fragmento de Infierno de una Semana y forjar?
+Only Sennight Inferno Shard can be used as materials.=Solo se puede usar Fragmento de Infierno de Siete Noche como material.
+Sennight Inferno Shard=Fragmento de Infierno de Siete Noche
+Do you want to use Sennight Inferno Shard and forge?=¿Quieres usar Fragmento de Infierno de Siete Noche y forjar?
 Line Drive to Pitcher=Línea directa al lanzador
 Thumb Light=Luz de Pulgar
 There's a symbol on the plate by the door.\nIt's a... raised thumb gesture?=Hay un símbolo en la placa junto a la puerta.\n¿Es un gesto de pulgar levantado?
@@ -3320,7 +3320,7 @@ Awaken the first Phantom Thief(1/1)=Despierta al primer Ladrón Fantasma (1/1)
 Cleared=Completado
 Friends: =Amigos:
 Lust Chip=Chip de lujuria
-A special crystal used to forge Sennight Inferno.=Cristal especial utilizado para forjar Sennight Inferno.
+A special crystal used to forge Sennight Inferno.=Cristal especial utilizado para forjar Infierno de Siete Noche.
 Club Back Room=Sala trasera del club
 If there are Shadows here, that means they're\nguarding something valuable, right?=Si hay Sombras aquí, eso significa que están protegiendo algo valioso, ¿verdad?
 {{A}}, to battle!=¡{{A}}, a la batalla!
@@ -6521,16 +6521,10 @@ Let's go buy\nsome flowers.=Vamos a comprar flores.
 Let's just eat\nsomething.=Vamos a comer algo.
 I wonder if they'll\ncatch the Subway\nSlammer soon.=Me pregunto si pronto atraparán al Embestidor de las Vías.
 N<color\=#ff0000ff>e</color>wspaper Stand Regular=P<color\=#ff0000ff>u</color>esto de periódicos habitual
-{{A}}.11={{A}}.11
-{{A}}17 d 0 h 28 min={{A}}17 D 0 H 28 min
 Randomly grants one orange-rarity Sun, Moon, Star or Sky Revelation Card.=Otorga al azar una tarjeta de revelación de sol, luna, estrella, estrella o cielo.
 The Guided One=El guiado
 Love: Sun=Amor: Sol
-{{A}}3 d 0 h 27 min={{A}}3 d 0 h 27 min
 Do you want to use the following to perform Silent Pistol 1 times?=¿Quieres usar lo siguiente para realizar una pistola silenciosa 1 veces?
-Flower Basket=Canasta de flores
-{{A}}17 d 0 h 25 min={{A}}17 D 0 H 25 min
-{{A}}3 d 0 h 25 min={{A}}3 d 0 h 25 min
 ...Is this your first visit?=...¿Es esta tu primera visita?
 ...But you're healthy, aren't you? I can tell\nby your complexion.=...Pero estás sano, ¿no?\nPuedo decirlo por tu complexión.
 We don't take patients without reason. Please\ncome back only if you're feeling unwell.=No recibimos pacientes sin motivo.\nVuelve solo si te sientes mal.
@@ -8406,10 +8400,8 @@ You haven't saved this team formation. Do you want to save it?=No has guardado e
 Baisudi=Baisudi
 Resistance Boost II=Aumento de Resistencia II
 Goddess of Fate=Diosa del Destino
-Makajamaon {{A}}.3=Makajamaon {{A}}.3
 Forget Boost II=Aumento de Olvido II
 Ambient Aid II=Ayuda Ambiental II
-Baisudi {{A}}.3=Baisudi {{A}}.3
 Increase <link\="s|108"><u>Forget</u></link> accuracy by 12.5%.=Aumenta la precisión de <link\="s|108"><u>Olvido</u></link> en un 12.5%.
 <color\=#fffc40>27.7%</color> chance to inflict <link\="s|108"><u>Forget</u></link> on all foes for 2 turns.=Probabilidad del <color\=#fffc40>27.7%</color> de aplicar <link\="s|108"><u>Olvido</u></link> a todos los enemigos durante 2 turnos.
 Makajamaon=Makajamaon
@@ -9209,7 +9201,7 @@ Unlocks at level     =Desbloqueos en el nivel
 Chain Reaction=Reacción en cadena
 A Welsh creature commonly known as "Bugbear" or the "Boogeyman." Its existence is often used by mothers to scare children into behaving.=Una criatura galesa comúnmente conocida como "Bugbear" o el "Boogeyman".\nSu existencia a menudo es utilizada por las madres para asustar a los niños para que se comporten.
 Cut the Threads of Fate=Cortar los hilos del destino
-Concentrate=Concentrarse
+Concentrate=Concentración
 Elec Boost II=Aumento Eléctrico II
 Trigger Happy II=Disparo frenético II
 Blazing Hellfire=Llamas infernales ardientes
@@ -9743,7 +9735,6 @@ Intermediate Fusion=Fusión Intermedia
 Ironclad Resolve III=Determinación férrea III
 Regenerate III=Regenerar III
 Revolution=Revolución
-Heavenly King's Eyes=Ojos del Rey Celestial
 Fire Boost I=Aumento de Fuego I
 Fire Boost III=Aumento de Fuego III
 Fire Boost IV=Aumento de Fuego IV
@@ -10589,7 +10580,7 @@ New Bonds=Nuevos vínculos
 Monthly Limit: =Límite mensual: 
 Purchase Limit: =Límite de compra: 
 Do you want to make this purchase?=¿Quieres hacer esta compra?
-You do not have enough Wingbeat Coin to purchase this product.=No tienes suficientes Monedas de Ala para comprar este producto.
+You do not have enough Wingbeat Coin to purchase this product.=No tienes suficientes Moneda de Aleteo para comprar este producto.
 Do you want to use the following to perform Fist of the Phantom Star 10 times?=¿Quieres usar lo siguiente para realizar Puño de la Estrella Fantasma 10 veces?
 Platinum Ticket will be spent.=Se gastará un Boleto Platino.
 {{A}} will be spent.={{A}} se gastará.
@@ -14190,7 +14181,6 @@ Sharp Student I=Estudiante brillante I
 Increase ailment accuracy 21.2%. At the start of battle, increase Atk of ally with highest Atk 10% and crit rate 4% (3 turns).=Aumenta la precisión de las dolencias un 21,2%. Al inicio de la batalla, aumenta el ATQ del aliado con mayor ATQ un 10% y la probabilidad de críticos un 4% (3 turnos).
 Increase party's critical rate by <color\=#fffc40>5.5%</color>. For every 10% of the user's critical rate, increase party's critical rate by <color\=#fffc40>0.9%</color> more, up to <color\=#fffc40>3.7%</color>. Lasts for 3 turns.=Aumenta la probabilidad de críticos del grupo en <color\=#fffc40>5.5%</color>. Por cada 10% del probabilidad de críticos del usuario, aumenta el probabilidad de críticos del grupo en <color\=#fffc40>0.9%</color> adicional, hasta un máximo de <color\=#fffc40>3.7%</color>.\nDura 3 turnos.
 Auto-Mataru III Regenerate III Ironclad Resolve III Sharp Student III=Auto-Mataru III Regenerate III Ironclad Resolve III Estudiante brillante III
-Heavenly King's Eyes I=Ojos del Rey Celestial I
 Gun Reduction III=Reducción de Arma a Distancia III
 Physical Reduction III=Reducción física III
 Fortified Moxy III=Moxy Fortificado III
@@ -14648,8 +14638,6 @@ Fae Revelry I=Fae Revelry I
 Increase next magic damage by <color\=#fffc40>39.1%</color>. Lasts for 1 turn.=Aumenta el siguiente daño mágico en <color\=#fffc40>39.1%</color>. Dura 1 turno.
 Increase SP recovery rate by 5.7%.=Aumento de la tasa de recuperación de PE en un 5,7%.
 Increase Nuclear damage by 8.7%.=Aumenta el daño Nuclear en un 8,7%.
-Nocturnal Flash {{A}}.3=Destello nocturno {{A}}.3
-Concentrate {{A}}.3=Concentrado {{A}}.3
 Heat Up III=Calentamiento III
 Restores 6.0% of max HP and 8 SP when ambushing.=Restaura un 6,0% de los PS máximos y 8 PE al emboscar.
 You can select one of the 5★ Phantom Thieves below.=Puedes seleccionar uno de los 5★ Phantom Thieves a continuación.
@@ -15786,7 +15774,7 @@ Wind Boost I=Aumento de Viento I
 Seize the Day {{A}}.3=Aprovecha el día {{A}}.3
 At the start of battle, increase party's Attack by 4.2% for 2 turns or until user changes Personas.=Al inicio de la batalla, aumenta el Ataque del grupo en un 4,2% durante 2 turnos o hasta que el usuario cambie de Personaje.
 Deal Bless damage to all foes equal to <color\=#FFFC40>57.5%</color> of Attack. Restore HP of the ally with the lowest remaining HP, equal to <color\=#FFFC40>11.5%</color> of Attack + <color\=#FFFC40>162</color>.\n<b><size\=28><color\=#024068>The shepherd's axe blades trace an X through the air, dealing damage to enemies caught off guard. From the crosspoint, a beam of light offers healing to allies.</color></size></b>=Inflige daño de bendición a todos los enemigos igual al <color\=#FFFC40>57.5%</color> de Ataque. Restaura los PS del aliado con menos PS restantes, igual a <color\=#FFFC40>11.5%</color> del ATQ + <color\=#FFFC40>162</color>.\n<b><size\=28><color\=#024068>Las hojas del hacha del pastor trazan una X en el aire, infligiendo daño a los enemigos pillados desprevenidos. Desde el punto de cruce, un rayo de luz ofrece curación a los aliados.</color></size></b>
-Demonic Decree=Decreto demoníaco
+Demonic Decree=Decreto Demoníaco
 HP Boost IV=Aumento PS IV
 Defense Master IV=Maestro de Defensa IV
 Healing Boost IV=Refuerzo curativo IV
@@ -15865,7 +15853,7 @@ Cosmic Flare=Llamarada cósmica
 Increase Wind damage by 4.7%.=Aumenta el daño de Viento un 4,7%.
 Increase Wind damage by 10.8%.=Aumenta el daño de Viento un 10,8%.
 {{A}}o={{A}}o
-Divine Judgment=Juicio Divino
+Divine Judgment=Justicia Divina
 Horn of Famine=Cuerno de Hambre
 Will sound the horn on its next action...=Hará sonar la bocina en su próxima acción...
 P<color\=#000000>r</color>eparing Command=P<color\=#000000>r</color>eparar el mando
@@ -16151,7 +16139,7 @@ Dragon's Protection=Protección del Dragón
 Abyssal Flame=Llama abisal
 Flame of Corruption=La llama de la corrupción
 Cohesion=Cohesión
-{{A}}'s Command=Mando de {{A}}
+
 Do you want to automatically trade for the remaining seals?\nThis will cost <size\=60><sprite\=34></size>x1125<size\=60><sprite\=35></size>x1750.=¿Quieres intercambiar automáticamente por los sellos restantes?\nEsto costará <size\=60><sprite\=34></size>x1125<size\=60><sprite\=35></size>x1750.
 {{B}}on {{A}}.4={{B}}on {{A}}.4
 Megaton Raid {{A}}.4=Incursión Megatón {{A}}.4
@@ -16166,12 +16154,11 @@ Psy Boost IV Psycho Force Electric Reduction IV Accuracy Boost IV=Psy Boost IV P
 Feast of the Frenzied I=Fiesta de los Frenéticos I
 Feast of the Frenzied=Fiesta de los Frenéticos
 Decrease Electric damage taken by 10.8%.=Reduce el daño eléctrico recibido un 10,8%.
-Psycho Force {{A}}.4=Psycho Force {{A}}.4
 Repression Medal IV\nObtainable by playing events such as Trials from the Sea of Souls. Can be exchanged for rewards from the Repression Medal shops.=Medalla de represión IV Se obtiene jugando a eventos como Pruebas del Mar de las Almas. Se puede canjear por recompensas en las tiendas de medallas de represión.
-{{B}} {{A}}.4={{B}} {{A}}.4
-Deadly Fury {{A}}.4=Furia mortal {{A}}.4
+
+
 <color\=#fffc40>32.6%</color> chance to inflict <link\="s|108"><u>Forget</u></link> on all foes for 2 turns.=<color\=#fffc40>32.6%</color> de probabilidad de aplicar <link\="s|108"><u>Olvido</u></link> a todos los enemigos durante 2 turnos.
-Makajamaon {{A}}.4=Makajamaon {{A}}.4
+
 Finish battle in 80 actions with no allies defeated.=Termina la batalla en 80 acciones sin derrotar a ningún aliado.
 Finish battle in 60 actions with no allies defeated.=Termina la batalla en 60 acciones sin derrotar a ningún aliado.
 Finish battle in 40 actions with no allies defeated.=Termina la batalla en 40 acciones sin derrotar a ningún aliado.
@@ -16254,8 +16241,6 @@ At the start of battle, increase party's Attack by 9.8% for 2 turns or until use
 This Persona has reached its current maximum enhancement level.=Esta Persona ha alcanzado su nivel máximo de mejora.
 Flame of Corruption I=La llama de la corrupción I
 Orlov=Orlov
-{{B}} {{A}}.6={{B}} {{A}}.6
-Demonic Decree {{A}}.6=Decreto demoníaco {{A}}.6
 M<color\=#000000>a</color>tarukaja IV=M<color\=#000000>a</color>tarukaja IV
 32.6% chance to inflict Forget on all foes (2 turns).=32,6% de probabilidad de infligir Olvido a todos los enemigos (2 turnos).
 Cannot switch out this Phantom Thief.=No se puede cambiar este Ladrón Fantasma.
@@ -21851,8 +21836,8 @@ Foes' damage taken is increased by 6% for each <color\=#FFFC40>debuff</color> th
 Groovy Session=Sesión Groovy
 This <color\=#FFC000>Phantom Thief</color> is locked. They cannot be edited until you reset the challenge.=Este <color\=#FFC000>Ladrón Fantasma</color> está bloqueado. No se pueden editar hasta que reinicies el desafío.
 Damian Barreto=Damián Barreto
-A<color\=#000000>n</color>gel in White=A<color\=#000000>n</color>gel en blanco
-Angel in White=Ángel de blanco
+A<color\=#000000>n</color>gel in White=A<color\=#000000>n</color>gel en Blanco
+Angel in White=Ángel en Blanco
 It was nice working with\nothers for a change.=Fue agradable trabajar con otros para variar.
 Three {{A}}. 50 Thieves=Tres {{A}}. 50 Ladrones
 Oh, I'd be mighty grateful if you could lend me a hand with this here task.=Le estaría muy agradecido si pudiera echarme una mano con esta tarea.
@@ -22763,9 +22748,6 @@ Facing you like this, letting everything else\nfade away... It is quite envigora
 {{A}} and I rode the Ferris\nwheel. I had to stop her from\nshaking the gondola.={{A}} y yo montamos en la noria.\n Tuve que impedir que\n sacudiera la góndola.
 You just watch me!=¡Mírame!
 Highlight：Deal Physical damage to 1 foe equal to <color\=#fffc40>334.8%</color> of Attack.\n1 MORE：Deal Physical damage to 1 foe.=Highlight: inflige daño físico a 1 enemigo igual al <color\=#fffc40>334.8%</color> de Ataque. 1 MÁS：Reparte daño físico a 1 enemigo.
-Makajama {{A}}.6=Makajama {{A}}.6
-{{B}}dyne {{A}}.6={{B}}dyne {{A}}.6
-Makajamaon {{A}}.6=Makajamaon {{A}}.6
 C<color\=#000000>e</color>lebratory Tone=T<color\=#000000>o</color>no festivo
 Fire dmg to all foes (83.7%% Atk) and increase dmg taken 18.2% (2 turns).=Daño de Fuego a todos los enemigos (83,7% ATQ) y aumenta el daño recibido un 18,2% (2 turnos).
 Increase crit dmg 15%. After attacking debuffed foes, increase Atk 35%. If dmg is dealt, increase party's Atk 11.5% (1 turn).=Aumenta el daño crítico un 15%. Después de atacar a enemigos debuffed, aumentar ATQ 35%. Si se inflige daño, aumenta la habilidad del grupo un 11,5% (1 turno).
@@ -22844,8 +22826,6 @@ Obtainable from Persona dungeons on levels VI and VII in the Realm of Repression
 Do you want to automatically trade for the remaining seals?\nThis will cost <size\=60><sprite\=34></size>x350<size\=60><sprite\=35></size>x8500.=¿Quieres intercambiar automáticamente por los sellos restantes?\nEsto costará <size\=60><sprite\=34></size>x350<size\=60><sprite\=35></size>x8500.
 Do you want to automatically trade for the remaining seals?\nThis will cost <size\=60><sprite\=34></size>x1825<size\=60><sprite\=35></size>x1000.=¿Quieres intercambiar automáticamente por los sellos restantes?\nEsto costará <size\=60><sprite\=34></size>x1825<size\=60><sprite\=35></size>x1000.
 Call of the Abyss IV Curse Reduction IV {{A}}lity Master IV Maeigaon=Call of the Abyss IV Reducción de la Maldición IV {{A}}lity Master IV Maeigaon
-Decrease Curse damage taken by 10.8%.=Reduce el daño recibido por Maldición un 10,8%.
-Maeigaon {{A}}.6=Maeigaon {{A}}.6
 Increase ailment accuracy 34.9%. Increase foes' Curse dmg taken 12%. When ally uses Curse skill, increase {{A}}'s ailment accuracy and Atk 9.1% (max 3 stacks, 2 turns).=Aumenta la precisión de las dolencias un 34,9%. Aumenta el daño recibido por Maldición un 12%. Cuando un aliado usa la habilidad Maldición, aumenta la precisión de la maldición y el ATQ de {{A}} un 9,1% (máximo 3 acumulaciones, 2 turnos).
 A special crystal used to forge All In.=Un cristal especial utilizado para forjar All In.
 Undying Curse I=Maldición imperecedera I
@@ -24264,8 +24244,7 @@ No Assist Thieves assigned.=No se han asignado ladrones de asistencia.
 Attack Boost IV Concentrate {{A}} Elec Boost IV=Attack Boost IV Concentrado {{A}} Elec Boost IV
 11.7w=11.7w
 Echoing Thunderclap I=Eco del trueno I
-Increase Electric damage by 10.8%.=Aumenta el daño Eléctrico un 10,8%.
-Concentrate {{A}}.6=Concentrado {{A}}.6
+Increase Electric damage by 10.8%.=Aumenta el daño Eléctrico un 10.8%.
 M<color\=#000000>a</color>rk: Electric=M<color\=#000000>a</color>rca: Eléctrico
 M<color\=#000000>a</color>rk: Fire=M<color\=#000000>a</color>rca: Fuego
 <color\=#000000>Visitor EXP 8: Unlock a Dialogue Event</color>=<color\=#000000>Visitante EXP 8: Desbloquea un evento de diálogo</color>
@@ -27394,8 +27373,6 @@ Spicy Emote=Gesto picante
 Earned for building an unbreakable bond of friendship with {{A}}.=Ganado por construir un vínculo de amistad inquebrantable con {{A}}.
 Partner {{A}} Avatar=Socio {{A}} Avatar
 Obtainable after attempting all Persona dungeons. Can be exchanged for rewards in the Repression Medal shops.=Obtenible tras intentar todas las mazmorras Persona. Se puede canjear por recompensas en las tiendas de medallas de represión.
-Divine Judgment {{A}}.6=Juicio divino {{A}}.6
-{{A}}'s Command I=Mando I de {{A}}
 Since only one skill of the same type can be selected, Nurture IV has been changed to Nurture III.=Dado que sólo se puede seleccionar una habilidad del mismo tipo, Nurture IV ha pasado a ser Nurture III.
 Realm of Repression: Persona=El reino de la represión: Persona
 Increase Atk 29.1%. When using skill on ally, gain 2 Commandment. When allies deal skill dmg, spend 1 Commandment to increase that skill's dmg 13.5% (1 turn).=Aumenta el ATQ un 29,1%. Al usar una habilidad con un aliado, obtienes 2 mandamientos. Cuando un aliado inflige daño de habilidad, gasta 1 Mandamiento para aumentar el daño de esa habilidad un 13,5% (1 turno).
@@ -28147,8 +28124,7 @@ When Malice reaches 5 or more stacks, increase Physical damage and ailment accur
 Wisdom & Oppression=Sabiduría y Opresión
 Do you want to customize a Revelation Card with the mark <color\=#f1b500>Sky</color>, set <color\=#f1b500>Virtue</color>, and main attribute <color\=#f1b500>Attack</color>?=¿Quieres personalizar una carta de revelación con la marca <color\=#f1b500>Cielo</color>, conjunto <color\=#f1b500>Virtud</color> y atributo principal <color\=#f1b500>Ataque</color>?
 Do you want to customize a Revelation Card with the mark <color\=#f1b500>Moon</color>, set <color\=#f1b500>Virtue</color>, and main attribute <color\=#f1b500>Attack</color>?=¿Quieres personalizar una carta de revelación con la marca <color\=#f1b500>Luna</color>, conjunto <color\=#f1b500>Virtud</color> y atributo principal <color\=#f1b500>Ataque</color>?
-Psycho Force {{A}}.6=Fuerza psicológica {{A}}.6
-Rebellion {{A}}.6=Rebelión {{A}}.6
+
 Decrease final dmg taken by 15%. Stacks up to 5 times.=Reduce el daño final recibido un 15%. Se acumula hasta 5 veces.
 Royal Shield=Escudo Real
 Shadowdance=Shadowdance
@@ -29867,8 +29843,8 @@ At 5+ Malice stacks, increase Physical dmg and ailment accuracy by 20%.=Con 5+ a
 Bleed=Sangrado
 Sacred Blessing=Bendición sagrada
 Valid until: 2025/11/24, 21:59=Válido hasta: 2025/11/24, 21:59
-A ticket for Thieves' Secrets. Can be exchanged for rewards in the Secret Shop during the event. Can't be used after the event ends.=Un billete para los Secretos de los Ladrones. Puede canjearse por recompensas en la Tienda Secreta durante el evento. No se puede usar una vez finalizado el evento.
-Secret Ticket=Billete secreto
+A ticket for Thieves' Secrets. Can be exchanged for rewards in the Secret Shop during the event. Can't be used after the event ends.=Un boleto para Secretos de los Ladrones. Se puede canjear por recompensas en la Tienda Secreta durante el evento. No se puede usar después de que termine el evento.
+Secret Ticket=Boleto Secreto
 This Beautiful Woman=Esta hermosa mujer
 Sparklers=Bengalas
 {{A}}146 Thieves Den EXP Credit increased by 150\n{{A}}147 Increases Ice and Nuclear damage by 0.2% (takes effect in battle).={{A}}146 Crédito de EXP de la Guarida de Ladrones incrementado en 150 {{A}}147 Incrementa el daño de Hielo y Nuclear en 0.2% (tiene efecto en batalla).
@@ -33729,8 +33705,7 @@ Karmic Alteration=Alteración kármica
 Psy Boost III Psiodyne {{A}} Psycho Blast=Psy Boost III Psiodyne {{A}} Psycho Blast
 Karmic Alteration I=Alteración kármica I
 Deal Psy damage to all foes equal to <color\=#FFFC40>59.6%</color> of Attack. Deal a <link\="s|211"><u>Technical</u></link> and increase damage by 50% for foes with a <link\="s|106"><u>spiritual ailment</u></link>.=Inflige daño psíquico a todos los enemigos igual a <color\=#FFFC40>59.6%</color> de Ataque. Reparte un <link\="s|211"><u>Técnico</u></link> y aumenta el daño en un 50% para los enemigos con un <link\="s|106"><u>dolencia espiritual</u></link>.
-Psycho Blast {{A}}.6=Explosión psicótica {{A}}.6
-Psiodyne {{A}}.6=Psiodyne {{A}}.6
+
 Deal Physical damage to all foes equal to <color\=#fffc40>22.5%</color> of Attack (1 to 3 hits).=Inflige daño físico a todos los enemigos igual al <color\=#fffc40>22.5%</color> de Ataque (de 1 a 3 impactos).
 Decreases damage taken by 11.3% when it rains.=Reduce el daño recibido en un 11,3% cuando llueve.
 Since only one skill of the same type can be selected, {{A}}lity Master III has been changed to {{A}}lity Master I.=Dado que sólo se puede seleccionar una habilidad del mismo tipo, {{A}}lity Master III se ha cambiado por {{A}}lity Master I.
@@ -36057,12 +36032,7 @@ Cycle of Fate=Ciclo del Destino
 You do not have enough Prism Cognigem to purchase this product.=No tienes suficiente Prism Cognigem para comprar este producto.
 Shiva's Divine Dancer's Leap has greatly enhanced healing reduction and Defense decrease effects.=Salto del bailarín divino de Shiva ha mejorado enormemente los efectos de reducción de curación y disminución de Defensa.
 Cannot use items.=No se pueden utilizar objetos.
-Demonic Decree {{A}}.7=Decreto demoníaco {{A}}.7
-Maeigaon {{A}}.7=Maeigaon {{A}}.7
-Makajamaon {{A}}.7=Makajamaon {{A}}.7
-Concentrate {{A}}.7=Concentrado {{A}}.7
-{{B}} {{A}}.7={{B}} {{A}}.7
-Divine Judgment {{A}}.7=Juicio divino {{A}}.7
+
 {{A}} Bless Reduction III Masukukaja Almighty Boost III={{A}} Bless Reduction III Masukukaja Almighty Boost III
 Do you want to use the following to perform Road to Rehabilitation 1 times?=¿Quieres utilizar lo siguiente para realizar Camino a la Rehabilitación 1 veces?
 Deal Psychokinesis damage to 1 foe equal to <color\=#FFFC40>48.8%</color> of Attack and Nuclear damage equal to <color\=#FFFC40>48.8%</color> of Attack (1 hit each; increase this effect by 1% for every 1 point of <link\="s|271"><u>Desire Level</u></link>). Also, increase pierce rate for Justine & Caroline and the Sweeper or Assassin ally with the highest Attack by <color\=#FFFC40>3.2%</color>, plus <color\=#FFFC40>3.2%</color> x Desire Level points / 100 more for 3 turns.\nGain <link\="s|273"><u>Facade</u></link> of Absurdity & Nonsense.\n<b><size\=28><color\=#850101>Combine the powers of Mandrake and Onmoraki to deal Psychokinesis and Nuclear damage to an enemy.</color></size></b>=Inflige daño de Psicoquinesis a 1 enemigo igual a <color\=#FFFC40>48.8%</color> de Ataque y Daño Nuclear igual a <color\=#FFFC40>48.8%</color> de Ataque (1 impacto cada uno; aumenta este efecto un 1% por cada 1 punto de <link\="s|271"><u>Nivel de deseo</u></link>). Además, aumenta el índice de perforación de Justine y Caroline y del aliado Barrendero o Asesino con el Ataque más alto en <color\=#FFFC40>3.2%</color>Además <color\=#FFFC40>3.2%</color> x Puntos de nivel de deseo / 100 más durante 3 turnos. Gana <link\="s|273"><u>Fachada</u></link> de Absurdos y Disparates.\n<b><size\=28><color\=#850101>Combina los poderes de Mandrake y Onmoraki para infligir Psicoquinesis y daño Nuclear a un enemigo.</color></size></b>
@@ -40913,10 +40883,9 @@ Okay. I'm on my way.=Entendido. Estoy en camino.
 Gain a higher score within 6 turns=Obtén una puntuación más alta en 6 turnos
 Well, where are we going?\nHurry up and make a decision!=Bueno, ¿a dónde vamos? ¡Date prisa y toma una decisión!
 S<color\=#000000>p</color>reading Flames=L<color\=#000000>l</color>amas en expansión
-Shield Boost IV=Escudo de Refuerzo IV
+Shield Boost IV=Aumento de Escucdo IV
 Phys Boost IV=Aumento Físico IV
 Devoted Guard=Guardia Devota
-Titan's Protection=Protección del Titán
 Killer Allure=Atracción Asesina
 Allure of the Night=Atracción de la Noche
 Verdict of Agony=Veredicto de Agonía
@@ -40942,7 +40911,6 @@ When allies besides Wonder deal <color\=#FFFC40>Almighty damage</color> with a s
 Each time an ally deals damage to a foe, that ally's final damage is increased by 4%. Stacks up to 15 times. Lasts for 3 turns.=Cada vez que un aliado causa daño a un enemigo, el daño final de ese aliado aumenta un 4%. Se acumula hasta 15 veces. Dura 3 turnos.
 Fate Stella=<size\=75>Estrella del Destino</size>
 The jackal-headed god of the dead and embalming from Egyptian myth. He weighs the hearts of the dead to determine their final destination.=El dios de cabeza de chacal de los muertos y la momificación de la mitología egipcia. Él pesa los corazones de los muertos para determinar su destino final.
-Titan's Protection I=Protección del Titán I
 Thunder Lord's Majesty I=Majestad del Señor del Trueno I
 Increase <link\="s|104"><u>Shock</u></link> accuracy by 20.3%.=Aumenta la resistencia a <link\="s|104"><u>Choque</u></link> precisión en un 20.3%.
 Decrease SP cost of skills by 6%.=Disminuye el costo de PE de las habilidades en un 6%.
@@ -43345,16 +43313,12 @@ Check the large poster on the wall of the building in Akihabara. =Revisa el cart
 Our Beloved City!=¡Nuestra Amada Ciudad!
 I'm So Happy!=¡Estoy tan feliz!
 Where To Next?=¿A dónde ahora?
-I'll Go Anywhere With You!=¡Iré a cualquier lugar contigo! 
-{{B}}dyne {{A}}.7={{B}}dyne {{A}}.
-Brave Blade {{A}}.7=Hoja Valiente {{A}}.7
-Memory Blow {{A}}.7=Golpe de Memoria {{A}}.7
+I'll Go Anywhere With You!=¡Iré a cualquier lugar contigo!
 Do you want to reset?\nYour <color\=#ffc000>Willpower</color> and <color\=#ffc000>challenge attempts</color> spent to battle at the Stella will be restored.\nThe Stella will be reverted to an uncleared status, so you will need to clear them again in order to take on new Stellae.=¿Quieres reiniciar? Tu <color\=#ffc000>Fuerza de Voluntad</color> y los <color\=#ffc000>intentos de desafío</color> El gastado para combatir en las estrellas se restaurará. Las estrellas volverán a un estado no completado, así que tendrás que completarlas nuevamente para poder tomar nuevas estrellas.
 The conditions for Persona fusion are not met.=No se cumplen las condiciones para la fusión de Personas.
 Available only through the Akihabara event.\nCan be put on at the closet in your bedroom.=Disponible solo durante el evento de Akihabara. Se puede poner en el armario de tu habitación.
 Casualwear=Ropa casual
 Obtained from the Akihabara Mystery Map Mission=Obtenido de la Misión del Mapa Misterioso de Akihabara
-Rebellion {{A}}.7=Rebelión {{A}}.7
 And that's how you do it. What do you think?\nHope you'll try this one out yourself.=Y así es como se hace. ¿Qué te parece? Espero que lo pruebes tú también.
 Hi there, welcome...=Hola, bienvenido...
 Heh. No other customers today, huh?=Je. No hay más clientes hoy, ¿eh?
@@ -43457,8 +43421,6 @@ Edit=Editar
 Current Set=Conjunto actual
 Clinical Care=Atención Clínica
 Rebound=Rebote
-Psycho Blast {{A}}.7=Explosión Psíquica {{A}}.7
-Psiodyne {{A}}.7=Psiodyne {{A}}.7
 S1=S1
 Increase effects of 1 More, Highlight, melee, and ranged attacks.=Aumenta los efectos de 1 More, Highlight, ataques cuerpo a cuerpo y a distancia.
 At the start of the foe's turn, inflict Dissolution, increasing final damage taken. Increase is equal to 25% of the ailment accuracy of the ally with the highest ailment accuracy, up to 40%.=Al inicio del turno del enemigo, inflige Disolución, aumentando el daño final recibido. El aumento equivale al 25% de la precisión de dolencias del aliado con mayor precisión de dolencias, hasta un 40%.
@@ -48303,7 +48265,7 @@ But you know, you don't really see\nValentine's cookies in shops very often, do 
 I wonder why. I'll look it up.=Me pregunto por qué. Lo voy a investigar.
 Let's see... "Cookies given on Valentine's\nDay are meant for friends."=Veamos... "Las galletas que se dan en el Día de San Valentín son para amigos".
 "You shouldn't give them to someone you\nreally like..."!?="¡¿No deberías dárselas a alguien que realmente te gusta...?!"
-Wait, WHAT!?=¡Espera, ¿¡QUÉ!?!
+Wait, WHAT!?=Espera, ¡¿QUÉ?!
 Sorry! Give me those cookies back! I'll go\nmake some chocolates right now!=¡Perdón! ¡Devuélveme esas galletas! ¡Ahorita mismo voy a hacer unos chocolates!
 I understand your feelings.=Entiendo tus sentimientos.
 Wow... Who knew chocolate on Valentine's had\nsuch meaning?=Wow... ¿Quién diría que el chocolate en San Valentín tenía tanto significado?
@@ -55224,6 +55186,7 @@ Ribalta=Ribalta
 Sipario=Sipario
 Curtain Call=Salida al Escenario
 [Limelight]=[En Primer Plano]
+Limelight=En Primer Plano
 [Curtain Call]=[Salida al Escenario]
 [Thunderous Applause]=[Aplauso Atronador]
 [Rave Review]=[Crítica Entusiasta]
@@ -55261,6 +55224,7 @@ A skill card that can teach the skill Rebellion to a Persona.  \nMaximum Level E
 A skill card that can teach the skill Rakunda to a Persona.  \nMaximum Level Effect: Decrease 1 foe's Defense by 38.8% for 3 turns.=Una carta de habilidad que puede enseñar la habilidad Rakunda a una Persona.  \nEfecto al nivel máximo: Reduce la Defensa de 1 enemigo en un 38.8% durante 3 turnos.
 Universal Theoria=Teoría Universal
 A skill card that can teach the skill "Universal Theoria" to a Persona.\nMaximum Level Effect: Increase party's Attack by 30.0%, and also increase the main target's damage by 20.0% for 2 turns.=Una carta de habilidad que enseña "Teoría Universal" a una Persona.\nEfecto en nivel máximo: Aumenta el Ataque del equipo en un 30.0% e incrementa el daño que recibe el objetivo principal en un 20.0% durante 2 turnos.
+A skill card that can teach the skill Agility Master III to a Persona.  \nMaximum Level Effect: Increase Speed by 12. Decrease Defense by 8%.=Una carta de habilidad que enseña la habilidad Maestro de Agilidad III a una Persona. \nEfecto de nivel máximo: aumenta la Velocidad en 12. Disminuye la Defensa en un 8%.
 Change Message Frame=Cambiar Marco de Mensaje
 S<color\=#ff0000ff>h</color>oki Ikenami=S<color\=#ff0000ff>h</color>oki Ikenami
 Nagisa, do you ever find it frightening to be a phantom thief?=Nagisa, ¿alguna vez te resulta aterrador ser un Ladrón Fantasma?
@@ -56504,14 +56468,14 @@ Curse affinity changed to Weak!=¡La afinidad de Maldición cambió a Débil!
 Curse Weakness=Debilidad a Maldición
 Change Curse affinity to Weak.=Cambia la afinidad de Maldición a Débil.
 
-Perseverance & Sorrow=Perseverancia y Dolor
+Perseverance & Sorrow=Perseverancia y Pena
 For each foe on the field, increase Electric damage by <color\=#2899ff>8%</color>. Maximum of <color\=#2899ff>32%</color>.=Por cada enemigo en el campo, aumenta el daño Eléctrico en un <color\=#2899ff>8%</color>. Máximo de un <color\=#2899ff>32%</color>.
-Sorrow=Dolor
-[Sorrow]=[Dolor]
-Sorrow: Sun=Dolor: Sol
-Sorrow: Moon=Dolor: Luna
-Sorrow: Star=Dolor: Estrella
-Sorrow: Sky=Dolor: Cielo
+Sorrow=Pena
+[Sorrow]=[Pena]
+Sorrow: Sun=Pena: Sol
+Sorrow: Moon=Pena: Luna
+Sorrow: Star=Pena: Estrella
+Sorrow: Sky=Pena: Cielo
 4 Set Effect：Increase damage by <color\=#2899ff>20%</color> for 3 turns. After activating a Highlight, gain the same effect again.=4 Piezas: Aumenta el daño en un <color\=#2899ff>20%</color> durante 3 turnos. Tras activar un Highlight, obtienes el mismo efecto de nuevo.
 
 [Change]=[Cambio]

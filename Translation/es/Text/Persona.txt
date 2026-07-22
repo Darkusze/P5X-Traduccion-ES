@@ -1,0 +1,63 @@
+﻿+--Nombre Pasiva--+
+Angel's Command II=Orden del Ángel II
+Angel's Command I=Orden del Ángel I
+Angel's Command=Orden del Ángel
+
+Titan's Protection=Protección del Titán
+Titan's Protection I=Protección del Titán I
+Titan's Protection II=Protección del Titán II
+Titan's Protection III=Protección del Titán III
+
+Heavenly King's Eyes=Ojos del Rey Celestial
+Heavenly King's Eyes I=Ojos del Rey Celestial I
+Heavenly King's Eyes II=Ojos del Rey Celestial II
+
+
++--Pasivas--+
+r:"^Increase Defense by ([\d.]+)%\. When Sandalphon is present, increase shielded allies' Defense by ([\d.]+)%, and when not present, increase shielded allies' Defense by ([\d.]+)%\. When using a unique skill, decrease HP cost by ([\d.]+)%\.$"="Aumenta la Defensa un $1%. Cuando Sandalphon está presente, aumenta la Defensa de los aliados con escudo un $2% y, cuando no está presente, aumenta la Defensa de los aliados con escudo un $3%. Al usar una habilidad única, reduce el coste de PS un $4%."
+
+r:"^Increase ailment accuracy by ([\d.]+)%\. At the start of battle, increase the Attack of the ally with the highest Attack by ([\d.]+)% and their critical rate by ([\d.]+)% for (\d+) turns \(prioritize Assassins and Sweepers\)\.$"="Aumenta la precisión de dolencias en un $1%. Al comienzo de la batalla, aumenta el Ataque del aliado con el Ataque más alto un $2% y su probabilidad de crítico un $3% durante $4 turnos (prioriza Asesinos y Barrenderos)."
+
+r:"^Increase ailment accuracy ([\d.]+)%\. At the start of battle, increase Atk of ally with highest Atk ([\d.]+)% and crit rate ([\d.]+)% \((\d+) turns\)\.$"="Aumenta la precisión de dolencias en un $1%. Al comienzo de la batalla, aumenta el Ataque del aliado con el Ataque más alto un $2% y su probabilidad de crítico un $3% ($4 turnos)."
+
++--Habilidades Nivel--+
+r:"^Rebellion Lv\.(\d+)$"="Rebelión Nv. $1"
+r:"^Psycho Force Lv\.(\d+)$"="Fuerza Psico Nv. $1"
+
+Matarukaja Lv.1=Matarukaja Nv. 1
+Matarukaja Lv.2=Matarukaja Nv. 2
+Matarukaja Lv.3=Matarukaja Nv. 3
+Matarukaja Lv.4=Matarukaja Nv. 4
+Matarukaja Lv.5=Matarukaja Nv. 5
+Matarukaja Lv.6=Matarukaja Nv. 6
+Matarukaja Lv.7=Matarukaja Nv. 7
+
+r:"^Divine Judgment Lv\.(\d+)$"="Justicia Divina Nv. $1"
+r:"^Concentrate Lv\.(\d+)$"="Concentración Nv. $1"
+r:"^Demonic Decree Lv\.(\d+)$"="Decreto Demoníaco Nv. $1"
+r:"^Maeigaon Lv\.(\d+)$"="Maeigaon Nv. $1"
+
+Makajamaon Lv.7=Makajamaon Nv.7
+Tarukaja Lv.7=Tarukaja Nv. 7
+Sword Dance Lv.7=Sword Dance Lv.7
+Rakukaja Lv.7=Rakukaja Nv. 7
+Rakunda Lv.7=Rakunda Nv. 7
+
+Nocturnal Flash {{A}}.3=Destello nocturno {{A}}.3
+
+Baisudi {{A}}.3=Baisudi {{A}}.3
+
+Deadly Fury {{A}}.4=Furia mortal {{A}}.4
+
+Makajama {{A}}.6=Makajama {{A}}.6
+
+Agidyne {{A}}.6=Agidyne {{A}}.6
+
+Psycho Blast {{A}}.7=Explosión Psíquica {{A}}.7
+
+Psiodyne {{A}}.7=Psiodyne {{A}}.7
+
+Brave Blade {{A}}.7=Hoja Valiente {{A}}.7
+
+Memory Blow {{A}}.7=Golpe de Memoria {{A}}.7
+

@@ -1,0 +1,481 @@
+﻿+--Historia--+
+
+##Movíl
+Working at beach shack=Trabajar en el puesto de la playa
+Hey, I know it's sudden, but would you be interested in working at a beach shack?=¡Oye! Sé que es muy repentino, pero ¿te interesaría trabajar en un puesto de la playa?
+We hire part-timers every year, but nobody's signed up this year.=Contratamos personal de medio tiempo todos los años, pero esta vez nadie se ha anotado.
+Dad runs one at Shirosato Beach in the summer.=Mi papá administra uno en la playa Shirosato durante el verano.
+But even if I work hard, it's still too much for one person to handle alone...=Pero por más que me esfuerce, es demasiado para que una sola persona lo maneje todo...
+So I thought I'd ask if you'd be willing to help out too.=Así que pensé en preguntarte si estarías dispuesto a ayudar también.
+Sure, I can help.=Claro, puedo ayudar.
+I'm going to do what I can to help out too.=Yo también haré todo lo que pueda para ayudar.
+We'll make some good memories.=Crearemos buenos recuerdos.
+Yes! Thank you!=¡Sí! ¡Gracias!
+Okay, I'll send you all the details later!=Ok, ¡te mando todos los detalles después!
+
+##Intro
+Hoo. I dare say this establishment is showing\nits age.=Hoo. Diría que este lugar está un poco anticuado.
+Countless summertime desires must have\naccumulated here over the years... How very\nquaint.=De seguro se han acumulado innumerables deseos de verano por aquí a lo largo de los años... Qué pintoresco.
+Heeeeey, {{A}}-kun!=¡Oyeeeee, {{A}}-kun!
+Sorry, hope you weren't waiting too long!=Perdón, ¡espero que no hayas esperado demasiado tiempo!
+It might be a bit early to get changed...\nbut seeing as we're at the beach, we might as\nwell wear swimsuits, right?=Puede que sea un poco temprano para cambiarnos...\npero ya que estamos en la playa, bien podríamos usar trajes de baño, ¿no?
+Ah, th-thank you! You look great too,\n{{A}}-kun.=Ah, ¡g-gracias! Tú también te ves genial,\n{{A}}-kun.
+Ahaha! That little outfit is so adorable...\nThis must be Lufel-chan, right?=¡Ajaja! Ese atuendo es tan adorable...\nEste debe ser Lufel-chan, ¿verdad?
+Unfortunately, we don't allow animals inside\nthe shop, so you'll just have to relax\noutside in the shade, okay?=Desafortunadamente, no permitimos animales dentro de la tienda, así que tendrás que relajarte afuera en la sombra, ¿de acuerdo?
+Hoo... I suppose that's understandable.=Hoo... Supongo que es comprensible.
+Hehe... His expression almost made it look\nlike he knew what I said!=Jeje... ¡Su expresión casi hacía que pareciera que entendió lo que dije!
+When things calm down at the shop, we'll be\nsure to bring you something to eat, okay?=Cuando las cosas se calmen en la tienda, nos aseguraremos de traerte algo de comer, ¿de acuerdo?
+It's been a long time since I was last\nhere...=Ha pasado mucho tiempo desde la última vez que estuve aquí...
+What do you think? This is my family's beach\nshack. It's seen better days, huh?=¿Qué te parece? Esta es la cabaña de playa de mi familia. Está mucho mejor, ¿no?
+It's charming.=Es encantadora.
+I think it's great.=Creo que está genial.
+Ahaha. You can be honest, you know.=Jaja. Puedes ser honesto, ¿sabes?
+When I was little, I was afraid of going\ninside because I thought it was haunted...=Cuando era pequeña, tenía miedo de entrar porque pensaba que estaba embrujada...
+Of course, I'm not scared anymore! Hehe.=¡Por supuesto, ya no tengo miedo! Jeje.
+Ah, that's right.=Ah, es verdad.
+I got a call from Dad just earlier. He should\nbe leaving the shop in Zoshigaya right about\nnow.=Me llamó mi papá hace un momento. Debería estar saliendo de la tienda en Zoshigaya justo ahora.
+He'll get here in an hour or two, so let's\nstart getting everything ready before then!=Llegará en una o dos horas, ¡así que empecemos a preparar todo antes de eso!
+Huh? It's Dad again. I wonder what's wrong...=¿Eh? Es mi papá otra vez. Me pregunto qué pasará...
+Hi, Dad. What's the matter?=Hola, papá. ¿Qué ocurre?
+...What!? A-Are you okay!?=...¿¡Qué!? ¿¡E-Estás bien!?
+Ah, but... what should I do about the beach\nshack...? We're supposed to open today...=Ah, pero... ¿qué debería hacer con la cabaña de la playa...? Se supone que abrimos hoy...
+Hm? Sounds like trouble.=¿Hm? Suena a problemas.
+A-All right, got it. We'll do what we can.\nFor now, you just take it easy at home, okay?=E-Está bien, entendido. Haremos lo que podamos.\nPor ahora, tú solo descansa en casa, ¿sí?
+What do I do...?=¿Qué hago...?
+Dad... can't make it.=Mi Papá... no podrá venir.
+He was trying to lift a case of bottles, and\ncompletely threw out his back...=Estaba intentando levantar una caja de botellas y se torció la espalda por completo...
+I told him he needed to be more careful...\nWhy did this have to happen today?=Le dije que tenía que tener más cuidado... ¿Por qué tenía que pasar hoy?
+Aaahh, what do I do? I already ordered the\ncurry powder, yakisoba, and shaved ice\nsyrup...=Aaahh, ¿qué hago? Ya pedí el curry en polvo, yakisoba y el sirope de hielo rallado...
+If the shop doesn't open, we'll be taking a\nhuge hit... And then...!=Si la tienda no abre, nos va a ir fatal... ¡Y encima...!
+What can I do to help?=¿Qué puedo hacer para ayudar?
+Sorry. I kinda panicked there...=Perdón. Me entró un poco de pánico...
+But this is really bad. We need to figure out\nwhat to do now.=Pero esto es muy malo. Tenemos que averiguar qué hacer ahora.
+I guess I should head to the chamber of\ncommerce first to pick up the orders, then we\ncan work on cleaning up...=Supongo que primero debería ir a la cámara de comercio a recoger los pedidos, luego podemos ponernos a limpiar...
+Just hold on tight, {{A}}-kun! I'll get\neverything taken care of.=¡Solo espera un poco, {{A}}-kun! Yo me encargaré de todo.
+This is certainly an unexpected turn of\nevents...=Esto es sin duda un giro inesperado de los acontecimientos...
+It sounds like the beach shack will be in\ndire straits. Perhaps we should call for\nreinforcements?=Parece que la cabaña de la playa estará en serios apuros. ¿Quizás deberíamos pedir refuerzos?
+I'll see if I can get my\nfellow Phantom Thieves\nto help...=Veré si puedo hacer que mis\ncompañeros Ladrones Fantasma\nayuden...
+Helping out at the beach shack? That sounds kinda fun! I'll be right over!=¿Ayudar en la cabaña de la playa? ¡Eso suena un poco divertido! ¡Iré de inmediato!
+Sure, I'll be there too. Got nothin' else goin' on anyway.=Claro, yo también estaré allí. De todos modos, no tengo nada más que hacer.
+I'll come as well. You need all the help you can get, right?=Yo también iré. Necesitas toda la ayuda que puedas conseguir, ¿verdad?
+I'll try calling Tomoko too. I think she said she was looking for another job.=Intentaré llamar a Tomoko también. Creo que dijo que estaba buscando otro trabajo.
+Shirosato Beach, was it?=Playa Shirosato, ¿verdad?
+I'm afraid I have some work commitments today...=Me temo que hoy tengo algunos compromisos laborales...
+But once that's over, I can help out too.=Pero una vez que eso termine, yo también puedo ayudar.
+Everyone seems eager\nto help out. I'll wait\nfor them to arrive...=Todos parecen entusiasmados por\nayudar. Esperaré a que\nlleguen...
+Hey, {{A}}-kun! Can you come over here?\nI could use some help!=¡Oye, {{A}}-kun! ¿Puedes venir aquí?\n¡Me vendría bien algo de ayuda!
+
+##capitulo 1
+CHAPTER 01=CAPÍTULO 01
+Beach Shack Problems=Problemas de la Cabaña de la Playa
+#Resumen
+The Miyashita beach shack is facing a serious predicament! Minami's father has hurt his back and can no longer help out... It's up to the Phantom Thieves to come to the rescue!=¡La cabaña de la playa de los Miyashita se enfrenta a un grave dilema! El padre de Minami se ha lastimado la espalda y ya no puede ayudar... ¡Depende de los Ladrones Fantasma venir al rescate!
+
+Phew. We managed to open somehow!=Uff. ¡Logramos abrirla de alguna forma!
+But it really was tough with just the two of\nus...=Pero la verdad es que estuvo difícil con solo nosotros dos...
+As long as it's not too busy, we should be\nfine for now... but do you think we'll be\nable to manage...?=Mientras no haya demasiada gente, deberíamos estar bien por ahora... pero ¿crees que podremos encargarnos...?
+No need to worry.=No hay de qué preocuparse.
+I called for reinforcements.=He pedido refuerzos.
+Reinforcements...?=¿Refuerzos...?
+We're here! What's up?=¡Ya estamos aquí! ¿Qué tal?
+Sorry we're a bit late.=Lamentamos llegar un poco tarde.
+Did you... call your friends!?=Llamaste... ¡¿a tus amigos?!
+You must be Minami Miyashita, then. He told\nus everything, so we came to lend our\nassistance.=Entonces debes de ser Minami Miyashita. Él nos contó todo, así que vinimos a echarte una mano.
+I'll keep the introductions brief. I'm Riko\nTanemura, a third year at Kokatsu Academy.=Seré breve con las presentaciones. Soy Riko Tanemura, de tercer año de la Academia Kokatsu.
+And this is Motoha Arai and Shun Kano, from\nsecond year, as well as Tomoko Noge, from\nthe same year.=Y ellos son Motoha Arai y Shun Kano, de segundo año, así como Tomoko Noge, del mismo año.
+Looking forward to working together,\nMiyashita-san!=¡Un placer trabajar contigo, Miyashita-san!
+Just Minami is fine. I'm the youngest one\nhere!=Solo Minami está bien. ¡Soy la menor de aquí!
+And I look forward to working with you all,\ntoo!=¡Y yo también espero trabajar con todos ustedes!
+Everyone exchanged brief\nintroductions...=Todos se presentaron brevemente...
+This is a pretty big shop you've got here...\nCan't wait to fire up that grill!=Tienen una cabaña bastante grande...\n¡Qué ganas de encender esa parrilla!
+So what do you need us to do? Just give us\nyour orders! That's what we're here for.=¿Qué es lo que tenemos que hacer? ¡Solo danos tus órdenes! Para eso vinimos.
+If everyone's runnin' around at once, we'll\nhave no time for breaks, so why don't we\nfigure out a schedule first?=Si todos corremos de un lado a otro a la vez, no tendremos tiempo para descansar. ¿Por qué no armamos un horario primero?
+Right, let's plan out shifts then! We'll\nsplit it between the kitchen and the floor...=¡Bien, organicemos los turnos entonces!\nDividiremos el trabajo entre la cocina y la sala...
+Ah, sorry! I kinda just took over there...=Ah, ¡lo siento! Me dejé llevar por un momento...
+But does that sound good, Minami-chan?=Pero ¿te parece bien, Minami-chan?
+Of course! That's a huge help!=¡Por supuesto! ¡Es de gran ayuda!
+We all discussed how to divide\nup our shifts...=Todos dialogamos sobre cómo\ndividir nuestros turnos...
+All right! That settles our shifts for today.=¡Listo! Con eso quedan definidos nuestros turnos de hoy.
+I'll post this on the wall in the back, so if\nyou can't remember, just check there!=Lo colgaré en la pared del fondo. Si no se acuerdan, ¡pueden revisarlo ahí!
+And lemme know if you've got any issues. I'm\nright at home with this kinda work!=Y avísenme si hay algún problema. ¡Me siento como en casa con este tipo de trabajo!
+Thank you so much for all of this... I'm\nfeeling better already!=Muchas gracias por todo esto... ¡Ya me siento mucho mejor!
+Hello there! I've got a frozen delivery for\nMiyashita-san!=¡Hola! ¡Tengo una entrega de congelados para Miyashita-san!
+Yes, I'll be right—=Sí, ya voy—
+Stop right there, Minami-chan! It's my shift\nnow. You can just relax instead!=¡Detente ahí, Minami-chan! Ahora es mi turno.\n¡Tú relájate!
+Thank you so much! Be right there!=¡Muchas gracias! ¡Ya voy para allá!
+...Tomoko's sure in high spirits, huh?=...Tomoko sí que está muy animada, ¿no?
+Can ya blame her? I mean, we're workin' at\na beach shack in the summer!=¿Quién puede culparla? O sea, ¡estamos trabajando en una cabaña de la playa en pleno verano!
+Right! This is, like, the ultimate summer\nvibe!=¡Exacto! ¡Esta es la auténtica vibra del verano!
+You put it perfectly. This is the kind of\nexperience you can't get at any other time\nof year.=Lo has dicho a la perfección. Es el tipo de experiencia que no se puede tener en ninguna otra época del año.
+Anyway, it looks like we have more than\nenough staff now, so I'm sure we'll be able\nto handle things.=Como sea, parece que tenemos personal más que suficiente, así que seguro podremos con todo.
+It... doesn't seem like there are many people\nvisiting the beach, after all.=Después de todo... no parece que haya mucha gente visitando la playa.
+Hmm, you got a point... Shouldn't there be\nmore people here on a day like this?=Hmm, tienes razón... ¿No debería haber más gente aquí en un día como este?
+And now that you mention it, aren't there a\nlot of shops around? There're two beach\nshacks just right here.=Y ahora que lo dices, ¿no hay un montón de tiendas por aquí? Hay dos puestos de playa justo aquí mismo.
+It used to get a lot more crowded in the\npast. Even with two shops, it would still be\npacked.=Solía haber muchísima más gente antes. Incluso con las dos tiendas, igual estaría llenísimo.
+Is there a reason why it's died down?=¿Hay alguna razón por la que se haya calmado tanto?
+Oh! Maybe there's, like, a ghost or a shark\nor something chasing all the people away?=¡Oh! ¿A lo mejor hay como un fantasma o un tiburón o algo así espantando a toda la gente?
+I... don't think that's it.=Yo... no creo que sea eso.
+Actually, there are a lot of ghost stories\nfloating around.=De hecho, hay muchas historias de fantasmas circulando por ahí.
+You serious!?=¡¿Hablas en serio?!
+Yes. The stories have been around a long\ntime, but they've been spreading a lot\nrecently...=Sí. Son historias muy viejas, pero se han estado difundiendo muchísimo últimamente...
+Apparently someone posted online about\nsomething they saw just yesterday.=Al parecer, alguien publicó en internet sobre algo que vio ayer mismo.
+That might be why we've been getting fewer\nvisitors in recent years...=Quizá por eso hayamos tenido menos visitantes en los últimos años...
+They mentioned it earlier when I stopped by\nthe chamber of commerce.=Lo mencionaron hace poco cuando pasé por la cámara de comercio.
+Sounds like those stories are causing a lot\nof headaches...=Parece que esas historias están causando muchos dolores de cabeza...
+Y-You think it's true? Ghosts...?=¿C-Crees que sea verdad? ¿Fantasmas...?
+But even despite all of that, Shirosato Beach\nis still popular.=Pero a pesar de todo eso, la playa Shirosato sigue siendo popular.
+Oh, that reminds me! They told me something\nelse at the chamber of commerce...=¡Ah, es verdad! Me contaron otra cosa en la cámara de comercio...
+They're expecting a lot more people to show\nup later today.=Esperan que venga mucha más gente hoy más tarde.
+Something about a TV program, and a famous\nactor coming by...?=¿Algo sobre un programa de televisión y la visita de un actor famoso...?
+A TV program?=<size\=26>¿Un programa de televisión?</size>
+A famous actor?=¿Un actor famoso?
+Yeah. He's popular with young people, so\nthey're expecting a lot of fans to show up to\nsee him.=Sí. Es popular entre los jóvenes, así que esperan que vengan muchos fans a verlo.
+Really? Who is it? Anyone we would know?=¿En serio? ¿Quién es? ¿Alguien que conozcamos?
+Sorry, that's about all I know. I think they\nsaid his name, but I can't remember what it\nwas...=Lo siento, eso es todo lo que sé. Creo que dijeron su nombre, pero no recuerdo cuál era...
+But they filmed a new movie here at Shirosato\nBeach, and he's the lead star.=Filmaron una película nueva aquí en la playa de Shirosato y él es el protagonista.
+So I think they were coming here to shoot a\ntie-in program or something...=Así que creo que venían a grabar un programa promocional o algo así...
+That makes sense. I imagine it would be good\npublicity.=Tiene sentido. Me imagino que será buena publicidad.
+If the TV crew's comin' later today, that'll\nbe peak business hours for us.=Si el equipo de televisión viene más tarde, eso coincidirá con nuestra hora pico.
+Sounds like it'll be tough, but don't worry,\nMinami! We'll get through this together!=Parece que será difícil, ¡pero no te preocupes, Minami! ¡Saldremos de esta juntas!
+Right! I'm looking forward to it!=¡Exacto! ¡Qué ganas tengo!
+Now, let's all get to our posts. It seems\nwe're starting to get some more customers.=Ahora, a nuestros puestos. Parece que ya empiezan a llegar más clientes.
+Leave kitchen duty to me... Hope you're ready\nto be blown away!=Déjame la cocina a mí... ¡Espero que estés listo para quedar boquiabierto!
+{{A}} and Minami, you're on break. Just\ntake it easy until your shift.={{A}} y Minami, están de descanso.\n¡Relájense hasta que empiece su turno!
+Oh, right! Before you go, Minami, could you\nshow me how to work the shaved ice machine\nreal quick?=¡Ah, es verdad! Antes de que te vayas, Minami,\n¿podrías enseñarme rápido cómo funciona la máquina de granizados?
+Do you have a moment as well, {{A}}?=¿Tienes un momento tú también, {{A}}?
+Lufel came with you too, right? Do you know\nwhere he is?=Lufel vino contigo también, ¿verdad?\n¿Sabes dónde está?
+Good to see you, Lufel. You seem to be\nenjoying yourself.=Qué bueno verte, Lufel. Parece que te estás divirtiendo.
+Hoohoo. Unfortunately, I have been informed\nI am not permitted inside the establishment.=Hoohoo. Por desgracia, me han informado de que no tengo permitido entrar al establecimiento.
+I see. I suppose that's unavoidable. We\nwouldn't want a visit from the health\ninspector.=Ya veo. Supongo que es inevitable. No queremos una visita del inspector de sanidad.
+Be at ease. This restaurant was not the\nprimary reason for my visit.=Descuida. Este restaurante no era el motivo principal de mi visita.
+No need to act cool.=<size\=26>No hace falta que te hagas el interesante.</size>
+Why did you come, then...?=¿A qué viniste entonces...?
+I sensed powerful desires in this area. I had\nno choice but to come here.=Sentí deseos muy fuertes en esta zona. No tuve otra opción más que venir aquí.
+I told you, that was not my intention in the\nslightest. I'm here because I sensed powerful\ndesires in this area.=Te dije que esa no era mi intención en lo más mínimo. Estoy aquí porque sentí deseos poderosos en esta zona.
+In fact, it was I who suggested calling all\nof you here to help.=De hecho, fui yo quien sugirió llamarlos a todos ustedes aquí para ayudar.
+I see. So that was your plan.=Ya veo. Así que ese era tu plan.
+By the way, Lufel, would you be able to help\nout at the beach shack as well?=Por cierto, Lufel, ¿podrías ayudar también en el puesto de la playa?
+Hoo?=¿Hoo?
+Did I not just explain that I am not\npermitted to enter? I don't suppose you're\nexpecting me to wait tables, are you?=¿No acabo de explicar que no tengo permitido entrar? No pretenderás que atienda las mesas, ¿verdad?
+Yes, I know. I wouldn't ask you to do that.=Sí, lo sé. No te pediría que hicieras eso.
+But perhaps you could act as a mascot of\nsorts? I believe your outfit could attract\nthe attention of potential customers.=Pero ¿quizás podrías actuar como una especie de mascota? Creo que tu atuendo llamaría la atención de los clientes potenciales.
+Hoom... Are you proposing that I myself\nmight serve as a catalyst for gathering\ndesires...!?=Hoom... ¡¿Estás sugiriendo que yo mismo podría servir como catalizador para reunir deseos...?!
+Indeed. And perhaps we could even give you\nthe title of Interim Store Manager?=Exacto. ¿Y quizás incluso podríamos darte el título de Gerente Provisional de la tienda?
+A tempting offer... but I expect compensation\nbefitting my position.=Una oferta tentadora... pero espero una compensación a la altura de mi posición.
+Compensation...?=¿Compensación...?
+Meat! I'm talking about meat!=¡Carne! ¡Hablo de carne!
+I demand nothing less than the most\ndelectable meat available!=¡Exijo nada menos que la carne más deliciosa que puedan encontrar!
+We have frankfurters. Would that suffice?=Tenemos salchichas. ¿Eso te bastaría?
+Hoohoo! I dare say we have a deal.=¡Hoohoo! Me atrevería a decir que tenemos un trato.
+Lufel became the beach shack\nmascot... I mean, the Interim\nManager...=Lufel se convirtió en la mascota\ndel puesto de la playa... digo,\nen el Gerente Interino...
+Hehe. Lufel seems pretty happy about\nsomething.=Jeje. Lufel parece bastante feliz por algo.
+And... thanks for calling your friends.\nI feel like a weight's been lifted off my\nshoulders.=Y... gracias por llamar a tus amigos. Siento que me quité un peso de encima.
+The real work starts here.=Aquí es donde empieza el trabajo de verdad.
+I should call Dad and let him know how things\nare going!=¡Debería llamar a mi papá y contarle cómo van las cosas!
+I arrived not long after you did. I was just\nwatching your most commendable efforts at\nrestaurant management.=Llegué poco después de que tú lo hicieras.\nSolo estaba observando tus admirables esfuerzos en la gestión del restaurante.
+It is my duty to support you once again if\nyou choose to face the perils of summer...=Es mi deber apoyarte una vez más si decides enfrentar los peligros del verano...
+Perils of summer?=¿Los peligros del verano?
+Once again?=¿Una vez más?
+...Perhaps my wording was misleading.=...Tal vez mis palabras fueron confusas.
+I am not merely speaking of summer. I am\nreferring to my constant support in your\nefforts to strengthen your desire.=No solo me refiero al verano. Me refiero a mi apoyo constante en tus esfuerzos por fortalecer tu deseo.
+Please be mindful that this also constitutes\nthe duties of a concierge.=Ten en cuenta que esto también forma parte de los deberes de un conserje.
+Now then, if you will excuse me, I am off to\nsample the Blue Hawaii flavor of shaved ice.=Ahora bien, si me disculpas, me voy a probar el sabor Blue Hawaii del hielo raspado.
+
+Spooky Sightings=Avistamientos Espeluznantes
+Shirosato Beach in the Metaverse=Playa Shirosato en el Metaverso
+Lead Actor Shoki Ikenami=Actor principal Shoki Ikenami
+Paranormal Investigation=Investigación Paranormal
+
+
+
++--Misiones Secundaria Historia--+
+
+Shark Specialties=Especialidades de Tiburón
+
+Shirosato Beach is quiet and nearly empty. Worried about the dwindling customers, Minami comes up with a plan to make the most out of the movie's tie-in program...=La playa Shirosato está tranquila y casi vacía. Preocupada por la falta de clientes, Minami piensa en un plan para aprovechar al máximo el programa promocional de la película...
+
+Not too many customers coming our way.=No están viniendo muchos clientes.
+Not too many beachgoers period...=No están viniendo muchos bañistas, punto.
+I guess if no one's coming to the beach in\nthe first place, we won't be getting any\ncustomers...=Supongo que si nadie viene a la playa para empezar, no vamos a tener ningún cliente...
+What should I do? I've already stocked up on\ningredients...=¿Qué debería hacer? Ya compré todos los ingredientes...
+Let's do what we can.=Hagamos lo que podamos.
+We still have a chance.=<size\=28>Todavía tenemos una oportunidad.</size>
+You're right. I won't give up!=Tienes razón. ¡No me rendiré!
+Like you said, there's still a chance, and we\ncan't let go of it.=Tal como dijiste, todavía hay una oportunidad, y no podemos dejarla pasar.
+Speaking of chances, I bet we can use that\nmovie premiere going on to our advantage.=Hablando de oportunidades, apuesto a que podemos usar el estreno de esa película a nuestro favor.
+But I guess Ikenami-san isn't here right\nnow....=Pero supongo que Ikenami-san no está aquí ahora...
+What can we do to make the most of this\nsituation?=¿Qué podemos hacer para aprovechar al máximo esta situación?
+Movie-themed costumes?=¿Disfraces de películas?
+A movie-themed menu?=¿Un menú de películas?
+Oh, good idea. The movie's about sharks...=Oh, buena idea. La película es sobre tiburones...
+So maybe people would find it interesting if\nwe served shark?=Así que a lo mejor a la gente le parezca interesante si servimos tiburón.
+They're actually quite tasty, you know.=En realidad son bastante ricos, ¿sabes?
+It's a horror movie, right? So what if we\nmade like, a scary shark platter?=Es una película de terror, ¿no? Entonces,\n¿qué tal si hacemos una bandeja terrorífica de tiburón?
+I actually have some shark fillets the vendor\nthrew in for free. Let's use them to make a\ntest dish.=De hecho, tengo unos filetes de tiburón que\nel proveedor me dio gratis. Hay que usarlos para hacer un plato de prueba.
+Minami and I tried cooking\nshark...=Minami y yo intentamos cocinar\ntiburón...
+Ahhh... What a mess...=Ahhh... Qué desastre...
+I think "horror movie equals dark colors"\nmight be too loose of a connection.=Creo que la conexión de "película de terror es igual a colores oscuros" es muy vaga.
+I tried adding squid ink, soy sauce, seaweed,\nand anything else I could get my hands on,\nbut it's just...=Intenté echarle tinta de calamar, salsa de soja, algas y todo lo que encontré, pero es que...
+Really weird tasting?=¿Sabe muy raro?
+Shark with black food coloring?=¿Tiburón con colorante negro?
+Yeah. I mean, it wasn't inedible, but I\ncouldn't serve it to a customer.=Sí. Digo, no era incomible, pero no se lo podría servir a un cliente.
+Excuse me!=¡Disculpe!
+Hello! I'll be right with you!=¡Hola! ¡Enseguida le atiendo!
+We've got a customer. Maybe the best approach\nis simply providing good service.=Tenemos un cliente. Quizás lo mejor sea simplemente darle un buen servicio.
+Welcome! What can I get you?=¡Bienvenido! ¿Qué le puedo ofrecer?
+Minami and I did our best to\nmake the customer feel\nwelcome...=Minami y yo hicimos nuestro mejor\nesfuerzo para que el cliente\nse sintiera bienvenido...
+
+
+
+Shirosato Gourmet=Gourmet de Shirosato
+
+Summer means food, and food means meat! Oh wait, and ramen!=¡El verano es comida, y la comida es carne! ¡Ah, espera, también ramen!
+
+This beach really is a ghost town, huh?=Esta playa parece un pueblo fantasma,\n¿verdad?
+Honestly, when you called us in, I figured we\nwouldn't get any time to just chill...=Sinceramente, cuando nos llamaste, pensé que no tendríamos ni un momento para relajarnos...
+Man was I wrong. Guess few customers means\nlong breaks.=¡Qué equivocado estaba! Menos clientes significa descansos más largos.
+Not really much to do here but swim though.=Aunque aquí no hay mucho más que hacer que nadar.
+There's always snacks...=Siempre quedan los bocadillos...
+There's always picking up girls...=<size\=28>Siempre se puede intentar ligar a unas minitas...</size>
+No way! I ain't gonna walk up to some girl\nand start hittin' on her!=¡Estás loco! ¡Ni a palos me acerco a una minita a tirarle la onda de la nada!
+But isn't a fleeting summer affair something\nthat all young men desire?=Pero ¿un romance de verano no es algo que desean todos los jóvenes?
+What decade are you from...? Whatever. I'm\njust not into that.=¿De qué década saliste...? En fin, como sea.\nA mí no me interesa eso.
+Really wish there was somethin' else to do\nbesides swimming...=Ojalá hubiera algo más que hacer aparte de nadar...
+Can you not rent out beach balls and banana\nboats from the beach shack?=¿Acaso no alquilan pelotas de playa y botes banana en el puesto de la playa?
+I dunno... Two guys and an owl on a banana\nboat seems kinda...=No sé... Dos tipos y un búho en un bote de banana suena algo...
+I suppose the lack of options for activities\nis one of the reasons this place is so\nvacant.=Supongo que la falta de opciones de actividades es una de las razones por las que este lugar está tan vacío.
+No matter how brilliant of an interim manager\nI am...=No importa qué tan buen gerente interino sea...
+...if there are no people on the beach to\nbegin with, we will have no way of attracting\nthem to the beach shack.=...si de por sí no hay gente en la playa, no vamos a tener forma de atraerlos a la cabaña.
+Seriously, where do you get all that\nconfidence from...?=En serio, ¿de dónde sacas tanta confianza...?
+What would be ideal is if there were some\nsort of special attraction that this coast\npossessed.=Lo ideal sería que esta costa tuviera algo de algún tipo de atracción especial.
+Attraction...? Hmm...=¿Atracción...? Hmm...
+Oh, what about a water slide? Wouldn't a\nbeachside slide be awesome?=Oh, ya se ¿qué tal un tobogán de agua? ¿No estaría genial tener un tobogán frente a la playa?
+Ah, you mean the slippery, ramp-like thing at\nthe swimming pool? That would certainly be\nquite the attraction.=Ah, ¿te refieres a esa cosa resbaladiza tipo rampa de la piscina? Eso definitivamente sería una gran atracción.
+Also... what's it called, parasailing?\nY'know, the flyin' parachute thing.=Y también... ¿cómo se le dice? ¿Vuelo en paracaídas? Ya sabes, la cosa esa de volar con una lancha.
+I see. Humans do indeed yearn to soar the\nskies.=Entiendo. Los humanos sí anhelan surcar los cielos.
+Still, neither of those sound like\nimmediately actionable solutions to our\nproblem.=Aun así, ninguna de esas cosas suena como una solución que podamos aplicar de inmediato a nuestro problema.
+Something we could implement easily would be\nbest...=Lo mejor sería algo que pudiéramos implementar fácilmente...
+Some kind of festival?=¿Algún tipo de festival?
+Like a signature dish?=¿Como un platillo insignia?
+Hoom... A meat festival!=Hmm... ¡Un festival de carne!
+A ramen festival!=¡Un festival de ramen!
+No, it must be meat.=No, tiene que ser carne.
+Imagine the entire shore lined with meat\nstands. Just the thought brings a tear to my\neye!=Imagínate toda la costa llena de puestos de carne. ¡Solo de pensarlo se me sale una lágrima!
+Even those with no interest in the beach will\nbe clambering to try some! *salivate*=¡Hasta los que no tienen interés en la playa van a estar desesperados por probar un poco! *saliva*
+No, no, it's gotta be ramen!=No, no, para nada, ¡tiene que ser ramen!
+We can get all the famous ramen places to set\nup shop on the beach!=¡Podemos hacer que todos los locales de ramen famosos pongan sus puestos en la playa!
+Damn! I'd come halfway 'round the world to\nsee that!=¡Qué locura! ¡Yo viajaría desde el otro lado del mundo solo para ver eso!
+Meat!=¡Carne!
+Hey, {{A}}! What do you think? Ramen or\nmeat?=¡Oye, {{A}}! ¿Qué te parece? ¿Ramen o carne?
+Answer carefully. This is an incredibly vital\ndecision!=Responde con cuidado. ¡Esta es una decisión increíblemente vital!
+I should... choose my words\ncarefully here...=Debo... elegir mis palabras\ncon cuidado aquí...
+M-Meat?=¿C-Carne?
+R-Ramen, maybe?=¿R-Ramen, tal vez?
+I can't decide...=No puedo decidirme...
+Geez, could you guys take any longer!? You're\nsupposed to be back at the shack!=¡Cielos! ¿No podían tardar más? ¡Se supone que ya deberían estar en el puesto!
+Your shifts started, but none of you showed\nany sign of coming back, so I came to get\nyou!=¡Ya empezaron sus turnos y nadie aparecía!\n¡Así que vine a buscarlos!
+Crap, it's that time already!? My bad!=¡Rayos! ¡¿Ya es la hora?! ¡Culpa mía!
+It seems we got too carried away with our\ndiscussion...=Parece que nos dejamos llevar demasiado con nuestra charla...
+My savior...=Mi salvadora...
+Motoha, thank god you're here.=Motoha, menos mal que estás aquí.
+Huh? You're that glad I came to get you?=¿Eh? ¿Tanto te alegra que viniera a buscarte?
+Don't mention it, just hurry back! It's\ngetting a little crazy over there!=¡No hay de qué, solo muévanse! ¡La cosa se está poniendo medio loca por allá!
+We headed back to the beach\nshack and got to work...=Regresamos al puesto de la\nplaya y nos pusimos\na trabajar...
+
+
++--Mision--+
+The Curse of Shirosato Beach=La Maldición de la Playa de Shirosato
+
++--UI--+
+
+Haunted Beach Shack: The Curse of Shirosato Beach\nPlay through the event to earn a variety of rewards!\n*The story of this event is separate from the main story.=La Cabaña Playera Embrujada: La Maldición de la Playa de Shirosato.\n¡Juega el evento para obtener diversos premios!\n*La historia de este evento es independiente de la trama principal.
+Riko Outfit:=Atuendo de Riko:
+Business Permit=Permiso Comercial
+r:"^Gain (\d+) Beach Coins$"="Gana $1 Monedas de Playa"
+Log in for 6 days to receive <size\=66><sprite\=19></size> x7=¡Inicia sesión durante 6 días para recibir <size\=66><sprite\=19></size> x7
+Jul 15 - Jul 29=Del 15 hasta 29 de julio
+r:"^<sprite\=(.+)><sprite\=(.+)><sprite\=(.+)>\nDirectly affects base earnings\.\n<sprite\=(.+)><sprite\=(.+)>\nAdditional business effects on shops:\n(\d+)\% - (\d+)\%: Increased Earnings\n(\d+)\% - (\d+)\%: No effects\n(\d+)\% - (\d+)\%: Decreased Earnings$"="<sprite\=$1><sprite\=$2><sprite\=$3>\nAfecta directamente a las ganancias base.\n<sprite\=$4><sprite\=$5>\nEfectos comerciales adicionales en las tiendas:\n$6% - $7%: Ganancias aumentadas\n$8% - $9%: Sin efectos\n$10% - $11%: Ganancias disminuidas"
+r:"^Upgrade Beach Shack to Lv\. (\d+) to unlock\.$"="Mejora la cabaña de playa a Nv. $1 para desbloquear."
+r:"^Can upgrade after Beach Shack Lv\. (\d+)\.$"="Se puede mejorar después de la cabaña de playa Niv. $1."
+You can't open right now. Would you like to switch to business hours and start Beach Shack Business?=No puedes abrir en este momento. ¿Quieres cambiar al horario comercial y empezar el negocio en la Cabaña de la Playa?
+Don't show again today=No volver a mostrar hoy.
+r:"^\+(\d+)\% ratings gained by Night activities$"="+ $1% de valoraciones obtenidas en actividades nocturnas"
+Clearing Beach Shack Problems in Event Story will allow you to resume doing business. Do you want to track this?=Resolver los problemas de la cabaña de la playa en la historia del evento te permitirá reanudar el negocio. ¿Quieres realizar un seguimiento?
+Clear the goal to unlock=Cumple el objetivo para desbloquear
+Complete the previous story=Completa la historia anterior
+Rare Conch Shell=Caracola Rara
+Obtainable from the Haunted Beach Shack: The Curse of Shirosato Beach event. Can be exchanged for event rewards in the Event Exchange Shop.=Se puede obtener en el evento La Cabaña Playera Embrujada: La Maldición de la Playa de Shirosato. Se puede canjear por recompensas en la tienda de intercambio del evento.
+Rewards will be sent to your Inbox after the event ends and Beach Coins will be reset.=Las recompensas se enviarán a tu buzón una vez finalizado el evento y las Monedas de Playa se restablecerán.
+Total Earned=Total Ganado
+Converts to Money <size\=40><sprite\=4></size> after the event ends=Se convierte en dinero <size\=40><sprite\=4></size> al finalizar el evento
+r:"^(\d+) until Summer at Chigusa: Open$"="$1 hasta Verano en Chigusa: Abierto"
+r:"^\(After limit, converts at ([\d.]+)% of Beach Coins\)$"="(Después del límite, se convierte al $1% de las Monedas de Playa)"
+r:"^1\. Increase success rate by <color\=#FFD145>(\d+)\%</color>\.\n2\. Increase <sprite\=5> by <color\=#FFD145>(\d+)</color>\.$"="1. Aumenta la probabilidad de éxito en un <color\=#FFD145>$1%</color>.\n2. Aumenta <sprite\=5> en <color\=#FFD145>$2</color>."
+Activity Skill=Habilidad de Actividad
+r:"^1\. Increase success rate by (\d+)\%\.\n2\. Increase <sprite\=5> by (\d+)\.$"="1. Aumenta la probabilidad de éxito en un $1%.\n2. Aumenta <sprite\=5> en $2."
+r:"^At start of day, increase <sprite\=8> by (\d+)\%→(\d+)\%\.$"="Al inicio del día, aumenta <sprite\=8> del $1%→$2%."
+Required for opening the beach shack. Receive 2 every day.=Necesario para abrir la cabaña de la playa. Recibes 2 cada día.
+r:"^Gain ([\d,]+) Beach Coins in (\d+) business day $"="Obtén $1 Beach Coins en $2 día comercial"
+Changes Shun's appearance to his swimsuit.\nCan be obtained by spending Rare Conch Shells in the Event Exchange Shop.=Cambia la apariencia de Shun a su traje de baño. Se puede obtener gastando Caracola Rara en la tienda de intercambio de eventos.
+Promoting the Beach Shack=Promocionar el Puesto de la Playa
+r:"^Unlocked after upgrading Beach Shack to Lv\. (\d+)\.$"="Se desbloquea tras subir la Tienda de playa al Nv. $1."
+
+Do you want to track the mission Shark Specialties?=¿Quieres seguir la misión Especialidades de Tiburón?
+Do you want to track the mission Shirosato Gourmet?=¿Quieres seguir la misión Gourmet de Shirosato?
+
+
++--Tutoriales--+
+Beach Shack Business=Negocio de la cabaña de playa
+<color\=#FF423F>Beach Shack Business</color> has begun!\nWork at the beach shack, earn Beach Coins, and complete <color\=#FF423F>Goals</color> to earn a variety of rewards.=¡El <color\=#FF423F>Negocio de la cabaña de playa</color> ha comenzado!\nTrabaja en la cabaña de playa, gana Monedas de Playa y completa los <color\=#FF423F>Objetivos</color> para ganar una variedad de recompensas.
+Make <color\=#FF423F>preparations</color> before opening the shop!=¡Haz los <color\=#FF423F>preparativos</color> antes de abrir la tienda!
+Each <color\=#FF423F>staff member</color> has a unique ability.\n<color\=#FF423F>Minami Miyashita</color> has a set chance of increasing the activities you can choose from.=Cada <color\=#FF423F>miembro del personal</color> tiene una habilidad única.\n<color\=#FF423F>Minami Miyashita</color> tiene una probabilidad fija de aumentar las actividades entre las que puedes elegir.
+
+<color\=#FFD145>Event Rules</color>\nDuring the event, help run the beach shack Chigusa and earn Beach Coins!\n\n<color\=#FFD145>Flow of Business</color>\nBusiness Day: Each day is divided into three time slots: Daytime, Evening, and Night. Within each time slot, you have a certain number of actions (Daytime: 6, Evening: 6, Night: 5).\nShop Upgrades and Staff Training: Before each business day, you can spend Beach Coins to upgrade your facilities and staff.\nSelecting staff: You can select which staff members work on each business day. Your selected staff members' effects will activate while they work.\nActions: Depending on the actions you select, various events can occur. Some events present choices for you to make, which can affect your Revenue.\nBusiness results: When business has finished, you will earn Beach Coins and Business Tips depending on your results.\n\n<color\=#FFD145>Rules and Goals</color>\nEvents: Each business day, you will gain random effects.\nSelecting staff: Select staff based on your event effects to boost your Revenue.\n\n<color\=#FFD145>Staff Stamina</color>\nStamina: Each action you select will decrease your staffs' stamina. Staff members who aren't working will have their stamina recovered at the end of the day.\nStamina influences the success rate of events.\n20: Decrease to 30%\n20 - 50: Decrease to 90%\n50: No effect\nStaff-specific events: Affects the specific staff member's stamina.\nRegular events: Affects the staff member with the highest stamina at the time it occurs.\n\n<color\=#FFD145>Actions</color>\nFor each action, you can select an event.\nYou can gain more rewards based on their rarity.\nAs you level up your stores and staff members' abilities, you can unlock new events.\nCertain events have choices, offering different effects depending on the choice.\n\n<color\=#FFD145>Business Goals</color>\nAt the start of business, 3 goals are set, and if you complete them, you can gain additional Revenue.=<color\=#FFD145>Reglas del evento</color>\n¡Durante el evento, ayuda a gestionar la cabaña de la playa, Chigusa, y gana monedas de playa!\n\n<color\=#FFD145>Flujo del negocio</color>\nDía comercial: cada día se divide en tres franjas horarias: mañana, tarde y noche. Dentro de cada franja horaria, tienes un número determinado de acciones (mañana: 6, tarde: 6, noche: 5).\nMejoras de la tienda y entrenamiento del personal: antes de cada día comercial, puedes gastar monedas de playa para mejorar tus instalaciones y al personal.\nSelección de personal: puedes elegir qué miembros del personal trabajarán cada día comercial. Los efectos de los miembros elegidos se activarán mientras trabajen.\nAcciones: según las acciones que elijas, pueden ocurrir varios eventos. Algunos eventos presentan opciones que afectarán tus ingresos.\nResultados comerciales: cuando termine la jornada, ganarás monedas de playa y propinas comerciales según tus resultados.\n\n<color\=#FFD145>Reglas y objetivos</color>\nEventos: cada día comercial obtendrás efectos aleatorios.\nSelección de personal: elige al personal en función de los efectos de los eventos para aumentar tus ingresos.\n\n<color\=#FFD145>Resistencia del personal</color>\nResistencia: cada acción que elijas reducirá la resistencia de tu personal. Los miembros del personal que no estén trabajando recuperarán su resistencia al final del día.\nLa resistencia influye en la tasa de éxito de los eventos.\nMenos de 20: disminuye al 30%\nDe 20 a 50: disminuye al 90%\nMás de 50: sin efecto\nEventos específicos del personal: afectan la resistencia del miembro del personal específico.\nEventos regulares: afectan al miembro del personal con mayor resistencia en el momento en que ocurren.\n\n<color\=#FFD145>Acciones</color>\nPor cada acción, puedes seleccionar un evento.\nPuedes ganar más de acuerdo con su rareza.\nA medida que subas de nivel tus tiendas y las habilidades del personal, podrás desbloquear nuevos eventos.\nCiertos eventos tienen opciones que ofrecen diferentes efectos según tu elección.\n\n<color\=#FFD145>Objetivos comerciales</color>\nAl comenzar la jornada se establecen 3 objetivos; si los completas, podrás ganar ingresos adicionales.
+
+
+Beach Shack Business: Shop Ratings=Negocio en la cabaña de la playa: Calificaciones de la tienda
+At the beach shack, there are five <color\=#FF423F>ratings</color> that affect your daily sales.\n<color\=#FF423F>Revenue</color>, <color\=#FF423F>Foot Traffic</color>, and <color\=#FF423F>Buzz</color> affect your base earnings on a given day.=En la cabaña de la playa hay cinco <color\=#FF423F>calificaciones</color> que afectan tus ventas diarias.\nLos <color\=#FF423F>Ingresos</color>, el <color\=#FF423F>Tráfico Peatonal</color> y la <color\=#FF423F>Popularidad</color> afectan tus ganancias base en un día determinado.
+<color\=#FF423F>Safety</color> and <color\=#FF423F>Service</color> affect your shop's business.\n90~100%: Positive Effect\n60~90%: No Effect\n0~60%: Negative Effect=La <color\=#FF423F>Seguridad</color> y el <color\=#FF423F>Servicio</color> afectan el negocio de tu tienda.\n90~100%: Efecto positivo\n60~90%: Sin efecto\n0~60%: Efecto negativo
+
+The activity effect for this Business Day is increased <color\=#FF423F>Foot Traffic</color>.\nSelect Foot Traffic activities to gain the maximum effect.=El efecto de actividad para este día comercial es un mayor <color\=#FF423F>tráfico peatonal</color>.\nSelecciona actividades de tráfico peatonal para obtener el máximo efecto.
+
+Beach Shack Business: Rare Activities=Negocio en la cabaña de la playa: Actividades raras
+An activity's <color\=#FF423F>rarity</color> will determine the rewards you earn.\nActivities marked with <color\=#FF423F>STORY</color> offer choices, and depending on the choice you make, you will earn differing effects.=La <color\=#FF423F>rareza</color> de una actividad determinará las recompensas que obtengas.\nLas actividades marcadas como <color\=#FF423F>HISTORIA</color> ofrecen opciones y, dependiendo de la elección que hagas, obtendrás efectos diferentes.
+
+A <color\=#FF423F>rare activity</color> is occurring.\nBe sure to take advantage of it!=Se está produciendo una <color\=#FF423F>actividad rara</color>.\n¡Asegúrate de aprovecharla!
+
+Each choice offers different effects.\nBe sure to pick carefully.=Cada opción ofrece efectos diferentes.\nAsegúrate de elegir con cuidado.
+
+Press <color\=#FF423F>Yes</color> to view the <color\=#FF423F>event story</color>.=Presiona <color\=#FF423F>Sí</color> para ver la <color\=#FF423F>historia del evento</color>.
+
+
+
++--Jefe--+
+
++--Misiones--+
+
+r:"^Upgrade Beach Shack to Lv\. (\d+) \((\d+)\/(\d+)\)$"="Mejora la cabaña de playa a Nv. $1 ($2/$3)"
+r:"^Complete (\d+) business days \((\d+)\/(\d+)\)$"="Completa $1 días comerciales ($2/$3)"
+r:"^Gain ([\d,]+) Beach Coins in (\d+) business day$"="Obtén $1 Monedas de Playa en $2 día comercial"
+r:"^Trigger (\d+) story activities \((\d+)\/(\d+)\)$"="Completa $1 Actividades de la Historia ($2/$3)"
+r:"^Clear (\d+) Side Stories total \((\d+)\/(\d+)\)$"="Completa $1 Historias Secundarias en total ($2/$3)"
+r:"^Clear Event Story Chapter (\d+)\s*$"="Completa el Capítulo $1 de la Historia del Evento"
+
++--Evento--+
+r:"^Select purple activities (\d+) times$"="Selecciona actividades moradas $1 veces"
+r:"^Reach (\d+) Earnings$"="Alcanza $1 de Ganancias"
+r:"^Reach (\d+) Foot Traffic$"="Alcanza $1 de Afluencia"
+r:"^\+(\d+)% Foot Traffic at end of day \(can exceed max Foot Traffic\)$"="+$1% de Afluencia al final del día (puede superar la Afluencia máx.)"
+Overview=Resumen
+Abilities=Habilidades
+r:"^Skill (\d+)$"="Habilidad $1"
+Base Ability=Habilidad Base
+Shop Management Status=Estado de Gestión de la Tienda
+Estimated Earnings=Ganancias Aprox.
+r:"^Increase <sprite\=(.+)>$"="Aumenta <sprite\=$1>"
+Activity=Actividad
+r:"^(\d+)\% Success$"="$1% de éxito"
+Event Earnings=Ganancias de Evento
+Base Earnings=Ganancias Base
+Revenue=Ingresos
+Today's Goals=Objetivos de Hoy
+Business Tips=Consejos de Negocios
+Today's Total Earnings=Ganancias Totales de Hoy
+Rare Activities=Actividades Raras
+Base Earnings Multiplier=Multiplicador de Ganancias Base
+Available Staff Members=Miembros del Personal Disponibles
+New Staff=Personal Nuevo
+New Shop=Nueva Tienda
+r:"^Gain ([\d,]+) Beach Coins$"="Gana $1 Monedas de Playa"
+r:"^Select rare activities (\d+) times$"="Selecciona actividades raras $1 veces"
+r:"^(\d+)% chance for (\d+) additional activity\.$"="$1% de probabilidad de obtener $2 actividad adicional."
+r:"^Select (\d+)/(\d+) staff members\.$"="Selecciona $1/$2 miembros del personal."
+<color\=#FF423F>Lufel</color> can greatly increase Foot Traffic.=<color\=#FF423F>Lufel</color> puede aumentar considerablemente el tráfico peatonal.
+r:"^At start of day, increase <sprite\=8> by (\d+)%\.$"="Al inicio del día, aumenta <sprite\=8> en un $1%."
+r:"^Beach Shack Lv\.(\d+)$"="Cabaña de playa Nv.$1"
+r:"^Rental Shop Lv\.(\d+)$"="Tienda de alquiler Nv.$1"
+Spooky Seaside Stories=Historias Espeluznantes Junto al Mar
+Speaking of Shark Movies=Hablando de Películas de Tiburones
+Beach Shack Business Plan=Plan de Negocios de la Cabaña de la Playa
+Riko's Business Plan=Plan de Negocios de Riko
+
+
+Spatula Superstar=Superestrella de la Espátula
+Leading Actor's Leading Worries=Las Principales Preocupaciones del Actor Principal
+Increase <sprite\=7> gained from activities by 15%.=Aumenta el <sprite\=7> obtenido en las actividades en un 15%.
+If <sprite\=5> is less than 800, increase <sprite\=5> gained from activities by 20%.=Si el <sprite\=5> es inferior a 800, aumenta el <sprite\=5> obtenido en las actividades en un 20%.
+
+
+People are saying the rest\narea is very comfortable...=La gente dice que el área de\ndescanso es muy cómoda...
+There's a guest in an\neccentric-looking outfit. I hope\nthey don't cause any trouble...=Hay un visitante con un atuendo\nmuy raro. Espero que no nos\ncause problemas...
+
+Option 1: Increase <sprite\=8>\nOption 2: Chance to increase <sprite\=8> more=Opción 1: Aumenta <sprite\=8>\nOpción 2: Probabilidad de aumentar más <sprite\=8>
+
+
+r:"^1\. Increase success rate by <color\=#FFD145>(\d+)%</color> for next activity, and increase ratings gained by <color\=#FFD145>(\d+)%</color>\n2\. Decrease success rate by <color\=#FFD145>(\d+)%</color> for next activity, but increase ratings gained by <color\=#FFD145>(\d+)%</color>\.$"="1. Aumenta la tasa de éxito en un <color\=#FFD145>$1%</color> para la siguiente actividad, y aumenta las valoraciones obtenidas en un <color\=#FFD145>$2%</color>.\n2. Disminuye la tasa de éxito en un <color\=#FFD145>$3%</color> para la siguiente actividad, pero aumenta las valoraciones obtenidas en un <color\=#FFD145>$4%</color>."
+
+
+From now on, +10% <sprite\=8> gained by activities=De ahora en adelante, +10% de <sprite\=8> obtenido en las actividades
+
+#Minami Efecto
+r:"^<color\=#FFD145>(\d+)%</color> chance for (\d+) additional activity\.$"="<color\=#FFD145>$1%</color> de probabilidad de obtener $2 actividad adicional."
+1. Increase the frequency of rare activities.\n2. In next activity that increases <sprite\=5>, increase <sprite\=5> by 35% =1. Aumenta la frecuencia de actividades raras.\n2. En la próxima actividad que aumente <sprite\=5>, aumenta <sprite\=5> en un 35%.
+1. Increase the frequency of rare activities.\n2. In next activity that increases <sprite\=5>, increase <sprite\=5> by <color\=#FFD145>35%</color> =1. Aumenta la frecuencia de actividades raras.\n2. En la próxima actividad que aumente <sprite\=5>, aumenta <sprite\=5> en un <color\=#FFD145>35%</color>.
+
+#Lufel Efecto
+At start of day, increase <sprite\=8> by <color\=#FFD145>30%</color>.=Al iniciar el día, aumenta <sprite\=8> un <color\=#FFD145>30%</color>.
+1. Increase <sprite\=5><sprite\=7> based on 2% of current <sprite\=8>.\n2. 50% chance to increase <sprite\=8> by 66.=1. Aumenta <sprite\=5><sprite\=7> un 2% de <sprite\=8> act.\n2. 50% prob. de subir <sprite\=8> en 66.
+1. Increase <sprite\=8> by <color\=#FFD145>28</color>.\n2. 70% chance to increase <sprite\=8> by <color\=#FFD145>45</color>.=1. Aumenta <sprite\=8> en <color\=#FFD145>28</color>.\n2. 70% prob. de subir <sprite\=8> en <color\=#FFD145>45</color>.
+1. Increase <sprite\=5><sprite\=7> based on <color\=#FFD145>2%</color> of current <sprite\=8>.\n2. 50% chance to increase <sprite\=8> by <color\=#FFD145>66</color>.=1. Aumenta <sprite\=5><sprite\=7> un <color\=#FFD145>2%</color> de <sprite\=8> act.\n2. 50% prob. de subir <sprite\=8> en <color\=#FFD145>66</color>.
+
+#Efecto Shun
+r:"^1\. Decrease {{A}}'s stamina by (\d+), and increase <sprite\=7> gained from activities in current time slot by <color\=#FFD145>(\d+)\%</color>\.\n2\. Increase<sprite\=7> by <color\=#FFD145>(\d+)</color>\.$"="1. Baja la resistencia de {{A}} en $1 y aumenta un <color\=#FFD145>$2%</color> el <sprite\=7> de activ. del turno act.\n2. Aumenta <sprite\=7> en <color\=#FFD145>$3</color>."
+r:"^Increase <sprite\=7> gained from activities by (\d+)\%→(\d+)\%\.$"="Aumenta <sprite\=7> obtenido en actividades un $1%→$2%."
+r:"^1\. Increase <sprite\=7> from <sprite\=7> activities by (\d+)\%, and decrease <sprite\=9><sprite\=6> by (\d+)\.\n2\. Increase <sprite\=6> by (\d+)\.$"="1. Aumenta <sprite\=7> de activ. <sprite\=7> un $1% y baja <sprite\=9><sprite\=6> en $2.\n2. Aumenta <sprite\=6> en $3."
+r:"^1\. Increase <sprite\=5> from <sprite\=6> activities by <color\=#FFD145>(\d+)</color>\.\n2\. Increase <sprite\=5> by <color\=#FFD145>(\d+)</color>\.$"="1. Aumenta <sprite\=5> de activ. <sprite\=6> en <color\=#FFD145>$1</color>.\n2. Aumenta <sprite\=5> en <color\=#FFD145>$2</color>."
+r:"^1\. Increase <sprite\=7> from <sprite\=7> activities by <color\=#FFD145>(\d+)\%</color>, and decrease <sprite\=9><sprite\=6> by (\d+)\.\n2\. Increase <sprite\=6> by <color\=#FFD145>(\d+)</color>\.$"="1. Aumenta <sprite\=7> de activ. <sprite\=7> un <color\=#FFD145>$1%</color> y baja <sprite\=9><sprite\=6> en $2.\n2. Aumenta <sprite\=6> en <color\=#FFD145>$3</color>."
+r:"^Increase <sprite\=7> gained from activities by <color\=#FFD145>(\d+)\%→(\d+)\%</color>\.$"="Aumenta <sprite\=7> obtenido en actividades un <color\=#FFD145>$1%→$2%</color>."
+
+##Zonas de Playa
+Beach Shack=Cabaña de la Playa
+Shaved Ice Stand=Puesto de Granizados
+Yakisoba Stand=Puesto de Yakisoba
+Info Tent=Puesto de Info
+Rental Shop=Tienda de Alquiler
+Trash Area=Zona de Basura
+Fishing Spot=Zona de Pesca
+Volleyball Court=Cancha de Voleibol
+Lifeguard Stand=Puesto de Salvavidas
+
+
+##Elección de acciones
+
+#lufel
+Aww, he flew away...!=¡Oh, se fue volando!
+That's because you were petting his head!\nHe obviously didn't like that. Probably.=¡Eso es porque le estabas acariciando la cabeza!\nObviamente no le gustó. Probablemente.
+But he's so cute...! Oh, excuse me, waiter!\nIs this owl the shop pet?=¡Pero si es tan lindo...! ¡Oh, disculpe, mesero!\n¿Este búho es la mascota de la tienda?
+I'd really love to pet him... Oh, please can I\npet him? Please!?=De verdad me encantaría acariciarlo... ¡Oh, por favor! ¿Puedo\nacariciarlo? ¿Por favor?
+It's a matter of how...! She was quite\nliterally ruffling my feathers a moment\nago...!=¡Es cuestión de cómo hacerlo...! Literalmente me estaba\nerizando las plumas hace un momento...
+<color\=#0F69CA>Petting costs extra...</color>\n70% chance for +45 Foot Traffic.=<color\=#0F69CA>Acariciarlo cuesta extra...</color>\n70% de probabilidad de obtener +45 de tráfico peatonal.
+<color\=#0F69CA>Just a photo should be fine...</color>\n+28 Foot Traffic.=<color\=#0F69CA>Solo una foto debería bastar...</color>\n+28 de tráfico peatonal.
+People paid to take a photo\nwith Lufel...=La gente pagó para tomarse\nuna foto con Lufel...
+
+#eventos aleatorios
+Time slipped by peacefully...=El tiempo pasó tranquilamente...
+The publicity event for\nSharkmageddon seems to be\npretty popular...=El evento de publicidad de\nSharkmageddon parece que está\nbastante popular...
+It became a truly\nmemorable moment...=Se convirtió en un\nmomento verdaderamente\ninolvidable...
+Some customers just came in\nfrom the beach. It'll take a\nwhile to serve them...=Algunos clientes acaban de\nllegar de la playa. Tardaré un\nbuen rato en atenderlos...
+Equipment rentals are pretty\npopular. The line has\ngotten long...=El alquiler de equipos es\nbastante popular. La fila\nse ha alargado...
+Sounds like some good\ningredients came in from the\nbeach shack's supplier...=Parece que han llegado buenos\ningredientes del proveedor de la\ncabaña de la playa...
+There's a lot of takeout\ncustomers. I can't get the\norders done on time...=Hay muchos clientes para llevar.\nNo doy abasto con los pedidos\na tiempo...
+Lufel's photoshoot is pretty\npopular. There's a\nline forming...=La sesión de fotos de Lufel\nes bastante popular. Se\nestá formando una fila...
+
+#Minami
+Option 1: Increase success rate and ratings\nOption 2: Decrease success rate, but greatly increase ratings=Opción 1: Aumenta la tasa de éxito y las calificaciones\nOpción 2: Disminuye la tasa de éxito, pero aumenta considerablemente las calificaciones
+It sounds like it's going to take a while for\nDad's back to heal... I guess I'll have to\ntake over the izakaya during the summer.=Parece que la espalda de mi papá va a tardar un tiempo en sanar... Supongo que tendré que hacerme cargo del izakaya este verano.
+I'm really sorry, {{A}}-kun...=Lo siento mucho, {{A}}-kun...
+Oh yeah, Dad was wondering if there was\nanything giving us trouble at the\nshack.=Ah, por cierto, mi papá se preguntaba si había algo que nos estuviera dando problemas en la cabaña.
+If you have anything you'd like to ask him,\nI'd be happy to pass it on.=Si hay algo que quieras preguntarle,\ncon gusto se lo transmitiré.
+<color\=#0F69CA>Got any customer service tips?</color>\n+10% success rate of next activity, +35% increased ratings.=<color\=#0F69CA>¿Algún consejo de atención al cliente?</color>\n+10% de tasa de éxito en la próxima actividad y +35% de calificaciones.
+<color\=#0F69CA>How can we boost our reputation?</color>\n-25% success rate of next activity, +60% increased ratings.=<color\=#0F69CA>¿Cómo podemos mejorar nuestra reputación?</color>\n-25% de tasa de éxito en la próxima actividad y +60% de calificaciones.
+Minami's father taught us\nstuff about business...=El padre de Minami nos\nenseñó cosas sobre\nel negocio...

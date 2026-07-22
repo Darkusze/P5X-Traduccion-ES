@@ -143,6 +143,8 @@ r:"^Increase party's HP recovery received and shield received (\\d+\\.?\\d*)%, a
 
 r:"^\\s*Psy\\s+dmg\\s+to\\s+(\\d+)\\s+foe\\s*\\((\\d+\\.?\\d*)%\\s*Atk\\)\\s+and\\s+increase\\s+party's\\s+dmg\\s+(\\d+\\.?\\d*)%\\s+for\\s+each\\s+[Mm]ystery\\s*\\((\\d+)\\s+turn\\)\\.\\s*$"="Daño Psíquico a $1 enemigo ($2% ATQ) y aumenta el daño del grupo en $3% por cada Misterio ($4 turno)."
 
+r:"^Psy dmg to all foes \(([\d.]+)% Atk\) When Haru has Target Audience, increase this skill's crit rate by ([\d.]+)% and gain (\d+) Spillover Round\.\\nSpillover Round: When using ranged attack, also deal Psy dmg to all foes \(([\d.]+)% Atk, can gain skill dmg increases from Focused Round\)\.$"="Daño Psíquico a todos los enemigos ($1% de Ataque). Cuando Haru tiene Público Objetivo, aumenta la probabilidad de crítico de esta habilidad un $2% y obtiene $3 Proyectil de Dispersión.\nProyectil de Dispersión: Al usar un ataque a distancia, también inflige daño Psíquico a todos los enemigos ($4% de Ataque, puede beneficiarse de los aumentos de daño de habilidad de Proyectil Enfocado)."
+
 ++-------------Minami Miyashita (Marian)-----------------++
 
 r:"^Bless dmg to (\\d+) foe \\((\\d+\\.?\\d*)% of max HP\\)\\.\\nGrant (\\d+) Blessing to party\\. Gain (\\d+) Diagnosis\\.$"="Inflige daño de Bendición a $1 enemigo ($2 % del PS máximo).\nOtorga $3 Bendición al grupo.\nObtiene $4 Diagnostico."
@@ -470,7 +472,7 @@ r:"Bless dmg to (\d+) foe \(([\d.]+)% Atk\)\.\nAlso, grant (\d+) Blessing to all
 
 r:"Increase Def of (\d+) ally except Shoki ([\d.]+)% per (\d+) of Shoki's Atk \(max ([\d.]+)%\) and null Dizzy, Sleep, Confuse, and Forget \((\d+) turns\)\.\nCooldown: (\d+) turns\."="Aumenta la DEF de $1 aliado (excepto Shoki) en un $2% por cada $3 de ATQ de Shoki (máx. $4%) y anula Mareo, Sueño, Confusión y Olvido ($5 turnos).\nEnfriamiento: $6 turnos."
 
-r:"Increase party's Atk \((\d+)% of Shoki's Atk, max (\d+), (\d+) turns\)\.\nAlso, based on Improv, grant additional effect to main target\.\nBlazing Passion: Increase main target's continuous dmg ([\d.]+)%, and increase ailment accuracy (\d+)% \((\d+) turns\)\.\nChilling Intensity: Increase main target's Technical Precision (\d+)\. Also, when activating technical, increase Atk (\d+)% \((\d+) turns\)\.\nElectrifying Performance: Increase main target's crit dmg ([\d.]+)% \((\d+) turns\)\.\nTempestuous Drama: Increase main target's pierce rate ([\d.]+)% \((\d+) turns\)\."="Aumenta el ATQ del grupo ($1% del ATQ de Shoki, máx. $2, $3 turnos).\nAdemás, basado en Improv, otorga un efecto adicional al objetivo principal.\nPasión Ardiente: Aumenta el daño continuo del objetivo principal un $4% y aumenta la precisión de estado un $5% ($6 turnos).\nIntensidad Gélida: Aumenta la Precisión Técnica del objetivo principal en $7. Además, al activar un técnico, aumenta el ATQ un $8% ($9 turnos).\nInterpretación Electrizante: Aumenta el daño crítico del objetivo principal un $10% ($11 turnos).\nDrama Tempestuoso: Aumenta la tasa de perforación del objetivo principal un $12% ($13 turnos)."
+r:"Increase party's Atk \((\d+)% of Shoki's Atk, max (\d+), (\d+) turns\)\.\nAlso, based on Improv, grant additional effect to main target\.\nBlazing Passion: Increase main target's continuous dmg ([\d.]+)%, and increase ailment accuracy (\d+)% \((\d+) turns\)\.\nChilling Intensity: Increase main target's Technical Precision (\d+)\. Also, when activating technical, increase Atk (\d+)% \((\d+) turns\)\.\nElectrifying Performance: Increase main target's crit dmg ([\d.]+)% \((\d+) turns\)\.\nTempestuous Drama: Increase main target's pierce rate ([\d.]+)% \((\d+) turns\)\."="Aumenta el ATQ del grupo ($1% del ATQ de Shoki, máx. $2, $3 turnos).\nAdemás, basado en Improvisación, otorga un efecto adicional al objetivo principal.\nPasión Ardiente: Aumenta el daño continuo del objetivo principal un $4% y aumenta la precisión de estado un $5% ($6 turnos).\nIntensidad Gélida: Aumenta la Precisión Técnica del objetivo principal en $7. Además, al activar un técnico, aumenta el ATQ un $8% ($9 turnos).\nInterpretación Electrizante: Aumenta el daño crítico del objetivo principal un $10% ($11 turnos).\nDrama Tempestuoso: Aumenta la tasa de perforación del objetivo principal un $12% ($13 turnos)."
 
 r:"Increase party's Atk \(([\d.]+)% of Shoki's Atk, max (\d+)\), and increase ailment resistance ([\d.]+)% \((\d+) turns\)\.\nAlso, grant (\d+) Blessing\."="Aumenta el ATQ del grupo ($1% del ATQ de Shoki, máx. $2) y aumenta la resistencia a dolencia un $3% ($4 turnos).\nAdemás, otorga $5 Bendición."
 
@@ -519,7 +521,43 @@ r:"^Increase party's dmg ([\d.]+)% per 100 of Miku's Atk \(up to (\d+) of Miku's
 
 r:"^Requires 3 different types of Track\.\nSpend all Tracks to activate Virtual Concert, and change song to Ghost Rule\. At this time, stop foes' turn, and grant allies extra turns for (\d+) turns \(these turns are not counted as extra actions and do not count towards total number of actions taken, but reduce countdowns of buffs, debuffs, and continuous dmg effects\)\.\nWhen Virtual Concert is activated, all buff effects on allies from Miku's skills, weapon, and Talents are extended (\d+) turns\. Also, effects granted when Tracks were gained are reactivated \((\d+) turns\)\. Also, increase party's crit dmg ([\d.]+)% per 100 of Miku's Atk \(up to (\d+) of Miku's Atk, max ([\d.]+)%, (\d+) turns\)\. Also, restore (\d+) SP to all allies\.\nDuring Virtual Concert, support skills cannot be used, and cooldown time does not decrease\.\nAt end of allies' extra turns, Virtual Concert is removed\.\nCooldown Time: (\d+) {{A}} actions \(does not count extra actions\)$"="Requiere 3 tipos diferentes de Pista.\nConsume todas las Pistas para activar Concierto Virtual y cambia la canción a Ghost Rule. En este momento, detiene el turno de los enemigos y otorga a los aliados turnos adicionales durante $1 turnos (estos turnos no se cuentan como acciones adicionales y no cuentan para el número total de acciones realizadas, pero reducen el tiempo de reutilización de las mejoras (buffs), estados negativos (debuffs) y efectos de daño continuo).\nCuando se activa Concierto Virtual, todos los efectos de mejora en los aliados provenientes de las habilidades, arma y Talentos de Miku se extienden $2 turnos. Además, los efectos otorgados cuando se obtuyeron las Pistas se reactivan ($3 turnos). También aumenta el daño crítico del equipo en un $4% por cada 100 de ATQ de Miku (hasta un máximo de $5 de ATQ de Miku, máx. $6%, $7 turnos). Además, restaura $8 de PH a todos los aliados.\nDurante Concierto Virtual, las habilidades de apoyo no se pueden usar y el tiempo de reutilización no disminuye.\nAl final de los turnos adicionales de los aliados, se elimina Concierto Virtual.\nTiempo de reutilización: $9 acciones de {{A}} (no cuenta las acciones adicionales)"
 
++--Minami Flor Costera--+
 
+r:"^Bless damage to all foes \(([\d.]+)% of Beachflower Minami's max HP\), and inflict Bewitching Blossoms \((\d+) turns\)\.\nBewitching Blossoms: When taking attack, increase that dmg's Atk ([\d.]+)% \+ (\d+)% per (\d+) of Beachflower Minami's max HP \(up to (\d+) of max HP\)\.$"="Daño de Bendición a todos los enemigos ($1% de los PS máx. de Minami Flor Costera) e inflige Flores Cautivadoras ($2 turnos).\nFlores Cautivadoras: Al recibir un ataque, aumenta el ATQ de ese daño en un $3% + $4% por cada $5 de los PS máx. de Minami Flor Costera (hasta $6 de los PS máx.)."
+
+r:"^Increase party's dmg ([\d.]+)% \+ ([\d.]+)% per (\d+) of Beachflower Minami's max HP \(up to (\d+) of max HP, (\d+) turns\)\. Also, grant all allies (\d+) Blessing, and remove (\d+) debuff\.$"="Aumenta el daño del equipo en un $1% + $2% por cada $3 de los PS máx. de Minami Flor Costera (hasta $4 de los PS máx., $5 turnos). Además, otorga $6 Bendición a todos los aliados y elimina $7 estado negativo (debuff)."
+
+r:"^Increase 1 other ally's crit rate ([\d.]+)%, and increase crit dmg by ([\d.]+)% of Beachflower Minami's crit mult over 100% \(up to ([\d.]+)% of crit mult, (\d+) turns\)\.\nPassive: When using medicine on ally, increase main target's crit dmg\. Increase is equal to ([\d.]+)% of Beachflower Minami's crit mult over 100% \(up to ([\d.]+)% of crit mult, (\d+) turn\)\.$"="Aumenta la probabilidad crítica de otro aliado en un $1% y aumenta el daño crítico en un $2% del multiplicador crítico de Minami Flor Costera por encima del 100% (hasta un $3% del multiplicador crítico, $4 turnos).\nPasiva: Al usar medicina en un aliado, aumenta el daño crítico del objetivo principal. El aumento es igual al $5% del multiplicador crítico de Minami Flor Costera por encima del 100% (hasta un $6% del multiplicador crítico, $7 turno)."
+
+r:"^Increase 1 other ally's dmg ([\d.]+)%, and increase crit dmg by ([\d.]+)% of Beachflower Minami's crit mult over 100% \(up to ([\d.]+)% of crit mult, (\d+) turns\)\. Also, when Beachflower Minami uses medicine, increase medicine effects ([\d.]+)%\.$"="Aumenta el daño de otro aliado en un $1% y aumenta el daño crítico en un $2% del multiplicador crítico de Minami Flor Costera por encima del 100% (hasta un $3% del multiplicador crítico, $4 turnos). Además, cuando Minami Flor Costera usa medicina, aumenta los efectos de la medicina en un $5%."
+
+##Lista de Cesta
+1More-Up=Aumento de 1Más
+HL-Up=Aumento de Highlight
+Technica-Up=Aumento Técnico
+Reso-Up=Aumento de Resonancia
+DOT-Up=Aumento de DOT
+Fighter Salve=Bálsamo de Combatiente
+Defender Tonic=Tónico de Defensor
+Attacker Tablet=Pastilla de Atacante
+Perfect Bandage=Vendaje Perfecto
+r:"^Increase 1 ally's Attack by (\d+)% for (\d+) turn\.$"="Aumenta el Ataque de 1 aliado en un $1% durante $2 turno."
+r:"^Increase 1 ally's Defense by (\d+)% for (\d+) turn\.$"="Aumenta la Defensa de 1 aliado en un $1% durante $2 turno."
+r:"^Increase 1 ally's continuous damage by ([\d.]+)% for (\d+) turn \(when used by Minami or Beachflower Minami, increase continuous damage by (\d+)%\)\.$"="Aumenta el daño continuo de 1 aliado en un $1% durante $2 turno (cuando lo usa Minami o Minami Flor Costera, aumenta el daño continuo en un $3%)."
+r:"^Restores all allies' HP by (\d+)%\.$"="Restaura los PS de todos los aliados en un $1%."
+r:"^Restores 1 ally's HP by (\d+)%\.$"="Restaura los PS de 1 aliado en un $1%."
+r:"^Increase 1 ally's Technical Precision by (\d+) for (\d+) turn \(when used by Minami or Beachflower Minami, increase Technical Precision by (\d+)\)\.$"="Aumenta la Precisión Técnica de 1 aliado en $1 durante $2 turno (cuando lo usa Minami o Minami Flor Costera, aumenta la Precisión Técnica en $3)."
+r:"^Increase 1 ally's Highlight or Theurgy damage by ([\d.]+)% for (\d+) turn \(when used by Minami or Beachflower Minami, increase Highlight or Theurgy damage by (\d+)%\)\.$"="Aumenta el daño de Highlight o Teúrgia de 1 aliado en un $1% durante $2 turno (cuando lo usa Minami o Minami Flor Costera, aumenta el daño de Highlight o Teúrgia en un $3%)."
+r:"^Increase 1 ally's 1 More and All-Out Attack damage amplification by ([\d.]+)% for (\d+) turn \(when used by Minami or Beachflower Minami, increase 1 More and All-Out Attack damage amplification by (\d+)%\)\.$"="Aumenta la amplificación de daño de 1 Más y Ataque Combinado de 1 aliado en un $1% durante $2 turno (cuando lo usa Minami o Minami Flor Costera, aumenta la amplificación de daño de 1 Más y Ataque Combinado en un $3%)."
+r:"^Increase 1 ally's Resonance damage amplification by ([\d.]+)% \(when used by Minami or Beachflower Minami, increase Resonance damage amplification by (\d+)%\)\.$"="Aumenta la amplificación de daño de Resonancia de 1 aliado en un $1% (cuando lo usa Minami o Minami Flor Costera, aumenta la amplificación de daño de Resonancia en un $2%)."
+r:"^Increase 1 ally's damage by (\d+)% for (\d+) turn\.$"="Aumenta el daño de 1 aliado en un $1% durante $2 turno."
+r:"^Restores 1 ally's HP by (\d+)\.$"="Restaura los PS de 1 aliado en $1."
+r:"^When taking attacks, increase that dmg's Atk by (\d+)%\.$"="Al recibir ataques, aumenta el Atq de ese daño en un $1%."
+r:"^Increase medicine effects by ([\d.]+)%\.$"="Aumenta los efectos de la medicina en un $1%."
+r:"^Increase 1 More and All-Out Attack dmg amplification by (\d+)%\.$"="Aumenta la amplificación de daño de 1 Más y Ataque Combinado en un $1%."
+r:"^Increase Highlight or Theurgy dmg by (\d+)%\.$"="Aumenta el daño de Highlight o Teúrgia en un $1%."
+r:"^Increase Resonance dmg amplification by (\d+)%\.$"="Aumenta la amplificación de daño de Resonancia en un $1%."
+r:"^Increase continuous dmg effect by (\d+)%\.$"="Aumenta el efecto de daño continuo en un $1%."
 
 ++-------------Persona for Protagonist-----------------++
 
@@ -662,7 +700,7 @@ r:"^Curse\s+dmg\s+to\s+(\d+)\s+foe\s+\((\d+\.?\d*)%\s+Atk\)\.\s+Inflict\s+Hell's
 
 r:"^Gun\s+dmg\s+to\s+1\s+foe\s+\(([\d.]+)%\s+Atk\)\.\s+Inflict\s+Marked\s+on\s+foe\.$"="Daño de Arma a Distancia a 1 enemigo ($1% ATQ). Inflige Marcado al enemigo."
 
-r:"^Increase\s+this\s+skill's\s+critical\s+rate\s+by\s+(\d+)%,\s+and\s+deal\s+Gun\s+damage\s+to\s+(\d+)\s+foe\s+equal\s+to\s+<color\=#fffc40>(\d+\.?\d*)%<\/color>\s+of\s+Attack\.$"="Aumenta la probabilidad de crítico de esta habilidad en un $1% e inflige daño de Arma a Distancia a $2 enemigo equivalente al <color\=#fffc40>$3%</color> del Ataque."
+r:"^Increase\s+this\s+skill's\s+critical\s+rate\s+by\s+(\d+)%,\s+and\s+deal\s+Gun\s+damage\s+to\s+(\d+)\s+foe\s+equal\s+to\s+<color\=#fffc40>(\d+\.?\d*)%</color>\s+of\s+Attack\.$"="Aumenta la probabilidad de crítico de esta habilidad en un $1% e inflige daño de Arma a Distancia a $2 enemigo equivalente al <color\=#fffc40>$3%</color> del Ataque."
 
 r:"^Gun\s+dmg\s+to\s+1\s+foe\s+\(([\d\.]+%%)\s+Atk\)\.$"="Daño con Arma a Distancia a 1 enemigo ($1 ATQ)."
 

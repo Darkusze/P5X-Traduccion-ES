@@ -1,4 +1,5 @@
 ﻿The necessary resources have not been downloaded. Do you want to download them now? (Resources: Met by Moonlight: Luminous Island. This will take a few minutes to complete.)=Los recursos necesarios no se han descargado. ¿Quieres descargarlos ahora? (Recursos: Encontrado por la Luz de la Luna: Isla Luminosa. Esto tomará unos minutos en completarse.)
+The necessary resources have not been downloaded. Do you want to download them now? (Resources: Required Resource 3. This will take a few minutes to complete.)=Los recursos necesarios no se han descargado. ¿Deseas descargarlos ahora? (Recursos: Recurso requerido 3. Esto tardará unos minutos en completarse.)
 {{A}}-kun! Glad you're here!=¡{{A}}‑kun! Me alegra que estés aquí!
 I'd like you to take care of things in the\nkitchen, same as always. I know I can trust\nyou'll do a great job!=Me gustaría que te encargues de la cocina, como siempre. Sé que puedo confiar en que harás un gran trabajo.
 I helped out in the kitchen...=Ayudé en la cocina...
@@ -57,9 +58,19 @@ Looks like we're here.=Parece que ya llegamos.
 T-This is serious!\nWe need help, quick!=¡E-Esto es grave!\n¡Necesitamos ayuda, rápido!
 Wonder, you're incredible...!=¡Wonder, eres increíble...!
 Whoa! One fell swoop...!=¡Vaya! ¡De un solo golpe...!
+Aww, but I was having fun...=Ay, pero yo me estaba divirtiendo...
 All right! Let's show them what we've got!=¡De acuerdo! ¡Mostrémosles de lo que somos capaces!
+Time for New Year's greetings!=¡Es hora de enviar los\ndeseos de Año Nuevo!
 My heart is racing. I'm off!=¡El corazón me va a mil por hora! ¡Ya me voy!
+Thank goodness, you're back\nwith us...!=¡Menos mal que regresaste con nosotros...!
 This looks like the place.=Parece que este es el lugar.
+Hang in there... You'll be\nhealed up soon...!=¡Resiste...!\n¡Ya casi viene la curación!
+Seriously, I was so worried!=¡No tienes idea de lo preocupado que estaba!
+Don't work too hard, okay?=No te esfuerces demasiado, ¿de acuerdo?
+That looks bad. Are you okay?=¡Ese golpe se vio fatal! ¡¿Te encuentras bien?!
+Enemy down! Let's keep it up!=¡Enemigo derribado! ¡Hay que seguir así!
+They're knocked down!\nWhat do we do!?=¡Están derribados!\n¿¡Qué hacemos!?
+Oh no! You're at your limit!=¡Oh, no! ¡Ya estás en las últimas!
 It'd be nice if we had these in Tartarus...=Sería bueno que tuviéramos esto en Tártaro…
 Combat Gear=Equipo de combate
 A<color\=#000000>t</color>tack Down=A<color\=#000000>t</color>aque Bajo
@@ -76,6 +87,7 @@ B<color\=#000000>l</color>oody Mary=B<color\=#000000>l</color>oody Mary
 A<color\=#000000>s</color>cetic Ordeals=T<color\=#000000>r</color>ibulaciones Ascéticas
 T<color\=#000000>h</color>reefold Transcendence=T<color\=#000000>r</color>ascendencia Triple
 F<color\=#000000>i</color>nal Damage Down=R<color\=#000000>e</color>ducción de Daño Final
+P<color\=#ff0000ff>h</color>armacy=F<color\=#ff0000ff>a</color>rmacia
 Zaou-Gongen's Seal=Sello de Zaou-Gongen
 Order of Balance=Orden del Equilibrio
 Obeyed Order of Balance...=Orden del Equilibrio Obedecida
@@ -343,7 +355,7 @@ Ah, so this problem, huh...=Ah, conque es este problema, ¿eh...?
 Sorry 'bout all this, but you really helped\nme out!=¡Perdón por darte tanta lata, pero de verdad me salvaste la vida!
 It's no big deal. Don't worry about it.=No es para tanto. No te preocupes por eso.
 What did Shun do?=¿Ahora qué hizo Shun?
-Hold up a sec, Nagisa! I didn't do\nanythin' to Sanada-senpai!=¡Pérame tantito, Nagisa! ¡Yo no le hice nada malo a Sanada-senpai!
+Hold up a sec, {{A}}! I didn't do\nanythin' to Sanada-senpai!=¡Pérame tantito, {{A}}! ¡Yo no le hice nada malo a Sanada-senpai!
 Yeah, what he said. Don't worry about it.=Sí, es justo como dice. No te preocupes por eso.
 I was just taking a look at his homework.=Solo le estaba revisando la tarea.
 I apologize on his behalf.=Te pido una disculpa en su nombre.
@@ -819,6 +831,7 @@ E<color\=#000000>c</color>hoing in your Heart=R<color\=#000000>e</color>sonando 
 L<color\=#000000>e</color>t's Sing Together=C<color\=#000000>a</color>ntemos Juntos
 R<color\=#000000>e</color>aching your Heart=A<color\=#000000>l</color>canzando tu Corazón
 N<color\=#000000>e</color>verending Song=C<color\=#000000>a</color>nción Sin Fin
+H<color\=#000000>o</color>logram Screen=P<color\=#000000>a</color>ntalla Holográfica
 It's my turn to take the\nspotlight!=¡Es mi turno de subir\nal escenario!
 The stage is set!=¡El escenario está listo!
 Let's show them a Highlight!=¡Mostrémosles un Highlight!
@@ -833,12 +846,18 @@ Phew, somehow we made it...=Uff, Por poco y no lo contamos...
 Nice moves!=¡Que buen movimiento!
 What a great show.\nNice work! ♪=¡Qué buen espectáculo!\n¡Buen trabajo! ♪
 Our ally's down! Are you okay!?=¡Derribaron a nuestro compañero!\n¡¿Estás bien?!
+Enemy down!\nKeep up that rhythm! ♪=¡Enemigo caído!\n¡Mantén ese ritmo! ♪
 Someone, please help Wonder!=¡Por favor, que alguien ayude a Wonder!
 I'm sorry... If only I\ncould've helped more...=Lo siento mucho... Si tan solo hubiera\npodido ayudar más...
 Our friend is down! Watch out!=¡Nuestro amigo ha caído!\n¡Cuidado!
+Enemy down! You're on a roll!=¡Enemigo derribado! ¡Estás imparable!
+Wow, that was super cool...!=¡Guau, eso estuvo increíble...!
+Enjoy responsibly, okay?=Disfruta con moderación, ¿de acuerdo?
+Amazing!\nYou took them all down!=¡Impresionante!\n¡Los has derribado a todos!
+Time for an all-out attack! ♪=¡Hora de un Ataque Combinado! ♪
 H<color\=#ff0000ff>a</color>tsune Miku=H<color\=#ff0000ff>a</color>tsune Miku
 Miku's song resounds through\nthe halls. I stop and listen\nto her sing for a while...=La canción de Miku resuena por los pasillos.\nMe detengo y la escucho cantar un rato...
-
+Miku is singing happily.\nListening to her song, I feel\nmyself relax...=Miku canta con mucha alegría.\nAl escuchar su canción,\nsiento cómo me relajo...
 
 Hello, {{A}}-san. What brings you here?=Hola, {{A}}-san. ¿Qué te trae por aquí?
 Um... There's actually a place I've been\nwanting to go, and I thought maybe we could\ngo together...=Este... De hecho, hay un lugar al que he estado queriendo ir, y pensé que tal vez podríamos ir juntos...
@@ -989,10 +1008,506 @@ I feel like in Japan, the word "maid" has\na very strong image associated with i
 When you hear "barmaid", doesn't a maid\noutfit come to mind?=Cuando escuchas "barmaid", ¿a poco no se te viene a la mente un traje de sirvienta?
 I'd love to see you in one.=Me encantaría verte con uno puesto.
 Maybe you should wear it.=Tal vez deberías probártelo.
-Huh? Are you saying you've got a thing\nfor maids, Nagisa-kun?=¿Eh? ¿Me estás diciendo que tienes un fetiche con las sirvientas, Nagisa-kun?
+Huh? Are you saying you've got a thing\nfor maids, {{A}}-kun?=¿Eh? ¿Me estás diciendo que tienes un fetiche con las sirvientas, {{A}}-kun?
 Wait, does that mean there's demand for it?\nMaybe a full-on maid bar could work...=Espera, ¿eso significa que hay mercado para eso?\n¡Quizá un bar temático de "maids" completo podría funcionar!
 No! That's not gonna happen! Get your mind\nout of the gutter!=¡Claro que no! ¡Ni lo pienses! ¡Deja de tener esas ideas tan cochinas!
 It took a while to clear up\nShiina's misunderstanding...=Me tomó un buen rato aclarar\nel malentendido con Shiina...
+
+Are your parents strong drinkers,\n{{A}}-kun? Or are they lightweights?=¿Tus padres aguantan bien el alcohol,\n{{A}}-kun? ¿O se les sube rápido?
+They're probably weaklings.=Probablemente no aguanten nada.
+I think they can really chug.=Creo que toman como esponjas.
+Well, some kids end up weak to alcohol\neven with parents who drink a lot.=Bueno, algunos chicos terminan siendo muy sensibles al alcohol, incluso si sus padres toman un montón.
+The opposite can be true as well. Only time\nwill tell how you'll turn out.=Lo contrario también puede pasar. Solo el tiempo dirá qué tan bueno resultas para la bebida.
+No worries though! Even if you're not the\ndrinking type...=¡Pero no te preocupes! Incluso si resulta que no eres de los que toman...
+I can always whip up a mocktail! Drink with\nme when you're of age, okay?=¡Siempre te podré preparar un cóctel sin alcohol!\nBrindaremos juntos cuando ya tengas la edad legal,\n¿te parece?
+Bet you're quite the handful.=<size\=28>Apuesto a que eres bastante difícil de controlar.</size>
+Can't wait to see you drunk.=Ya quiero verte borracha.
+C'mon! No matter how I drunk I get, I'll only\never show you my cool side.=¡Ay, por favor! No importa qué tan ebria me ponga, siempre me veré genial frente a ti.
+You can bet on it! For sure...\nI think? Maybe?=¡Te lo garantizo! Segurísimo... ¿o eso creo?\n¿Tal vez?
+Yeah... I might be a problem, so I'll teach\nyou how to take care of me, okay?=Sí... podría dar algunos problemas, así que te enseñaré cómo debes cuidarme, ¿de acuerdo?
+Shiina lectured me on\nhow to handle a drunk...=Shiina me dio toda una\ncátedra sobre cómo lidiar\ncon un borracho...
+
+The flair bartending that I do also includes\nduo performances.=La coctelería acrobática que hago también incluye espectáculos en dúo.
+So, why not give it a go with me,\n{{A}}-kun?=Así que, ¿por qué no lo intentas conmigo,\n{{A}}-kun?
+But I'm a total beginner...=Pero soy un completo principiante...
+I don't feel ready.=No me siento listo.
+I'm kidding! Sorry, I just thought it\nwouldn't hurt to ask, that's all.=¡Es broma! Lo siento, solo pensé que no perdía nada con preguntar, eso es todo.
+Everyone's going to get the wrong idea if I\nwere to do it with someone your age.=Todos se van a llevar una idea equivocada si lo hago con alguien de tu edad.
+Maybe I'll ask you again when you're\na little older.=Quizás te lo vuelva a pedir cuando seas un poco más grande.
+Shiina regaled me with\nmore stories about her\nflair bartending...=Shiina me deleitó con más historias\nsobre su coctelería acrobática...
+
+We went to the drugstore in\nShibuya. Kotone stocked up on\ncooling spray and other items.=Fuimos a la farmacia de Shibuya.\nKotone compró desodorante\ny otras cosas.
+
+Miku's voice plays in my ears.\nI could listen to her sing\nforever...=La voz de Miku suena en mis oídos.\nPodría escucharla cantar por siempre...
+
+Yaoling and I hung out at the\nSky Tower. The glasswork and\ncandy craft screamed Edo...=Yaoling y yo pasamos el rato en\nla Sky Tower. La artesanía en\nvidrio y los dulces tradicionales\nevocaban por completo la era Edo...
+
+Manaka and I went to a buffet.\nI was still full until the\nnext day...=Manaka y yo fuimos a un buffet.\nSeguí tan lleno que no me dio\nhambre sino hasta el\ndía siguiente...
+
+That's it, there you go!=¡Eso es, justo así!
+Nice work, {{A}}-kun. You're already\nbetter than me!=¡Buen trabajo, {{A}}-kun! ¡Ya eres mucho mejor que yo!
+Oh, by the way... Do you remember\nMisaki-chan?=Oye, por cierto... ¿Te acuerdas de Misaki-chan?
+The woman we met here?=¿La chica que conocimos aquí?
+The one being harassed by a host?=¿A la que estaba acosando un afritrión?
+That's the one. We talked to her about her\nhost problems a while back.=Exacto, ella misma. Hace un tiempo platicamos con ella sobre los problemas que tenía con ese afritrión.
+She was here the other day, and she told me\nthat he showed up at her parents' house.=Estuvo por aquí el otro día, y me contó que él apareció en casa de sus papás.
+Scary, right? I want to help her somehow...=Qué miedo, ¿no? Quiero ayudarla de alguna forma...
+Hey. You really are here all the time, huh,\nSumi-san?=Oye. ¿De verdad andas por aquí siempre, Sumi-san?
+Haha! Good to see you.=¡Jaja! Qué gusto verte.
+{{A}}-kun, you really ought a be more\ncareful about who you spend time with...={{A}}-kun, deberías tener más cuidado con quién pasas el rato...
+Hey, I can hear you, you know.=Oye, te puedo oír, ¿sabes?
+Thanks so much for your help the other day, Sumi-kun!=¡Mil gracias por tu ayuda el otro día, Sumi-kun!
+Hello, Ueda-san. I haven't seen you around\nlately.=Hola, Ueda-san. No te he visto por aquí últimamente.
+I've been busy, thanks to you! Here. A sign\nof gratitude!=¡He estado ocupado, gracias a ti! Toma. ¡Un signo de agradecimiento!
+Thanks! Is it more manju?=¡Gracias! ¿Hay más manju?
+It's dango this time! They're pretty tasty,\ntoo!=¡Son dango esta vez! ¡También están bien ricos!
+Well, I've gotta get back to my deliveries.\nSee you!=Bueno, tengo que volver a mis entregas. ¡Nos vemos!
+Well, that takes care of dinner. Thanks,\nUeda-san!=Bueno, con esto ya quedó la cena. ¡Gracias, Ueda-san!
+Dango for dinner? You might wanna be more\ncareful about your diet.=¿Dango para cenar? Quizás deberías tener más cuidado con tu dieta.
+Really? Thanks for your concern, Seiji-kun.=¿En serio? Gracias por preocuparte, Seiji-kun.
+I'm not concerned about you. I'd say the same\nthing to anyone.=No estoy preocupado por ti. Yo le diría lo mismo a cualquiera.
+Anyway, what did that guy mean about being\nbusy thanks to you? What did you do?=En fin, ¿qué quiso decir ese tipo con lo de estar ocupado gracias a ti? ¿Qué hiciste?
+Sumi's an influencer.=Sumi es un "influencer".
+Sumi saved his shop from disaster.=Sumi salvó su tienda del desastre.
+That's pretty fitting with your whole con man\nvibe, Sumi-san.=Eso va bastante bien con tu onda de estafador, Sumi-san.
+Haha, I wouldn't say I'm an influencer. I\njust used social media to get the word out.=Jaja, no diría que soy un "influencer". Solo usé redes sociales para correr la voz.
+From disaster? Haha, you make me sound like a\nsuperhero.=¿Del desastre? Jaja, me haces sonar como un superhéroe.
+Ueda-san is a little accident-prone.=Ueda-san se tropieza con facilidad.
+He got an order for 100 manju, but he thought\nit was for 1,000.=Tiene un pedido de 100 manju, pero pensó que eran para 1.000.
+At {{A}}-kun's suggestion, I posted about\nit online, and then he was able to sell them\nall.=Por la sugerencia de {{A}}-kun, lo subí a internet, y así logró venderlos todos.
+Wait... A post about manju? Don't tell me...=¿Espera...? ¿Una publicación sobre manju? No me digas...
+N-No... It can't be. That would mean...=N-No... No puede ser. Eso significaría...
+Okay... I saw that exact same thing online.=Bueno, esta bien... Vi exactamente esa misma publicación en internet.
+An author named <color\=#FF423F>Toshia Soomy</color> posted about\nmanju, and everyone started buying them.=Un autor llamado <color\=#FF423F>Toshia Soomy</color> publicó algo sobre los manjus, y todo el mundo corrió a comprarlos.
+I actually went to buy one myself.=Yo, en serio, fui a comprarme uno.
+But they were already sold out...=Pero ya estaban agotados...
+I see. Well, thank you.=Ya veo. Bueno, gracias.
+I only went because he suggested it. But\nyou...=Solo fui porque él lo sugirió. Pero tú...
+Toshiya Sumi... Toshia Soomy... No— That's\nnot— You're not— But—!?=Toshiya Sumi... Toshia Soomy... No— Eso no es— No eres— ¿Pero...?
+You'll scare the fish.=Vas a asustar a los peces.
+Toshia Soomy... Toshiya Sumi...=Toshia Soomy... Toshiya Sumi...
+So you do have a job.=Así que sí tienes un trabajo.
+You're an author?=¿Eres escritor?
+Yes, I suppose you could call me an author. I\nwield a fishing rod more often than a pen\nthough.=Sí, supongo que podrías llamarme escritor. Aunque uso la caña de pescar más que la pluma.
+My pen name is Toshia Soomy.=Mi seudónimo es Toshia Soomy.
+I just messed around with the spelling of my\nreal name. It's pretty lazy as far as pen\nnames go.=Solo jugué con la ortografía de mi nombre real. Es bastante flojo para un seudónimo.
+Whaaaaaaaaaaat!?=¿¡Quéeeeeee!?
+You're Toshia Soomy? The author of Weaving\nFate and The Other Prison!?=¿Eres Toshia Soomy? ¿El autor de Tejiendo Destinos y La Otra Prisión?
+Known for his poetic, free-flowing prose and\nartful foreshadowing? Whose every work is a\nmasterpiece!? THAT Toshia Soomy!?=¿Famoso por su prosa poética y fluida, y por sus presagios tan artísticos? ¿Cuyo trabajo siempre es una obra maestra? ¿¡ESE Toshia Soomy!?
+Yep. Sounds like you read that in a review\nthough. Critics tend to exaggerate.=Sí. Pero suena a que leíste eso en una reseña, ¿no? Los críticos suelen exagerar.
+He's way more impressive than\nI thought...=Es mucho más impresionante\nde lo que pensaba...
+It can't be...=¡No puede ser...!
+Toshia Soomy is my favorite author... He\nchanged my life...=Toshia Soomy es mi autor favorito... Me cambió la vida...
+I can't believe he just sits around a fishing\npond all day doing nothing.=No puedo creer que se quede sentado en un estanque de pesca todo el día sin hacer nada.
+Haha, sorry to let you down.=Jaja, perdón por decepcionarte.
+But I did feel better after talking to you...=Pero me sentí mejor después de hablar contigo...
+You said exactly what I wanted to hear.=Dijiste justo lo que quería oír.
+I can feel Seiji's respect for\nSumi growing...=Siento que el respeto de Seiji por\nSumi está creciendo...
+Ugh! B-But... You're just a lazy bum...!=¡Ugh! P-Pero... ¡eres un vago...!
+But he seems conflicted\nabout it...=Pero parece que está indeciso con eso...
+Now what am I supposed to think!?=¿Y ahora qué se supone que debo pensar?
+Take a breath.=Respira hondo.
+Don't hurt yourself.=No te hagas daño.
+So... I just have to accept this?=¿O sea... solo tengo que aceptar esto?
+He's right. You can't change reality.=Tiene razón. No puedes cambiar la realidad.
+If you got your act together, I wouldn't have\nto feel so conflicted!=Si te organizaras, ¡no tendría que sentirme tan indeciso!
+No, wait. {{A}} is right. I should be\ngrateful for getting to meet you.=No, espera. {{A}} tiene razón. Debería estar agradecido de haberte conocido.
+The only reason I came here is because of\nwhat you said in that interview.=La única razón por la que vine aquí es por lo que dijiste en esa entrevista.
+To think you met the man himself.=Pensar que conociste al mismísimo hombre.
+The one you mentioned before?=¿El que mencionaste antes?
+Ah right, I do remember you saying that,\nSeiji-kun.=Ah, sí, me acuerdo que dijiste eso, Seiji-kun.
+Let's start over. It's very nice to meet you.=Empecemos de nuevo. Me alegra mucho conocerte.
+Oh, the pleasure's all mine.=Oh, El placer es todo mío.
+Well, since we're here, we may as well enjoy\nsome fishi—=Bueno, ya que estamos aquí, podríamos disfrutar de un poco de pes-
+...I guess not.=...supongo que no.
+Someone's here looking for trouble... Don't\nmind me, I'm just going to... hide.=Alguien anda buscando problemas... No te preocupes, voy a... esconderme.
+If anyone asks, I'm not here, you didn't see\nme, we never spoke. Okay?=Si alguien pregunta, yo no estuve aquí, no me vieron, y ni hablamos. ¿Entendido?
+What the heck was that about?=¿Pero qué demonios fue eso?
+It couldn't be that violent\nhost Sumi was telling me\nabout, could it...?=¿No será el afritión violento del\nque me estuvo hablando Sumi...?\nNo, imposible... ¿o sí?
+Hey. You seen a good-for-nothing layabout\naround here?=Oye. ¿Has visto a un vago holgazán que no sirve para nada por aquí?
+L-Layabout...?=¿U-Un holgazán...?
+Never heard of him.=Jamás he oído hablar de él.
+No idea who you're talking about.=Ni idea de quién me estás hablando.
+Oh yeah? I bet he told you to say that.=¿Ah, sí? Te apuesto lo que quieras a que te dijo que respondieras eso.
+Man in a Suit=Hombre de traje
+"I'm writing, I'm writing," he says. That\nliar. How long does he think he can keep\nrunning?="Ya estoy escribiendo, ya estoy escribiendo", dice. Ese mentiroso... ¡¿Hasta cuándo piensa seguirse escondiendo?!
+I don't think this is the guy\nthat's after Misaki...=Me parece que este no\n es el tipo que anda\nbuscando a Misaki...
+Here's my card. Let me know if you see that\nbozo.=Aquí tienes mi tarjeta. Avísame de inmediato si ves a ese idiota.
+Looks like he works for a\npublishing company...=Por lo visto, trabaja para una editorial...
+The deadline for his latest manuscript was\nfour months ago, and he still hasn't turned\nit in.=La fecha límite para entregar su último manuscrito fue hace cuatro meses y todavía no da señales de él.
+Four months!?=¡¿Cuatro meses?!
+But when he doesn't do his job, I also get to\nslack off, so it's a win-win.=Aunque si él no hace su trabajo, a mí también me toca holgazanear, así que todos salimos ganando.
+The company's in a panic because it affects\ntheir sales, but oh well. Haha!=En la editorial están histéricos porque esto afecta las ventas, pero en fin. ¡Jajaja!
+This guy doesn't seem too\nconcerned about Sumi blowing\noff work...=Este sujeto no se ve muy\npreocupado de que Sumi se\nesté saltando el trabajo\nde esa forma...
+Well, I'm off then. Call me if you see him.=Bueno, ya me retiro. Me marcas si lo ves.
+Didn't think he'd come all the way here. So\ninconsiderate, I swear.=No creí que fuera capaz de venir hasta acá.\nQué tipo tan considerado, de verdad.
+Can we get back to fishing?=¿Ya podemos regresar a la pesca?
+You reap what you sow.=Cosechas lo que siembras.
+Of course. I'm no author to you. I'm just\nyour dedicated fishermentor.=Claro. Yo no soy tu autor. Solo soy tu mentor pescador dedicado.
+But still, thanks for not squealing on me to\nmy editor.=Pero igual, muchas gracias por no delatarme con mi editor.
+I want to read your new book...=Tengo muchas ganas de leer tu próximo libro...
+We shouldn't rush Sumi-san.=No deberíamos apurar a Sumi-san.
+I'm sure it'll happen eventually.=Seguro que pasará tarde o temprano.
+Yeah... I guess...=Sí... supongo...
+We enjoyed fishing together\nwhile consoling a disappointed\nSeiji...=Disfrutamos de pescar juntos\nmientras consolábamos a un\nSeiji decepcionado...
+
+
+Can't today.=Hoy no puedo.
+All right. Another time then!=¡De acuerdo! ¡Lo dejamos para la próxima entonces!
+Find Sumi=Encuentra a Sumi
+Sumi-kun! Thanks for your advice the other\nday! Everything's worked out great!=¡Sumi-kun! ¡Gracias por el consejo el otro día! ¡Todo salió genial!
+I didn't do anything. I just said what popped\ninto my head.=No hice nada. Solo dije lo primero que se me ocurrió.
+If anything improved, it's because you made\nit happen, Saito-san.=Si algo mejoró, es porque tú lo hiciste posible , Saito-san.
+Don't be silly! You really helped me out. Let\nme treat you to a drink sometime, okay? Bye!=¡No seas tonto! De verdad que me ayudaste. Déjame invitarte algo de beber algún día, ¿vale? ¡Adiós!
+You get along with everyone, huh?=Te llevas bien con todo el mundo, ¿eh?
+You sure have lots of friends.=Tienes muchos amigos, ¿eh?
+Anyone who comes here is a friend in my book.=Cualquiera que venga aquí es un amigo para mí.
+Of course, there are some people I have a\nhard time with, just like anybody else.=Claro, hay gente con la que me cuesta un poco, como con cualquiera.
+But when I talk to people, I start to see the\ngood in them.=Pero cuando hablo con la gente, empiezo a ver lo bueno en ellos.
+So even if I'm a little put off by someone at\nfirst, I try to talk to them anyhow.=Así que aunque al principio me pueda incomodar alguien, intento hablar con ellos igual.
+What made you start doing that?=¿Qué te hizo empezar a hacer eso?
+Why do you think that way?=¿Por qué piensas así?
+Well... It might have to do with something\nfrom my childhood.=Bueno... Igual tiene que ver con algo de mi infancia.
+There was an elderly woman living in my\nneighborhood who always seemed to be having a\nhard time.=Había una señora mayor en mi barrio que siempre parecía tener dificultades.
+She was always in a bad mood and would lash\nout at people on the street.=Siempre estaba de mal humor y le gritaba a la gente en la calle.
+Always arguing with someone about something.\n"I saw you looking in my window!" Stuff like\nthat.=Siempre discutiendo con alguien por algo. "¡Te vi mirando mi ventana!" Cosas así.
+As a child, I found it strange. I mean, no\none likes conflict, right?=Cuando era niño, me pareció raro. O sea, nadie quiere conflicto, ¿no?
+So one day I asked her, "Why are you always\nso angry?"=Un día le pregunté: "¿Por qué estás siempre tan enojada?"
+That took some guts.=Eso requirió agallas.
+Way to poke the bear.=<size\=28>Vaya forma de provocar a la bestia.</size>
+Oh, she wasn't the violent type. But it was\npretty careless of me looking back, haha.=No, ella no era para nada violenta. Pero ahora que lo pienso, sí fue una gran imprudencia\nde mi parte, jajaja.
+At first the woman got mad at me, but I kept\ncoming by every day, and she started acting\nnicer.=Al principio la señora se enojaba conmigo, pero como seguí viniendo todos los días, empezó a portarse más amable.
+She'd give me tea and snacks, which made me\nhappy.=Me invitaba té y bocadillos, lo cual me ponía muy contento.
+And once I actually tried talking to her, I\nrealized she wasn't a bad person at all.=Y en cuanto me puse a platicar con ella, me di cuenta de que para nada era una mala persona.
+It turned out that her husband had died a few\nyears earlier, and the pain of loneliness\nmade her act out.=Resultó que su esposo había fallecido hacía unos años y el dolor de la soledad hacía que se desquitara con la gente.
+After talking to me, she softened up and\nstarted getting along better with everyone in\nthe neighborhood.=Después de hablar conmigo se tranquilizó y empezó a llevarse mejor con todos los vecinos.
+I guess that was the first time I thought how\ngreat it would be if everyone could live\ntogether in peace.=Supongo que esa fue la primera vez que pensé lo genial que sería si todos pudiéramos vivir en armonía.
+I think it all goes back to that.=Creo que todo comenzó a partir de ahí.
+Sumi seems to\nvalue harmony...=Sumi resultó ser un tipo que\nvalora muchísimo la armonía\nentre las personas...
+Ahhh, what a nice day. The weather's just\nright, editor nowhere in sight...=Aaaah, qué día tan espectacular. El clima está perfecto y ni rastro de mi editor...
+Get back, {{A}}-kun.=¡Atrás, {{A}}kun!
+Hey! Where's Misaki!?=¡Oye! ¡¿Dónde rayos está Misaki?!
+Misaki-chan? Who's that?=¿Misaki-chan? ¿Y esa quién es?
+Liar! I know you helped her get away!=¡Mentiroso! ¡Sé perfectamente que la ayudaste a escapar!
+This guy's really lost his\nhead...=Este sujeto de verdad está\ncompletamente loco...
+I don't know where you heard that, but I'm\nafraid you're mistaken.=No tengo idea de dónde sacaste eso, pero me temo que estás muy equivocado.
+What do you think you're doing?=¿Qué crees que estás haciendo?
+Sumi-san didn't do anything.=Sumi-san no tiene nada que ver en esto.
+Haha, sorry. I didn't want you getting\nwrapped up in this...=Jaja, una disculpa. No quería que terminaras involucrado en este problema...
+I never thought he'd show up here... I'm\ngoing to have a talk with him alone.=Jamás imaginé que vendría hasta acá...\nVoy a hablar con él a solas.
+Quit muttering! Tell me where Misaki is right\nnow!=¡Deja de hablar entre dientes! ¡Dime dónde está Misaki ahorita mismo!
+Like I said, I don't know.=Ya te lo dije, no tengo idea.
+Now, can we talk somewhere else? We're\ndisturbing the customers.=Por favor, ¿podríamos ir a hablar a otra parte?\nEstamos incomodando a los clientes.
+Fine by me. Move it.=Me parece perfecto. Camina.
+Sumi left with the man. Is he\ngoing to be okay...?=Sumi se fue con ese sujeto. ¿De verdad estará bien...?
+Hey, I passed Sumi-san just now, and he was\nwith a pretty shady-looking guy.=Oye, me acabo de cruzar con Sumi-san hace un momento y andaba con un tipo de aspecto muy sospechoso.
+Did I miss something?=¿De qué me perdí?
+I told Seiji what just\nhappened...=Le conté a Seiji todo lo que\nacababa de ocurrir...
+I don't know the whole situation, but I'm\nworried. Sumi-san will figure something out\nthough, right?=No sé bien de qué se trate todo esto, pero me\nda mala espina. Aunque... Sumi-san sabrá cómo salir del apuro, ¿verdad?
+Cause that guy looked ready to throw hands.=Porque ese sujeto se veía con unas ganas de agarrarse a coñazos.
+Sounds like the situation's\ngotten worse...=Parece que la situación se puso\nbastante fea...
+Is he gonna be okay?=¿De verdad estará bien?
+We have to help him!=¡Tenemos que ayudarlo!
+Let's go after them!=<size\=28>¡Hay que ir tras ellos de inmediato!</size>
+Yeah, good idea. I think they went that way!=¡Sí, buena idea! ¡Creo que se fueron por allá!
+Quit messing with me! I know this is all your\ndoing!=¡Deja de jugar conmigo! ¡Sé perfectamente que todo esto es culpa tuya!
+I'm trying to tell you, I have no clue what\nyou're talking about.=Ya te lo dije de muchas veces, de verdad no tengo la menor idea de qué me estás hablando.
+There they are!=¡Ahí están!
+Sumi-san!=¡Sumi-san!
+I'm calling the cops.=Voy a llamar a la policía.
+Shit, who the hell is this now?=¡Mierda! ¿Y quiénes carajos son estos idiotas?
+Sumi's Voice=Voz de Sumi
+I won't let you off easy next time. Don't you\nforget it!=¡La próxima vez no la vas a contar tan barata!\n¡Que no se te olvide!
+All good?=¿Todo bien?
+I'm fine, I'm fine. Just fell dow— Ouch...=Estoy bien, estoy bien. Solo me caí— Auch...
+You're full of it! That guy punched you out,\ndidn't he!?=¡Estás mintiendo! ¡Ese tipo te dio un puñetazo, ¡¿verdad?!
+We want to help you.=Queremos ayudarte.
+There's no point in hiding it.=No tiene sentido esconderlo.
+I can't lie to you two...=Ya no les puedo mentir a ustedes dos...
+That man is a host. And a hostile one at\nthat. A woman I'm friends with gave him a lot\nof money.=Ese tipo es un afitrión. Y vaya que le hace honor a su nombre por lo hostil. Una amiga muy cercana le dio un montón de dinero.
+After she stopped going to his host club, he\nstarted stalking her.=En cuanto ella dejó de ir a su club de afitriones, ese sujeto empezó a acosarla sin parar.
+He was threatening her for money. She was so\nscared it was making her physically ill.=La estaba extorsionando por dinero. Ella sentía tanto miedo que comenzó a enfermarse del susto.
+She asked for advice, and I introduced her to\na trusted friend who helped her hide.=Me pidió ayuda y la contacté con un amigo de confianza que la ayudó a esconderse.
+But it seems like the guy found out somehow.=Pero por lo visto, el tipo se las ingenió para enterarse de alguna manera.
+That's wild. You're not even directly\ninvolved, and he still...=Qué locura. Tú ni siquiera estás involucrado directamente y aun así...
+Well, I don't mind something bad happening to\nme.=Bueno, a mí no me importa si me llega a pasar algo malo.
+I'd feel much worse if something bad happened\nto a friend.=Me sentiría mucho peor si le pasara algo malo a uno de mis amigos.
+You should care for yourself too.=<size\=28>Tú también deberías preocuparte por ti mismo.</size>
+{{A}} is right.={{A}} tiene razón.
+If you don't take care of yourself, there's\nno way you can take care of others.=Si no te cuidas tú primero, no hay forma de que puedas proteger a los demás.
+Haha, fair enough...=Jaja, tiene razón...
+I just want the people I'm close with to be\nable to live in peace...=Solo quiero que la gente con la que estoy pueda vivir en paz...
+But I guess it would upset some people if\nsomething bad happened to me.=Pero supongo que pondría triste a algunas personas si algo malo me pasara.
+I want everyone to be happy, but putting\nmyself in danger won't help that...=Quiero que todo el mundo sea feliz, pero ponerme en peligro no ayudará con eso...
+You should slack off more.=Deberías flojear un poco más.
+They'll be happy if you're happy.=Ellos estarán felices si tú lo estás.
+Thank you. You're right, that makes sense.=Gracias. Tienes razón, tiene sentido.
+I guess I forgot to include myself in my\nvision of how I want things to be.=Supongo que olvidé incluirme a mí mismo en mi visión de cómo quiero que sean las cosas.
+I'm just realizing that now, haha.=Es que ahora me estoy dando cuenta, jaja.
+Thanks, {{A}}-kun. You just keep coming to\nmy rescue, don't you?=Gracias, {{A}}-kun. Siempre vienes a mi rescate, ¿eh?
+If that host guy is really\nthat greedy...=Si ese anfitrión es tan codicioso...
+Maybe I can go to Mementos and\nchange his heart...!=Quizá pueda ir a Mementos y cambiarle el corazón...
+Do you know the host's name?=¿Sabes el nombre del anfitrión?
+So what's that guy's name?=Entonces, ¿cómo se llama ese tipo?
+I know Misaki-chan told me. Let me think...=Sé que Misaki-chan me lo dijo. Déjame pensar...
+Wait, why do you want to know?=Espera, ¿por qué quieres saberlo?
+I don't want you getting in harm's way,\n{{A}}-kun.=No quiero que te metas en problemas, {{A}}-kun.
+I won't do anything dangerous.=No voy a hacer nada peligroso.
+I'm just gonna look him up.=Voy a buscarlo.
+I'll tell you his name, but you have to\npromise me you won't get into any danger.=Te diré su nombre, pero tienes que prometerme que no te vas a meter en ningún peligro.
+All right then. I trust you. His name is...\n<color\=#FF423F>Gairu Enjoji</color>.=Está bien. Confío en ti. Su nombre es...\n<color\=#FF423F>Gairu Enjoji</color>.
+Now keep that promise, okay?=Ahora cumple esa promesa, ¿ok?
+Sumi told me the name of\nthe host...=Sumi me dijo el nombre del anfitrión...
+
+I'm coming over to your place!=¡Voy directo hacia donde estás!
+I can sense Enjoji from here...=Puedo sentir la presencia de Enjoji desde aquí...
+Change the Hostile Host's Heart=Cambia el corazón del afritión hostil
+Leave Misaki alone.=¡Deja a Misaki en paz!
+You threaten customers for money?=<size\=26>¿Extorsionas a tus clientes para sacarles dinero?</size>
+Hahaha! So what!? They're not customers,\nthey're my piggy banks!=¡Jajaja! ¡¿Y qué?! ¡Esas no son clientes, son mis alcancías humanas!
+Stay out of my way, Captain Halfwit. Women\nwho go to host clubs are only good for their\nmoney!=¡No te metas en mi camino, Capitanazo!\n¡Las mujeres que van a los clubes de afitriones solo sirven para sacarles dinero!
+What's wrong with squeezing her for all she's\nworth? She should be grateful to get used by\nme!=¡¿Qué tiene de malo exprimirle hasta el último centavo?! ¡Debería estar agradecida de que un tipo como yo la use!
+I don't think we can win him\nover with words...=No creo que podamos\nconvencerlo con palabras...
+Witness Enjoji's change of heart=Se testigo del cambio de corazón de Enjoji
+That guy from the fishing pond... What was\nit, Sumi something?=Ese tipo del estanque de pesca... ¿cómo era su nombre? ¿Sumi qué?
+He doesn't even work, but everyone loves him.\nMy customers won't shut up about him.=¡Ni siquiera trabaja, pero todo el mundo lo adora!\nMis clientes no se cansan de hablar de él.
+Here I am trying so hard to get popular,\nwhile he doesn't have to lift a finger!=¡Yo aquí partiéndome el lomo para volverme popular, mientras él no tiene que mover ni un solo dedo!
+I need that money. No woman will want me if\nI'm broke!=¡Necesito ese dinero! ¡Ninguna mujer me va a querer si me quedo en la ruina!
+Try harder to earn people's love.=Intenta más conseguir el cariño de la gente.
+Money doesn't determine your worth.=El dinero no define tu valor.
+What do you know about anything!?=¡¿Qué demonios vas a saber tú de mi vida?!
+How else am I supposed to show my value?=¡¿De qué otra forma se supone que iba a demostrar mi valor?!
+I was jealous of that guy, and Misaki too...=Estaba muerto de celos de ese sujeto... y de Misaki también...
+If I turn over a new leaf, maybe I can become\nmore like him...=Si logro cambiar de rumbo y enmendar mis errores, tal vez pueda llegar a ser un poco más como él...
+Seems the host has had a\nchange of heart...=Todo indica que el afitrión\nha tenido un cambio\nde corazón...
+Let's go back and see Sumi...=Vayamos a ver a Sumi...
+Let's wait for things to settle down.=Esperemos a que todo se calme.
+
+Girl with Ponytail=Chica con Coleta
+Hey, {{A}}-senpai! I'm <color\=#FF423F>Kasumi Yoshizawa</color>.\nNice to meet you.=¡Hola, {{A}}-senpai! Me llamo <color\=#FF423F>Kasumi Yoshizawa</color>.\n¡Mucho gusto en conocerlo!
+I'm not actually a Phantom Thief, as I'm\nstill new to this kind of thing... but I\nhope we can get along!=En realidad no soy una Ladrón Fantasma, pues todavía soy nueva en estas cosas... ¡pero espero que podamos llevarnos bien!
+So if you ever see me, feel free to say hi!\nI look forward to chatting sometime!=Así que, si alguna vez me ves, ¡no dudes en saludar! ¡Tengo muchas ganas de charlar contigo algún día!
+
+I helped Shun research food at\nthe convenience store. I got a\npopular patisserie's dessert.=Ayudé a Shun a investigar comida en\nla tienda de conveniencia y compré un\npostre de una pastelería\nmuy famosa.
+Manaka and I went to a buffet.\nI learned the importance of\npacing oneself the hard way...=Manaka y yo fuimos a un buffet.\nAprendí la importancia de medirse\nal comer por las malas...
+
+All finished...=Todo listo...
+
+That looks like Minami over\nthere... She's reading a\ntextbook intently...=Esa parece ser Minami...\nEstá leyendo un libro de\ntexto con mucha\natención...
+Huh...? Umm...=¿Eh? Estee...
+She hasn't noticed me at\nall... She's really focused...=No se ha dado cuenta de\nque estoy aquí... Está\nmuy concentrada...
+Aaaaahhh!=¡Aaaaaahhh!
+Oh... It's you, {{A}}-kun! You surprised\nme!=¡Ah! ¡Eres tú, {{A}}-kun! ¡Me asustaste!
+Sorry, I didn't see you at all. I've been\nreally concentrating on my studies lately...=Lo siento, no te vi para nada. He estado muy concentrada en mis estudios últimamente...
+You've got good focus.=Tienes una gran concentración.
+You're working pretty hard.=Te estás esforzando bastante.
+Ehehe, I guess so... But you know, the only\nreason I've been able to find time to study\nlike this...=Jeje, supongo que sí... Pero sabes, la única razón por la que he podido encontrar tiempo para estudiar así...
+...is because of you, {{A}}-kun.=...es gracias a ti, {{A}}-kun.
+Back then, you stepped in between me and my\ndad, and gave me that push I needed...=En aquel entonces, te interpusiste entre mi papá y yo, y me diste ese empujón que necesitaba...
+I'd almost given up on my dreams of becoming\na nurse, but now I feel like I can keep\nchasing them again.=Casi había renunciado a mi sueño de ser enfermera, pero ahora siento que puedo volver a perseguirlo.
+So thank you. Really.=Así que gracias. De verdad.
+How's studying going?=¿Cómo va el estudio?
+How are your grades?=¿Cómo van tus calificaciones?
+Oof... Of course you'd ask that... Ahahaha...=Uff... Por supuesto que me preguntarías eso... Jajaja...
+I think all the time I spent helping out with\nother stuff while neglecting my studies...=Creo que todo el tiempo que pasé ayudando con otras cosas y descuidando mis estudios...
+...has finally come back to bite me, ahaha...=...al final me terminó pasando factura, jajaja...
+I actually have a really important exam\ncoming up.=De hecho, tengo un examen muy importante dentro de poco.
+We're supposed to have career counseling soon\ntoo, so if I can't get my act together, it\ncould be bad...=También tendremos orientación vocacional pronto, así que si no me pongo las pilas, me va a ir muy mal...
+So that's why I'm burying myself in this\ntextbook now.=Por eso me estoy devorando este libro de texto justo ahora.
+Why study standing up?=<size\=28>¿Por qué estás estudiando de pie?</size>
+Why not study at home?=¿Por qué no estudias en casa?
+Well, you know, my dad's the only family I've\ngot...=Bueno, ya sabes que mi papá es la única familia que tengo...
+And running an izakaya isn't easy for him\nwith his back pain, you know?=Y atender un izakaya no es nada fácil para él con su dolor de espalda, ¿sabes?
+So when I'm home, I just get swept up in\nhelping out with the shop or chores...=Así que cuando estoy en casa, me absorbe por completo ayudar con el negocio o los deberes...
+It's like I just go into autopilot. That\nmakes it hard to really focus on my studies.=Siento que entro en piloto automático, y eso hace que sea difícil concentrarme en mis estudios.
+I want to keep doing what I can to take care\nof the neighborhood kids too.=También quiero seguir haciendo lo que pueda para cuidar a los niños del vecindario.
+So I'm constantly running around, and then\nthe day is gone before I know it.=Así que me la paso corriendo de un lado a otro, y el día se termina antes de que me dé cuenta.
+That's why I'm trying to squeeze in some\nstudy time whenever I get a spare moment.=Por eso intento exprimir cada momento libre que tengo para ponerme a estudiar.
+...Now I guess studying like this has become\na habit.=...Supongo que, a estas alturas, estudiar así ya se volvió un hábito.
+Sounds tough...=Suena complicado...
+Aren't you exhausted?=¿No terminas agotada?
+No, not at all!=¡No, para nada!
+Studying like this gives me more time to\nspend helping people out.=Estudiar así me da más tiempo para ayudar a los demás.
+And that's the best thing there is!=¡Y eso es lo mejor de todo!
+But all my classmates are going to cram\nschool, so I don't know how I'll catch up...=Pero todos mis compañeros van a clases particulares,\nasí que no sé cómo voy a ponerme al día...
+With my family situation, I don't want to\nspend too much money on exam fees...=Por mi situación familiar, no quiero gastar mucho dinero en los costos de los exámenes...
+I mean, just thinking about the cost of\ntuition makes me shudder!=Es más, ¡el simple hecho de pensar en el costo de la matrícula me da escalofríos!
+That's why I want to work hard and make this\nstudying count.=Por eso quiero esforzarme al máximo para que todo este estudio valga la pena.
+Let's study together.=Estudiemos juntos.
+I could teach you.=Podría enseñarte.
+I'm here for you, Minami.=<size\=28>Estoy aquí para apoyarte, Minami.</size>
+Ahaha! Oh, {{A}}-kun, you little smooth\ntalker...=¡Jajaja! Vaya, {{A}}-kun, qué galán te volviste...
+But thanks. I appreciate it.=Pero gracias, de verdad lo aprecio.
+Maybe you could be here for me by helping me\nstudy! Does that sound okay?=¡Tal vez podrías apoyarme ayudándome a estudiar!\n¿Qué te parece?
+I was lucky to run into you today,\n{{A}}-kun.=Qué suerte tuve de cruzarme contigo hoy,\n{{A}}-kun.
+I know I'm always talking to you about my\nhome life and school stuff like it's nothing,\nbut...=Sé que siempre te hablo de mi familia y de la escuela como si nada, pero...
+You're actually the first person I've been\nable to open up to like this.=En realidad, eres la primera persona con la que me he podido desahogar así.
+So if it's all right with you... I hope we\ncan keep having these little talks.=Así que, si estás de acuerdo... espero que sigamos teniendo estas charlas.
+Oh, but I guess I'm the only one getting\nanything out of this, huh?=Oh, aunque supongo que soy la única que sale ganando con esto, ¿verdad?
+Let's see, I'm sure I could pay you back\nsomehow...=A ver... Seguro encuentro la forma de pagarte el favor...
+I've got it! If you're ever hurt, come find\nme. I'll get you patched up lickety-split!=¡Ya sé! Si alguna vez te lastimas, ven a buscarme. ¡Te curaré en un abrir y cerrar de ojos!
+Hm... But I guess you're not scraping your\nknee every day like the kids... Still, keep\nit in mind!=Mmm... Aunque supongo que no te raspas las rodillas todos los días como los niños... ¡Aun así, tenlo en cuenta!
+Oh, shoot! I got carried away talking. I've\ngotta help get the shop open!=¡Rayos! Se me fue el avión hablando. ¡Tengo que ayudar a abrir el negocio!
+I walked Minami to the shop\nand helped her prep to open...=Acompañé a Minami al negocio y la\nayudé con los preparativos\npara abrir...
+
+I started thinking about this...=Me puse a pensar en eso...
+I started thinking about this again after I started studying...=Me quedé pensando en eso otra vez después de ponerme a estudiar...
+But everything really just keeps piling up.=Pero la verdad es que todo se me sigue acumulando.
+Am I really going to be able to handle all of this?=¿De verdad podré con todo esto?
+You can do it.=Tú puedes hacerlo.
+You'll be fine.=Vas a estar bien.
+For some reason, when you say it, I feel like it'll really work out somehow...=Por alguna razón, cuando lo dices tú, siento que todo va a salir bien de alguna manera...
+Thanks. I'll do my best!=Gracias. ¡Daré lo mejor de mí!
+
+It's an old Japanese\nsweets shop.=Es una antigua tienda\nde dulces japones.
+
+Beachflower Minami=Minami Flor Costera
+
+Beachflower Minami has excellent <color\=#FFFC40>single-target buff capability</color>. She can greatly increase the critical rate and critical damage of an ally, and also boost their Attack and damage.=Minami Flor Costera tiene una excelente <color\=#FFFC40>capacidad de mejora (buff) a un solo objetivo</color>. Puede aumentar enormemente la probabilidad crítica y el daño crítico de un aliado, además de potenciar su Ataque y daño.
+
+During battle, when certain conditions are met, she can use medicine <color\=#FFFC40>without spending a turn</color>, and also greatly strengthen the effects of certain medicine.=Durante la batalla, cuando se cumplen ciertas condiciones, puede usar medicina <color\=#FFFC40>sin consumir un turno</color>, y también potenciar enormemente los efectos de cierta medicina.
+
+She has Everyday Medicine that is <color\=#FFFC40>not consumed upon use</color>, and her Synergy ability unlocks <color\=#FFFC40>Potent Medicine</color> for purchase.=Tiene Medicina Diaria que <color\=#FFFC40>no se consume con el uso</color>, y su habilidad de Sinergia desbloquea la <color\=#FFFC40>Medicina Potente</color> para su compra.
+
+Potent Medicine\nDOT-Up: Increase 1 ally's continuous damage.\nTechnica-Up: Increase 1 ally's Technical Precision.\nReso-Up: Increase 1 ally's Resonance damage.\n1More-Up: Increase 1 ally's 1 More and All-Out Attack damage.\nHL-Up: Increase 1 ally's Highlight or Theurgy damage amplification.\n\nBeachflower Minami's Everyday Medicine (not consumed)\nAttacker Tablet: Increase 1 ally's Attack.\nDefender Tonic: Increase 1 ally's Defense.\nFighter Salve: Increase 1 ally's damage.=Medicina Potente\nDaño por Tiempo +: aumenta el daño continuo de 1 aliado.\nPrecisión Técnica +: aumenta la precisión técnica de 1 aliado.\nResonancia +: aumenta el daño de resonancia de 1 aliado.\n1 More +: aumenta el daño de 1 More y del Ataque Combinado de 1 aliado.\nHL +: aumenta la amplificación de daño de Highlight o Teúrgia de 1 aliado.\n\nMedicina Diaria de Minami Flores Costera (no consumible)\nPastilla de Atacante: aumenta el ataque de 1 aliado.\nTónico de Defensor: aumenta la defensa de 1 aliado.\nBálsamo de Combatiente: aumenta el daño de 1 aliado.
+Beachflower Minami's Everyday Medicine. These are not consumed upon use.\nAttacker Tablet: Increase 1 ally's Attack.\nDefender Tonic: Increase 1 ally's Defense.\nFighter Salve: Increase 1 ally's damage.=Medicina Diaria de Minami Flor Costera. No se consumen con el uso.\nPastilla de Atacante: Aumenta el Ataque de 1 aliado.\nTónico de Defensor: Aumenta la Defensa de 1 aliado.\nBálsamo de Combatiente: Aumenta el daño de 1 aliado.
+
+Beach Basket=Canasta Playera
+Summer Garden=Jardín Veraniego
+Soothing Sunlight=Luz Solar Relajante
+Blossoms by the Beach=Florecer Costero
+Gentle Sea Breeze=Brisa Marina Suave
+Midsummer Prescription=Receta de Pleno Verano
+Seaside Flower: Budding Blossom=Flor Costera: Capullo en Flor
+Bewitching Blossoms=Flores Cautivadoras
+
+Seaside First Aid=Primeros Auxilios Costeros
+Summertime Cure-all=Cura Veraniega Total
+Spellbinding Summer Scents=Aromas Veraniegos Cautivadores
+Relaxing Breeze=Brisa Relajante
+Lingering Ripples of Summer=Ecos de un Verano Eterno
+White Flowers Swaying=Danza de Flores Blancas
+
+Minami 2=Minami 2
+Flower Basket=Canasta de Flores
+[Nostalgic Flower Basket]=[Canasta de Flores Nostálgica]
+Nostalgic Flower Basket=Canasta de Flores Nostálgica
+Soda Crate=Canasta de Bebidas
+[Refreshing Flower Basket]=[Canasta de Flores Refrescante]
+Refreshing Flower Basket=Canasta de Flores Refrescante
+Tea Time Delight=Delicia De La Hora Del Té
+[Lovely Flower Basket]=Canasta de Flores Encantadora]
+Lovely Flower Basket=Canasta de Flores Encantadora
+Everlasting Garden=Jardín Eterno
+[Sparkling Flower Basket]=[Canasta de Flores Radiante]
+Sparkling Flower Basket=Canasta de Flores Radiante
+
+N<color\=#000000>o</color>stalgic Flower Basket=C<color\=#000000>a</color>nasta de Flores Nostálgica
+R<color\=#000000>e</color>freshing Flower Basket=C<color\=#000000>a</color>nasta de Flores Refrescante
+L<color\=#000000>o</color>vely Flower Basket=C<color\=#000000>a</color>nasta de Flores Encantadora
+S<color\=#000000>p</color>arkling Flower Basket=C<color\=#000000>a</color>nasta de Flores Radiante
+M<color\=#000000>i</color>dsummer Prescription=R<color\=#000000>e</color>ceta de Pleno Verano
+G<color\=#000000>e</color>ntle Sea Breeze=B<color\=#000000>r</color>isa Marina Suave
+F<color\=#000000>i</color>ghter Salve=B<color\=#000000>á</color>lsamo de Combatiente
+B<color\=#000000>e</color>witching Blossoms=F<color\=#000000>l</color>ores Cautivadoras
+S<color\=#000000>u</color>mmer Garden=J<color\=#000000>a</color>rdín Veraniego
+A<color\=#000000>t</color>tacker Tablet=P<color\=#000000>a</color>stilla de Atacante
+D<color\=#000000>e</color>fender Tonic=T<color\=#000000>ó</color>nico de Defensor
+1<color\=#000000>M</color>ore-Up=A<color\=#000000>u</color>mento de 1Más
+H<color\=#000000>L</color>-Up=A<color\=#000000>u</color>mento de Highlight
+T<color\=#000000>e</color>chnica-Up=A<color\=#000000>u</color>mento Técnico
+R<color\=#000000>e</color>so-Up=Aumento de Resonancia
+D<color\=#000000>O</color>T-Up=A<color\=#000000>u</color>mento de DOT
+
+Can be spent to gain Flower Basket Pharmacy.=Se puede consumir para obtener Farmacia de la Canasta de Flores.
+
+Unlock the ability to purchase enhancement items from the pharmacy in Zoshigaya.=Desbloquea la capacidad de comprar artículos de mejora en la farmacia del Zoshigaya.
+Recommended Everyday Medicine=Medicamentos Recomendados para el uso Diario
+Get 10% off on all medicinal items.=Obtén un 10% de descuento en todos los productos medicinales.
+Satomi Sato=Satomi Sato
+Pharmacy=Farmacia
+Drugstore=Farmacia
+Zoshigaya Pharmacy=Farmacia Zoshigaya
+
+It's good to see you. I'm about to head off\nto practice...=Qué bueno verte. Ya me iba a practicar...
+I've really improved lately. Coach has been\nconstantly showering me with praise.=He mejorado un montón últimamente. La entrenadora me ha estado alabando todo el tiempo.
+I've been wanting to show you. Let's get\ngoing.=Quería enseñártelo. Vamos.
+Her movements have become\nmore graceful and elegant.=Sus movimientos son más\nelegantes y gráciles.
+What did you think?=¿Qué te pareció?
+You're getting better.=Estás mejorando.
+You're practically perfect.=Estás prácticamente perfecta.
+It was beautiful.=Fue hermoso.
+Thanks... I suppose...=Gracias... supongo...
+I'm not sure that was what I wanted to\nhear...=No estoy segura de que eso sea lo que quería escuchar...
+Shall we take a quick break? Coach should be\ngetting here soon.=¿Tomamos un descanso rápido?\nLa entrenadora debería llegar pronto.
+Ever since that last practice... I've been\nthinking about what exactly I wanted to hear\nfrom you.=Desde esa última practica... he estado pensando qué era exactamente lo que quería oír de ti.
+But... I still don't know.=Pero... todavía no lo sé.
+It makes me happy to know that you enjoyed\nmy performance and couldn't look away but...=Me alegra que te haya gustado mi actuación y que no pudieras apartar la mirada, pero...
+Kotone-senpaaaai!=¡Kotone-senpaaaai!
+Oh my, you're here.=Oh, mira, ya llegaste.
+I heard you were at practice so I came by to\ncheer you on.=Escuché que estabas en práctica, así que pasé a animarte.
+I left you a present with your manager.\nThey're gloves for practice! Make sure to\npick them up later, okay?=Te dejé un regalito con tu mánager. ¡Son guantes para entrenar! Asegúrate de recogerlos luego, ¿si?
+Thank you. I'll be sure to use them.=Gracias. Me aseguraré de usarlos.
+Kotone-san... Um, who's this guy?=Kotone-san... Ehm, ¿quién es este chico?
+This is {{A}}-kun. He's saved\nme on multiple occasions. I've mentioned him\nbefore.=Este es {{A}}-kun. Me ha salvado un montón de veces. Ya te lo había mencionado.
+Oh, that's right! Pheeew. Good thing I asked\nfirst!=¡Ah, es verdad! Uff. ¡Menos mal que pregunté primero!
+You must have seen that news article... Don't\nworry. It's fine.=Seguro que viste ese artículo de noticias... No te preocupes.\nEstá bien.
+She's a junior from the skating club I used\nto go to. Sometimes she'll drop in like\ntoday.=Es una junior del club de patinaje al que solía ir. A veces pasa de visita como hoy.
+Remember when we went looking for that\nromance novel? She's the one who\nrecommended it to me.=¿Te acuerdas de cuando fuimos a buscar esa novela romántica?\nElla fue quien me la recomendó.
+I'm taking a break right now until Coach gets\nhere.=Estoy tomando un descanso ahora mismo hasta que llegue la entrenadora.
+Yaaay! I'll get to see you skate then!=¡Siii! ¡Entonces podré verte patinar!
+Oh yeah... I heard that Coach Kuroe's\ncontract is up this season...=Ah, sí... Escuché que el contrato de la Entrenadora Kuroe termina esta temporada...
+Have you heard anything? Erm... About what\nher plans are after that?=¿Has escuchado algo? Esto... ¿Sobre cuáles son sus planes después de eso?
+No, I haven't...=No, no he escuchado nada...
+Now now, enough of that.=Ya, ya, suficiente de eso.
+Let's save that talk for later. Though...\nI do believe Kotone will be just fine.=Dejemos esa conversación para después. Aunque...\ncreo firmemente que Kotone estará bien.
+I've kept you all waiting. How are things\ncoming along? You seem somewhat disappointed.=Los he hecho esperar a todos. ¿Cómo van las cosas? Pareces algo decepcionado.
+Kotone's Friend=Amigo de Kotone
+I think my skating was fine, but...=Yo creo que mi patinaje estuvo bien, pero...
+I still don't know what I'm hoping to hear.=Todavía no sé qué es lo que espero escuchar.
+Kotone, my dear, what is the theme of your\nperformance?=Kotone, querida, ¿cuál es el tema de tu actuación?
+Isn't it "Love's Embrace?" I haven't\nforgotten it but...=¿No es "El Abrazo del Amor"? No lo he olvidado, pero...
+Coach...?=¿Entrenadora...?
+How did you come up with this routine?=¿Cómo se te ocurrió esta rutina?
+An excellent question... One I'm certain that\nany explanation I offer will fall short of\nthe answer that you seek...=Una excelente pregunta... Una que estoy segura de que cualquier explicación que ofrezca no podrá alcanzar la respuesta que buscas...
+I'll do my best to detail my artistic thought\nprocess for when I choreographed your\nroutine.=Haré todo lo posible para detallar mi proceso de pensamiento artístico al coreografiar tu rutina.
+All right? Choreography is like sending a\nletter.=¿Entendido? La coreografía es como enviar una carta.
+When do the words you've written bring your\nthoughts and feelings of love to life?=¿Cuándo le dan vida a tus pensamientos y sentimientos de amor las palabras que has escrito?
+Can't you explain it another way? I don't\nunderstand anything you've said just now...=¿No puedes explicármelo de otra manera? No entendí nada de lo que acabas de decir...
+That's always the case.=Eso siempre pasa.
+You've got time.=Tienes tiempo.
+You're right... Thank you for being\nreassuring.=Tienes razón... Gracias por tranquilizarme.
+I'm going back in. Maybe it'll be easier to\nthink while I'm skating.=Voy a volver a entrar. Tal vez sea más fácil pensar mientras patino.
+You've been a great help. With you here,\nKotone has been able to put more thought\ninto her skating.=Has sido de gran ayuda. Con ti aquí, Kotone ha podido pensar más en su patinaje.
+You could be more direct...=Podrías ser más directo...
+It's no big deal.=No es nada.
+Kotone often takes what people say straight\nto heart. Even those vile comments they put\nonline...=Kotone a menudo se lo toma todo muy a pecho. Hasta esos comentarios asquerosos que ponen en internet...
+That being said... You may have already\nnoticed it yourself.=Dicho esto... Tal vez ya te hayas dado cuenta tú mismo.
+My hints may be abstract, but that is only to\nmake sure she doesn't come to any hasty\nconclusions.=Mis pistas pueden ser abstractas, pero es solo para asegurarme de que no llegue a conclusiones precipitadas.
+It certainly is not the best method. It has\nfailed to get results on several occasions.=Ciertamente no es el mejor método. Ha fallado en obtener resultados varias veces.
+But with you here to support her, I can\nretire without regrets... Thank you.=Pero con que estás aquí para apoyarla, puedo retirarme sin arrepentimientos... Gracias.
+I stayed with Kotone until the\nend of her practice.=Me quedé con Kotone hasta\nel final de su práctica.
+Enter channel number (1-999).=Introduce el número de canal (1-999).
+
+About Coach's advice...=Sobre el consejo de la entrenadora...
+Coach is always vague with\nher feedback...=La entrenadora siempre es muy vaga con sus comentarios...
+But as soon as you chimed in,\nit suddenly all made sense.=Pero tan pronto como intervendrás, todo cobró sentido de repente.
+It was like getting a hint in\na quiz. I really appreciate it.=Fue como recibir una pista en un cuestionario. De verdad lo aprecio mucho.
+Does Coach's advice always\nmake sense to you?=¿El consejo de la entrenadora siempre\ntiene sentido para ti?
+More or less.=Más o menos.
+To an extent.=Hasta cierto punto.
+Wow... It always takes me a\nconsiderable amount of time to\nfigure it out.=Vaya... Siempre me toma una cantidad considerable de tiempo entenderlo.
+But Coach has always been like\nthat. Sometimes I wish she'd\nbe just a little clearer...=Pero la entrenadora siempre ha sido así. A veces desearía que\nfuera un poco más clara...
+She's probably struggling too.=<size\=26>Ella probablemente también esté teniendo dificultades.</size>
+She wants you to think on it.=Quiere que pienses en ello.
+I suppose... It is quite\ntypical of her, and I know she\ngives things a lot of thought.=Supongo... Es bastante típico de ella, y sé que le da muchas vueltas a las cosas.
+In any case, I'm glad I have\nyou to help me make sense\nof things, so thank you.=En cualquier caso, me alegra tenerte para ayudarme a entender las cosas, así que gracias.
+
+
+
+
+
+
 
 
 
