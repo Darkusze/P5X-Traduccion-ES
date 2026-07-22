@@ -1,55 +1,61 @@
-#  P5X Traducción fan ES (Global) (PC)
+# P5XTES Patcher
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d090757b-0b69-40bf-b925-3330996b17b0" width="50%" />
 </p>
 
-## introducción
+## Introducción
+**P5XTES Patcher** es un proyecto fan-made diseñado como un ecosistema integral para Persona 5: The Phantom X (P5X). Originalmente enfocado en la traducción al español, ha evolucionado hasta convertirse en una herramienta de gestión completa que permite instalar mods visuales, personalizar el nombre del protagonista, ocultar elementos de la interfaz (UI/ID) y gestionar la configuración técnica del juego de forma sencilla mediante plugins como BepInEx y XUnity.AutoTranslator.
 
-P5XTES es un proyecto fan-made para llevar a cabo la traduccion al español de la versión global de Persona 5 The Phantom X (P5X) mediante el uso del plugins mod [BepInEx](https://github.com/BepInEx/BepInEx) y [XUnity](https://github.com/bbepis/XUnity.AutoTranslator) para crear y cargar las traducciones automaticas generadas y manuales.
+## ¿Por qué este proyecto?
+La versión global de Persona 5: The Phantom X fue lanzada únicamente en inglés, lo que dificulta que los jugadores hispanohablantes disfruten de la narrativa. Este proyecto busca eliminar esa barrera, permitiendo a todos sumergirse en la experiencia completa del juego sin frustraciones idiomáticas. Además, entendemos que la configuración técnica puede ser compleja, por lo que P5XTES Patcher centraliza todas las herramientas necesarias para personalizar tu experiencia y mejorar la calidad de vida dentro del juego de manera accesible y segura.
 
-## ¿A que se debe este proyecto?
+## ¿Qué mejoramos?
+*   Alcance: Ya no defines el proyecto solo como una "traducción", sino como un ecosistema integral.
+*   Valor añadido: Explicas claramente que el proyecto ahora también cubre personalización y calidad de vida, no solo el idioma.
+*   Claridad técnica: Mencionas que la herramienta facilita procesos que antes eran complejos, reforzando por qué el usuario necesita descargar tu Patcher.
 
-Todos sabemos que la versión global de Persona 5: The Phantom X fue lanzada únicamente en inglés, lo que representa un problema significativo para los jugadores hispanohablantes. Muchos abandonan el juego o pierden el interés porque no dominan el idioma lo suficiente para disfrutar de los diálogos profundos, misiones, eventos y otros elementos narrativos. Por eso, decidí crear esta traducción al español para abarcar a más personas, permitiendo que un mayor número de jugadores acceda al contenido completo y se sumerja en la experiencia sin frustraciones al no entenderlo.
+## ¿Qué es P5XTES Patcher?
 
-## ¿Estare actualizando las traducciones del juego?
-Sí, planeo actualizar las traducciones regularmente para mantener compatibilidad con los parches oficiales del juego y agregar mejoras basadas en feedback.
+**P5XTES Patcher** es la herramienta de gestión todo-en-uno diseñada para mejorar y personalizar tu experiencia en *Persona 5: The Phantom X*. Más que un simple instalador, funciona como un ecosistema centralizado que permite a los usuarios gestionar traducciones, mods y configuraciones del juego de manera intuitiva.
 
-Si quieres ver mas detalles visita a mi [Ko-fi](https://ko-fi.com/shinoesp)
+## Características Principales
 
-Vista a mi discord pueden contactarme por el servidor y tengo mas información [Discord](https://discord.gg/9MFSd3AAc4) 
+El Patcher ha sido desarrollado para simplificar procesos técnicos complejos en una interfaz amigable:
 
-## Guía de instalación
+*   **Gestión Integral de Traducciones**: Permite implementar traducciones al español (versión Global/SEA) e inglés (servidores KR, TW, CN), con la capacidad de activar o desactivar el auto-traductor según tus necesidades.
+*   **Mod Manager Integrado**: Un gestor avanzado que permite instalar, actualizar y gestionar mods adicionales (como mejoras de interfaz o ajustes visuales) sin complicaciones. Soporta instalación múltiple de mods y gestión de versiones.
+*   **Personalización del Protagonista**: Herramienta dedicada para configurar y personalizar el nombre del protagonista directamente desde el Patcher.
+*   **Privacidad y Streaming**: Incluye una función de "Ocultar ID" con un solo clic, ideal para creadores de contenido que desean proteger su ID de jugador durante sus transmisiones o capturas.
+*   **Compatibilidad Multi-Servidor**: Detecta automáticamente la ruta del juego y permite adaptar los componentes necesarios según el servidor donde juegues.
+*   **Soporte Multi-Plataforma**: Optimizado para Windows y Linux (Steam Deck), eliminando la necesidad de configuraciones manuales complejas.
+*   **Actualizaciones Automáticas**: Verifica la disponibilidad de nuevas versiones del *Core*, textos y texturas, manteniendo tu juego siempre al día.
 
-### Herramienta P5XTES Patcher
-P5XTES Patcher es herramienta de gestion de archivos para descarga versiones que se estara publicando por github y ademas de facilitar la instalacion del mod para el juego. Ademas, Cuenta con herramientas para personalizar el nombre del protagonista del juego si por defecto no tienes el personaje como Nagisa Kamisiro y ademas incluye una herramienta para ocultar el ID (solamente la parte inferior del juego) si es que no quieres motrar al púbilico por stream tu ID del juego o compatir una captura.
+---
 
-### **¿Que hay de Novedades tiene a compracion la versión 1.0.0?**
+## 🛠️ ¿Por qué usar P5XTES Patcher?
 
-- Se ha agregado una interfaz grafica amigable.
-- Facilidad de ver disponibilidad actualizaciones disponibles del mod P5XTES (Core, Texto, Textura)
-- Guardado de nombre de Protagonista personalizado.
-- Ocultar ID con tan solo un click.
-- Botón de Ejecutar el juego (importante: requiere estar conectado a la cuenta de Steam o Google Play Games)
-- Botón de Desinstalar el Mod
+Sabemos que la versión Global del juego presenta barreras idiomáticas y técnicas. Este programa nació para centralizar todas las soluciones necesarias en un solo lugar:
 
-<div align="center">
-<img width="65%" alt="P5XTES Patcher" src="https://github.com/user-attachments/assets/31e55a10-03df-4da4-8fd6-3deb20088d0e" />
-</div>
-
-
-### **¿Que es el Core?**
-El Core (Núcleo) es donde se encuentra los archivos para hacer funcionar el mod español para el juego de Persona 5:The Phantom X (GLB) no incluye los archivos de texturas ni texto traducidos.
-
-### **¿Que debo hacer para poder utilizar el P5XTES Patcher si tengo instalado los viejos archivos?**
-Para ello solamente tendrias que volver a reinstalar los mods desde el Launcher y listo.
+1.  **Centralización**: No necesitas buscar archivos sueltos por internet; el Patcher descarga e instala el *Core* necesario para que todo funcione.
+2.  **Seguridad**: Asegura que utilices los componentes (como la versión específica de BepInEx) que garantizan que el juego no se cierre o presente errores de compatibilidad.
+3.  **Facilidad de Uso**: Cambia el idioma de la interfaz (Español/Inglés), gestiona tus servidores y controla tus mods desde un panel de control unificado.
 
 <div align="center">
-<img width="65%" alt="P5XTES Patcher2" src="https://github.com/user-attachments/assets/b4b9ada5-3656-4e39-a0c6-a75dd5b49477" />
+<img width="65%" alt="Interfaz del Patcher" src="https://github.com/user-attachments/assets/833bcc03-fd3b-442c-92be-31ce62b98900" />
 </div>
 
-Y listo, vuelves al launcher de P5XTES Patcher y le das al botón Actualizar/Descargar todo.
+[Novedades de ultima versión](https://github.com/Darkusze/P5XTES/releases/tag/a3.0.0)
 
-Versión Ultima Publicado [Aquí 2.2.0](https://github.com/Darkusze/P5XTES/releases/tag/a2.2.0)
+---
+
+## 💬 Comunidad y Soporte
+
+El proyecto crece gracias al feedback de la comunidad. Si tienes dudas, quieres reportar un error o simplemente quieres compartir tu experiencia:
+
+*   **Discord:** Únete a nuestro servidor para soporte técnico y novedades: [Discord Server](https://discord.gg/9MFSd3AAc4).
+*   **Ko-fi:** Si deseas apoyar el desarrollo continuo de esta herramienta: [Ko-fi/shinoesp](https://ko-fi.com/shinoesp).
+---
 
 ## Advertencia Legal
 
