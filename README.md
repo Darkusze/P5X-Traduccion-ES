@@ -36,24 +36,15 @@ Si ya tienes instalado el mod solo necesita actualizar los archivos de Translati
 - Desde el [Release](https://github.com/Darkusze/P5XTES/releases): Por el repositorio tendras un archivo llamado Only-Translation.x.x.zip, extrae el archivo .zip y tendras la carpeta de Translation, lo copias y pegas a la siguiente ruta P5X\client\pc\BepInEx
 
   
-## El mod ha modificado mi nombre y tambien afecta el chat general del juego ¿que puedo hacer?
-El mod usa un auto traductor como mencione en el proyecto agarra las traducciones automaticas por si hay alguna traducción  que no tenga a la mano (si se fijan el nombre de mi protagonista se llama Nagisa Kamisiro por default) por lo que el texto de algunos dialogos o nombres de los personaje (mas que todo el protagonista) no lo tomara por no tener el nombre tal cual como esta escrito en la traducción manual, que puede afectar los que tienen nombre japones o en ingles.
+## Herramienta P5XTES Patcher
+P5XTES Patcher es un programa para modificar nombre del protagonista que viene por defecto y ocultar el ID del interfaz para que puedan hacer stream sin problemas o grabar video para subirlo en su plataforma de preferencia.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6b7602f5-1db9-4f16-b767-6e940605320f" width="50%" />
+</p>
 
-### Soluciones
-Hay formas de solucionarlo por lo que puedo mencionar lo siguiente:
-- Agreguen manualmente sus nombre en el archivo de _Substitutions.txt localizado en \P5X\client\pc\BepInEx\Translation\es\Text
-<img width="707" height="269" alt="image" src="https://github.com/user-attachments/assets/ce0c7161-70b2-40f4-bb54-88804ae73fdb" />
+¡Proximamente mas opciones!
 
--Y escribes tu nombre del pj como se ve en el siguiente ejemplo:
-
-<img width="365" height="86" alt="image" src="https://github.com/user-attachments/assets/ecc5b52c-7e1c-4bda-822e-bef146602b7b" />
-
-- Otra Solución es usar otro Endpoint para la traducción pueden usar las de Deepl o alguna de su preferencia si tienes conocimiento puedes cambiarlo a tu gusto para cambiarlo tienes que ir
-<string name="text">P5X\client\pc\BepInEx\config <b></b>.</string> y busquen el archivo llamado AutoTranslatorConfig.ini, Tengo una guía subida en mi Servidor de discord
-
-<img width="483" height="95" alt="image" src="https://github.com/user-attachments/assets/5cb5372c-aef4-4682-9fe9-245649c6cbf2" />
-
-
+Mas informacion del P5XTES Patcher [Aquí](https://github.com/Darkusze/P5XTES/releases/tag/v1.0.0)
 
 ## Advertencia Legal
 
