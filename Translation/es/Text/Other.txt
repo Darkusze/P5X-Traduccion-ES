@@ -73,6 +73,8 @@ They're knocked down!\nWhat do we do!?=¡Están derribados!\n¿¡Qué hacemos!?
 Oh no! You're at your limit!=¡Oh, no! ¡Ya estás en las últimas!
 It'd be nice if we had these in Tartarus...=Sería bueno que tuviéramos esto en Tártaro…
 Combat Gear=Equipo de combate
+Okay. I'm going!=Está bien. ¡Ya voy!
+All right, let's be off!=¡Muy bien, vámonos!
 A<color\=#000000>t</color>tack Down=A<color\=#000000>t</color>aque Bajo
 M<color\=#ff0000ff>a</color>koto Yuki & Shun=M<color\=#ff0000ff>a</color>koto Yuki y Shun
 M<color\=#000000>a</color>tarunda=M<color\=#000000>a</color>tarunda
@@ -88,6 +90,9 @@ A<color\=#000000>s</color>cetic Ordeals=T<color\=#000000>r</color>ibulaciones As
 T<color\=#000000>h</color>reefold Transcendence=T<color\=#000000>r</color>ascendencia Triple
 F<color\=#000000>i</color>nal Damage Down=R<color\=#000000>e</color>ducción de Daño Final
 P<color\=#ff0000ff>h</color>armacy=F<color\=#ff0000ff>a</color>rmacia
+S<color\=#000000>e</color>rpent's Venom=V<color\=#000000>e</color>neno de Serpiente
+C<color\=#000000>o</color>ntinuous Damage Up=A<color\=#000000>u</color>mento de Daño Continuo
+It seems that Frostgale Kotone has something they want to talk about.=Parece que Kotone Vientogélido tiene algo de lo que quiere hablar.
 Zaou-Gongen's Seal=Sello de Zaou-Gongen
 Order of Balance=Orden del Equilibrio
 Obeyed Order of Balance...=Orden del Equilibrio Obedecida
@@ -170,6 +175,7 @@ Until next time, then! Woof! Woof! Hooray!=¡Hasta la próxima, entonces! ¡Guau
 2303938(textId) error=error 2303938(textId)
 2303092(textId) error=2303092(textId) error
 2303421(textId) error=2303421(textId) error
+tnxotb-[Skill_descSimple_142140]=tnxotb-[Skill_descSimple_142140]
 Comrade's Protection=Protección de Camarada
 Kageuchi=Kageuchi
 Zangetsu Flash=Zangetsu Destello
@@ -852,9 +858,13 @@ I'm sorry... If only I\ncould've helped more...=Lo siento mucho... Si tan solo h
 Our friend is down! Watch out!=¡Nuestro amigo ha caído!\n¡Cuidado!
 Enemy down! You're on a roll!=¡Enemigo derribado! ¡Estás imparable!
 Wow, that was super cool...!=¡Guau, eso estuvo increíble...!
+You've been weakened.\nBe careful!=Te han debilitado.\n¡Ten cuidado!
 Enjoy responsibly, okay?=Disfruta con moderación, ¿de acuerdo?
 Amazing!\nYou took them all down!=¡Impresionante!\n¡Los has derribado a todos!
 Time for an all-out attack! ♪=¡Hora de un Ataque Combinado! ♪
+You're down! Are you okay!?=¡Te derribaron! ¡¿Te Encuentras bien?!
+Time for some payback!=¡Es hora de vengarnos!
+Are you okay?\nCan you hear me!?=¿Estás bien?\n¡¿Puedes oírme?!
 H<color\=#ff0000ff>a</color>tsune Miku=H<color\=#ff0000ff>a</color>tsune Miku
 Miku's song resounds through\nthe halls. I stop and listen\nto her sing for a while...=La canción de Miku resuena por los pasillos.\nMe detengo y la escucho cantar un rato...
 Miku is singing happily.\nListening to her song, I feel\nmyself relax...=Miku canta con mucha alegría.\nAl escuchar su canción,\nsiento cómo me relajo...
@@ -1361,6 +1371,7 @@ Thanks. I'll do my best!=Gracias. ¡Daré lo mejor de mí!
 
 It's an old Japanese\nsweets shop.=Es una antigua tienda\nde dulces japones.
 
+B<color\=#ff0000ff>e</color>achflower Minami=M<color\=#ff0000ff>i</color>nami Flor Costera
 Beachflower Minami=Minami Flor Costera
 
 Beachflower Minami has excellent <color\=#FFFC40>single-target buff capability</color>. She can greatly increase the critical rate and critical damage of an ally, and also boost their Attack and damage.=Minami Flor Costera tiene una excelente <color\=#FFFC40>capacidad de mejora (buff) a un solo objetivo</color>. Puede aumentar enormemente la probabilidad crítica y el daño crítico de un aliado, además de potenciar su Ataque y daño.
@@ -1502,6 +1513,243 @@ She's probably struggling too.=<size\=26>Ella probablemente también esté tenie
 She wants you to think on it.=Quiere que pienses en ello.
 I suppose... It is quite\ntypical of her, and I know she\ngives things a lot of thought.=Supongo... Es bastante típico de ella, y sé que le da muchas vueltas a las cosas.
 In any case, I'm glad I have\nyou to help me make sense\nof things, so thank you.=En cualquier caso, me alegra tenerte para ayudarme a entender las cosas, así que gracias.
+
+Oh, {{A}}-san. I just finished physical\ntherapy for today...=Ay, {{A}}-san. Acabo de terminar mi terapia física por hoy...
+Would you like to go out for a stroll with\nme?=¿Te gustaría salir a dar un paseo conmigo?
+That's okay. Maybe next time.=No te preocupes. Tal vez la próxima.
+Recently, my rehab sessions have been going\non longer.=Últimamente, mis sesiones de rehabilitación han durado más.
+Since I've been gaining muscle back, they\nsaid I can handle longer training sessions.=Como he estado recuperando músculo, me dijeron que ya puedo aguantar sesiones de entrenamiento más largas.
+I still need to hold onto things while I\nwalk, but I'm doing so much better now.=Todavía necesito apoyarme en algo para caminar, pero ya estoy mucho mejor.
+Not long to go now.=Ya falta poco.
+I'm so happy to hear that.=Me alegra mucho oír eso.
+Oh, hey, are you thirsty?=¡Ah, oye! ¿Tienes sed?
+I'm gonna go buy drinks, so wait here!=¡Iré a comprar algo de tomar, así que espérame aquí!
+Want me to go with you?=¿Quieres que te acompañe?
+Will you be okay on your own?=¿Estarás bien si te quedas sola?
+I'll be fine! But... maybe you could just\nwatch me from here?=¡Estaré bien! Pero... ¿tal vez podrías vigilarme desde aquí?
+You're getting good at this.=Te estás volviendo bueno en esto.
+You aced that.=Lo lograste de maravilla.
+Thank you. Spinning the wheels takes a lot of\nout of me, so it's still kinda hard.=Gracias. Girar las ruedas me agota mucho, así que todavía me cuesta un poco.
+When I first woke up in the hospital, I never\nimagined a day I'd be working hard at\nphysical therapy.=Cuando desperté en el hospital por primera vez, nunca imaginé que llegaría el día en que me esforzaría tanto en la terapia física.
+I just wanted to close my eyes forever... I\ndidn't know why I was still alive.=Solo quería cerrar los ojos para siempre... No sabía por qué seguía viva.
+I didn't want to get better...=No quería mejorar...
+Even when I was finally able to roll off the\nbed, I wished the ground would disappear so I\ncould fall down for good.=Incluso cuando por fin pude salir rodando de la cama, deseaba que el suelo desapareciera para poder caer de una vez por todas.
+But now... I'm so glad I didn't die. As tough\nas rehab is, it's rewarding. I feel like I\nhave something to live for.=Pero ahora... me alegra tanto no haber muerto. Aunque la rehabilitación sea difícil, da gusto ver los resultados. Siento que tengo algo por qué vivir.
+My doctor said it was a miracle that my head\ndidn't hit the concrete.=Mi doctor dijo que fue un milagro que mi cabeza no golpeara el concreto.
+Although I had broken bones all over, if it\nwas my head...=Aunque tenía los huesos rotos por todos lados, si se trataba de mi cabeza...
+I probably never would've walked again.=Probablemente nunca volvería a caminar.
+I used to think I was better off dead. I\nthought dying would make the pain stop.=Solía pensar que era mejor estar muerta. Pensaba que si moría, el dolor se detendría.
+But now I know how wrong I was.=Pero ahora sé lo equivocada que estaba.
+I'm so thankful to be alive. I'm so thankful\nfor that miracle...=Estoy tan agradecida de estar viva y de este gran milagro...
+Because there's so much in life I wanna do.=Porque hay tantas cosas en la vida que quiero hacer.
+I want to feel my feet on the ground, explore\nwith the person who's always been there for\nme, throw myself into music...=Quiero sentir mis pies sobre el suelo, explorar con la persona que siempre ha estado ahí para mí, lanzarme de lleno a la música...
+I want to repay you, {{A}}-san... And I\nwant to be able to go to school with a smile\non my face.=Quiero recompensarte, {{A}}-san... Y quiero poder ir a la escuela con una sonrisa en la cara.
+I'm only able to have all these hopes because\nI'm alive.=Solo puedo tener todas estas esperanzas porque estoy viva.
+Before, I was so buried by the endless hate\ncomments, I couldn't see all the things I\nhave to live for.=Antes, estaba tan hundida por tantos comentarios de odio que no podía ver todas las cosas por las que vale la pena vivir.
+But almost dying, and then getting a second\nchance, I finally realize how much I would've\nmissed...=Pero después de casi morir y tener una segunda oportunidad, por fin me doy cuenta de todo lo que me habría perdido...
+So where will you start?=<size\=28>Entonces, ¿por dónde vas a empezar?</size>
+What do you wanna do most?=¿Qué es lo que más quieres hacer?
+Huh!? Well...=¡¿Eh?! Bueno...
+...I want to walk side-by-side with my\ngrandma.=...Quiero caminar junto a mi abuela.
+Like I said... I feel guilty that she's been\ndoing everything for me.=Como dije... me siento culpable de que ella se haya estado encargando de todo por mí.
+I need to repay her.=Tengo que compensarla.
+The other day, I saw my grandma watching a\ntravel documentary...=El otro día vi a mi abuela viendo un documental de viajes...
+It made me think about how much I'd love to\ntreat her to a trip someday...=Eso me hizo pensar en lo mucho que me encantaría invitarla a un viaje algún día...
+But I'd need to work part-time to be able to\nfund everything, and I'm in no position to do\nthat now...=Pero tendría que tener un trabajo de medio tiempo para poder pagarlo todo, y ahora mismo no estoy en condiciones de hacer eso...
+Step one: finish physical therapy, right?=Paso uno: terminar la terapia física, ¿verdad?
+Where do you want to take her?=¿A dónde quieres llevarla?
+Yeah, one step at a time.=Sí, un paso a la vez.
+Yes! I'll give each small step everything I\ngot!=¡Sí! ¡Daré todo lo que tenga en cada pequeño paso!
+Speaking of motivation, I spy a pretty wide\nfield over there!=Hablando de motivación, ¡veo un campo bastante grande por allá!
+If you don't mind... could you help me with\nmy walking practice?=Si no te importa... ¿podrías ayudarme con mi práctica de caminata?
+I was thinking... you could just lend me your\nhand for support?=Estaba pensando... ¿podrías solo darme la mano para apoyarme?
+Is it okay to practice outside?=¿Está bien practicar afuera?
+You sure I'm enough support?=¿Estás segura de que soy suficiente apoyo?
+Yeah. My doctor told me I can practice as\nlong as there's a safe place to fall.=Sí. Mi doctor me dijo que puedo practicar siempre y cuando haya un lugar seguro donde caerme.
+I decided to help Manaka...=Decidí ayudar a Manaka...
+H-Here I go...!=¡A-Allá voy...!
+Ngh... Ah.... Grgh... Nrgh!=¡Ngh...! ¡Ah...! ¡Grgh...! ¡Nrgh!
+Even just taking one step\nlooks like a workout for her...=Dar un solo paso ya parece\nun gran esfuerzo para ella...
+Ugh... Ngh...!=Ugh... ¡Ngh...!
+Okay...!=¡Está bien...!
+I helped Manaka practice\nwalking for a while...=Ayudé a Manaka a practicar\ncómo caminar por\nun rato...
+Figures... It felt totally different\npracticing outside versus at\nthe clinic...=Era de esperarse... Se sintió totalmente distinto practicar afuera que en la clínica...
+I even tripped the moment I let go of you...=Hasta me tropecé en cuanto te solté...
+I should probably ask for advice on how to\nshift my weight during my next session...=Tal vez debería pedir consejos sobre cómo cambiar el peso de mi cuerpo en mi próxima sesión...
+How far along are you now?=¿Qué tanto has avanzado?
+When will you be finished?=¿Cuándo vas a terminar?
+They say I'm more than halfway to full\nrecovery, but it varies from person to\nperson, so there's no exact date.=Dicen que ya pasé la mitad del camino para recuperarme por completo, pero depende de cada persona, así que no hay una fecha exacta.
+But one thing's for sure... My hard work will\nall be worth it. I just have to keep going.=Pero una cosa es segura... Todo mi esfuerzo valdrá la pena. Solo tengo que seguir adelante.
+Be careful, okay?=Ten cuidado, ¿está bien?
+Remember to pace yourself.=Recuerda no exigirte demasiado.
+I will! Thanks, {{A}}-san.=¡Lo haré! Gracias, {{A}}-san.
+Exhausted from her practice,\nI helped Manaka get home...=Agotada por su práctica,\nayudé a Manaka a\nllegar a casa...
+
+I can't really move...=No puedo moverme...
+Summer activities=Actividades de verano
+I wanna put more effort into\nphysical therapy,=Quiero esforzarme más en la terapia física,
+but my body isn't moving like\nI thought it would.=pero mi cuerpo no se mueve como pensaba.
+I know worrying about won't\nhelp, but...=Sé que preocuparme no ayudará, pero...
+You will get better=Te vas a recuperar.
+You're trying hard enough=Te estás esforzando lo suficiente.
+I feel a bit better now.=Me siento un poco mejor ahora.
+I'm gonna face tomorrow with a\nnew outlook and try my best!=¡Voy a enfrentar el mañana con una nueva perspectiva y daré lo mejor de mí!
+
+
+Wavecatcher Miyu excels at <color\=#FFFC40>multi-target attacks</color>. During battle, she can enter <color\=#FFFC40>Surf</color> state, spending SP to automatically activate her <color\=#FFFC40>Resonance</color> against foes and gain Offshore stacks.=Miyu Atrapaolas destaca en los <color\=#FFFC40>ataques a múltiples objetivos</color>. Durante la batalla, puede entrar en estado <color\=#FFFC40>Surf</color>, consumiendo PE para activar automáticamente su <color\=#FFFC40>Resonancia</color> contra los enemigos y obtener acumulaciones de Alta Mar.
+While Surf is active, <color\=#FFFC40>down, spiritual ailments, and certain unable to act effects</color> are <color\=#FFFC40>nullified</color>. Also, based on the number of Offshore stacks, Wavecatcher Miyu can increase her own Attack.=Mientras Surf está activo, se <color\=#FFFC40>anulan</color> el <color\=#FFFC40>derribo, las dolencias espirituales y ciertos efectos de incapacidad de actuar</color>. Además, según el número de acumulaciones de Alta Mar, Miyu Atrapaolas puede aumentar su propio Ataque.
+When she uses her special skill, the Surf state is removed, and she can deal damage based on her total number of Offshore stacks.=Cuando usa su habilidad especial, se elimina el estado Surf y puede infligir daño según su número total de acumulaciones de Alta Mar.
+Miyu 2=Miyu 2
+Wavecatcher Miyu=Miyu Atrapaolas
+Jellyfish Splash=Salpicadura de Medusa
+Aerial Tide=Marea Aérea
+Paddle Out=Remada hacia el Mar
+Hang Ten!=¡Al Borde de la Tabla!
+Ride it Out!=¡Domando la Ola!
+
+While active, nullify Down, spiritual ailments, and certain unable to act effects, and Wavecatcher Miyu cannot use melee attacks, ranged attacks, or items. Also, the durations of buffs and debuffs are extended by 1 turn. Also, at the end of an ally's turn, if Wavecatcher Miyu has enough SP to activate Catch a Wave, automatically spend SP to activate Catch a Wave.=Mientras esté activo, anula Derribo, dolencias espirituales y ciertos efectos de incapacidad de actuar, y Miyu Atrapaolas no puede usar ataques cuerpo a cuerpo, ataques a distancia ni objetos. Además, las duraciones de los efectos positivos y negativos se extienden en 1 turno. También, al final del turno de un aliado, si Miyu Atrapaolas tiene suficiente PE para activar Atrapar una Ola, consume PE automáticamente para activar Atrapar una Ola.
+
+Spend a fixed amount of SP to deal Ice damage to all foes based on Attack, and gain 1 Offshore stack. For each Offshore stack, increase subsequent skill damage and SP cost. This effect can stack.=Consume una cantidad fija de PE para infligir daño de Hielo a todos los enemigos según el Ataque, y obtiene 1 acumulación de Alta Mar. Por cada acumulación de Alta Mar, aumenta el daño de las habilidades posteriores y el coste de PE. Este efecto se puede acumular.
+
+Increase skill damage of Aerial Tide and Catch a Wave for each stack, and increase SP cost of Catch a Wave. This effect can stack.=Aumenta el daño de las habilidades Marea Aérea y Atrapar una Ola por cada acumulación, y aumenta el coste de PE de Atrapar una Ola. Este efecto se puede acumular.
+
+Surfing Mermaid=Sirena Surfista
+Offshore Paradise=Paraíso de Alta Mar
+Roaring Surf Line=Línea de Oleaje Rugiente
+Sea Breeze Paddling=Remada de Brisa Marina
+Refreshing Beach Resort=Resort de Playa Refrescante
+Southern High Tide=Marea Alta del Sur
+Summer Sea Mermaid=Sirena del Mar de Verano
+
+Surfboard=Tabla de Surf
+[Exhilarating Paddling]=[Remada Estimulante]
+Exhilarating Paddling=Remada Estimulante
+Summer Islander=Isleño de Verano
+[Clear Sky Cutback]=[Corte de Cielo Despejado]
+Clear Sky Cutback=Corte de Cielo Despejado
+Jellie Voyager=Jellie Voyager
+[Big Wave Tailslide]=[Tailslide en Ola Gigante]
+Big Wave Tailslide=Tailslide en Ola Gigante
+Mermaid Dreamer=Soñadora de Sirenas
+[Deep Blue Tuberide]=[Túnel del Azul Profundo]
+Deep Blue Tuberide=Túnel del Azul Profundo
+
+Ancient Frost=Escarcha Ancestral
+Catch a Wave=Atrapar una Ola
+Offshore=Alta Mar
+Surf=Surf
+Paddle Out (Remove)=Remada Mar Adentro (Desactivar)
+
+E<color\=#000000>x</color>hilarating Paddling=R<color\=#000000>e</color>mada Estimulante
+C<color\=#000000>l</color>ear Sky Cutback=C<color\=#000000>o</color>rte de Cielo Despejado
+B<color\=#000000>i</color>g Wave Tailslide=T<color\=#000000>a</color>ilslide en Ola Gigante
+D<color\=#000000>e</color>ep Blue Tuberide=T<color\=#000000>ú</color>nel del Azul Profundo
+S<color\=#000000>u</color>rfing Mermaid=S<color\=#000000>i</color>rena Surfista
+O<color\=#000000>f</color>fshore Paradise=P<color\=#000000>a</color>raíso de Alta Mar
+R<color\=#000000>o</color>aring Surf Line=L<color\=#000000>í</color>nea de Oleaje Rugiente
+S<color\=#000000>e</color>a Breeze Paddling=R<color\=#000000>e</color>mada de Brisa Marina
+R<color\=#000000>e</color>freshing Beach Resort=R<color\=#000000>e</color>sort de Playa Refrescante
+S<color\=#000000>o</color>uthern High Tide=M<color\=#000000>a</color>rea Alta del Sur
+S<color\=#000000>u</color>mmer Sea Mermaid=S<color\=#000000>i</color>rena del Mar de Verano
+A<color\=#000000>n</color>cient Frost=E<color\=#000000>s</color>carcha Ancestral
+J<color\=#000000>e</color>llyfish Splash=S<color\=#000000>alpicadura de Medusa
+A<color\=#000000>e</color>rial Tide=M<color\=#000000>a</color>rea Aérea
+P<color\=#000000>a</color>ddle Out=R<color\=#000000>e</color>mada hacia el Mar
+H<color\=#000000>a</color>ng Ten!=A<color\=#000000>l</color> Borde de la Tabla!
+R<color\=#000000>i</color>de it Out!=D<color\=#000000>o</color>mando la Ola!
+S<color\=#000000>u</color>rf=S<color\=#000000>u</color>rf
+O<color\=#000000>f</color>fshore=A<color\=#000000>l</color>ta Mar
+
+
+M<color\=#ff0000ff>i</color>nami Miyashita & Miyu Sahara=M<color\=#ff0000ff>i</color>nami Miyashita y Miyu Sahara
+Every day is so hot, I can't bear to go back\nto my AC-less apartment...=Hace tanto calor todos los días que no soporto la idea de volver a mi departamento sin aire acondicionado...
+But the electricity bill is just...=Pero el recibo de la luz es que...
+Right!? Getting that bill at the end of the\nmonth is terrifying.=¡¿Verdad?! Recibir ese recibo al final del mes es aterrador.
+I went out shopping the other day and forgot\nto turn off the air conditioner...=Fui de compras el otro día y me olvidé de apagar el aire acondicionado...
+When I came back and realized how cool my\nroom felt, a chill ran down my spine.=Cuando regresé y me di cuenta de lo fresco que se sentía mi cuarto, se me puso la piel de gallina.
+Sometimes it's better to keep it on.=A veces es mejor dejarlo prendido.
+It was only for a little bit.=Solo fue por un ratito.
+Oh, I've heard that, too.=Ay, yo también he oído eso.
+Air conditioners use the most energy when\nthey're bringing the temperature down\nby a lot.=Los aires acondicionados gastan más energía cuando están bajando la temperatura drásticamente.
+Apparently, leaving it on when you're only\nout for a short while actually saves on electricity.=Al parecer, dejarlo prendido cuando solo sales un ratito en realidad ahorra luz.
+I didn't know that! I always turn it on and\noff again because I thought it'd be a waste\nto keep it on all the time.=¡No lo sabía! Siempre lo prendo y lo apago porque pensé que sería un desperdicio dejarlo prendido todo el tiempo.
+But wow... you really know your stuff.=Pero guau... de verdad que sabes mucho de esto.
+I've looked up lots of different ways to save\nmoney ever since I started living alone.=He buscado un montón de formas distintas para ahorrar dinero desde que empecé a vivir sola.
+I see. If you have any other tips, I'd love\nto hear them!=Ya veo. ¡Si tienes más consejos, me encantaría escucharlos!
+Of course! For instance...=¡Claro! Por ejemplo...
+Minami, Miyu, and I talked\nabout what it's like\nto live alone...=Minami, Miyu y yo platicamos\nsobre cómo es vivir por\ncuenta propia...
+
+
+Ichigo excels at <color\=#FFFC40>single-target attacks</color>. With Vorpal Butterfly, she can deal heavy damage to foes above a certain HP percentage. Also, when Vorpal Butterfly defeats a target, she can activate it again (can be activated consecutively).=Ichigo destaca en los <color\=#FFFC40>ataques a un solo objetivo</color>.\nCon Mariposa Vorpal, inflige gran daño a rivales por encima de cierto porcentaje de PS. Si la habilidad derrota al objetivo, puede volver a activarse de forma consecutiva.
+During battle, the first time she activates Vorpal Butterfly, as well as each time she activates her Highlight, she can gain <color\=#FFFC40>Chains of Love</color>. She gains buffs depending on her total number of Chains of Love stacks.=En combate, la primera vez que usa Mariposa Vorpal y cada vez que activa su Highlight, obtiene <color\=#FFFC40>Cadenas de Amor</color>.\nRecibe mejoras según el total de cargas acumuladas.
+During battle, she can use a special skill to inflict Lovesick, dealing <color\=#FFFC40>continuous damage</color>. Her Highlight can immediately activate <color\=#FFFC40>all continuous damage effects</color> currently inflicted on foes. It also allows Lovesick to activate <color\=#FFFC40>critical hits</color> for a period of time.=En batalla, puede usar una habilidad especial para aplicar Mal de Amor e infligir <color\=#FFFC40>daño continuo</color>.\nSu Highlight activa de inmediato <color\=#FFFC40>todos los efectos de daño continuo</color> de los rivales y permite que Mal de Amor aseste <color\=#FFFC40>golpes críticos</color> temporalmente.
+[Count] Each turn, take Curse damage equal to 6%/12%/18% of Ichigo's Attack (when Ichigo is at level 1/50/70, respectively). This effect lasts 4 turns, and stacks up to 10 times.\nWhen a foe with Lovesick is defeated, transfer Lovesick stacks to the foe with the highest HP (will not transfer to foes with Null, Repel, or Drain Curse affinity).=[Carrgas] Cada turno, inflige daño de Maldición igual al 6%/12%/18% del Ataque de Ichigo (con Ichigo en Nivel 1/50/70, respectivamente).\nEste efecto dura 4 turnos y se acumula hasta 10 veces. Al derrotar a un enemigo con Mal de Amor, transfiere sus cargas al rival con más PS (no se transferirán a enemigos con afinidad de Maldición Nula, Repeler o Absorber).
+Ichigo=Ichigo
+Ichigo Shikano=Ichigo Shikano
+Thelxiepeia=Thelxiepeia
+My Beloved Prince=Mi Amado Príncipe
+Obsessive Rose=Rosa Obsesiva
+Vorpal Butterfly=Mariposa Vorpal
+Overflowing Love=Amor Desbordante
+Melting Ichi-Go Butter=Dulzura Fundente Ichi-Go
+Lovesick=Mal de Amor
+Chains of Love=Cadenas de Amor
+
+Mine Alone=Solo Mío
+Pounding Heartbeat=Latido Palpitante
+{{A}} of Love=Poder del Amor
+Maiden's True Strength=Verdadera Fuerza de la Doncella
+Forever My Prince=Mi Príncipe por Siempre
+Garden of Devotion=Jardín de Devoción
+A World of Our Own=Un Mundo Solo Para Nosotros
+
+Berry's Razor=Cuchilla de Berry
+Love Letter=Carta de Amor
+Silent Bloom=Floración Silenciosa
+Cursed Incense=Incienso Maldito
+My Destiny=Mi Destino
+[Scythe of Yearning]=[Guadaña del Anhelo]
+Scythe of Yearning=Guadaña del Anhelo
+[Scythe of Whispers]=[Guadaña de los Susurros]
+Scythe of Whispers=Guadaña de los Susurros
+[Scythe of Lovesickness]=[Guadaña del Mal de Amor]
+Scythe of Lovesickness=Guadaña del Mal de Amor
+[Scythe of Obsession]=[Guadaña de la Obsesión]
+Scythe of Obsession=Guadaña de la Obsesión
+
+Gain buffs based on total Chains of Love stacks.=Obtén mejoras según el total de cargas de Cadenas de Amor.
+Lovesick can deal critical hits.=Mal de Amor puede asestar golpes críticos.
+Lovesick Critical=Mal de Amor Crítico
+
+M<color\=#000000>y</color> Beloved Prince=M<color\=#000000>i</color> Amado Príncipe
+O<color\=#000000>b</color>sessive Rose=R<color\=#000000>o</color>sa Obsesiva
+V<color\=#000000>o</color>rpal Butterfly=M<color\=#000000>a</color>riposa Vorpal
+O<color\=#000000>v</color>erflowing Love=A<color\=#000000>m</color>or Desbordante
+M<color\=#000000>e</color>lting Ichi-Go Butter=D<color\=#000000>u</color>lzura Fundente Ichi-Go
+L<color\=#000000>o</color>vesick=M<color\=#000000>a</color>l de Amor
+C<color\=#000000>h</color>ains of Love=C<color\=#000000>a</color>denas de Amor
+M<color\=#000000>i</color>ne Alone=S<color\=#000000>o</color>lo Mío
+P<color\=#000000>o</color>unding Heartbeat=L<color\=#000000>a</color>tido Palpitante
+P<color\=#000000>o</color>wer of Love=P<color\=#000000>o</color>der del Amor
+M<color\=#000000>a</color>iden's True Strength=V<color\=#000000>e</color>rdadera Fuerza de la Doncella
+F<color\=#000000>o</color>rever My Prince=M<color\=#000000>i</color> Príncipe por Siempre
+G<color\=#000000>a</color>rden of Devotion=J<color\=#000000>a</color>rdín de Devoción
+A <color\=#000000>W</color>orld of Our Own=U<color\=#000000>n</color> Mundo Solo Para Nosotros
+S<color\=#000000>c</color>ythe of Yearning=G<color\=#000000>u</color>adaña del Anhelo
+S<color\=#000000>c</color>ythe of Whispers=G<color\=#000000>u</color>adaña de los Susurros
+S<color\=#000000>c</color>ythe of Lovesickness=G<color\=#000000>u</color>adaña del Mal de Amor
+S<color\=#000000>c</color>ythe of Obsession=G<color\=#000000>u</color>adaña de la Obsesión
+B<color\=#000000>i</color>tter Stagnation=E<color\=#000000>s</color>tancamiento Amargo
+L<color\=#000000>o</color>vesick Critical=M<color\=#000000>a</color>l de Amor Crítico
+
+
+
+
+
+
+
+
+
 
 
 

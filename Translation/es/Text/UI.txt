@@ -151,6 +151,12 @@ r:"^Resets after\s+(\d+) h (\d+) m$"="Se reinicia después de $1 h $2 m"
 r:"^Available after\s+(\d+)\s+d\s+(\d+)\s+h$"="Disponible en $1 d y $2 h"
 
 r:"^Available after\s+(\d+)\s+h\s+(\d+)\s+m$"="Disponible en $1 h $2 m"
+`
+r:"^Area unlocks in (\d+) d (\d+) h$"="El área se desbloqueará en $1 d $2 h"
+
+r:"^Area unlocks in (\d+) h$"="El área se desbloqueará en $1 h"
+
+r:"^Time: (\d{2}:\d{2})$"="Tiempo: $1"
 
 ++-------------VA Character----------------++
 
@@ -249,6 +255,9 @@ r:"^Increases\\s+all\\s+allies'\\s+Attack\\s+by\\s+(\\d+\\.?\\d*)\\s+\\(takes\\s
 r:"^Increases\\s+all\\s+allies'\\s+Defense\\s+by\\s+(\\d+\\.?\\d*)\\s+\\(takes\\s+effect\\s+in\\s+battle\\)\\.$"="Aumenta la Defensa de todos los aliados en $1 (En combate)."
 r:"^Increases\\s+all\\s+allies'\\s+HP\\s+by\\s+(\\d+\\.?\\d*)\\s+\\(takes\\s+effect\\s+in\\s+battle\\)\\.$"="Aumenta los PS de todos los aliados en $1 (En combate)."
 r:"^Increases\\s+all\\s+allies'\\s+Speed\\s+by\\s+(\\d+\\.?\\d*)\\s+\\(takes\\s+effect\\s+in\\s+battle\\)\\.$"="Aumenta la Velocidad de todos los aliados en $1 (En combate)."
+
+#por Revisar
+Lv301 Increases all allies' ailment accuracy by 0.1% (takes effect in battle).\nLv302 Increases Physical and Gun damage by 0.2% (takes effect in battle).\nLv303 Grants 100 extra Konpaku Gems when you play Pursuit of Treasure.=Lv301 Aumenta la precisión de estado de aliados en 0.1% (en batalla).\nLv302 Aumenta daño físico y de armas de fuego en 0.2% (en batalla).\nLv303 Otorga 100 Konpaku Gems extra en Pursuit of Treasure.
 
 ++-------------Buff Dominio-----------------++
 
@@ -548,8 +557,8 @@ r:"^\(Paid:\s+(\d+)\)$"="(Pagado: $1)"
 r:"^Unlocks at Lv\\. (\\d+)$"="Desbloquea a Nv. $1"
 r:"^Lv\\.(\\d+)$"="Nv.$1"
 r:"^EXP:\s+(\d+)\s*$"="EXP: $1"
-r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.7.3\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
-r:"^©Perfect World Adapted from Persona5 ©ATLUS\. ©SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: (.*)$"="©Perfect World Adaptado de Persona5 ©ATLUS. ©SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.7.3\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
+r:"© Perfect World Adapted from Persona 5 © ATLUS\. © SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: ([\w.]+)"="© Perfect World adaptado de Persona 5 © ATLUS. © SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.7.4\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
+r:"^©Perfect World Adapted from Persona5 ©ATLUS\. ©SEGA\.\nSpecial Thanks: Fontworks Inc\. and SHOWASHOTAI Co\., Ltd\.\nClient Version: ([\d.]+) Game Version: ([\d.]+) Resource No\.: (.*)$"="©Perfect World Adaptado de Persona5 ©ATLUS. ©SEGA.\nAgradecimientos especiales: Fontworks Inc. y SHOWASHOTAI Co., Ltd.\nTraducción al Español por Shinoesp Versión del P5XTES: 2.7.4\nVersión del cliente: $1 Versión del juego: $2 Nº de recurso: $3"
 r:"^Fusion\s+will\s+produce\s+(\d+)\s+<color\=#FF423F>(.+?)'s\s+Seal</color>\.\s*$"="La fusión producirá $1 <color\=#FF423F>Sello de $2</color>."
 r:"^Phantom Thief level cap increased to \\n<color\=#FFF000>Lv\\. (\\d+)</color>\\.$"="El límite de Nivel de Ladrones Fantasma ha aumentado a \n<color\=#FFF000>Lv. $1</color>."
 Meta Jewels will be spent.=Se gastarán las Meta gemas.
@@ -888,7 +897,10 @@ Crystal Cognigem=Cognigema de Cristal
 <color\=#FFC000>After School Clear</color> removed from playlist.=<color\=#FFC000>Después de Clases Despejado</color> se eliminó de la lista de reproducción.
 <color\=#FFC000>Night Clear</color> added to playlist.=<color\=#FFC000>Noche Desejada</color> se agregó a la lista de reproducción.
 <color\=#FFC000>Night Clear</color> removed from playlist.=<color\=#FFC000>Noche Desejada</color> se eliminó de la lista de reproducción.
-
+Weapon is fully forged. View weapon now?=El arma está totalmente forjada. ¿Ver el arma ahora?
+Can be exchanged for various items at the Crystal Cognigem tab of the Exchange Shop.=Se pueden canjear por varios objetos en la pestaña de Cognigema de Cristal de la Tienda de Canje.
+Wonder's Persona are not strong enough.=Las Persona de Wonder no son lo suficientemente fuertes.
+Wonder's {0} are not strong enough.=Las Persona de Wonder {0} no son lo suficientemente fuertes.
 
 ++----Metro----++
 r:"Clear Difficulty (\d+) with (?:a|an) <link\=(.+?)><u>Curse Formation</u></link>"="Completa la dificultad $1 con una <link\=$2><u>Formación de Maldición</u></link>"
@@ -972,6 +984,28 @@ The next Trials of the Astrolabe will begin after maintenance.=Los siguientes Pr
 P5X Emergency Broadcast Gift=Transmisión de Emergencia P5X
 r:"^On Jul (\d+), (\d+), you had some unclaimed rewards from 1st Anniversary {{A}}\. They have been delivered directly to you via this message\.$"="El $1 de jul. de $2, tenías algunas recompensas sin reclamar de la Fiesta de 1.º Aniversario. Te han sido entregadas directamente a través de este mensaje."
 
+Bonus in a Bottle Ending Soon=El Bono en una Botella Termina Pronto
+The event period for Bonus in a Bottle will end soon.\nFor details on the event period, check the Shop or Event pages in-game.\n*For events with an exchange shop, the shop will also close when the event ends. Be sure to exchange rewards as soon as possible.=El periodo del evento de Bonus in a Bottle terminará pronto. Para más detalles sobre el periodo del evento, revisa la Tienda o las páginas de Eventos en el juego.\n*En los eventos con tienda de intercambio, la tienda también cerrará cuando el evento termine. Asegúrate de canjear tus recompensas lo antes posible.
+Summer Riko Set Ending Soon=El Conjunto de Riko de Verano Termina Pronto
+The event period for Summer Riko Set will end soon.\nFor details on the event period, check the Shop or Event pages in-game.\n*For events with an exchange shop, the shop will also close when the event ends. Be sure to exchange rewards as soon as possible.=El periodo de Conjunto de Riko de Verano terminará pronto.\nPara detalles sobre las fechas, revisa la Tienda o Eventos en el juego.\n*Si el evento tiene tienda de intercambio, esta cerrará al finalizar el evento. Canjea tus recompensas lo antes posible.
+
+Favorite=Favorito
+
+Thieves' Secrets Coin Delivery=Entrega de monedas de Secretos de los Ladrones
+The event Thieves' Secrets has ended.\nYour unused coins have been delivered to you, and can be found in your bag.=El evento Secretos de los Ladrones ha terminado.\nTus monedas no utilizadas te han sido entregadas y las encontrarás en tu mochila.
+
+Haunted Beach Shack: The Curse of Shirosato Beach Coin Delivery=Entrega de monedas de La Cabaña embrujada: La Maldición de la Playa Shirosato
+Beach Coins from Beach Shack Business have been converted into money and delivered to you via this message.=Las Monedas de Playa del negocio de la cabaña se han convertido en fondos y se te han entregas en este mensaje.
+
+Beach Shack Business Sales Bonus=Bono de Ventas del Negocio de la Cabaña
+The event Haunted Beach Shack: The Curse of Shirosato Beach has ended.\nYour unused coins have been delivered to you, and can be found in your bag.=El evento La Cabaña embrujada: La maldición de la playa Shirosato ha terminado.\nTus monedas no utilizadas te han sido entregadas y las encontrarás en tu mochila.
+
+Sea Fishing Cruise Rewards=Recompensas del Crucero de Pesca Marina
+The mission rewards for Sea Fishing Cruise were not claimed. They have been delivered to you via this message.=Las misiones del Crucero de Pesca Marina no se reclamaron.\nTus recompensas te han sido entregadas mediante este mensaje.
+
+
+
+
 +--Mementos--+
 S<color\=#ff0000ff>h</color>imotsuna's Palace=P<color\=#ff0000ff>a</color>lacio de Shimotsuna
 You can now quick travel to the\n<color\=#ff3b37>Path of Kaitul Area 1</color>.=Ahora puedes usar el viaje rápido al\n<color\=#ff3b37>Camino de Kaitul Área 1</color>.
@@ -1047,6 +1081,20 @@ r:"^Thank you for playing Persona5: The Phantom X\.\n\nPlease enjoy the enclosed
 
 Thank you for playing Persona5: The Phantom X.\n\nPlease enjoy the enclosed gift to celebrate our expansion of the Custom Revelation Card system.\n\nWe hope you continue to enjoy Persona5: The Phantom X.=Gracias por jugar Persona 5: The Phantom X.\n\nPor favor, disfruta del regalo adjunto por la expansión del sistema de Cartas de Revelación Personalizadas.\n\nEsperamos que sigas disfrutando de Persona 5: The Phantom X.
 
+Special Gift Ending Soon=Regalo Especial Terminando Pronto
+The event period for Special Gift will end soon.\nFor details on the event period, check the Shop or Event pages in-game.\n*For events with an exchange shop, the shop will also close when the event ends. Be sure to exchange rewards as soon as possible.=El periodo del evento Regalo Especial terminará pronto.\nPara detalles sobre las fechas, revisa la Tienda o Eventos en el juego.\n*Si el evento tiene tienda de intercambio, esta cerrará al finalizar el evento. Canjea tus recompensas lo antes posible.
+
+1st Anniversary Equipo Ending Soon=El evento del 1er Fiesta de Aniversario termina pronto
+Anniversary Shop Ending Soon=Tienda de Aniversario termina pronto
+The event period for Anniversary Shop will end soon.\nFor details on the event period, check the Shop or Event pages in-game.\n*For events with an exchange shop, the shop will also close when the event ends. Be sure to exchange rewards as soon as possible.=El periodo de la Tienda de Aniversario terminará pronto.\nPara detalles sobre las fechas, revisa la Tienda o Eventos en el juego.\n*Si el evento tiene tienda de canje, esta cerrará al finalizar el evento. Canjea tus recompensas lo antes posible.
+
+Haunted Beach Shack: The Curse of Shirosato Beach Ending Soon=Cabaña de la Playa Embrujada: La Maldición de la Playa Shirosato termina pronto
+The event period for Haunted Beach Shack: The Curse of Shirosato Beach will end soon.\nFor details on the event period, check the Shop or Event pages in-game.\n*For events with an exchange shop, the shop will also close when the event ends. Be sure to exchange rewards as soon as possible.=El periodo de Cabaña embrujada: La maldición de la playa Shirosato terminará pronto.\nPara detalles sobre las fechas, revisa la Tienda o Eventos en el juego.\n*Si el evento tiene tienda de canje, esta cerrará al finalizar el evento. Canjea tus recompensas lo antes posible.
+
+The event period for Purchase Rewards will end soon.\nFor details on the event period, check the Shop or Event pages in-game.\n*For events with an exchange shop, the shop will also close when the event ends. Be sure to exchange rewards as soon as possible.=El periodo de Recompensas por compra terminará pronto.\nPara detalles sobre las fechas, revisa la Tienda o Eventos en el juego.\n*Si el evento tiene tienda de canje, esta cerrará al finalizar el evento. Canjea tus recompensas lo antes posible.
+
+Rewind Ending Soon=Recuento termina pronto
+The event period for Rewind will end soon.\nFor details on the event period, check the Shop or Event pages in-game.\n*For events with an exchange shop, the shop will also close when the event ends. Be sure to exchange rewards as soon as possible.=El periodo del evento Rewind terminará pronto.\nPara detalles sobre las fechas, revisa la Tienda o Eventos en el juego.\n*Si el evento tiene tienda de canje, esta cerrará al finalizar el evento. Canjea tus recompensas lo antes posible.
 
 
 +--días despejados--+
@@ -1064,6 +1112,7 @@ Lufel Only=Sólo Para Lufel
 Sumi Only=Sólo Para Sumi
 Kurotani Only=Sólo Para Kurotani
 Kamiyama Only=Sólo Para Kamiyama
+Motoha Only=Sólo Para Motoha
 Minami Only=Sólo Para Minami
 Beachflower Minami Only=Sólo para Minami Flor Costera
 Yukimi Only=Sólo Para Yukimi
@@ -1098,6 +1147,22 @@ Ichigo Only=Sólo Para Ichigo
 Katayama Only=Sólo Para Katayama
 Kirijo Only=Sólo Para Kirijo
 Miku Only=Sólo Para Miku
+Wavecatcher Miyu Only=Sólo para Miyu Atrapaolas
+
++--Modo Fotografía--+
+Relieved=Aliviado
+Standing=De pie
+The Thinker=El Pensador
+Gesturing=Gesticulando
+Orange Tabby=Gato Naranja
+Tetsunojo Shishida=Tetsunojo Shishida
+Clear Check up on Shishida to unlock.=Completa el chequeo de Shishida para desbloquear.
+Clear=Limpiar
+Unlocked after obtaining Yui.=Desbloqueado tras obtener Yui.
+Sad=Triste
+Surprised=Sorprendido
+Laughing=Riendo
+Hands on Hips=Manos en las caderas
 
 ++----Efecto de Armonía (Composiciones de Equipos)----++
 
@@ -1778,6 +1843,24 @@ r:"^Defeat an Agitated Shadow in Path of Kaitul \((\d+)/(\d+)\)$"="Derrota a una
 r:"^Clear Priestess of Desire on difficulty (\d+) \((\d+)\/(\d+)\)$"="Completar Sacerdotisa del Deseo en dificultad $1 ($2/$3)"
 r:"^Clear Chapter (\d+) of Met by Moonlight: Strike like Lightning \((\d+)\/(\d+)\)$"="Completar el capítulo $1 de Encontrado por la Luz de la Luna: Golpea como un Rayo ($2/$3)"
 
+#Evento Palacio 4 parte 2
+The Masks We Wear Phase 2 Event=Evento de Las Máscaras que Vestimos: Fase 2
+Phase 2 of Chapter 4: The Masks We Wear is out! Continue through the main story and earn rewards!=¡Ya salió la Fase 2 del Capítulo 4: Las Máscaras que Vestimos! ¡Sigue con la historia principal y gana recompensas!
+r:"^Guard Dog's Collar: (\d+)$"="Collar del Perro Guardián: $1"
+r:"^Talk to {{A}} \((\d+)/(\d+)\)$"="Habla con {{A}} ($1/$2)"
+r:"^Uncover Shimotsuna's secret \((\d+)/(\d+)\)$"="Descubre el secreto de Shimotsuna ($1/$2)"
+Guard Dog's Collar=Collar de Perro Guardián
+r:"^Be threatened by Shimotsuna \((\d+)/(\d+)\)$"="Ser amenazado por Shimotsuna ($1/$2)"
+r:"^Be interviewed by {{A}} \((\d+)/(\d+)\)$"="Ser entrevistado por {{A}} ($1/$2)"
+r:"^Get recognized by the Kiga Drama Club \((\d+)/(\d+)\)$"="Gánate el reconocimiento del Club de Teatro Kiga ($1/$2)"
+r:"^Defeat the boss of Chapter (\d+) Phase (\d+) \((\d+)/(\d+)\)$"="Derrota al jefe del Capítulo $1: Fase $2 ($3/$4)"
+r:"^Find (\d+) safe rooms in Area (\d+) or (\d+) \((\d+)/(\d+)\)$"="Encuentra $1 habitaciones seguras en el Área $2 o $3 ($4/$5)"
+r:"^Open (\d+) treasure chests in Area (\d+) or (\d+) \((\d+)/(\d+)\)$"="Abre $1 cofres de tesoro en el Área $2 o $3 ($4/$5)"
+r:"^Get (\d+)% progress in the fourth Palace: Publishing House \((\d+)/(\d+)\)$"="Logra un $1% de progreso en el cuarto Palacio: Editorial ($2/$3)"
+r:"^Defeat an {{A}}tated Shadow in Area (\d+) or (\d+) \((\d+)/(\d+)\)$"="Derrota a una Sombra {{A}}tada en el Área $1 o $2 ($3/$4)"
+r:"^Defeat (\d+) Savage Shadows in fourth Palace: Publishing House \((\d+)/(\d+)\)$"="Derrota a $1 Sombras Salvajes en el cuarto Palacio: Editorial ($2/$3)"
+r:"^Defeat (\d+) Savage Shadows in the fourth Palace: Publishing House \((\d+)/(\d+)\)$"="Derrota a $1 Sombras Salvajes en el cuarto Palacio: Editorial ($2/$3)"
+
 +--Marcos--+
 r:"^Phantom Pass season (\d+) Premium\+ reward\.$"="Recompensa de Pase Fantasma Premium+ de la temporada $1."
 Default frame. Unlocks automatically.=Marco predeterminado. Se desbloquea automáticamente.
@@ -1923,6 +2006,18 @@ Use the skill <color\=#FF423F>Gentle Sea Breeze</color>\nto buff an individual a
 Select Makoto Yuki.=Selecciona a Makoto Yuki.
 At the start of the turn, spend 1 <color\=#FF423F>Midsummer\nPrescription</color> to gain <color\=#FF423F>Flower Basket Pharmacy</color>\nand use medicine without spending the turn.=Al comienzo del turno, consume 1 <color\=#FF423F>Receta de Pleno\nVerano</color> para obtener <color\=#FF423F>Farmacia de la Canasta de Flores</color>\ny usa medicina sin consumir el turno.
 
+Wavecatcher Miyu's Skills=Habilidades de Miyu Atrapaolas
+1. Wavecatcher Miyu excels at <color\=#FFFC40>multi-target attacks</color>. During battle, she can enter <color\=#FFFC40>Surf</color> state, spending SP to automatically activate her <color\=#FFFC40>Resonance</color> against foes and gain Offshore stacks.\n2. While Surf is active, <color\=#FFFC40>down, spiritual ailments, and certain unable to act effects</color> are <color\=#FFFC40>nullified</color>. Also, based on the number of Offshore stacks, Wavecatcher Miyu can increase her own Attack.\n3. When she uses her special skill, the Surf state is removed, and she can deal damage based on her total number of Offshore stacks.=1. Miyu Atrapaolas destaca en los <color\=#FFFC40>ataques a múltiples objetivos</color>. Durante la batalla, puede entrar en estado <color\=#FFFC40>Surf</color>, consumiendo PE para activar automáticamente su <color\=#FFFC40>Resonancia</color> contra los enemigos y obtener acumulaciones de Alta Mar.\n2. Mientras Surf está activo, se <color\=#FFFC40>anulan</color> el <color\=#FFFC40>derribo, las dolencias espirituales y ciertos efectos de incapacidad de actuar</color>. Además, según el número de acumulaciones de Alta Mar, Miyu Atrapaolas puede aumentar su propio Ataque.\n3. Cuando usa su habilidad especial, se elimina el estado Surf y puede infligir daño según su número total de acumulaciones de Alta Mar.
+Using <color\=#FF423F>Paddle Out</color> activates the special effect Surf.\nIn <color\=#FF423F>Surf</color> state, Wavecatcher Miyu can spend SP\nto activate her <color\=#FF423F>Resonance</color> against foes.=Usar <color\=#FF423F>Remada hacia el Mar</color> activa el efecto especial Surf.\nEn estado <color\=#FF423F>Surf</color>, Miyu Atrapaolas puede consumir PE\npara activar su <color\=#FF423F>Resonancia</color> contra los enemigos.
+Use <color\=#FF423F>Aerial Tide</color> in <color\=#FF423F>Surf</color> state to deal heavy damage to foes.=Usa <color\=#FF423F>Marea aérea</color> en estado <color\=#FF423F>Surf</color> para infligir gran daño a los enemigos.
+
+Ichigo Shikano's Skills=Habilidades de Ichigo Shikano
+1. Ichigo excels at <color\=#FF423F>single-target attacks</color>. With Vorpal Butterfly, she can deal heavy damage to foes above a certain HP percentage. Also, when Vorpal Butterfly defeats a target, she can activate it again (can be activated consecutively).\n2. During battle, the first time she activates Vorpal Butterfly, as well as each time she activates her Highlight, she can gain Chains of Love. She gains buffs depending on her total number of Chains of Love stacks.\n3. During battle, she can use a special skill to inflict Lovesick, dealing continuous damage. Her Highlight can immediately activate <color\=#FF423F>all continuous damage effects</color> currently inflicted on foes. It also allows Lovesick to activate <color\=#FF423F>critical hits</color> for a period of time.=1. Ichigo destaca en los <color\=#FF423F>ataques a un solo objetivo</color>. Con Mariposa Vorpal, inflige gran daño a rivales por encima de cierto porcentaje de PS. Si la habilidad derrota al objetivo, puede volver a activarse de forma consecutiva.\n2. En combate, la primera vez que usa Mariposa Vorpal y cada vez que activa su Highlight, obtiene Cadenas de Amor. Recibe mejoras según el total de cargas acumuladas.\n3. En batalla, puede usar una habilidad especial para aplicar Mal de Amor e infligir daño continuo. Su Highlight activa de inmediato <color\=#FF423F>todos los efectos de daño continuo</color> de los rivales y permite que Mal de Amor aseste <color\=#FF423F>golpes críticos</color> temporalmente.
+Recommended skill order: Vorpal Butterfly → Obsessive Rose → Obsessive Rose → My Beloved Prince=Orden de habilidades recomendado: Mariposa Vorpal → Rosa Obsesiva → Rosa Obsesiva → Mi Amado Príncipe
+
+1. Ichigo excels at <color\=#FF423F>single-target attacks</color>. With Vorpal Butterfly, she can deal heavy damage to foes above a certain HP percentage. Also, when Vorpal Butterfly defeats a target, she can activate it again (can be activated consecutively).\n2. During battle, the first time she activates Vorpal Butterfly, as well as each time she activates her Highlight, she can gain Chains of Love. She gains buffs depending on her total number of Chains of Love stacks.\n3. During battle, she can use a special skill to inflict Lovesick, dealing continuous damage. Her Highlight can immediately activate <color\=#FF423F>all continuous damage effects</color> currently inflicted on foes. It also allows Lovesick to activate <color\=#FF423F>critical hits</color> for a period of time.\nRecommended skill order: Vorpal Butterfly → Obsessive Rose → Obsessive Rose → My Beloved Prince=1. Ichigo destaca en los <color\=#FF423F>ataques a un solo objetivo</color>. Con Mariposa Vorpal, inflige gran daño a rivales por encima de cierto porcentaje de PS. Si la habilidad derrota al objetivo, puede volver a activarse de forma consecutiva.\n2. En combate, la primera vez que usa Mariposa Vorpal y cada vez que activa su Highlight, obtiene Cadenas de Amor. Recibe mejoras según el total de cargas acumuladas.\n3. En batalla, puede usar una habilidad especial para aplicar Mal de Amor e infligir daño continuo. Su Highlight activa de inmediato <color\=#FF423F>todos los efectos de daño continuo</color> de los rivales y permite que Mal de Amor aseste <color\=#FF423F>golpes críticos</color> temporalmente.\nOrden de habilidades recomendado: Mariposa Vorpal → Rosa Obsesiva → Rosa Obsesiva → Mi Amado Príncipe
+
+
 ++-------------Tutoriales Eventos-----------------++
 r:"(?s)<color\=#FFD145>Collecting Keywords</color>\n• In the mission Answer Sheet, join (.+?) to solve puzzles.*?• Drag the keywords to the correct place and complete the puzzle\."="<color\=#FFD145>Recopilación de palabras clave</color>\n• En la misión Hoja de respuestas, únete a $1 para resolver acertijos en una búsqueda del tesoro que pondrá a prueba tu ingenio. Durante el evento, puedes consultar tu hoja de respuestas para ver las palabras clave que has recopilado.\n• Puedes reunir las palabras clave en cualquier orden, pero solo puedes aceptar una misión de palabra clave a la vez.\n• Habrá más historia disponible cuando hayas reunido 3, 6 y 9 palabras clave. No podrás recolectar la siguiente palabra clave hasta que hayas completado la nueva historia.\n• Recibirás inmediatamente las recompensas por recopilar palabras clave tras completar cada misión. No es necesario volver a la hoja de respuestas para reclamarlas.\n\n<color\=#FFD145>Completar el acertijo</color>\n• Tras recopilar todas las palabras clave, deberás ponerlas en el orden correcto para formar una oración.\n• Arrastra las palabras clave al lugar correcto y completa el acertijo."
 
@@ -1956,6 +2051,8 @@ Special Gift=Regalo Especial
 <color\=#FFD145>Event Rules</color>\nLog in to the game every day to receive that day's rewards.=<color\=#FFD145>Reglas del evento</color>\nInicia sesión en el juego cada día para recibir las recompensas del día.
 
 You can customize your own city life soundtrack with the <color\=#FF423F>Music Player</color>.\nUp to 5 different songs can be chosen for each situation, based on the <color\=#FF423F>weather</color> and <color\=#FF423F>time</color>.=Puedes personalizar la banda sonora de tu vida urbana con el <color=#FF423F>Reproductor de música</color>.\nSe pueden elegir hasta 5 canciones distintas para cada situación según el <color=#FF423F>clima</color> y el <color=#FF423F>momento del día</color>.
+
+<color\=#FFD145>Event Rules</color>\nThis event's goals are separated into 4 parts: Main Story, Metaverse Exploration, Visions of Ruin, and City Adventure. As you complete each goal, you can obtain rewards like Meta Jewels, Gold Tickets, and more great rewards, as well as the event item Guard Dog's Collar.\nYou can check the amount of rewards you've obtained from the event screen.\nAfter the event ends, each Guard Dog's Collar will be converted to 100 Konpaku Gems.\n\n<color\=#FFD145>Accumulated Rewards</color>\nWhen you collect Guard Dog's Collar, you can exchange them for the Rank VII Persona Trumpeter, its Seals, and Stardust Gems.=<color\=#FFD145>Reglas del evento</color>\nLos objetivos de este evento se dividen en 4 partes: Historia Principal, Exploración del Metaverso, Visiones de la Ruina y Aventura Urbana. A medida que completes cada objetivo, podrás obtener recompensas como Meta Gemas, Boletos Dorado y más premios fabulosos, además del objeto del evento: Collar de Perro Guardián.\nPuedes revisar la cantidad de recompensas obtenidas en la pantalla del evento.\nCuando el evento termine, cada Collar de Perro Guardián se convertirá en 100 Gemas Konpaku.\n\n<color\=#FFD145>Recompensas acumuladas</color>\nAl juntar Collares de Perro Guardián, podrás canjearlos por el Persona de rango VII Trompetista, sus Sellos y Gemas de Polvo de Estrellas.
 
 
 ++-------------Combates enemigos-----------------++
@@ -2025,6 +2122,10 @@ Forbidden Incantation=Conjuro Prohibido
 
 1. Every turn, Hell Biker will inflict Hellscorched on 2 random Phantom Thieves.\nHellscorched: Lose a significant amount of HP at the end of each turn. Stacks up to 3 times. Can be removed after taking <color\=#FF423F>Ice</color> damage.\n2. Victory is achieved when Hell Biker is defeated.=1. Cada turno, Hell Biker infligirá Calcinación Infernal a 2 Ladrones Fantasma al azar.\nCalcinación Infernal: Pierde una cantidad significativa de PS al final de cada turno. Se acumula hasta 3 veces. Se puede eliminar tras recibir daño de <color\=#FF423F>Hielo</color>.\n2. La victoria se logra cuando Hell Biker es derrotado.
 Hellscorched=Calcinación Infernal
+
+1. At the start of battle, Byakko inflicts Soul Link on all Phantom Thieves, and decreases healing effects received by 100%. When Phantom Thieves receive buff effects from skills, all Phantom Thieves restore HP equal to 5% of their own max HP.\n2. Byakko will use Byakko's Claw and Byakko's Fang.\n3. Byakko's Claw deals damage to 1 Phantom Thief and inflicts Deep Wounds.\nDeep Wounds: Deals continuous damage. Can be removed with healing skills.\n4. Byakko's Fang deals damage to all Phantom Thieves and inflicts Bite Marks.\nBite Marks: Increases damage taken. Can be removed by receiving buff effects from skills, or with healing skills.\n5. At the start of Byakko's turn, if there are Phantom Thieves with either Deep Wounds or Bite Marks, Byakko deals heavy damage to the target with Prey and inflicts Brainwash.=1. Al inicio de la batalla, Byakko inflige Enlace álmico a todos los Ladrones Fantasma y reduce un 100% los efectos de curación recibidos. Cuando los Ladrones Fantasma reciben mejoras de habilidades, todos recuperan PS equivalentes al 5% de sus PS máx.\n2. Byakko usará Garra de Byakko y Colmillo de Byakko.\n3. Garra de Byakko inflige daño a 1 Ladrón Fantasma y aplica Heridas profundas.\nHeridas profundas: Inflige daño continuo. Se puede eliminar con habilidades de curación.\n4. Colmillo de Byakko inflige daño a todos los Ladrones Fantasma y aplica Marcas de mordedura.\nMarcas de mordedura: Aumenta el daño recibido. Se puede eliminar al recibir mejoras de habilidades o con habilidades de curación.\n5. Al inicio del turno de Byakko, si hay Ladrones Fantasma con Heridas profundas o Marcas de mordedura, Byakko inflige un gran daño al objetivo con Presa y aplica Lavado de cerebro.
+
+
 
 ++-------------Enemigos EndGame-----------------++
 r:"Shadows have different weaknesses and resistances than normal.\n1. At the start of battle, Vishnu summons 4 servants. Vishnu and all servants are in the <color\=(.+?)>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. When Vishnu and its servants take skill damage, they gain Guardian's Preservation based on the attribute, and that affinity is changed to Resist. This effect lasts for 2 turns."="Las Sombras tienen debilidades y resistencias diferentes a las habituales.\n1. Al comienzo de la batalla, Vishnu invoca a 4 sirvientes. Vishnu y todos los sirvientes están en estado de <color\=$1>Vínculo de alma</color>.\nVínculo de alma: Distribuye todo el daño recibido entre todas las Sombras que comparten esta condición, según el porcentaje de su HP actual.\n2. Cuando Vishnu y sus sirvientes reciben daño de habilidad, obtienen Preservación del guardián según el atributo, y esa afinidad cambia a Resistir. Este efecto dura 2 turnos."
@@ -2601,7 +2702,7 @@ r:"^Yanhua Slash: (\d+)% chance to inflict (\d+) Year-End Flames stack\.$"="Tajo
 
 r:"Increase Ice damage by ([\d.,]+)%\."="Aumenta el daño de Hielo en un $1%."
 
-r:"Increase critical damage by ([\d.,]+)%\."="Aumenta el daño crítico un $1%."
+r:"^Increase critical damage by ([\d\.,]+)%\.$"="Aumenta el daño crítico un $1%."
 
 r:"Increase Curse damage by ([\d.,]+)%\."="Aumenta el daño de Maldición en un $1%."
 
@@ -2780,6 +2881,26 @@ r:"^(.*) is being protected by Ashiya\.\.\.$"="$1 está siendo protegido por Ash
 
 You don't have enough medicine.=No tienes suficiente medicina.
 
+Increase Technical dmg taken.=Aumenta el daño de Técnico recibido.
+
+r:"^Increase Atk ([\d\.]+)%\. When attacking Burning foes, increase Atk ([\d\.]+)%$"="Aumenta el ATQ un $1%. Al atacar a enemigos quemados, aumenta el ATQ un $2%"
+
+Nullify down, spiritual ailments, and certain unable to act effects.=Anula el estado Derribo, las dolencias espirituales y ciertos efectos que impiden actuar.
+At end of ally's turn, automatically activate Catch a Wave if enough SP.=Al final del turno de un aliado, activa automáticamente Atrapar una Ola si tiene suficiente PE.
+r:"^When SP recovered reaches 300, increase crit rate by ([\d\.]+)%\.$"="Cuando el PE recuperado alcance 300, aumenta la probabilidad de crítico un $1%."
+Increase Catch a Wave skill dmg and SP cost.=Aumenta el daño de habilidad y el coste de PE de Atrapar una Ola.
+r:"^When Surf active, increase dmg by ([\d\.]+)%\.$"="Cuando Surf está activo, aumenta el daño un $1%."
+r:"^When SP recovered reaches 200, increase dmg by ([\d\.]+)%\.$"="Cuando el PE recuperado alcance 200, aumenta el daño un $1%."
+r:"^Increase Resonance critical rate by ([\d\.]+)%\.$"="Aumenta la probabilidad de crítico de Resonancia un $1%."
+r:"^When SP recovered reaches 100, increase Atk by ([\d\.]+)%\.$"="Cuando el PE recuperado alcance 100, aumenta el ATQ un $1%."
+
+r:"^Increase continuous dmg by ([\d\.]+)%\.$"="Aumenta el daño continuo un $1%."
+Continuous Damage Up=Aumento de Daño Continuo
+r:"^Increase continuous dmg taken by ([\d\.]+)%\.$"="Aumenta el daño continuo recibido un $1%."
+r:"^After using a skill, spend (\d+) stacks to activate additional effects\.$"="Tras usar una habilidad, gasta $1 acumulaciones para activar efectos adicionales."
+r:"^Increase continuous damage by <color\=#2899ff>([\d\.]+)%</color>\.$"="Aumenta el daño continuo un <color\=#2899ff>$1%</color>."
+
+
 +--Stats--+
 Critical Rate=Probabilidad Crítica
 Critical Damage=Daño Crítico
@@ -2789,6 +2910,14 @@ Curse Mult. +=Mult. de Maldición +
 Attack Mult. +=Mult. de Ataque +
 Psy Mult. +=Mult. de Psicoquinesis +
 Total Mult. +=Mult. total +
+
+
+Applied Max HP Increase=Aumento de PS Máx. Aplicado
+Highlight Applied Crit Mult Increase=Aumento de Mult. Crítico de Highlight Aplicado
+Highlight Medicine Effect Increase=Aumento del Efecto de Medicina de Highlight
+Select up to 2.=Selecciona hasta 2.
+No set selected=Ningún conjunto seleccionado
+Select up to 4.=Selecciona hasta 4.
 
 +--Pruebas del Mar de Almas--+
 Each time a Theurgy is activated, all allies gain 4 Celestial Fragment stacks. Also, each time an ally defeats a foe, the ally gains 2 Celestial Fragment stacks.\nCelestial Fragment: Increase final damage dealt by 2.5% per stack for 2 turns. Stacks up to 16 times.=Cada vez que se activa una Teúrgia, todos los aliados obtienen 4 acumulaciones de Fragmento Celestial. Además, cada vez que un aliado derrota a un enemigo, dicho aliado obtiene 2 acumulaciones de Fragmento Celestial.\nFragmento Celestial: Aumenta el daño final infligido en un 2.5% por acumulación durante 2 turnos. Se acumula hasta 16 veces.
@@ -2806,6 +2935,36 @@ When allies deal damage with skills or Resonances, standard critical damage calc
 R<color\=#000000>e</color>quiem Guidance=G<color\=#000000>u</color>ía Réquiem
 C<color\=#000000>o</color>rrosive Blood=S<color\=#000000>a</color>ngre Corrosiva
 
+Ally Ice Attack Score=Puntuación de Ataque de Hielo Aliado
+After activating a skill, Resonance, Highlight, or Theurgy, gain 1 Rising Ripples stack.\nRising Ripples: Increase final damage by 5% for 2 turns. Stacks up to 8 times.=Tras activar una habilidad, Resonancia, Highlight o Teúrgia, gana 1 carga de Olas Crecientes.\nOlas Crecientes: Aumenta el daño final en un 5% por 2 turnos (acumulable hasta 8 veces).
+
+Magnetic Waves=Ondas Magnéticas
+Nagisa gained Rising Ripples!=¡Nagisa obtuvo Olas Crecientes!
+R<color\=#000000>i</color>sing Ripples=O<color\=#000000>l</color>as Crecientes
+Ayaka gained Rising Ripples!=¡Ayaka obtuvo Olas Crecientes!
+Justine & Caroline gained Rising Ripples!=¡Justine y Caroline obtuvieron Olas Crecientes!
+Frostgale Kotone gained Rising Ripples!=¡Kotone Vendaval Gélido obtuvo Olas Crecientes!
+Gained Flaming Guard!=¡Obtuvo Escudo Flamígero!
+F<color\=#000000>l</color>aming Guard=E<color\=#000000>s</color>cudo Flamígero
+Lost 1 Flaming Guard!=¡Perdió 1 carga de Escudo Flamígero!
+
+When allies deal weakness damage, gain Eroding Fissure.\nEroding Fissure: Increase final damage by 20%, and increase continuous damage by 20% for 2 turns.=Cuando los aliados infligen daño de debilidad, obtienen Fisura Erosiva.\nFisura Erosiva: El daño final recibido aumenta un 20% y el daño continuo sube un 20% por 2 turnos.
+
++--Portal Cazapesadillas--+
+When a foe is <color\=#FFFC40>knocked down</color>, increase final damage by 80%.=Cuando un enemigo es <color\=#FFFC40>derribado</color>, su daño final recibido aumenta un 80%.
+
+Life Sustainment Change=Cambio de Soporte Vital
+L<color\=#000000>i</color>fe Sustainment=S<color\=#000000>o</color>porte Vital
+Life Sustainment=Soporte Vital
+<color\=#FF423F>Life Sustainment</color>=<color\=#FF423F>Soporte Vital</color>
+After use, grant <color\=#FF423F>Life Sustainment</color> to the boss.\nLife Sustainment: HP cannot fall below 1% of max HP. After using a second time, this state is removed. Can be used repeatedly.=Tras su uso, otorga <color\=#FF423F>Soporte Vital</color> al jefe.\nSoporte Vital: los PS no pueden bajar del 1% de los PS máx. Tras usarlo por segunda vez, este estado se elimina. Se puede usar repetidamente.
+No longer Weakened!=¡Ya no está debilitado!
+L<color\=#000000>i</color>fe Sustainment Removed=S<color\=#000000>o</color>porte Vital Eliminado
+Life Sustainment removed!=¡Soporte Vital eliminado!
+Cannot use while skill is active.=No se puede usar mientras la habilidad esté activa.
+Cannot use while skill is active.=No se puede usar mientras la habilidad esté activa.
+Cannot be activated during Auto-Battle.=No se puede activar durante el Auto-Combate.
+
 
 +--Prueba del Astrolabio--+
 
@@ -2820,6 +2979,31 @@ Pass a Fate Stella in Trial of the Astrolabe within 1 season.
 +--Misiones--+
 Clear the mission to unlock the City Life activity Talk to Hiyori.=Completa la misión para desbloquear la actividad Vida Urbana. Habla con Hiyori.
 Clear the mission to unlock the activity Camerawork with Rikuto Shimizu.=Completa la misión para desbloquear la actividad Trabajo de cámara con Rikuto Shimizu.
+
++--Perfiles Cumpleaños--+
+Listening to jazz=Escuchar jazz
+Peach sorbet=Sorbet de durazno
+Don't know (it changes on a daily basis)=No lo sé (cambia todos los días)
+Figure skater=Patinadora artística
+
+Fashion student=Estudiante de moda
+Vocational school 1st year=Primer año de la escuela vocacional
+
+Flair bartending, decorative fruit\nslicing=Flair bartending, corte decorativo de frutas
+Dancing, bar-hopping=Bailar e ir de bares
+Anything with a strong flavor=Cualquier cosa que tenga un sabor fuerte
+
+Situation puzzles=Acertijos de situación
+Collecting picture books=Coleccionar libros de ilustraciones
+
+I'm a super dedicated worker!=¡Soy un trabajadora súper dedicado!
+
+Work at various part-time jobs.=Trabaja en varios trabajos de medio tiempo.
+
+Ramen=Ramen
+
+r:"^(\d+)kg$"="$1 kg"
+
 
 
 +--Random--+
@@ -2868,7 +3052,7 @@ Do you want to use the following to perform Fists of Thunder 1 times?=¿Quieres 
 The Masks We Wear: Phase 1 Coin Delivery=Las Máscaras que llevamos: parte 1 Entrega de Monedas
 The new Jun 11, 2026 Phantom Pass has started.\nAs you cleared 4 daily missions in the previous pass, the new pass has been adjusted and rewards have been delivered to you via this message.=El nuevo Pase Fantasma del 11 de junio de 2026 ha comenzado. Como completaste 4 misiones diarias en el pase anterior, este nuevo pase se ha ajustado y las recompensas te han sido entregadas a través de este mensaje.
 AnNversary Countdown Ending Soon=El conteo regresivo de aNversario terminará pronto
-The event period for AnNversary Countdown will end soon.\nFor details on the event period, check the Shop or Event pages in-game.\n*For events with an exchange shop, the shop will also close when the event ends. Be sure to exchange rewards as soon as possible.=El periodo del evento "Conteo regresivo de aNversario" finalizará pronto.\nPara más detalles sobre la duración del evento, consulta las secciones de "Tienda" o "Eventos" dentro del juego.\n*En el caso de los eventos con tienda de intercambio, esta también se cerrará al finalizar el evento. Asegúrate de reclamar tus recompensas lo antes posible.
+The event period for Anniversary Countdown will end soon.\nFor details on the event period, check the Shop or Event pages in-game.\n*For events with an exchange shop, the shop will also close when the event ends. Be sure to exchange rewards as soon as possible.=El periodo del evento "Conteo regresivo de aNversario" finalizará pronto.\nPara más detalles sobre la duración del evento, consulta las secciones de "Tienda" o "Eventos" dentro del juego.\n*En el caso de los eventos con tienda de intercambio, esta también se cerrará al finalizar el evento. Asegúrate de reclamar tus recompensas lo antes posible.
 r:"^On Jun (\d+), 2026, you had some unclaimed rewards from 1st AnNversary {{A}}\. They have been delivered directly to you via this message\.$"="El $1 de junio de 2026, tenías algunas recompensas pendientes de la Fiesta 1.º ANversario. Se han entregado directamente a ti a través de este mensaje."
 Shining Badge=Insignia Brillante
 The event The Masks We Wear: Phase 1 has ended.\nYour unused coins have been delivered to you, and can be found in your bag.=El evento Máscaras que llevamos: parte 1 ha terminado. Tus monedas sin usar han sido entregadas y las puedes encontrar en tu inventario.
@@ -3035,6 +3219,36 @@ You're Not Alone=No Estás Solo
 M<color\=#ff0000ff>e</color>dium Crane Game=M<color\=#ff0000ff>á</color>quina de Gancho Mediana
 S<color\=#ff0000ff>m</color>all Crane Game=M<color\=#ff0000ff>á</color>quina de Gancho Pequeña
 Now featuring a chance to win the super-rare mini Narcissus plushie!=¡Ahora hay oportunidad de ganar el peluche mini Narcissus súper raro!
+Caja de Persona de Rango VIII=Caja de Persona de Rango VIII
+Unlock character voices.=Desbloquear las voces de los personajes.
+Haunted Beach Shack 1=Cabaña de la Playa Embrujada 1
+Haunted Beach Shack 2=Cabaña de la Playa Embrujada 2
+Do you want to use the following to perform Kyun Kyun Cutie 10 times?=¿Quieres usar lo siguiente para usar Lindura Kyun Kyun 10 veces?
+Do you want to use the following to perform Kyun Kyun Cutie 1 times?=¿Quieres usar lo siguiente para usar Lindura Kyun Kyun 1 veces?
+Will be used in order of Gold Ticket、Meta Jewels=Se usarán en este orden: Boleto de Dorado, Meta Gemas
+An exclusive 5★ weapon for <color\=#FF423F>Ichigo Shikano</color> is now available! Select which weapons are in your 5★ weapon lineup. Press [Info] for more details.=Un arma 5★ exclusiva para <color\=#FF423F>Ichigo Shikano</color> ¡Ya está disponible! Selecciona qué armas formarán parte de tu alineación de armas 5★. Presiona [Info] para más detalles.
+Imprisoned Theme Set=Conjunto de Temática de Prisionero
+Lonely Stage=Escenario Solitario
+Martyr's Muzzle=Bozal del Mártir
+Pride's Prison=Prisión del Orgullo
+Caged Beauty=Belleza Enjaulada
+Can be set as your chat bubble.=Puedes establecerlo como tu burbuja de chat.
+The main illustration created for The Masks We Wear: Phase 2.=La ilustración principal creada para Las Máscaras que Vestimos: Fase 2.
+Thieves Den Illustration=Ilustración de la Guarida de los Ladrones
+Chat Bubble=Burbuja de chat
+Obtain additional City Life effects.=Obtén efectos adicionales de la Vida Urbana.
+r:"^Repression Medal ([I|V|X]+) x(\d+)$"="Medalla de Represión $1 x$2"
+r:"^Thief's Cognitite Shard x(\d+)$"="Fragmento de Cognición de Ladrón x$1"
+Ideal Dog=Perro Ideal
+Awarded for clearing a specific mission in The Masks We Wear: Phase 2 in chapter 4 of the main story.=Se otorga por completar una misión específica en Las Máscaras que Vestimos: Fase 2 del capítulo 4 de la historia principal.
+Trumpeter's Seal=Sello del Trompetista
+A seal engraved with the legend of Trumpeter. It can be used to strengthen and fuse Personas.=Un sello grabado con la leyenda del Trompetista. Se puede usar para fortalecer y realizar la Fusión de Personas.
+Once a certain amount has been collected, can be exchanged for the Rank VII Persona Trumpeter and its Seal.=Una vez que se recolecte cierta cantidad, se podrá canjear por la Persona Trompetista de Rango VII y su Sello.
+), get <color\=#EADE10>5★ Phantom Thief Chance 05</color> x1! Use it to randomly get one of these Thieves:=), ¡Obtén <color\=#EADE10>Oportunidad de Ladrón Fantasma 5★ 05</color> x1! Úsalo para obtener un Ladrón:
+Clear Side Mission: Meat Cutlet Destiny to unlock.=Completa la misión secundaria Destino de la Milanesa de Carne para desbloquear.
+Clear Side Mission: Ms. Katayama's Homework to unlock.=Completa la misión secundaria La tarea de la Srta. Katayama para desbloquear.
+
+
 
 
 Ghost Rule (Lyrics: DECO*27, Music: DECO*27)=Ghost Rule (Letra: DECO*27, Música: DECO*27)
@@ -3048,6 +3262,8 @@ Broken Arrow -another version-=Broken Arrow -otra versión-
 Freedom and Peace=Libertad y Paz
 Phantom=Fantasma
 Action -intro-=Acción -introducción-
+Yumi's Invite=Invitación de Yumi
+Shoki ♣2=Shoki ♣2
 
 Unlocks at Minami Miyashita rank 1=Se desbloquea en el rango 1 de Minami Miyashita.
 Can be gifted to accomplices to raise Synergy. Made with daisies and simple packaging at the workbench.=Se puede regalar a los cómplices para aumentar la Sinergia. Se hace con margaritas y un empacado sencillo en el mesa de trabajo.
@@ -3059,9 +3275,13 @@ Entry to the Expert Pond costs <color\=#FF423F>700</color> yen. Do you want to b
 r:"^A Birthday Gift for (.+?)$"="Un regalo de cumpleaños para $1"
 Thank you for playing Persona5: The Phantom X.\n\nJun 12 is Haruna Nishimori’s birthday!\nTo celebrate, we’re sending you the Recommended Set: Poder Revelation - Orange.\n\nWe hope you continue to enjoy Persona5: The Phantom X.=Gracias por jugar a Persona5: The Phantom X.\n\n¡El 12 de junio es el cumpleaños de Haruna Nishimori!\nPara celebrarlo, te enviamos el Conjunto Recomendado: Revelación de Poder - Naranja.\n\nEsperamos que sigas disfrutando de Persona5: The Phantom X.
 Thank you for playing Persona5: The Phantom X.\n\nJun 21 is Yumi Shiina’s birthday!\nTo celebrate, we’re sending you the Recommended Set: Labor Revelation - Orange.\n\nWe hope you continue to enjoy Persona5: The Phantom X.=Gracias por jugar Persona5: The Phantom X.\n\n¡El 21 de junio es el cumpleaños de Yumi Shiina!\nPara celebrarlo, te enviamos el Conjunto Recomendado: Revelación de Trabajo - Naranja.\n\nEsperamos que sigas disfrutando de Persona5: The Phantom X.
+Thank you for playing Persona5: The Phantom X.\n\nAug 3 is Toshiya Sumi's birthday.\nTo celebrate, we've sent you a set of Hindrance Revelation - Orange cards for his Recommended Set.\n\nWe hope you continue to enjoy Persona5: The Phantom X.=Gracias por jugar Persona5: The Phantom X.\n\nEl 3 de agosto es el cumpleaños de Toshiya Sumi. Para celebrarlo, te enviamos el Conjunto Recomendado: Revelación de Obstáculo - Naranja.\n\nEsperamos que sigas disfrutando de Persona5: The Phantom X.
 As thanks for your long-term support, we have sent you additional rewards.=Como agradecimiento por tu apoyo incondicional, te enviamos recompensas adicionales.
 Thank you for playing Persona5: The Phantom X.\n\nJuly 11 is Shun Kano's birthday!\nTo celebrate, we’re sending you a set of Control Revelation - Orange cards from his Recommended Set.\n\nWe hope you continue to enjoy Persona5: The Phantom X.=Gracias por jugar Persona5: The Phantom X.\n\n¡El 11 de julio es el cumpleaños de Shun Kano!\nPara celebrarlo, te enviamos el Conjunto Recomendado: Revelación de Control - Naranja.\n\nEsperamos que sigas disfrutando de Persona5: The Phantom X.
 Thank you for playing Persona5: The Phantom X.\n\nJuly 17 is Masaki Ashiya's birthday!\nTo celebrate, we're sending you a set of Peace Revelation - Orange cards from his Recommended Set.\n\nWe hope you continue to enjoy Persona5: The Phantom X.=Gracias por jugar Persona 5: The Phantom X.\n\n¡El 17 de julio es el cumpleaños de Masaki Ashiya!\nPara celebrarlo, tte enviamos el Conjunto Recomendado: Revelación de Paz - Naranja\n\nEsperamos que sigas disfrutando de Persona5: The Phantom X.
+
+Distribution of Crystal Cognigems=Distribución de Cognigema de Cristal
+Thank you for playing Persona5: The Phantom X.\n\nWe are sending Crystal Cognigems to all players who have drawn the same 5★ Phantom Thief at least 8 times prior to the beginning of maintenance on July 30, 2026.\nFor details on the amount of Crystal Cognigems provided, please see the Ver. 4.6 Update Information notice.\n\nWe hope you continue to enjoy Persona5: The Phantom X.=Gracias por jugar Persona5: The Phantom X.\n\nEstamos enviando las Cognigema de Cristal a todos los jugadores que hayan obtenido el mismo Ladrón Fantasma de 5★ al menos 8 veces antes del inicio del mantenimiento del 30 de julio de 2026. Para conocer los detalles sobre la cantidad de Cognigema de Cristal que se entregarán, por favor consulta el aviso de Información de la Actualización Ver. 4.6.\n\nEsperamos que sigas disfrutando de Persona5: The Phantom X.
 
 Pieza de Orden del Mod del Artesano=Pieza de Orden del Mod del Artesano
 r:"^Spend: <color\=#FFDE00>Artisan's Mod Order Piece x(\d+)</color>\nCraft: <color\=#FFDE00>Artisan's Mod Order x(\d+)</color>\nDo you want to confirm\?$"="Gastar: <color\=#FFDE00>Pieza de Orden de Mod del Artesano x$1</color>.\nFabricar: <color\=#FFDE00>Orden de Mod del Artesano x$2</color>.\n¿Quieres confirmarlo?"
@@ -3082,6 +3302,8 @@ Work at Chagall Café=Trabajar en el Cafetería Chagall
 Collaboration Event=Evento de Colaboración
 1st AnNversary Event=Evento de 1.º Aniversario
 New Capsules Available=Nuevas Cápsulas Disponibles
+New Content=Contenido Nuevo
+
 
 <color\=#0F69CA><size\=36>Most Wanted Phantom Idol Contracts: The First Sound from the Future</size></color>\n\nThis is your chance to get the exclusive 5★ Hatsune Miku!\nYou can also get her exclusive 5★ weapon Light Up Your World in Silent Pistol Arms Deals!\n\nHatsune Miku is a 5★ Elucidator who can switch up the music in battle to pump up her allies.\n\nHatsune Miku can provide unique buffs or healing depending on each song she performs in battle.\nWhen she uses Skill 3, all enemies are stopped in their tracks, and her allies take the spotlight, gaining 2 extra actions each.\n\nWhen equipped with her 5★ weapon, Miku's Attack increases and she can activate even more buffs for her team.\n\nMiku's full setlist of support tactics and irresistible performance leave foes in a standstill, making her the star of any team.=<color\=#0F69CA><size\=36>Contratos de Ídolos Fantasma más buscados: El primer sonido del futuro</size></color>\n\n¡Esta es tu oportunidad de obtener a la exclusiva Hatsune Miku de 5★!\n¡También puedes conseguir su arma exclusiva de 5★, Ilumina Tu Mundo, en Tratos de Armas Pistola Silenciosa!\n\nHatsune Miku es una Elucidadora de 5★ que puede cambiar la música en batalla para potenciar a sus aliados.\n\nHatsune Miku aporta mejoras únicas o curación según la canción que interprete en el combate.\nCuando usa su Habilidad 3, paraliza a todos los enemigos y sus aliados toman el protagonismo, obteniendo 2 acciones adicionales cada uno.\n\nAl equiparla con su arma de 5★, el Ataque de Miku aumenta y puede activar todavía más mejoras para su equipo.\n\nEl repertorio completo de tácticas de apoyo y la irresistible actuación de Miku dejan a los rivales indefensos, convirtiéndola en la estrella de cualquier equipo.
 
@@ -3091,15 +3313,18 @@ New Capsules Available=Nuevas Cápsulas Disponibles
 <color\=#0F69CA><size\=36>Most Wanted Phantom Idol Contract: Casting Call</size></color>\n\nFeaturing 10 exclusive 5★ Phantom Thieves!\nYou can select 3 Most Wanted Phantom Thieves from a lineup of exclusive 5★ Phantom Thieves, and draw Most Wanted Idol Contracts for each of the Phantom Thieves.\nThe 3 Thieves you select will be shared between both "Targeted" and "Chance" contract systems.\n\nWhat's more, 5★ weapons for Phantom Thieves appearing in the Most Wanted Casting Call will also be available in a special Silent Pistol Arms Deal, allowing you to choose featured weapons from the lineup!=<color\=#0F69CA><size\=36>Contratos de Ídolos Fantasma destacados: Casting Especial</size></color>\n\n¡Con la participación de 10 Ladrones Fantasma de 5★ exclusivos!\nPuedes seleccionar a 3 Ladrones Fantasma destacados de una lista de personajes de 5★ exclusivos y realizar Contratos de Ídolos para cada uno de ellos.\nLos 3 Ladrones que elijas se compartirán entre los sistemas de contratos "Objetivo" y "Probabilidad".\n\nAdemás, las armas de 5★ para los Ladrones Fantasma que aparezcan en este Casting Especial también estarán disponibles en Tratos de Armas Pistola Silenciosa Especial, ¡lo que te permitirá elegir las armas destacadas de la lista!
 For <color\=#FFFC40>Silent Pistol</color> contracts, you use Platinum Milicoins to draw from a lineup of selected 5★ weapons.\nYou can select up to three weapons (including exclusive 5★ weapons), and one of these three will be Most Wanted and have a higher chance of appearing.\n\nYou will not be able to add these to the lineup after this contract's event period ends.\n*Other opportunities to get exclusive 5★ weapons may be available in the future.\n*Some weapons may not be equipped by variant versions of Phantom Thieves with the same code name. To see which Phantom Thieves can equip weapons, please check the item details.\n\n5★ lineup includes <color\=#FFFC40>Light Up Your World</color> which is an exclusive weapon. =En los contratos de <color\=#FFFC40>Pistola silenciosa</color>, utilizas Milimonedas de Platino para realizar invocaciones de un catálogo de armas de 5★ seleccionadas.\nPuedes elegir hasta tres armas (incluyendo armas exclusivas de 5★), y una de estas tres se fijará como Más Buscados, lo que aumentará su probabilidad de aparición.\n\nTen en cuenta que no podrás añadir estas opciones al catálogo una vez que finalice el periodo de este contrato.\n*Es posible que en el futuro haya nuevas oportunidades para obtener estas armas exclusivas de 5★.\n*Algunas armas podrían no ser compatibles con las versiones variantes de los Ladrones Fantasma que compartan el mismo nombre clave. Para verificar qué personajes pueden equipar cada arma, consulta los detalles del objeto.\n\nEl catálogo de 5★ incluye el arma exclusiva <color\=#FFFC40>Ilumina Tu Mundo</color>.
 
-Firecracker Yaoling Returns=Firecracker Yaoling Regresa
-Matoi Returns=Matoi Regresa
-
+Firecracker Yaoling Returns=Regreso de Firecracker Yaoling 
+Matoi Returns=Regreso de Matoi
+Violet Returns=Regreso de Violet
 Summer Riko=Riko Veraniega
 Summer Riko Set=Conjunto de Riko Veraniega
 Summer Riko Avatar=Avatar de Riko Veraniega
 Summer Parasol=Sombrilla Veraniega
 Banana Boat=Bote Banana
 New Plushies=Peluches Nuevos
+Medicine Effect Received=Efecto de medicina recibido
+Medicine Effect=Efecto de medicina
+Beachflower Avatar 2=Avatar Flor Costera 2
 
 <color\=#0F69CA><size\=36>Most Wanted Phantom Idol Contract: Blossoms in the Sea Breeze</size></color>\n\nThis is your chance to get the exclusive 5★ Phantom Thief Beachflower Minami!\nYou can also get her exclusive 5★ weapon Everlasting Garden in Silent Pistol Arms Deals!\n\nBeachflower Minami is a 5★ Bless Strategist.\n\nShe specializes in buffing the offensive potential of individual allies, boosting their Attack, critical rate, and critical damage.\n\nAlso, under certain conditions, she's capable of using medicine to buff allies even further without spending a turn.\n\nWhen equipped with her 5★ weapon, the effects of her medicine grow even stronger, granting additional critical damage and Attack buffs.\n\nLeverage Beachflower Minami's first-aid expertise to buff the frontline Assassin or Sweeper in your party, and raise their Attack to new heights.=<color\=#0F69CA><size\=36>Contrato de Ídolo Fantasma Más Buscado: Flores en la Brisa Marina</size></color>\n\n¡Esta es tu oportunidad de conseguir a la exclusiva 5 estrellas Ladrón Fantasma Minami Flores Playeras!\n¡También puedes conseguir su arma exclusiva de 5★ Jardín eterno en Oferta de armas: Pistola silenciosa!\n\nMinami Flores Playeras es una Estratega de elemento Bendición de 5★.\n\nSe especializa en potenciar el potencial ofensivo de aliados individuales, aumentando su Ataque, probabilidad de crítico y daño crítico.\n\nAdemás, bajo ciertas condiciones, es capaz de usar medicina para potenciar (buff) aún más a los aliados sin gastar un turno.\n\nAl equipar su arma de 5★, los efectos de su medicina se vuelven aún más fuertes, otorgando mejoras (buffs) adicionales de daño crítico y de Ataque.\n\nAprovecha la experiencia en primeros auxilios de Minami Flores Playeras para potenciar al Asesino o Barrendero de vanguardia en tu grupo, y eleva su Ataque a niveles altos.
 
@@ -3110,6 +3335,34 @@ New Plushies=Peluches Nuevos
 <color\=#0F69CA><size\=36>Thieves' Secrets: Marian's Special Missions</size></color>\n\nTake down the enemy party to earn rewards in this event.\nThe first time you clear a stage, you can earn Meta Jewels, Joy Medals, and other rewards.\nAlso, take on the limited-time stages to earn the special event item Secret Tickets, which can be exchanged for Stardust Bells, Fortune Revelations, and other training materials.\nCheck in-game for more information on limited-time stage rewards.=<color\=#0F69CA><size\=36>Secretos de Ladrones: Misiones especiales de Marian</size></color>\n\nDerrota al grupo enemigo para obtener grandes recompensas en este evento.\nLa primera vez que completes una fase, podrás conseguir Meta Gemas, Medallas de Alegría y otros premios.\nAdemás, participa en las fases por tiempo limitado para conseguir el objeto especial del evento, los Boletos Secretos, que podrás canjear por Campanas de Polvo Estelar, Revelaciones de Fortuna y otros materiales de mejora.\nConsulta los detalles dentro del juego para conocer más sobre las recompensas de las fases de tiempo limitado.
 
 <color\=#0F69CA><size\=36>New Limited-Time Plushies in Crane Games!</size></color>\n\nSee if you can score Lamia and Mini Narcissus!\n*For more details on the availability of limited-time plushies, go to Akihabara>Arcade>Crane Game.=<color\=#0F69CA><size\=36>¡Nuevos peluches por tiempo limitado en los Maquinas de Gancho!</size></color>\n\n¡Ven a probar tu suerte para conseguir a Lamia y Mini Narcissus!\n*Para conocer los detalles sobre la disponibilidad de los peluches por tiempo limitado, ve a Akihabara > Arcade > Máquina de Gancho.
+
+<color\=#0F69CA><size\=36>Most Wanted Idol Contract: Faith Held Close</size></color>\n\nThe exclusive 5★ Phantom Thief Kasumi Yoshizawa has returned!\nThe Kasumi Yoshizawa-only 5★ weapon Royal Étoile has also been made available again in Most Wanted Silent Pistol Arms Deals.=<color\=#0F69CA><size\=36>Contrato de Ídolo Más Buscado: Mantén Cerca La Fe</size></color>\n\n¡La Ladrón Fantasma de 5★ exclusiva, Kasumi Yoshizawa, ha regresado!\nEl arma de 5★ exclusiva para Kasumi Yoshizawa, Étoile Real, también vuelve a estar disponible en el negocio de armas Pistola Silenciosa Más Buscada.
+5★ Phantom Thief Kasumi Yoshizawa is in the Most Wanted lineup! Press [Info] for more details.=¡La Ladrón Fantasma de 5★, Kasumi Yoshizawa, está en la lista de los más buscados! Presiona [Info] para ver los detalles.
+
+<color\=#0F69CA><size\=36>Most Wanted Phantom Idol Contracts: Kyun Kyun Cutie</size></color>\n\nThis is your chance to get the exclusive 5★ Phantom Thief Ichigo Shikano!\nYou can also get her exclusive 5★ weapon My Destiny in Silent Pistol Arms Deals!\n\nIchigo is a 5★ Curse Assassin who excels at dealing continuous damage.\n\nShe can inflict Lovesick on foes, causing them to take damage every turn. Her skills and Highlight let her accumulate Chains of Love, strengthening her offensive potential with each stack.\n\nWith her 5★ weapon in hand, her Chains of Love grow even more powerful.\n\nIchigo can curse her enemies with Lovesick, forge the Chains of Love, and deal continuous damage over time before finishing them off in one fell swoop!\n<color\=#FF0000>*Ichigo Shikano's Highlight voice lines are scheduled to be changed later to better match her presentation.</color>=<color\=#0F69CA><size\=36>Contratos de Ídolos Fantasma más buscados: Kyun Kyun Cutie</size></color>\n\n¡Esta es tu oportunidad de obtener a la exclusiva Ladrón Fantasma Ichigo Shikano de 5★!\n¡También puedes conseguir su arma exclusiva de 5★, Mi Destino, en Tratos de Armas Pistola Silenciosa!\n\nIchigo es una Asesina de Maldiciones de 5★ que destaca por infligir daño continuo.\n\nPuede aplicar el estado de Mal de Amores a los enemigos, lo que les causa daño cada turno. Sus habilidades y Highlight le permiten acumular Cadenas de Amor, fortaleciendo su potencial ofensivo con cada carga.\n\nCon su arma de 5★ en mano, sus Cadenas de Amor se vuelven todavía más poderosas.\n\n¡Ichigo puede maldecir a sus rivales con Mal de Amores, forjar Cadenas de Amor e infligir daño continuo a lo largo del tiempo antes de acabar con ellos de un solo golpe!\n<color\=#FF0000>*Está previsto que las líneas de voz del Highlight de Ichigo Shikano se cambien más adelante para adaptarse mejor a su presentación.</color>
+
+<color\=#0F69CA><size\=36>Chapter 4: The Masks We Wear - Phase 2 Release Event</size></color>\n\nThe second installment of Chapter 4 in the main story is out, featuring new areas of the Palace and Mementos to explore, as well as new City Life activities, and missions to complete!\nThe event missions are divided into four categories: Main Story, Metaverse Exploration, Visions of Ruin, and City Adventure. From them, you can earn fantastic rewards including Meta Jewels, Guard Dog's Collars, Joy Medals, and Kagura Bells.\n\nAlso, based on how many Guard Dog's Collars (this event's reward item) you've collected, you can obtain the rank VII Persona Trumpeter and Trumpeter's Seals!\nDon't miss out on these valuable items up for grabs—nor on the new story content, City Life activities, and battles against powerful enemies available for you to enjoy!=<color\=#0F69CA><size\=36>Capítulo 4: Las Máscaras que Vestimos - Evento de lanzamiento de la Fase 2</size></color>\n\n¡Ya está disponible la segunda entrega del Capítulo 4 de la historia principal!\n¡Explora nuevas áreas del Palacio y Mementos, disfruta de nuevas actividades urbanas y completa misiones!\nLas misiones del evento se dividen en cuatro categorías: Historia Principal, Exploración del Metaverso, Visiones de la Ruina y Aventura Urbana. Gracias a ellas, podrás ganar fantásticas recompensas como Meta Gemas, Collares de Perro Guardián, Medallas de Alegría y Campanas Kagura.\n\nAdemás, según la cantidad de Collares de Perro Guardián (el objeto de recompensa de este evento) que hayas reunido, ¡podrás obtener al Persona de rango VII Trompetista y Sellos de Trompetista!\n¡No te pierdas estos valiosos objetos en juego, así como el nuevo contenido de la historia, las actividades urbanas y los combates contra enemigos poderosos que te esperan!
+
+<color\=#0F69CA><size\=36>New Potential Accomplice: Kumi Katayama</size></color>\n\nDuring the event New Bonds, you can obtain rewards such as Meta Jewels by unlocking synergy with the event's accomplice.\n\nIn addition, Ichigo Shikano's Synergy Rank can now be increased to 20!\nWe hope you enjoy the newly unlocked synergy story content.\n*Kumi Katayama's Synergy Rank can be increased up to 14.=<color\=#0F69CA><size\=36>Nuevo cómplice potencial: Kumi Katayama</size></color>\n\nDurante el evento Nuevos Vínculos, puedes obtener recompensas como Meta Gemas al desbloquear la sinergia con el cómplice del evento.\n\nAdemás, ¡el Rango de Sinergia de Ichigo Shikano ahora se puede subir hasta el nivel 20!\nEsperamos que disfrutes del nuevo contenido de la historia de sinergia que se ha desbloqueado.\n*El Rango de Sinergia de Kumi Katayama se puede aumentar hasta el nivel 14.
+
+<color\=#0F69CA><size\=36>Shadow Hunt has begun!</size></color>\n\nFight powerful foes in the newly-added area of Mementos: The Path of Kaitul.\nWhile there are no event rewards, this event will make progressing through Shadow elimination missions easier, so be sure to use it to aid you in your exploration.\n*The rewards displayed on the event screen are the standard rewards given for defeating the displayed Shadow for the first time.=<color\=#0F69CA><size\=36>¡La Cacería de Sombras ha comenzado!</size></color>\n\nEnfréntate a enemigos poderosos en la nueva área de Mementos: El Camino de Kaitul.\nAunque no hay recompensas exclusivas, este evento facilitará tu progreso en las misiones de eliminación de Sombras. ¡Aprovéchalo para avanzar en tu exploración!\n*Las recompensas que se muestran en la pantalla son las estándar que se otorgan al derrotar a la Sombra indicada por primera vez.
+
+
+
+
++--Banner--+
+Most Wanted 5★=Los Más Buscados de 5★
+
+r:"^The 5★ \(<color\=#FFFC40>(.+)</color>\) and the 4★ Phantom Thieves \(<color\=#FFFC40>(.+)</color>, <color\=#FFFC40>(.+)</color>, and <color\=#FFFC40>(.+)</color>\) are the Most Wanted for these contracts\.\n\nPlatinum Tickets are used to draw these contracts\.\nIf you do not have enough Platinum Tickets, you can use Meta Jewels and/or Cognition Crystals to draw these contracts\.\n\* Platinum Tickets will be used first, followed by Meta Jewels, then Cognition Crystals\.$"="Los Ladrones Fantasma de 5★ (<color\=#FFFC40>$1</color>) y los Ladrones Fantasma de 4★ (<color\=#FFFC40>$2</color>, <color\=#FFFC40>$3</color> y <color\=#FFFC40>$4</color>) son los Más Buscados para estos contratos.\n\nLos Tickets Platino se usan para pedir estos contratos.\nSi no tienes suficientes Tickets Platino, puedes usar Meta Gemas y/o Cristales de Cognición para pedir estos contratos.\n* Los Tickets Platino se usarán primero, seguidos de las Meta Gemas, y luego los Cristales de Cognición."
+
+If you didn't obtain a 4★ from the previous 9 draws for these contracts, your next draw (the 10th draw) will have the Flat 1 rate, which guarantees a 4★ or higher.\nIf you didn't obtain a 5★ from the previous 109 draws, your next draw (the 110th draw) will have the Flat 2 rate, which guarantees a 5★.\n\nAfter you obtain a non-Most Wanted Phantom Thief, if a Phantom Thief of the same rarity appears in the next or subsequent draws, a Most Wanted Phantom Thief will appear.\nThis Special Most Wanted Draw will be valid until you obtain a Most Wanted Phantom Thief of the same rarity.\n\n<color\=#FFFC40>The status for Contract Rates applies to all "targeted" contracts, regardless of the event period.</color>\n\nThe displayed contract rates have been rounded off at the fourth decimal place (to the nearest thousandth), and their combined total may not add up to each rarity-based contract rate or to 100%.\nFor contracts, the contract rates are based upon each individual draw. Therefore, an item with a contract rate of 1% is not guaranteed to appear within 100 draws. The same item may also appear more than once.\nPlease note that as the rates for Most Wanted Phantom Thieves are increased, the rates for other Phantom Thieves are also decreased.\nFor further details about contract rates, please press [Contract Rates] on this contract.=Si no obtuviste un personaje de 4★ en las 9 obtenciones anteriores de estos contratos, tu próxima obtención (la décima) tendrá la probabilidad fija 1, que garantiza un personaje de 4★ o superior.\nSi no obtuviste un personaje de 5★ en las 109 obtenciones anteriores, tu próxima obtención (la número 110) tendrá la probabilidad fija 2, que garantiza un personaje de 5★.\n\nTras obtener un Ladrón Fantasma que no sea de los más buscados, si aparece un Ladrón Fantasma de la misma rareza en la siguiente obtención o en las posteriores, este será uno de los más buscados.\nEste contrato especial de los más buscados será válido hasta que obtengas un Ladrón Fantasma de los más buscados de esa misma rareza.\n\n<color\=#FFFC40>El progreso de las probabilidades del contrato se aplica a todos los contratos "Buscados", independientemente del periodo del evento.</color>\n\nLas probabilidades del contrato mostradas se redondearon al cuarto decimal (a la milésima más cercana), por lo que su total combinado podría no coincidir con la probabilidad total por rareza o el 100%.\nEn los contratos, las probabilidades se aplican a cada obtención individual. Por lo tanto, no se garantiza que un objeto con una probabilidad del 1% aparezca en 100 intentos. El mismo objeto también puede aparecer más de una vez.\nTen en cuenta que, al aumentar las probabilidades de los Ladrones Fantasma de los más buscados, las de los demás Ladrones Fantasma disminuyen.\nPara más detalles sobre las probabilidades, presiona [Probabilidades del Contrato] en este menú.
+
+r:"^If you obtain a Phantom Thief or Persona that you already have, it will be automatically exchanged for one of the items below based on its rarity and how many times you've obtained it\.\n\n5★ Phantom Thief\n<color\=#FFFC40>Obtained (\d+)–(\d+) Times</color>\n<sprite\=0 tint\=1>That Phantom Thief's Cognitite x(\d+), Violet Cognigem x(\d+)\n<color\=#FFFC40>Obtained (\d+)\+ Times</color>\n<sprite\=0 tint\=1>Violet Cognigem x(\d+)\n\n4★ Phantom Thief\n<color\=#FFFC40>Obtained (\d+)–(\d+) Times</color>\n<sprite\=0 tint\=1>That Phantom Thief's Cognitite x(\d+), Violet Cognigem x(\d+)\n<color\=#FFFC40>Obtained (\d+)\+ Times</color>\n<sprite\=0 tint\=1>Violet Cognigem x(\d+)\n\nRank II 2★ Persona\n<color\=#FFFC40>Obtained (\d+)\+ Times</color>\n<sprite\=0 tint\=1>Repression Medal I x(\d+)\n\nRank I 2★ Persona\n<color\=#FFFC40>Obtained (\d+)\+ Times</color>\n<sprite\=0 tint\=1>Repression Medal I x(\d+)\n\nYou will also receive the following as a bonus whenever you obtain a 2★ Persona:\n<sprite\=0 tint\=1>Clear Cognigem x(\d+)$"="Si obtienes un Ladrón Fantasma o una Persona que ya posees, se canjeará automáticamente por uno de los siguientes objetos según su rareza y la cantidad de veces que lo hayas obtenido.\n\nLadrón Fantasma de 5★\n<color\=#FFFC40>Obtenido $1–$2 veces</color>\n<sprite\=0 tint\=1>Cognición de ese Ladrón Fantasma x$3, Cognigema Violeta x$4\n<color\=#FFFC40>Obtenido $5+ veces</color>\n<sprite\=0 tint\=1>Cognigema Violeta x$6\n\nLadrón Fantasma de 4★\n<color\=#FFFC40>Obtenido $7–$8 veces</color>\n<sprite\=0 tint\=1>Cognición de ese Ladrón Fantasma x$9, Cognigema Violeta x$10\n<color\=#FFFC40>Obtenido $11+ veces</color>\n<sprite\=0 tint\=1>Cognigema Violeta x$12\n\nPersona de Rango II y 2★\n<color\=#FFFC40>Obtenido $13+ veces</color>\n<sprite\=0 tint\=1>Medalla de Represión I x$14\n\nPersona de Rango I y 2★\n<color\=#FFFC40>Obtenido $15+ veces</color>\n<sprite\=0 tint\=1>Medalla de Represión I x$16\n\nTambién recibirás lo siguiente como bonificación cada vez que obtengas una Persona de 2★:\n<sprite\=0 tint\=1>Cognigema Clara x$17"
+
+r:"^In <color\=#FFFC40>(.+)</color> contracts, you use Platinum Tickets to draw from a lineup of exclusive Most Wanted 5★ Phantom Thieves and three Most Wanted 4★ Phantom Thieves\.\nAfter drawing targeted contracts (\d+) times, you can obtain 5★ Phantom Thief Chance (\d+) as a bonus reward\.\n5★ Phantom Thief Chance (\d+) is an item you can use to randomly obtain one of the 5★ Phantom Thieves that appear in Phantom Idol Draft X\. The number of draws to obtain bonus rewards is shared between "targeted" contracts, regardless of the event period\.\nUnclaimed rewards will be sent to your in-game mailbox after the event ends\.\n\n\*Other opportunities to get exclusive 5★ Phantom Thieves may be available in the future\.$"="En los contratos de <color\=#FFFC40>$1</color>, usas Tickets Platino para pedir de una alineación de Ladrones Fantasma de 5★ Más Buscados exclusivos y tres Ladrones Fantasma de 4★ Más Buscados.\nDespués de pedir contratos objetivo $2 veces, puedes obtener Azar de Ladrón Fantasma 5★ $3 como recompensa de bonificación.\nAzar de Ladrón Fantasma 5★ $4 es un objeto que puedes usar para obtener aleatoriamente uno de los Ladrones Fantasma de 5★ que aparecen en Elección de Ídolo Fantasma X. La cantidad de invocaciones para obtener recompensas de bonificación se comparte entre contratos "objetivo", independientemente del período del evento.\nLas recompensas no reclamadas se enviarán a tu buzón del juego cuando finalice el evento.\n\n*Es posible que haya otras oportunidades de obtener Ladrones Fantasma de 5★ exclusivos en el futuro."
+
+
+If you didn't obtain a 4★ from the previous 9 draws, your next draw (the 10th draw) will have the Flat 1 rate, which guarantees a 4★ or higher.\nIf you didn't obtain a 5★ from the previous 109 draws, your next draw (the 110th draw) will have the Flat 2 rate, which guarantees a 5★.\n\nAfter you obtain a non-Most Wanted Phantom Thief, if a Phantom Thief of the same rarity appears in the next or subsequent draws, one Most Wanted Phantom Thief will appear.\nThis Special Most Wanted Draw will be valid until you obtain a Most Wanted Phantom Thief of the same rarity.\n\nThe status for Contract Rates applies to all "targeted" contracts, regardless of the event period.\n\nThe displayed contract rates have been rounded off at the fourth decimal place (to the nearest thousandth), and their combined total may not add up to each rarity-based contract rate or to 100%.\nFor contracts, the contract rates are based upon each individual draw. Therefore, an item with a contract rate of 1% is not guaranteed to appear within 100 draws. The same item may also appear more than once.\nPlease note that as the rates for Most Wanted Phantom Thieves are increased, the rates for other Phantom Thieves are also decreased.=Si no obtuviste un personaje de 4★ en las 9 extracciones anteriores, tu siguiente extracción (la número 10) tendrá la tasa Probabilidad Fija 1, la cual garantiza un personaje de 4★ o superior.\nSi no obtuviste un personaje de 5★ en las 109 extracciones anteriores, tu siguiente extracción (la número 110) tendrá la tasa Probabilidad Fija 2, la cual garantiza un personaje de 5★.\n\nDespués de obtener un Ladrón Fantasma que no sea de Los Más Buscados, si aparece un Ladrón Fantasma de la misma rareza en la siguiente extracción o en las posteriores, aparecerá un Ladrón Fantasma de Los Más Buscados.\nEsta Extracción Especial de Los Más Buscados será válida hasta que obtengas un Ladrón Fantasma de Los Más Buscados de la misma rareza.\n\nEl estado de las Tasas de Contrato se aplica a todos los contratos "específicos", sin importar el periodo del evento.\n\nLas tasas de contrato mostradas han sido redondeadas en el cuarto decimal (al milésimo más cercano), y su total combinado podría no sumar la tasa de contrato basada en cada rareza ni el 100%.\nPara los contratos, las tasas se basan en cada extracción individual. Por lo tanto, un objeto con una tasa de contrato del 1% no está garantizado aparecer en 100 extracciones. El mismo objeto también puede aparecer más de una vez.\nTen en cuenta que, a medida que aumentan las tasas de los Ladrones Fantasma de Los Más Buscados, las tasas de los demás Ladrones Fantasma disminuyen.
 
 +--Primer aniversario--+
 

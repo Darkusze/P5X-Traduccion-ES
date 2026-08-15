@@ -2247,7 +2247,9 @@ Items you collect in Tartarus can be used <color\=#FF3838>after exploration has 
 Battling will raise your <color\=#FF3838>Exploration Level</color>. Your Exploration Level determines the levels of <color\=#FF3838>all teammates</color>, <color\=#FF3838>weapons</color>, <color\=#FF3838>skills</color>, and <color\=#FF3838>Wonder's Personas</colro>.=Combatir aumentará tu <color\=#FF3838>Nivel de Exploración</color>. Tu Nivel de Exploración determina los niveles de todos <color\=#FF3838>los compañeros de equipo</color>, <color\=#FF3838>las armas</color>, <color\=#FF3838>las habilidades</color> y <color\=#FF3838>las Personas de Wonder</color>.
 The goal of Tartarus exploration is not always to clear the level, but to get stronger through successive attempts.\nContinue challenging Tartarus and powering up your team as you aim for greater heights.=El objetivo de la exploración de Tártaro no siempre es despejar el nivel, sino volverse más fuerte a través de intentos sucesivos.\nContinúa desafiando al Tártaro y potenciando a tu equipo mientras aspiras a llegar más alto.
 
-
+Paulownia Mall Hangouts=Encuentros en Paulownia Mall
+By visiting Paulownia Mall, you can deepen your relationships with SEES members.=Al visitar Paulownia Mall, podrás profundizar\ntus lazos con los miembros de SEES.
+You can trigger one interaction event per day, and you will receive rewards the first time you complete each event.=Puedes activar un evento de interacción al día\ny recibirás recompensas la primera vez que\nlo completes.
 
 #Misiones port island
 
@@ -2332,6 +2334,14 @@ INFO:=INFO:
 What will you buy?=¿Qué comprarás?
 Restocks in 1 day=Reabastece en 1 día
 r:"^Restocks in ([0-9]+) days$"="Reabastece en 4 días"
+
+Aohige Pharmacy in Paulownia Mall has a new aojiru flavor...=La Farmacia Aohige en el centro comercial Paulownia tiene un nuevo sabor de aojiru...
+I received some new ingredients for my aojiru\ntoday. Want to try a sample?=Hoy me dieron unos ingredientes nuevos para mi aojiru. ¿Quieres probar una muestra?
+It has a rich taste...\nOne that refreshes the mind...=Tiene un sabor intenso...\nUno que refresca la mente...
+How is it? Pretty mild flavor, eh?=¿Qué tal está? Tiene un sabor bastante suave, ¿no?
+Good, good. Just the feedback I was hoping\nfor. Here, this is for all your help.=Bien, bien. Es justo el comentario que esperaba. Ten, esto es por toda tu ayuda.
+Come back any time!=¡Vuelve cuando quieras!
+I feel like I've become more\nopen-minded as a result\nof the aojiru...=Siento que me he vuelto más abierto\nde mente gracias al aojiru...
 
 Help out at Aohige Pharmacy=Ayudar en la farmacia Aohige
 I could go try the new aojiru at Aohige Pharmacy in Paulownia Mall...=Podría ir a probar el nuevo aojiru en la farmacia Aohige en el centro comercial Paulownia...
@@ -2480,6 +2490,9 @@ I'll have to practice it\nbefore coming here\nagain next time...=Tendré que pra
 
 I suddenly remembered\nsome style tips I wanted\nto try out...!=¡De pronto me acordé de unos\nconsejos de moda que quería\nponer a prueba...!
 In any case, it feels like\nI've gained more Charm...=Como sea, siento que mi nivel de encanto\nha aumentado...
+
+I suddenly want to play a\nhorror game... I feel like I\ncould 100% it easily now...!=De repente me dan ganas de\njugar un juego de terror...\n¡Siento que podría pasármelo al\n100% sin problemas ahora...!
+In any case, it feels like\nI've gained more Guts...=En cualquier caso, siento que he\nganado más Coraje...
 
 
 Port Island  Paulownia Mall=Isla Puerto  Centro Comercial Paulownia
@@ -5575,7 +5588,21 @@ Obtain Poinsettia to unlock=Obtén la Poinsettia para desbloquear
 #Historia 9
 #Obtain  to unlock=Obtén la  para desbloquear
 
++--Encuentros--+
 
+#MAKOTO
+
+Taking a nap?=¿Tomando una siesta?
+{{A}}? Wait... why are you here?=¿{{A}}? Espera... ¿por qué estás aquí?
+I swear I was with everyone until a while\nago... Any idea what's going on?=Te juro que estaba con todos hace un rato... ¿Tienes idea de qué está pasando?
+To a certain extent...=Hasta cierto punto...
+Vaguely...=Vagamente...
+Well, something definitely feels off, but\nI'm not picking up any enemies.=Bueno, definitivamente algo se siente raro,\npero no detecto ningún enemigo.
+Our friends won't be long...=Nuestros amigos no tardarán...
+The others'll be here soon.=Los demás llegarán pronto.
+Okay, understood.=Está bien, entendido.
+Since you're aware of the situation, I guess\nwe can let our guard down.=Ya que estás al tanto de la situación,\nsupongo que podemos bajar la guardia.
+Let's make the most of things and take it\neasy, then.=Disfrutemos el momento y tomémonoslo\ncon calma, entonces.
 
 
 

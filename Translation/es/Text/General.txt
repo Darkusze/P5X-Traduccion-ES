@@ -3460,7 +3460,7 @@ Yui=Yui
 Platinum Ticket\nCan be used in certain Phantom Idol Contracts to forge contracts with new Phantom Idols. Obtainable from shops and exchange shops.=Boleto de platino\nPuede usarse en ciertos contratos de Idol Phantom para forjar contratos con nuevos ídolos Phantom.\nSe obtiene en tiendas y tiendas de intercambio.
 Cyber Jammers=Interferencias cibernéticas
 Retro Disco Style=Estilo disco retro
-Use Gold Tickets to draw Phantom Idol contracts! Press [Info] for more details.=¡Usa boletos dorados para obtener contratos de Idol Phantom!\nPresiona [Info] para más detalles.
+Use Gold Tickets to draw Phantom Idol contracts! Press [Info] for more details.=¡Usa boletos dorados para obtener contratos de Ídolo Fantasma!\nPresiona [Info] para más detalles.
 Gold Ticket\nCan be used in Phantom Idol Draft X and Newcomer Contracts to forge contracts with new Phantom Idols. Obtainable from shops and exchange shops.=Boleto dorado Puede usarse en el Reclutamiento de Ídolos Fantasma X y en los Contratos de Principiante para forjar contratos con nuevos Ídolos Fantasma. Se puede obtener en tiendas y tiendas de intercambio.
 An exclusive 5★ weapon for Yui is now available! Select which weapons are in your 5★ weapon lineup. Press [Info] for more details.=¡Ya está disponible un arma exclusiva de 5★ para Yui!\nSelecciona qué armas estarán en tu alineación de armas 5★.\nPresiona [Info] para más detalles.
 Ltd. Platinum Set=Set platino limitado
@@ -3493,7 +3493,6 @@ Swift Strike=Golpe rápido
 Retreating will reset the stage.\nRetreat?=El retiro restablecerá la etapa.\n¿Retirarse?
 Your Phantom Thieves' <color\=#EF0000>Weapons</color>, <color\=#EF0000>Revelations</color>, <color\=#EF0000>Skills</color> are not strong enough.=Las <color\=#EF0000>armas</color>, <color\=#EF0000>revelaciones</color> y <color\=#EF0000>habilidades</color> de tus Ladrones Fantasma\nno son lo suficientemente fuertes.
 Wonder's <color\=#EF0000>Persona</color>, Schema, Weapons are not strong enough.=La <color\=#EF0000>Persona</color>, el esquema y las armas de Wonder no son lo suficientemente fuertes.
-{{A}}'s {0} are not strong enough.=Los {0} de {{A}} no son lo suficientemente fuertes.
 Rec. Attributes: =Atributos recomendados:
 Rec. Level: =Nivel recomendado:
 Flames of Desire activates when the Phantom Thieves in\nyour party and {{A}}'s {{B}} share the same Attribute.=Llamas de deseo se activa cuando los Ladrones Fantasma en tu grupo y el {{B}} de {{A}} comparten el mismo atributo.
@@ -5501,8 +5500,8 @@ View <color\=#FF423F>Rewards</color>.=Ver <color\=#FF423F>Recompensas</color>.
 Available every day from 5 AM for 30 days.=Disponible todos los días desde las 5 AM durante 30 días.
 Forge a contract of fate and recruit new allies.=Forja un contrato de destino y recluta nuevos aliados.
 Contracts=Contratos
-<color\=#FF423F>Contracts</color> can be made with Gold Tickets, Platinum Tickets, Meta Jewels, or Cognition Crystals.\nFor more details, check the <color\=#FF423F>Info</color> for each Contract.=Los <color\=#FF423F>Contratos</color> pueden realizarse con Boletos de Oro, Boletos de Platino, Joyas Meta o Cristales Cognitivos.\nPara más detalles, revisa la <color\=#FF423F>Información</color> de cada contrato.
-Use 8 Gold Tickets to draw 10 contracts. After 50 contracts, get one of the available 5★ Phantom Thieves of your choosing. Press [Info] for more details.=Usa 8 boletos de oro para obtener 10 contratos.\nTras 50 contratos, recibirás uno de los Ladrones Fantasma 5★ disponibles a tu elección.\nPresiona [Información] para más detalles.
+<color\=#FF423F>Contracts</color> can be made with Gold Tickets, Platinum Tickets, Meta Jewels, or Cognition Crystals.\nFor more details, check the <color\=#FF423F>Info</color> for each Contract.=Los <color\=#FF423F>Contratos</color> pueden realizarse con Boletos Dorado, Boletos de Platino, Joyas Meta o Cristales Cognitivos.\nPara más detalles, revisa la <color\=#FF423F>Información</color> de cada contrato.
+Use 8 Gold Tickets to draw 10 contracts. After 50 contracts, get one of the available 5★ Phantom Thieves of your choosing. Press [Info] for more details.=Usa 8 Boletos Dorado para obtener 10 contratos.\nTras 50 contratos, recibirás uno de los Ladrones Fantasma 5★ disponibles a tu elección.\nPresiona [Información] para más detalles.
 Do you want to use the following to perform Good Steals 10 times?=¿Quieres usar lo siguiente para realizar 10 Buenas Sustracciones?
 New Masks=Nuevas Máscaras
 {{A}}ful Manifestations=Manifestaciones {{A}}ful
@@ -6784,7 +6783,6 @@ Activated Desperado, recovering HP at the end of the turn!=¡Forajido activado, 
 Not enough bullets.=No hay suficientes balas.
 After Yukimi's turn ends, gain shield.=Después de que termine el turno de Yukimi, obtiene un escudo.
 Number of Ice Crystal stacks.=Número de acumulaciones de Cristal de Hielo.
-{{A}}'s Persona are not strong enough.=La persona de {{A}} no es lo suficientemente fuerte.
 Your Phantom Thieves' <color\=#EF0000>Weapons</color>, Skills are not strong enough.=Las <color\=#EF0000>Armas</color>, Las habilidades no son lo suficientemente fuertes.
 {{A}}.53={{A}}.53
 You haven't unlocked this episode yet.=Todavía no has desbloqueado este episodio.
@@ -13548,7 +13546,7 @@ Most Wanted 4★ Phantom Thieves=Ladrones Fantasma 4★ más buscados
 Most Wanted Ph. Idol=Ídolo Fantasma más buscado
 Most Wanted 5★ Phantom Thieves=Ladrones Fantasma 5★ más buscados
 Important Notes=Notas importantes
-Contract Rates=Tarifas contractuales
+Contract Rates=Probabilidades del Contrato
 Content Details=Detalles del contenido
 Most Wanted 4★ Weapons=Armas más buscadas 4★
 Cannot switch out protagonist.=No se puede cambiar de protagonista.
@@ -14993,7 +14991,7 @@ In the <color\=#FF423F>Party</color> menu, you can choose which Phantom Thieves 
 {{A}} List=Lista {{A}}
 You can create multiple party presets and select them from the <color\=#FF423F>Party List</color>.=Puede crear varios preajustes de equipo y seleccionarlos en el menú <color\=#FF423F>Lista Equipo</color>.
 <color\=#FF423F>Arms Deals</color> can be made with Platinum Milicoins.\nFor more details, check the <color\=#FF423F>Info</color> for each Arms Deal.=<color\=#FF423F>Tratos sobre armas</color> puede realizarse con Milimonedas de platino. Para más detalles, consulte la página <color\=#FF423F>Info</color> por cada Acuerdo de Armas.
-<color\=#FF423F>Contracts</color> can be drawn with Gold Tickets, Platinum Tickets, Meta Jewels, or Cognition Crystals.\nFor more details, check the <color\=#FF423F>Info</color> for each Contract.=<color\=#FF423F>Contratos</color> se pueden conseguir con Boletos de Oro, Boletos de Platino, Meta Jewels o Cristales Cognitivos. Para más información, consulte la página <color\=#FF423F>Info</color> para cada Contrato.
+<color\=#FF423F>Contracts</color> can be drawn with Gold Tickets, Platinum Tickets, Meta Jewels, or Cognition Crystals.\nFor more details, check the <color\=#FF423F>Info</color> for each Contract.=<color\=#FF423F>Contratos</color> se pueden conseguir con Boletos Dorado, Boletos de Platino, Meta Jewels o Cristales Cognitivos. Para más información, consulte la página <color\=#FF423F>Info</color> para cada Contrato.
 You can use <color\=#FF423F>Seals</color> from other Personas during Training to obtain a random skill from that seal's skills.=Puede utilizar <color\=#FF423F>Sellos</color> de otras Personas durante el Entrenamiento para obtener una habilidad aleatoria de las habilidades de ese sello.
 If you are ever confused about what to do or where to go next, look to the top-right corner of the screen to view various hints.\nAlso, you can select Track Mission from the Mission screen to show the distance to your goal.=Si alguna vez no sabes qué hacer o a dónde ir, mira la esquina superior derecha de la pantalla para ver varias pistas.\nTambién puedes seleccionar Rastrear misión desde la pantalla de misiones para mostrar la distancia hasta tu objetivo.
 In the <color\=#FF423F>Persona Compendium</color>, you can view detailed information on every Persona.\nYou can read their profile, find out how to acquire them, and other details.\nWhen a Persona is recorded, you can earn <color\=#FF423F>schema points</color>.=En la <color\=#FF423F>Compendio de Persona</color> puedes ver información detallada sobre cada Persona. Puedes leer su perfil, averiguar cómo adquirirlos y otros detalles. Cuando se registra una Persona, puedes ganar <color\=#FF423F>Puntos de esquema</color>.
@@ -15638,17 +15636,17 @@ Hot to the Touch=Caliente al tacto
 [Kaboom!]=[¡Kaboom!]
 [Elegance]=[Elegancia]
 [Blood Omen]=[Blood Omen]
-Rarity-based Contract Rates=Tarifas contractuales basadas en la rareza
+Rarity-based Contract Rates=Probabilidades del Contrato Según la Rareza
 Name=Nombre
-No Special Most Wanted Draw=No hay sorteo especial de los más buscados
+No Special Most Wanted Draw=Sin contrato especial de Los Más Buscados
 Att.=Att.
 Rate=Probabilidad
-4★ Special Most Wanted Draw=4★ Sorteo especial de los más buscados
-5★ Special Most Wanted Draw=5★ Sorteo especial de los más buscados
-4–5★ Special Most Wanted Draw=4-5★ Sorteo especial de los más buscados
+4★ Special Most Wanted Draw=Contrato Especial de 4★ de Los Más Buscados
+5★ Special Most Wanted Draw=Contrato Especial de 5★ de Los Más Buscados
+4–5★ Special Most Wanted Draw=Contrato Especial de 4-5★ de Los Más Buscados
 Normal=Normal
-Flat 1=Piso 1
-Flat 2=Piso 2
+Flat 1=Prob. Fija 1
+Flat 2=Prob. Fija 2
 {{A}} Challenge 3 on Normal or higher ={{A}} Desafío 3 en Normal o superior 
 {{A}} Challenge 2 on Hard or higher ={{A}} Desafío 2 en Difícil o superior 
 {{A}} Challenge 2 on Normal or higher ={{A}} Desafío 2 en Normal o superior 
@@ -35646,7 +35644,7 @@ If it's an info war, I'm your girl.=Si es una guerra de información, soy tu chi
 5★ Pair Justine & Caroline is in the Most Wanted lineup! Press [Info] for more details.=5★ ¡La Pareja Justine y Caroline está en la alineación de los más buscados! Pulsa [Info] para más detalles.
 Warden's Judgement=Sentencia del Director
 An exclusive 5★ weapon for Justine & Caroline is now available! Select which weapons are in your 5★ weapon lineup. Press [Info] for more details.=¡Ya está disponible un arma 5★ exclusiva para Justine & Caroline! Selecciona qué armas están en tu alineación de armas 5★. Pulsa [Info] para obtener más detalles.
-In this event, you use Gold Tickets to draw contracts.\n\nIf you draw 300 contracts you can get one of the following 5★ Phantom Thieves of your choosing (first-time only):\n<color\=#FFFC40>Ryuji Sakamoto | Morgana | Ann Takamaki | Yaoling Li | Haruna Nishimori</color>=En este caso, se utilizan billetes de oro para sortear contratos.\n\nSi sorteas 300 contratos, puedes conseguir uno de los siguientes 5★ Phantom Thieves a tu elección (solo la primera vez):\n<color\=#FFFC40>Ryuji Sakamoto | Morgana | Ann Takamaki | Yaoling Li | Haruna Nishimori</color>
+In this event, you use Gold Tickets to draw contracts.\n\nIf you draw 300 contracts you can get one of the following 5★ Phantom Thieves of your choosing (first-time only):\n<color\=#FFFC40>Ryuji Sakamoto | Morgana | Ann Takamaki | Yaoling Li | Haruna Nishimori</color>=En este caso, se utilizan Boletos Dorado para sortear contratos.\n\nSi sorteas 300 contratos, puedes conseguir uno de los siguientes 5★ Phantom Thieves a tu elección (solo la primera vez):\n<color\=#FFFC40>Ryuji Sakamoto | Morgana | Ann Takamaki | Yaoling Li | Haruna Nishimori</color>
 Do you want to use the following to perform Road to Rehabilitation 10 times?=¿Quieres utilizar lo siguiente para realizar Camino a la Rehabilitación 10 veces?
 Ultramarine Wardens=Guardianes de Ultramar
 Prism Cognigem\nCan be exchanged for various items at the Prism Cognigem tab of the Exchange Shop.=Prism Cognigem Puede canjearse por varios objetos en la pestaña Prism Cognigem de la Tienda de Intercambios.
@@ -37054,7 +37052,7 @@ No Mercy=Sin piedad
 Death's Curse=La maldición de la muerte
 Master of Foresight=Maestro de la previsión
 Obtain the Phantom Idol Leo Kamiyama. =Consigue el ídolo fantasma Leo Kamiyama. 
-Mermaid Dreamer=Sirena soñadora
+
 Obtain the Phantom Idol Haruna Nishimori. =Consigue el ídolo fantasma Haruna Nishimori. 
 Obtain the Phantom Idol Chizuko {{A}}o. =Consigue el ídolo fantasma Chizuko {{A}}o. 
 Guitar Girl with Stage Fright=Guitarrista con miedo escénico
@@ -41130,7 +41128,7 @@ I'm pretty confident when it comes to being\nliked by other people...=Tengo bast
 But this is the first time that I've felt\nbetter by talking to someone. What's\nyour secret?=Pero esto es la primera vez que me siento mejor hablando con alguien. ¿Cuál es tu secreto?
 If we get time to talk later, you gotta\ntell me!=¡Si tenemos tiempo para hablar más tarde, tienes que contármelo!
 Unlock the Limited-Edition Keychain at Crystal Healing and Candy Set at the supermarket in Kichijoji.=Desbloquea el Llavero de Edición Limitada en Crystal Healing y el Set de Caramelos en el supermercado de Kichijoji.
-{{A}} of Love=Poder del Amor
+
 If it's okay with you, can we exchange\ncontact info?=Claro, ¿podemos intercambiar información de contacto?
 On the days I'm feeling down, maybe having\nyou in the audience will boost my motivation again.=En los días en que me siento abajo, tal vez tener a usted en el público me dará un impulso para motivarme de nuevo.
 I'll repay you for helping me today.\nI promise.=Te lo prometo, te lo pagaré por ayudarme hoy.
@@ -54552,7 +54550,11 @@ Mark: Almighty=Marca: Todopoderoso
 Mark: Wind=Marca: Viento
 The third of the nine orders of angels. They are the angels of dignity and justice who carry God's throne and govern thought. They are angels of knowledge.=El tercero de los nueve órdenes de ángeles. Son los ángeles de la dignidad y la justicia que llevan el trono de Dios y gobiernan el pensamiento. Son ángeles del conocimiento.
 Flaming Chariot=Carro Ardiente
-Burn Boost III=Impulso de Quemadura III
+Burn Boost I=Potenciación de Quemadura I
+Burn Boost II=Potenciación de Quemadura II
+Burn Boost III=Potenciación de Quemadura III
+Burn Boost IV=Potenciación de Quemadura IV
+Burn Boost V=Potenciación de Quemadura V
 Agidyne Burn Boost III Fire Boost III Makougaon=Agidyne Aumento de Quemadura III Aumento de Fuego III Makougaon
 11.8w=11.8w
 Flaming Chariot I=Carro Flamígero I

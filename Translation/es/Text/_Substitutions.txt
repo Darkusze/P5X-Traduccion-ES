@@ -22,8 +22,6 @@ Yaoling Li=Yaoling Li
 Yaoling=Yaoling
 Hina Nishimori=Hina Nishimori
 Motoha Arai=Motoha Arai
-Motoha=Motoha
-Arai=Arai
 Shun Kano=Shun Kano
 Kayo Tomiyama=Kayo Tomiyama
 Tomoko Noge=Tomoko Noge
@@ -40,7 +38,7 @@ Kiuchi's=Kiuchi
 Kiuchi=Kiuchi
 Munehisa Iwai=Munehisa Iwai
 Shichi-kun=Shichi-kun
-Shun=Shun
+
 Riko Tanemura=Riko Tanemura
 Tanemura-senpai=Tanemura-senpai
 Tanemura-san=Tanemura-san
@@ -65,7 +63,7 @@ Hiyori Koide=Hiyori Koide
 Yuzuru Haigamine=Yuzuru Haigamine
 Airi Fujieda=Airi Fujieda
 Kei Akashi=Kei Akashi
-Ichigo Shikano=Ichigo Shikano
+
 Sumire Yoshizawa=Sumire Yoshizawa
 Makoto Yuki=Makoto Yuki
 Yukari Takeba=Yukari Takeba
