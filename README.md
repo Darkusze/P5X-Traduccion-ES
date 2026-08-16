@@ -1,59 +1,61 @@
-#  P5X Traducción fan ES (Global) (PC)
+# P5XTES Patcher
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d090757b-0b69-40bf-b925-3330996b17b0" width="50%" />
 </p>
 
-## introducción
+## Introducción
+**P5XTES Patcher** es un proyecto fan-made diseñado como un ecosistema integral para Persona 5: The Phantom X (P5X). Originalmente enfocado en la traducción al español, ha evolucionado hasta convertirse en una herramienta de gestión completa que permite instalar mods visuales, personalizar el nombre del protagonista, ocultar elementos de la interfaz (UI/ID) y gestionar la configuración técnica del juego de forma sencilla mediante plugins como BepInEx y XUnity.AutoTranslator.
 
-P5XTES es un proyecto fan-made para llevar a cabo la traduccion al español de la versión global de Persona 5 The Phantom X (P5X) mediante el uso del plugins mod [BepInEx](https://github.com/BepInEx/BepInEx) y [XUnity](https://github.com/bbepis/XUnity.AutoTranslator) para crear y cargar las traducciones automaticas generadas y manuales.
+## ¿Por qué este proyecto?
+La versión global de Persona 5: The Phantom X fue lanzada únicamente en inglés, lo que dificulta que los jugadores hispanohablantes disfruten de la narrativa. Este proyecto busca eliminar esa barrera, permitiendo a todos sumergirse en la experiencia completa del juego sin frustraciones idiomáticas. Además, entendemos que la configuración técnica puede ser compleja, por lo que P5XTES Patcher centraliza todas las herramientas necesarias para personalizar tu experiencia y mejorar la calidad de vida dentro del juego de manera accesible y segura.
 
-## ¿A que se debe este proyecto?
+## ¿Qué mejoramos?
+*   Alcance: Ya no defines el proyecto solo como una "traducción", sino como un ecosistema integral.
+*   Valor añadido: Explicas claramente que el proyecto ahora también cubre personalización y calidad de vida, no solo el idioma.
+*   Claridad técnica: Mencionas que la herramienta facilita procesos que antes eran complejos, reforzando por qué el usuario necesita descargar tu Patcher.
 
-Todos sabemos que la versión global de Persona 5: The Phantom X fue lanzada únicamente en inglés, lo que representa un problema significativo para los jugadores hispanohablantes. Muchos abandonan el juego o pierden el interés porque no dominan el idioma lo suficiente para disfrutar de los diálogos profundos, misiones, eventos y otros elementos narrativos. Por eso, decidí crear esta traducción al español para abarcar a más personas, permitiendo que un mayor número de jugadores acceda al contenido completo y se sumerja en la experiencia sin frustraciones al no entenderlo.
+## ¿Qué es P5XTES Patcher?
 
-## ¿Estare actualizando las traducciones del juego?
-Sí, planeo actualizar las traducciones regularmente para mantener compatibilidad con los parches oficiales del juego y agregar mejoras basadas en feedback.
+**P5XTES Patcher** es la herramienta de gestión todo-en-uno diseñada para mejorar y personalizar tu experiencia en *Persona 5: The Phantom X*. Más que un simple instalador, funciona como un ecosistema centralizado que permite a los usuarios gestionar traducciones, mods y configuraciones del juego de manera intuitiva.
 
-Si quieres ver mas detalles visita a mi [Ko-fi](https://ko-fi.com/shinoesp)
+## Características Principales
 
-Vista a mi discord pueden contactarme por el servidor y tengo mas información [Discord](https://discord.gg/9MFSd3AAc4) 
+El Patcher ha sido desarrollado para simplificar procesos técnicos complejos en una interfaz amigable:
 
-## Guía de instalación
+*   **Gestión Integral de Traducciones**: Permite implementar traducciones al español (versión Global/SEA) e inglés (servidores KR, TW, CN), con la capacidad de activar o desactivar el auto-traductor según tus necesidades.
+*   **Mod Manager Integrado**: Un gestor avanzado que permite instalar, actualizar y gestionar mods adicionales (como mejoras de interfaz o ajustes visuales) sin complicaciones. Soporta instalación múltiple de mods y gestión de versiones.
+*   **Personalización del Protagonista**: Herramienta dedicada para configurar y personalizar el nombre del protagonista directamente desde el Patcher.
+*   **Privacidad y Streaming**: Incluye una función de "Ocultar ID" con un solo clic, ideal para creadores de contenido que desean proteger su ID de jugador durante sus transmisiones o capturas.
+*   **Compatibilidad Multi-Servidor**: Detecta automáticamente la ruta del juego y permite adaptar los componentes necesarios según el servidor donde juegues.
+*   **Soporte Multi-Plataforma**: Optimizado para Windows y Linux (Steam Deck), eliminando la necesidad de configuraciones manuales complejas.
+*   **Actualizaciones Automáticas**: Verifica la disponibilidad de nuevas versiones del *Core*, textos y texturas, manteniendo tu juego siempre al día.
 
-### Opcion 1
-1. Descargar los archivos del repositorio junto al plugins de mod de BenInEx y XUnity que esta en el Archivo .zip llamado P5XTES.zip. y la carpeta Translate
-2. Busque la ruta del juego donde lo tenga instalado hacia la carpeta \P5X\client\pc y extraen los archivos de P5XTES.zip hacia la carpeta
-3. Luego la carpeta Translate lo colocan al \P5X\client\pc\BepInEx
-4. Y Listo ya pueden iniciar el juego.
+---
 
-### Opcion 2 (sencillo)
-1. Descargas los archivos en el apartado de [Release](https://github.com/Darkusze/P5XTES/releases) vX.X - P5XTES.zip
-2. Busque la ruta del juego donde lo tenga instalado hacia la carpeta \P5X\client\pc y extraen los archivos de X.X.P5XTES.zip hacia la carpeta.
-3. Y Iniciar el juego.
+## 🛠️ ¿Por qué usar P5XTES Patcher?
 
-### Opcion para actualizar (Para los que ya instalaron el mod, solo se actualizra los archivo de texto del mod)
-Si ya tienes instalado el mod solo necesita actualizar los archivos de Translation (traducción) de la siguiente manera:
-- Desde el [Release](https://github.com/Darkusze/P5XTES/releases): Por el repositorio tendras un archivo llamado Only-Translation.x.x.zip, extrae el archivo .zip y tendras la carpeta de Translation, lo copias y pegas a la siguiente ruta P5X\client\pc\BepInEx
+Sabemos que la versión Global del juego presenta barreras idiomáticas y técnicas. Este programa nació para centralizar todas las soluciones necesarias en un solo lugar:
 
-  
-## El mod ha modificado mi nombre y tambien afecta el chat general del juego ¿que puedo hacer?
-El mod usa un auto traductor como mencione en el proyecto agarra las traducciones automaticas por si hay alguna traducción  que no tenga a la mano (si se fijan el nombre de mi protagonista se llama Nagisa Kamisiro por default) por lo que el texto de algunos dialogos o nombres de los personaje (mas que todo el protagonista) no lo tomara por no tener el nombre tal cual como esta escrito en la traducción manual, que puede afectar los que tienen nombre japones o en ingles.
+1.  **Centralización**: No necesitas buscar archivos sueltos por internet; el Patcher descarga e instala el *Core* necesario para que todo funcione.
+2.  **Seguridad**: Asegura que utilices los componentes (como la versión específica de BepInEx) que garantizan que el juego no se cierre o presente errores de compatibilidad.
+3.  **Facilidad de Uso**: Cambia el idioma de la interfaz (Español/Inglés), gestiona tus servidores y controla tus mods desde un panel de control unificado.
 
-### Soluciones
-Hay formas de solucionarlo por lo que puedo mencionar lo siguiente:
-- Agreguen manualmente sus nombre en el archivo de _Substitutions.txt localizado en \P5X\client\pc\BepInEx\Translation\es\Text
-<img width="707" height="269" alt="image" src="https://github.com/user-attachments/assets/ce0c7161-70b2-40f4-bb54-88804ae73fdb" />
+<div align="center">
+<img width="65%" alt="Interfaz del Patcher" src="https://github.com/user-attachments/assets/833bcc03-fd3b-442c-92be-31ce62b98900" />
+</div>
 
--Y escribes tu nombre del pj como se ve en el siguiente ejemplo:
+[Novedades de ultima versión](https://github.com/Darkusze/P5XTES/releases/tag/a3.0.0)
 
-<img width="365" height="86" alt="image" src="https://github.com/user-attachments/assets/ecc5b52c-7e1c-4bda-822e-bef146602b7b" />
+---
 
-- Otra Solución es usar otro Endpoint para la traducción pueden usar las de Deepl o alguna de su preferencia si tienes conocimiento puedes cambiarlo a tu gusto para cambiarlo tienes que ir
-<string name="text">P5X\client\pc\BepInEx\config <b></b>.</string> y busquen el archivo llamado AutoTranslatorConfig.ini, Tengo una guía subida en mi Servidor de discord
+## 💬 Comunidad y Soporte
 
-<img width="483" height="95" alt="image" src="https://github.com/user-attachments/assets/5cb5372c-aef4-4682-9fe9-245649c6cbf2" />
+El proyecto crece gracias al feedback de la comunidad. Si tienes dudas, quieres reportar un error o simplemente quieres compartir tu experiencia:
 
-
+*   **Discord:** Únete a nuestro servidor para soporte técnico y novedades: [Discord Server](https://discord.gg/9MFSd3AAc4).
+*   **Ko-fi:** Si deseas apoyar el desarrollo continuo de esta herramienta: [Ko-fi/shinoesp](https://ko-fi.com/shinoesp).
+---
 
 ## Advertencia Legal
 

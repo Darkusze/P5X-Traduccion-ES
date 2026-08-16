@@ -1,0 +1,650 @@
+﻿+--Historia--+
+*sigh* I can't believe we're going to\nMementos even though it's a holiday...=*Suspiro* No puedo creer que tengamos que ir a Mementos incluso en un día festivo...
+It has to be done, Motoha. This is our duty\nas Phantom Thieves, after all.=Es necesario hacerlo, Motoha. A fin de cuentas, es nuestro deber como Ladrones Fantasma.
+Hoo. As you are all aware, some strange\nchanges have been occurring within\nMementos...=Hoo. Como ya sabrán, se han estado produciendo algunas alteraciones muy extrañas dentro de Mementos...
+There is ample precedent for such problems\ncausing an effect on reality, as well.=Además, existen bastantes precedentes de que este tipo de anomalías terminen afectando al mundo real.
+Therefore, we must conduct a routine patrol\nof Mementos and confirm any signs of such\ndisturbances.=Por lo tanto, debemos realizar un patrullaje rutinaria en Mementos para verificar si hay rastros de dichos disturbios.
+I don't think this'll solve all our\nproblems... but it beats sittin' round doin'\nnothin', at least.=No creo que esto solucione la vida... pero al menos es mejor que quedarnos de brazos cruzados sin hacer nada.
+I get that... but why do we have to do it on\nour day off?=Entiendo eso... pero ¿por qué tiene que ser justo en nuestro día libre?
+Well, we all tend to be busy after school,\nand it's hard to get everyone together.=Bueno, solemos estar muy ocupados después de clases y es complicado reunirnos todos.
+We don't know when our schedules will next\nalign, so I believe it's best to do this\nwhile we can.=No sabemos cuándo volverán a coincidir nuestros horarios, así que lo mejor es aprovechar mientras podamos.
+I wanted a day off too...=<size\=28>Yo también quería descansar hoy...</size>
+Riko's right.=<size\=28>Riko tiene toda la razón.</size>
+Ugh... I can't argue with that. If {{A}}\nsays so too, I guess I've got no choice.=Ugh... No puedo discutir eso. Si {{A}} también lo dice, supongo que no tengo de otra.
+All right, let's just get in there and get\nthis over with!=¡Muy bien, entremos de una vez y acabemos con esto!
+By the way, Shun... why are you in your\nuniform on a holiday?=Por cierto, Shun... ¿por qué traes puesto el uniforme en tu día libre?
+Huh? Well, Katayama-san was sayin' that back\nin the day, students always wore their\nuniforms when they went out...=¿Eh? Es que Katayama-san decía que antes, los estudiantes siempre usaban su uniforme cuando salían...
+Are you serious!? Today's a day off, right!?\nYou've gotta wear your own clothes on a day\noff!=¡¿Es en serio?! ¡Hoy es día libre! ¡En un día de descanso tienes que usar ropa casual!
+Who asked you? I'll do whatever I want!=¿A ti quién te preguntó? ¡Yo me visto como se me antoje!
+For what it's worth, school regulations\nencourage students to wear their uniforms\nwhen going out, even on holidays.=De hecho, el reglamento escolar sugiere que los estudiantes usen el uniforme al salir a la calle,\nincluso en días festivos.
+It's not compulsory, but as the disciplinary\ncommittee chair, perhaps I should also be in\nuniform today...=No es obligatorio, pero como presidenta del comité disciplinario, quizá yo también debí haber traído el uniforme hoy...
+Whaaat? You're way too serious, Riko. I don't\nthink anyone sticks to school rules like\nthat. Besides Shun here.=¡¿Quééé?! Eres demasiado seria, Riko. No creo que nadie siga las reglas de la escuela de esa forma. Bueno, aparte de Shun, claro.
+Hoom... Your distinct lack of caution is\nconcerning.=Hoom... Su evidente falta de precaución es preocupante.
+In case you have forgotten, Mementos remains\na dangerous place where Shadows lurk.=Por si lo han olvidado, Mementos sigue siendo un lugar peligroso donde acechan las Sombras.
+If you make one wrong step, your very life\ncould be in danger, yes?=Si dan un paso en falso, sus propias vidas podrían correr peligro, ¿entendido?
+No, I didn't forget... It's just that we've\ngone there so many times, I'm kinda used to\nit by now.=No, no se me olvidó... Es solo que hemos ido tantas veces que ya me acostumbré.
+Yeah. I was plenty nervous the first time we\nfired up the Meta-Nav, but not these days.=Sí. Yo estaba supernervioso la primera vez que usamos el Navegador del Metaverso, pero ahora ya no.
+Right? Back then, I never knew what was gonna\njump out at us in there...=¿Verdad? Al principio nunca sabías qué te iba a salir de la nada ahí adentro...
+But I don't think anything would surprise me\nanymore.=Pero a estas alturas ya nada me sorprendería.
+Same.=Opino lo mismo.
+That's why I fear your familiarity may lead\nto carelessness...=Por eso mismo temo que tanta confianza los lleve a cometer una imprudencia...
+Let's put it aside for now, Lufel. I\nunderstand your concern, but...=Dejemos eso de lado por ahora, Lufel. Entiendo tu preocupación, pero...
+We've gained experience, and going into\nbattle with a calm mind is certainly not a\nbad thing.=Hemos acumulado experiencia, y entrar al combate con la mente fría definitivamente no es algo malo.
+If anything happens, I'm here.=Si algo llega a pasar, yo estaré aquí.
+Don't worry about them.=No te preocupes por ellos.
+Right. Perhaps I went too far. I apologize.=Está bien. Quizá me excedí con mis palabras.\nLes pido una disculpa.
+It's fine, it's totally fine! I know you\ndidn't mean anything by it.=¡No te preocupes, no pasa nada! Sé que\nno lo dijiste con mala intención.
+Yeah, people do say it's dangerous to get too\ncomfortable... I'll be sure to keep that in\nmind.=Sí, es verdad que el exceso de confianza\nes peligroso... Lo tendré muy en cuenta.
+Well, I think that settles things. Now then,\nLeader, shall we?=Bueno, creo que con eso queda todo aclarado.\nY bien, Líder, ¿nos ponemos en marcha?
+1st Anniversary=1.º aniversario
+Okay, let's get to it. How do we wanna split\nup the teams, Leader?=De acuerdo, manos a la obra. ¿Cómo quieres\nque dividamos los grupos, Líder?
+Flip a coin?=<size\=26>¿Tiramos una moneda al aire?</size>
+I'll let Wind choose.=Dejaré que Wind decida.
+Understood. Let's consider everyone's\nindividual abilities while maintaining a\nbalance of combat power.=Entendido. Consideremos las facultades de cada uno para mantener un equilibrio en nuestra fuerza de combate.
+All right, Wind! Thanks so much!=¡Excelente, Wind! ¡Muchísimas gracias!
+Now that the teams are decided, next we must\nchoose where to investigate. Last time, we\nwere...=Ahora que se definieron los grupos, lo siguiente es elegir la dónde investigar. La última vez nos quedamos en...
+Wait. I'm detecting Shadows. They're\napproaching our position.=Esperen. Detecto la presencia de Sombras.\nSe están aproximando a nuestra posición.
+Hoo... How many?=Hoo... ¿Cuántas son?
+I'm picking up two... no, three. But they\ndon't seem terribly strong...=Detecto dos... no, tres presencias. Aunque no parece que sean enemigos muy poderosos...
+I'll trust Wind's judgment, then. Let's turn\nthe tables on 'em!=En ese caso, confío en el criterio de Wind.\n¡Hay que emboscarlas antes de que reaccionen!
+Wh-Wh-Wh-What the hell!?=¡¿P-P-Pero qué demonios...?!
+They're so bright! I can hardly look at them!=¡Brillan muchísimo! ¡Casi ni puedo verlas!
+Weren't you just saying that nothing would\nsurprise you anymore...?=¿Y no decías que a estas alturas ya nada te sorprendería...?
+This appears to be a type of Shadow we've\nnever encountered before... Everyone, on your\nguard!=Parece ser una clase de Sombra que jamás habíamos visto... ¡Todos, en guardia!
+These Shadows are fine.=<size\=22>Con estas Sombras no hay de qué preocuparse.</size>
+If it isn't Besa's favorite challenger! Your\ntiming couldn't be besa!=¡Pero si es el retador favorito de Besa!\n¡Tu llegada no podría ser más besa!
+Huh? What? What're they talking about?\nWonder, do you... know this Shadow?=¿Eh? ¿Qué? ¿De qué están hablando?\nWonder, ¿tú... conoces a esta Sombra?
+Besa is Besa! Besa the besa the Metaverse!=¡Besa es Besa! ¡Besa el besa del Metaverso!
+Besa the besa the... what? I'm having trouble\nkeeping up... Is Besa his name?=Besa, besa... ¿qué? Me cuesta mucho seguirle el hilo... ¿Acaso Besa es su nombre?
+I suppose you could call it... branding?=Supongo que podríamos llamarlo... ¿su sello personal?
+Could someone tell me what's goin' on? Wonder\nand Cattle, are you two friends with this\nShadow?=¡¿Alguien me puede explicar qué pasa aquí?!\nWonder, Cattle, ¡¿ustedes dos son amigos de esta Sombra?!
+I wouldn't go that far... but they're not an\nenemy.=Yo no diría tanto... pero al menos no es un enemigo.
+Besa has been looking all over for you,\nchallenger! Come with Besa!=¡Besa te ha estado buscando por todos lados,\nretador! ¡Acompaña a Besa!
+Wait just a moment. What on earth is this\nabout? Has some sort of disturbance occurred\nin Mementos?=Un momento, por favor. ¡¿De qué demonios se trata todo esto?! ¿Acaso ocurrió algún disturbio en Mementos?
+Oh, it's nothing of the sort! But Besa\nrequires the challenger's assistance!=¡Oh, para nada! ¡Es solo que Besa necesita la ayuda de nuestro gran retador!
+Assistance?=¿Ayuda?
+Please tell me what's going on...=Por favor, explíquenme qué está pasando...
+Of course, Besa will explain all the bes-ics.\nBut it's too dangerous here.=Por supuesto, Besa les explicará todo lo bes-encial. Pero este lugar es demasiado peligroso.
+Besa knows a much besa place where we can\ntalk safely! Come with Besa!=¡Besa conoce un sitio mucho más besa donde podremos hablar seguros! ¡Sigan a Besa!
+What is this guy talkin' about...? He'd besa\nstart makin' sense, or...=¿De qué demonios habla este sujeto...? Más bes-tará que empiece a hablar claro, o si no...
+Soy! Now you're doing it too!=¡¿Shun?! ¡¿Ahora tú también estás hablando así?!
+Wha—!? I didn't even notice!=¡¿Qué...?! ¡Ni siquiera me di cuenta!
+We'd besa follow Besa.=Sería lo bes-tial seguir a Besa.
+We'd better follow them.=Más vale que lo sigamos.
+If you say so, then it's probably safe...\nOkay, got it!=Si tú lo dices, entonces debe ser seguro...\n¡De acuerdo, entendido!
+Barely started our patrol and we're already\ngettin' dragged into somethin' weird...=Apenas comenzamos el patrullaje y ya nos están arrastrando a algo muy extraño...
+All done discussing? Then we besa get a move\non!=¡¿Ya terminaron su bes-cusión?! ¡Entonces más bes-tará que nos pongamos en marcha!
+Here we are! This place is much besa. Now\nyou can relax!=¡Aquí estamos! Este sitio es mucho más bes-tial. ¡Ahora ya pueden relajarse!
+Wait, no, we're totally surrounded by\nShadows! How're we supposed to relax!?=¡Un momento, no! ¡Estamos rodeados de Sombras por todos lados! ¡¿Cómo se supone que nos vamos a relajar?!
+But... I don't sense any aggressive intent.\nWhat is all this?=Aunque... no percibo ninguna intención hostil.\n¿De qué se trata todo esto?
+These Shadows are merely here to spectate.\nThey are not our foes.=Estas Sombras solo están aquí como espectadores.\nNo son nuestros enemigos.
+Spectate...?=¡¿Espectadores...?!
+I told everyone about my first\nmeeting with Besa and how I\ncompeted in his game show...=Les platiqué a todos sobre mi\nprimer encuentro con Besa y cómo\ncompetí en su programa de desafíos...
+Shadows producing a TV show for other\nShadows...? Uhh... I have several\nquestions...=¿Sombras produciendo un programa de televisión para otras Sombras...? Esto... tengo muchas preguntas al respecto...
+It's not unusual to see Shadows working in a\nPalace to serve its ruler... so perhaps it's\nthe same sort of thing?=No es raro ver Sombras trabajando dentro de un Palacio para servir a su dueño... así que quizá se trate de algo similar.
+Your guess is as good as mine, but that may\nindeed be the case.=Estoy tan intrigado como tú, pero bien podría ser el caso.
+We've visited this particular location a\nnumber of times, but a Palace ruler has never\nbeen made apparent.=Hemos visitado esta zona en específico varias veces, pero jamás se ha manifestado el dueño de un Palacio.
+Huh... So these Shadows are just a total\nmystery then...=¿Eh...? O sea que estas Sombras son un misterio absoluto entonces...
+Hang on, Wonder! You knew about this place\nthe whole time and never said anythin'?=¡Espera, Wonder! ¡¿Sabías de este sitio todo este tiempo y nunca nos dijiste nada?!
+Shun's got a point! Didn't we promise not to\nkeep anything secret from our fellow Phantom\nThieves!?=¡Shun tiene razón! ¡¿Acaso no prometimos de no guardar secretos a nuestros compañeros Ladrones Fantasma?!
+...Did we make a promise like that?=...¿De verdad hicimos una promesa así?
+It was never our intention to hide anything\nfrom all of you. However...=Nunca fue nuestra intención ocultarles nada.\nSin embargo...
+I do apologize for not mentioning this.=Les pido una disculpa por no haberlo comentado antes.
+So... should Besa explain Besa's plan now?=Entonces... ¿ya puede Besa explicar el bes-plán de Besa?
+Ah, sorry. Go right ahead.=Ah, lo siento. Adelante, por favor.
+Before that, Besa would like to extend Besa's\nsincerest thanks to you, challenger!=¡Antes que nada, Besa quiere expresarle su más sincero agradecimiento al retador!
+After your appearance, ratings have been besa\nthan ever, and the audience just can't get\nenough!=¡Desde tu aparición, el rating televisivo ha estado más bes-tial que nunca y el público no para de pedir más!
+Which is why for this program, Besa organized\na special thank-you celebration for Besa's\nfavorite challenger!=¡Por eso, para este programa, Besa organizó una fiesta especial de agradecimiento para el retador consentido de Besa!
+A special celebration...?=¿Una celebración especial...?
+That's right! We call it...=¡Así es! ¡Lo llamamos...!
+The Phantom Thieves' Appreciation Festival\nMassive Metaverse Bake-Off Celebration!=¡El Festival de repostería masiva del Metaverso en agradecimiento a los Ladrones Fantasma!
+M-Massive Metaverse... Bake-Off...?=M-¿Repostería masiva... del Metaverso...?
+I... believe that's what they said...=Creo... que eso fue lo que dijo...
+Could you be more specific?=¿Podrías darnos más detalles?
+As the name suggests, Besa will show Besa's\ngratitude to our challenger with the biggest\ncake the Metaverse has ever seen!=¡Tal como el nombre lo indica, Besa le mostrará su Besa gratitud a nuestro retador con el pastel más grande que se haya visto en el Metaverso!
+That cake is sure to look great on camera,\nand we'll be filming every step of the\nprocess!=¡Ese pastel se verá espectacular en pantalla y grabaremos cada paso del proceso de producción!
+You're filming this...? You mean, like, for\nTV...?=¡¿Van a grabar esto...?! ¿Quieres decir que es para la televisión...?
+Not gonna lie, I was on board as soon as they\nmentioned a huge cake!=¡No les voy a mentir! ¡A mí me convencieron en cuanto dijeron "un pastel enorme"!
+The name is a bit long... And you called it\nan "Appreciation Festival" and a\n"Celebration"...=El nombre es demasiado largo... Además, lo llamaste "Festival de agradecimiento" y "Celebración"...
+Isn't that redundant? Those words essentially\nmean the same thing.=¿No es redundante? En esencia, ambas palabras significan exactamente lo mismo.
+Besa thinks it's besa not to worry about it.=Besa cree que es besa no mortificarse por eso.
+I get that you wanna make a big cake, but\nwhaddaya need our help for?=Entiendo que quieras preparar un pastel gigante, pero ¿para qué necesitas nuestra ayuda?
+How does Besa say this...? Making a massive\ncake was harder than Besa realized...=¿Cómo podría explicarlo Besa...? Hornear un pastel tan masivo resultó ser más Besa de lo pensado...
+With the staff's help, we managed to create\nthe base...=Con el apoyo del personal logramos armar la base...
+...but most of them fainted from exhaustion\nbefore they could even get started on the\ndecorations.=...pero la mayoría se desmayó por el cansancio antes de poder empezar con la decoración.
+I suppose that's one way of showing their\nappreciation...=Supongo que esa es una forma muy extrema de demostrar su aprecio...
+Man, showbiz is brutal, human or Shadow...=Vaya, el mundo del espectáculo es cruel, sin importar si eres humano o Sombra...
+At this rate, Besa can't finish the show...\nAnd that's where you come in, challenger!=¡A este paso Besa no podrá terminar el programa!\n¡Y ahí es donde entras tú, mi querido retador!
+Hoom? What do you mean?=Hoom... ¿A qué te refieres con eso?
+Besa made some slight alterations to the\nproduction script and added audience\nparticipation!=¡Besa le hizo unos pequeños bes-cambios al guion de producción e incluyó la participación del público!
+So the Shadows in the audience are gonna help\nus make this cake?=¿O sea que las Sombras del público nos van a ayudar a preparar este pastel?
+Correct! And that is why Besa needs your help\nto make this program the besa it can be!=¡Es correcto! ¡Y por eso Besa necesita tu ayuda para que este programa sea lo más Besa posible!
+With our ever-popular challenger here to\nspice things up, the audience will surely\nwant in as well!=¡Con nuestro retador estrella aquí para encender el ambiente, el público también querrá unirse!
+Okay, I get that part... but you said this\nwas to show your appreciation for Wonder and\nthe rest of us, right?=De acuerdo, entiendo esa parte... pero dijiste que esto era para demostrarnos tu aprecio a Wonder y a los demás, ¿no?
+So why do we gotta make our own cake? How\ndoes that make any sense?=Entonces, ¿por qué tenemos que cocinar nuestro propio pastel? ¡Eso no tiene el menor sentido!
+Well, I am kinda curious about a TV show made\nby Shadows...=Bueno, la verdad me da bastante curiosidad ver un programa hecho por Sombras...
+...And there's also that huge cake!=¡...y además está el asunto del pastel enorme!
+I suspect one of those things is a greater\nmotivator than the other...=Sospecho que uno de esos motivos tiene mucho más peso que el otro...
+I can't say I'm not curious as well... but I\nwill leave the decision to our leader.=No puedo negar que a mí también me intriga... pero dejaré la decisión final en manos de nuestro líder.
+Yeah. I sure as hell don't know the first\nthing about makin' a TV show, so I'll let you\nmake the call.=Sí. Yo no tengo la más remota idea de cómo hacer un programa de televisión, así que tú decides.
+If it won't take too long...=<size\=28>Siempre y cuando no nos tome demasiado tiempo...</size>
+Ooh... So you accept!? Besa expected nothing\nless from the challenger!=¡Oh...! ¡¿Entonces aceptas?! ¡Besa no esperaba menos de nuestro gran retador!
+This show is guaranteed to be a smash hit!=¡Este programa está garantizado a ser un éxito rotundo!
+Now that that's settled, without further\ndelay...=Ahora que todo quedó decidido, y sin más preámbulos...
+Let the Phantom Thieves' Appreciation\nFestival Massive Metaverse Bake-Off\nCelebration... begin!=¡Que de inicio el Festival de repostería masiva del Metaverso en agradecimiento a los Ladrones Fantasma!
+You're really sticking with that name!?=¡¿En serio te vas a quedar con ese nombre?!
+Is that SERIOUSLY the besa you could come up\nwith!?=¡¿De verdad es la idea más besa que se te pudo ocurrir?!
+
+##Día 3
+
+Whoa! Lookin' good so far!=¡Guau! ¡Hasta ahora se ve espectacular!
+Yes... Although it's a really big cake. How\nmany people do you suppose this would serve?=Sí... aunque es un pastel enorme. ¿Para cuántas\npersonas crees que daría?
+We sure couldn't finish somethin' like this\non our own...=Definitivamente no podríamos acabarnos algo así nosotros solos...
+According to Besa, it seems we are currently\nat around 50% completion.=Según Besa, parece que actualmente llevamos alrededor del 50% de progreso.
+Hoohoo... Once it's done, I believe this cake\nwill be rather "lit," as they say!=Hoohoo... ¡Una vez que quede terminado, creo que este pastel estará bastante "cool", como dicen!
+"Lit"...? Ahahaha! Lufel, where'd you even\nhear something like that?=¿"Cool"...? ¡Ajajaja! Lufel, ¡¿de dónde rayos sacaste una expresión así?!
+What's wrong with "lit"...!?=¡¿Y qué tiene de malo decir "cool"...?!
+To be honest, I had my doubts at first, but\neverything has gone rather smoothly.=Para ser sincera, al principio tenía mis dudas,\npero todo ha salido bastante bien.
+I know, right? When I heard we'd be on TV, I\nwas pretty nervous...=¿Verdad? Cuando me enteré de que saldríamos en televisión, me puse supernerviosa...
+But it's been so much fun that I completely\nforgot all about my nerves!=¡Pero ha sido tan divertido que me olvidé por completo de los nervios!
+The audience response has been quite\npositive, as well. You seem rather popular\nalready, Closer.=La respuesta del público también ha sido muy positiva. Por lo visto ya eres muy popular, Closer.
+Huh? I-I am...?=¿Eh? ¡¿Y-Yo...?!
+You ain't doin' too bad yourself, Wind. That\nbit you did earlier was great.=Tú tampoco lo estás haciendo nada mal, Wind.\nEsa parte que hiciste antes estuvo genial.
+Earlier? You mean the game I played against\nWonder?=¿Hace rato? ¿Te refieres a la partida que jugué contra Wonder?
+Yeah, when you two were competin' to see who\ncould solve the puzzles the fastest.=Sí, cuando ustedes dos estaban compitiendo para ver quién resolvía los acertijos más rápido.
+Oh, yeah, I saw that one too! I had no idea\nwho was gonna win in the end!=¡Ah, sí, yo también lo vi! ¡No tenía la más remota idea de quién iba a ganar al final!
+It was a super close match! You could tell\nthe audience was really into it,as well!=¡Estuvo sumamente reñido! ¡Y se notaba que el público estaba supermetido en el juego!
+Really? Well, I'm glad everyone enjoyed it.=¿En serio? Bueno, me alegra que todos lo hayan disfrutado.
+Let's have a rematch.=Exijo la revancha.
+I won't lose next time.=No voy a perder la próxima vez.
+Hehe... I accept your challenge.=Jeje... Acepto tu desafío.
+Hoom... It's good to see you all having fun.=Hoom... Me alegra ver que todos se están divirtiendo.
+Speaking of which... I think Soy has\nattracted some rather dedicated fans of his\nown.=Hablando de eso... creo que Soy ya se ganó a sus propios fanáticos incondicionales.
+Seriously? Why would they choose me...?\nThey're only gonna be disappointed...=¡¿En serio?! ¿Y por qué a mí...? Lo único que van a llevarse es una decepción...
+Challengers! Thank you so much for coming!=¡Queridos retadores! ¡Muchísimas gracias por venir!
+Hey there, Besa! We're ready to give it our\nall again today!=¡Hola, Besa! ¡Hoy también estamos listos para darlo todo!
+The pleasure is all Besa's!=¡Al contrario! ¡El placer es todo de Besa!
+As you can see, thanks to your efforts, our giant cake is coming along quite nicely!=Como pueden ver, ¡gracias a sus esfuerzos, nuestro pastel gigante va viento en popa!
+This is the home stretch! Don't give up now!=¡Ya estamos en la recta final! ¡No se rindan ahora!
+Yeah, we got this. We've made it this far, so we're gonna see it through to the end.=Sí, pan comido. Ya llegamos hasta aquí, así que vamos a terminar el trabajo.
+That's right. I'm looking forward to seeing the final product.=Así es. Ya quiero ver cómo quedará el producto final.
+I want to pick out the colors.=<size\=28>Yo quiero elegir los colores.</size>
+I want to choose the decorations.=<size\=28>Yo quiero elegir los adornos.</size>
+Let's make cake ramen.=<size\=28>Preparemos un pastel de ramen.</size>
+Of course. A colorful cake would look better on TV.=Por supuesto. Un pastel lleno de color se verá mucho mejor en la televisión.
+What're you lookin' at me for? I don't have a recipe for that yet!=¡¿Y por qué me miran a mí?! ¡Todavía no tengo una receta para algo así!
+...Yet?=...¿Todavía?
+Besa get ready for our next program! Stay tuned, everyone!=¡Besa se preparará para el próximo programa!\n¡No se lo pierdan!
+Besa seems as busy as ever...=Besa parece tan ocupado como siempre...
+Sure does. We've gotta give this our besa—I mean, our best too!=¡Vaya que sí! ¡Nosotros también tenemos que dar nuestro besa— digo, ¡lo mejor de nosotros!
+Something wrong, Wind?=¿Pasa algo malo, Wind?
+Ah... No, it's nothing important. I just was wondering...=Ah... No, no es nada importante. Es solo que me estaba preguntando...
+Why do you think Besa is so intent on putting this production together?=¿Por qué creen que Besa esté tan empeñado en sacar adelante esta producción?
+Now that you mention it, it does make me curious... Wonder, do you know anything about that?=Ahora que lo mencionas, sí me da curiosidad...\nWonder, ¿tú sabes algo al respecto?
+I dunno.=Ni idea.
+Maybe I do, maybe I don't...=Tal vez sí, tal vez no...
+Darn... How about you, Cattle?=Qué mal... ¿Y tú qué opinas, Cattle?
+No... I'm afraid I can't shed any light on the matter, either.=No... Me temo que yo tampoco puedo aclarar este misterio.
+However, as Besa continues producing this show, more Shadows are drawn to remain in the audience here...=Sin embargo, mientras Besa siga produciendo este programa, más Sombras se quedarán atrapadas aquí como público...
+...which, I suppose, indirectly prevents desires from being stolen.=...lo cual supongo que, de forma indirecta, evíta que sigan robando los deseos.
+Huh... So if the show was cancelled, all those Shadows would leave the studio...=Vaya... O sea que si cancelan el programa, todas esas Sombras se irían del estudio...
+And they'd just be prowlin' round Mementos like any other old Shadow.=Y regresarían a deambular por Mementos como cualquier otra Sombra común y corriente.
+Could it be... that Besa is preventing the Shadows from ending up like that?=¿Será posible... que Besa esté evitando que las Sombras terminen así?
+I cannot say for certain. It's possible Besa has no such intentions, and it's merely an unintended side effect.=No podría asegurarlo. Quizá Besa no tenga esa intención y solo sea un efecto secundario accidental.
+Either way, I believe it's safe to say that Besa's goals are aligned with our own.=De cualquier forma, es un hecho que las metas de Besa coinciden con las nuestras.
+If that's the case, then we've definitely gotta knock it out of the park!=¡Si ese es el caso, entonces definitivamente tenemos que lucirnos en el escenario!
+Yes. If we can have fun and avoid combat, I think that's the most ideal outcome.=Sí. Si podemos divertirnos y evitar los combates, creo que es el escenario más ideal para todos.
+Okay! Let's show 'em how the Phantom Thieves do things!=¡Muy bien! ¡Hay que demostrarles cómo hacen las cosas los Ladrones Fantasma!
+Hoohoo... As seasoned challengers, we can't allow ourselves to be upstaged, Wonder.=Hoohoo... Como retadores veteranos, no podemos dejar que nos roben el protagonismo, Wonder.
+Everybody worked together to\nmake the program a success...=Todos trabajaron en equipo para que\nel programa fuera un rotundo éxito...
+I can't wait until this giant\ncake is finally finished...=Ya quiero que este pastel gigante quede\nterminado de una vez por todas...
+
+#Día 9-10
+
+Whoa... It's incredible...=¡Guau!... Es increíble...
+Just looking at it makes my mouth water! This\nis the result of all our hard work!=¡De solo verlo se me hace agua la boca!\n¡Este es el resultado de todo nuestro esfuerzo!
+Yes. I'm glad we managed to successfully\nfinish it.=Sí. Qué alegría que hayamos logrado terminarlo con éxito.
+Only one thing left...=Solo queda una última cosa...
+It's not done yet.=Aún no está terminado.
+That's right! This cake just needs one more\nthing to make it even besa... Time for the\nfinishing touch!=¡Exacto! ¡A este pastel solo le falta una cosa para que sea aún más besa...!\n¡Es hora del toque final!
+Finishing touch...?=¿El toque final...?
+Abesalutely! All this cake needs is...\ncandles!=¡Absolutamente! ¡Todo lo que este pastel necesita son... velas!
+Now, just stick those candles wherever you\nlike, and we'll light them all together!=¡Ahora pongan esas velas donde más les guste y las encenderemos todos juntos!
+Uh... Is it someone's birthday? Why do we\nneed candles?=Este... ¿Es el cumpleaños de alguien?\n¿Para qué queremos velas?
+It's fine. It's besa not to worry about it.=No pasa nada. Es bes-favorable no pensar en ello.
+Now even Wind is saying it!? I never would\nhave imagined!=¡¿Hasta Wind se contagió con eso?! ¡Jamás me lo hubiera imaginado!
+Hoo... I don't believe I can reach it on my\nown. Some assistance, Wonder?=Hoo... No creo que pueda alcanzarlo yo solo.\n¿Me echas una mano, Wonder?
+Everyone worked together to\nplace and light the candles...=Todos trabajaron en equipo\npara colocar y encender\nlas velas...
+This cake... It's simply... Besamazing!=Este pastel... Es simplemente... ¡bes-asombroso!
+Yes! We did it, guys!=¡Sí! ¡Lo logramos, muchachos!
+I wasn't sure how this was gonna go at\nfirst... but it ended up bein' pretty fun.=Al principio no estaba seguro de cómo saldría esto...\npero al final terminó siendo bastante divertido.
+I agree. It was quite an unusual experience\nto be cheered on by Shadows for a change...=Estoy de acuerdo. Fue una experiencia muy extraña que las Sombras nos apoyaran para variar...
+Now, challengers! As promised, you may enjoy\nthis cake to your heart's content!=¡Y ahora, retadores! ¡Como prometí, pueden disfrutar de este pastel hasta saciarse!
+Finally!=¡Por fin!
+All right, time to dig in! I don't even know\nwhere to start!=¡Muy bien, a comer se ha dicho! ¡Ni siquiera sé por dónde empezar!
+Is something the matter, Soy?=¿Pasa algo malo, Soy?
+Well, it's probably a bit late to askin',\nbut...=Bueno, sé que ya es un poco tarde para andar preguntando esto, pero...
+Is this thing actually... safe to eat?=¿Esta cosa de verdad... se podrá comer?
+We've got no idea what it's made out of, or\nif it's even a real cake in the first place.=No tenemos idea de qué está hecho, o si para empezar es un pastel de verdad.
+I don't think it's real.=No creo que sea real.
+Is it a cognitive cake...?=¿Será un pastel cognitivo...?
+Come to think of it, the cake had already\nbeen made by the time we arrived on this\nprogram...=Ahora que lo pienso, el pastel ya estaba aquí cuando entramos a grabar este programa...
+Supposing this cake is simply a cognitive\nmanifestation, what would happen if we ate\nit?=Suponiendo que este pastel sea una simple manifestación cognitiva, ¿qué pasaría si nos lo comemos?
+Hoom... Frankly, even I could not hazard a\nguess.=Hoom... Francamente, ni yo mismo me atrevería a dar un pronóstico.
+I cannot say for certain that it is, strictly\nspeaking, safe to consume.=No puedo asegurar que sea, en el sentido estricto de la palabra, un objeto seguro de consumir.
+Maybe we shouldn't...=Mejor no nos arriesguemos...
+Are we overthinking this?=<size\=24>¿No le estaremos dando demasiadas vueltas?</size>
+Wonder's right! You're all worrying too much!=¡Wonder tiene razón! ¡Se están preocupando demasiado por nada!
+I understand how you feel, but if there's\neven the slightest risk, we should abstain.=Entiendo su postura, pero si existe el más mínimo riesgo, lo mejor será abstenernos.
+Yeah. If we end up with cognitive food\npoisonin', we don't even know if regular\nmedicine's gonna have any effect.=Exacto. Si nos da una intoxicación alimentaria cognitiva, quién sabe si la medicina normal vaya a hacernos efecto.
+Whaaat? Aww, man...=¡¿Quéee?! No inventes... Qué mal.
+It's regrettable, but that's the situation we\nfind ourselves in.=Es una lástima, pero esa es la realidad en la que nos encontramos.
+We'll let everybody else enjoy it.=Dejaremos que los demás lo disfruten.
+We appreciate the gesture.=Agradecemos el gesto de todos modos.
+Besa is sorry to hear that...=Es una bes-tima escuchar eso...
+Besa will share this cake with Besa's\nhardworking staff and lovely audience!=¡Besa compartirá este pastel con el bes-forzado equipo y el encantador público de Besa!
+Good. We put a lot of love into it, so be\nsure to enjoy it.=Qué bueno. Le pusimos mucho cariño, así que\nasegúrense de disfrutarlo.
+But before everyone digs in, let's take a\nmoment to appreciate all our hard work.=Pero antes de que todos le hinquen el diente,\ntómense un momento para contemplar el fruto\nde nuestro esfuerzo.
+*sigh* After all that... I didn't even get a\nsingle bite!=*Suspiro*... Después de todo lo que hicimos,\n¡ni siquiera pude probar un solo bocado!
+The sight of this giant cake\nwill be forever engraved in my\nmemory...=La imagen de este pastel gigante\nquedará grabada para siempre\nen mi memoria...	
+Maybe if it was smaller, I\ncould've at least displayed it\nsomewhere...=A lo mejor, si fuera más chico,\nal menos lo hubiera exhibido\nen algún sitio...
+Now then, as difficult as it is to say\ngoodbye, we had best be on our way.=En fin, por más que nos cueste despedirnos,\nlo mejor será que nos pongamos en marcha.
+I guess you're right. If we stick around any\nlonger, I'll only be filled with even more\nregret...=Supongo que tienes razón. Si nos quedamosmás tiempo, solo me va a dar más remordimiento...
+Give it up already, would ya?=¡Ya supéralo de una vez, ¿quieres?!
+Thank you, challengers! You've made this\nproduction the besa the best!=¡Muchísimas gracias, retadores! ¡Hicieron que esta producción fuera la bes-tialidad, lo máximo de lo máximo!
+Hoo... What is it, Wonder?=Hoo... ¿Qué ocurre, Wonder?
+You all go on ahead.=Adelántense ustedes.
+I just need to do one last thing.=Tengo que hacer una última cosa.
+...I see. Understood.=...Ya veo. Entendido.
+What is it? Some unfinished besaness,\nperhaps?=¿De qué se trata? ¿Acaso nos quedó algún bes-gocio pendiente?
+You have a question? Besa is all ears!=¿Tienes alguna duda? ¡Besa es todo oídos!
+Why are you producing this show?=¿Por qué estás produciendo este programa?
+What exactly is your goal?=¿Cuál es exactamente tu objetivo?
+Actually... even Besa cannot say for sure.=La verdad... ni el mismo Besa lo sabe con certeza.
+Besa supposes that Besa just wants to see\neveryone enjoy the show that Besa created...=Besa solo supone que quiere ver a todos disfrutar del bes-táculo que Besa creó...
+Count me in for the next challenge.=Cuenten conmigo para el próximo desafío.
+Then keep up the good work.=Entonces sigan haciendo un buen trabajo.
+Thank you! Besa can't besalieve it! Come back\nany time!=¡Muchas gracias! ¡Besa no se lo puede bes-creer! ¡Vuelvan cuando quieran!
+It seems we've made it back safely. Good work\nas always, everyone.=Parece que logramos regresar a salvo.\nExcelente trabajo hoy, muchachos.
+Same to you, Senpai.=Igualmente para usted, Senpai.
+*sigh* I really wanted to eat that cake...=*Suspiro*... De verdad me quedé con muchísimas ganas de probar ese pastel...
+We heard you the first time...=Ya te escuchamos desde la primera vez...
+But it just looked so good...=Es que en serio se veía delicioso...
+I know! Seeing as we're all here, why don't\nwe go and get a real cake somewhere?=¡Ya sé! Ya que andamos todos juntos, ¿por qué no vamos a comprarnos un pastel de verdad a algún lado?
+Huh? You mean, right now?=¿Eh? ¿O sea, ahora mismo?
+Yeah! It'll be, like... our TV show\nproduction wrap party! What do you think?=¡Sí! ¡Sería algo así como nuestra fiesta de fin de rodaje del programa de televisión!\n¿Qué opinan?
+I suppose I could, but... how about everybody\nelse?=Por mí está bien, pero... ¿qué dicen los demás?
+Fine by me. I've gotta agree with Motoha,\nthat cake did look good.=Acepto. Tengo que darle la razón a Motoha, ese pastel sí que se veía muy tentador.
+You'll hear no objections from me. Besides,\nyou all put in a good effort today, even on a\nholiday.=No habrá ninguna objeción de mi parte. Además, todos hicieron un gran esfuerzo hoy, considerando que es un día festivo.
+Such dedication is worthy of recognition.\nWhat do you say, Leader?=Semejante dedicación es digna de reconocerse.\n¿Tú qué opinas, Líder?
+I've got no other plans.=No tengo otros planes.
+Time for a cake party!=¡Hora de comer pastel!
+Yesss! So, where should we go?=¡Súper! Entonces, ¿adónde deberíamos ir?
+Hold up. Goin' out to eat's fine and all, but\nhow about we try makin' one ourselves?=¡Momento! Salir a comer está bien y todo, pero... ¿qué tal si intentamos preparar uno nosotros mismos?
+If we start now, we can probably have it\nready by tonight. There's a recipe I've been\nwantin' to try.=Si empezamos ahora, seguro lo tenemos listo para esta noche. Hay una receta que he estado queriendo probar.
+Okay, but... what kind of recipe? It's not\ncake ramen, is it...?=A ver, pero... ¿qué clase de receta? No será un "ramen de pastel", ¿verdad...?
+That's a bit much, even for him...=Eso ya es una exageración, incluso para él...
+Of course not! It ain't cake ramen...=¡Claro que no! No es un "ramen de pastel"...
+I'm talkin' about ramen cake!=¡Estoy hablando de un "pastel de ramen"!
+That's the same thing! No way! I refuse!=¡Es exactamente lo mismo! ¡Ni hablar!\n¡Me niego rotundamente!
+It ain't the same thing at all! I'm not\ntalkin' about a ramen-flavored cake here...=¡Para nada es lo mismo! No me refiero a un pastel con sabor a ramen, ¿eh...?
+It's a ramen-shaped cake!=¡Es un pastel con forma de ramen!
+Ramen... shaped...?=¿Con forma... de ramen...?
+Yeah, that's right. First, I make the noodles\noutta—=¡Sí, exacto! Primero hago los fideos con—
+No thanks, that's enough! Just a regular cake\nis fine! Right, Riko-senpai?=¡No, gracias, ya fue suficiente! ¡Un pastel común y corriente está perfecto! ¿Verdad, Riko-senpai?
+Right... Although, I am a little curious\nabout Shun's idea...=Tienes razón... Aunque... debo admitir que me da un poco de curiosidad la idea de Shun...
+Good grief... Always so rambunctious.=Ay, por Dios... Siempre tan alborotados.
+I like it this way.=Me gusta que sea así.
+But it's fine by me.=Pero por mí está bien.
+Well, I can't say I dislike it either.=Bueno, tampoco puedo decir que me desagrade.
+In that case, let's have {{A}} decide! Whaddaya say? You up for some ramen cake!?=En ese caso, ¡que decida {{A}}! ¿Qué dices?\n¡¿Te animas a probar el pastel de ramen?!
+Wouldn't you rather just have a normal cake,\n{{A}}!?=¡¿A poco no prefieres un pastel común y corriente,\n{{A}}?!
+Why don't we have both?=¿Por qué no nos quedamos con ambos?
+Hoohoo... Whatever choice you make here, I\neagerly await the outcome.=Hoohoo... Cualquiera que sea la elección que tomes aquí, esperaré el resultado con mucha curiosidad.
+I feel like many challenges\nare still yet to come...=Siento que todavía quedan\nmuchos desafíos por delante...
+But I'll focus on the one\nright in front of me for\nnow...=Pero me voy a enfocar en\nel que tengo justo enfrente\npor ahora...
+
+
++--Historia Evento Collab Hatsune Miku--+
+We're all here. Is everyone ready?=Ya estamos todos aquí. ¿Están listos?
+I'm set.=Estoy listo.
+Me too! I'm ready to go whenever!=¡Yo también! ¡Estoy lista para ir cuando quieras!
+By the way, this gonna be your first time\nexplorin' Mementos, Shoki?=Por cierto, ¿esta va a ser tu primera vez explorando Mementos, Shoki?
+Guess so. I've been to Mementos a few times\nnow, but this is my first real search\nmission.=Supongo que sí. Ya he entrado a Mementos unas cuantas veces, pero esta es mi primera misión de búsqueda real.
+I'll protect you, Shoki.=Te protegeré, Shoki.
+Then let's be extra cautious.=Entonces, seamos muy cautelosos.
+Yeah. You'll probably be nervous at first,\nbut don't be afraid to rely on us. All right,\nShoki?=Sí. Al principio seguro estarás nervioso,\npero no dudes en apoyarte en nosotros.\n¿De acuerdo, Shoki?
+That's right. I'll provide as much support as\npossible with Chiyome.=Así es. Les daré todo el soporte que pueda\ncon la ayuda de Chiyome.
+Grazie! I'll probably be dead weight at\nfirst, but I'm counting on you guys.=¡Grazie! Al principio seguro seré un estorbo,\npero quedo en sus manos, muchachos.
+What do you say, Leader? Shall we activate\nthe Metaverse Navigator?=¿Tú qué dices, Líder? ¿Iniciamos el\nNavegador del Metaverso?
+*gasp* That voice...=*jadeo* Esa voz...
+I've heard this before too. Isn't she super\nfamous?=Yo también he escuchado esa voz antes.\n¿A poco no es superfamosa?
+Yeah. The Virtual Singer...=Sí. Es la cantante virtual...
+Look, there she is! It's Hatsune Miku!=¡Oh my goto! ¡Es Hatsune Miku!
+
+
++--UI--+
+1st Anniversary {{A}} Reward=Recompensa del Fiesta de 1.º Aniversario
+Valid until: Jul 29, 2026 08:59 AM=Válido hasta el 29 de julio de 2026 a las 08:59 AM.
+Obtained by clearing 1st Anniversary {{A}} missions.=Obtenido al completar las misiones Fiesta de 1.º aniversario
+On Jun 25, 2026, you had some unclaimed rewards from 1st Anniversary {{A}}. They have been delivered directly to you via this message.=El 25 de junio de 2026, tenías algunas recompensas sin reclamar del Fiesta de 1.º aniversario. Han sido entregadas directamente a ti a través de este mensaje.
+Wish Candy=Dulce Deseo
+Gift Wish=Deseo de Regalo
+Rewards will be sent to your inbox.=Las recompensas se enviarán a tu buzón de correo.
+Character=Personaje
+1 Big Thank You=Un Enorme Agradecimiento
+Do you want to select this option?\nIt cannot be changed later.=¿Quieres seleccionar esta opción?\nNo se podrá cambiar más adelante.
+Gift: Medals=Regalo: Medallas
+Gift: Revelations=Regalo: Revelaciones
+Gift: Rewrite=Regalo: Reescritura
+Gift: Venus=Regalo: Venus
+First Surprise=Primera Sorpresa
+Special 5★ Thief Select Ticket 2=Boleto especial de selección de Ladrón Fantasma de 5★ II
+1st Anni Gift=Regalo de 1.º Aniversario
+r:"^Collect ([\d,]+) of Marthym's Stamps \((\d+)/(\d+)\)$"="Colecciona $1 sellos de Marthym ($2/$3)"
+Scratch-Offs=Rasca y gana
+Daily scratch-offs left:=Rasca y gana diarios restantes hoy:
+Your wish from the 1st Anniversary {{A}} was granted, and has been delivered to you via this message.=Tu deseo de la Fiesta de 1.º aniversario fue concedido y se ha entregado a través de este mensaje.
+Log in for 12 days to receive <size\=66><sprite\=19></size> x10 and <size\=66><sprite\=21></size> x5=Inicia sesión durante 12 días para recibir<size\=66><sprite\=19></size> x10 y <size\=66><sprite\=21></size> x5
+Daily=Diario
+Season=Temporada
+Scratch-Off Pack=Paquete Raspable
+A scratch-off pack containing 1 scratch-off. There are 5 possible scratch-offs to obtain.=Un paquete de rasca y gana que contiene 1 boleto para rascar. Hay 5 posibles boletos para rascar que puedes obtener.
+Rewind=Rebobinar
+Voting results will be sent to your Inbox within 1 week after the event ends.=Los resultados de la votación se enviarán a tu buzón de correo en un plazo de una semana tras la finalización del evento.
+Collect a set of scratch-offs to open a gift.\nLet's get scratching!=Completa una colección de rasca y gana para abrir un regalo.\n¡A rascar se ha dicho!
+For the best gameplay experience, this event is recommended for players who have witnessed the fourth Phantom Thief's awakening.=Para disfrutar de una experiencia de juego óptima, se recomienda participar en este evento tras haber presenciado el despertar del cuarto Ladrón Fantasma.
+The collab event Miracle Concert is now on. Would you like to change the music in the Music Player to collab music?=Comenzó el evento de colaboración Concierto Milagroso. ¿Quieres cambiar la Música del Reproductor a las canciones de la colaboración?
+The music in the Music Player has been changed.=La música en el Reproductor de Música ha sido cambiada.
+Deployed Equipo: =Equipo desplegado: 
+Highest Difficulty=Dificultad Máxima
+r:"^Do you want to trade Anni 5★ Thief Select Ticket x(\d+) for (.+?) x(\d+)\?$"="¿Quieres intercambiar el Ticket de selección de Ladrón de 5★ de Aniversario x$1 por $2 x$3?"
+Do you want to trade Anni 5★ Thief Select Ticket x1 for Seaside Tomoko x1?=¿Quieres intercambiar el Ticket de selección de Ladrón de 5★ de Aniversario x1 Tomoko Veraniega x1?
+Do you want to trade Anni 5★ Thief Select Ticket x1 for Tropical Motoha x1?=¿Quieres intercambiar el Ticket de selección de Ladrón de 5★ de Aniversario x1 Tropical Motoha x1?
+Do you want to trade Anni 5★ Thief Select Ticket x1 for Frostgale Kotone x1?=¿Quieres intercambiar el Ticket de selección de Ladrón de 5★ de Aniversario x1 Kotone Vientogélido x1?
+Hoohoo! I didn't expect to see such a brilliant performance!=¡No esperaba ver una actuación tan brillante!
+Scratch-Off Packs=Paquetes de Rasca y Gana
+Available for a limited time!=¡Por tiempo limitado!
+r:"^1st Anniversary Countdown:  (\d+) d (\d+) h$"="Cuenta regresiva para el 1.º aniversario:  $1 d $2 h"
+Take the Cake=Toma el Pastel
+Receive the anniversary cake with the current customizations?=¿Recibir el pastel de aniversario con las personalizaciones actuales?
+The 1st Anniversary Cake will be created using the current design.\nAfter creating your cake, it can be placed in the Thieves Den.\nPlease note, you can only create one cake during the event.=El pastel del primer aniversario se creará con el diseño actual. Después de hacer tu pastel, lo puedes poner en la Guarida de los Ladrones. Ojo, solo puedes hacer un pastel durante el evento.
+
++--Tutoriales--+
+
+1st Anniversary {{A}}=Fiesta de 1.º aniversario
+
+<color\=#FF423F>1st Anniversary {{A}}</color> has now begun!\nBy completing <color\=#FF423F>missions</color>, you can collect <color\=#FF423F>Wish Candies</color> and celebrate our 1st anniversary! As you celebrate more, you can receive exciting rewards. Try your hand at <color\=#FF423F>decorating a cake</color> to create your own custom <color\=#FF423F>cake statue</color>.=¡Ya comenzó la <color\=#FF423F>Fiesta de 1.º aniversario</color>!\nAl completar <color\=#FF423F>misiones</color>, podrás juntar <color\=#FF423F>Caramelos de los Deseos</color> y festejar nuestro primer año. Entre más celebres, recibirás recompensas increíbles. ¡Diviértete <color\=#FF423F>decorando un pastel</color> para crear tu propia <color\=#FF423F>estatua de pastel</color> personalizada!
+
+During the <color\=#FF423F>1st Anniversary {{A}}</color>, you can earn <color\=#FF423F>Gift Wishes</color> based on the number of days you log in.=Durante la <color\=#FF423F>Fiesta de 1.º aniversario</color>, podrás obtener <color\=#FF423F>deseos de regalo</color> según los días que inicies sesión.
+
+You can spend a wish gift to select a gift from the tabs.\nThe selected gift will be sent to your Inbox. You can only select 1 item from each of the Gift I and Gift II tabs.\nSelections cannot be changed once made.=Puedes canjear un deseo de regalo para elegir un obsequio de las pestañas.\nEl objeto seleccionado se enviará a tu buzón de correo. Solo puedes elegir 1 artículo de cada pestaña (Regalo I y Regalo II). Ten en cuenta que las selecciones no se podrán modificar.
+Select 1 (Long press for details)=Selecciona 1 (Mantén presionado para ver detalles)
+Select <color\=#ff3b37>Decorate Cake</color>.=Selecciona <color\=#ff3b37>Decorar pastel</color>.
+
+Use a variety of decorations to create your own original cake.\nYou can customize the cake's base, borders, decorations, toppers, and candles.\nSome customizations are only unlocked by progressing through missions in <color\=#FF423F>1st Anniversary {{A}}</color>.=Utiliza una gran variedad de adornos para crear tu propio pastel original.\nPodrás personalizar la base, los bordes, los arreglos, los adornos superiores y las velas.\nAlgunos elementos solo se desbloquearán al progresar en las misiones de la <color\=#FF423F>Fiesta de 1.º aniversario</color>.
+
+You can place your one-of-a-kind cake in the Thieves Den as <color\=#FF423F>cake décor</color>.\nTo receive the cake, you need to meet the daily login requirements for the <color\=#FF423F>1st Anniversary {{A}}</color> event.\nPlease note that you cannot change the cake after you receive it.=Puedes colocar tu pastel exclusivo en la Guarida de los Ladrones como <color\=#FF423F>decoración de pastel</color>.\nPara reclamarlo, debes cumplir con los requisitos de inicio de sesión diario del evento <color\=#FF423F>Fiesta de 1.º aniversario</color>.\nRecuerda que no podrás realizar modificaciones después de recibirlo.
+
+You can also decorate it <color\=#ff3b37>randomly</color>.=También puedes decorarlo de forma <color\=#ff3b37>aleatoria</color>.
+
+Choose a <color\=#ff3b37>decoration</color>.=Elige una <color\=#ff3b37>decoración</color>.
+
+<color\=#ff3b37>Save</color> your cake design.=<color\=#ff3b37>Guardar</color> el diseño de tu pastel.
+
+Hide scratch-offs in chat after daily limit has been reached.=Ocultar los de rasca y gana en el chat tras alcanzar el límite diario.
+The <color\=#FF423F>Scratch-Off</color> event is now open!\nYou can earn <color\=#FF423F>scratch-off packs</color> from <color\=#FF423F>1st Anniversary {{A}}</color> missions and Rewind.\nYou can send scratch-off packs to other players via chat. Each pack contains 1 random scratch-off.=¡Ya comenzó el evento <color\=#FF423F>Rasca y gana</color>!\nPodrás obtener <color\=#FF423F>paquetes de rasca y gana</color> en las misiones de la <color\=#FF423F>Fiesta de 1.º aniversario</color> y en Rebote.\nPuedes enviar estos paquetes a otros jugadores a través del chat. ¡Cada paquete contiene 1 tarjeta aleatoria!
+
+<color\=#FFD145>Event Introduction</color>\nComplete missions to receive wish candies. As you gain candy, your total on the Mission screen will increase, allowing you to earn rewards. You can also obtain gift wishes and other rewards from 1st Anniversary {{A}}, including event stories. Please note that after you have watched an event story, <color\=#FFD145>it cannot be viewed again</color>.\n\n<color\=#FFD145>Gift Wishes</color>\nPress the Gift button to select the gifts that you want. To select your gifts, you must first earn gift wishes. These gifts will be delivered to your inbox when the event ends.\nOnce you have made your wish, it cannot be changed, so please choose carefully.\n\n<color\=#FFD145>Decorating Cakes</color>\nDuring the event, press the Decorate Cake button to design your own cake. Choose the base, piping, decorations, toppers, and candles to create a cake like no other. Your original cake design can be placed in the Thieves Den as a statue. Once completed, the design cannot be changed, so please choose carefully.=<color\=#FFD145>Introducción del evento</color>\nCompleta misiones para obtener caramelos de los deseos. A medida que los consigas, tu progreso aumentará en la pantalla de misiones, lo que te permitirá reclamar diversas recompensas. También podrás conseguir deseos de regalo y otros premios en la Fiesta de 1.º aniversario, incluyendo las historias del evento. Ten en cuenta que, una vez que hayas disfrutado de una historia del evento, <color\=#FFD145>no podrás volver a verla</color>.\n\n<color\=#FFD145>Deseos de regalo</color>\nPresiona el botón de "Regalo" para elegir los obsequios que prefieras. Para poder seleccionarlos, primero deberás conseguir deseos de regalo. Estos premios se enviarán directamente a tu buzón de correo cuando finalice el evento.\nUna vez que hayas confirmado tu deseo, este no podrá modificarse, así que elige con cuidado.\n\n<color\=#FFD145>Decoración de pasteles</color>\nDurante el evento, presiona el botón de "Decorar pastel" para diseñar tu propio pastel personalizado. Elige la base, el estilo de las duyas, los arreglos, los adornos superiores y las velas para crear una pieza única. El diseño original de tu pastel se podrá colocar en la Guarida de los Ladrones como una estatua decorativa. Una vez completado, el diseño no se podrá cambiar, así que elige con cuidado.
+
+
+<color\=#FFD145>Event Rules</color>\nDuring the event, you can win presents by collecting scratch-offs. There are 5 kinds of scratch-offs, featuring Lufel, Motoha Arai, Shun Kano, Riko Tanemura, and Shoki Ikenami. You can open 1 present for every 5 scratch-offs you collect. You can also check the list of presents under Rewards. Rewards can also be earned by completing limited-time quests that are available during the event.\n\n<color\=#FFD145>Scratch-Off Packs</color>\nDuring the event, you can send packs to other players via the chat or Companio channel. Each pack contains 1 random scratch-off. You can receive up to 5 packs per day, for a maximum of 40 packs total. Scratch-off-related items will become unusable after the event ends.=<color\=#FFD145>Reglas del evento</color>\nDurante el evento, podrás ganar obsequios al coleccionar tarjetas de rasca y gana. Existen 5 tipos de tarjetas, correspondientes a Lufel, Motoha Arai, Shun Kano, Riko Tanemura y Shoki Ikenami. Podrás abrir 1 obsequio por cada 5 tarjetas de rasca y gana que consigas. Puedes consultar la lista de obsequios en la sección de "Recompensas". También podrás obtener premios al completar las misiones de tiempo limitado que estarán disponibles durante el evento.\n\n<color\=#FFD145>Paquetes de rasca y gana</color>\nDurante el evento, podrás enviar paquetes a otros jugadores a través del chat o del canal de Companio. Cada paquete contiene 1 tarjeta de rasca y gana aleatoria. Puedes recibir hasta 5 paquetes al día, con un límite máximo de 40 paquetes en total. Ten en cuenta que todos los objetos relacionados con el rasca y gana dejarán de ser útiles una vez finalizado el evento.
+
+Anniversary Shop=Tienda de Aniversario
+<color\=#FFD145>Event Rules</color>\nDuring the 1st Anniversary, a special anniversary shop will be available, featuring special limited-time items that can only be purchased once.=<color\=#FFD145>Reglas del evento</color>\nDurante el 1.º aniversario, estará disponible una tienda especial de aniversario que contará con objetos exclusivos de tiempo limitado que solo se podrán comprar una vez.
+Purchase Rewards=Recompensas de Compra
+<color\=#FFD145>Event Rules</color>\nBy purchasing items from the Shop during the event, you can obtain Marthym's Stamps. Based on how many of these stamps you earn, you can receive various rewards.\nPlease keep in mind that your Marthym's Stamp total will be reset after the event ends.=<color\=#FFD145>Reglas del evento</color>\nAl comprar objetos en la tienda durante el evento, podrás obtener sellos de Marthym. Según la cantidad de sellos que consigas, recibirás diversas recompensas.\nPor favor, ten en cuenta que tu total de sellos de Marthym se restablecerá por completo una vez finalizado el evento.
+
+<color\=#FFD145>Event Rules</color>\nDuring the event, you can open your personalized Anniversary memories.\nAfter you're done viewing your rewind, you can share your Anniversary memories.\n\n<color\=#FFD145>Event Rewards</color>\nDuring the event, you can obtain event rewards when you view and share your rewind.=<color\=#FFD145>Reglas del evento</color>\nDurante el evento, podrás abrir tus recuerdos de aniversario personalizados.\nUna vez que termines de ver tu Rebobinado, podrás compartir tus recuerdos de aniversario.\n\n<color\=#FFD145>Recompensas del evento</color>\nDurante el evento, podrás obtener recompensas especiales al ver y compartir tu Rebobinado.
+
++--Tutoriales Hatsune Miku evento--+
+<color\=#FFD145>Event Introduction</color>\nThe special event includes 7 sub-events: Let the Show Begin, Boss Battle, Play That Future Sound, Let the Sound Resound, Perfect Harmony, Missions, and Miku Merch.\n\n<color\=#FFD145>Event Duration</color>\nThis is a limited-time event.\n\n<color\=#FFD145>Let the Show Begin</color>\nEnjoy the collab story.\n\n<color\=#FFD145>Boss Battle</color>\nDefeat the boss to earn rewards.\n\n<color\=#FFD145>Play That Future Sound</color>\nPlay limited-time collab songs.\n\n<color\=#FFD145>Let the Sound Resound</color>\nComplete event goals to earn limited commemorative rewards.\n\n<color\=#FFD145>Perfect Harmony</color>\nLog in daily to claim login bonuses. Rewards will be unlocked sequentially according to your cumulative login days, and rewards for the day will refresh at 8 PM UTC.\n\n<color\=#FFD145>Missions</color>\nComplete set goals to earn a variety of rewards.\n\n<color\=#FFD145>Miku Merch</color>\nTrade Miku Points for a variety of items.\nWhen the event ends, the Exchange Shop will be closed and all unused Miku Points will be converted into Konpaku Gems.=<color\=#FFD145>Introducción del evento</color>\nEl evento especial incluye 7 subeventos: Comience el Espectáculo, Batallas de Jefe, Reproduce Ese Sonido Del Futuro, Que el Sonido Resuene, Armonía Perfecta, misiones y la Tienda de intercambio de Miku.\n\n<color\=#FFD145>Duración del evento</color>\nEste es un evento de tiempo limitado.\n\n<color\=#FFD145>Comience el Espectáculo</color>\nDisfruta de la historia de la colaboración.\n\n<color\=#FFD145>Batallas de Jefe</color>\nDerrota al jefe para obtener recompensas.\n\n<color\=#FFD145>Reproduce Ese Sonido Del Futuro</color>\nDisfruta de las canciones exclusivas de la colaboración por tiempo limitado.\n\n<color\=#FFD145>Que El Sonido Resuene</color>\nCompleta los objetivos del evento para obtener recompensas conmemorativas de edición limitada.\n\n<color\=#FFD145>Armonía Perfecta</color>\nInicia sesión diariamente para reclamar las bonificaciones correspondientes. Las recompensas se desbloquearán de forma secuencial según tus días acumulados y los premios diarios se restablecerán a las 8:00 p. m. UTC.\n\n<color\=#FFD145>Misiones</color>\nCompleta los objetivos establecidos para obtener una gran variedad de recompensas.\n\n<color\=#FFD145>Productos de Miku</color>\nCanjea tus puntos Miku por diversos objetos de la tienda.\nTen en cuenta que, cuando finalice el evento, la Tienda de Intercambio se cerrará y todos los puntos Miku que no hayas utilizado se convertirán en Gemas Konpaku.
+
+Play That Future Sound=Reproduce Ese Sonido Del Futuro
+<color\=#FFD145>How to Play</color>\nWhen you start playing, notes will descend from the top of the screen. Press the notes in time with the line to earn points.\nYellow notes require a single press, while green notes need to be held down.\n\n<color\=#FFD145>Platforms</color>\nEasy and Hard difficulties can be played with smartphones, PC, and gamepads.\n\n<color\=#FFD145>Score</color>\nThere are four ratings based on timing accuracy: Perfect, Great, Good, and Miss.\nPlaying in time will continue your combo. The longer the combo, the higher the score for each note.\nGetting a Miss will break your combo.\n\n<color\=#FFD145>Fever Mode</color>\nAs you continue playing, you will enter Fever Mode.\nDuring Fever Mode, your score will increase significantly.\nFever mode will continue as long as your combo is not broken.\n\n<color\=#FFD145>Unlocking Difficulties</color>\nTo unlock the next difficulty, you need to achieve a B rating or higher on the current difficulty.=<color\=#FFD145>Cómo jugar</color>\nAl iniciar la partida, las notas descenderán desde la parte superior de la pantalla. Presiona las notas justo a tiempo cuando pasen por la línea para ganar puntos.\nLas notas amarillas solo requieren un toque, mientras que las notas verdes se deben mantener presionadas.\n\n<color\=#FFD145>Plataformas</color>\nLas dificultades fácil y difícil se pueden jugar en teléfonos, PC y controles de juego.\n\n<color\=#FFD145>Puntuación</color>\nExisten cuatro precisiones de ritmo para calificar tus toques:  Perfecto, Excelente, Bueno y Fallido.\nPresionar las notas a tiempo mantendrá tu combo. Entre más largo sea el combo, mayor será la puntuación que otorgue cada nota.\nObtener un Miss romperá tu combo por completo.\n\n<color\=#FFD145>Modo Fiebre</color>\nSi mantienes una buena precisión, activarás el Fever Mode.\nDurante el Fever Mode, tu puntuación aumentará de forma significativa.\nEste modo se mantendrá activo siempre y cuando no rompas tu combo.\n\n<color\=#FFD145>Desbloqueo de dificultades</color>\nPara desbloquear la siguiente dificultad, necesitas obtener una calificación de rango B o superior en la dificultad actual.
+
+Let the Sound Resound=Que el Sonido Resuene
+<color\=#FFD145>Event Rules</color>\nDuring the event, if you obtain the new character Hatsune Miku from signing the Chance or Targeted The First Sound from the Future Most Wanted Contract, you can receive rewards for raising her Awareness Level.\nCertain event missions can only be completed by obtaining Hatsune Miku.=<color\=#FFD145>Reglas del evento</color>\nDurante el evento, si obtienes al nuevo personaje Hatsune Miku al firmar el Contrato de Más Buscado de Oportunidad o Buscado El Primer Sonido Del Futuro, podrás recibir recompensas por aumentar su nivel de Conciencia.\nCiertas misiones del evento solo se pueden completar al obtener a Hatsune Miku.
+
++--Hatsune Miku Shibuya NPC--+
+Hatsune Miku's\npretty cute, huh?=Hatsune Miku es supertierna, ¿a poco no?
+Miku's concert\nlivestream had\nmad views!=¡La transmisión en vivo del concierto de Miku\ntuvo una cantidad brutal de vistas!
+So many Miku ads!\nIs this heaven?=¡Hay tantos anuncios de Miku!\n¡¿Acaso esto es el cielo?!
+Miku's new video\nalready has a\nmillion views.=El nuevo video de Miku ya alcanzó\nel millón de reproducciones.
+Hatsune Miku feels\nlike something\nfrom the future.=Hatsune Miku de verdad se siente\ncomo alguien salida del futuro.
+They're playing\nMiku vids by the\nbig crosswalk!=¡Están pasando videos de Miku en las pantallas\ndel gran cruce peatonal!
+Her songs just\nstick in your head.\nShe's amazing...=Sus canciones son sumamente pegajosas.\nEs simplemente increíble...
+Everyone wants pics\nof Miku's billboard.\nWhat a queen!=Todos quieren tomarle fotos al cartel\nde Miku. ¡Es toda una reina!
+Miku's dances are\nso in right now!=¡Las coreografías de Miku están muy de moda\nahora mismo!
+People from abroad\ncame to see Miku's\nbillboard!=¡Vino gente del extranjero solo para ver\nel cartel de Miku!
+So many Miku ads!\nIs this heaven?=¡Hay tantos anuncios de Miku!\n¿Es esto el cielo?
+Have you heard\nHatsune Miku's\nnew song?=¿Ya escuchaste la nueva\ncanción de Hatsune Miku?
+My whole class is\nobsessed with Miku.\nBut so am I...=Todo mi salón está obsesionado\ncon Miku. Pero yo también...
+My friend has this\nconcert-exclusive\nMiku merch...=Un amigo tiene producto de Miku\nexclusiva de un concierto...
+I listen to Miku on\nmy way to and from\nschool.=Escucho a Miku de camino a la escuela\ny también de regreso.
+Miku-chan...\nShe's so cute!=¡Miku-chan...!\n¡Es tan linda!
+Let's do karaoke\nafter school, but\nonly Miku songs!=¡Vamos al karaoke saliendo de clases,\n¡pero solo cantaremos canciones de Miku!
+Finally got tickets\nto a Miku concert!\nI can't wait!=¡Por fin conseguí boletos para\nun concierto de Miku! ¡Ya quiero que sea!
+My parent knows\na lot of Miku's\nolder songs.=Mis papás se saben un montón\nde las canciones viejitas de Miku.
+Think they'd let us\ndo a Miku song in\nmusic class?=¿Creen que nos dejen tocar una canción\nde Miku en la clase de música?
+Even my teacher's\nheard Miku! She's a\nhousehold name.=¡Hasta mi profesor conoce a Miku!\nYa es famosísima en todos lados.
+I did a swing cover\nof a Miku song at\nthe jazz bar!=¡Toqué una versión swing de una canción\nde Miku en el bar de jazz!
+Even the cafe's\nplaying Miku. She's\nsuper popular.=Hasta en la cafetería están poniendo\na Miku. Es increíblemente popular.
+Found a Miku shirt\nat that store!\nLucky me!=¡Encontré una camiseta de Miku\nen esa tienda! ¡Qué buena suerte!
+I saw Miku posters\nall over the\nkaraoke place!=¡Vi pósteres de Miku por todos lados\nen el karaoke!
+Miku's new hit song\nwas inspired by\nKichijoji!=¡El nuevo éxito de Miku estuvo inspirado\nen Kichijoji!
+Mama! I heard Miku\nplaying in the\nsupermarket!=¡Mamá! ¡Escuché una canción de Miku\nen el supermercado!
+Listening to Miku\nhelps me unwind\nafter work.=Escuchar a Miku me ayuda a relajarme\ndespués del trabajo.
+My grandma knows\nwho Hatsune Miku is!=¡Hasta mi abuela sabe quién es\nHatsune Miku!
+Miku songs are\neverywhere these\ndays!=¡Las canciones de Miku están por todos lados\nestos días!
+My grandchild just\nloves Hatsune\nMiku-chan!=¡A mi nieta le fascina Hatsune\nMiku-chan!
+Wonder if there'll\nbe Miku posters in\nShinjuku too.=Me pregunto si también habrá pósteres\nde Miku en Shinjuku...
+I love Hatsune\nMiku too!=¡Hatsune Miku es mi viejaaa!
+Just passed by a\ngirl who looks like\nHatsune Miku.=Acabo de pasar junto a una chica\nque se parece muchísimo a Hatsune Miku.
+My daughter loves\nMiku! She showed me\nher new song.=A mi hija le fascina Miku.\nMe enseñó su nueva canción.
+I know this song!\nHatsune Miku,\nright?=¡Conozco esta canción!\nEs de Hatsune Miku, ¿verdad?
+People are already\ncosplaying Miku's\nnew outfit.=La gente ya está haciendo cosplay del nuevo atuendo de Miku.
+The limited-edition\nMiku figure already\nsold out...=La figura Miku de edición limitada ya se agotó...
+I decorated my bag\nwith Miku merch!\nIt's perfect!=¡Decoré mi bolso con cosas de Miku! ¡Es perfecto!
+I saw vans painted\nlike Miku and took\nsome pics!=¡Vi unas furgonetas pintadas como Miku y saqué fotos!
+Miku-chan's\nsoooo cute!=Miku-chan es súper linda.
+Did you see Miku's\nnew outfit? She is\ntoo cute!=¡¿Viste el nuevo atuendo de Miku?!\n¡Está hermosísima!
+I saw Miku on the\njumbo-screen! It\nwas awesome!=¡Vi a Miku en la pantalla gigante!\n¡Estuvo increíble!
+I love seeing Miku\nposters everywhere!=¡Me encanta ver pósters de Miku\npor todos lados!
+They were playing a\nMiku song in that\nshop!=¡Estaban poniendo una canción de Miku\nen esa tienda!
+I get so excited\nhearing Miku songs\naround town!=¡Me emociono muchísimo al escuchar canciones\nde Miku por toda la ciudad!
+You know that\nnew hit song?\nMiku sings that.=¿Conoces ese nuevo éxito del que todos hablan?\n¡Miku es quien lo canta!
+She's like\nrealer than real.\nSo cool...=Es como si fuera más real que la realidad misma.\n¡Qué genial!
+That concert? Best\nthing I've ever\nseen. Period.=¡¿Ese concierto?! Lo mejor que he visto\nen toda mi vida. Y punto.
+I watch Miku dance\nvideos for hours\non loop.=Me la paso viendo videos de Miku bailando\npor horas en bucle.
+I'm so jelly.\nI wanna see Miku in\nconcert too!=¡Qué envidia! ¡Yo también quiero ver\na Miku en concierto!
+
+
+
++--Tienda Marthyns--+
+Anni Revelations Set=Paquete de revelaciones de aniversario
+On Stage=En el escenario
+Melodious Space=Espacio melódico
+Virtual Voice=Voz virtual
+Digital Diva=Diva digital
+Miracle Concert=Concierto Milagroso
+Anni Platinum Set=Paquete de platino de aniversario
+Anni Theme Set=Paquete Temático de Aniversario
+Miku Theme Set=Paquete Temático de Miku
+Anniversary Cake=Pastel de Aniversario
+Jáno-chic=Estilo Jánico
+
++--Evento Pastel Aniversario--+
+r:"^Cake (\d+)$"="Pastel $1"
+r:"^Stand (\d+)$"="Soporte $1"
+Bottom=Inferior
+Decorating Cakes=Decoración de Pasteles
+Melon Cream=Crema de Melón
+Mango Cream=Crema de Mango
+Blueberry Cream=Crema de Arándanos
+Peach Cream=Crema de Durazno
+Coffee Cream=Crema de Café
+Cherry Cream=Crema de Cereza
+Middle=Intermedio
+Top=Superior
+Candles=Velas
+Toppers=Adornos Superiores
+Borders=Bordes
+Base=Base
+Decorative Icing=Glaseado Decorativo
+Buttercream Piping=Decoración de Crema de Mantequilla
+Chocolate Drip=Goteo de Chocolate
+Cream Piping=Decoración con Crema
+No Topping=Sin Adorno Superior
+Ganache=Ganache
+Cupcake=Cupcake
+Blueberry Mousse=Mousse de Arándano
+Curly Balloons=Globos Rizados
+Cocoa Star Sticks=Varitas de Estrellas de Chocolate
+Mint Chocolate Candy Jar=Frasco de Caramelos de Menta con Chocolate
+Orange Ice Cream=Helado de Naranja
+Two-Toned Tart=Tarta Bicolor
+Shining Starry Night=Noche Estrellada Brillante
+Caramel Star Trail=Estela de Estrellas de Caramelo
+Colorful Star Balloons=Globos de Estrellas Coloridos
+Jelly Balloon Clusters=Ramilletes de Globos de Gelatina
+Starlight Oath=Juramento Estelar
+Big Anniversary Gift=Regalo Grande de Aniversario
+Chocolate Comet=Cometa de Chocolate
+Small Anniversary Gift=Regalo Pequeño de Aniversario
+Chocolate Mint Candy Jar=Frasco de caramelos de menta con chocolate
+Crunchy Truffle Stars=Estrellas de Trufa Crujientes
+Celebratory Ribbons=Cintas Conmemorativas
+Gilded Crown=Corona Dorada
+Shining Stars=Estrellas Brillantes
+Radiant Future=Futuro Radiante
+1st Anniversary Thanks=Feliz Aniversario Gracias.
+Colored Star Garland=Guirnalda de Estrellas de Color
+Wonder & Ren=Wonder y Ren
+No Topper=No Topper
+Strawberry Macaron=Macaron de Fresa
+
+
++--Rasca y Gana--+
+Immediately earn a scratch<sprite\=15 tint\=1>off!=¡Consigue un rasca y gana<sprite\=15 tint\=1> al instante!
+Do you want to send 1 scratch-off pack?=¿Quieres enviar 1 paquete de rasca y gana?
+r:"^(.+?): Scratch-Off Packs$"="$1: Paquetes de rasca y gana"
+Motoha Scratch-Off=Rasca y gana de Motoha
+Riko Scratch-Off=Rasca y gana de Riko
+Shoki Scratch-Off=Rasca y gana de Shoki
+Lufel Scratch-Off=Rasca y gana de Lufel
+Shun Scratch-Off=Rasca y gana de Shun
+r:"^Claimed: (\d+)/(\d+)$"="Reclamado: $1/$2"
+Today's maximum claims have been reached.=Se alcanzó el límite máximo de reclamos para hoy.
+All scratch-offs claimed.=Se reclamaron todas las tarjetas de rasca y gana.
+How to obtain scratch-off packs:=Cómo obtener paquetes de rasca y gana:
+Current maximum unlocks:=Límite máximo actual de desbloqueos:
+You do not have all 5 kinds of scratch-offs. Collect them by sharing or opening packs.=No tienes los 5 tipos de tarjetas de rasca y gana. Colecciónalas compartiendo o abriendo paquetes.
+Required: =Requerido: 
+You: Scratch-Off Packs=Tus paquetes de rasca y gana:
+r:"^Send (\d+) scratch-off packs \((\d+)\/(\d+)\)$"="Enviar $1 paquetes de rasca y gana ($2/$3)"
+
++--Rebobinado--+
+Would you like to stop watching your rewind?\nYou will be able to watch your rewind again.\nAfter you've finished viewing, you can share your rewind to receive rewards.=¿Quieres salir de la retrospectiva?\nPodrás volver a ver tu Rebobinado en otro momento.\nUna vez que termines de verlo, podrás compartir tu Rebobinado para recibir recompensas.
+
+r:"^So far you have forged contracts with <color\=#FF423F>(\d+) Phantom Thieves and Phantom Idols</color>\.\nAmong them, <color\=#FF423F>(.+?)</color> have become your most powerful allies, with total ratings of <color\=#FF423F>([\d、]+)</color>\. No matter what dangers may come, you know these allies will have your back\.$"="Hasta ahora has forjado contratos con <color\=#FF423F>$1 Ladrones Fantasma e ídolos Fantasma</color>.\nEntre ellos, <color\=#FF423F>$2</color> se han convertido en tus aliados más poderosos, con calificaciones totales de <color\=#FF423F>$3</color>. No importa qué peligros se presenten, sabes que estos aliados te respaldarán."
+
+r:"^In this world where desires have been stolen\.\.\.\n?you have formed bonds with <color\=#FF423F>(\d+) Accomplices</color>\. Among them, you became <color\=#FF423F>Close Friends</color> with <color\=#FF423F>(\d+)</color> and <color\=#FF423F>Soulmates</color> with <color\=#FF423F>(\d+)</color>\.\n?Your deepest bonds are with <color\=#FF423F>(.+?)</color>\.\.\. forging powerful connections at <color\=#FF423F>Ranks ([\d、]+)</color>\.$"="En este mundo donde los deseos han sido robados...\nhas formado vínculos con <color\=#FF423F>$1 cómplices</color>. Entre ellos, te volviste <color\=#FF423F>Amigos cercanos</color> de <color\=#FF423F>$2</color> y <color\=#FF423F>Almas gemelas</color> de <color\=#FF423F>$3</color>.\nTus vínculos más profundos son con <color\=#FF423F>$4</color>... forjando conexiones poderosas en los <color\=#FF423F>Rangos $5</color>."
+
+Strong Enemies=Enemigos Poderosos
+r:"^The Phantom Thieves have fought countless battles against fearsome foes\.\nAs of Version ([\d\.]+), the most dangerous of these has been <color\=#FF423F>Shadow Katayama</color>, forcing <color\=#FF423F>(\d+)</color>% of Phantom Thieves to succumb to her rage\.\nAnd in <color\=#FF423F>Recollections</color>, when facing <color\=#FF423F>Shadow Akashi</color> in battle, <color\=#FF423F>(\d+)</color>% of Phantom Thieves became part of his gluttonous feast\.$"="Los Ladrones Fantasma han librado innumerables batallas contra adversarios temibles.\nA partir de la versión $1, el rival más peligroso de todos ha sido la <color\=#FF423F>Sombra de Katayama</color>, lo que provocó que el <color\=#FF423F>$2</color>% de los Ladrones Fantasma sucumbiera ante su furia.\nY en el modo <color\=#FF423F>Recuerdos</color>, al enfrentar a la <color\=#FF423F>Sombra de Akashi</color> en combate, el <color\=#FF423F>$3</color>% de los Ladrones Fantasma terminó formando parte de su glotón festín."
+
+r:"^The city is filled with boundless opportunities and experiences\.\nAmong the many options for part-time jobs, the crêpe shop proved to be the favorite\.\nThe most popular accomplice was (.+?)\.$"="La ciudad está llena de oportunidades y experiencias infinitas.\nEntre las muchas opciones de trabajos a tiempo parcial, la crepería demostró ser la favorita.\nEl cómplice más popular fue $1."
+
+r:"^The <color\=#FF423F>crane games</color> at the arcades are stocked with plushies\.\n\nThe super rare plushie that was won the most often was the <color\=#FF423F>(.+?)</color>, with <color\=#FF423F>(\d+)%</color> of players hee-ho-owning this plushie\.$"="Las <color\=#FF423F>Máquinas de Gancho</color> de los recreativos están llenos de peluches.\n\nEl peluche súper raro que más veces se ganó fue el <color\=#FF423F>$1</color>, con un <color\=#FF423F>$2%</color> de jugadores que se adueñaron de él con un hee-ho."
+
+r:"^You've played <color\=#FF423F>Tycoon</color> (\d+) times, and won <color\=#FF423F>(\d+)</color> times\.\nYou managed to earn a grand total of <color\=#FF423F>(\d+)</color> Tycoon Points\.$"="Has jugado al <color\=#FF423F>Magnate</color> $1 veces y has ganado <color\=#FF423F>$2</color> veces.\nLograste ganar un gran total de <color\=#FF423F>$3</color> puntos de Magnate."
+
+Awards=Premios
+r:"^The most discovered award was <color\=#EF0000>Urban Art Appreciation</color>, found by <color\=#EF0000>(\d+)%</color> of players\.\nThe rarest award was <color\=#EF0000>Chirp Chirp</color>, found by only <color\=#EF0000>(\d+)%</color> of players\.$"="El premio más descubierto fue <color\=#EF0000>Apreciación del Arte Urbano</color>, encontrado por el <color\=#EF0000>$1%</color> de los jugadores.\nEl premio más raro fue <color\=#EF0000>Pío, Pío</color>, encontrado por solo el <color\=#EF0000>$2%</color> de los jugadores."
+
+P5R Collab=Colaboración P5R
+r:"^In the <color\=#EF0000>P5R event</color>, numerous Phantom Thieves faced off against strong opponents\.\n\nIn battle against <color\=#EF0000>Dancer of Dreams</color>, <color\=#EF0000>(\d+)%</color> of Phantom Thieves rose to victory\.\nWhile in <color\=#EF0000>Monstrous Entity</color>, <color\=#EF0000>(\d+)%</color> came out on top\.$"="En el <color\=#EF0000>evento de P5R</color>, numerosos Ladrones Fantasma se enfrentaron a oponentes poderosos.\n\nEn batalla contra <color\=#EF0000>Bailarín de los Sueños</color>, el <color\=#EF0000>$1%</color> de los ladrones Fantasma se alzó con la victoria.\nMientras que en <color\=#EF0000>Entidad Monstruosa</color>, el <color\=#EF0000>$2%</color> salió victorioso."
+
+r:"^On <color\=#EF0000>Valentine's Day</color>, many players shared special moments with their certain someones\.\n<color\=#EF0000>(.+?)</color> was the most popular, with \n?<color\=#EF0000>(\d+)%</color> of players receiving her special chocolate\.$"="En el <color\=#EF0000>Día de San Valentín</color>, muchos jugadores compartieron momentos especiales con su persona ideal.\n<color\=#EF0000>$1</color> fue la más popular, con un \n<color\=#EF0000>$2%</color> de los jugadores recibiendo su chocolate especial."
+
+Thank you for your continued support of Persona5: The Phantom X. We're thrilled to celebrate our first anniversary with you, as we couldn't have reached this milestone without you. We are truly grateful to everyone who has journeyed alongside Wonder and our cast of unique characters, helping bring their story to life.\nNow, we enter the second year of P5X. Everyone on the team is working hard to deliver an even more fun and exciting experience, so we hope you'll look forward to the future that awaits Wonder and his companions!=Gracias por tu continuo apoyo a Persona5: The Phantom X. Nos emociona muchísimo celebrar nuestro primer aniversario contigo, ya que no habríamos alcanzado este gran hito sin tu ayuda. Estamos profundamente agradecidos con cada persona que ha viajado al lado de Wonder y nuestro elenco de personajes únicos, ayudando a darle vida a su historia.\nAhora entramos al segundo año de P5X. Todo el equipo está trabajando arduamente para ofrecer una experiencia todavía más divertida y emocionante, ¡así que esperamos que sigas con entusiasmo el futuro que le aguarda a Wonder y a sus compañeros!\n\nNota del traductor: ¡Hola! Yo también quería agradecerles de corazón por apoyar mi trabajo. De igual forma, agradezco muchísimo a las personas que me siguen desde el inicio hasta el día de hoy. Sin ustedes, no tendría esa enorme motivación para seguir traduciendo este proyecto. Espero que disfruten de mis traducciones y me sigan acompañando a lo largo de este viaje. ¡Igualmente deseo un feliz aniversario, P5X!
+
+r:"^Since you awakened your abilities as a Persona-user on <color\=#FEC431>([\d\/]+)</color>, <color\=#FF423F>(\d+)</color> days have passed\.\.\.\nStill, you continue to fight for a world being sapped of desire, with <color\=#FEC431>(\d+)</color> accomplices at your side\.$"="Desde que despertaste tus habilidades como usuario de Persona el <color\=#FEC431>$1</color>, han pasado <color\=#FF423F>$2</color> días...\nAún así, sigues luchando por un mundo despojado de sus deseos, con <color\=#FEC431>$3</color> cómplices a tu lado."
+
++--Evento Hatsune Miku--+
+Miku Point=Punto Miku
+Valid until: Jul 15, 2026 08:59 AM=Válido hasta: 15 de julio de 2026, 08:59 AM
+Support points exclusive to Hatsune Miku's live show. Can be exchanged at Miku Merch to purchase exclusive merchandise.=Puntos de apoyo exclusivos del concierto en vivo de Hatsune Miku. Se pueden intercambiar en Productos de Miku para comprar mercancía exclusiva.
+Obtainable from Miracle Concert. Can be exchanged for various items at the Exchange Shop.=Se obtiene del Concierto Milagroso. Se puede intercambiar por varios artículos en la Tienda de Intercambio.
+r:"^Play Spring Storm on HaRD difficulty \((\d+)/(\d+)\)$"="Toca Spring Storm en dificultad DiFÍCIL ($1/$2)"
+r:"^Score ([A-Z]) or higher for Spring Storm on EaSY difficulty \((\d+)/(\d+)\)$"="Obtén un rango $1 o superior en Spring Storm en dificultad FáCIL ($2/$3)"
+r:"^Play Ghost Rule on HaRD difficulty \((\d+)/(\d+)\)$"="Toca Ghost Rule en dificultad DiFÍCIL ($1/$2)"
+r:"^Score ([A-Z]) or higher for Ghost Rule on EaSY difficulty \((\d+)/(\d+)\)$"="Obtén un rango $1 o superior en Ghost Rule en dificultad FáCIL ($2/$3)"
+r:"^Watch the collab story in Let the Show Begin \((\d+)/(\d+)\)$"="Mira la historia de la colaboración en Comience el Espectáculo ($1/$2)"
+r:"^Score ([A-Z]) or higher for Heaven \(ATOLS Remix\) on EaSY difficulty \((\d+)/(\d+)\)$"="Obtén un rango $1 o superior en Heaven (ATOLS Remix) en dificultad FáCIL ($2/$3)"
+r:"^Score ([A-Z]) or higher for Play-With-Fire on EaSY difficulty \((\d+)/(\d+)\)$"="Obtén un rango $1 o superior en Play-With-Fire"en dificultad FáCIL ($2/$3)"
+r:"^Play Play-With-Fire on HaRD difficulty \((\d+)/(\d+)\)$"="Toca Play-With-Fire en dificultad DiFÍCIL ($1/$2)"
+r:"^Play all songs from Play That Future Sound on HaRD difficulty \((\d+)/(\d+)\)$"="Toca todas las canciones de Reproduce Ese Sonido Del Futuro en dificultad DiFÍCIL ($1/$2)"
+r:"^Play Marionette Dancer on HaRD difficulty \((\d+)/(\d+)\)$"="Toca Marionette Dancer en dificultad DiFÍCIL ($1/$2)"
+r:"^Score ([A-Z]) or higher for Marionette Dancer on EaSY difficulty \((\d+)/(\d+)\)$"="Obtén un rango $1 o superior en Marionette Dancer en dificultad FáCIL ($2/$3)"
+r:"^Score ([A-Z]) or higher for (.+?) on EaSY difficulty \((\d+)/(\d+)\)$"="Consigue un puntaje $1 o superior para $2 en dificultad FáCIL ($3/$4)"
+r:"^Play (.+?) on HaRD difficulty \((\d+)/(\d+)\)$"="Toca $1 en dificultad DiFÍCIL ($2/$3)"
+r:"^Achieve ([A-Z]) rating on previous difficulty level to unlock\.$"="Consigue una calificación $1 en el nivel de dificultad anterior para desbloquear."
+r:"^Clear Boss Battle on difficulty (\d+) \((\d+)/(\d+)\)$"="Completa la batalla de jefe en dificultad $1 ($2/$3)"
+r:"^Awarded for clearing Boss Battle on difficulty (\d+) in Miracle Concert\.$"="Se otorga por completar la batalla de jefe en dificultad $1 en Concierto Milagroso."
+
+r:"^Miracle Concert (\d+)$"="Concierto Milagroso $1"
+r:"^Lyrics: (.+?) Music: (.+?)$"="Letra: $1 | Música: $2"
+r:"^Music: (.+?)$"="Música: $1"
+r:"^Lyrics: (.+?)$"="Letra: $1"
+Heaven feat. Hatsune Miku (ATOLS Remix)=Heaven feat. Hatsune Miku (Remix de ATOLS)
+Hologram Player=Reproductor Holográfico
+Obtainable from the event "Miracle Concert". Can be displayed in your home.=Se obtiene del evento "Concierto Milagroso". Se puede mostrar en tu hogar.
+Future Sound=Futuro Sonido
+Awarded from the limited-time event Let the Sound Resound. Can be set as your profile design.=Obtenido del evento de tiempo limitado, Que el Sonido Resuene se puede establecer como diseño de tu perfil.
+Hatsune Miku Avatar=Avatar de Hatsune Miku
+Wallpaper=Fondo de Pantalla
+Miku's Music=La Música de Miku
+Awarded from the limited-time event Let the Sound Resound.=Obtenido del evento por tiempo limitado, Que el Sonido Resuene.
+Resonating Heart=Corazón Resonante
+Awarded for playing Play That Future Sound in Miracle Concert.=Otorgado por tocar Play That Future Sound en Concierto Milagroso.
+
+
+##Combate Jefe
+
+1. Ame-no-Uzume grants Miko's Bell to Phantom Thieves, providing them with buffs. When a Phantom Thief activates a Highlight or Theurgy, Miko's Bell will be transferred to them.\n2. Ame-no-Uzume summons Ame-no-Uzume, and activates Dance at Ama-no-Iwato together with summoned Ame-no-Uzumes. Immediately afterward, Ame-no-Uzume will activate Founding Art, restoring HP based on the remaining HP of summoned Ame-no-Uzumes. Ame-no-Uzume will prioritize attacking Phantom Thieves with Miko's Bell, and inflict Kagura Dancer on targets.\n3. When Ame-no-Uzume enters its second phase, it will transfer Miko's Bell to itself and become Frenzied, frequently spending its own HP to activate Frenzied Dance at Ama-no-Iwato on Phantom Thieves, dealing heavy damage. Additionally, Ame-no-Uzume's final damage dealt increases when attacking Phantom Thieves not in the Kagura Dancer state, and damage taken from these Thieves is greatly decreased. Having the Kagura Dancer state will nullify this effect.=1. Ame-no-Uzume otorga Cascabel de Miko a los Ladrones Fantasma, lo que les proporciona mejoras. Cuando un Ladrón Fantasma activa un Highlight o Teúrgia, el Cascabel de Miko se transferirá a él.\n2. Ame-no-Uzume invoca a Ame-no-Uzumes y activa Danza en Ama-no-Iwato junto con las Ame-no-Uzumes invocadas. Inmediatamente después, Ame-no-Uzume activará Arte Fundacional, lo que restaura PS en función de los PS restantes de las Ame-no-Uzumes invocadas. Ame-no-Uzume dará prioridad a atacar a los Ladrones Fantasma que tengan el Cascabel de Miko e infligirá Bailarina Kagura a los objetivos.\n3. Cuando Ame-no-Uzume entra en su segunda fase, se transferirá el Cascabel de Miko a sí misma y entrará en Frenesí, consumiendo con frecuencia sus propios PS para activar Danza Frenética en Ama-no-Iwato sobre los Ladrones Fantasma, lo que inflige un gran daño. Además, el daño final infligido de Ame-no-Uzume aumenta al atacar a Ladrones Fantasma que no estén en el estado de Bailarina Kagura, y el daño recibido de estos Ladrones disminuye considerablemente. Tener el estado de Bailarina Kagura anulará este efecto.
+
+Miko's Bell=Cascabel de Miko
+Reticent Rejection=Rechazo Reticente
+Dance at Ama-no-Iwato=Danza en el Ama-no-Iwato
+Kagura Dancer=Bailarina de Kagura
+Founding Art=Arte Fundacional
+Joined in dance with Ame-no-Uzume.=Te uniste a la danza con Ame-no-Uzume.
+Frenzied Dance at Ama-no-Iwato=Danza frenética en el Ama-no-Iwato
+r:"^Miko's Bell was transferred to <color\=#FF0000>(.+?)</color>!$"="¡La Cascabel de Miko fue transferida a <color\=#FF0000>$1</color>!"
+M<color\=#000000>i</color>ko's Bell=C<color\=#000000>a</color>scabel de Miko
+R<color\=#000000>e</color>ticent Rejection=R<color\=#000000>e</color>chazo Reticente
+K<color\=#000000>a</color>gura Dancer=K<color\=#000000>a</color>ilarina de Kagura
+r:"^Increase final dmg dealt and decrease final dmg taken by (\d+)%\.$"="Aumenta el daño final infligido y reduce el daño final recibido en un $1%."
+Increase final dmg dealt to targets without Kagura Dancer, and greatly decrease final dmg taken.=Aumenta el daño final infligido a los objetivos sin la Bailarina Kagura y reduce drásticamente el daño final recibido.
+r:"^When summoned {{A}} is present, decrease final dmg taken by (\d+)%\.$"="Cuando la {{A}} invocada está presente, reduce el daño final recibido en un $1%."
+r:"^Increase Highlight final dmg amplification by (\d+)%\.$"="Aumenta la amplificación de daño final de Highlight en un $1%."
+r:"^Increase Theurgy final dmg amplification by (\d+)%\.$"="Aumenta la amplificación de daño final de Teúrgia en un $1%."
+
+##Efectos Jefe
+Ame-no-Uzume and summoned Ame-no-Uzume have increased max HP.=Ame-no-Uzume y las invocaciones de Ame-no-Uzume tienen un máximo de PS aumentado.
+When Ame-no-Uzume is Frenzied, damage taken from Phantom Thieves without Kagura Dancer is reflected.=Cuando Ame-no-Uzume tiene el estado Frenesí, se refleja el daño recibido por los Ladrones Fantasma que no posean el efecto Bailarina Kagura.
+When summoned Ame-no-Uzume is present, final damage taken is decreased.=Cuando se invoca Ame-no-Uzume, el daño final recibido se reduce.
+When Ame-no-Uzume is Frenzied and takes damage from Phantom Thieves without Kagura Dancer, its final damage is increased. Stacks up to 5 times.=Cuando Ame-no-Uzume tiene el estado Frenesí y recibe daño de Ladrones Fantasma que no posean el efecto Bailarina Kagura, el daño final que recibe aumenta. Se acumula hasta 5 veces.
+At the start of turn 4 when Ame-no-Uzume is Frenzied, Kagura Dancer is removed from all Phantom Thieves.=Al inicio del turno 4, si Ame-no-Uzume está bajo estado Frenesí, se elimina Bailarina Kagura de todos los ladrones Fantasma. 

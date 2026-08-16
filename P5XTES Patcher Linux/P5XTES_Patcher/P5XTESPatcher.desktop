@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=P5XTES Patcher
+Comment=Parcheador español para Persona 5: The Phantom X
+Exec=/opt/P5XTES_Patcher/P5XTESPatcher
+Icon=P5XTESPatcher
+Terminal=false
+Type=Application
+Categories=Utility;Game;
+StartupWMClass=P5XTESPatcher

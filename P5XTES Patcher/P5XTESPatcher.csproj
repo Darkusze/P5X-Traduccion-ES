@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AssemblyName>P5XTESPatcher</AssemblyName>
+    <RootNamespace>P5XTESPatcher</RootNamespace>
+    <!-- Icono en la barra de tareas y el .exe -->
+    <ApplicationIcon>P5XTES_Patcher_v2.ico</ApplicationIcon>
+    <!-- Publicar como exe único sin instalación -->
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>true</SelfContained>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+    <Company>Shinoesp</Company>
+    <Product>P5XTES Patcher</Product>
+    <Authors>Shinoesp</Authors>
+    <Version>2.1.0</Version>
+    <Title>P5XTES</Title>
+    <Description>Gestor de descargas de archivo del mod incluído con herramientas</Description>
+    <Copyright>Shinoesp</Copyright>
+    <PackageIcon>Logo Yui.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Icono embebido dentro del .exe — no necesita archivo suelto en runtime -->
+    <EmbeddedResource Include="P5XTES_Patcher_v2.ico" Condition="Exists('P5XTES_Patcher_v2.ico')" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="D:\Logo Yui.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

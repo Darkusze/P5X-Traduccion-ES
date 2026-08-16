@@ -1,0 +1,795 @@
++--Ren Anamiya (Joker)--+
+r:"(?s)At the end of Ren's action, gain (\d+) <link\=(.+?)><u>Will of Rebellion</u></link> stack for each foe with less than (\d+)% HP \(up to (\d+) stacks\).*?When Will of Rebellion reaches (\d+) stacks, gain an extra action.*?An additional extra action cannot be gained during the extra action.*?At the end of an extra action, spend (\d+) Will of Rebellion stacks.*?Can gain (\d+) Will of Rebellion stack per foe per battle\."="Al final de la acción de Ren, gana $1 acumulación de <link\=$2><u>Voluntad de Rebelión</u></link> por cada enemigo con menos del $3% de PS (hasta $4 acumulaciones).\nCuando la fuerza de voluntad llegue a $5 acumulaciones, gana una acción adicional.\nNo se puede ganar una acción adicional extra durante la acción adicional. (Las acciones adicionales no afectan la duración de los efectos con límites de turno). Al final de una acción adicional, consume $6 acumulaciones de fuerza de voluntad.\n*Puede ganar $7 acumulación de fuerza de voluntad por enemigo por batalla."
+
+Increase skill damage to the main target by 30%, and increase skill damage to other targets by 10%.=Aumenta el daño de habilidad al objetivo principal en un 30% y el daño de habilidad a otros objetivos en un 10%.
+
+On an extra action, decrease SP cost of skills by 80%. When Ren's SP is above 60%, increase Attack by 50%.=En una acción extra, reduce el coste de PE de las habilidades en un 80%. Cuando los PE de Ren superan el 60%, aumenta el Ataque un 50%.
+
+Increase the skill levels of {{A}}'s Chains and Thief Tactics by 3.=Aumenta los niveles de habilidad de Cadenas de {{A}} y Tácticas de Ladrón en 3.
+
+Highlight Enhanced: Increase number of <link\="s|124"><u>Will of Rebellion</u></link> stacks gained to 3.=Highlight Mejorado: Aumenta el número de <link\="s|124"><u>Voluntad de Rebelión</u></link> acumulaciones ganadas a 3.
+
+Increase the skill levels of Trickster's Plunder and Phantom Omen by 3.=Aumenta los niveles de habilidad de Botín del Trickster y Presagio Fantasma en 3.
+
+After taking an extra action, if there are foes with below 25% HP, deal damage to those foes equal to up to 250% of Ren's Attack (once per enemy per battle).\nAfter using a skill on an extra action, deal Curse damage equal to 50% of Attack to all foes.=Después de realizar una acción adicional, si hay enemigos con menos del 25% de PS, les inflige un daño equivalente a hasta el 250% del Ataque de Ren (una vez por enemigo por batalla).\nTras usar una habilidad en una acción adicional, inflige daño de Maldición equivalente al 50% del Ataque a todos los enemigos.
+
++--Ann Takamaki (Panther)--+
+When dealing Fire damage to a foe with a skill, gain 1 Passion. Gain up to 4 stacks of Passion with 1 skill.\nIf Passion is at 4 or more stacks on Ann's action, spend all Passion stacks to gain La Vie en Rose for 1 turn.\nLa Vie en Rose: Increase Ann's Attack by 30%/40%/50% (effect changes at level 1/50/70).\n*Cannot gain La Vie en Rose consecutively on Ann's next action.=Al infligir daño de Fuego a un enemigo con una habilidad, obtiene 1 de Pasión. Obtiene hasta 4 acumulaciones de Pasión con 1 habilidad.\nSi Pasión tiene 4 o más acumulaciones en la acción de Ann, consume todas las acumulaciones de Pasión para obtener La Vie en Rose durante 1 turno.\nLa Vie en Rose: Aumenta el Ataque de Ann en un 30%/40%/50% (el efecto cambia al nivel 1/50/70).\n*No se puede obtener La Vie en Rose de forma consecutiva en la siguiente acción de Ann.
+
+When <link\="s|113"><u>La Vie en Rose</u></link> is active, increase the party's Attack by 25% for 1 turn.=Cuando <link\="s|113"><u>La Vie en Rose</u></link> está activo, aumenta el Ataque del grupo en un 25% durante 1 turno.
+
+When <link\="s|113"><u>La Vie en Rose</u></link> ends, activate 2 follow-up attacks, dealing Fire damage equal to 66% of Ann's Attack to random foes.=Cuando <link\="s|113"><u>La Vie en Rose</u></link> termina, activa 2 ataque adicional, infligiendo un daño de Fuego igual al 66% del Ataque de Ann a enemigos aleatorios.
+
+Increase the skill levels of Falling Sun and Thief Tactics by 3.=Aumenta los niveles de habilidad de Sol Caído y Tácticas de Ladrón en 3.
+
+Highlight Enhanced: When Ann uses a Highlight, increase her Attack by 100% for 1 turn.=Highlight Mejorado: Cuando Ann usa un Highlight, aumenta su Ataque un 100% durante 1 turno.
+
+Increase the skill levels of Crimson Rose and Trifire by 3.=Aumenta los niveles de habilidad de de Rosa Carmesí y Trifuego en 3.
+
+When attacking foes with Fire skills, 60% chance to gain 1 Passion stack.\nWhen <link\="s|113"><u>La Vie en Rose</u></link> is active, increase Fire damage by 11% per Passion stack spent (up to 110%).=Al atacar enemigos con habilidades de fuego, hay un 60% de probabilidad de obtener 1 acumulación de Pasión.\nCuando <link\="s|113">La Vie en Rose está activa, aumenta el daño de fuego en un 11% por cada acumulación de Pasión consumida (hasta un 110%).
+
++--Minami Miyashita (Mariam)--+
+At the start of battle, gain 1 <link\="s|169"><u>Diagnosis</u></link> stack. On Minami's action, if any ally's HP is below 70%, gain Diagnosis. Diagnosis stacks up to 2 times.=Al comienzo de la batalla, obtienes 1 acumulación de <link\="s|169"><u>Diagnóstico</u></link>. En el turno de Minami, si los PS de cualquier aliado son inferiores al 70%, obtienes Diagnóstico. Diagnóstico se acumula hasta 2 veces.
+
+When healing allies above max HP, increase target's pierce rate by 20% for 2 turns.=Al curar aliados por encima de sus PS máx., aumenta la tasa de perforación del objetivo en un 20% durante 2 turnos.
+
+When using Healing Grace, heal 1 more ally, and if target's HP is below 50%, increase healing effect by 20%.=Al usar Gracia Curativa, cura a 1 aliado más, y si los PS del objetivo son inferiores al 50%, aumenta el efecto de curación en un 20%.
+
+Increase the skill levels of Healing Grace and Thief Tactics by 3.=Aumenta los niveles de habilidad de Gracia Curativa y Tácticas de Ladrón en 3.
+
+Highlight Enhanced: The duration of the max HP increase and healing effect increase are extended by 1 turn.=Highlight Mejorado: La duración del aumento de los PS máx. y del aumento del efecto de curación se extiende en 1 turno.
+
+Increase the skill levels of Nurse's Light and Compassionate Cure by 3.=Aumenta los niveles de habilidad de Luz de la Enfermera y Curación Compasiva en 3.
+
+Restore a KO'd ally's HP equal to 40% of Minami's max HP + 1200. This effect can be activated once per battle.=Restaura los PS de un aliado fuera de combate en una cantidad equivalente al 40% de los PS máx. de Minami + 1200. Este efecto puede activarse una vez por batalla.
+
++--Justine y Caroline--+
+After obtaining Justine & Caroline, during battle, increase Wonder's skill and Thief Tactics levels by 1 (takes effect even when Justine & Caroline are not in battle).\nBefore entering battle, Justine & Caroline can select 2 of their 4 sets of Personas, and their Skill 1 and Skill 2 will change accordingly. During battle, Justine & Caroline will receive the following role effect based on the selected sets:\nMask of Mischief & Innocence + Mask of Service & Admonition: Medic\nMask of Mischief & Innocence + Mask of Absurdity & Nonsense: Strategist\nMask of Mischief & Innocence + Mask of Luck & Loss: Sweeper\nMask of Service & Admonition + Mask of Absurdity & Nonsense: Guardian\nMask of Service & Admonition + Mask of Luck & Loss: Saboteur\nMask of Absurdity & Nonsense + Mask of Luck & Loss: Assassin\nSkill effects are affected by <link\="s|271"><u>Desire Level</u></link>. At the start of battle, increase Desire Level by 25.=Tras obtener a Justine y Caroline, durante la batalla, aumenta en 1 el nivel de las habilidades y de Tácticas de ladrón de Wonder (surte efecto incluso si Justine y Caroline no están en batalla).\nAntes de entrar en batalla, Justine y Caroline pueden seleccionar 2 de sus 4 conjuntos de Personas, y su Habilidad 1 y Habilidad 2 cambiarán en consecuencia. Durante la batalla, Justine y Caroline recibirán el siguiente efecto de rol según los conjuntos seleccionados:\nMáscara de Travesura e Inocencia + Máscara de Servicio y Amonestación: Erudito\nMáscara de Travesura e Inocencia + Máscara de Absurdo y Sinsentido: Estratega\nMáscara de Travesura e Inocencia + Máscara de Suerte y Pérdida: Barrendero\nMáscara de Servicio y Amonestación + Máscara de Absurdo y Sinsentido: Guardián\nMáscara de Servicio y Amonestación + Máscara de Suerte y Pérdida: Saboteador\nMáscara de Absurdo y Sinsentido + Máscara de Suerte y Pérdida: Asesino\nLos efectos de las habilidades se ven afectados por el <link\="s|271"><u>Nivel de Deseo</u></link>. Al comienzo de la batalla, aumenta el nivel de Deseo en 25.
+
+At the start of battle, depending on the selected Personas, gain 2 types of <link\="s|273"><u>Facade</u></link>.\nAt the start of Justine & Caroline's turn or end of their action, if they have 2 types of Facade, automatically activate Two Masks as One on a random target 1 time (prioritizing the target of the previous skill attack used).=Al comienzo de la batalla, dependiendo de las Personas seleccionadas, obtiene 2 tipos de <link\="s|273"><u>Fachada</u></link>.\nAl comienzo del turno de Justine y Caroline o al final de su acción, si tienen 2 tipos de Fachada, activa automáticamente Dos Máscaras en Una en un objetivo aleatorio 1 vez (priorizando al objetivo del ataque de habilidad anterior utilizado).
+
+When a <link\="s|273"><u>Facade</u></link> is gained, gain the following buff based on the type of Facade:\nFacade of Mischief & Innocence: Increase party's Attack by 30% for 2 turns.\nFacade of Service & Admonition: Decrease party's damage taken by 20% for 2 turns.\nFacade of Absurdity & Nonsense: Increase critical damage of the Assassin or Sweeper ally with the highest Attack by 20% for 2 turns.\nFacade of Luck & Loss: Increase Justine & Caroline's skill damage by 10% for 2 turns.=Cuando se obtiene una <link\="s|273"><u>Fachada</u></link>, se obtiene la siguiente mejora según el tipo de Fachada:\nFachada de Travesura e Inocencia: Aumenta el Ataque del equipo en un 30% durante 2 turnos.\nFachada de Servicio y Amonestación: Reduce el daño recibido por el equipo en un 20% durante 2 turnos.\nFachada de Absurdo y Sinsentido: Aumenta el daño crítico del aliado Asesino o Barrendero con el Ataque más alto en un 20% durante 2 turnos.\nFachada de Suerte y Pérdida: Aumenta el daño de habilidad de Justine y Caroline en un 10% durante 2 turnos.
+
+Increase the skill levels of Selected Skill 1 and Two Masks as One by 3.=Aumenta los niveles de habilidad de Habilidad seleccionada 1 y de Dos Máscaras en Una en 3.
+
+When Justine & Caroline activate their Highlight, increase their Attack by 40%, damage dealt by 20%, and grant 50% of these effects to other allies for 2 turns.=Cuando Justine y Caroline activan su Highlight, aumenta su Ataque en un 40% y su daño infligido en un 20%, y otorga el 50% de estos efectos a los demás aliados durante 2 turnos.
+
+Increase the skill levels of Selected Skill 2 and Thief Tactics by 3.=Aumenta los niveles de habilidad de Habilidad seleccionada 2 y Tácticas de ladrón en 3.
+
+When this Awareness is unlocked, during battle, increase Wonder's skill and Thief Tactics levels by 1 (takes effect even when Justine & Caroline are not in battle). Also, increase <link\="s|271"><u>Desire Level</u></link> by 20%.\nAt the start of battle, gain True Desire.\nAfterwards, regain True Desire every 8 actions if it has been spent.\nAt the start of Justine & Caroline's turn, they can spend 1 True Desire stack to enhance the next activated Two Masks as One.\nEnhanced effect: Activate all <link\="s|273"><u>Facade</u></link> effects for Two Masks as One. Also, deal bonus damage to the main target equal to 40% of Attack (8 hits. Increase this skill's effect by 1% for every 1 point of Desire Level. These bonus hits deal 1 hit of Fire, Ice, Electric, Wind, Psychokinesis, Nuclear, Bless, and Curse damage each.)=Al desbloquear esta Conciencia, durante la batalla, aumenta el nivel de habilidad de Wonder y de Tácticas de ladrón en 1 (hace efecto incluso cuando Justine y Caroline no están en batalla). Además, aumenta el <link\="s|271"><u>Nivel de Deseo</u></link> en un 20%.\nAl comienzo de la batalla, obtiene Deseo verdadero.\nDespués, vuelve a ganar Deseo Verdadero cada 8 acciones si se ha consumido.\nAl comienzo del turno de Justine y Caroline, pueden consumir 1 acumulación de Deseo verdadero para potenciar el próximo Dos Máscaras en Una que se active.\nEfecto Potenciado: Activa todos los efectos de <link\="s|273"><u>Fachada</u></link> para Dos Máscaras en Una. Además, inflige daño adicional al objetivo principal igual al 40% del Ataque (8 golpes. Aumenta el efecto de esta habilidad en un 1% por cada 1 punto de Nivel de deseo. Estos golpes adicionales infligen 1 golpe de daño de Fuego, Hielo, Eléctrico, Viento, Psicoquinesis, Nuclear, Bendición y Maldición cada uno).
+
++--Kasumi Yoshisawa (Violet)--+
+r:"Kasumi's\s+Highlight\s+does\s+not\s+deplete\s+the\s+Highlight\s+gauge,\s+and\s+can\s+activate\s+critical\s+hits\.\nOn\s+an\s+ally's\s+action,\s+with\s+(\d+)\s+or\s+more\s+<link\=(.+?)><u>Step</u></link>\s+stacks,\s+can\s+use\s+<link\=(.+?)><u>Spellbound\s+Cinders</u></link>\s+to\s+enter\s+<link\=(.+?)><u>Masquerade</u></link>\s+mode,\s+and\s+can\s+activate\s+Highlight\s+1\s+time\s+\(Spellbound\s+Cinders\s+has\s+a\s+cooldown\s+time\s+of\s+(\d+)\s+turns\)\.\s+This\s+effect\s+lasts\s+until\s+the\s+start\s+of\s+Kasumi's\s+second\s+turn\s+after\s+entering\s+Masquerade\s+\(or\s+if\s+Spellbound\s+Cinders\s+is\s+used\s+during\s+her\s+own\s+turn,\s+until\s+the\s+end\s+of\s+the\s+following\s+turn\)\.\s+Also,\s+for\s+every\s+Step\s+stack\s+gained\s+while\s+in\s+Masquerade\s+mode,\s+increase\s+Attack\s+by\s+(\d+)%\s+and\s+critical\s+rate\s+by\s+(\d+)%\.\nWhen\s+Masquerade\s+ends,\s+lose\s+all\s+Step\s+stacks\.\s+If\s+Masquerade\s+ends\s+and\s+Highlight\s+has\s+not\s+been\s+used,\s+activate\s+Highlight\s+on\s+1\s+random\s+foe\."="El Highlight de Kasumi no agota el medidor de Highlight y puede activar golpes críticos.\nEn la acción de un aliado, con $1 o más acumulaciones de <link\=$2><u>Paso</u></link>, puede usar <link\=$3><u>Cenicienta Encantada</u></link> para entrar en el modo <link\=$4><u>Mascarada</u></link> y puede activar Highlight 1 vez (Cenicienta Encantada tiene un tiempo de enfriamiento de $5 turnos). Este efecto dura hasta el comienzo del segundo turno de Kasumi tras entrar en Mascarada (o si se utiliza Cenicienta Encantada durante su propio turno, hasta el final del turno siguiente). Además, por cada acumulación de Paso obtenida mientras está en modo Mascarada, aumenta el Ataque en un $6% y la probabilidad de crítico en un $7%.\nCuando termina Mascarada, pierde todas las acumulaciones de Paso. Si Mascarada termina y no se ha utilizado el Highlight, activa Highlight sobre 1 enemigo al azar."
+
+Extend the duration of Dance Partner by 1 turn.\nWhen using Invitation, increase critical rate of Kasumi and her Dance Partner by 15% for 3 turns.=Extiende la duración de Compañero de Baile en 1 turno. Al usar Invitación, aumenta la probabilidad crítica de Kasumi y su Compañero de Baile en un 15% durante 3 turnos.
+
+With 2 <link\="s|215"><u>Step</u></link> stacks, increase Attack by 33%. With 3 or more stacks, increase critical damage by 33%. These effects are permanent.=Con 2 acumulaciones de <link\="s|215"><u>Paso</u></link>, aumenta el Ataque en un 33%. Con 3 o más acumulaciones, aumenta el daño crítico en un 33%. Estos efectos son permanentes.
+
+Increase the skill levels of Cinderella Glow and Thief Tactics by 3.=Aumenta los niveles de habilidad de Resplandor de Cenicienta y de Tácticas de ladrón en 3.
+
+When activating a Highlight, gain 1 Stroke of Midnight stack. Spend 1 Stroke of Midnight stack when taking damage, and evade that damage (not activated by some skills).\nAlso, with 4 <link\="s|215"><u>Step</u></link> stacks, increase Highlight damage by 50%.=Al activar un Highlight, obtienes 1 acumulación de Filo de la Medianoche. Consume 1 acumulación de Filo de la Medianoche al recibir daño y evade ese daño (no se activa con algunas habilidades).\nAdemás, con 4 <link\="s|215"><u>Paso</u></link>, aumenta el daño de Highlight en un 50%.
+
+Increase the skill levels of Invitation and Midnight Magic by 3.=Aumenta los niveles de habilidad de Invitación y de Magia de la medianoche en 3.
+
+After Kasumi activates her Highlight, she can activate her Highlight 1 more time while in <link\="s|217"><u>Masquerade</u></link> mode. This Highlight has 80% of its normal damage, and can be activated 1 time each time Masquerade mode is entered. Also, it will not activate automatically when Masquerade mode ends.=Después de que Kasumi active su Highlight, puede activar su Highlight 1 vez más mientras esté en modo <link\="s|217"><u>Mascarada</u></link>. Este Highlight tiene un 80% de su daño normal y puede activarse 1 vez por cada vez que se entre en el modo Mascarada. Además, no se activará automáticamente cuando termine el modo Mascarada.
+
++--Firecracker Yaoling--+
+r:"Firecracker {{A}}'s melee attack can evolve to <link\=(.+?)><u>Yanhua Slash</u></link>\. When evolved, deal heavy Fire damage to targets, and can activate <link\=(.+?)><u>Fire Technical</u></link>\. Also, when <link\=(.+?)><u>Fireburn</u></link> is activated, the damage increase effect becomes (\d+)%\."="El ataque cuerpo a cuerpo de Firecracker Yaoling puede evolucionar a <link\=$1><u>Tajo Yanhua</u></link>. Al evolucionar, inflige un gran daño de Fuego a los objetivos y puede activar <link\=$2><u>Técnico de Fuego</u></link>. Además, cuando se activa <link\=$3><u>Incendio</u></link>, el efecto de aumento de daño pasa a ser del $4%."
+
+r:"Reduce the first cooldown time for Orange Blossom Blade by (\d+) turn\. Also, extend the duration of <link\=(.+?)><u>Flaming Sword Dance</u></link> by (\d+) turn, and <link\=(.+?)><u>Yanhua Slash</u></link> can be activated up to (\d+) times\. Also, when Flaming Sword Dance is active, enhance Scarlet Surprise and Firework Finale\.\nScarlet Surprise: When enhanced, increase the critical damage of Yanhua Slash by (\d+)% more\.\nFirework Finale: When enhanced, Yanhua Slash inflicts (\d+) more <link\=(.+?)><u>Year-End Flames</u></link> stack\."="Reduce el tiempo de enfriamiento inicial de Hoja de Azahar en $1 turno. Además, prolonga la duración de <link\=$2><u>Danza de la Espada Flamígera</u></link> en $3 turno, y <link\=$4><u>Tajo Yanhua</u></link> puede activarse hasta $5 veces. Además, cuando Danza de la Espada Flamígera está activa, mejora Sorpresa Escarlata y Final de Fuegos Artificiales.\nSorpresa Escarlata: Al mejorarla, aumenta el daño crítico de Tajo Yanhua en un $6% más.\nFinal de Fuegos Artificiales: Al mejorarla, Tajo Yanhua inflige $7 acumulación más de <link\=$8><u>Llamas de Fin de Año</u></link>."
+
+r:"When Firecracker {{A}} is present, for each foe that appears, permanently inflict (\d+) special limit-breaking <link\=(.+?)><u>Burn</u></link> stack\. When this Burn is removed, (\d+) more stack is immediately inflicted\. This effect's cooldown time is (\d+) turns, calculated individually for each foe\.\nDuring battle, when (\d+) foe is inflicted with Burn, increase Firecracker {{A}}'s critical rate by (\d+)%\. Also, for each additional foe inflicted with Burn, increase by (\d+)% more \(up to a maximum of (\d+)%\)\."="Cuando Firecracker Yaoling está presente, por cada enemigo que aparezca, inflige permanentemente $1 acumulación de <link\=$2><u>Quemadura</u></link> especial que rompe el límite. Cuando se elimina esta Quemadura, se inflige inmediatamente $3 acumulación más. El tiempo de enfriamiento de este efecto es de $4 turnos, calculado individualmente para cada enemigo.\nDurante la batalla, cuando $5 enemigo sea afectado por Quemadura, aumenta la probabilidad de crítico de Firecracker Yaoling en un $6%. Además, por cada enemigo adicional afectado por Quemadura, aumenta un $7% más (hasta un máximo del $8%)."
+
+Increase the skill levels of Firework Finale and Orange Blossom Blade by 3.=Aumenta los niveles de habilidad de Final de Fuegos Artificiales y Hoja de Flor de Azahar en 3.
+
+Highlight Enhanced: Increase Firecracker {{A}}'s critical damage by 15% more for 2 turns. Also, extend the duration of all buffs gained from this Highlight by 2 turns.=Highlight Mejorado: Aumenta el daño crítico de Firecracker Yaoling en un 15% más durante 2 turnos. Además, extiende la duración de todos las mejoras obtenidos de este Highlight en 2 turnos.
+
+Increase the skill levels of Scarlet Surprise and Thief Tactics by 3.=Aumenta los niveles de habilidad de Sorpresa Escarlata y Tácticas de Ladrón en 3.
+
+r:"<link\=(.+?)><u>Flaming Sword Dance</u></link> becomes permanent\. <link\=(.+?)><u>Yanhua Slash</u></link> evolves to Liuxing Slash, increasing damage dealt by (\d+)%\. Flaming Sword Dance is not removed even after Liuxing Slash is activated\.\nAlso, Scarlet Surprise permanently maintains the critical rate increase and enhanced effects on Liuxing Slash\. The duration of Firework Finale's <link\=(.+?)><u>Burn</u></link> and enhanced effects on Liuxing Slash are extended by (\d+) turn\."="<link\=$1><u>Danza de la Espada Flamígera</u></link> se vuelve permanente. <link\=$2><u>Tajo Yanhua</u></link> evoluciona a Tajo Liuxing, aumentando el daño infligido en un $3%. Danza de la Espada Flamígera no se elimina incluso después de activar Tajo Liuxing.\nAdemás, Sorpresa Escarlata mantiene permanentemente el aumento de la probabilidad de crítico y los efectos mejorados en Tajo Liuxing. La duración de la <link\=$4><u>Quemadura</u></link> de Final de Fuegos Artificiales y los efectos mejorados en Tajo Liuxing se prolongan en $5 turno."
+
++--Manaka Nagao (Ange)--+
+r:"On each ally's action, gain (\d+) <link\=(.+?)><u>Musical Note</u></link> stack, up to a maximum of (\d+) stacks\.\nBefore any ally's action, Manaka can activate Da Capo \(the initial use count in each battle is (\d+)\)\. After activating Da Capo, when {{A}} takes (\d+) actions other than additional actions, restore the use count by (\d+) \(this effect activates only (\d+) time per battle\)\.\nDa Capo: Remove (\d+) debuff effect from (\d+) ally\. At the end of the target's next action, grant a special additional action\. When in this state, the target's HP, SP, buff/debuff effects, and skill cooldowns are reset to their state at the start of the previous action\."="Con cada acción de un aliado, obtienes $1 acumulación de <link\=$2><u>Nota Musical</u></link>, hasta un máximo de $3.\nAntes de la acción de cualquier aliado, Manaka puede activar Da Capo (el número de usos iniciales en cada batalla es $4). Tras activar Da Capo, cuando Wonder realice $5 acciones (sin contar adicionales), se restaura el número de usos en $6 (se activa solo $7 vez por batalla).\nDa Capo: Elimina $8 efecto negativo de $9 aliado. Al final de la siguiente acción, otorga una acción adicional. En este estado, los PS, PE, Buff/Debuff y enfriamientos vuelven al estado del comienzo de su acción anterior."
+
+r:"At the start of battle, gain the maximum number of <link\=(.+?)><u>Musical Note</u></link> stacks, and reduce the first cooldown time by (\d+) actions\.\nAlso, when using Melody of Steps, also increase party's critical rate by (\d+)% for (\d+) turns\."="Al comienzo de la batalla, obtén el máximo de acumulaciones de <link\=$1><u>Nota Musical</u></link> y reduce el tiempo de reutilización inicial en $2 acciones.\nAdemás, al usar Melody of Steps, aumenta también la probabilidad crítica del equipo en un $3% durante $4 turnos."
+
+r:"Increase <link\=(.+?)><u>final damage amplification</u></link> of allies with extra actions from <link\=(.+?)><u>Da Capo</u></link> by (\d+)%\.\nWhen an ally is KO'd, restore their HP equal to (\d+)% of Manaka's Attack \+ (\d+)\. This effect can be activated once per battle\."="Aumenta la <link\=$1><u>amplificación de daño final</u></link> de los aliados con acciones adicionales de <link\=$2><u>Da Capo</u></link> en un $3%.\nCuando un aliado sea derrotado, restaura sus PS en una cantidad igual al $4% del Ataque de Manaka + $5. Este efecto solo puede activarse una vez por batalla."
+
+Increase the skill levels of Prayer Refrain and Melody of Steps by 3.=Aumenta los niveles de habilidad de Refrán de Oración y Melodía de Pasos en 3.
+
+At the start of battle, or when an ally activates a Highlight or Theurgy, gain 2 <link\="s|235"><u>Musical Note</u></link> stacks. Stacks gained from this effect can exceed the maximum limit up to 2 times.=Al comienzo de la batalla, o cuando un aliado activa un Highlight o Teúrgia, obtienes 2 acumulaciones de <link\="s|235"><u>Nota Musical</u></link>. Las acumulaciones obtenidas por este efecto pueden superar el límite máximo hasta 2 veces.
+
+Increase the skill level of Winged Canon by 3.=Aumenta el nivel de habilidad de Canon Alado en 3.
+
+Increase the initial use count of <link\="s|239"><u>Da Capo</u></link> by 1.=Aumenta el recuento de uso inicial de <link\="s|239"><u>Da Capo</u></link> en 1.
+
++--Shoki Ikenami (Luce)--+
+Shoki has 4 types of Improv states: Blazing Passion, Chilling Intensity, Electrifying Performance, and Tempestuous Drama. During battle, he can switch between states at the start of each turn.\nWhen dealing damage with a skill, there is a 75% chance to inflict all foes with an elemental ailment based on his current Improv state (Burn, Freeze, Shock, or Windswept).=Shoki tiene 4 tipos de estados de Improvisación: Pasión Ardiente, Intensidad Gélida, Interpretación Electrizante y Drama Tempestuoso. Durante la batalla, puede cambiar entre estados al comienzo de cada turno.\nAl infligir daño con una habilidad, hay un 75% de probabilidad de infligir a todos los enemigos un estado dolencias elementales basado en su estado de Improvisación actual (Quemadura, Congelación, Electrocución o Azotado por el Viento).
+
+When using a skill on an ally, for each <link\="s|111"><u>Blessing</u></link> stack on the target, increase the target's damage dealt by 3% (up to a maximum of 15%) for 2 turns.=Al usar una habilidad sobre un aliado, por cada acumulación de <link\="s|111"><u>Bendición</u></link> en el objetivo, aumenta el daño infligido del objetivo en un 3% (hasta un máximo del 15%) durante 2 turnos.
+
+When using Adlib, also grant an additional effect: When the target next takes skill damage, decrease their final damage taken by 35% for 1 turn.=Al usar Adlib, otorga también un efecto adicional: la próxima vez que el objetivo reciba daño de habilidad, reduce su daño final recibido en un 35% durante 1 turno.
+
+Increase the skill levels of Followspot and Adlib by 2.=Aumenta los niveles de habilidad de Foco de Seguimiento y Adlib en 2.
+
+Highlight Enhanced: Increase the main target's Attack by 10% for 2 turns, and grant 2 more <link\="s|111"><u>Blessing</u></link> stacks to all allies.=Highlight Mejorado: Aumenta el Ataque del objetivo principal en un 10% durante 2 turnos y otorga 2 acumulaciones más de <link\="s|111"><u>Bendición</u></link> a todos los aliados.
+
+Increase the skill levels of Improvise and Thief Tactics by 2.=Aumenta los niveles de habilidad de Improvisar y Tácticas de Ladrón en 2.
+
+When the additional effects of Improvise are activated based on Improv state, extend the duration of the additional effects to 4 turns.=Cuando los efectos adicionales de Improvisar se activen según el estado de Improvisación, extiende la duración de los efectos adicionales a 4 turnos.
+
++--Ayaka Sakai (chord)--+
+
+When using Catchy Hook, increase Ayaka's Attack by 20% (up to 40%) for that battle.\nCatchy Hook has a cooldown time of 1 turn before it can be used. Increase the cooldown time each time Catchy Hook is used (up to 3 turns).=Al usar Gancho Pegadizo, aumenta el Ataque de Ayaka en un 20% (hasta un 40%) durante esa batalla.\nGancho Pegadizo tiene un tiempo de enfriamiento de 1 turno antes de poder usarse. Aumenta el tiempo de enfriamiento cada vez que se use Gancho Pegadizo (hasta 3 turnos).
+
+At the start of battle, grant <link\="s|190"><u>Costar</u></link> to the ally with the highest Attack for 3 turns (prioritizing Assassins and Sweepers).\nIncrease that ally's critical rate by 15%.=Al comienzo de la batalla, otorga <link\="s|190">Costar</u></link> al aliado con el Ataque más alto durante 3 turnos (priorizando Asesinos y Barrendero). Aumenta la probabilidad de crítico de ese aliado en un 15%.
+
+When using Catchy Hook, increase targeted ally's damage by 30% for 2 turns.=Al usar Gancho Pegadizo aumenta el daño del aliado objetivo en un 30% durante 2 turnos.
+
+When using Catchy Hook, increase targeted ally's damage by 30% for 1 turn.=Al usar Gancho Pegadizo, aumenta el daño del aliado objetivo un 30% durante 1 turno.
+
+Increase the skill levels of Distortion and Catchy Hook by 3.=Aumenta el nivel de habilidad de Distorsión y Gancho Pegadizo en 3.
+
+Highlight Enhanced: Increase effect duration to 6 ally actions.\nFill the Highlight gauge to 60%, and decrease Highlight activation cooldown for all other allies by 1 turn.=Highlight Mejorado: aumenta la duración del efecto a 6 acciones de aliado. Llena el indicador de Highlight al 60% y reduce el tiempo de enfriamiento de activación de Highlight de todos los demás aliados en 1 turno.
+
+Increase the skill levels of Unison Notes and Thief Tactics by 3.=Aumenta el nivel de habilidad de Notas al Unísono y Tácticas de ladrón en 3.
+
+At the start of battle, Catchy Hook can be used immediately. Cooldown time is permanently decreased to 1 turn and won't increase.\nEvery time Catchy Hook is used, increase the party's damage by 20% (up to 2 stacks).=Al inicio de la batalla, se puede usar Gancho Pegadizo inmediatamente. El tiempo de enfriamiento se reduce permanentemente a 1 turno y no aumentará.\nCada vez que se use Gancho Pegadizo, el daño del equipo aumenta en un 20% (hasta 2 acumulaciones).
+
++--Tempest Riko--+
+
+Increase Tempest Riko's max SP to 200, and increase her SP Recovery by 60%. When using a skill to restore her own SP, the amount recovered is affected by SP Recovery.\nWhen using Blossoming Season, spend all SP, and activate different effects based on the amount of SP spent.=Aumenta el PE máximo de Riko Tempestad a 200 y aumenta su Recuperación de PE en un 60%. Al usar una habilidad para restaurar su propio PE, la cantidad recuperada se ve afectada por la Recuperación de PE.\nAl usar Temporada de Florecimiento, consume todo el PE y activa diferentes efectos según la cantidad de PE consumida.
+
+The condition to activate the <link\="s|218"><u>Falling Petals</u></link> effect from Storm of Petals changes from Wind damage to any attribute damage. Also, increase the target's critical damage taken by 30%.\nArrival of Spring increases Sweeper allies' Attack by 25% more.=La condición para activar el efecto de <link\="s|218"><u>Pétalos Caídos</u></link> del efecto Tormenta de Pétalos cambia de daño de Viento a daño de cualquier atributo. Además, aumenta el daño crítico recibido por el objetivo en un 30%.\nLlegada de la Primavera aumenta el Ataque de los aliados Barrenderos en un 25% más.
+
+r:"Increase Tempest Riko's max SP by (\d+) \(also increase the maximum effect of Blossoming Season\)\. Also, after activating Blossoming Season, immediately recover (\d+) SP\.\nEnhance the effect of the Talent Vernal Splendor: Double the critical damage increase after gaining ([\d\/]+) <link\=(.+)><u>Blossom</u></link> stacks\."="Aumenta el PE máximo de Tempest Riko en $1 (también aumenta el efecto máximo de Blossoming Season). Además, tras activar Blossoming Season, recupera inmediatamente $2 de PE.\nMejora el efecto del Talento Vernal Splendor: Duplica el aumento de daño crítico tras obtener $3 acumulaciones de <link\=$4><u>Blossom</u></link>."
+
+Increase the skill levels of Arrival of Spring and Blossoming Season by 3.=Aumenta los niveles de habilidad de Llegada de la Primavera y Temporada de Florecimiento en 3.
+
+Highlight Enhanced: The buff effect now applies to all allies besides Tempest Riko. Increase the main target's critical damage by 12% more, and restore 32 SP to all allies besides Tempest Riko.=Highlight Mejorado: El efecto de mejora ahora se aplica a todos los aliados, excepto Tempest Riko. Aumenta el daño crítico del objetivo principal en un 12% más y restaura 32 PE a todos los aliados, excepto Tempest Riko.
+
+Increase the skill levels of Storm of Petals and Thief Tactics by 3.=Aumenta los niveles de habilidad de Tormenta de Pétalos y Tácticas de Ladrón en 3.
+
+Blossoming Season now affects all allies besides Tempest Riko. When the main target uses a skill, immediately activate Storm of Petals 1 time on the target foe. This effect can only be activated 1 time for each use of Blossoming Season. Also, extend the duration of <link\="s|218"><u>Falling Petals</u></link> from Storm of Petals by 1 turn.\nWhile Riko is on the field, when any ally deals damage, for every 1% of their critical rate that exceeds 100%, increase the critical damage of that damage by 2%.=Temporada de Florecimiento ahora afecta a todos los aliados además de Tempest Riko. Cuando el objetivo principal usa una habilidad, activa inmediatamente Tormenta de Pétalos 1 vez sobre el enemigo seleccionado. Este efecto solo puede activarse 1 vez por cada uso de Temporada de Florecimiento. Además, prolonga la duración de <link\="s|218"><u>Pétalos Caídos</u></link> de Tormenta de Pétalos en 1 turno.\nMientras Riko esté en el campo, cuando cualquier aliado infrinja daño, por cada 1% de su probabilidad crítica que supere el 100%, aumenta el daño crítico de ese ataque en un 2%.
+
++--Makoto Nijima--+
+
+When attacking a foe with a skill, gain 1 <link\="s|177"><u>Tenacity</u></link> stack. If <link\="s|178"><u>Crash Out</u></link> is not active, at the end of the action, gain more Tenacity stacks based on the number of elemental ailments inflicted on foes (including foes defeated during the turn).\nIf Makoto has 5 Tenacity stacks at the start of her turn, she can activate Crash Out, increasing Attack by 40% and Defense by 20%, and evolving Nuclear Fury to Thermonuclear Fury for 2 turns. When Crash Out ends, lose all Tenacity stacks.=Al atacar a un enemigo con una habilidad, obtiene 1 acumulación de <link\="s|177"><u>Tenacidad</u></link>. Si <link\="s|178"><u>Estallido</u></link> no está activo, al final de la acción, obtiene más acumulaciones de Tenacidad según la cantidad de estados alterados elementales infligidos a los enemigos (incluidos los enemigos derrotados durante el turno).\nSi Makoto tiene 5 acumulaciones de Tenacidad al inicio de su turno, puede activar Estallido, lo que aumenta el Ataque en un 40% y la Defensa en un 20%, y evoluciona Furia Nuclear a Furia Termonuclear durante 2 turnos. Cuando Estallido termina, pierde todas las acumulaciones de Tenacidad.
+
+At the start of battle, gain 5 <link\="s|177"><u>Tenacity</u></link> stacks, allowing Makoto to activate <link\="s|178"><u>Crash Out</u></link>.\nWhen Crash Out is active, increase Attack by 50% more and damage by 35%.=Al inicio de la batalla, gana 5 <link\="s|177"><u>Tenacidad</u></link> permitiendo a Makoto activar <link\="s|178"><u>Estallido</u></link>. Cuando Estallido está activo, aumenta el Ataque un 50% más y el daño un 35%.
+
+When <link\="s|178"><u>Crash Out</u></link> is active, inflict random elemental ailments on foes, and for each different type of elemental ailment, increase Makoto's pierce rate by 6%.=Cuando <link\="s|178"><u>Estallido</u></link> está activo, inflige dolencias elementales aleatorias a los enemigos y, por cada tipo diferente de dolencia elemental, aumenta el índice de perforación de Makoto un 6%.
+
+Increase the skill levels of Sanctioned Drift and Nuclear Fury by 3.=Aumenta los niveles de habilidad de Deriva sancionada y Furia Nuclear en 3.
+
+Highlight Enhanced: Increase maximum Frenzied Voltage stacks to 4. Inflict up to 4 elemental ailments on foes, and increase skill damage up to 4 times.=Highlight Mejorado: Aumenta las acumulaciones máximas de Voltaje Frenético a 4. Inflige hasta 4 dolencias elementales a los enemigos y aumenta el daño de habilidad hasta 4 veces.
+
+Increase the skill levels of President's Prowess and Thief Tactics by 3.=Aumenta los niveles de habilidad de Proeza del Presidente y Tácticas de ladrón en 3.
+
+When <link\="s|178"><u>Crash Out</u></link> is active, Makoto can gain an extra action. (These extra actions do not affect the duration of effects with turn limits.)\nAlso decrease the SP cost of Thermonuclear Fury by 33%.=Cuando <link\="s|178"><u>Estallido</u></link> esté activo, Makoto puede obtener una acción adicional. (Estas acciones adicionales no afectan la duración de los efectos con límites de turno).\nTambién reduce el coste de PE de Furia Termonuclear en un 33%.
+
++--Tropical Motoha--+
+
+When receiving healing, increase damage by 25% for 2 turns. After receiving healing a total of 5 times, gain Tropical Heart (healing received from <link\="s|111"><u>Blessing</u></link> counts once per turn).\nWhen using Surf 'n' Shine while Tropical Heart is active, spend Tropical Heart to remove the cooldown time from Surf 'n' Shine. Afterwards, there is a 1-turn cooldown until Tropical Heart can be gained again.\nWhen Tropical Motoha spends HP to use a skill, she will not be KO'd.=Al recibir curación, el daño aumenta en un 25% durante 2 turnos. Tras recibir curación un total de 5 veces, obtiene Corazón Tropical (la curación recibida de <link\="s|111"><u>Bendición</u></link>  cuenta una vez por turno).\nAl usar Surf y Brillo mientras Corazón Tropical está activo, consume Corazón Tropical para eliminar el tiempo de enfriamiento de Surf y Brillo. Después, hay un tiempo de enfriamiento de 1 turno antes de poder obtener Corazón Tropical de nuevo.\nCuando Motoha Tropical consume PS para usar una habilidad, no será derrotada.
+
+When <link\="s|192"><u>Summer Hype</u></link> is active, increase critical rate by 10% and critical damage by 25%.\nOn Tropical Motoha's action, increase Tropical Heart's healing counter by 1 and gain 1 <link\="s|111"><u>Blessing</u></link>.=Cuando <link\="s|192"><u>Fiebre de Verano</u></link> está activo, aumenta la probabilidad crítica en un 10% y el daño crítico en un 25%. En el turno de acción de Motoha Tropical, aumenta el contador de curación de Corazón Tropical en 1 y obtiene 1 <link\="s|111"><u>Bendición</u></link>.
+
+When Tropical Motoha recieves healing, increase critical damage by 20% for 2 turns. Stacks up to 2 times.\nDuring battle, increase her max HP by 1200.=Cuando Tropical Motoha recibe una curación, aumenta el daño crítico en un 20% durante 2 turnos. Se acumula hasta 2 veces. Durante la batalla, aumenta su PS máximo en 1200.
+
+Increase the skill levels of Summer 'Splosion and Surf 'n' Shine by 3.=Aumenta los niveles de habilidad de Explosión Veraniega y Surf y Brillo en 3.
+
+Highlight Enhanced: After using a Highlight, increase the next Surf 'n' Shine's damage by 80%.=Highlight Mejorado: Después de usar un Highlight, aumenta el daño del próximo Surf y Brillo en un 80%.
+
+Increase the skill levels of Blue Sunrise and Thief Tactics by 3.=Aumenta los niveles de habilidad de Amanecer Azul y Tácticas de Ladrón en 3.
+
+Tropical Heart will not be spent after using Surf 'n' Shine.\n<link\="s|192"><u>Summer Hype</u></link> is enhanced to Summer Blowout. When Summer Blowout is active, the bonus damage of Blue Sunrise activates 3 times. Summer 'Splosion recovers 20% more of Tropical Motoha's max HP. Increase the skill multiplier of Surf 'n' Shine by 50%.=Corazón Tropical no se consumirá tras usar Surf y Brillo.\n<link\="s|192"><u>Fiebre de Verano</u></link> se mejora a Gran Fiesta de Verano. Cuando Gran Fiesta de Verano está activo, el daño adicional de Amanecer Azul se activa 3 veces. Explosión Veraniega recupera un 20% más de los PS máximos de Motoha Tropical. Aumenta el multiplicador de habilidad de Surf y Brillo en un 50%.
+
++--Yaoling Li--+
+
+On Yaoling's action, gain 1 Memory stack for every 10 points of Speed (up to 18 stacks per turn). When Memory reaches 40 stacks, spend all stacks to gain 1 <link\="s|127"><u>Meng Po Soup</u></link> stack.\nWhen using a skill, spend 1 <link\="s|127"><u>Meng Po Soup</u></link> stack for a 50% chance to inflict <link\="s|108"><u>Forget</u></link> on 1 foe for 1 turn, and enhance effects of Flowers of Naihe and Lion Dance of Oblivion.=Al actuar Yaoling, obtiene 1 acumulación de Recuerdo por cada 10 puntos de Velocidad (hasta 18 acumulaciones por turno). Cuando Recuerdo alcanza las 40 acumulaciones, se consumen todas para obtener 1 acumulación de <link\="s|127"><u>Sopa de Meng Po</u></link>.\nAl usar una habilidad, consume 1 acumulación de <link\="s|127"><u>Sopa de Meng Po</u></link> para tener un 50% de probabilidad de infligir <link\="s|108"><u>Olvido</u></link> a 1 enemigo durante 1 turno, y potencia los efectos de Flores de Naihe y Danza del León del Olvido.
+
+At the start of battle, gain 1 <link\="s|127"><u>Meng Po Soup</u></link> stack.=Al comenzar la batalla, obtén 1 acumulación de <link\="s|127"><u>Sopa Meng Po</u></link>.
+
+Increase Attack by 10% for each debuff inflicted on foes for 2 turns. Stacks up to 5 times.=Aumenta el Ataque en un 10% por cada debuff infligido a los enemigos durante 2 turnos. Se acumula hasta 5 veces.
+
+Increase the skill levels of Lion Dance of Oblivion and Thief Tactics by 3.=Aumenta los niveles de habilidad de Danza del León del Olvido y Tácticas de Ladrón en 3.
+
+Highlight Enhanced: Increase damage taken effect by 20%. Inflict <link\="s|112"><u>Curse</u></link> on all foes for 2 turns.=Highlight Mejorado: Aumenta el efecto de daño recibido en un 20%. Al infligir <link\="s|112"><u>Maldición</u></link> a todos los enemigos durante 2 turnos.
+
+Increase the skill levels of Underworld Ferry and Flowers of Naihe by 3.=Aumenta los niveles de habilidad de Ferry del Inframundo y Flores de Naihe en 3.
+
+When spending <link\="s|127"><u>Meng Po Soup</u></link>, increase party's Curse damage by 20% for 1 turn. Also, 60% chance to gain 1 Meng Po Soup stack. This effect won't activate again on the next turn.=Al consumir Sopa de Meng Po, aumenta el daño de Maldición del equipo en un 20% durante 1 turno. Además, hay un 60% de probabilidad de obtener 1 acumulación de <link\="s|127"><u>Sopa Meng Po</u></link>. Este efecto no se activará de nuevo en el siguiente turno.
+
++--Haru Okumura--+
+
+For Haru's ranged attacks, deal Psychokinesis damage to all foes equal to 66% of Haru's Attack. When using certain skills, gain 1 corresponding Thoughtful Round stack and reload. Up to 3 stacks of Thoughtful Round with different effects can be stacked at the same time.\nFor each Thoughtful Round stack, grant unique effects to ranged attacks. When Haru uses a ranged attack, increase skill damage based on Thoughtful Round stacks (increase by 20%/40%/50% at 1/2/3 stacks, respectively). If at 2+ Thoughtful Round stacks, also increase Attack by 25%.\nAfter using a ranged attack, remove all Thoughtful Round stacks.=Para los ataques a distancia de Haru, inflige daño de Psicoquinesis a todos los enemigos equivalente al 66% del Ataque de Haru. Al usar ciertas habilidades, obtiene 1 acumulación de Proyectil Reflexivo correspondiente y recarga. Se pueden tener hasta 3 acumulaciones de Proyectil Reflexivo con diferentes efectos al mismo tiempo.\nPor cada acumulación de Proyectil Reflexivo, otorga efectos únicos a los ataques a distancia. Cuando Haru usa un ataque a distancia, aumenta el daño de habilidad según las acumulaciones de Proyectil Reflexivo (aumenta un 20%/40%/50% con 1/2/3 acumulaciones, respectivamente). Si tiene 2 o más acumulaciones de Proyectil Reflexivo, también aumenta el Ataque en un 25%.\nDespués de usar un ataque a distancia, elimina todas las acumulaciones de Proyectil Reflexivo.
+
+After a new foe appears, activate Extrasensory Aim for that foe at the start of Haru's next turn.\nBased on Haru's <link\="s|114"><u>Target Audience</u></link> stacks, increase Attack by 8% (up to 24%) and ranged attack critical rate by 6% (up to 18%).=Cuando aparezca un nuevo enemigo, activa Objetivo Extrasensorial para ese enemigo al inicio del siguiente turno de Haru. Basado en el <link\="s|114"><u>Público Objetivo</u></link> aumenta el ataque en un 8% (hasta un 24%) y el probabilidad de críticos de ataque a distancia en un 6% (hasta un 18%).
+
+When Haru has 1+ <link\="s|114"><u>Target Audience</u></link> stacks, decrease damage taken by 25%. When at 3+ Target Audience stacks, increase Psychokinesis damage by 60%.=Cuando Haru tiene 1 o más <link\="s|114"><u>Público Objetivo</u></link> disminuye el daño recibido un 25%. Con más de 3 acumulaciones de Público Objetivo, aumenta el daño de Psicoquinesis un 60%.
+
+Increase the skill levels of Mindful Release and Thief Tactics by 3.=Aumenta los niveles de habilidad de Liberación Consciente y Tácticas de Ladrón en 3.
+
+Overload Round Enhanced: When using a ranged attack, increase critical damage by 30%.=Proyectil de Sobrecarga Mejorado: Al usar un ataque a distancia, aumenta el daño crítico en un 30%.
+
+Increase the skill levels of Extrasensory Aim and Precise Volley by 3.=Aumenta los niveles de habilidad de Objetivo Extrasensorial y Volea Precisa en 3.
+
+When at 2+ Thoughtful Round stacks, evolve Haru's ranged attacks to Resonating Shots. Also, deal a ranged attack that activates all Thoughtful Round effects once. This additional attack's damage is 70% of the original attack. At 2+ Thoughtful Round stacks, activate the following effects for Thoughtful Round gained from skills.\nFocused Round: When using a ranged attack, also decrease the foe's ailment resistance by 27% for 2 turns.\nPainpoint Round: When using a ranged attack and Haru has <link\="s|114"><u>Target Audience</u></link>, increase pierce rate by 12%.\nSpillover Round: When using a ranged attack and Haru has Target Audience, increase critical rate by 20% and critical damage by 20%.=Cuando tiene 2 o más acumulaciones de Proyectil Reflexivo, evoluciona los ataques a distancia de Haru a Disparos Resonantes. Además, realiza un ataque a distancia que activa todos los efectos de Proyectil Reflexivo una vez. El daño de este ataque adicional es el 70% del ataque original. Con 2 o más acumulaciones de Proyectil Reflexivo, activa los siguientes efectos para la Proyectil Reflexivo obtenida de las habilidades.\nProyectil Enfocado: Al usar un ataque a distancia, también reduce la resistencia a estados alterados del enemigo en un 27% durante 2 turnos.\nProyectil de Punto Débil: Al usar un ataque a distancia y Haru tiene <link\="s|114"><u>Público Objetivo</u></link>, aumenta la tasa de perforación en un 12%.\nProyectil de Dispersión: Al usar un ataque a distancia y Haru tiene Público Objetivo, aumenta la probabilidad crítica en un 20% y el daño crítico en un 20%.
+
++--Ryuji Sakamoto--+
+
+Increase Attack based on missing HP. The minimum increase is 10%, and if HP is 20% or lower, Attack will increase by a maximum of 40%.\nWhen Ryuji has less than 75% HP on his action, gain Rebound for 1 turn.\nRebound: Increases the damage of Ryuji's next skill by 30%, and increases critical rate by 30%.=Aumenta el Ataque en función de los PS perdidos. El aumento mínimo es del 10% y, si los PS son del 20% o inferiores, el Ataque aumentará hasta un máximo del 40%.\nCuando Ryuji tiene menos del 75% de sus PS en su acción, obtiene Rebote durante 1 turno.\nRebote: Aumenta el daño de la siguiente habilidad de Ryuji en un 30% y aumenta la probabilidad crítica en un 30%.
+
+Increase damage of God Hand Burst by 20%. When in the Changing Gears state, decrease damage taken by 20%.=Aumenta el daño de Explosión de Mano Divina en un 20%. Cuando estés en el estado Cambio de Marcha, reduce el daño recibido en un 20%.
+
+When dealing critical damage with a skill, ignore 35% of target's Defense.=Al infligir daño crítico con una habilidad, ignora el 35% de la Defensa del objetivo.
+
+Increase the skill levels of God Hand Burst and Thief Tactics by 3.=Aumenta los niveles de habilidad de Explosión de Mano Divina y Tácticas de Ladrón en 3.
+
+Highlight Enhanced: Increase the next skill's damage by 30%, and increase critical damage by 75%.=Highlight Mejorado: Aumenta el daño de la siguiente habilidad un 30% y aumenta el daño crítico un 75%.
+
+Increase the skill levels of Pirate Tactics and Thunderbolt by 3.=Aumenta los niveles de habilidad de Tácticas Piratas y Rayo en 3.
+
+During battle, survive fatal damage 1 time and recover 25% of HP.\nAfter damaging a foe with God Hand Burst, inflict Cower on the target.\nCower: Increase next skill damage taken from Ryuji by 60%.=Durante la batalla, sobrevive al daño letal 1 vez y recupera el 25% de los PS.\nDespués de infligir daño a un enemigo con Explosión de Mano Divina, inflige Intimidación al objetivo.\nIntimidación: aumenta el daño de la siguiente habilidad recibida de Ryuji en un 60%.
+
++--Tomoko Veraniega--+
+
+Seaside Tomoko can inflict <link\="s|193"><u>Sparks</u></link> on foes. After an ally acts, if foes have 3 Sparks stacks, activate Seaside Tomoko's <link\="s|100"><u>Resonance</u></link>: For every 3 Sparks stacks on all foes, deal Psy damage to all foes equal to 19% of Attack, and decrease the target's damage by 30% for 1 turn. Restore the party's HP by 9% of Seaside Tomoko's Attack + 300/600/900 (based on if she is at {{A}}. 1/50/70+, respectively). This can activate up to 5 damage and healing effects, based on how many Sparks stacks are spent within the same Resonance (this Resonance damage does not inflict more Sparks effects).\nChange Resonance damage based on the number of foes present, equal to 150%/120%/100% of the original damage if there are 1/2/3+ foes present, respectively.\nDamage from this Resonance cannot deal Down Point damage. When a foe is defeated, pass its Sparks stacks onto other random foes.=Tomoko Veraniega puede infligir <link\="s|193"><u>Chispas</u></link> a los enemigos. Después de que un aliado actúe, si los enemigos tienen 3 acumulaciones de Chispas, activa la <link\="s|100"><u>Resonancia</u></link> de Tomoko Veraniega: por cada 3 acumulaciones de Chispas en todos los enemigos, inflige daño Psíquico a todos los enemigos equivalente al 19% del Ataque y reduce el daño del objetivo en un 30% durante 1 turno. Restaura los PS del equipo en un 9% del Ataque de Tomoko Veraniega + 300/600/900 (según si está en el Lv. 1/50/70+, respectivamente). Esto puede activar hasta 5 efectos de daño y curación, según cuántas acumulaciones de Chispas se consuman dentro de la misma Resonancia (este daño de Resonancia no inflige más efectos de Chispas).\nEl daño de Resonancia cambia según el número de enemigos presentes, siendo igual al 150%/120%/100% del daño original si hay 1/2/3+ enemigos presentes, respectivamente.\nEl daño de esta Resonancia no puede infligir daño de Derribo. Cuando un enemigo es derrotado, transfiere sus acumulaciones de Chispas a otros enemigos al azar.
+
+Each time a foe receives a <link\="s|194"><u>Summer Reminiscence</u></link> effect, decrease the foe's Defense by 15% for 3 turns. Stacks up to 3 times.\nHale Summer Days healing effects apply to all allies.=Cada vez que un enemigo recibe un efecto de <link\="s|194"><u>Recuerdos del Verano</u></link>, reduce la Defensa del enemigo en un 15% durante 3 turnos. Se acumula hasta 3 veces.\nLos efectos de curación de Días de Verano en Hale se aplican a todos los aliados.
+
+Every 2 times a <link\="s|194"><u>Summer Reminiscence</u></link> effect is activated, inflict 1 <link\="s|193"><u>Sparks</u></link> stack on 1 random foe.\nEach time Sparks is inflicted on a foe, permanently increase party's Attack by 2%. Stacks up to 15 times.=Cada 2 veces que se activa un efecto de <link\="s|194"><u>Recuerdos del Verano</u></link>, inflige 1 acumulación de <link\="s|193"><u>Chispas</u></link>  a 1 enemigo al azar. Cada vez que se inflige Chispas a un enemigo, aumenta permanentemente el Ataque del equipo en un 2%. Se acumula hasta 15 veces.
+
+Increase the skill levels of Have a Cold Drink and Hale Summer Days by 3.=Aumenta los niveles de habilidad de Tome una Bebida Fría y Días de Verano en Hale en 3.
+
+
+Highlight Enhanced: Deal bonus damage (2 hits) and inflict 1 <link\="s|193"><u>Sparks</u></link> stack per hit.=Highlight Mejorado: Inflige daño adicional (2 golpes) e inflige 1 acumulación de <link\="s|193"><u>Chispas</u></link> por cada golpe.
+
+Increase the skill levels of Sparkling Memories and Thief Tactics by 3.=Aumenta los niveles de habilidad de Recuerdos Chispeantes y Tácticas de Ladrón en 3.
+
+<link\="s|194"><u>Summer Reminiscence</u></link> gains the following effects.\nWhen dealing damage with Summer Reminiscence, increase critical rate by 35%. Each time a foe takes a Summer Reminiscence effect, permanently increase damage taken by 5%. This effect stacks up to 3 times. At the maximum stack, increase critical damage taken by 20% more.=<link\="s|194"><u>Recuerdos del Verano</u></link> obtiene los siguientes efectos.\nAl infligir daño con Recuerdos del Verano, aumenta la probabilidad de crítico en un 35%. Cada vez que un enemigo recibe un efecto de Recuerdos del Verano, aumenta permanentemente el daño recibido en un 5%. Este efecto se acumula hasta 3 veces. Con el máximo de acumulaciones, aumenta el daño crítico recibido en un 20% adicional.
+
++--Futaba Sakura (Oracle)--+
+
+After an ally uses a skill, Futaba gains 5% to her Analysis Progress. Also when an ally deals weakness damage with a skill, Resonance, Highlight, or Theurgy, Futaba gains 20% more to her Analysis Progress.\nWhen Data Storm is active, increase the party's damage by 10%/15%/20% based on Futaba's level (effect changes at Lv. 1/50/70, respectively); if dealing weakness damage, double this damage increase.=Después de que un aliado use una habilidad, Futaba obtiene un 5% de Progreso de análisis. Además, cuando un aliado inflige daño de debilidad con una habilidad, Resonancia, Destacado o Teúrgia, Futaba obtiene un 20% más de Progreso de análisis.\nCuando Tormenta de datos está activa, aumenta el daño del equipo en un 10%/15%/20% según el nivel de Futaba (el efecto cambia al Nv. 1/50/70, respectivamente); si se inflige daño de debilidad, se duplica este aumento de daño.
+
+When Futaba's Analysis Progress reaches 100% or when Data Storm is active, increase allies' critical rate by 12%.=Cuando el Progreso de análisis de Futaba alcanza el 100% o cuando Tormenta de datos está activa, aumenta el probabilidad de críticos de los aliados un 12%.
+
+When an ally attacks a foe that has been debuffed by Futaba, increase Attack by 25%.\nAlso, if any ally takes damage that would KO them, survive the attack with 1 HP and grant a shield to all allies for 3 turns equal to 20% of Futaba's Attack. This effect activates once per battle.=Cuando un aliado ataca a un enemigo que ha sido debilitado por Futaba, aumenta el Ataque en un 25%.\nAdemás, si algún aliado recibe un daño que lo derrotaría, sobrevivirá al ataque con 1 PS y otorgará un escudo a todos los aliados durante 3 turnos equivalente al 20% del Ataque de Futaba. Este efecto se activa una vez por batalla.
+
+Increase the skill levels of Data Link Established! and Vulnerability Found! by 3.=Aumenta los niveles de habilidad de ¡Enlace de Datos Establecido! y ¡Vulnerabilidad Encontrada! en 3.
+
+When an ally uses a Highlight or Theurgy, Futaba gains 1 Security Flaw stack. Stacks up to 2 times.\nWhen Futaba uses Pentest Complete! or Vulnerability Found!, spend all Security Flaw stacks to increase the effect by 8% for each stack.=Cuando un aliado usa un Highlight o Teúrgia, Futaba obtiene 1 acumulación de Falla de Seguridad. Se acumula hasta 2 veces.\nCuando Futaba usa ¡Prueba Completado! o ¡Vulnerabilidad Encontrada!, consume todas las acumulaciones de Falla de Seguridad para aumentar el efecto en un 8% por cada acumulación.
+
+Increase the skill level of Pentest Complete! by 3.=Aumenta el nivel de habilidad de ¡Prueba Completado! en 3.
+
+When Futaba uses Data Link Established!, target all allies, and also inflict Virus on all foes corresponding to an ally's attribute (Viruses of the same attribute do not stack).\nIncrease the duration of Data Storm to 3 turns, and increase allies' weakness damage by 10%, and damage dealt by 25%.=Cuando Futaba usa ¡Enlace de Datos Establecido!, afecta a todos los aliados y también inflige Virus a todos los enemigos según el atributo de un aliado (los Virus del mismo atributo no se acumulan).\nAumenta la duración de Tormenta de datos a 3 turnos, aumenta el daño de debilidad de los aliados en un 10% y el daño infligido en un 25%.
+
++--Mayumi Hashimoto--+
+
+At the start of battle, Mayumi gains 90 Velocity stacks. At the end of each action by an ally, gain 4 Velocity stacks (if Mayumi's Speed is over 100, gain 1 more Velocity stack for every 10 points of Speed over 100; up to 6 stacks).\nAt the start of Mayumi's turn, if Velocity is over 120 stacks, can spend Velocity to gain an extra action at the end of her current action (cooldown: 1 turn). When total Velocity stacks gained during battle reach 100/220/350 stacks, activate level 1/2/3 of Torque Boost.\nTorque Boost: Increase party's pierce rate by 5%/10%/15%.=Al comienzo de la batalla, Mayumi obtiene 90 acumulaciones de Velocidad. Al final de cada acción de un aliado, obtiene 4 acumulaciones de Velocidad (si la Velocidad de Mayumi es superior a 100, obtiene 1 acumulación de Velocidad más por cada 10 puntos de Velocidad por encima de 100; hasta un máximo de 6 acumulaciones).\nAl comienzo del turno de Mayumi, si Velocidad supera las 120 acumulaciones, puede consumir Velocidad para obtener una acción adicional al final de su acción actual (tiempo de recarga: 1 turno). Cuando el total de acumulaciones de Velocidad obtenidas durante la batalla alcance las 100/220/350 acumulaciones, activa el nivel 1/2/3 de Impulso de Torque.\nImpulso de Torque: aumenta la tasa de perforación del equipo en un 5%/10%/15%.
+
+At the end of each action by an ally, gain 10 more Velocity stacks.\nOn an extra action, when using a skill different from the one used immediately before, activate the following additional effects.\nShockwave: When activating a skill, increase critical damage by 50%.\nAero Setup: Increase shield by 30%. Also, increase party's Defense by 30% more.\nPoder Setup: Increase main target's pierce rate by 10% more.=Al final de cada acción de un aliado, obtiene 10 acumulaciones de Velocidad más.\nEn una acción adicional, al usar una habilidad diferente a la utilizada inmediatamente antes, activa los siguientes efectos adicionales.\nOnda de Choque: al activar una habilidad, aumenta el daño crítico en un 50%. Ajuste Aerodinámico: aumenta el escudo en un 30%. Además, aumenta la Defensa del equipo en un 30% más.\nAjuste de Potencia: aumenta la tasa de perforación del objetivo principal en un 10% más.
+
+When activating Torque Boost, activate the following additional effects.\nLevel 1: Increase party's critical damage by 20%.\nLevel 2: Increase party's damage by 20%.\nLevel 3: Increase party's Attack by 30%.=Al activar Impulso de Torque, activa los siguientes efectos adicionales.\nNivel 1: aumenta el daño crítico del equipo en un 20%.\nNivel 2: aumenta el daño del equipo en un 20%.\nNivel 3: aumenta el Ataque del equipo en un 30%.
+
+Increase the skill levels of Poder Setup and Thief Tactics by 3.=Aumenta los niveles de habilidad de Ajuste de Potencia y Tácticas de Ladrón en 3.
+
+Highlight Enhanced: Increase party's damage by 10% more. Also, extend the duration of the Highlight's buffs by 1 turn.=Highlight Mejorado: Aumenta el daño del grupo en un 10% adicional. Además, extiende la duración de los buffs de Highlight en 1 turno.
+
+Increase the skill levels of Shockwave and Aero Setup by 3.=Aumenta los niveles de habilidad de Onda de Choque y Ajuste Aerodinámico en 3.
+
+The amount of Velocity stacks gained at the start of battle becomes 120. On Mayumi's extra action, spend 40 or 80 Velocity stacks, and activate the following additional effects the next time a skill is activated.\n40 Velocity spent\nShockwave: When activating a skill, increase Mayumi's critical rate by 20%. If the target is knocked down, increase party's Attack by 25% for 2 turns.\nAero Setup: Increase shield by 20%. Also, extend the shield duration by 1 turn.\nPoder Setup: When used on an extra turn, change buff target from main target to all allies.\n80 Velocity spent\nShockwave: Increase party's damage dealt to downed foes by 15% for 1 turn.\nAero Setup: Decrease party's damage taken by 20% for 1 turn.\nPoder Setup: Increase party's damage dealt by 25% for 1 turn.=La cantidad de acumulaciones de Velocidad obtenidas al comienzo de la batalla pasa a ser 120. En la acción adicional de Mayumi, consume 40 u 80 acumulaciones de Velocidad y activa los siguientes efectos adicionales la próxima vez que se active una habilidad.\nCon 40 de Velocidad consumida,\nOnda de Choque: al activar una habilidad, aumenta la probabilidad crítica de Mayumi en un 20%. Si el objetivo es derribado, aumenta el Ataque del equipo en un 25% durante 2 turnos.\nAjuste Aerodinámico: aumenta el escudo en un 20%. Además, extiende la duración del escudo en 1 turno.\nAjuste de Potencia: cuando se usa en un turno adicional, cambia el objetivo de la mejora del objetivo principal a todos los aliados.\nCon 80 de Velocidad consumida,\nOnda de Choque: aumenta el daño infligido por el equipo a los enemigos derribados en un 15% durante 1 turno.\nAjuste Aerodinámico: disminuye el daño recibido por el equipo en un 20% durante 1 turno.\nAjuste de Potencia: aumenta el daño infligido por el equipo en un 25% durante 1 turno.
+
++--Leo Kamiya--+
+
+Grant 1 <link\="s|128"><u>Poder of Friendship</u></link> stack to allies when their HP falls 75% or less. This can stack up to 2 times.\nWhen allies have Poder of Friendship, increase Attack by 6% of Kamiyama's Attack (up to 120/180/240, increasing at Lv. 1/50/70) for 1 turn.=Otorga 1 acumulación de <link\="s|128"><u>Poder de la amistad</u></link> a los aliados cuando sus PS bajen al 75% o menos. Esto se puede acumular hasta 2 veces.\nCuando los aliados tienen Poder de la amistad, aumenta el Ataque en un 6% del Ataque de Kamiyama (hasta 120/180/240, aumentando a Nv. 1/50/70) durante 1 turno.
+
+Increase allies' Defense by 10% when they have <link\="s|128"><u>Power of Friendship</u></link>.=Aumenta la defensa de los aliados en un 10% cuando tienen <link\="s|128"><u>Poder de la amistad</u></link>.
+
+After using skills on allies, increase own Attack by 25%.=Después de usar habilidades en aliados, aumenta su propio Ataque en un 25%.
+
+Increase the skill levels of Atomic Smash and Justice Barrier by 2.=Aumenta los niveles de habilidad de Golpe Atómico y Barrera de la Justicia en 2.
+
+Highlight Enhanced: Increase target's critical damage by 25% for 2 turns.=Highlight Mejorado: Aumenta el daño crítico del objetivo un 25% durante 2 turnos.
+
+Increase the skill levels of Ultima Booster and Thief Tactics by 2.=Aumenta los niveles de habilidad de Potenciador Última y Tácticas de Ladrón en 2.
+
+When using a skill on an ally with HP below 60%, increase critical damage by 25% for 1 turn.=Al usar una habilidad sobre un aliado con menos del 60% de PS, aumenta el daño crítico un 25% durante 1 turno.
+
++--Riko Tanemura (Wind)--+
+
+Every 3 ally actions, inflict <link\="s|188"><u>Insight</u></link> on the foe with the most Down Points. When attacking a foe with Insight, spend its Insight stacks to grant Riko Intel.\nInsight: Increase next damage taken by 6%. When attacking, Riko gains 2 <link\="s|187"><u>Intel</u></link> stacks. When dealing weakness or normal affinity damage, decrease Down Points by 1. When decreasing Down Points, gain 1 more Intel stack. Intel stacks up to 8 times.=Cada 3 acciones de aliados, inflige <link\="s|188"><u>Intuición</u></link> al enemigo con más Puntos de Derribo. Al atacar a un enemigo con Intuición, gasta sus Acumulaciones de Intuición para otorgar Información a Riko.\nIntuición: aumenta el próximo daño recibido en un 6%. Al atacar, Riko obtiene 2 acumulaciones de <link\="s|187"><u>Información</u></link>. Al infligir daño de afinidad normal o de debilidad, disminuye los Puntos de Derribo en 1. Al disminuir los Puntos de Derribo, obtiene 1 acumulación más de Información. Información se acumula hasta 8 veces.
+
+At the start of battle, inflict <link\="s|188"><u>Insight</u></link> on the foe with the most Down Points.=Al comienzo de la batalla, inflige <link\="s|188"><u>Intuición</u></link> al enemigo con más puntos de derribo.
+
+After using Verngale Petals, inflict <link\="s|188"><u>Insight</u></link> on the foe with the most Down Points.=Tras usar Pétalos de Verngale, inflige <link\="s|188"><u>Intuición</u></link> al enemigo con más puntos de derribo.
+
+Increase the skill levels of Scattered Plum Blossoms and Dreams in the Mist by 2.=Aumenta los niveles de habilidad de Flores de Ciruelo Dispersas y Sueños en la Niebla en 2.
+
+When an ally uses a Highlight, inflict <link\="s|188"><u>Insight</u></link> on the foe with the most Down Points.=Cuando un aliado use un Highlight, inflige <link\="s|188"><u>Intuición</u></link> al enemigo con más puntos de derribo.
+
+Increase the skill level of Verngale Petals by 2.=Aumenta el nivel de habilidad de Pétalos de Verngale en 2.
+
+If Riko's Speed is 100 or more, when using Verngale Petals, decrease cooldown time for every 15 points of Speed over 100, up to 4 actions.=Si la Velocidad de Riko es 100 o más, al usar Pétalos de Verngale, disminuye el tiempo de reutilización por cada 15 puntos de Velocidad por encima de 100, hasta 4 acciones.
+
++--Chizuko Nagao (Vino)--+
+
+Inflict <link\="s|179"><u>Radiation</u></link> on foes with elemental ailments for 2 turns.\nRadiation: Increase damage taken by 15%. Radiation counts as an elemental ailment.=Inflige <link\="s|179"><u>Radiación</u></link> a los enemigos con dolencias elementales durante 2 turnos. Radiación: aumenta el daño recibido en un 15%. La radiación cuenta como una dolencia elemental.
+
+When foes with <link\="s|179"><u>Radiation</u></link> are also inflicted with Burn, Shock, Freeze, or Windswept, increase corresponding Fire, Electric, Ice, or Wind damage taken by 15%.=Cuando a los enemigos afectados <link\="s|179"><u>Radiación</u></link> se les inflige además Quemadura, Electrocución, Congelación o Azotado por el viento, aumenta el daño recibido de Fuego, Electricidad, Hielo o Viento correspondiente en un 15%.
+
+When an ally inflicts an elemental ailment, increase Chizuko's ailment accuracy by 10% for 2 turns. Stacks up to 3 times.=Cuando un aliado inflige una dolencia elemental, aumenta la precisión de dolencias de Chizuko un 10% durante 2 turnos. Se acumula hasta 3 veces.
+
+Increase the skill levels of Diving Ray and Blunt Edge by 2.=Aumenta los niveles de habilidad de Rayo de inmersión y Filo Contundente en 2.
+
+Highlight Enhanced: Increase foes' Nuclear damage taken by 35.2% for 2 turns.=Highlight Mejorado: Aumenta el daño Nuclear recibido por los enemigos en un 35.2% durante 2 turnos.
+
+Increase the skill levels of Bullseye Bomber and Thief Tactics by 2.=Aumenta los niveles de habilidad de Bombardero Certero y Tácticas de Ladrón en 2.
+
+When an ally attacks a foe with <link\="s|179"><u>Radiation</u></link>, activate the following effects based on the number of unique elemental ailments on the foe. (Effects will stack.)\n1 or more: Increase Attack by 10%.\n2 or more: Increase Nuclear damage by 10%.\n3 or more: Increase pierce rate by 8%.=Cuando un aliado ataca a un enemigo con <link\="s|179"><u>Radiación</u></link>, activa los siguientes efectos según la cantidad de dolencias elementales únicos que tenga el enemigo. (Los efectos se acumulan).\n1 o más: aumenta el Ataque en un 10%.\n2 o más: aumenta el daño de Cosmos en un 10%.\n3 o más: aumenta la tasa de perforación en un 8%.
+
++--Seiji Shiratori (Fleuret)--+
+
+Each time Seiji deals damage with a skill, 40% chance to gain 1 <link\="s|118"><u>Right to Strike</u></link> stack for 2 turns.\nStacks up to 3 times.\nIncrease Attack by 7% and Speed by 4 for 2 turns, based on the number of Right to Strike stacks. Right to Strike's duration is managed individually for each stack.=Cada vez que Seiji inflige daño con una habilidad, tiene un 40% de probabilidad de obtener 1 acumulación de <link\="s|118"><u>Derecho a Atacar</u></link> durante 2 turnos.\nSe acumula hasta 3 veces.\nAumenta el Ataque en un 7% y la Velocidad en 4 durante 2 turnos, según la cantidad de acumulaciones de Derecho a atacar. La duración de Derecho a atacar se gestiona de forma individual para cada acumulación.
+
+Increase maximum <link\="s|118"><u>Right to Strike</u></link> stacks to 5. Increase critical rate by 4% per Right to Strike stack.=Aumenta las acumulaciones máximas de <link\="s|118"><u>Derecho a Atacar</u></link> a 5. Aumenta la probabilidad de crítico en un 4% por cada acumulación de Derecho a atacar.
+
+When attacked, 12% chance to evade.=Al ser atacado, tiene un 12% de probabilidad de evadir.
+
+Increase the skill levels of Blustering Épée and Graceful Gale by 2.=Aumenta los niveles de habilidad de Épée Tempestuosa y Ráfaga Gale en 2.
+
+Highlight Enhanced: When Seiji has 3 or more <link\="s|118"><u>Right to Strike</u></link> stacks, increase hits by 1, and inflict <link\="s|105"><u>Windswept</u></link> on the target.=Highlight Mejorado: cuando Seiji tiene 3 o más acumulaciones de <link\="s|118"><u>Derecho a Atacar</u></link>, aumenta los golpes en 1 e inflige <link\="s|105"><u>Azotado por el Viento</u></link> al objetivo.
+
+Increase the skill levels of Saber Surge and Thief Tactics by 2.=Aumenta los niveles de habilidad de Oleada de Sable y Táticas de Ladrón en 2.
+
+Increase chance to gain <link\="s|118"><u>Right to Strike</u></link> by 20%.\nWhen Seiji has 5 Right to Strike stacks, Blustering Épée, Graceful Gale, and Saber Surge deal 1 more hit.=Aumenta la probabilidad de obtener <link\="s|118"><u>Derecho a Atacar</u></link> en un 20%. Cuando Seiji tiene 5 acumulaciones de Derecho a Atacar, Épée Tempestuosa, Ráfaga Gale y Oleada de Sable infligen 1 golpe más.
+
++--Shun Kano (Soy)--+
+
+Increase chance of being targeted by attacks, and when attacked, activate <link\="s|151"><u>Desperado</u></link>.\nAt the end of Shun's turn, Desperado ends, and he restores 30% HP.=Aumenta la probabilidad de ser el blanco de los ataques y, al ser atacado, activa <link\="s|151"><u>Forajido</u></link>.\nAl final del turno de Shun, Forajido termina y él restaura un 30% de PS.
+
+When <link\="s|151"><u>Desperado</u></link> is active, decrease damage taken by 8%.=Cuando <link\="s|151"><u>Forajido</u></link> está activo, reduce el daño recibido en un 8%.
+
+When remaining HP is below 50%, increase healing effect by 25%.=Cuando el PS restante esté por debajo del 50%, aumenta el efecto de curación en un 25%.
+
+Increase the skill levels of Icicle Hatchet and Smash Hit by 2.=Aumenta los niveles de habilidad de Hachuela de hielo y Golpe Certero en 2.
+
+Highlight Enhanced: Decrease party's damage taken by 16% for 2 turns.=Highlight Mejorado: Reduce el daño recibido del grupo en un 16% durante 2 turnos.
+
+Increase the skill levels of Icy Defense and Thief Tactics by 2.=Aumenta los niveles de Defensa Helada y Táticas de Ladrón en 2.
+
+When attacking a foe while <link\="s|151"><u>Desperado</u></link> is active, deal bonus damage equal to 10% of Shun's max HP, and restore HP equal to damage dealt.=Al atacar a un enemigo mientras <link\="s|151"><u>Forajido</u></link> está activo, inflige daño adicional igual al 10% del PS máximo de Shun y restaura PS según el daño infligido.
+
++--Kuyoshi Kuratani (Key)--+
+
+When using a skill, gain 1 Chosen One stack.\nChosen One: Increase the party's Fire damage by 5%. When Kurotani uses a skill, deal damage to Kurotani equal to 4% of his current HP. Lasts 2 turns and stacks up to 5 times.\nThe duration of Chosen One is handled individually for each stack.\nWhile active, change Kurotani's ranged attacks to Fire.=Al usar una habilidad, obtiene 1 acumulación de Elegido.\nElegido: aumenta el daño de Fuego del equipo en un 5%. Cuando Kurotani usa una habilidad, se inflige daño a sí mismo equivalente al 4% de sus PS actuales. Dura 2 turnos y se acumula hasta 5 veces.\nLa duración de Elegido se gestiona de forma individual para cada acumulación.\nMientras esté activo, cambia los ataques a distancia de Kurotani a Fuego.
+
+On Kurotani's action, for each stack of <link\="s|135"><u>Chosen One</u></link>, 12% chance to inflict <link\="s|102"><u>Burn</u></link> on 1 random foe.=En la acción de Kurotani, por cada acumulación de <link\="s|135"><u>Elegido</u></link>, tiene un 12% de probabilidad de infligir <link\="s|102"><u>Quemadura</u></link> a 1 enemigo al azar.
+
+On Kurotani's action, for each <link\="s|102"><u>Burning</u></link> foe, increase Kurotani's damage by 8% for 1 turn. Counts up to 3 foes.=En la acción de Kurotani, por cada enemigo <link\="s|102"><u>Quemado</u></link>, aumenta el daño de Kurotani en un 8% durante 1 turno. Cuenta hasta un máximo de 3 enemigos.
+
+Increase the skill levels of Ring of Fire and Cleansing Flame by 2.=Aumenta los niveles de habilidad de Anillo de Fuego y Llama Purificadora en 2.
+
+Highlight Enhanced: Increase all foes' Fire damage taken by 30.8%.=Highlight Mejorado: Aumenta el daño de Fuego recibido por todos los enemigos en un 30.8%.
+
+Increase the skill levels of Crimson Summon and Thief Tactics by 2.=Aumenta los niveles de habilidad de Invocación Carmesí y Tácticas de Ladrón en 2.
+
+Increase the party's Fire damage by 30% for every 10 <link\="s|135"><u>Chosen One</u></link> stacks gained for 2 turns.=Aumenta el daño de Fuego del equipo en un 30% por cada 10 acumulaciones de <link\="s|135"><u>Elegido</u></link> obtenidas durante 2 turnos.
+
++--Kayo Tomiyama (Okyann)--+
+
+When using a skill, gain Beat stacks. When Beat stacks reach 4 or more, activate a <link\="s|100"><u>Resonance</u></link>, spending 4 Beat stacks to grant 1 Pulsating Rhythm stack to all allies. When allies have Pulsating Rhythm, increase Attack by 10%/15%/20%, Defense by 10%/15%/20% and ailment accuracy by 5%/7.5%/10% based on Tomiyama's level (effect increases at level 1/50/70). Lasts for 2 turns. Stacks up to 3 times, and effects increase based on number of stacks.=Al usar una habilidad, obtiene acumulaciones de Ritmo. Cuando las acumulaciones de Ritmo llegan a 4 o más, activa una <link\="s|100"><u>Resonancia</u></link>, consumiendo 4 acumulaciones de Ritmo para otorgar 1 acumulación de Ritmo palpitante a todos los aliados. Cuando los aliados tienen Ritmo palpitante, aumenta el Ataque en un 10%/15%/20%, la Defensa en un 10%/15%/20% y la precisión de dolencias en un 5%/7.5%/10% según el nivel de Tomiyama (el efecto aumenta al nivel 1/50/70). Dura 2 turnos. Se acumula hasta 3 veces y los efectos aumentan según el número de acumulaciones.
+
+At the start of battle, gain 2 <link\="s|141"><u>Beat</u></link> stacks, and increase party's ailment accuracy by 35% for 1 turn.=Al comienzo de la batalla, obtiene 2 acumulaciones de <link\="s|141"><u>Ritmo</u></link> y aumenta la precisión de dolencias del equipo en un 35% durante 1 turno.
+
+After granting <link\="s|142"><u>Pulsating Rhythm</u></link>, 20% chance to gain 1 <link\="s|141"><u>Beat</u></link> stack.=Tras otorgar <link\="s|142"><u>Ritmo Pulsante</u></link>, tiene un 20% de probabilidad de obtener 1 acumulación de <link\="s|141"><u>Ritmo</u></link>.
+
+Increase the skill levels of Club Okyann and Intermission by 2.=Aumenta los niveles de habilidad de Club Okyann e Intermedio en 2.
+
+When an ally uses a Highlight or Theurgy, 67% chance to gain 1 <link\="s|141"><u>Beat</u></link> stack.=Cuando un aliado usa un Highlight o Teúrgia, tiene un 67% de probabilidad de obtener 1 acumulación de <link\="s|141"><u>Ritmo</u></link>.
+
+Increase the skill level of Retro Dance Number by 2.=Aumenta el nivel de habilidad de Número de Baile Retro en 2.
+
+After activating <link\="s|142"><u>Pulsating Rhythm</u></link>, 25% chance to activate Encore, granting 1 additional Pulsating Rhythm.\nEncore will not activate consecutively.=Tras activar <link\="s|142"><u>Ritmo pulsante</u></link>, tiene un 25% de probabilidad de activar Bucle, lo que otorga 1 Ritmo palpitante adicional.\nBucle no se activará de forma consecutiva.
+
++--Toshiya Sumi (Sepia)--+
+
+r:"(?s)Each time an ally deals damage, gain (\d+) <link\=(.+)><u>Verse</u></link> stack\..*?equal to ([\d%]+)/([\d%]+)/([\d%]+) of Attack.*?Verse of Hate.*?"="Cada vez que un aliado inflige daño, obtiene $1 acumulación de <link\=$2><u>Versículo</u></link>.\nCon 14 o más acumulaciones de Versículo, activa una <link\="s|100"><u>Resonancia</u></link> y consume 14 acumulaciones de Versículo para infligir daño de Maldición adicional al último enemigo al que atacó Sumi, equivalente al 65%/98%/130% del Ataque (el efecto cambia al Nv. 1/50/70, respectivamente).\n*Versículo de odio, Versículo de curación y Versículo de pasión también cuentan como acumulaciones de Versículo."
+
+After using a skill, increase damage of the next <link\="s|154"><u>Sonnet of Fate</u></link> by 40%.=Después de usar una habilidad, aumenta el daño del siguiente <link\="s|154"><u>Soneto del Destino</u></link> en un 40%.
+
+Increase Attack of <link\="s|154"><u>Sonnet of Fate</u></link> by 50%, and inflict <link\="s|112"><u>Curse</u></link> on foes hit.=Aumenta el ataque de <link\="s|154"><u>Soneto del Destino</u></link> en un 50% e inflige <link\="s|112"><u>Maldición</u></link> a los enemigos golpeados.
+
+Increase the skill levels of Unexpected Tragedy and Absurd Comedy by 2.=Aumenta los niveles de habilidad de Tragedia Inesperada y Comedia Absurda en 2.
+
+Highlight Enhanced: Increase damage of <link\="s|154"><u>Sonnet of Fate</u></link> the next 4 times.=Highlight Mejorado: Aumenta el daño de <link\="s|154"><u>Soneto del Destino</u></link> las próximas 4 veces.
+
+Increase the skill levels of Tragicomedy of Love and Thief Tactics by 2.=Aumenta los niveles de habilidad de Tragicomedia de Amor y Tácticas de Ladrón en 2.
+
+After using a skill, the <link\="s|160"><u>Verse of Hate</u></link>, <link\="s|161"><u>Verse of Healing</u></link>, or <link\="s|162"><u>Verse of Passion</u></link> gained activates 3 more times next turn.\nIf 2 or more different types of Verses are stacked, increase <link\="s|154"><u>Sonnet of Fate</u></link> damage by 67%.=Después de usar una habilidad, el <link\="s|160"><u>Verso de Odio</u></link>, <link\="s|161"><u>Verso de Curación</u></link> o <link\="s|162"><u>Verso de Pasión</u></link> obtenido se activará 3 veces más en el próximo turno.\nSi se acumulan 2 o más tipos diferentes de versos, el daño de <link\="s|154"><u>Soneto del Destino</u></link> aumenta en un 67%.
+
++--Morgana--+
+
+When using a different skill than the previous skill, gain 1 Chivalry stack. This can stack up to 3 times.\nWhen an ally with less than 70% HP remaining attacks with a skill, Highlight, or Theurgy, activate a <link\="s|100"><u>Resonance</u></link>, spending 1 Chivalry stack to heal the party by 10% of Morgana's Attack + 150/225/300 (effect changes at Lv. 1/50/70, respectively).=Al usar una habilidad diferente a la habilidad anterior, obtiene 1 acumulación de Caballería. Esto se puede acumular hasta 3 veces.\nCuando un aliado con menos del 70% de HP restante ataca con una habilidad, Highlight o Teúrgia, activa una <link\="s|100"><u>Resonancia</u></link>, consumiendo 1 acumulación de Caballería para curar al equipo un 10% del Ataque de Morgana + 150/225/300 (el efecto cambia al Nv. 1/50/70, respectivamente).
+
+Add the following effect to <link\="s|150"><u>Chivalry</u></link>: Restore HP of allies with less than 50% HP remaining by 30% of Morgana's Attack.=Agrega el siguiente efecto a <link\="s|150"><u>Caballería</u></link> restaura los PS de los aliados que tengan menos del 50% de PS en un 30% del Ataque de Morgana.
+
+When using Healing Breeze, increase HP recovery for main target by 33%.=Al usar Brisa Curativa, aumenta la recuperación de PS del objetivo principal en un 33%.
+
+Increase the skill levels of Healing Breeze and Thief Tactics by 3.=Aumenta los niveles de habilidad de Brisa Curativa y Tácticas de Ladrón en 3.
+
+Highlight Enhanced: When KO'd allies are revived, restore bonus HP equal to 60% of Morgana's Attack + 800.=Highlight Mejorado: cuando los aliados debilitados sean revividos, restauran PS adicionales equivalentes al 60% del Ataque de Morgana + 800.
+
+Increase the skill levels of Missile Whirlwind and Gentle Fist by 3.=Aumenta los niveles de habilidad de Torbellino de Misiles y Puño Suave en 3.
+
+Remove Gentle Fist's decreased accuracy effect. Increase target's damage taken by 15% for 2 turns.=Elimina el efecto de precisión reducida de Puño Suave. Aumenta el daño recibido del objetivo en un 15% durante 2 turnos.
+
++--Haruna Nishimori (Riddle)--+
+
+When using a skill, spend all <link\="s|164"><u>Childish Heart</u></link> stacks to increase party's Attack by 8% for each <link\="s|164"><u>Childish Heart</u></link> stack spent for 2 turns. <link\="s|164"><u>Childish Heart</u></link> stacks up to 5 times.\n When Haruna gains <link\="s|164"><u>Childish Heart</u></link> stacks, gain the same number of Mystery stacks. Mystery stacks are lost when Haruna uses a Highlight or after 2 turns, and stack up to 5 times.=Al usar una habilidad, consume todas las acumulaciones de <link\="s|164"><u>Corazón Infantil</u></link> para aumentar el Ataque del equipo en un 8% por cada acumulación de <link\="s|164"><u>Corazón Infantil</u></link> consumida durante 2 turnos. <link\="s|164"><u>Corazón Infantil</u></link> se acumula hasta 5 veces.\nCuando Haruna obtiene acumulaciones de <link\="s|164"><u>Corazón Infantil</u></link>, gana la misma cantidad de acumulaciones de Misterio. Las acumulaciones de Misterio se pierden cuando Haruna usa un Destacado o después de 2 turnos, y se acumulan hasta 5 veces.
+
+When an ally deals damage with a skill, increase Haruna's Attack by 20%. Stacks up to 3 times. This effect ends when Haruna uses a skill.\nAlso, when Haruna's Attack is increased 2 times, increase party's damage by 15% for 1 turn.=Cuando un aliado inflige daño con una habilidad, aumenta el Ataque de Haruna en un 20%. Se puede acumular hasta 3 veces. Este efecto termina cuando Haruna usa una habilidad.\nAdemás, cuando el Ataque de Haruna ha aumentado 2 veces, aumenta el daño del grupo en un 15% durante 1 turno.
+
+Let's Hold Hands increases the chance of gaining <link\="s|164"><u>Childish Heart</u></link> by 20%.\nWhen using Courageous Campaign and <link\="s|164"><u>Childish Heart</u></link> stacks are at maximum, increase Attack and critical damage by 24% for 2 turns.=Tomemos las Manos aumenta la probabilidad de obtener <link\="s|164"><u>Corazón Infantil</u></link> en un 20%.\nAl usar Campaña valerosa cuando las acumulaciones de <link\="s|164"><u>Corazón Infantil</u></link> estén al máximo, aumenta el Ataque y el daño crítico en un 24% durante 2 turnos.
+
+Increase the skill levels of Courageous Campaign and Thief Tactics by 3.=Aumenta los niveles de habilidad de Campaña Valiente y Tácticas de Ladrón en 3.
+
+Highlight Enhanced: Extend damage increase duration by 2 turns.=Highlight Mejorado: Extiende la duración del aumento de daño por 2 turnos.
+
+Increase the skill levels of Surprise Squad and Ready for Adventure by 3.=Aumenta los niveles de habilidad de Escuadrón Sorpresa y Listo para la Aventura en 3.
+
+When <link\="s|164"><u>Childish Heart</u></link> reaches 5 stacks, gain Curiosity.\nCuriosity: When Haruna deals damage with a skill, increase damage by 75%. This effect ends after dealing skill damage to foes.=Cuando <link\="s|164"><u>Corazón Infantil</u></link> alcanza 5 acumulaciones, obtiene Curiosidad.\nCuriosidad: cuando Haruna inflige daño con una habilidad, aumenta el daño en un 75%. Este efecto termina después de infligir daño de habilidad a los enemigos.
+
++--Lufel (Cattle)--+
+
+r:"(?s)When using healing skills, grant <link\=(.+)><u>Starfire I</u></link>.*?Increase Attack by (\d+)% of Lufel's Attack.*?Increase Attack by (\d+)% of Lufel's Attack.*?and only 1 stack is granted\."="Al usar habilidades de curación, otorga <link\=$1><u>Fuego Estelar I</u></link> al objetivo principal durante 1 turno.\nDespués de que termine Fuego Estelar I, otorga Fuego Estelar II durante 1 turno.\nFuego Estelar I: Aumenta el Ataque en un 4% del Ataque de Lufel (hasta 160).\nFuego Estelar II: Aumenta el Ataque en un 8% del Ataque de Lufel (hasta 320).\n*Fuego Estelar no se acumula, y solo se otorga 1 acumulación."
+
+At the start of battle, inflict <link\="s|102"><u>Burn</u></link> on the foe with the highest remaining HP. Also, increase allies' <link\="s|101"><u>elemental ailment</u></link> accuracy by 33% when they have <link\="s|115"><u>Starfire</u></link>.=Al comienzo de la batalla, inflige <link\="s|102"><u>Quemadura</u></link> al enemigo con más PS restante. Además, aumenta la precisión de <link\="s|101"><u>dolencias elementales</u></link> de los aliados en un 33% cuando tengan <link\="s|115"><u>Fuego Estelar</u></link>.
+
+When healing an ally who has <link\="s|115"><u>Starfire II</u></link>, increase healing effect by 10%.=Al curar a un aliado que tenga <link\="s|115"><u>Fuego Estelar II</u></link>, aumenta el efecto de curación en un 10%.
+
+Increase the skill levels of Owl Fire and Owl Green by 2.=Aumenta los niveles de habilidad de Fuego de Búho y Verde Búho en 2.
+
+Highlight Enhanced: Increase party's Fire damage by 32% for 1 turn.=Highlight Mejorado: Aumenta el daño de Fuego del grupo un 32% durante 1 turno.
+
+Increase the skill levels of Healing Satellite and Thief Tactics by 2.=Aumenta los niveles de habilidad de Satélite de Curación y Tácticas de Ladrón en 2.
+
+After <link\="s|115"><u>Starfire II</u></link> ends, gain Starfire III for 1 turn.\nStarfire III: Increase Attack by 8% of Lufel's Attack, increase Fire damage by 20%, and increase healing received by 10%.=Después de que termine <link\="s|115"><u>Fuego Estelar II</u></link>, obtiene Fuego Estelar III durante 1 turno.\nFuego Estelar III: aumenta el Ataque en un 8% del Ataque de Lufel, aumenta el daño de Fuego en un 20% y aumenta la curación recibida en un 10%.
+
++--Motoha Arai (Closer)--+
+When Motoha deals Electric damage, 15% chance to inflict <link\="s|104"><u>Shock</u></link> on the target. Also, when dealing damage to Shocked foes, increase Attack by 30%.=Cuando Motoha inflige daño Eléctrico, tiene un 15% de probabilidad de infligir <link\="s|104"><u>Electrocución</u></link> al objetivo. Además, al infligir daño a enemigos con Electrocución, aumenta el Ataque en un 30%.
+
+Wrathful Thunder deals 1 more hit. Decrease damage to 15% for hits on the same foe.=Trueno Iracundo inflige 1 golpe más. Disminuye el daño al 15% por golpes en el mismo enemigo.
+
+Decrease damage taken from <link\="s|104"><u>Shocked</u></link> foes by 20%.=Reduce el daño recibido de los enemigos con <link\="s|104"><u>Electrocución</u></link> en un 20%.
+
+Increase the skill levels of Wrathful Thunder and Blitz Mine by 2.=Aumenta en 2 los niveles de habilidad de Trueno Iracundo y Mina Relámpago.
+
+Highlight Enhanced: Increase all foes' Electric damage taken by 20% for 2 turns.=Highlight Mejorado: Aumenta el daño eléctrico recibido de todos los enemigos un 20% durante 2 turnos.
+
+Increase the skill levels of Electroshark and Thief Tactics by 2.=Aumenta los niveles de habilidad de Electroshark y Tácticas de Ladrón en 2.
+
+Increase <link\="s|104"><u>Shocked</u></link> foes' Electric damage taken by 20%, and increase Electric critical damage taken by 20%.=Aumenta el daño Eléctrico recibido por los enemigos con <link\="s|104"><u>Electrocución</u></link> en un 20%, y aumenta el daño crítico Eléctrico recibido en un 20%.
+
++--Kotone Montagne (Mont)--+
+
+On ally's action, gain 1 <link\="s|119"><u>Ice Crystal</u></link> stack. Stacks up to 12 times. After using a skill, when Ice Crystal reaches 10 stacks, activate a <link\="s|100"><u>Resonance</u></link>, spending 10 Ice Crystal stacks to deal 65% follow-up Ice damage to the main target. This Resonance is guaranteed to be a critical hit.\nWhen using Frost Lily or Winter Storm, if the Resonance is activated, gain Parhelion.\nParhelion is used to strengthen Durandal of Ice.=Con la acción de un aliado, obtiene 1 acumulación de <link\="s|119"><u>Cristal de Hielo</u></link>. Se acumula hasta 12 veces. Después de usar una habilidad, cuando Cristal de Hielo alcanza 10 acumulaciones, activa una <link\="s|100"><u>Resonancia</u></link>, consumiendo 10 acumulaciones de Cristal de Hielo para infligir un 65% de daño de Hielo adicional al objetivo principal. Esta Resonancia garantiza un golpe crítico.\nAl usar Lirio de Escarcha o Tormenta Invernal, si la Resonancia está activa, obtiene Parhelio.\nParhelio se usa para potenciar Durandal de Hielo.
+
+At the end of Kotone's turn, gain a shield equal to 15% of Attack for 1 turn.=Al final del turno de Kotone, obtiene un escudo equivalente al 15% del Ataque durante 1 turno.
+
+Increase <link\="s|100"><u>Resonance</u></link> damage based on foe's missing HP (up to 50%).=Aumenta el daño de <link\="s|100"><u>Resonancia</u></link> según los PS que le falten al enemigo (hasta un 50%).
+
+Increase the skill levels of Frost Lily and Winter Storm by 2.=Aumenta los niveles de habilidad de Lirio de Escarcha y Tormenta Invernal en 2.
+
+Highlight Enhanced: Increase Highlight damage up to 60%.=Highlight Mejorado: Aumenta el daño de Highlight hasta un 60%.
+
+Increase the skill levels of Durandal of Ice and Thief Tactics by 2.=Aumenta los niveles de habilidad de Durandal de Hielo y Tácticas de Ladrón en 2.
+
+At the start of battle, gain 4 <link\="s|119"><u>Ice Crystal</u></link> stacks. Increase the maximum number of <link\="s|119"><u>Ice Crystal</u></link> stacks to 15.=Al comienzo de la batalla, obtiene 4 acumulaciones de <link\="s|119"><u>Cristal de Hielo</u></link>. Aumenta el número máximo de acumulaciones de <link\="s|119"><u>Cristal de Hielo</u></link> a 15.
+
++--Tomoko Noge (Moko)--+
+
+At the start of battle, gain 4 <link\="s|131"><u>Greenleaf</u></link> stacks. Stacks up to 5 times. Every 2 actions, gain 1 Greenleaf stack.=Al comienzo de la batalla, obtiene 4 acumulaciones de <link\="s|131"><u>Hojaverde</u></link>. Se acumula hasta 5 veces. Cada 2 acciones, obtiene 1 acumulación de Hojaverde.
+
+When Tomoko spends <link\="s|131"><u>Greenleaf</u></link> stacks, restore HP to the ally with the lowest HP by 15% of Tomoko's Attack.=Cuando Tomoko consume acumulaciones de <link\="s|131"><u>Hojaverde</u></link>, restaura los PS del aliado con los PS más bajos en un 15% del Ataque de Tomoko.
+
+The effect of Self-Renewal now grants 1 <link\="s|131"><u>Greenleaf</u></link> stack each action.=El efecto de Autorenovación ahora otorga 1 acumulación de <link\="s|131"><u>Hojaverde</u></link> con cada acción.
+
+Increase the skill levels of Psyche Melody and Cheering You On by 2.=Aumenta los niveles de habilidad de Melodía Psíquica y Animándote en 2.
+
+Highlight Enhanced: Increase next damage taken by target by 24%.=Highlight Mejorado: Aumenta el próximo daño recibido por el objetivo en un 24%.
+
+Increase the skill levels of Spirit's Lullaby and Thief Tactics by 2.=Aumenta los niveles de habilidad de Canción de Cuna del Espíritu y Tácticas de Ladrón en 2.
+
+Cheer Song increases 1 ally's damage by 20%, and increases ailment accuracy by 15%.=Canción de ánimo aumenta el daño de 1 aliado un 20% y la precisión de las dolencias un 15%.
+
++--Miyu Sahara (Puppet)--+
+
+When Miyu grants a shield, grant 1 <link\="s|144"><u>Seashell</u></link> stack to that ally, up to 6.\nWhen gaining a Seashell stack, increase shield received by 1% for each stack.\nWhenever reaching a set number of Seashell stacks, activate the following effects, based on Miyu's level (1/50/70+).\n2 stacks: Increase Defense by 8%/12%/16%.\n4 stacks: Increase Attack by 8%/12%/16%.\n6 stacks: Increase Defense by 12%/18%/24%.=Cuando Miyu otorga un escudo, otorga 1 acumulación de <link\="s|144"><u>Concha Marina</u></link> a ese aliado, hasta un máximo de 6.\nAl ganar una acumulación de Concha Marina, aumenta el escudo recibido en un 1% por cada acumulación.\nCada vez que se alcance un número determinado de acumulaciones de Concha Marina, activa los siguientes efectos según el nivel de Miyu (1/50/70+).\n2 acumulaciones: aumenta la Defensa en un 8%/12%/16%.\n4 acumulaciones: aumenta el Ataque en un 8%/12%/16%.\n6 acumulaciones: aumenta la Defensa en un 12%/18%/24%.
+
+At the start of battle, grant party 1 <link\="s|144"><u>Seashell</u></link> stack.=Al comienzo de la batalla, otorga a todo el grupo 1 acumulación de <link\="s|144"><u>Concha Marina</u></link>.
+
+When an ally's remaining HP is below 30%, grant them a shield equal to 28% of Miyu's Defense + 660 for 2 turns. This effect can be activated once per battle.=Cuando los PS restantes de un aliado sean inferiores al 30%, le otorga un escudo equivalente al 28% de la Defensa de Miyu + 660 durante 2 turnos. Este efecto se puede activar una vez por batalla.
+
+Increase the skill levels of Little Mermaid's Song and Poseidon's Blessing by 2.=Aumenta los niveles de habilidad de Canto de la Sirenita y Bendición de Poseidón en 2.
+
+When an ally uses a Highlight or Theurgy, grant that ally a shield equal to 16% of Miyu's Defense + 480 for 2 turns.=Cuando un aliado usa Highlight o Teurgía, le otorga un escudo igual al 16% de la Defensa de Miyu + 480 durante 2 turnos.
+
+Increase the skill level of Tide of Dreams increase by 2.=Aumenta el nivel de habilidad de Marea de Sueños en 2.
+
+Increase maximum number of <link\="s|144"><u>Seashell</u></link> stacks to 8.\nWhen Seashell reaches 8 stacks, increase damage by 20%.=Aumenta el número máximo de acumulaciones de <link\="s|144"><u>Concha Marina</u></link> a 8.\nCuando Caracola alcanza 8 acumulaciones, aumenta el daño en un 20%.
+
++--Yukimi Fujikawa (Yuki)--+
+
+At the start of battle, grant Oath to 1 random ally. After Yukimi acts, grant shield (24% of Yukimi's Def).=Al comienzo de la batalla, otorga Juramento a 1 aliado aleatorio. Después de que Yukimi actúe, otorga escudo (24% de la DEF de Yukimi).
+
+At the start of battle, grant <link\="s|121"><u>Oath</u></link> to 1 random ally.\nAt the end of Yukimi's action, grant a shield equal to 24% of Yukimi's Defense to an ally with <link\="s|121"><u>Oath</u></link>.\n*Only 1 ally can have Oath at a time.=Al comienzo de la batalla, otorga <link\="s|121"><u>Juramento</u></link> a 1 aliado al azar.\nAl final de la acción de Yukimi, otorga un escudo equivalente al 24% de la Defensa de Yukimi a un aliado con <link\="s|121"><u>Juramento</u></link>.\n*Solo 1 aliado puede tener Juramento a la vez.
+
+When an ally has <link\="s|121"><u>Oath</u></link>, increase their Defense by 15%.=Cuando un aliado tiene <link\="s|121"><u>Juramento</u></link>, aumenta su Defensa en un 15%.
+
+When an ally with <link\="s|121"><u>Oath</u></link> takes an action, gain 1 <link\="s|111"><u>Blessing</u></link> stack.=Cuando un aliado con <link\="s|121"><u>Juramento</u></link> realiza una acción, gana 1 acumulación de <link\="s|111"><u>Bendición</u></link>.
+
+Increase the skill levels of Sword of Condemnation and Sacral Glow by 2.=Aumente los niveles de habilidad de Espada de Condena y Brillo Sacro en 2.
+
+Highlight Enhanced: Grant 2 <link\="s|111"><u>Blessing</u></link> stacks to all allies.=Highlight Mejorado: Otorga 2 acumulaciones de <link\="s|111"><u>Bendición</u></link> a todos los aliados.
+
+Increase the skill levels of Absolute Judgment and Thief Tactics by 2.=Aumenta los niveles de habilidad de Juicio Absoluto y Tácticas de Ladrón en 2.
+
+Increase damage by 10% for Yukimi and allies with <link\="s|121"><u>Oath</u></link>. Increase Bless damage by 2% for each <link\="s|111"><u>Blessing</u></link> stack on Yukimi and allies with Oath (up to 20%).=Aumenta el daño en un 10% para Yukimi y los aliados con <link\="s|121"><u>Juramento</u></link>. Aumenta el daño de Bendición en un 2% por cada acumulación de <link\="s|111"><u>Bendición</u></link> en Yukimi y los aliados con Juramento (hasta un 20%).
+
++--Kotone Vientogelido (Mont-S)--+
+
+Frostgale Kotone has 2 modes: Spring and Winter. During battle, she can freely change between modes while Spring's Edge / Winter's Edge is not active. When changing modes, the attributes of her skills and Highlight change. At the start of battle, she will be in Spring mode, but if there are more allies in the party that have the Ice attribute than the Wind attribute, she will be in Winter mode.\nFor every 1 <link\="s|212"><u>Spring's Vestige</u></link> or <link\="s|213"><u>Winter's Vestige</u></link> stack she gains, permanently increase Attack by 5% (stacks up to 7 times).=Kotone Vientogélido tiene 2 modos: Primavera e Invierno. Durante la batalla, puede cambiar libremente entre modos mientras Filo Primaveral / Filo Invernal no esté activo. Al cambiar de modo, los atributos de sus habilidades e Highlight cambian. Al comienzo de la batalla, estará en modo Primavera, pero si hay más aliados en el grupo con el atributo Hielo que con el atributo Viento, estará en modo Invierno.\nPor cada acumulación de <link\="s|212"><u>Vestigios Primaveral</u></link> o <link\="s|213"><u>Vestigios Invernales</u></link> que gane, aumenta permanentemente el Ataque en un 5% (se acumula hasta 7 veces).
+
+Spring mode: Each time Spring's Edge is activated, gain 1 <link\="s|212"><u>Spring's Vestige</u></link> stack. When Spring's Edge ends, increase <link\="s|100"><u>Resonance</u></link> damage by 8% for each Spring's Vestige stack (up to 40%).\nWinter mode: Each time Winter's Edge is activated, gain 1 <link\="s|213"><u>Winter's Vestige</u></link> stack. When Winter's Edge ends, increase Resonance damage by 8% for each Winter's Vestige stack (up to 40%).=Modo Primavera: Cada vez que se activa Filo Primaveral, gana 1 acumulación de <link\="s|212"><u>Vestigios Primaveral</u></link>. Cuando Filo Primaveral termina, aumenta el daño de <link\="s|100"><u>Resonancia</u></link> en un 8% por cada acumulación de Vestigios Primaveral (hasta un 40%).\nModo Invierno: Cada vez que se activa Filo Invernal, gana 1 acumulación de <link\="s|213"><u>Vestigios Invernales</u></link>. Cuando Filo Invernal termina, aumenta el daño de Resonancia en un 8% por cada acumulación de Vestigios Invernales (hasta un 40%).
+
+Spring mode: While Spring's Edge is active, decrease all foes' Defense by 40%, and decrease party's SP costs for skills by 25%.\nWinter mode: While Winter's Edge is active, increase party's Ice damage by 30%, and decrease SP costs for skills by 25%.=Modo Primavera: Mientras Filo Primaveral está activo, disminuye la Defensa de todos los enemigos en un 40% y disminuye los costes de PE de las habilidades del grupo en un 25%.\nModo Invierno: Mientras Filo Invernal está activo, aumenta el daño de Hielo del grupo en un 30% y disminuye los costes de PE de las habilidades en un 25%.
+
+Increase the skill levels of Zephyr / Sapphire Storm and Ailes au Vent / Frozen Wings by 3.=Aumenta los niveles de habilidad de Zephyr / Tormenta de Zafiro y Ailes au Vent / Alas de Escarcha en 3.
+
+Spring mode: When activating a Highlight, if Spring's Edge is active, gain 1 more <link\="s|212"><u>Spring's Vestige</u></link> stack (this additional stack can exceed the maximum limit). If Spring's Edge is not active, increase Highlight damage by 35%.\nWinter mode: When activating a Highlight, if Winter's Edge is active, gain 1 more <link\="s|213"><u>Winter's Vestige</u></link> stack (this additional stack can exceed the maximum limit). If Winter's Edge is not active, increase Highlight damage by 35%.=Modo Primavera: Al activar un Highlight, si Filo Primaveral está activo, gana 1 acumulación más de <link\="s|212"><u>Vestigios Primaveral</u></link> (esta acumulación adicional puede superar el límite máximo). Si Filo Primaveral no está activo, aumenta el daño de Highlight en un 35%.\nModo Invierno: Al activar un Highlight, si Filo Invernal está activo, gana 1 acumulación más de <link\="s|213"><u>Vestigios Invernales</u></link> (esta acumulación adicional puede superar el límite máximo). Si Filo Invernal no está activo, aumenta el daño de Highlight en un 35%.
+
+Increase the skill levels of Éclat de Vent / Iceburst and Thief Tactics by 3.=Aumenta los niveles de Éclat de Vent / Explosión Gélida y Tácticas de Ladrón en 3.
+
+Spring mode: After activating the <link\="s|100"><u>Resonance</u></link> when Spring's Edge ends, extend the duration of Spring's Edge by 1 turn. Regain up to 2 spent <link\="s|212"><u>Spring's Vestige</u></link> stacks, and regain up to 2 stacks that exceeded the maximum limit. Afterwards, the Resonance can be activated again (the duration cannot be extended again). Also increase Resonance pierce rate by 4% for each Spring's Vestige stack (up to 20%).\nWinter mode: After activating the Resonance when Winter's Edge ends, extend the duration of Winter's Edge by 1 turn. Regain up to 2 spent <link\="s|213"><u>Winter's Vestige</u></link> stacks, and regain up to 2 stacks that exceeded the maximum limit.\nAfterwards, the Resonance can be activated again (the duration cannot be extended again). Also increase Resonance pierce rate by 4% for each Winter's Vestige stack (up to 20%).=Modo Primavera: Tras activar la <link\="s|100"><u>Resonancia</u></link> cuando termina Filo Primaveral, extiende la duración de Filo Primaveral en 1 turno. Recupera hasta 2 acumulaciones gastadas de <link\="s|212"><u>Vestigios Primaveral</u></link> y recupera hasta 2 acumulaciones que hayan superado el límite máximo. Después, la Resonancia se puede activar de nuevo (la duración no se puede extender otra vez). También aumenta la tasa de perforación de Resonancia en un 4% por cada acumulación de Vestigios Primaveral (hasta un 20%).\nModo Invierno: Tras activar la Resonancia cuando termina Filo Invernal, extiende la duración de Filo Invernal en 1 turno. Recupera hasta 2 acumulaciones gastadas de <link\="s|213"><u>Vestigios Invernales</u></link> y recupera hasta 2 acumulaciones que hayan superado el límite máximo. Después, la Resonancia se puede activar de nuevo (la duración no se puede extender otra vez). También aumenta la tasa de perforación de Resonancia en un 4% por cada acumulación de Vestigios Invernales (hasta un 20%).
+
++--Yui (Bui)--+
+
+<nobr>When an ally deals damage with a skill, there is a 35% chance to activate a <link\="s|100"><u>Resonance </u></link>, dealing Electric damage equal to 80% of Attack as a follow-up attack. After a follow-up, increase target's next Electric damage taken by 15% for 2 turns.=<nobr>Cuando un aliado inflige daño con una habilidad, hay un 35% de probabilidad de activar una <link\="s|100"><u>Resonancia </u></link>, lo que inflige daño Eléctrico equivalente al 80% del Ataque como un ataque adicional. Después de un ataque adicional, aumenta el siguiente daño Eléctrico que recibe el objetivo en un 15% durante 2 turnos.
+
+Increase critical rate of follow-up attacks by 20%. Increase critical rate by 10% after landing a follow-up attack on <link\="s|104"><u>Shocked</u></link> foes.=Aumenta la probabilidad de crítico de los ataques adicionales en un 20%. Aumenta la probabilidad de crítico en un 10% tras asestar un ataque adicional a enemigos <link\="s|104"><u>Electrocución</u></link>.
+
+After performing a follow-up attack on a foe, increase Attack of Yui and allies with Player 2 by 10% for 2 turns. Stacks up to 3 times.=Después de realizar un ataque adicional a un enemigo, aumenta el Ataque de Yui y de los aliados con Jugador 2 en un 10% durante 2 turnos. Se acumula hasta 3 veces.
+
+Increase the skill levels of Sparky Surprise and Thief Tactics by 3.=Aumenta los niveles de habilidad de Sorpresa Chispeante y Tácticas de Ladrón en 3.
+
+Highlight Enhanced: Increase critical damage of follow-up attacks by 40% for 2 turns.=Highlight Mejorado: Aumenta el daño crítico de los ataque adicional en un 40% durante 2 turnos.
+
+Increase the skill levels of Electric Bomb and Meta Dynamite by 3.=Aumenta los niveles de habilidad de Bomba Eléctrica y Dinamita Meta en 3.
+
+If only 1 foe is present, increase Yui's follow-up attack by 110% of Attack. Follow-up attack deals damage equal to 25% of Attack to all other foes.=Si solo hay 1 enemigo presente, aumenta el ataque adicional de Yui en un 110% del Ataque. El ataque adicional inflige daño equivalente al 25% del Ataque a todos los demás enemigos.
+
++--Yumi Shiina (Pheobe)--+
+
+When an ally deals damage with a skill, Resonance, Highlight, or Theurgy, Yumi gains 1 <link\="s|181"><u>Mixer</u></link> stack of the corresponding attribute.\nAfter gaining 3 Mixer stacks, change them to a <link\="s|180"><u>Cocktail</u></link> (max 3).\nIf the 3 Mixers have the same attribute, create a <link\="s|182"><u>Tailor-Made</u></link> Cocktail. If 2 are the same, create a <link\="s|183"><u>Standard</u></link> Cocktail. If all 3 are different, create a <link\="s|184"><u>Basic</u></link> Cocktail.\nWhen Yumi uses a skill, spend Cocktail stacks to activate various effects for the party and restore all allies' SP by 8.=Cuando un aliado inflige daño con una habilidad, Resonancia, Highlight o Teúrgia, Yumi obtiene 1 acumulación de <link\="s|181"><u>Mezclador</u></link> del atributo correspondiente.\nDespués de obtener 3 acumulaciones de Mezclador, estas cambian a un <link\="s|180"><u>Cóctel</u></link> (máx. 3).\nSi los 3 Mezcladores tienen el mismo atributo, crea un Cóctel <link\="s|182"><u>Hecho a Medida</u></link>. Si 2 son iguales, crea un Cóctel <link\="s|183"><u>Estándar</u></link>. Si los 3 son diferentes, crea un Cóctel <link\="s|184"><u>Básico</u></link>.\nCuando Yumi usa una habilidad, consume acumulaciones de Cóctel para activar varios efectos para el equipo y recuperar 8 de PE de todos los aliados.
+
+When gaining a <link\="s|180"><u>Cocktail</u></link>, randomly gain 1 <link\="s|181"><u>Mixer</u></link> stack of the attributes spent.\nWhen activating Tempting Build or Invigorating Blend, spend 1 <link\="s|184"><u>Basic</u></link> or <link\="s|183"><u>Standard</u></link> Cocktail to gain 1 Standard or <link\="s|182"><u>Tailor-Made</u></link> Cocktail.=Al ganar un <link\="s|180"><u>Cóctel</u></link>, gana de forma aleatoria 1 acumulación de <link\="s|181"><u>Mezclador</u></link> de los atributos gastados.\nAl activar Combinación Tentadora o Mezcla Vigorizante, gasta 1 Cóctel <link\="s|184"><u>Básico</u></link> o <link\="s|183"><u>Estándar</u></link> para ganar 1 Cóctel Estándar o <link\="s|182"><u>Hecho a Medida</u></link>.
+
+When gaining a <link\="s|180"><u>Cocktail</u></link>, increase the party's damage by 16% for 2 turns.=Al ganar un <link\="s|180"><u>Cóctel</u></link>, aumenta el daño del grupo en un 16% durante 2 turnos.
+
+Increase the skill levels of Enchanting Stir and Invigorating Blend by 3.=Aumenta los niveles de habilidad de Mezcla Encantadora y Mezcla Revitalizante en 3.
+
+When an ally uses Highlight or Theurgy, increase their Attack by 10% for 1 turn. Also, gain 1 <link\="s|182"><u>Tailor-Made</u></link> Cocktail.=Cuando un aliado usa un Highlight o Teúrgia, aumenta su Ataque en un 10% durante 1 turno. Además, obtiene 1 Cóctel <link\="s|182"><u>Hecho a Medida</u></link>.
+
+Increase the skill level of Tempting Build by 3.=Aumenta el nivel de Combinación Tentadora en 3.
+
+The maximum number of <link\="s|180"><u>Cocktail</u></link> stacks increases to 4.\nAt the start of battle, gain 1 <link\="s|182"><u>Tailor-Made</u></link> Cocktail. After every 3 Cocktails gained, gain 1 more Tailor-Made Cocktail.\nWhen spending a Tailor-Made, <link\="s|183"><u>Standard</u></link>, or <link\="s|184"><u>Basic</u></link> Cocktail to activate a skill, increase the skill effect from 120%/100%/50% up to 135%/120%/75% (includes Tempting Build, Invigorating Blend, and Moonlit Banquet).=El número máximo de acumulaciones de <link\="s|180"><u>Cóctel</u></link> aumenta a 4.\nAl comienzo de la batalla, gana 1 Cóctel <link\="s|182"><u>Hecho a Medida</u></link>. Después de cada 3 Cócteles ganados, gana 1 Cóctel A medida más.\nCuando se gasta un Cóctel A medida, <link\="s|183"><u>Estándar</u></link> o <link\="s|184"><u>Básico</u></link> para activar una habilidad, aumenta el efecto de la habilidad del 120%/100%/50% hasta el 135%/120%/75% (incluye Combinación Tentadora, Mezcla Vigorizante y Banquete a la Luz de la Luna).
+
++--Kira Kizato (Messa)--+
+
+Kitazato has 2 modes, Doctor and Ripper, and the properties of his skills change depending on the mode. He starts in Doctor mode.\nDoctor: Each time Kitazato deals damage with a skill, there is a 70% chance to inflict 1 Bleed stack on the target. When a foe with Bleed is defeated, its Bleed stacks are passed on to the foe with the highest HP. He can also spend SP to use Physical skills.\nRipper: When Kitazato uses a skill, inflict 1 Rending stack for every 3 Bleed stacks on the target.\nBleed: Each turn, deal Almighty damage equal to 1% of the target's max HP + Physical damage equal to 4% of Kitazato's Attack. This effect lasts for 4 turns and stacks up to 10 times.\nRending: Deal Physical damage based on Kitazato's Attack and Nightfall's skill level (this damage cannot deal critical hits or Down Point damage).=Kitazato tiene 2 modos, Doctor y Destripador, y las propiedades de sus habilidades cambian según el modo. Comienza en modo Doctor.\nDoctor: Cada vez que Kitazato inflige daño con una habilidad, hay un 70% de probabilidad de infligir 1 acumulación de Sangrado al objetivo. Cuando un enemigo con Sangrado es derrotado, sus acumulaciones de Sangrado se pasan al enemigo con los PS más altos. También puede gastar PE para usar habilidades Físicas.\nDestripador: Cuando Kitazato usa una habilidad, inflige 1 acumulación de Desgarro por cada 3 acumulaciones de Sangrado que tenga el objetivo.\nSangrado: Cada turno, inflige daño Todopoderoso equivalente al 1% de los PS máximos del objetivo + daño Físico equivalente al 4% del Ataque de Kitazato. Este efecto dura 4 turnos y se acumula hasta 10 veces.\nDesgarro: Inflige daño Físico basado en el Ataque de Kitazato y el nivel de habilidad de Anochecer (este daño no puede infligir golpes críticos ni daño de Derribo).
+
+In <link\="s|198"><u>Doctor</u></link> mode, the first time skill damage is dealt to each foe, inflict 5 more <link\="s|196"><u>Bleed</u></link> stacks on the target.\nIn <link\="s|199"><u>Ripper</u></link> mode, when using a skill on a foe, increase that skill's damage based on the number of debuffs on the target. When they are inflicted with 10 or more debuffs, maximize this effect and increase skill damage up to 80%. Also, multiply Bleed's Almighty damage by 1.5.=En modo <link\="s|198"><u>Doctor</u></link>, la primera vez que se inflige daño de habilidad a cada enemigo, inflige 5 acumulaciones más de <link\="s|196"><u>Sangrado</u></link>  al objetivo.\nEn modo <link\="s|199"><u>Destripador</u></link>, al usar una habilidad sobre un enemigo, aumenta el daño de esa habilidad en función del número de perjuicios que tenga el objetivo. Cuando tiene 10 o más perjuicios, maximiza este efecto y aumenta el daño de habilidad hasta en un 80%. Además, multiplica el daño Todopoderoso de Sangrado por 1.5.
+
+r:"(?s)Increase the Attack multiplier of <link\=\"s\|(\d+)\"><u>Rending</u></link> by ([\d%]+) of Kitazato's Attack\..*?Restore Kitazato's HP by ([\d%]+) of Rending damage dealt.*?(\d+) \+ (\d+) each turn\)\."="Aumenta el multiplicador de Ataque de <link\="s|$1"><u>Desgarro</u></link> en un $2 del Ataque de Kitazato. Restaura los PS de Kitazato en un $3 del daño de Desgarro infligido (hasta un máx. de Nivel de Kitazato x $4 + $5 cada turno)."
+
+Increase the skill levels of Crimson Operation / Pathology and Nightfall by 3.=Aumenta los niveles de habilidad de Operación Carmesí / Patología y Anochecer en 3.
+
+Highlight Enhanced: Increase Highlight damage by 8% for each <link\="s|196"><u>Bleed</u></link> stack inflicted on the target.=Highlight Mejorado: Aumenta el daño de Highlight en un 8% por cada acumulación de <link\="s|196"><u>Sangrado</u></link> infligida al objetivo.
+
+Increase the skill levels of Moonlit Scalpel / Midnight Surgery and Thief Tactics by 3.=Aumenta los niveles de habilidad de Bisturí Lunar / Cirugía Nocturna y Tácticas de Ladrón en 3.
+
+Increase the maximum stacks of <link\="s|196"><u>Bleed</u></link> to 13. Also, each foe will always be inflicted with 3 stacks of Bleed.\nWhen using Midnight Surgery in <link\="s|199"><u>Ripper</u></link> mode, do not remove the target's Bleed stacks. Also evolve <link\="s|197"><u>Rending</u></link> effects to Killing Frenzy, increase damage by 100%, and deal 50% damage to all other foes. Killing Frenzy can activate effects from Rending with all skills.=Aumenta las acumulaciones máximas de <link\="s|196"><u>Sangrado</u></link> a 13. Además, cada enemigo siempre sufrirá 3 acumulaciones de Sangrado.\nAl usar Cirugía de Medianoche en modo <link\="s|199"><u>Destripador</u></link>, no elimina las acumulaciones de Sangrado del objetivo. Además, evoluciona los efectos de <link\="s|197"><u>Desgarro</u></link> a Frenesí Asesino, aumenta el daño en un 100% e inflige un 50% de daño a todos los demás enemigos. Frenesí Asesino puede activar los efectos de Desgarro con todas las habilidades.
+
++--Misaki Ashiya (Cherish)--+
+
+At the start of battle, grant all allies 1 <link\="s|201"><u>Knight's Protection</u></link> shield equal to 12% of Ashiya's Defense + 120/240/360 (effect changes at Lv. 1/50/70, respectively).\nWhen an ally with Knight's Protection takes an attack, grant Ashiya 1 Heroism stack (up to 2 stacks in 1 turn). Heroism can stack up to 4 times.\nAt the start of the turn, if Heroism is at 4 stacks, spend 4 Heroism stacks to gain <link\="s|202"><u>Garden of Promises</u></link> and grant Knight's Protection again to all allies.=Al comienzo de la batalla, otorga a todos los aliados 1 escudo de <link\="s|201"><u>Protección del Caballero</u></link> equivalente al 12% de la Defensa de Ashiya + 120/240/360 (el efecto cambia al Nv. 1/50/70, respectivamente).\nCuando un aliado con Protección del Caballero recibe un ataque, otorga a Ashiya 1 acumulación de Heroísmo (hasta 2 acumulaciones en 1 turno). El Heroísmo se puede acumular hasta 4 veces.\nAl inicio del turno, si Heroísmo tiene 4 acumulaciones, gasta 4 acumulaciones de Heroísmo para ganar <link\="s|202"><u>Jardín de Promesas</u></link> y otorgar Protección del Caballero de nuevo a todos los aliados.
+
+At the start of battle, gain 3 Heroism stacks. <link\="s|202"><u>Garden of Promises</u></link> requires 3 Heroism stacks to activate.\nIncrease party's pierce rate by 20%.=Al comienzo de la batalla, gana 3 acumulaciones de Heroísmo. <link\="s|202"><u>Jardín de Promesas</u></link> requiere 3 acumulaciones de Heroísmo para activarse.\nAumenta la tasa de perforación del grupo en un 20%.
+
+Increase Defense by 15%, damage dealt by 15%, and critical damage by 10% for every <link\="s|201"><u>Knight's Protection</u></link> shield. This effect can stack up to 2 times.\nWhen the effect of Knight's Protection ends, restore the targeted ally's HP by 20% of remaining shield.=Aumenta la Defensa en un 15%, el daño infligido en un 15% y el daño crítico en un 10% por cada escudo de <link\="s|201"><u>Protección del Caballero</u></link>. Este efecto se puede acumular hasta 2 veces.\nCuando el efecto de Protección del caballero termina, restaura los PS del aliado objetivo en un 20% del escudo restante.
+
+Increase the skill levels of Frost Vines and Winter Fortress by 3.=Aumenta los niveles de habilidad de las Enredaderas Gélidas y la Fortaleza Invernal en 3.
+
+Highlight Enhanced: Increase shield granted to party by 30% (lasts for 2 turns).=Highlight Mejorado: Aumenta el escudo otorgado al grupo en un 30% (dura 2 turnos).
+
+Increase the skill levels of Hoarfrost Vow and Thief Tactics by 3.=Aumenta los niveles de Juramento de Escarcha y Tácticas de Ladrón en 3.
+
+When gaining <link\="s|202"><u>Garden of Promises</u></link>, gain Poise for 3 turns.\nPoise: Increase the party's critical rate by 15%.=Al ganar <link\="s|202"><u>Jardín de Promesas</u></link>, gana Compostura durante 3 turnos.\nCompostura: Aumenta la probabilidad crítica del grupo en un 15%.
+
++--Runa Dogenzaka (Howler)--+
+
+When Big Welcome or Furrocious Follow-Up are active, Runa can use Woof Woof Blaze.\nWhen using Woof Woof Blaze, 60% chance to decrease target's healing received by 30%/40%/50%, and Defense by 6%/12%/18% (effect changes at Lv. 1/50/70, respectively) for 2 turns.=Cuando Gran Bienvenida o Seguimiento Furroz están activos, Runa puede usar Llamarada guau guau.\nAl usar Llamarada Guau Guau, hay un 60% de probabilidad de disminuir la curación recibida del objetivo en un 30%/40%/50%, y la Defensa en un 6%/12%/18% (el efecto cambia al Nv. 1/50/70, respectivamente) durante 2 turnos.
+
+After using Woof Woof Blaze and activating the effects of Big Welcome, increase target's Fire, Ice, Electric and Wind damage taken by 36% for 2 turns. When activating the effects of Furrocious Follow-Up, increase target's <link\="s|100"><u>Resonance</u></link> damage taken by 50% for 2 turns.=Después de usar Llamarada Guau Guau y activar los efectos de Gran Bienvenida, aumenta el daño de Fuego, Hielo, Eléctrico y Viento que recibe el objetivo en un 36% durante 2 turnos. Al activar los efectos de Seguimiento furroz, aumenta el daño de <link\="s|100"><u>Resonancia</u></link> que recibe el objetivo en un 50% durante 2 turnos.
+
+When a foe has a debuff inflicted by Runa, increase target's critical damage taken by 36%, and decrease healing received by 20%.=Cuando un enemigo tiene un perjuicio infligido por Runa, aumenta el daño crítico que recibe el objetivo en un 36% y disminuye la curación recibida en un 20%.
+
+Increase the skill levels of Welcome Hug and Furrious Bark by 3.=Aumenta los niveles de habilidad de Abrazo de Bienvenida y Ladrido Feroz en 3.
+
+Highlight Enhanced: Increase number of Enthusiastic Fuse stacks inflicted on foes to 4, and increase the maximum number of stacks to 4.=Highlight Mejorado: Aumenta el número de acumulaciones de Mecha Entusiasta infligidas a los enemigos a 4, y aumenta el número máximo de acumulaciones a 4.
+
+Increase the skill levels of Woof Woof Blaze and Thief Tactics by 3.=Aumenta los niveles de habilidad de Llamarada Guau Guau y Tácticas de Ladrón en 3.
+
+r:"(?s)At the start of battle, gain Big Welcome and Furrocious Follow-Up for (\d+) turns\..*?Extend the duration of debuffs.*?by (\d+) turn\..*?increase Woof Woof Blaze's Fire, Ice, Electric, and Wind damage taken effect on all foes by ([\d%]+), increase the <link\=\"s\|(\d+)\"><u>Resonance</u></link> damage taken effect on the main target by ([\d%]+).*?"="Al comienzo de la batalla, gana Gran Bienvenida y Seguimiento Furroz durante $1 turnos.\nExtiende la duración de los perjuicios de Abrazo de Bienvenida, Ladrido Furroz y Llamarada Guau Guau en $2 turno.\nCuando Gran Bienvenida y Seguimiento Furroz están activos a la vez, aumenta el efecto de daño de Fuego, Hielo, Eléctrico y Viento recibido de Llamarada Guau Guau en un $3 para todos los enemigos, aumenta el efecto de daño de <link\="s|$4"><u>Resonancia</u></link> recibido en el objetivo principal en un $5, y se activarán ambos efectos otorgados por Gran Bienvenida y Seguimiento Furroz (los efectos de aumento de daño recibido no se acumulan y se aplica el efecto mayor)."
+
++--Mio Natsukawa (Matoi)--+
+
+Some skills and Highlight can activate <link\="s|229"><u>Ice Technical</u></link>. Also, when dealing Ice damage, ignore foes' Ice resistance.\nOn Natsukawa's action, gain 1 Extinguish stack. Stacks up to 4 times. When using Extinguishing Guidance, spend Extinguish stacks, and inflict 1 Damnation stack on all foes for each stack spent.\nDamnation: Increase damage taken by 6% for 2 turns. Stacks up to 4 times.=Algunas habilidades y el Highlight pueden activar <link\="s|229"><u>Hielo Técnico</u></link>. Además, al infligir daño de Hielo, ignora la resistencia al Hielo de los enemigos.\nEn la acción de Natsukawa, gana 1 acumulación de Extinción. Se acumula hasta 4 veces. Al usar Guía de extinción, gasta las acumulaciones de Extinción e inflige 1 acumulación de Condenación a todos los enemigos por cada acumulación gastada.\nCondenación: Aumenta el daño recibido en un 6% durante 2 turnos. Se acumula hasta 4 veces.
+
+When using Sub-Zero Torrent, gain 1 more Extinguish stack. When spending Extinguish stacks, increase all foes' critical damage taken by 30% for 2 turns.=Al usar Torrente Sub-Cero, gana 1 acumulación más de Extinción. Al gastar acumulaciones de Extinción, aumenta el daño crítico que reciben todos los enemigos en un 30% durante 2 turnos.
+
+When spending Extinguish stacks, increase party's Attack by 20%, Defense by 30%, and damage dealt by 15% for 2 turns.=Al gastar acumulaciones de Extinción, aumenta el Ataque del grupo en un 20%, la Defensa en un 30% y el daño infligido en un 15% durante 2 turnos.
+
+Increase the skill levels of Extinguishing Guidance and Thief Tactics by 3.=Aumenta los niveles de habilidad de Guía de Extinción y Tácticas de Ladrón en 3.
+
+Highlight Enhanced: Extend the duration of the damage taken increase effect by 1 turn. Also, when the Highlight activates <link\="s|231"><u>Deepfreeze</u></link>, the chance to inflict <link\="s|214"><u>Icebound</u></link> becomes 44%.=Highlight Mejorado: Extiende la duración del efecto de aumento de daño recibido en 1 turno. Además, cuando el Highlight activa <link\="s|231"><u>Congelación Profunda</u></link>, la probabilidad de infligir <link\="s|214"><u>Atadura de Hielo</u></link> pasa a ser del 44%.
+
+Increase the skill levels of Sub-Zero Torrent and Freezing Prison by 3.=Aumenta los niveles de habilidad de Torrente Sub-Cero y Prisión Helada en 3.
+
+If foes have Burn or Scald on Natsukawa's action, activate Sub-Zero Torrent on that foe 1 time.\nAlso, when the same foe is attacked repeatedly with Extinguishing Guidance or Requiem Guidance, increase the target's damage taken by 25% more for 1 turn.\nThe maximum number of Damnation stacks becomes 6.=Si los enemigos tienen Quemadura o Escaldadura en la acción de Natsukawa, activa Torrente Sub-Cero sobre ese enemigo 1 vez.\nAdemás, cuando el mismo enemigo es atacado repetidamente con Guía de Extinción o Guía de Réquiem, aumenta el daño que recibe el objetivo en un 25% más durante 1 turno.\nEl número máximo de acumulaciones de Condenación pasa a ser 6.
+
++--Yosuke Kitagawa (Fox)--+
+
+When taking damage from a foe's skill, 65% chance to activate a <link\="s|100"><u>Resonance</u></link> and counterattack, dealing Ice damage equal to 88% of Yusuke's Defense.\nEvolve this effect to <link\="s|172"><u>Imagination</u></link> by using a skill.=Al recibir daño de la habilidad de un enemigo, hay un 65% de probabilidad de activar una <link\="s|100"><u>Resonancia</u></link> y contraatacar, infligiendo daño de Hielo equivalente al 88% de la Defensa de Yusuke.\nEvoluciona este efecto a <link\="s|172"><u>Imaginación</u></link> al usar una habilidad.
+
+Every 2 times Keen Eye is used, activate <link\="s|172"><u>Imagination</u></link> 1 time as a follow-up. Counterattacks activated by this effect deal 70% of the original damage.=Cada 2 veces que se use Ojo Agudo, activa <link\="s|172"><u>Imaginación</u></link> 1 vez como ataque adicional. Los contraataques activados por este efecto infligen el 70% del daño original.
+
+When Yusuke's HP is above 70%, increase counterattack damage dealt to foes by 35%.=Cuando los PS de Yusuke estén por encima del 70%, aumenta el daño de contraataque infligido a los enemigos en un 35%.
+
+Increase the skill levels of Keen Eye and Thief Tactics by 3.=Aumenta los niveles de habilidad de Ojo Agudo y Tácticas de Ladrón en 3.
+
+<nobr>Highlight Enhanced: After using a Highlight, increase counterattack damage by 30% for 3 turns.=<nobr>Highlight Mejorado: Después de usar un Highlight, aumenta el daño de contraataque en un 30% durante 3 turnos.
+
+Increase the skill levels of Frozen Presence and Bone-Chilling Cold by 3.=Aumenta los niveles de Presencia Congelada y Frío Escalofriante en 3.
+
+<nobr>Evolve the effects of <link\="s|123"><u>Inspiration</u></link> and <link\="s|172"><u>Imagination</u></link> to <link\="s|173"><u>Vision & Emotion</u></link> and <link\="s|174"><u>Creation</u></link>.\nEach counterattack becomes 2 consecutive attacks, each dealing 90% of the original attack's damage. Also increase counterattack pierce rate by 30%.=<nobr>Evoluciona los efectos de <link\="s|123"><u>Inspiración</u></link> e <link\="s|172"><u>Imaginación</u></link> a <link\="s|173"><u>Visión y Emoción</u></link> y <link\="s|174"><u>Creación</u></link>.\nCada contraataque se convierte en 2 ataques consecutivos, infligiendo cada uno el 90% del daño del ataque original. También aumenta la tasa de perforación del contraataque en un 30%.
+
++--Goro Akechi (Crow)--+
+
+At the start of battle, grant Mastermind to the ally with the highest Attack (prioritizing Sweepers or Assassins, select Akechi if no target found). At the start of each turn, can manually reselect a target to grant Mastermind. Only 1 ally can have Mastermind at one time (reselecting has a cooldown of 1 turn). Also, increase Akechi's Attack by 25% of the Mastermind ally's Attack (up to a maximum of 500/750/1000, at level 1/50/70, respectively).\nWhen an ally besides Akechi has Mastermind and deals damage to all foes with an attack skill, Highlight, Theurgy, or <link\="s|100"><u>Resonance</u></link>, record the average damage dealt to all foes (if targeting 1 foe, record 40% of the damage dealt). At the start of Akechi's turn, gain 1 Arrow of Truth stack based on the amount of damage recorded, and reset the recorded damage. Arrow of Truth can be held for 2 turns.\nWhen Akechi has Mastermind, the effect of Rain of Justice changes, and Arrow of Truth deals Almighty damage based on the skill multiplier or Arrow of Perjury.=Al comienzo de la batalla, otorga Mente Maestra al aliado con el Ataque más alto (priorizando a los de tipo Barrendero o Asesino, selecciona a Akechi si no se encuentra ningún objetivo). Al comienzo de cada turno, se puede volver a seleccionar manualmente a un objetivo para otorgarle Mente Maestra. Solo 1 aliado puede tener Mente Maestra a la vez (volver a seleccionar tiene un tiempo de recarga de 1 turno). Además, aumenta el Ataque de Akechi en un 25% del Ataque del aliado con Mente Maestra (hasta un máximo de 500/750/1000, en el nivel 1/50/70, respectivamente).\nCuando un aliado que no sea Akechi tiene Mente Maestra e inflige daño a todos los enemigos con una habilidad de ataque, Highlight, Teúrgia, o <link\="s|100"><u>Resonancia</u></link>, registra el daño promedio infligido a todos los enemigos (si apunta a 1 solo enemigo, registra el 40% del daño infligido). Al comienzo del turno de Akechi, gana 1 acumulación de Flecha de la Verdad según la cantidad de daño registrado, y restablece el daño registrado. Flecha de la Verdad se puede mantener durante 2 turnos.\nCuando Akechi tiene Mente Maestra, el efecto de Lluvia de Justicia cambia, y Flecha de la Verdad inflige daño de un elemento Todopoderoso según el multiplicador de la habilidad o Flecha del Perjurio.
+
+At the start of battle, gain Deduction, and the durations of Deduction and Stratagem are extended to 4 turns.\nAlso, when Deduction and Stratagem are both active, increase Akechi's critical rate by 16%, and increase the damage dealt by Akechi and allies with Mastermind by 25%.=Al comienzo de la batalla, gana Deducción, y las duraciones de Deducción y Estratagema se extienden a 4 turnos.\nAdemás, cuando Deducción y Estratagema están activas a la vez, aumenta la probabilidad crítica de Akechi en un 16% y aumenta el daño infligido por Akechi y los aliados con Mente Maestra en un 25%.
+
+When dealing damage with a skill, if the attribute of the last skill used was different, increase the Attack of Akechi and allies with Mastermind by 25%, and their critical damage by 30%. Lasts for 1 turn.=Al infligir daño con una habilidad, si el atributo de la última habilidad utilizada era diferente, aumenta el Ataque de Akechi y de los aliados con Mente Maestra en un 25%, y su daño crítico en un 30%. Dura 1 turno.
+
+Increase the skill levels of Rain of Justice and Thief Tactics by 3.=Aumenta los niveles de habilidad de Lluvia de Justicia y Tácticas de Ladrón en 3.
+
+Highlight Enhanced: Increase the damage of Arrow of Perjury by 30% more for 4 turns.=Highlight Mejorado: Aumenta el daño de Flecha del Perjurio en un 30% más durante 4 turnos.
+
+Increase the skill levels of Flash of Intuition and Decisive Scheme by 3.=Aumenta los niveles de habilidad de Destello de Intuición y Plan Decisivo en 3.
+
+When using Rain of Justice, increase the effect of Arrow of Truth by 50%.\nAkechi and all allies are considered to have the Mastermind effect (the Attack increase from High School Detective is based on the ally with the highest Attack). During battle, increase Akechi's critical rate and critical damage more. This additional increase is equal to 40% of the critical rate of the Mastermind ally with the highest critical rate, and 40% of the highest critical multiplier exceeding 100% (up to a maximum of 20% and 40%, respectively).=Al usar Lluvia de Justicia, aumenta el efecto de Flecha de la verdad en un 50%.\nSe considera que Akechi y todos los aliados tienen el efecto de Mente Maestra (el aumento de Ataque de Detective de Preparatoria se basa en el aliado con el Ataque más alto). Durante la batalla, aumenta aún más la probabilidad crítica y el daño crítico de Akechi. Este aumento adicional es equivalente al 40% de la probabilidad crítica del aliado con Mente Maestra que tenga la probabilidad crítica más alta, y al 40% del multiplicador crítico más alto que supere el 100% (hasta un máximo de 20% y 40%, respectivamente).
+
++--Makoto Yuki--+
+
+Makoto has 2 Theurgy: Cadenza and Ardhanari. At the start of battle, if Makoto's Theurgy Gauge is below 35, fill up to 35.\nWhen receiving buff, healing, or shield skill effects from an ally (excluding effects that also target foes), gain 1 <link\="s|240"><u>Moon Phase</u></link> stack (up to 1 stack per turn). This effect lasts for 2 turns, and stacks up to 4 times.\nWith Moon Phase, increase pierce rate by 4%/8%/12% (effect changes at Lv. 1/50/70, respectively).=Makoto tiene 2 Teúrgias: Cadenza y Ardhanari.\nAl comienzo de la batalla, si el medidor de Teúrgia de Makoto está por debajo de 35, se llena hasta 35.\nAl recibir efectos de habilidades de mejora (buffs), curación o escudo de un aliado (excluyendo efectos que también tengan como objetivo a los enemigos), obtiene 1 acumulación de <link\="s|240"><u>Fase Lunar</u></link> (hasta 1 acumulación por turno). Este efecto dura 2 turnos y se acumula hasta 4 veces.\nCon Fase Lunar, aumenta la tasa de perforación en un 4%/8%/12% (el efecto cambia en el Nv. 1/50/70, respectivamente).
+
+Additional effects are added to the following skills.\nMelody of Flames: This skill deals 1 more hit of Fire damage.\nNocturne of Battle: Increase party's pierce rate by 10% for 2 turns.\nScarlet Hades: When this skill is activated with 4 <link\="s|240"><u>Moon Phase</u></link> stacks, increase Makoto's critical rate by 16%.=Se añaden efectos adicionales a las siguientes habilidades.\nMelodía de Llamas: Esta habilidad inflige 1 golpe más de daño de Fuego.\nNocturno de Batalla: Aumenta la tasa de perforación del grupo en un 10% durante 2 turnos.\nHades Escarlata: Cuando esta habilidad se activa con 4 acumulaciones de <link\="s|240"><u>Fase Lunar</u></link>, aumenta la probabilidad crítica de Makoto en un 16%.
+
+When Makoto has 4 <link\="s|240"><u>Moon Phase</u></link> stacks on his action, automatically activate Nocturne of Battle 1 time.\nCooldown time: 1 turn.=Cuando Makoto tiene 4 acumulaciones de <link\="s|240"><u>Fase Lunar</u></link> en su acción, activa automáticamente Nocturno de batalla 1 vez.\nTiempo de enfriamiento: 1 turno.
+
+Increase the skill levels of Melody of Flames and Nocturne of Battle by 3.=Aumenta los niveles de habilidad de Melodía de Llamas y Nocturno de Batalla en 3.
+
+Additional effects are added to the following Theurgy.\nCadenza: Increase party's damage by 10% more for 2 turns.\nArdhanari: This skill deals 2 more hits of Fire damage.=Se añaden efectos adicionales a las siguientes Teúrgias.\nCadenza: Aumenta el daño del grupo en un 10% más durante 2 turnos.\nArdhanari: Esta habilidad inflige 2 golpes más de daño de Fuego.
+
+Increase the skill levels of Scarlet Hades and Combat Tactics by 3.=Aumenta los niveles de habilidad de Hades Escarlata y Tácticas de Combate en 3.
+
+When Makoto activates a Theurgy, the effects of the other Theurgy are activated at the same time.\nIncrease skill damage dealt by spending <link\="s|241"><u>Full Moon</u></link> stacks with Scarlet Hades by 35%.\nThe first time that Makoto takes fatal damage, he enters a special near-death state and survives with 1 HP, and will be KO'd at the end of the turn. If Makoto's HP is restored above 25%, this state is removed.=Cuando Makoto activa una Teúrgia, los efectos de la otra Teúrgia se activan al mismo tiempo.\nAumenta en un 35% el daño de habilidad infligido al consumir acumulaciones de <link\="s|241"><u>Luna Llena</u></link> con Hades Escarlata.\nLa primera vez que Makoto recibe daño letal, entra en un estado especial cercano a la muerte y sobrevive con 1 PS, y quedará K.O. al final del turno. Si los PS de Makoto se restauran por encima del 25%, este estado se elimina.
+
++--Yukari Takeba--+
+
+Yukari can inflict Erosion on foes.\nWhen other allies deal skill damage to a foe inflicted with Erosion, restore HP to all allies equal to 24.5% of Yukari's Attack + 800/1600/2400 (effect changes at Lv. 1/50/70, respectively), and gain 1 Whisperwind stack (stacks up to 2 times). This effect can only activate once between the start of Yukari's turn and the start of her next turn.=Yukari puede infligir Erosion a los enemigos.\nCuando otros aliados infligen daño de habilidad a un enemigo afectado por Erosion, restauran PS a todos los aliados en una cantidad igual al 24.5% del Ataque de Yukari + 800/1600/2400 (el efecto cambia en el Nv. 1/50/70, respectivamente), y obtienen 1 acumulación de Susurro del Viento (se acumula hasta 2 veces). Este efecto solo se puede activar una vez entre el inicio del turno de Yukari y el inicio de su siguiente turno.
+
+At the start of battle, gain up to the maximum number of Whisperwind stacks, and fill Theurgy gauge by 70. If the Theurgy gauge is increased above the maximum on the first turn, up to 35 above the maximum can be reserved.\nAlso, when using a skill on an ally, increase the main target's pierce rate by 20% more for 2 turns. If using Tailwind's Breath, restore 1200 more HP to all allies, and restore 30% more HP to the main target.=Al inicio de la batalla, obtiene hasta el número máximo de acumulaciones de Susurro del Viento y llena el indicador de Teúrgia en 70. Si el indicador de Teúrgia aumenta por encima del máximo en el primer turno, se pueden reservar hasta 35 por encima del máximo.\nAdemás, al usar una habilidad en un aliado, aumenta la tasa de perforación del objetivo principal en un 20% más durante 2 turnos. Si usa Aliento de Viento a Favor, restaura 1200 más de PS a todos los aliados y restaura un 30% más de PS al objetivo principal.
+
+When activating a Theurgy, nullify spiritual ailments on Yukari, and also increase party's critical damage by 30%. Lasts for 2 turns.=Al activar una Teúrgia, anula las dolencias espirituales de Yukari y también aumenta el daño crítico del grupo en un 30%. Dura 2 turnos.
+
+Increase the skill levels of Gale Burst and Arrow of Life by 3.=Aumenta los niveles de habilidad de Ráfaga de Viento y Flecha de la Vida en 3.
+
+When using a Theurgy, also restore HP to the ally with the lowest HP by 5% of Yukari's Attack + 500, and also increase party's damage by 10% for 2 turns.=Al usar una Teúrgia, también restaura PS al aliado con los PS más bajos en una cantidad igual al 5% del Ataque de Yukari + 500, y también aumenta el daño del grupo en un 10% durante 2 turnos.
+
+Increase the skill levels of Tailwind's Breath and Combat Tactics by 3.=Aumenta los niveles de habilidad de Aliento de Viento a Favor y Tácticas de Combate en 3.
+
+Double the Theurgy gauge increase from Arrow of Life.\nAlso, when an ally uses a Theurgy, increase critical damage by 30% for 2 turns.=Duplica el aumento del indicador de Teúrgia de Flecha de la Vida.\nAdemás, cuando un aliado usa una Teúrgia, aumenta el daño crítico en un 30% durante 2 turnos.
+
++--Akihiko Sanada--+
+
+At the start of battle, gain 2 Mettle stacks. Also, when dealing Electric damage with a skill or Theurgy, gain 1 Mettle stack. Stacks up to 12 times.\nAt the start of Sanada's turn, he can spend 6 Mettle stacks to activate Flash Blow 1 time.\nFlash Blow: Deal Physical damage to all foes equal to 55.9% of Attack, and increase downed foes' damage taken by 8% for 1 turn. This skill is counted as a Resonance. Also, gain 1 Grit stack.\nGrit: Increase pierce rate by 4%. Stacks up to 3 times.=Al comienzo de la batalla, obtienes 2 acumulaciones de Bravura. Además, al infligir daño eléctrico con una habilidad o Teúrgia, obtienes 1 acumulación de Bravura. Se acumula hasta 12 veces.\nAl comienzo del turno de Sanada, puede gastar 6 acumulaciones de Bravura para activar Golpe Relámpago 1 vez.\nGolpe Relámpago: Inflige daño físico a todos los enemigos equivalente al 55.9% del Ataque, y aumenta el daño recibido de los enemigos derribados en un 8% durante 1 turno. Esta habilidad se considera una Resonancia. Además, obtienes 1 acumulación de Determinación.\nDeterminación: Aumenta la tasa de perforación en un 4%. Se acumula hasta 3 veces.
+
+At the start of battle, increase the Theurgy gauge by 70.\nWhen gaining Grit stacks, increase critical rate by 20%.=Al comienzo de la batalla, aumenta el indicador de Teúrgia en 70.\nAl obtener acumulaciones de Determinación, aumenta la probabilidad crítica en un 20%.
+
+When dealing damage to downed foes, increase <link\="s|243"><u>Down Bonus</u></link> by 10%.\nAfter spending Mettle stacks to activate Flash Blow, increase Sanada's damage by 30% for 3 turns.=Al infligir daño a enemigos derribados, aumenta el <link\="s|243">Bono de Derribo</u></link> en un 10%.\nDespués de gastar acumulaciones de Bravura para activar Golpe Relámpago, aumenta el daño de Sanada en un 30% durante 3 turnos.
+
+Increase the skill levels of Spark Impact and Lightning Fist by 3.=Aumenta los niveles de habilidad de Impacto Eléctrico y Puño Relámpago en 3.
+
+When activating a Theurgy, increase critical damage by 50% (between a minimum of 300% and maximum of 400%).=Al activar una Teúrgia, aumenta el daño crítico en un 50% (entre un mínimo de 300% y un máximo de 400%).
+
+Increase the skill levels of Blitzkrieg and Combat Tactics by 3.=Aumenta los niveles de habilidad de Guerra Relámpago y Táctica de Combate en 3.
+
+At the start of battle, gain 6 Mettle stacks. The maximum number of Mettle stacks is increased to 18. Also, for each Grit stack gained, increase Sanada's damage by 8%. The maximum number of Grit stacks is increased to 4.\nWhen spending Grit to use Lightning Fist, also activate Finishing Blow 1 time.\nFinishing Blow: Based on the number of Grit stacks spent during Sanada's turn, deal Electric damage to all foes equal to 13.5% of Attack for each stack, with <link\="s|244"><u>Ignore Defense</u></link>. This skill is counted as a Resonance, and is guaranteed to activate a critical. Also, gain 1 Grit stack.=Al comienzo de la batalla, obtienes 6 acumulaciones de Bravura. El número máximo de acumulaciones de Bravura aumenta a 18. Además, por cada acumulación de Determinación obtenida, aumenta el daño de Sanada en un 8%. El número máximo de acumulaciones de Determinación aumenta a 4.\nAl gastar Determinación para usar Puño relámpago, también se activa Golpe de Gracia 1 vez.\nGolpe de Gracia: Según la cantidad de acumulaciones de Determinación gastadas durante el turno de Sanada, inflige daño eléctrico a todos los enemigos equivalente al 13.5% del Ataque por cada acumulación, con <link\="s|244">Ignorar Defensa</u></link>. Esta habilidad se considera una Resonancia, y se garantiza que active un golpe crítico. Además, obtienes 1 acumulación de Determinación.
+
++--Hatsune Miku--+
+
+During battle, Miku can change the battle scenery and song playing during her allies' turns, and her skill effects are enhanced based on the current song playing. When Miku's skills become available, the current song will automatically switch.\nWhen using Feel the Beat or Clear Sound on songs where Miku has already gained the corresponding <link\="s|301"><u>Track</u></link>, reapply the same additional effect.=Durante la batalla, Miku puede cambiar el escenario de batalla y la canción que se está reproduciendo durante los turnos de sus aliados, y los efectos de sus habilidades se potencian según la canción actual. Cuando las habilidades de Miku estén disponibles, la canción actual cambiará automáticamente.\nAl usar Siente el Ritmo o Sonido Claro en canciones donde Miku ya haya obtenido la <link\="s|301"><u>Pista</u></link> correspondiente, vuelve a aplicar el mismo efecto adicional.
+
+Gain <link\="s|272"><u>Skill Amplification</u></link> equal to 15%.\nWhen <link\="s|302"><u>Virtual Concert is activated</u></link>, reset all allies' Highlight cooldowns.\nWhen Virtual Concert is active, increase Highlight and Theurgy <link\="s|236"><u>Final Damage Amplification</u></link> by 10%, and double the rate at which the Highlight and Theurgy gauges are filled.=Obtiene <link\="s|272"><u>Amplificación de Habilidad</u></link> igual al 15%.\nCuando se activa <link\="s|302"><u>Concierto Virtual</u></link>, restablece los tiempos de recarga de Highlight de todos los aliados.\nCuando Concierto Virtual está activo, aumenta la <link\="s|236"><u>Amplificación de Daño Final</u></link> de Highlight y Teúrgia en un 10%, y duplica la velocidad con la que se llenan los medidores de Highlight y Teúrgia.
+
+When <link\="s|302"><u>Virtual Concert</u></link> is activated, grant all effects of Feel the Beat and Clear Sound for 2 turns.\nWhen Virtual Concert is active, increase party's <link\="s|236"><u>Final Damage Amplification</u></link> by 8%.=Cuando se activa <link\="s|302"><u>Concierto Virtual</u></link>, otorga todos los efectos de Siente el Ritmo y Sonido Claro durante 2 turnos.\nCuando Concierto Virtual está activo, aumenta la <link\="s|236"><u>Amplificación de Daño Final</u></link> del equipo en un 8%.
+
+Increase the skill levels of Feel the Beat and Showstopper by 3.=Aumenta los niveles de habilidad de Siente el Ritmo y Atracción Principal en 3.
+
+When an ally activates a Highlight or Theurgy, increase that ally's Attack by 25% for 2 turns.=Cuando un aliado activa un Highlight o Teúrgia, aumenta el Ataque de ese aliado en un 25% durante 2 turnos.
+
+Increase the skill level of Clear Sound by 3.=Aumenta el nivel de la habilidad Sonido Claro en 3.
+
+When <link\="s|302"><u>Virtual Concert</u></link> ends, all foes take a fixed amount of Almighty damage equal to 100% of each target's total damage taken during Virtual Concert.=Cuando termina <link\="s|302"><u>Concierto Virtual</u></link>, todos los enemigos reciben una cantidad fija de daño Todopoderoso igual al 100% del daño total recibido por cada objetivo durante Concierto Virtual.
+
++--Minami Flor Costera--+
+
+Beachflower Minami has 3 kinds of <link\="s|247"><u>Everyday Medicine</u></link>.\nWhen using medicine on allies, restore HP to the main target equal to 8% of Beachflower Minami's max HP.\nWhen using Gentle Sea Breeze, grant 1 Midsummer Prescription stack (stacks up to 1 time). At the start of Beachflower Minami's turn, she can spend 1 Midsummer Prescription stack to gain Flower Basket Pharmacy.\nFlower Basket Pharmacy: Use medicine without spending a turn, and extend the duration of <link\="s|248"><u>Potent Medicine</u></link> used by 1 turn. After using medicine 1 time, lose this effect.=Minami Flor Costera tiene 3 tipos de <link\="s|247"><u>Medicina Diaria</u></link>.\nAl usar medicina en aliados, restaura PS al objetivo principal equivalentes al 8% de los PS máximos de Minami Flor Costera.\nAl usar Brisa Marina Suave, otorga 1 acumulación de Receta de Pleno Verano (se acumula hasta 1 vez). Al comienzo del turno de Minami Flor Costera, puede consumir 1 acumulación de Receta de Pleno Verano para obtener Farmacia de la Canasta de Flores.\nFarmacia de la Canasta de Flores: Usa medicina sin consumir un turno, y extiende la duración de la <link\="s|248"><u>Medicina Potente</u></link> usada en 1 turno. Después de usar medicina 1 vez, pierde este efecto.
+
+When using Gentle Sea Breeze, gain 1 more Midsummer Prescription stack. Midsummer Prescription now stacks up to 2 times (only 1 Midsummer Prescription stack can be used in a turn).\nIncrease the effects of medicine used by Beachflower Minami by 20%.=Al usar Brisa Marina Suave, obtiene 1 acumulación más de Receta de Pleno Verano. Ahora Receta de Pleno Verano se acumula hasta 2 veces (solo se puede usar 1 acumulación de Receta de Pleno Verano por turno).\nAumenta los efectos de la medicina usada por Minami Flor Costera en un 20%.
+
+When using Beach Basket, inflict Perplexing Petals on the target.\nPerplexing Petals: Decrease the target's Defense by 30%, and increase critical damage taken by 30% for 3 turns.=Al usar Canasta Playera, inflige Pétalos Desconcertantes al objetivo.\nPétalos Desconcertantes: Reduce la Defensa del objetivo en un 30% y aumenta el daño crítico recibido en un 30% durante 3 turnos.
+
+Increase the skill levels of Beach Basket and Gentle Sea Breeze by 3.=Aumenta los niveles de habilidad de Canasta Playera y Brisa Marina Suave en 3.
+
+Highlight Enhanced: Extend the duration of all buffs granted by Highlight to 3 turns. Also, when using medicine, increase medicine effects by 5%.=Highlight Mejorado: Extiende la duración de todas las mejoras otorgadas por Highlight a 3 turnos. Además, al usar medicina, aumenta los efectos de la medicina en un 5%.
+
+Increase the skill levels of Summer Garden and Thief Tactics by 3.=Aumenta los niveles de habilidad de Jardín Veraniego y Tácticas de Ladrón en 3.
+
+When using any medicine, items are not spent upon use.\nExtend the duration of <link\="s|248"><u>Potent Medicine</u></link> effects by 1 turn. Also, when using medicine on allies with Flower Basket Pharmacy, also grant Summertime Refresh to the main target.\nSummertime Refresh: Increase final damage amplification by 15% for 1 turn.=Al usar cualquier medicina, los objetos no se consumen con el uso.\nExtiende la duración de los efectos de <link\="s|248"><u>Medicina Potente</u></link> en 1 turno. Además, al usar medicina en aliados con Farmacia de la Canasta de Flores, también otorga Refresco de Verano al objetivo principal.\nRefresco de Verano: Aumenta la amplificación de daño final en un 15% durante 1 turno.
+
++--Miyu Atrapaolas--+
+
+Wavecatcher Miyu can enter <link\="s|249"><u>Surf</u></link> state, spending SP to automatically attack foes.\nIncrease Wavecatcher Miyu's max SP to 200, and at the start of battle, set her SP to 0. At the start of other allies' turns, restore 15 SP to Wavecatcher Miyu (affected by SP Recovery).\nDuring battle, based on the total of her recovered SP (including SP above the maximum), gain the following effects.\n100: Increase Attack by 25%.\n200: Increase damage by 25%.\n300: Increase critical rate by 12%.\n400: Increase critical damage by 24%.=Miyu Atrapaolas puede entrar en el estado <link\="s|249"><u>Surf</u></link>, consumiendo PE para atacar automáticamente a los enemigos.\nAumenta el PE máx. de Miyu Atrapaolas a 200 y, al comienzo de la batalla, establece su PE en 0. Al comienzo del turno de otros aliados, restaura 15 de PE a Miyu Atrapaolas (afectado por Recuperación de PE).\nDurante la batalla, según el total de su PE recuperado (incluido el PE que supere el máximo), obtiene los siguientes efectos.\n100: Aumenta el Ataque un 25%.\n200: Aumenta el daño un 25%.\n300: Aumenta la probabilidad de crítico un 12%.\n400: Aumenta el daño crítico un 24%.
+
+Decrease SP cost of <link\="s|250"><u>Catch a Wave</u></link> by 40%, and increase max <link\="s|251"><u>Offshore</u></link> stacks by 2.\nWhen <link\="s|249"><u>Surf</u></link> is active, extend duration of all buffs/debuffs applied by 1 turn.=Reduce el coste de PE de <link\="s|250"><u>Atrapar una Ola</u></link> un 40% y aumenta las acumulaciones máx. de <link\="s|251"><u>Alta Mar</u></link> en 2.\nCuando <link\="s|249"><u>Surf</u></link> está activo, extiende la duración de todos los efectos de mejoras (buffs) y negativos (debuffs) aplicados en 1 turno.
+
+While <link\="s|249"><u>Surf</u></link> is active, increase Wavecatcher Miyu's critical damage by 20%.\nEvery 4 times <link\="s|250"><u>Catch a Wave</u></link> is activated, activate a special Catch a Wave 1 more time without spending SP. This Catch a Wave does not count toward skill activation counts, and cannot grant <link\="s|251"><u>Offshore</u></link> stacks.=Mientras <link\="s|249"><u>Surf</u></link> esté activo, aumenta el daño crítico de Miyu Atrapaolas un 20%.\nCada 4 veces que se active <link\="s|250"><u>Atrapar una Ola</u></link>, activa un Atrapar una Ola especial 1 vez más sin consumir PE. Este Atrapar una Ola no cuenta para el recuento de activaciones de habilidades y no puede otorgar acumulaciones de <link\="s|251"><u>Alta Mar</u></link>.
+
+Increase the skill levels of Paddle Out and Thief Tactics by 3.=Aumenta los niveles de las habilidades Remada hacia el Mar y Tácticas de Ladrón en 3.
+
+Highlight Enhanced: Increase Wavecatcher Miyu's Resonance damage by 30% for 2 turns.=Highlight Mejorado: Aumenta el daño de Resonancia de Miyu Atrapaolas un 30% durante 2 turnos.
+
+Increase the skill levels of Jellyfish Splash and Aerial Tide by 3.=Aumenta los niveles de las habilidades Salpicadura de Medusa y Marea Aérea en 3.
+
+Increase Wavecatcher Miyu's max SP by 250 more.\nAt the start of battle, recover max SP, and enter <link\="s|249"><u>Surf</u></link> state. Also increase max <link\="s|251"><u>Offshore</u></link> stacks by 2.\nAdditional effects are added to the following skills.\nJellyfish Splash: Increase SP recovered when used by 50%.\nAerial Tide: Surf state is not removed after using this skill, and Offshore stacks are lost after the turn ends. When stacks are lost, recover max SP.=Aumenta el PE máx. de Miyu Atrapaolas en 250 más.\nAl comienzo de la batalla, recupera todo el PE máx. y entra en el estado <link\="s|249"><u>Surf</u></link>. También aumenta las acumulaciones máx. de <link\="s|251"><u>Alta Mar</u></link> en 2.\nSe añaden efectos adicionales a las siguientes habilidades:\nSalpicadura de Medusa: Aumenta el PE recuperado al usarla un 50%.\nMarea Aérea: El estado Surf no se elimina tras usar esta habilidad, y las acumulaciones de Alta Mar se pierden al finalizar el turno. Cuando se pierden las acumulaciones, recupera todo el PE máx.
+
++--Ichigo Shikano--+
+
+The first time Ichigo activates Vorpal Butterfly, gain 1 Chains of Love stack. Also, each time she activates a Highlight, gain 1 Chains of Love stack. Chains of Love stacks up to 3 times.\nGain the following effects based on the number of Chains of Love stacks.\n1: For each <link\="s|246"><u>Lovesick</u></link> stack inflicted, increase target's damage taken by 4%.\n2: Increase critical rate by 15%. Also, all of Ichigo's skill damage is counted as continuous damage.\n3: Increase continuous damage by 25%.=La primera vez que Ichigo active Mariposa Vorpal, obtiene 1 carga de Cadenas de Amor. Además, cada vez que active su Highlight, obtiene 1 carga de Cadenas de Amor. Las Cadenas de Amor se acumulan hasta 3 veces.\nObtén los siguientes efectos según las cargas de Cadenas de Amor:\n1: Por cada carga de <link\="s|246"><u>Mal de Amores</u></link> aplicada, aumenta un 4% el daño que recibe el objetivo.\n2: +15% de probabilidad de crítico. Además, el daño de todas las habilidades de Ichigo cuenta como daño continuo.\n3: El daño continuo aumenta un 25%.
+
+For each <link\="s|246"><u>Lovesick</u></link> stack inflicted, decrease target's Defense by 3%.\nAlso, each time a skill is used, inflict 1 more Lovesick stack on the target.=Por cada carga de <link\="s|246"><u>Mal de Amores</u></link> aplicada, la Defensa del objetivo disminuye un 3%.\nAdemás, cada vez que se use una habilidad, aplica 1 carga extra de Mal de Amores al objetivo.
+
+At the start of battle, gain 1 Chains of Love stack.\nChains of Love now stacks up to 5 times, and gain the following effects based on the number of stacks.\n4: Increase critical damage by 36%.\n5: The first time Ichigo takes fatal damage, survive with 1 HP and enter a special near-death state, and gain 4 Poder of Love stacks. At the end each ally's turn, spend 1 Poder of Love stack, and after all Poder of Love stacks have been spent, Ichigo will be KO'd.=Al inicio de la batalla, obtiene 1 carga de Cadenas de Amor.\nCadenas de Amor ahora se acumula hasta 5 veces y otorga los siguientes efectos según las cargas:\n4: El daño crítico aumenta un 36%.\n5: La primera vez que reciba daño fatal, sobrevive con 1 PS, entra en un estado especial de agonía y obtiene 4 cargas de Poder del Amor. Al final del turno de cada aliado, consume 1 carga; al agotarse todas las cargas de Poder del Amor, Ichigo quedará fuera de combate.
+
+Increase the skill levels of My Beloved Prince and Thief Tactics by 3.=Aumenta en 3 el nivel de las habilidades Mi Amado Príncipe y Tácticas de Ladrón.
+
+Highlight Enhanced: Each time her Highlight is activated, permanently increase Ichigo's Attack by 6%. Stacks up to 5 times.=Highlight mejorado: Cada vez que se active su Highlight, aumenta permanentemente el Ataque de Ichigo un 6% (acumulable hasta 5 veces).
+
+Increase the skill levels of Vorpal Butterfly and Obsessive Rose by 3.=Aumenta en 3 el nivel de las habilidades Mariposa Vorpal y Rosa Obsesiva.
+
+<link\="s|246"><u>Lovesick</u></link> now stacks up to 15 times.\nBased on the total number of Chains of Love stacks, the following effects can be activated. \n1: After activating Vorpal Butterfly, activate Vorpal Butterfly 1 more time on the selected target.\n2: After activating Obsessive Rose, activate Obsessive Rose 1 more time on the selected target.\n3: After activating My Beloved Prince, activate My Beloved Prince 1 more time on the selected target.\n4: During Ichigo's turn, can activate Highlight 1 time on the selected target without spending the Highlight gauge (not affected by Highlight cooldown time).\n(Each effect can activate only once during battle. If a target is defeated or the skill is nullified, reflected, or absorbed, a different target is selected for the skill effect.)=<link\="s|246"><u>Mal de Amores</u></link> ahora se acumula hasta 15 veces.\nSegún el total de cargas de Cadenas de Amor, se activan los siguientes efectos:\n1: Tras usar Mariposa Vorpal, la activa 1 vez más contra el objetivo seleccionado.\n2: Tras usar Rosa Obsesiva, la activa 1 vez más contra el objetivo seleccionado.\n3: Tras usar Mi Amado Príncipe, la activa 1 vez más contra el objetivo seleccionado.\n4: Durante su turno, Ichigo puede activar su Highlight 1 vez contra el objetivo seleccionado sin consumir la barra (no le afecta su tiempo de recarga).\n(Cada efecto solo se activa una vez por batalla. Si el objetivo es derrotado o la habilidad se anula, refleja o absorbe, el efecto seleccionará a un rival distinto).
